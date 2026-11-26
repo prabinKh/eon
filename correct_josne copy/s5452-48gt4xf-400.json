@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "All-gigabit PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/all-gigabit-poe-switch",
+    "tab_title": "All-gigabit PoE Switch",
+    "tab_id": "8397",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "All-gigabit PoE Switch",
+      "All-gigabit PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "146143",
+    "product_name": "S5452-48GT4XF-400",
+    "product_title": "52-Port L2+ Managed Switch with 48-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s5452-48gt4xf-400",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11337/ProductImage/1_0_01_20_11337_516344853_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s5452-48gt4xf-400.html",
+  "detail": {
+    "title": "52-Port L2+ Managed Switch with 48-Port PoE",
+    "model": "S5452-48GT4XF-400",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11337/ProductImage/1_0_01_20_11337_516344853_crop_thumb.png",
+        "alt": "S5452-48GT4XF-400",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s5452-48gt4xf-400"
+  }
+}

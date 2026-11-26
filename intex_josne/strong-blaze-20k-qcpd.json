@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "Power Bank",
+    "subcategory_url": "https://www.intex.in/collections/power-bank",
+    "series": "Power Bank Series",
+    "series_url": "https://www.intex.in/collections/power-bank-series",
+    "tab_title": "Power Bank",
+    "tab_id": "8650859610330",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "Power Bank",
+      "Strong Blaze QC PD 20K Power Bank"
+    ]
+  },
+  "card_info": {
+    "product_id": "8650859610330",
+    "product_name": "Strong Blaze QC PD 20K Power Bank",
+    "product_title": "Strong Blaze QC PD 20K Power Bank",
+    "product_url": "https://www.intex.in/products/strong-blaze-20k-qcpd",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20-pdqc-black-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4999.0,
+      "display": "₹4,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/strong-blaze-20k-qcpd.html",
+  "detail": {
+    "title": "Strong Blaze QC PD 20K Power Bank",
+    "model": "20K",
+    "brand": "Intex",
+    "overview": "The Intex Strong Blaze QC PD 20K Power Bank is built for power users who need reliable charging on the go. With a high-capacity 20000mAh Li-Polymer battery, it ensures extended power backup for your smartphones, tablets, and other USB devices. Equipped with 22W fast charging, it supports Quick Charge (QC) and Power Delivery (PD) for efficient and rapid charging. The dual USB and Type-C output allow you to charge multiple devices simultaneously, while smart IC protection safeguards against overcharging and discharging. Featuring LED power indicators and a sleek, lightweight design, this power bank is your perfect travel companion.",
+    "features": [
+      "20000mAh Li-Polymer battery capacity",
+      "3X output with dual USB + Type-C ports",
+      "22W fast charging with QC PD",
+      "Smart IC protection for enhanced safety",
+      "Overcharge and over-discharge protection",
+      "Power indicator LEDs for real-time battery status",
+      "Lightweight and travel-friendly design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20-pdqc-black-1.jpg",
+        "alt": "Strong Blaze QC PD 20K Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20-pdqc-black-2.jpg",
+        "alt": "Strong Blaze QC PD 20K Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20-pdqc-white-1.jpg",
+        "alt": "Strong Blaze QC PD 20K Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20-pdqc-white-2.jpg",
+        "alt": "Strong Blaze QC PD 20K Power Bank",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "20000mAh Li-Polymer battery capacity",
+        "Feature 2": "3X output with dual USB + Type-C ports",
+        "Feature 3": "22W fast charging with QC PD",
+        "Feature 4": "Smart IC protection for enhanced safety",
+        "Feature 5": "Overcharge and over-discharge protection",
+        "Feature 6": "Power indicator LEDs for real-time battery status",
+        "Feature 7": "Lightweight and travel-friendly design"
+      },
+      "General": {
+        "Model": "20K"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/strong-blaze-20k-qcpd"
+  }
+}

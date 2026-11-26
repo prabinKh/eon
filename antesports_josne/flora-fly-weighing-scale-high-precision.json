@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Flora Fly Personal Weighing Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816630051",
+    "product_name": "Flora Fly Personal Weighing Scale",
+    "product_title": "Flora Fly Personal Weighing Scale",
+    "product_url": "https://antesports.com/products/flora-fly-weighing-scale-high-precision",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/69.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/flora-fly-weighing-scale-high-precision.html",
+  "detail": {
+    "title": "Flora Fly Personal Weighing Scale",
+    "model": "ANTR0174",
+    "brand": "Ant Esports",
+    "overview": "The Ant Flora Fly is a personal weighing scale built with a tempered glass platform and high-precision sensors for consistent, accurate readings every time you step on. A large LCD display makes the number easy to read without squinting, and an auto on/off function conserves battery by powering down automatically when not in use. Its slim, durable build fits neatly into any bathroom or bedroom corner, offering dependable everyday weight tracking backed by an extended 40-month warranty for genuine long-term reliability.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/69.png",
+        "alt": "Flora Fly Personal Weighing Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Platform": "Tempered Glass",
+        "Sensors": "High Precision",
+        "Display": "Large LCD",
+        "Power": "Auto On/Off",
+        "Warranty Period": "40 Months",
+        "PLATFORM": "Tempered Glass",
+        "SENSORS": "High Precision",
+        "DISPLAY": "Large LCD",
+        "POWER": "Auto On/Off",
+        "WARRANTY PERIOD": "40 Months",
+        "Offer Price (INR)": "₹449.00",
+        "MRP (INR)": "₹2,199.00",
+        "SKU": "ANTR0174"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/flora-fly-weighing-scale-high-precision"
+  }
+}

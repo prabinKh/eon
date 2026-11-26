@@ -1,0 +1,194 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "X-Spans Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/x-spans-series",
+    "tab_title": "Project",
+    "tab_id": "18225",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "X-Spans Series",
+      "Project"
+    ]
+  },
+  "card_info": {
+    "product_id": "129167",
+    "product_name": "SDT5X425-4Z4-FAJG-2812",
+    "product_title": "4MP 25x Starlight IR WizMind Network Dual-PTZ Camera for Traffic",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt5x425-4z4-fajg-2812",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14517/ProductImage/1_0_01_07_14517_1060608727_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sdt5x425-4z4-fajg-2812.html",
+  "detail": {
+    "title": "4MP 25x Starlight IR WizMind Network Dual-PTZ Camera for Traffic",
+    "model": "SDT5X425-4Z4-FAJG-2812",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SDT5X425-4Z4-FAJG-2812 4MP 25x Starlight IR WizMind Network Dual-PTZ Camera for Traffic Key Points • Captures a Large Area and Great Details at the Same Time • High-Quality Imaging with 4MP Resolution for Overview Channel, 4MP for Detailed Channel • 2 Lane Checkpoin Capture with Wrong-Way and Congestion Detection • Supports Monitoring Parking Zones with Multi-Scene Tour and Vehicle Recognition • Support Hi-PoE • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14517/ProductImage/1_0_01_07_14517_1060608727_crop_thumb.png",
+        "alt": "SDT5X425-4Z4-FAJG-2812_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14517/ProductImage/1_0_01_07_14517_927417409_crop_thumb.png",
+        "alt": "SDT5X425-4Z4-FAJG-2812_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14517/ProductImage/1_0_01_07_14517_1060608726_thumb.png",
+        "alt": "SDT5X425-4Z4-FAJG-2812_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14517/ProductImage/1_0_01_07_14517_927371113_crop_thumb.png",
+        "alt": "SDT5X425-4Z4-FAJG-2812_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "General": {
+        "Image Sensor": "Panorama: 1/1.8\" CMOS Detail: 1/1.8\" CMOS",
+        "Max. Resolution": "2688 (H) x 1520 (V)",
+        "Effective Pixels": "Panorama: 4MP Detail: 4MP",
+        "ROM": "8 GB",
+        "RAM": "4 GB",
+        "Electronic Shutter Speed": "Panorama: 1/3 s–1/100000 s Detail: 1/1 s–1/100000 s",
+        "Scanning Mode": "Progressive",
+        "Min. Illumination": "Panorama: Color: 0.001 Lux@F1.6 B/W: 0.0001 Lux@F1.6 Detail: Color: 0.001 Lux@F1.6 B/W: 0.0001 Lux@F1.6 0 Lux (IR light on)",
+        "Illumination Distance": "Panorama (white light): 30 m (98.43 ft) Detail (IR light): 100 m (328.08 ft)",
+        "Illuminator On/Off Control": "Panorama: Zoom Prio; Manual; Auto; Off Detail: Zoom Prio; Manual; Auto; Off",
+        "Illuminator Number": "Panorama: 4 white lights Detail: 4 IR lights",
+        "Focal Length": "Panorama: 2.8 mm–12 mm Detail: 5.4 mm–135 mm",
+        "Max. Aperture": "Panorama: F1.3–F2.0 Detail: F1.6–F4.0",
+        "Field of View": "Panorama: H: 99.2°–45.8°; V: 59.7°–27°; D: 110.4°–51.7° Detail: H: 58°–3.5°; V: 35°–2°; D: 64°–4°",
+        "Optical Zoom": "Panorama: 4x Detail: 25x",
+        "Focus Control": "Auto/Semi-Auto/Manual",
+        "Close Focus Distance": "Panorama: 1 m–2.5 m (3.28 ft–8.20 ft) Detail: 0.5 m–7 m (1.64 ft–22.97 ft)",
+        "Iris Control": "Panorama: Auto Detail: Auto",
+        "DORI Distance": "Lens",
+        "Panorama": "129 m (423.23 ft)",
+        "Detail": "1688 m (5538.06 ft)",
+        "Pan/Tilt Range": "Panorama: Pan: 0°–360° endless; Tilt: 0°–30° Detail: Pan: 0°–305° (the angle between two cameras: -125° to +180°); Tilt: -10°–180°",
+        "Manual Control Speed": "Panorama: Pan: 0.1°/s–100°/s; Tilt: 0.1°/s–25°/s Detail: Pan: 0.1°/s–400°/s; Tilt: 0.1°/s–200°/s",
+        "Preset Speed": "Panorama: Pan: 100°/s; Tilt: 50°/s Detail: Pan: 360°/s; Tilt: 200°/s",
+        "Presets": "300",
+        "Tour": "8 (up to 32 preset per tour)",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset;Tour;Scan",
+        "PTZ Protocol": "DH-SD Pelco-P/D(Auto recognition)",
+        "Illegal Parking Capture": "Capture range radius: 4 m–60 m (13.12 ft–196.85 ft) (panoramic linkage mode), 120 m (393.70 ft) (detail camera); support adaptive multi-scenario tour detection; 2–6 snapshots can be set, and the capture interval can be set between each capturing; snapshot type includes long-distance, medium-distance, close-distance, and plate feature; support vehicle type, color, logo, series, license plate, plate color and other attribute recognition; support panorama-detail linkage capture, and multi-scenario tour; supports panoramic fixed capture, while detail camera capturing illegal parking, and independent multi-scenario tour.",
+        "Checkpoint Capture": "Detects events for up to 2 lanes. Detects wrong-way driving and traffic congestion. Recognizes motor vehicle attributes, including license plates, plate color, vehicle color, and vehicle type.",
+        "Intelligence Note": "ANPR of illegally parked vehicle: Supports adaptively loading its corresponding license plate recognition algorithm according to the area selected; integrate overseas general recognition algorithms to support license plate recognition containing letters and numbers; integrate special license plate recognition algorithm in EU; integrate Singapore and Malaysia special license plate recognition algorithms; integrate special license plate recognition algorithms for UAE, Saudi Arabia, Morocco, Oman, Egypt, Iraq, and Jordan",
+        "Video Compression": "Smart H.265+;H.265;Smart H.264+;H.264;H.264B; H.264H;MJPEG(Sub Stream)",
+        "Streaming Capability": "3 Streams",
+        "Resolution": "Panorama: 4M (2688 × 1520); 4M (2560 × 1440); 1080p (1920 × 1080); 960p (1280 × 960); 720p (1280 × 720); D1 (704× 576) VGA (640 × 480); CIF (352 × 288) Detail: 4M (2688 × 1520); 4M (2560 × 1440); 1080p (1920 × 1080); 960p (1280 × 960); 720p (1280 × 720); D1 (704 × 576); VGA (640 × 480); CIF (352 × 288)",
+        "Video Frame Rate": "Panoramic: Main stream: 4M/1080p/1.3M/720p (1–25/30 fps) Sub stream 1: D1/VGA/CIF (1–25/30 fps) Sub stream 2: 1080p/1.3M/720p/CIF (1–25/30 fps) Detail: Main stream: 4M/1080p/1.3M/720p (1–25/30 fps) Sub stream 1: D1/VGA/CIF (1–25/30 fps) Sub stream 2: 1080p/1.3M/720p/CIF (1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 512 Kbps–13056 Kbps H.265: 204 Kbps–7936 Kbps",
+        "Day/Night": "Panorama: Auto (ICR) Detail: Auto (ICR)",
+        "BLC": "Yes",
+        "WDR": "Panoramic: 120dB Detail: 120dB",
+        "HLC": "Yes",
+        "White Balance": "Panorama: Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp Detail: Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Defog": "Electronic",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "S/N Ratio": "Panorama: ≥ 55 dB Detail: ≥ 55 dB",
+        "Certification": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpartB,ANSI C63.4- 2014\"",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; AAC; MPEG2-Layer2; G722.1; G729",
+        "Audio In": "1 channel (LINE IN, bare wire)",
+        "Audio Out": "1 channel (LINE OUT,bare wire)",
+        "Alarm I/O": "2/1",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "HTTP;HTTPS;IPv4;RTSP;UDP;SMTP;NTP;DHCP;DNS;DDNS;IPv6;802.1x;Qos;FTP;UPnP;ICMP;SNMP;SNMPv1/v2c/v3(MIB-2);IGMP;ARP;RTCP;RTP;PPPoE;RTMP;TCP",
+        "Interoperability": "ONVIF;CGI",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP; Micro SD card (512 GB)",
+        "Browser": "IE9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Management Software": "Cyber City",
+        "Mobile Client": "iOS; Android",
+        "Power Supply": "36 VDC/2.23 A ± 25% Hi-PoE",
+        "Power Consumption": "Basic: 21 W Max.: 40 W (PTZ, zoom, focus, IR light, white light, and smart plan enabled)",
+        "Operating Temperature": "–40 °C to +65 °C (–40 °F to +149 °F)",
+        "Operating Humidity": "≤95% (RH)",
+        "Protection": "IP67; IK10; TVS 8000 V lightning protection; surge protection; voltage transient protection",
+        "Dimensions": "385 mm × Φ277 mm (15.16\" × Φ10.91\")",
+        "Net Weight": "9 kg (19.84 lb)",
+        "Gross Weight": "13.8 kg (30.42 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70457/datasheet/SDT5X425-4Z4-FAJG-2812_S0_datasheet_20260325.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70457/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70457/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-08-23 #A&E Document SDT5X425-4Z4-FAJG-2812_A&E_20260917203348 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70457/a_e_document/1789648923744.docx"
+      },
+      {
+        "name": "2023-03-21 #Drawings SDT5X425-4Z4-FAJG-2812_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27787/drawings/SDT5X425-4Z4-QA-0832_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-06-17 #Drawings SDT5X425-4Z4-FAJG-2812_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27777/drawings/SDT5X405-4F-QA-0600_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-04-29 #Firmware DH_SD-Faraday_MultiLang_PN_Stream3-LingxiTraffic_V3.200.0000009.3.R.250311 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3145047/M/DH_SD-Faraday_MultiLang_PN_Stream3-LingxiTraffic_V3.200.0000009.3.R.250311.zip"
+      },
+      {
+        "name": "2023-07-08 #Firmware General_SDT5XXXX-HN-WA-V1_MCU_V2.401.0000001.57.R.221213 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2240990/M/General_SDT5XXXX-HN-WA-V1_MCU_V2.401.0000001.57.R.221213.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt5x425-4z4-fajg-2812"
+  }
+}

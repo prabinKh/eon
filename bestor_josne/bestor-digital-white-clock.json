@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Accessories",
+    "category_url": "https://bestor.in/collections/accessories",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://bestor.in/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://bestor.in/collections/accessories-series",
+    "tab_title": "Accessories",
+    "tab_id": "9618153275699",
+    "breadcrumbs": [
+      "Home",
+      "Accessories",
+      "Accessories",
+      "Bestor Digital White Clock"
+    ]
+  },
+  "card_info": {
+    "product_id": "9618153275699",
+    "product_name": "Bestor Digital White Clock",
+    "product_title": "Bestor Digital White Clock",
+    "product_url": "https://bestor.in/products/bestor-digital-white-clock",
+    "card_image": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/BestorClock.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 0.0,
+      "display": null,
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "bestor/products/bestor-digital-white-clock.html",
+  "detail": {
+    "title": "Bestor Digital White Clock",
+    "model": "BST-ALM-CLK-WH",
+    "brand": "Bestor",
+    "overview": "Round Desktop Digital Thermometer Hygrometer with Clock | Indoor Temperature and Humidity Monitor for Home, Office, Bedroom",
+    "features": [
+      "(Open Product) 8.5 Inch LCD Writing Tablet Drawing Pad, Colorful Screen Doodle Board for... (Open Product) 8.5 Inch LCD Writing Tablet Drawing Pad, Colorful Screen Doodle Board for... Regular price Rs. 749.00 Sale price Rs. 199.00",
+      "1.5 m Type C Cable 1.5 m Type C Cable Regular price Rs. 699.00 Sale price Rs. 249.00",
+      "1.5m Aux Cable 1.5m Aux Cable Regular price Rs. 799.00 Sale price Rs. 249.00",
+      "10 in 1 USB C HUB 10 in 1 USB C HUB Rs. 13,999.00"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/BestorClock.jpg",
+        "alt": "Bestor Digital White Clock",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/Bestor_Clock_1.jpg",
+        "alt": "Bestor Digital White Clock",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/Bestor_Clock_2.jpg",
+        "alt": "Bestor Digital White Clock",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/Artboard_9.png",
+        "alt": "Bestor Digital White Clock",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/Artboard_7.png",
+        "alt": "Bestor Digital White Clock",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "(Open Product) 8.5 Inch LCD Writing Tablet Drawing Pad, Colorful Screen Doodle Board for... (Open Product) 8.5 Inch LCD Writing Tablet Drawing Pad, Colorful Screen Doodle Board for... Regular price Rs. 749.00 Sale price Rs. 199.00",
+        "Feature 2": "1.5 m Type C Cable 1.5 m Type C Cable Regular price Rs. 699.00 Sale price Rs. 249.00",
+        "Feature 3": "1.5m Aux Cable 1.5m Aux Cable Regular price Rs. 799.00 Sale price Rs. 249.00",
+        "Feature 4": "10 in 1 USB C HUB 10 in 1 USB C HUB Rs. 13,999.00"
+      },
+      "General": {
+        "Model": "BST-ALM-CLK-WH"
+      }
+    },
+    "downloads": [
+      {
+        "name": "WARRANTY, REFUND & REPLACEMENT POLICY",
+        "url": "https://bestor.in/pages/warranty-refund-replacement-policy/warranty-refund-replacement-policy-8negl7xq"
+      }
+    ],
+    "source_url": "https://bestor.in/products/bestor-digital-white-clock"
+  }
+}

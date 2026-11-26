@@ -1,0 +1,212 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 3 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series",
+    "tab_title": "Anti-Corrosion",
+    "tab_id": "118224",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 3 Series",
+      "Anti-Corrosion"
+    ]
+  },
+  "card_info": {
+    "product_id": "154395",
+    "product_name": "IPC-HDW3649H-AS-PV-PRO-ATC",
+    "product_title": "6MP WizColor TiOC PRO Fixed-focal Anti-corrosion Eyeball WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/anti-corrosion/ipc-hdw3649h-as-pv-pro-atc",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737076_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdw3649h-as-pv-pro-atc.html",
+  "detail": {
+    "title": "6MP WizColor TiOC PRO Fixed-focal Anti-corrosion Eyeball WizSense Network Camera",
+    "model": "IPC-HDW3649H-AS-PV-PRO-ATC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDW3649H-AS-PV-PRO-ATC 6MP WizColor TiOC PRO Fixed-focal Anti-corrosion Eyeball WizSense Network Camera Key Points • High-Quality Imaging with 6 MP Resolution • Exceptional Image Quality in Low-Light Environments by WizColor Technology • Red & Blue Warning Lights and Alarm Sounds for Active Deterrence • Xinghan Vision Models: Comprehensive Enhancement of Target Detection, Imaging • Enhanced Deep Learning-Based Human and Vehicle Classification • AcuPick Enables Fast and Precise Human&Vehicle Search • Built-in Dual Mic & Speaker: Secure Real-Time Talk • IP67 and Anti-Corrosion Design (NEMA 4X, C5-H) for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737076_crop_thumb.PNG",
+        "alt": "IPC-HDW3649H-AS-PV-PRO-ATC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737079_crop_thumb.PNG",
+        "alt": "IPC-HDW3649H-AS-PV-PRO-ATC_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737077_crop_thumb.PNG",
+        "alt": "IPC-HDW3649H-AS-PV-PRO-ATC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737078_crop_thumb.PNG",
+        "alt": "IPC-HDW3649H-AS-PV-PRO-ATC_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737074_crop_thumb.PNG",
+        "alt": "IPC-HDW3649H-AS-PV-PRO-ATC_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/image/1_0_01_04_47894_892737075_crop_thumb.PNG",
+        "alt": "IPC-HDW3649H-AS-PV-PRO-ATC_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 197,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "70.2 m( 230.31 ft)",
+        "3.6 mm": "85.6 m( 280.84 ft)"
+      },
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "AcuPick": {},
+      "AI SSA": {},
+      "Face Detection (Full Image)": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "LDC": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Anti-Corrosion Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/datasheet/DH-IPC-HDW3649H-AS-PV-PRO-ATC_S0_datasheet_20260923_English.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Eyeball Network Camera Installation Guide_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88034/user_manual/Eyeball_Network_Camera_Installation_Guide_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Dahua Eyeball Network Camera_Quick Start Guide_V1.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88034/user_manual/Dahua_Eyeball_Network_Camera_Quick_Start_Guide_V1.0.5.pdf"
+      },
+      {
+        "name": "2026-01-12 #A&E Document IPC-HDW3649H-AS-PV-PRO-ATC_A&E_20260921113921 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86215/a_e_document/1789962052797.docx"
+      },
+      {
+        "name": "2025-12-30 #Drawings IPC-HDW3649H-AS-PV-PRO-ATC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88034/drawings/1_0_01_04_49886_884500144.pdf"
+      },
+      {
+        "name": "2026-01-24 #Drawings IPC-HDW3649H-AS-PV-PRO-ATC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86213/drawings/1_0_01_04_47892_909333558.pdf"
+      },
+      {
+        "name": "2026-09-22 #Firmware DH_IPC-HX3XXX-Goethe_MultiLang_PN_Stream3_V3.140.0000000.38.R.260911 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87602/firmware/DH_IPC-HX3XXX-Goethe_MultiLang_PN_Stream3_V3.140.0000000.38.R.260911.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/anti-corrosion/ipc-hdw3649h-as-pv-pro-atc"
+  }
+}

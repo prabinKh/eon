@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "Apex 400 Hot-Swappable Keyboard - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346758078755",
+    "product_name": "Apex 400 Hot-Swappable Keyboard - White",
+    "product_title": "Apex 400 Hot-Swappable Keyboard - White",
+    "product_url": "https://antesports.com/products/apex-400-stream-deck-keyboard-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_9c7ea740-8c2e-484c-89c8-3c54404979c9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/apex-400-stream-deck-keyboard-white.html",
+  "detail": {
+    "title": "Apex 400 Hot-Swappable Keyboard - White",
+    "model": "AEPP0329",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Apex 400 is an all-in-one mechanical keyboard and stream deck built for creators, streamers and gamers who want more than typing out of their desk setup. It combines fast mechanical typing with 6 programmable LCD macro keys featuring dynamic displays and multiple profiles, alongside 3 multifunction rotary dials for quick control over OBS, Discord, Photoshop, Spotify and everyday productivity shortcuts. Hot-swappable low-force 47±5gf linear switches deliver smooth, quiet keystrokes with built-in sound-dampening layers, while 18 customizable RGB lighting effects and dual-angle ergonomic adjustment (6°/13°) round out a genuinely versatile creative tool, finished here in a clean white shell. Cross-platform software for Windows and macOS lets you fully customize keys, macros, RGB and dial functions to match any workflow.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_9c7ea740-8c2e-484c-89c8-3c54404979c9.png",
+        "alt": "Apex 400 Hot-Swappable Keyboard - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_8ae9dd7c-2c86-4ac6-b477-8147bedab738.png",
+        "alt": "Apex 400 Hot-Swappable Keyboard - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_78926c90-e99d-44a6-bf8d-9d64aae2195b.png",
+        "alt": "Apex 400 Hot-Swappable Keyboard - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Macro Keys": "6 LCD Macro Keys, Multi-Profile",
+        "Control Dials": "3 Rotary Dials",
+        "Switches": "Hot-Swappable, 47±5gf Linear",
+        "Lighting": "18 RGB Effects",
+        "Ergonomics": "Adjustable 6°/13° Angle",
+        "Software": "Windows & macOS",
+        "Color": "White",
+        "MACRO KEYS": "6 LCD Macro Keys, Multi-Profile",
+        "CONTROL DIALS": "3 Rotary Dials",
+        "SWITCHES": "Hot-Swappable, 47±5gf Linear",
+        "LIGHTING": "18 RGB Effects",
+        "ERGONOMICS": "Adjustable 6°/13° Angle",
+        "SOFTWARE": "Windows & macOS",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹7,499.00",
+        "MRP (INR)": "₹12,999.00",
+        "SKU": "AEPP0329"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/apex-400-stream-deck-keyboard-white"
+  }
+}

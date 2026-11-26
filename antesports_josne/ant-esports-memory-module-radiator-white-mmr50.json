@@ -1,0 +1,87 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "MMR50 MEMORY MODULE RADIATOR - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416994083",
+    "product_name": "MMR50 MEMORY MODULE RADIATOR - White",
+    "product_title": "MMR50 MEMORY MODULE RADIATOR - White",
+    "product_url": "https://antesports.com/products/ant-esports-memory-module-radiator-white-mmr50",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2W_8c9d7c8a-481e-4a27-b746-499a0777e66c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-memory-module-radiator-white-mmr50.html",
+  "detail": {
+    "title": "MMR50 MEMORY MODULE RADIATOR - White",
+    "model": "MMR50",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS MMR50 Memory Module Radiator is designed to improve heat dissipation for desktop RAM modules while enhancing the appearance of your gaming PC. Featuring a premium aluminum alloy construction with a sleek black anodized finish, it helps maintain efficient cooling during intensive workloads and gaming sessions. The MMR50 is easy to install and is compatible with most standard desktop DDR memory modules, making it an ideal upgrade for enthusiasts looking to improve both performance and aesthetics.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2W_8c9d7c8a-481e-4a27-b746-499a0777e66c.png",
+        "alt": "MMR50 MEMORY MODULE RADIATOR - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3W_bcf9ce8e-de6e-4809-8f23-97e67d9ac6d1.png",
+        "alt": "MMR50 MEMORY MODULE RADIATOR - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4W_42c04fef-50af-43a7-b816-bd91928daa83.png",
+        "alt": "MMR50 MEMORY MODULE RADIATOR - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1W_86a75c20-f6ab-4c25-85fe-889bf27f1e2c.png",
+        "alt": "MMR50 MEMORY MODULE RADIATOR - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Category": "Memory Module Radiator",
+        "Model": "MMR50",
+        "Color": "White",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "Memory Module Radiator",
+        "MODEL": "MMR50",
+        "COLOR": "White",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹1,349.00",
+        "MRP (INR)": "₹2,299.00",
+        "SKU": "AEPP0172"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-memory-module-radiator-white-mmr50"
+  }
+}

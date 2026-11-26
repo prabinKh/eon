@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Memory Card",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/memory-card",
+    "series": "C100 microSD Card",
+    "series_url": "https://www.dahuasecurity.com/products/memory/memory-card/c100-microsd-card",
+    "tab_title": "C100 microSD Card",
+    "tab_id": "12217",
+    "breadcrumbs": [
+      "Memory",
+      "Memory Card",
+      "C100 microSD Card",
+      "C100 microSD Card"
+    ]
+  },
+  "card_info": {
+    "product_id": "61657",
+    "product_name": "TF-C100/256GB",
+    "product_title": "C100 microSD Memory Card",
+    "product_url": "https://www.dahuasecurity.com/products/memory/memory-card/c100-microsd-card/tf-c100/256gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210316/DHI-TF-C100256GB_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/256gb.html",
+  "detail": {
+    "title": "C100 microSD Memory Card",
+    "model": "TF-C100/256GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TF-C100/256GB C100 microSD Memory Card Key Points 1.Warranty 7 years and highly compatible with various systems and electronic device Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210316/DHI-TF-C100256GB_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "General": {
+        "Product Model": "DHI-TF-C100/32GB",
+        "Capacity": "32 GB",
+        "Read Speed": "Up to 90 MB/s",
+        "Write Speed": "Up to 15 MB/s",
+        "Speed Rating": "C10/U1/V10",
+        "UHS": "UHS-I",
+        "TBW": "16TB",
+        "File System": "FAT32",
+        "Operating Temperature": "0 °C to +70 °C (+32 °F to +158 °F)",
+        "Storage Temperature": "–25°C to +85°C (–13°F to +185°F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Four Types of Protection": "High and low temperature resistant, waterproof, anti-magnetic, and anti X-ray",
+        "Compatibility": "Game consoles, mobile phones, tablets, digital stereo systems, computers, and more.",
+        "Warranty": "7-year limited warranty. The limited warranty requires that the product use does not exceed the maximum write amount of TBW. For detailed specifications and warranty policies, please refer to the official website.",
+        "Product Dimensions": "15.0 mm × 11.0 mm × 1.0 mm (0.59\" × 0.43\" × 0.04\")",
+        "Packaging Dimensions": "120 mm × 80 mm × 5.8 mm ( 4.72\" × 3.15\" × 0.23\" )",
+        "Net Weight": "0.16 g",
+        "Gross Weight": "8.5 g",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not all for data storage. According to internal testing, the transmission speed varies with the devices, ports, environments, and other factors. 3. Warranty period or maximum write amount (TBW), whichever comes first. *Above data based on internal testing of Zhejiang Huayixin Technology Co., Ltd Laboratory"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/TF-C100_256GB_datasheet_20231031.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual Installation diagram of microSD memory card Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86633/user_manual/Installation_diagram_of_microSD_memory_card.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual Dahua memory micro SD Card Quick Exercise Manual-English Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86633/user_manual/Dahua_memory_micro_SD_Card_Quick_Exercise_Manual-English.pdf"
+      },
+      {
+        "name": "2022-12-21 #Drawings TF-C100/256GB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86630/drawings/TF-W100-32GB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/memory-card/c100-microsd-card/tf-c100/256gb"
+  }
+}

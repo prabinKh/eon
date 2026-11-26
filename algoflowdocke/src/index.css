@@ -1,0 +1,452 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  :root {
+    /* EON TECHNOLOGY Official Brand Color Harmony:
+       - DEEP BRONZE: #5B4632 (hsl(29 29% 28%))
+       - CHAMPAGNE GOLD: #F4D9A0 (hsl(41 79% 79%))
+       - RADIANT COPPER: #CB792C (hsl(29 64% 48%))
+       - INK FOREGROUND: #1E1E1E (hsl(0 0% 12%))
+       - SOFT GREY: #F7F5F2
+    */
+    --brand-bronze: 29 29% 28%; /* #5B4632 */
+    --brand-gold: 41 79% 79%;   /* #F4D9A0 */
+    --brand-copper: 29 64% 48%; /* #CB792C */
+
+    --background: 35 15% 97%;
+    --foreground: 29 20% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 29 20% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 29 20% 15%;
+
+    /* PRIMARY BRAND COPPER: #CB792C */
+    --primary: 29 64% 48%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 38 40% 94%;
+    --secondary-foreground: 29 29% 28%;
+
+    --muted: 35 18% 94%;
+    --muted-foreground: 29 18% 42%;
+
+    --accent: 38 40% 94%;
+    --accent-foreground: 29 29% 28%;
+
+    /* Status Indicators */
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 142 71% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+
+    /* Border & Rings with warm undertone */
+    --border: 35 15% 88%;
+    --input: 35 15% 88%;
+    --ring: 29 64% 48%;
+
+    --radius: 0.75rem;
+    --radius-outer: 18px;
+    --radius-inner: 12px;
+
+    --shadow-sm: 0 1px 2px rgba(91,70,50,0.04), 0 0 0 1px rgba(91,70,50,0.02);
+    --shadow-md: 0 4px 14px -2px rgba(91,70,50,0.08), 0 1px 2px rgba(91,70,50,0.03);
+    --shadow-lg: 0 14px 28px -6px rgba(91,70,50,0.12), 0 2px 6px rgba(91,70,50,0.04);
+    --shadow-xl: 0 24px 48px -12px rgba(91,70,50,0.18), 0 4px 10px rgba(91,70,50,0.06);
+    --shadow-glow: 0 0 24px -4px hsl(29 64% 48% / 0.38);
+    --shadow-gold-glow: 0 0 30px -4px hsl(41 79% 79% / 0.45);
+  }
+
+  .dark {
+    --background: 29 25% 8%;
+    --foreground: 41 40% 95%;
+    --card: 29 24% 11%;
+    --card-foreground: 41 40% 95%;
+    --popover: 29 24% 11%;
+    --popover-foreground: 41 40% 95%;
+    --primary: 29 70% 52%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 29 20% 15%;
+    --secondary-foreground: 41 50% 90%;
+    --muted: 29 20% 15%;
+    --muted-foreground: 35 15% 65%;
+    --accent: 29 20% 15%;
+    --accent-foreground: 41 50% 90%;
+    --destructive: 14 90% 55%;
+    --destructive-foreground: 210 40% 98%;
+    --success: 152 69% 42%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+    --border: 29 20% 18%;
+    --input: 29 20% 18%;
+    --ring: 29 70% 52%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-body antialiased selection:bg-primary/20;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-tight leading-tight;
+  }
+}
+
+@layer components {
+  .neo-container {
+    @apply w-full max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .responsive-grid {
+    @apply grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3 sm:gap-4 lg:gap-6;
+  }
+
+  .product-card {
+    @apply relative flex flex-col gap-2 p-2.5 sm:p-3.5 rounded-[var(--radius-outer)]
+           bg-card border-2 border-black/10 dark:border-white/20
+           hover:border-primary/40 hover:shadow-[0_20px_40px_-12px_rgba(0,0,0,0.1),0_0_20px_-4px_hsl(var(--primary)/0.15)]
+           transition-all duration-500 mechanical-curve overflow-hidden;
+    background-image: radial-gradient(circle at top right, transparent, transparent);
+  }
+
+  .product-card:hover {
+    transform: translateY(-8px);
+    background-image: radial-gradient(circle at top right, hsl(var(--primary) / 0.05), transparent);
+  }
+
+  .product-card-image {
+    @apply aspect-square bg-gradient-to-br from-accent/30 to-muted/30 rounded-[var(--radius-inner)] overflow-hidden
+           flex items-center justify-center p-2 sm:p-4 relative transition-colors duration-500;
+  }
+
+  .product-card:hover .product-card-image {
+    @apply from-primary/5 to-primary/10;
+  }
+
+  .fluid-text-xs {
+    @apply text-[10px] sm:text-[11px] md:text-xs;
+  }
+
+  .fluid-text-sm {
+    @apply text-xs sm:text-[13px] md:text-sm;
+  }
+
+  .fluid-text-base {
+    @apply text-sm sm:text-base;
+  }
+
+  .fluid-text-lg {
+    @apply text-base sm:text-lg md:text-xl;
+  }
+
+  .spec-label {
+    @apply fluid-text-xs uppercase tracking-wider font-mono text-muted-foreground bg-accent/50 px-1.5 py-0.5 rounded;
+  }
+
+  .price-display {
+    @apply font-mono tabular-nums font-bold text-primary tracking-tighter;
+  }
+
+  .price-original {
+    @apply font-mono tabular-nums text-muted-foreground/60 line-through;
+  }
+
+  .section-title {
+    @apply text-xl sm:text-2xl md:text-3xl lg:text-4xl font-display font-bold tracking-tighter text-foreground;
+  }
+
+  .deal-section-glow {
+    @apply relative;
+  }
+
+  .deal-section-glow::before {
+    content: '';
+    @apply absolute -inset-1 bg-gradient-to-r from-primary/10 via-destructive/10 to-primary/10 rounded-[2.6rem] blur-2xl opacity-40 -z-10;
+  }
+
+  .neo-badge {
+    @apply inline-flex items-center px-1.5 py-0.5 rounded-md fluid-text-xs uppercase tracking-wider font-mono font-bold;
+  }
+
+  .neo-badge-sale {
+    @apply neo-badge bg-destructive text-destructive-foreground shadow-sm animate-pulse;
+  }
+
+  .neo-badge-new {
+    @apply neo-badge bg-primary text-primary-foreground shadow-sm;
+  }
+
+  .neo-badge-trust {
+    @apply neo-badge bg-success/10 text-success border border-success/20;
+  }
+
+  .stock-progress-bar {
+    @apply h-1 w-full bg-muted rounded-full overflow-hidden mt-1;
+  }
+
+  .stock-progress-fill {
+    @apply h-full bg-destructive transition-all duration-1000;
+  }
+
+  .neo-badge-stock {
+    @apply neo-badge bg-warning/20 text-warning border border-warning/20;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground px-5 sm:px-8 py-2.5 sm:py-3 rounded-xl font-bold text-sm
+           transition-all duration-300 active:scale-[0.95]
+           hover:shadow-[var(--shadow-glow)] hover:brightness-110
+           shadow-[0_2px_0_rgba(255,255,255,0.1)_inset,var(--shadow-sm)];
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 px-5 sm:px-8 py-2.5 sm:py-3 border-2 border-border rounded-xl font-bold text-sm text-foreground
+           hover:bg-accent hover:border-primary/30 transition-all duration-300 active:scale-[0.95];
+  }
+
+  .card-hover-glow:hover {
+    box-shadow: 0 0 30px -5px hsl(var(--primary) / 0.2), var(--shadow-lg);
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  /* Custom Scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #e2e8f0;
+    border-radius: 10px;
+  }
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #cbd5e1;
+  }
+
+  .mechanical-curve {
+    transition-timing-function: cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  .text-gradient-primary {
+    @apply bg-gradient-to-br from-primary to-primary/70 bg-clip-text text-transparent;
+  }
+  .animate-slide-in-left {
+    animation: slide-in-left 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  .animate-slide-in-right {
+    animation: slide-in-right 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+}
+
+@keyframes slide-in-left {
+  from { transform: translateX(-20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes slide-in-right {
+  from { transform: translateX(20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+/* Product Navbar Dropdowns & Hover Effects */
+.nav-dropdown-wrapper {
+  position: relative;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.nav-dropdown-panel {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  padding-top: 6px;
+  z-index: 100;
+}
+
+.nav-dropdown-wrapper:hover .nav-dropdown-panel,
+.nav-dropdown-wrapper:focus-within .nav-dropdown-panel,
+.nav-dropdown-wrapper.is-open .nav-dropdown-panel {
+  display: block;
+}
+
+.nav-dropdown-card {
+  min-width: 260px;
+  background-color: hsl(var(--card) / 0.98);
+  backdrop-filter: blur(16px);
+  border: 1px solid hsl(var(--border));
+  border-radius: 14px;
+  box-shadow: 0 20px 30px -8px rgba(0, 0, 0, 0.15), 0 8px 10px -4px rgba(0, 0, 0, 0.05);
+  padding: 8px;
+  animation: dropdown-fade-in 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes dropdown-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.nav-dropdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 9px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: hsl(var(--foreground));
+  text-decoration: none;
+  transition: all 0.16s ease-in-out;
+}
+
+.nav-dropdown-item:hover {
+  background-color: hsl(var(--primary) / 0.12);
+  color: hsl(var(--primary));
+  padding-left: 16px;
+}
+
+/* Neoteric Design System Utilities */
+.font-neoteric {
+  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.section-pre-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: hsl(var(--primary));
+}
+
+.section-pre-title::before,
+.section-pre-title::after {
+  content: '';
+  display: inline-block;
+  height: 2px;
+  width: 32px;
+  background-color: currentColor;
+  opacity: 0.6;
+}
+
+.section-pre-title.text-white::before,
+.section-pre-title.text-white::after {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.neoteric-overlap-card {
+  transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+  border-bottom: 3px solid transparent;
+}
+
+.neoteric-overlap-card:hover {
+  transform: translateY(-6px);
+  border-bottom-color: hsl(var(--primary));
+  box-shadow: 0 16px 32px -8px rgba(0, 0, 0, 0.12);
+}
+
+.channel-view-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.825rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: hsl(var(--primary));
+  transition: all 0.2s ease;
+}
+
+.channel-view-btn:hover {
+  color: hsl(var(--primary) / 0.85);
+  gap: 10px;
+}
+
+/* ── Brand Color Palette & Letter Lighting Utilities ──
+   #5B4632 (Bronze Umber) | #F4D9A0 (Champagne Gold) | #CB792C (Radiant Copper)
+   With beautiful letter illumination and lighting text effects
+*/
+.text-lighting {
+  color: #FFFFFF;
+  text-shadow: 0 0 24px rgba(244, 217, 160, 0.45), 0 2px 10px rgba(91, 70, 50, 0.6);
+}
+
+.text-lighting-gold {
+  color: #F4D9A0;
+  text-shadow: 0 0 20px rgba(244, 217, 160, 0.5), 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.text-lighting-copper {
+  color: #CB792C;
+  text-shadow: 0 0 22px rgba(203, 121, 44, 0.45);
+}
+
+.letter-lighting {
+  letter-spacing: -0.02em;
+  text-shadow: 0 0 20px rgba(244, 217, 160, 0.4), 0 0 35px rgba(203, 121, 44, 0.25);
+}
+
+.text-gradient-gold-light {
+  background: linear-gradient(135deg, #FFFFFF 0%, #F4D9A0 55%, #CB792C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 10px rgba(203, 121, 44, 0.3));
+}
+
+.text-gradient-copper-gold {
+  background: linear-gradient(135deg, #CB792C 0%, #F4D9A0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.glow-card-gold {
+  border-color: rgba(244, 217, 160, 0.35);
+  box-shadow: 0 12px 32px -8px rgba(91, 70, 50, 0.15), 0 0 24px -4px rgba(244, 217, 160, 0.25);
+}
+
+.glow-card-gold:hover {
+  border-color: #CB792C;
+  box-shadow: 0 20px 40px -10px rgba(91, 70, 50, 0.25), 0 0 30px -2px rgba(203, 121, 44, 0.35);
+}
+
+.badge-illuminated {
+  background: linear-gradient(135deg, rgba(91, 70, 50, 0.85) 0%, rgba(203, 121, 44, 0.35) 100%);
+  border: 1px solid rgba(244, 217, 160, 0.5);
+  box-shadow: 0 0 18px rgba(244, 217, 160, 0.3);
+  color: #F4D9A0;
+}
+

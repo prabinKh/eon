@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "All-gigabit PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/all-gigabit-poe-switch",
+    "tab_title": "All-gigabit PoE Switch",
+    "tab_id": "8397",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "All-gigabit PoE Switch",
+      "All-gigabit PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "124717",
+    "product_name": "S4228-24GT-240",
+    "product_title": "28-Port Managed Desktop Gigabit Switch with 24-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s4228-24gt-240",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11025/ProductImage/1_0_01_20_11025_340668864_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s4228-24gt-240.html",
+  "detail": {
+    "title": "28-Port Managed Desktop Gigabit Switch with 24-Port PoE",
+    "model": "S4228-24GT-240",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11025/ProductImage/1_0_01_20_11025_340668864_crop_thumb.png",
+        "alt": "S4228-24GT-240",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s4228-24gt-240"
+  }
+}

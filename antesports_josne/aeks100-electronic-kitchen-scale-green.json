@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "AEKS100 Electronic Kitchen Scale - Green"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341738643747",
+    "product_name": "AEKS100 Electronic Kitchen Scale - Green",
+    "product_title": "AEKS100 Electronic Kitchen Scale - Green",
+    "product_url": "https://antesports.com/products/aeks100-electronic-kitchen-scale-green",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aeks100-electronic-kitchen-scale-green.html",
+  "detail": {
+    "title": "AEKS100 Electronic Kitchen Scale - Green",
+    "model": "ANTR0180",
+    "brand": "Ant Esports",
+    "overview": "Color variant of the Ant Esports AEKS100 digital kitchen scale in Green. High-precision sensor delivers accurate food measurement for cooking and baking, with a clear LCD display, tare function for ingredient measurement, and multi-unit (gram/ounce) support in a compact, easy-to-store design.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24.png",
+        "alt": "AEKS100 Electronic Kitchen Scale - Green - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Capacity": "Up to 10 Kg",
+        "Display": "LCD",
+        "Units": "Grams / Ounces (multi-unit)",
+        "Functions": "Tare, High Precision Sensor",
+        "Power": "2 x AAA batteries",
+        "Color": "Green",
+        "CAPACITY": "Up to 10 Kg",
+        "DISPLAY": "LCD",
+        "UNITS": "Grams / Ounces (multi-unit)",
+        "FUNCTIONS": "Tare, High Precision Sensor",
+        "POWER": "2 x AAA batteries",
+        "COLOR": "Green",
+        "SKU": "ANTR0180"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aeks100-electronic-kitchen-scale-green"
+  }
+}

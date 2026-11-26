@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-PD08V2-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "1704",
+    "product_name": "CP-DPS-PD08V2-12D",
+    "product_title": "CP-DPS-PD08V2-12D",
+    "product_url": "https://cpplusworld.com/cp-dps-pd08v2-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/61aa2780-6cd0-4d7c-b52b-8091ee6e5500.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-dps-pd08v2-12d.html",
+  "detail": {
+    "title": "CP-DPS-PD08V2-12D",
+    "model": "CP-DPS-PD08V2-12D",
+    "brand": "CP Plus",
+    "overview": "8 Channel Power Supply",
+    "features": [
+      "8 Channel Output",
+      "With Cable Compensation Switch",
+      "LED Indicator for Each Channel",
+      "Built-in EMI Filter to Nullify Interference",
+      "Cooling by Free Air Convection",
+      "Built-in Constant Current Limiting Circuit",
+      "100% Full Load Built-in test",
+      "Plastic Housing"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/61aa2780-6cd0-4d7c-b52b-8091ee6e5500.jpg",
+        "alt": "CP-DPS-PD08V2-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/5b25ea5e-7581-4568-ac4c-ecbfd162a34d.jpg",
+        "alt": "CP-DPS-PD08V2-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input voltage": "200~240V AC",
+        "Output voltage": "12V DC",
+        "Current Range": "0~5A",
+        "Rated Power": "60W",
+        "Ripple & Noise (max.)": "120mVp-p",
+        "Voltage Adj. Range": "11.4~12.6V",
+        "Line Regulation": "±1.0%",
+        "Voltage Tolerance": "n/a",
+        "Setup Rise time": "2500ms, 15ms at full load",
+        "Hold Up Time (Typ.)": "20ms at full load",
+        "Load Regulation": "±5.0%",
+        "Temperature coefficient": "±0.03%/°C (0~50°C)",
+        "Frequency Range": "47~63HZ",
+        "Efficiency (Typ.)": "86%",
+        "AC Current (Typ.)": "1A/220VAC",
+        "Inrush Current (Typ.)": "Cold Start: 40A/220V AC",
+        "Leakage Current": "<2mA / 240VAC",
+        "Over Load": "110~200% rated output power, Protection type: Shut down O/P, recovers automatically",
+        "Isolation Resistance": "I/P-O/P, I/P-FG, O/P-FG:100M Ohms / 500V DC / 25°C/ 70% RH",
+        "Working Humidity": "20 ~ 90% RH Non-condensing",
+        "Vibration": "10 ~ 500Hz, 3G 10min./1 cycle, 60min. each along X, Y, Z",
+        "Dimension": "144(L) x 109.5(W) x 33mm(H)",
+        "Store temperature": "-20 ~ +85°C",
+        "Working temperature": "-20 ~ +45°C",
+        "Withstand Voltage": "I/P-O/P: 1.5KVAC I/ P-FG: 1.5KVAC O/P-FG: 0.5KVAC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-PD08V2-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ba88058f-69b2-4659-aa00-b63479b7b469.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-pd08v2-12d"
+  }
+}

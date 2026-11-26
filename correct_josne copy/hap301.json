@@ -1,0 +1,126 @@
+{
+  "hierarchy": {
+    "category": "Audio & Sensing",
+    "category_url": "https://www.dahuasecurity.com/products/audio-&-sensing",
+    "subcategory": "General Audio",
+    "subcategory_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "series": "Indoor Pickups",
+    "series_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "tab_title": "Indoor Pickups",
+    "tab_id": "18103",
+    "breadcrumbs": [
+      "Audio & Sensing",
+      "General Audio",
+      "Indoor Pickups",
+      "Indoor Pickups"
+    ]
+  },
+  "card_info": {
+    "product_id": "34847",
+    "product_name": "HAP301",
+    "product_title": "Hi-fidelity Pickup",
+    "product_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/indoor-pickups/hap301",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16356/ProductImage/1_0_01_01_16356_521861354_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "audio-&-sensing/products/hap301.html",
+  "detail": {
+    "title": "Hi-fidelity Pickup",
+    "model": "HAP301",
+    "brand": "Dahua",
+    "overview": "Favourite HAP301 Hi-fidelity Pickup Key Points Hi-fidelity Pickup, Used for sound acquisition within 1~150 square meters. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16356/ProductImage/1_0_01_01_16356_521861354_crop_thumb.png",
+        "alt": "HAP301_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16356/ProductImage/1_0_01_01_16356_521861355_crop_thumb.png",
+        "alt": "HAP301_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16356/ProductImage/1_0_01_01_16356_521852815_crop_thumb.png",
+        "alt": "HAP301_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Type": {},
+      "Shape": {},
+      "Installation": {},
+      "Pickup Range": {},
+      "Audio Transmission Distance": {},
+      "Frequency Response": {},
+      "Sensitivity": {},
+      "S/N Ratio": {},
+      "Gains Adjustment": {},
+      "Direction Feature": {},
+      "Dynamic Range": {},
+      "Total Harmonic Distortion (THD)": {},
+      "Overload Sound Pressure Level": {},
+      "Equivalent Noise Level": {},
+      "Output Impedance": {},
+      "Maximum Output Range": {},
+      "Microphone": {},
+      "Signal Processing": {},
+      "Connection Mode": {},
+      "Transmission Cable": {},
+      "Power Supply": {},
+      "Protection Circuit": {},
+      "Drive Performance": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Appearance Color": {},
+      "Casing": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82604/datasheet/DH-HAP301_S0_datasheet_20250807.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual High Fidelity Pickup_Quick Start Guide_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008580/202411/High_Fidelity_Pickup_Quick_Start_Guide_V2.0.0.pdf"
+      },
+      {
+        "name": "2023-10-10 #Drawings HAP301_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82604/drawings/HAP301_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-10-13 #Drawings HAP301_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82604/drawings/HAP301_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/indoor-pickups/hap301"
+  }
+}

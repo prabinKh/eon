@@ -1,0 +1,154 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Outdoor Parking",
+    "tab_id": "18133",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Outdoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "107987",
+    "product_name": "ITC439-PW1H-Z",
+    "product_title": "4MP Outdoor Parking Space Detector",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/spot-detection-cameras/itc439-pw1h-z",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220523/pa12_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc439-pw1h-z.html",
+  "detail": {
+    "title": "4MP Outdoor Parking Space Detector",
+    "model": "ITC439-PW1H-Z",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC439-PW1H-Z 4MP Outdoor Parking Space Detector Key Points •See better: 4 MP, max. 2688 × 1520@25 fps | 1/1.8\" progressive scan CMOS | 0.002 lux low illumination brings clearer nighttime imaging | Captures rate ≥ 95% •High-Intelligence: Supports max. 50 parking spaces detection. Supports multi-monitor modes including area monitoring, parking space monitoring, and plate recognition. •Smart Event Analysis: Supports licensed and unlicensed vehicle recognition, illegal parking & available space detection. •All-Weather Durability: IP67, fully sealed against dust, dirt, and heavy rain. -30°C to 60°C operating temperature suitable for wider outdoor environments •Smart Deployment: 3 Alarm Input & Output, 1Gbps Ethernet, 2 RS-485, 1 RS-232, RCA Audio In/Out for live monitoring. Directly connect barriers, sirens, or access control. H.264/H.265/MJPEG flexible coding. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220523/pa12_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220523/pa22_thumb.png",
+        "alt": "ITC439-PW1H-Z_2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Illuminator Number": "6 × white light (adjustable brightness)",
+        "Image Sensor": "1/1.8'' CMOS",
+        "Image Resolution": "2688 (H) × 1520 (V) (OSD black background is not calculated in the pixels)",
+        "Video Resolution": "Main stream: 4M (2688 × 1520); UXGA (1600 x 1200); 1080p (1920 × 1080); 720p (1280 × 720) Sub stream: 720p (1280 × 720); D1 (704 × 576, 704 × 480); CIF (352 × 288, 352 × 240)",
+        "Video Frame Rate": "PAL: Main stream (2688 × 1520@25 fps, 1600 × 1200@25 fps, 1920 × 1080@25 fps, 1280 × 720@25 fps); sub stream: (1280 × 720@25 fps, 704 × 576@25 fps, 352 × 288@25 fps) NTSC:Main stream (2688 × 1520@30 fps, 1600 × 1200@30 fps, 1920 × 1080@30 fps, 1280 × 720@30 fps); sub stream: (1280 × 720@30 fps, 704 × 576@30 fps, 352 × 288@30 fps)",
+        "Bit Rate": "H.264M: 32 kbps–32768 kbps H.264H: 32 kbps–32768 kbps H.265: 32 kbps–32768 kbps MJPEG: 512 kbps–65536 kbps",
+        "Video Compression": "H.264M; H.264H; H.265; MJPEG",
+        "Picture Encoding Format": "JPEG",
+        "Noise Reduction": "3D NR",
+        "White Balance": "Auto; Natural; Street lamp; Outdoor; Manual; Regional custom",
+        "Electronic Shutter Speed": "1/25–1/10000, auto or manual",
+        "WDR": "96 db",
+        "Edge Enhancement": "Yes",
+        "Exposure Mode": "Auto; Manual (select from shutter values or customize shutter range)",
+        "Iris Control": "Auto iris (W: 1.4–T: 2.15)"
+      },
+      "Performance": {
+        "Shutter": "Single shutter",
+        "Storage": "1 × built-in TF card slot. The following cards are supported: Kingston 16 GB, 32 GB, 64 GB, and 128 GB; Dahua 16 GB, 32 GB, 64 GB, and 128 GB; SanDisk 16 GB, 32 GB, 64 GB, and 128 GB.",
+        "Image Tampering Prevention": "Yes. Verifies watermarks in videos and images",
+        "Field of View": "H: 114.6° (W)–48.3° (T) V: 59.0° (W)–27.1° (T) D: 141.6° (W)–55.5° (T)",
+        "Illumination Distance": "12 m (39.37 ft)",
+        "Min. Illumination": "0.002 lx (built-in illuminator on)",
+        "Alarm Event": "Storage full, storage error, no storage card, network disconnection, IP conflict, and illegal access.",
+        "Security": "Authorized username and password, MAC address binding, HTTPS encryption, IEEE 802.1x, and network access control",
+        "OSD Overlay": "Time, address, device SN, week, space statistics, anti-counterfeiting code, and custom information.",
+        "Auto Registration": "Yes"
+      },
+      "Intelligence": {
+        "Vehicle Detection": "Vehicle capture rate ≥95%",
+        "Vehicle Recognition": "Supports licensed and unlicensed vehicle recognition.",
+        "Smart TrackFrame": "Displays the trajectory of the license plate and vehicle.",
+        "Illegal Parking Detection": "Yes",
+        "Available Space Detection": "Yes",
+        "Number of Available Spaces": "Max. 50 spaces",
+        "Counting Mode": "Area monitoring, parking space monitoring, and plate recognition mode.",
+        "Parking Space Attributes": "The attributes of large and small spaces can be configured."
+      },
+      "Port": {
+        "Lens Mount": "Φ16",
+        "Analog Output": "1",
+        "Network": "1 × RJ-45 Ethernet port, 100/1000 M network transmission",
+        "RS-485": "2",
+        "RS-232": "1",
+        "Alarm Input": "3, optocoupler input (on-off input)",
+        "Alarm Output": "3 (1 for relay, and 2 for optocoupler), used to link the barrier.",
+        "Audio Input": "1-channel RCA port",
+        "Audio Output": "1-channel RCA port"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 24 VAC, POE+",
+        "Power Consumption": "<20 W",
+        "Operating Temperature": "−30 °C to +65 °C (−22 °F to +149 °F)",
+        "Operating Humidity": "10% (RH)–90% (RH) (no condensation)",
+        "Casing": "Metal + plastic",
+        "Protection Grade": "IP67",
+        "Dimensions": "296.5 mm × 124.3 mm × 107.7 mm (11.67\" × 4.89\" × 4.24\") (L × W × H)",
+        "Net Weight": "1.7 kg (3.75 lb)",
+        "Installation": "Universal mounting bracket",
+        "Lens": "Included, 4.38 mm–9.33 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITC439-PW1H-Z_datasheet_20220303.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Outdoor Parking Space Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006144/202411/Outdoor_Parking_Space_Detector_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Outdoor Parking Space Detector_Quick_Start_Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006144/202411/Outdoor_Parking_Space_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-11-02 #A&E Document ITC439-PW1H-Z_A&E_20250812135217 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43987/a_e_document/ITC439-PW1H-Z_A_E_20250812135217.docx"
+      },
+      {
+        "name": "2022-05-06 #Drawings ITC439-PW1H-Z_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43987/drawings/ITC439-PW1H-Z_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/spot-detection-cameras/itc439-pw1h-z"
+  }
+}

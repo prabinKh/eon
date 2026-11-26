@@ -1,0 +1,69 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Cherry Storm Mouse Pad - Cherry Red"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924800803",
+    "product_name": "Cherry Storm Mouse Pad - Cherry Red",
+    "product_title": "Cherry Storm Mouse Pad - Cherry Red",
+    "product_url": "https://antesports.com/products/cherry-storm-mousepad-900x400",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/32_18540759-fbf8-4b02-bec8-4ccf3e23059e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/cherry-storm-mousepad-900x400.html",
+  "detail": {
+    "title": "Cherry Storm Mouse Pad - Cherry Red",
+    "model": "AEPP0210",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Cherry Storm is a large extended mouse pad measuring 900 x 400 x 2mm, giving ample room for both a keyboard and mouse on one smooth, striking cherry-red surface. Its generous size and thin, low-profile build keep it comfortable to use over a full desk setup, while a durable, non-slip base ensures it stays firmly in place through daily gaming or office sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/32_18540759-fbf8-4b02-bec8-4ccf3e23059e.png",
+        "alt": "Cherry Storm Mouse Pad - Cherry Red - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "900 x 400 x 2mm",
+        "Base": "Non-Slip",
+        "Color": "Cherry Red",
+        "DIMENSIONS": "900 x 400 x 2mm",
+        "BASE": "Non-Slip",
+        "COLOR": "Cherry Red",
+        "Offer Price (INR)": "₹489.00",
+        "SKU": "AEPP0210"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/cherry-storm-mousepad-900x400"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Cloud Managed Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "series": "Cloud Managed Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "tab_title": "Cloud Managed Switches",
+    "tab_id": "15717",
+    "breadcrumbs": [
+      "Transmission",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "152647",
+    "product_name": "CHS4110-8ET",
+    "product_title": "10-Port Cloud Managed Hardened Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/chs4110-8et",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11729/ProductImage/1_0_01_20_11729_711830936_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/chs4110-8et.html",
+  "detail": {
+    "title": "10-Port Cloud Managed Hardened Switch",
+    "model": "CHS4110-8ET",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11729/ProductImage/1_0_01_20_11729_711830936_crop_thumb.png",
+        "alt": "CHS4110-8ET",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/chs4110-8et"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "48567",
+    "product_name": "KTW01",
+    "product_title": "IP & Wi-Fi Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktw01",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12451/ProductImage/1_0_01_15_12451_537045070_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktw01.html",
+  "detail": {
+    "title": "IP & Wi-Fi Video Intercom KIT",
+    "model": "KTW01",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTW01 IP & Wi-Fi Video Intercom KIT Key Points • DHI-VTO2211G-WP-S2 + DHI-VTH5221DW-S2 • 7-inch Screen VTH • Plastic VTO • Wi-Fi Connection • App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12451/ProductImage/1_0_01_15_12451_537045070_crop_thumb.png",
+        "alt": "KTW01_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DHI-VTO2211G-WP-S2"
+      },
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF",
+        "Network Protocol": "IPv4, RTSP, RTP, TCP, UDP, SIP"
+      },
+      "Basic": {
+        "Camera": "1/2.8\" 2 MP CMOS high definition, low illumination/WDR/color/IR",
+        "Field of View": "H: 125°; V: 71°; D: 142°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, CIF Sub stream: 1080p, WVGA, D1, QVGA, CIF",
+        "Video Frame Rate": "PAL: 25 fps; NTSC: 30 fps",
+        "Video Bit Rate": "256 Kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W;Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 KHz, 16 bit",
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7\" TFT",
+        "Screen Resolution": "1024 (H) × 600 (V)"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Unlock Mode": "Card; app; indoor monitor",
+        "Card Type": "IC card",
+        "Auto Snapshot": "Yes",
+        "Leave Videos": "Yes (SD card inserted in VTH is needed)",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Storage": "8 GB Micro SD card (max SD card capacity supported is 64 GB)",
+        "Web Configuration": "Yes",
+        "Information Release": "Receive and view text information released by the management center",
+        "Number of Extensions": "Villa: 9 Apartment: 4 Wi-Fi intercom: 1 main monitor, 2 extension monitors"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–4.3 cm (0\"–1.69\")",
+        "Issue Card Locally": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Capacity": {
+        "Card Capacity": "10000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Power Output": "1 port, 12 V and 200 mA",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1 port, normally closed by default",
+        "Network Port": "1 × RJ-45 , 10M/100Mbps self-adaptive port",
+        "Door Bell": "Yes"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance Color": "White",
+        "Power Supply": "12 VDC, 1 A Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC; UL",
+        "Accessory": "Bracket (included) Alarm ribbon cable (included)",
+        "Product Dimensions": "214.0 mm × 140.5 mm × 23.4 mm (8.43\" × 5.53\" × 0.92\")",
+        "Protection": "IP65 (silicone sealant is needed, see the quick start guide)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to 131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "Beneath 3,000 m (9,842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "≤3W (standby), ≤7W (working)",
+        "Gross Weight": "0.69 kg (1.52 lb)",
+        "Anti-corrosion Level": "Basic Protection",
+        "Model": "DHI-VTH5221DW-S2"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/KTW01_datasheet_20231227.pdf"
+      },
+      {
+        "name": "2024-08-12 #Firmware DH_VTOXXXXD-G_MultiLang_PN_PAAS_SIP_V4.511.0000000.1.R.240731 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27407/firmware/DH_VTOXXXXD-G_MultiLang_PN_PAAS_SIP_V4.511.0000000.1.R.240731.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktw01"
+  }
+}

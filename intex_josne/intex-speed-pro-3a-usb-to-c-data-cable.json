@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "Data Cable",
+    "subcategory_url": "https://www.intex.in/collections/data-cable",
+    "series": "smart accessories",
+    "series_url": "https://www.intex.in/collections/smart-accessories",
+    "tab_title": "Data Cable",
+    "tab_id": "9155418783962",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "Data Cable",
+      "Intex Speed Pro 3A USB to C Data Cable"
+    ]
+  },
+  "card_info": {
+    "product_id": "9155418783962",
+    "product_name": "Intex Speed Pro 3A USB to C Data Cable",
+    "product_title": "Intex Speed Pro 3A USB to C Data Cable",
+    "product_url": "https://www.intex.in/products/intex-speed-pro-3a-usb-to-c-data-cable",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEEDPRO3AUSBTOC.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-speed-pro-3a-usb-to-c-data-cable.html",
+  "detail": {
+    "title": "Intex Speed Pro 3A USB to C Data Cable",
+    "model": "3A",
+    "brand": "Intex",
+    "overview": "The Intex Speed Pro 3A USB to Type-C Cable is designed for efficient charging and fast data transfer for Type-C devices. With 3A output and 480 Mbps data speed, it ensures reliable everyday performance. The premium TPE material offers enhanced flexibility, durability, and a tangle-free experience, making it ideal for daily use.",
+    "features": [
+      "3A fast charging output support",
+      "USB to Type-C charging & data cable",
+      "480 Mbps high-speed data transfer",
+      "1-metre cable length",
+      "Strong TPE cable for enhanced durability",
+      "Tangle-free and flexible design",
+      "Universal compatibility with Type-C devices",
+      "Overheat protection for safe charging",
+      "20000+ bends tested for long lifespan",
+      "Reliable performance for everyday use"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEEDPRO3AUSBTOC.jpg",
+        "alt": "Intex Speed Pro 3A USB to C Data Cable",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "3A fast charging output support",
+        "Feature 2": "USB to Type-C charging & data cable",
+        "Feature 3": "480 Mbps high-speed data transfer",
+        "Feature 4": "1-metre cable length",
+        "Feature 5": "Strong TPE cable for enhanced durability",
+        "Feature 6": "Tangle-free and flexible design",
+        "Feature 7": "Universal compatibility with Type-C devices",
+        "Feature 8": "Overheat protection for safe charging",
+        "Feature 9": "20000+ bends tested for long lifespan",
+        "Feature 10": "Reliable performance for everyday use"
+      },
+      "General": {
+        "Model": "3A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-speed-pro-3a-usb-to-c-data-cable"
+  }
+}

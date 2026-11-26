@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "27",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "8 Ch.",
+      "CP-UNR-4K4082-V4"
+    ]
+  },
+  "card_info": {
+    "product_id": "1934",
+    "product_name": "CP-UNR-4K4082-V4",
+    "product_title": "CP-UNR-4K4082-V4",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4082-v4",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/faee58f2-eb26-456b-b66d-13c5e7e47dcd.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4082-v4.html",
+  "detail": {
+    "title": "CP-UNR-4K4082-V4",
+    "model": "CP-UNR-4K4082-V4",
+    "brand": "CP Plus",
+    "overview": "8 Ch. 4K Network Video Recorder",
+    "features": [
+      "Up to 8 Channel IP Camera input",
+      "Instastream, H.265, H.264+, H.264, MJPEG",
+      "Supports IP cameras with a resolution up to 12MP",
+      "Max. 160/160/80 Mbps incoming/recording/outgoing bandwidth",
+      "AI by Recorder: 4 Channel IMD",
+      "AI by Camera: Face detection and recognition, perimeter protection,  IMD, people counting, stereo analysis and heat map",
+      "Support 2 SATA HDDs up to 20TB each, 2 USB ports(2.0)",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/faee58f2-eb26-456b-b66d-13c5e7e47dcd.png",
+        "alt": "CP-UNR-4K4082-V4 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/36065d7d-6aa3-477a-bbde-05215712d6ab.png",
+        "alt": "CP-UNR-4K4082-V4 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "8 channel",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "Perimeter Performance of AI by Camera": "6 channels",
+        "Video Output": "Simultaneous :1 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720  1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720  Heterogeneous: 1 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720  1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Abnormal Alarm": "Camera disconnection, Storage error, Disk full, IP conflict, MAC conflict, Login locked and cy\u0002bersecurity exception",
+        "Face Attributes": "Gender, age group, glasses, expressions, face mask, beard",
+        "Face Recognition AI by Camera": "6 channels",
+        "Face Detection AI by Camera": "6 channels",
+        "Encode Strategy": "Instastream, H.264+",
+        "Resolution": "8 MP, 6 MP, 5 MP, 4 MP, 3 MP, 2 MP, 960p, 720p, D1, CIF, QCIF",
+        "Network Bandwidth": "AI disabled: 160 Mbps incoming, 160 Mbps recording and 80 Mbps outgoing AI enabled: 80  Mbps incoming, 80 Mbps recording and 60 Mbps outgoing",
+        "Decoding Capacity": "AI disabled: 1 Channel 12 MP@30 fps, 2 Channel 8 MP@30 fps, 3 Channel 5 MP@30 fps,  4 Channel 4 MP@30 fps, 8 Channel 1080p@30 fps  AI enabled: 1 Channel 12 MP@30 fps, 1 Channel 8 MP@30 fps, 2 Channel 5 MP@30 fps,  3 Channel 4 MP@30 fps, 7 Channel 1080p@30 fps",
+        "Video Display Split": "Main screen: 1/4/8/9 Sub screen: 1/4/8/9",
+        "Audio Input": "1-channel RCA",
+        "Audio Output": "1-channel RCA",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Video Compression": "H.265, H.264",
+        "Alarm Input": "4 channels",
+        "Alarm Output": "2 channels (1-channel 12 V 1 A output）",
+        "Disk Group": "Support",
+        "Record Mode": "General, motion detection, intelligent, alarm",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "General Alarm": "Motion detection, privacy masking, video loss, scene changing, PIR alarm, IPC external alarm",
+        "Browser": "Chrome, IE9 and later, Firefox, Edge",
+        "Playback Mode": "Instant playback, general playback, event playback, tag playback, smart playback",
+        "Multi-channel Playback": "Up to 8 channels",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port), 1 HDMI, 1 VGA",
+        "Ethernet": "1 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP, DDNS,  SNMP, Alarm Server, P2P, Auto Registration, ONVIF 22.12(Profile T, Profile S, Profile G), CGI,  SDK",
+        "Backup Method": "USB device and network",
+        "Power Supply": "12 VDC, 4 A",
+        "Power Consumption": "<10 W",
+        "Operating Temperature": "-10 °C to +55 °C (14 °F to +131 °F)",
+        "Storage Temperature": "-10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "10%–93% (RH)",
+        "Dimensions": "375.0mm × 282.9mm × 53.0mm",
+        "Weight": "1.49 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4082-V4.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4082-v4"
+  }
+}

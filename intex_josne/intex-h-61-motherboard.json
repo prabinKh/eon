@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "motherboard",
+    "subcategory_url": "https://www.intex.in/collections/motherboard",
+    "series": "motherboard Series",
+    "series_url": "https://www.intex.in/collections/motherboard-series",
+    "tab_title": "motherboard",
+    "tab_id": "8981150761178",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "motherboard",
+      "Intex H-61 Motherboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "8981150761178",
+    "product_name": "Intex H-61 Motherboard",
+    "product_title": "Intex H-61 Motherboard",
+    "product_url": "https://www.intex.in/products/intex-h-61-motherboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/H-81-Motherboard.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2999.0,
+      "display": "₹2,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-h-61-motherboard.html",
+  "detail": {
+    "title": "Intex H-61 Motherboard",
+    "model": "61",
+    "brand": "Intex",
+    "overview": "The Intex H-61 Motherboard is a compact and efficient solution for budget and entry-level PC builds. It supports Intel's 3rd and 2nd generation processors and comes equipped with multiple connectivity and expansion options. Ideal for home, office, or basic multimedia setups.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/H-81-Motherboard.jpg",
+        "alt": "Intex H-61 Motherboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Supported CPU": "Intel LGA 1155 3rd/2nd Gen Core i7, i5, i3, Pentium, Celeron Series",
+        "Memory Supported": "2 Nos DDR3 UDIMM Memory Slots",
+        "Maximum Memory": "Up to 16GB",
+        "Supported Memory Speed": "DDR3 1066/1333/1600 MHz",
+        "BIOS Name & Version": "H61S001.bin 4.6.5.4",
+        "I/O Interface": "6 × USB 2.0, 1 × HDMI, 1 × VGA, 1 × RJ45, 1 × AUDIO (Stereo HD Audio)",
+        "Expansion Slot": "1 × PCIE 2.0/3.0 × 16 Slot",
+        "Form Factor": "Mini-ITX / 170mm x 170mm",
+        "Model": "61"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/H61_Motherboard_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-h-61-motherboard"
+  }
+}

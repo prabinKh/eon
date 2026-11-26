@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Audio & Sensing",
+    "category_url": "https://www.dahuasecurity.com/products/audio-&-sensing",
+    "subcategory": "General Audio",
+    "subcategory_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "series": "Indoor Pickups",
+    "series_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "tab_title": "Indoor Pickups",
+    "tab_id": "18103",
+    "breadcrumbs": [
+      "Audio & Sensing",
+      "General Audio",
+      "Indoor Pickups",
+      "Indoor Pickups"
+    ]
+  },
+  "card_info": {
+    "product_id": "16341",
+    "product_name": "HAP100",
+    "product_title": "Pinhole Pickup",
+    "product_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/indoor-pickups/hap100",
+    "card_image": "https://material.dahuasecurity.com/upfiles/HAP1001_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "audio-&-sensing/products/hap100.html",
+  "detail": {
+    "title": "Pinhole Pickup",
+    "model": "HAP100",
+    "brand": "Dahua",
+    "overview": "Favourite HAP100 Pinhole Pickup Key Points Pinhole Pickup Used for sound acquisition within 5~40 square meters. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Model": "DH-HAP100",
+        "Scope": "5-40m2",
+        "Sensitivity": "-40dB(-45~-20dB adjustable)",
+        "Frequency response": "20Hz～20kHz",
+        "Directional characteristic": "Omni-directional",
+        "SNR": "70dB(1m 40dB sound source SPL)",
+        "Dynamic range": "104dB(1KHz at Max dB SPL)",
+        "Max. sustainable sound pressure": "120dB SPL(1KHz, THD 1%)",
+        "Output impedance": "600Ω(non-equilibrium)",
+        "Output signal amplitude": "2.5Vpp/-25dB",
+        "Working voltage": "DC 12V(9~15V)",
+        "Working current": "60mA(50~100mA)",
+        "Working temperature": "-30℃～+70℃(-22℉~+158℉)",
+        "Color": "White",
+        "Outer shell": "PC",
+        "Dimension": "63mmx30mmx22mm(2.48”x1.18”x0.87”)",
+        "Weight": "34g(0.07lb)",
+        "Carried standard": "CE/FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/download/DH-HAP1001.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/indoor-pickups/hap100"
+  }
+}

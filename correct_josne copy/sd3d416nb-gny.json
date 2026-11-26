@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizsense-series",
+    "tab_title": "SD3",
+    "tab_id": "18216",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizSense Series",
+      "SD3"
+    ]
+  },
+  "card_info": {
+    "product_id": "151904",
+    "product_name": "SD3D416NB-GNY",
+    "product_title": "4M 16x IR WizSense Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd3/sd3d416nb-gny",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15908/ProductImage/1_0_01_07_15908_729347579_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd3d416nb-gny.html",
+  "detail": {
+    "title": "4M 16x IR WizSense Network PTZ Camera",
+    "model": "SD3D416NB-GNY",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD3D416NB-GNY 4M 16x IR WizSense Network PTZ Camera Key Points • High-Quality Imaging with 4MP Resolution • 16× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 80 m IR Distance for 24/7 Monitoring • Deep Learning-Based Human and Vehicle Classification • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15908/ProductImage/1_0_01_07_15908_729347579_crop_thumb.png",
+        "alt": "SD3D416NB-GNY_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15908/ProductImage/1_0_01_07_15908_729347164_crop_thumb.png",
+        "alt": "SD3D416NB-GNY_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "5.0 mm–80 mm": "1,600.00 m( 5,249.34 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "IVS": {},
+      "Smart Tracking": {},
+      "SMD": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "S/N Ratio": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Remarks": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82837/datasheet/SD3D416NB-GNY_S0_datasheet_20250917.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Installation Guide(3-Pro)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82411/user_manual/Installation_Guide(3-Pro)_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82244/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2024-12-05 #A&E Document SD3D416NB-GNY_A&E_20260918024801 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82837/a_e_document/1789671091424.docx"
+      },
+      {
+        "name": "2024-11-21 #Drawings SD3D416NB-GNY_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82837/drawings/SD3D416NB-GNY_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-11-21 #Drawings SD3D416NB-GNY_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82837/drawings/SD3D416NB-GNY_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-09-10 #Firmware DH_SD-Kant_MultiLang_PN_V2.820.0000017.0.R.250821 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86390/firmware/DH_SD-Kant_MultiLang_PN_V2.820.0000017.0.R.250821.zip"
+      },
+      {
+        "name": "2024-08-01 #Firmware General_SD3DXXX-HN-MT_MCU_V2.401.0000001.90.R.240611 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2747739/M/General_SD3DXXX-HN-MT_MCU_V2.401.0000001.90.R.240611.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd3/sd3d416nb-gny"
+  }
+}

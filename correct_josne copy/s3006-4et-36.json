@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Desktop PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/desktop-poe-switch",
+    "tab_title": "Desktop PoE Switch",
+    "tab_id": "8367",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Desktop PoE Switch",
+      "Desktop PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "154320",
+    "product_name": "S3006-4ET-36",
+    "product_title": "6-Port Unmanaged Desktop Switch with 4-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s3006-4et-36",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/85783/image/1_0_01_20_11849_695394200_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s3006-4et-36.html",
+  "detail": {
+    "title": "6-Port Unmanaged Desktop Switch with 4-Port PoE",
+    "model": "S3006-4ET-36",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85783/image/1_0_01_20_11849_695394200_crop_thumb.png",
+        "alt": "S3006-4ET-36",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s3006-4et-36"
+  }
+}

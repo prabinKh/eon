@@ -1,0 +1,168 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "100397",
+    "product_name": "KTP03",
+    "product_title": "IP Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp03",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240311/KTP03_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktp03.html",
+  "detail": {
+    "title": "IP Video Intercom KIT",
+    "model": "KTP03",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTP03 IP Video Intercom KIT Key Points • DHI-VTO2111D-P-S3+DHI-VTH2621G-P+DH-PFS3006-4ET-36 • 7-inch Screen VTH • Plastic VTO, Card Unlock Support • App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240311/KTP03_thumb.png",
+        "alt": "KTP03_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DHI-VTO2111D-P-S3"
+      },
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded LINUX OS",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "SIP; P2P; IPv4; DNS; RTSP; RTP; TCP; UDP"
+      },
+      "Basic": {
+        "Camera": "1/2.8\" 2 MP CMOS high definition, low illumination/DWDR/ color/IR",
+        "Field of View": "H: 107°; V: 60°; D: 122°",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, CIF Sub stream: 1080p, WVGA, D1, QVGA, CIF",
+        "Video Frame Rate": "PAL: 25 fps; NTSC: 30 fps",
+        "Video Bit Rate": "256 Kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W;Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way voice talk",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 KHz; 16 bit",
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7\" TFT",
+        "Screen Resolution": "1024 (H) × 600 (V)"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Unlock Mode": "Card; app; indoor monitor",
+        "Card Type": "IC card",
+        "Leave Videos": "Yes (an SD card inserted in VTH is needed)",
+        "Web Configuration": "Yes",
+        "Information Release": "Receive and view text information released by the management center",
+        "DND Mode": "Do not disturb period can be set;Do not disturb mode can be set",
+        "Number of Extensions": "Villa: 9: Apartment: 4",
+        "Storage": "Micro SD Card, Max 64 GB (reserved for software)"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–4.5 cm (0\"–1.77\")",
+        "Issue Card Locally": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Capacity": {
+        "Card Capacity": "10000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Power Output": "1 port, 12 V and 200 mA",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1 port, normally closed by default",
+        "Network Port": "4 × PoE ports with 10/100 Mbps Base-TX 2 uplink ports with 10/100 Mbps Base-TX",
+        "Alarm Input": "6",
+        "Alarm Output": "1"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance Color": "Black",
+        "Power Supply": "12 VDC, 1 A Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Bracket (included) Alarm ribbon cable (included)",
+        "Product Dimensions": "194.0 mm × 108.1 mm × 35.0 mm (7.64\" × 4.26\" × 1.38\")",
+        "Protection": "IP65 (silicone sealant is needed, see the quick start guide.) IK04 (for common use)",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Beneath 3000 m (9842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "Standby ≤ 2 W; working ≤ 6 W",
+        "Gross Weight": "0.56 kg (1.23 lb)",
+        "Anti-corrosion Level": "Basic Protection",
+        "Model": "DH-PFS3006-4ET-36",
+        "Storage Temperature": "Basic Protection"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/KTP03_datasheet_20240312.pdf"
+      },
+      {
+        "name": "2024-08-12 #Firmware DH_VTOXXXXD-G_MultiLang_PN_PAAS_SIP_V4.511.0000000.1.R.240731 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27407/firmware/DH_VTOXXXXD-G_MultiLang_PN_PAAS_SIP_V4.511.0000000.1.R.240731.zip"
+      },
+      {
+        "name": "2024-01-04 #Firmware DH_VTHX6XXX-SX_MultiLang_SIP_CEE-Nordic_V4.700.0000000.1.R.231130 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27407/firmware/DH_VTHX6XXX-SX_MultiLang_SIP_CEE-Nordic_V4.700.0000000.1.R.231130.zip"
+      },
+      {
+        "name": "2024-01-04 #Firmware DH_VTHX6XXX-SX_MultiLang_SIP_Asia_V4.700.0000000.1.R.231130 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27407/firmware/DH_VTHX6XXX-SX_MultiLang_SIP_Asia_V4.700.0000000.1.R.231130.zip"
+      },
+      {
+        "name": "2024-01-04 #Firmware DH_VTHX6XXX-SX_MultiLang_SIP_EMEA_V4.700.0000000.1.R.231130 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27407/firmware/DH_VTHX6XXX-SX_MultiLang_SIP_EMEA_V4.700.0000000.1.R.231130.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp03"
+  }
+}

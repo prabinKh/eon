@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Intex Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/intex-keyboard",
+    "series": "IT Keyboard",
+    "series_url": "https://www.intex.in/collections/it-keyboard",
+    "tab_title": "Intex Keyboard",
+    "tab_id": "9069156139226",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Intex Keyboard",
+      "Intex Flash Wired Keyboard (Corona+ IT-KB333)"
+    ]
+  },
+  "card_info": {
+    "product_id": "9069156139226",
+    "product_name": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+    "product_title": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+    "product_url": "https://www.intex.in/products/intex-flash-wired-keyboard-corona-it-kb333",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-01.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 899.0,
+      "display": "₹899.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-flash-wired-keyboard-corona-it-kb333.html",
+  "detail": {
+    "title": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+    "model": "Corona+ (IT-KB333)",
+    "brand": "Intex",
+    "overview": "Experience precise typing with vibrant RGB illumination. The Intex Flash Wired Keyboard (Corona+ IT-KB333) is a full-size wired keyboard designed for everyday productivity and gaming — offering comfortable key action, laser-engraved legends, and plug-and-play convenience at an affordable price.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-01.jpg",
+        "alt": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-02.jpg",
+        "alt": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-03.jpg",
+        "alt": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-04.jpg",
+        "alt": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-05.jpg",
+        "alt": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flash_Keyboard_PDP-06.jpg",
+        "alt": "Intex Flash Wired Keyboard (Corona+ IT-KB333)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "General": {
+        "Model": "Corona+ (IT-KB333)",
+        "Interface": "USB (Wired)",
+        "Key count": "104 keys (full-size)",
+        "Multimedia keys": "12 dedicated multimedia/function keys",
+        "Key legend": "Laser engraved",
+        "Backlight": "RGB / Multi-color",
+        "Cable length": "1.5 meter",
+        "Compatibility": "Windows PCs, Laptops (Plug & Play)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Flash_Wired_Keyboard.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-flash-wired-keyboard-corona-it-kb333"
+  }
+}

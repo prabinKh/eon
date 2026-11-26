@@ -1,0 +1,89 @@
+{
+  "hierarchy": {
+    "category": "Security & Surveillance",
+    "category_url": "https://www.intex.in/collections/security-surveillance",
+    "subcategory": "36 Channel NVR",
+    "subcategory_url": "https://www.intex.in/collections/36-channel-nvr",
+    "series": "NVR",
+    "series_url": "https://www.intex.in/collections/nvr",
+    "tab_title": "36 Channel NVR",
+    "tab_id": "9379037708506",
+    "breadcrumbs": [
+      "Home",
+      "Security & Surveillance",
+      "36 Channel NVR",
+      "Intex 36 Channel NVR"
+    ]
+  },
+  "card_info": {
+    "product_id": "9379037708506",
+    "product_name": "Intex 36 Channel NVR",
+    "product_title": "Intex 36 Channel NVR",
+    "product_url": "https://www.intex.in/products/intex-36-channel-nvr",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_2f59183f-336c-4f3f-8eef-e18d1651c725.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 25000.0,
+      "display": "₹25,000.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-36-channel-nvr.html",
+  "detail": {
+    "title": "Intex 36 Channel NVR",
+    "model": "36",
+    "brand": "Intex",
+    "overview": "The Intex 36 Channel NVR is a high-performance network video recorder designed for advanced and large-scale surveillance requirements. Featuring an AI-powered architecture, it supports up to 36 IP cameras for comprehensive security monitoring across multiple locations. Built with a durable metal body, this NVR ensures reliable performance for professional applications. With H.264/H.265 video compression, Full Channel AI-Instream support, and ONVIF compatibility, it delivers efficient recording, optimized storage, and seamless integration with multiple IP camera brands. Supporting dual SATA storage up to 16TB, it is an ideal solution for offices, warehouses, industries, commercial spaces, and large security installations.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_2f59183f-336c-4f3f-8eef-e18d1651c725.jpg",
+        "alt": "Intex 36 Channel NVR",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "Network Video Recorder (NVR)",
+        "Channel Support": "36 Channel",
+        "Body Material": "Metal Body",
+        "Video Compression": "H.264 / H.265",
+        "AI Feature": "Full Channel AI-Instream Support",
+        "Camera Compatibility": "ONVIF Supported IP Cameras",
+        "Maximum Camera Support": "Up to 5MP IP Cameras",
+        "Network Bandwidth": "80Mbps",
+        "Storage Support": "2 SATA HDD up to 16TB",
+        "Application": "Professional & Enterprise Security Surveillance System",
+        "Model": "36"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Security_Surveillance_Brochure.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-36-channel-nvr"
+  }
+}

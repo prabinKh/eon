@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-KF28B"
+    ]
+  },
+  "card_info": {
+    "product_id": "2259",
+    "product_name": "CP-KF28B",
+    "product_title": "CP-KF28B",
+    "product_url": "https://cpplusworld.com/cp-kf28b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/6ebcb9a4-b5e6-4349-9b6e-7ca589ea1c4e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-kf28b.html",
+  "detail": {
+    "title": "CP-KF28B",
+    "model": "CP-KF28B",
+    "brand": "CP Plus",
+    "overview": "CarKam 2MP with Rear Camera, Hardwire Kit",
+    "features": [
+      "2MP Resolution",
+      "Support SD Card upto 1TB (Class 10 U3)",
+      "Built-in GPS",
+      "G-Sensor (Emergency Recording)",
+      "Time Lapse",
+      "24/7 Parking Monitoring",
+      "Built-in Display"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6ebcb9a4-b5e6-4349-9b6e-7ca589ea1c4e.png",
+        "alt": "CP-KF28B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/55532b1c-243c-4174-bdb8-ea1a132b9324.png",
+        "alt": "CP-KF28B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "Front Camera: H=116°, D=137°, V=62° <br/>Rear Camera: H=102°, D=124°, V=53°",
+        "Image Sensor": "Front Camera: 1/2.8” Image sensor (0.9071 centimeters) , <BR> Rear Camera: 1/2.9” Image sensor (0.8758 centimeters)",
+        "Lens": "Front Camera: 3.0mm, <BR>Rear Camera: 3.35 mm",
+        "Max. Aperture": "Front Camera:    F1.9, <BR> Rear Camera:  F2.0",
+        "Compression": "Front Camera: H.265",
+        "Resolution": "Front Camera: 2MP, <BR> Rear Camera: 2MP",
+        "Screen type": "IPS (In-Plane Switching)",
+        "Screen size": "1.9",
+        "Screen Resolution": "172 x 320 (RGB)",
+        "Video Format": "MP4",
+        "Video resolution": "2MP (1080P + 1080P)@25fps",
+        "Smart Features": "Voice Prompt, G-Sensor (Emergency Recording), Built-in GPS, Parking Mode, WDR",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Connectivity": "AP Mode (Dashcam creates its own Wi-Fi hotspot/ Direct Wi-Fi to phone)",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Mobile App": "CarKam (Available for iOS and Android)",
+        "Microphone": "Support",
+        "Photo Format": "JPG",
+        "Battery": "1mAh Button Battery",
+        "Casing": "PC+ABS",
+        "Power Source": "5V/1.5A Type C",
+        "Operating Temperature": "-10°C~60°C",
+        "Storage temperature": "-20°C~70°C",
+        "Dimensions": "92.9 mm x 36.9 mm x 33.6 mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS",
+        "Input voltage": "12V-24V",
+        "Input Voltage Range": "11.60V-25V",
+        "Input Current Max.": "2.5A",
+        "Input Low Voltage Protection": "11.60V±0.2V,  23.60V±0.2V",
+        "Input Wire connection": "Yellow (B+), Black (GND), Red (ACC)",
+        "Output voltage": "5V",
+        "Output Rated Load": "12.5W",
+        "Output Power": "12.5W",
+        "Protections": "SCP, OCP, Input Low voltage cut-of",
+        "Ripple and Noise": "≤250mV",
+        "Line Regulation": "5%",
+        "Load Regulation": "5%",
+        "Efficiency": "≥80%",
+        "OCP": "≥4.5A",
+        "Output Cable Type": "Round 3 Core, Black",
+        "Working Ambient                           Temperature": "-20°C to 50°C",
+        "Storage Ambient Temperature": "-30°C to 80°C"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-KF28B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/1b090b80-ef8b-46f9-9f6d-9339e3a90060.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-kf28b"
+  }
+}

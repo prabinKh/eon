@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "ezyKam+",
+    "category_url": "https://cpplusworld.com/products/ezykam+",
+    "subcategory": "EzyHome",
+    "subcategory_url": "https://cpplusworld.com/products/ezyhome/ezykam",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "EzyHome",
+    "tab_id": "34",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "EzyHome",
+      "ezyKam+",
+      "CP-E35Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2103",
+    "product_name": "CP-E35Q",
+    "product_title": "CP-E35Q",
+    "product_url": "https://cpplusworld.com/cp-e35q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/dc1b5002-4f91-468c-925d-8fdfebc74c7e.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-e35q.html",
+  "detail": {
+    "title": "CP-E35Q",
+    "model": "CP-E35Q",
+    "brand": "CP Plus",
+    "overview": "3MP Wi-Fi PT Camera",
+    "features": [
+      "1/2.7” 3MP PS CMOS Image Sensor (0.9407 centimeters)",
+      "4mm Lens",
+      "H.265 Video Compression",
+      "Wi-Fi Support",
+      "Max. 20fps@3MP",
+      "IR Distance of 15 Mtr.",
+      "Works with Google Home"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/dc1b5002-4f91-468c-925d-8fdfebc74c7e.jpg",
+        "alt": "CP-E35Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ed2bb4da-3e7f-4716-be85-07f5e89bcce5.jpg",
+        "alt": "CP-E35Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7” 3MP PS CMOS Image Sensor (0.9407 centimeters)",
+        "Minimum Illumination": "Color: 0. 1Lux, B/W: 0.01Lux",
+        "FPS": "20fps",
+        "Lens": "4mm",
+        "Max. Aperture": "F2.0",
+        "Video Compression": "H.265",
+        "Angle of View": "Diagonal: 107°, Horizontal: 89°, Vertical: 48°",
+        "Back Light Compensation": "DWDR",
+        "S/N Ratio": "≥40.4 dB",
+        "Exposure Conditions": "Auto-adjust AWB, AGC, BLC",
+        "Picture Adjustment": "Auto-adjust Contrast, Brightness, Saturation",
+        "Resolution": "3MP (2304 x 1296)",
+        "Electronic Shutter": "1/50s(1/60s)-1/100,000s",
+        "Noise Reduction": "3D DNR",
+        "Motion detection": "Support",
+        "Motion Tracking": "Support",
+        "Audio Compression": "G.711A",
+        "Sound Detection": "Support",
+        "Built-in Siren": "Support",
+        "Echo Cancellation": "Support",
+        "Human Body Detection": "Support",
+        "Alarm Notification Push": "Support",
+        "Wireless Standard": "Wi-Fi 802.11 b/g/n",
+        "IR Distance": "IR Distance of 15 Mtr.",
+        "IR Number": "4pcs IR LEDs",
+        "Wi-Fi": "Support",
+        "Work with Alexa": "Support",
+        "Work with Google Home": "Support",
+        "IR Cut Filter": "Auto",
+        "Smart Phone": "Android, iOS",
+        "Pan/Tilt Angle": "Pan:355°, Tilt:59°",
+        "Audio": "Built-in Mic",
+        "Built-in Speaker": "Support",
+        "Two-way talk": "Support",
+        "Wireless Frequency": "2.4GHz",
+        "Application Environment": "Indoor",
+        "Storage": "Micro SD card (up to 256GB)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, CE, FCC, RoHS, BIS, WPC",
+        "Mobile App": "ezyKam+",
+        "Power Consumption": "Max. 5W",
+        "Power Supply": "DC 5V, 1A (USB Type C)",
+        "Operating Temperature": "-20°C~60°C",
+        "Operating Humidity": "<95%(no condensation)",
+        "Dimension": "72mm x72mm x 109mm",
+        "Casing": "ABS Plastic",
+        "Weight": "161g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-E35Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/2225d7d4-4f84-4159-90a3-7bc7bf9bf5d0.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-e35q"
+  }
+}

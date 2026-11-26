@@ -1,0 +1,122 @@
+{
+  "hierarchy": {
+    "category": "4 Ch.",
+    "category_url": "https://cpplusworld.com/products/4-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/4-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "56",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "4 Ch.",
+      "CP-UVR-0401F1V-I"
+    ]
+  },
+  "card_info": {
+    "product_id": "2234",
+    "product_name": "CP-UVR-0401F1V-I",
+    "product_title": "CP-UVR-0401F1V-I",
+    "product_url": "https://cpplusworld.com/cp-uvr-0401f1v-i-",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/a5e6fc7c-51d4-4d26-96be-80cc8833f81b.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-0401f1v-i-.html",
+  "detail": {
+    "title": "CP-UVR-0401F1V-I",
+    "model": "CP-UVR-0401F1V-I",
+    "brand": "CP Plus",
+    "overview": "4Ch. 5MP Digital Video Recorder",
+    "features": [
+      "Supports HDCVI, AHD, TVI, CVBS and IP video input",
+      "Supports up to 6 Channels IP camera input and each channel can be up to 6MP",
+      "The incoming bandwidth reaches 32 Mbps",
+      "4 Channels two-way talk over coaxial cable allows for seamless communication between the  camera, client and recorder",
+      "4 Channels IMD+ for analog channels or 6 Channels IMD by camera which allows the device to  trigger accurate alarms for humans and vehicles",
+      "4 Channels AI Coding saves on storage and bandwidth while               maintaining the details of targets in videos",
+      "Instastream, H.265, H.264+, H.264 dual stream video compression",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a5e6fc7c-51d4-4d26-96be-80cc8833f81b.png",
+        "alt": "CP-UVR-0401F1V-I - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/5af69ef4-7e58-42ab-ba09-fbabaf740f26.png",
+        "alt": "CP-UVR-0401F1V-I - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "IMD+ by DVR": "4 Channels: Secondary filtering for human and vehicle, reducing false alarms caused by leaves,  rain and lighting condition change",
+        "IMD By Camera": "6 Channels",
+        "Irregular Black Block Masking by DVR": "1 Channel",
+        "Analog Camera Input": "4 BNC ports, supports HDCVI/AHD/TVI/CVBS autodetect",
+        "Camera Input": "1. CVI: 5MP@25fps, 5MP@20fps, 5MP@10/12.5fps, 4MP@25/30fps, 1080p@25/30fps,  720p@50/60fps, 720p@25/30fps                                                                                                                2. TVI: 5MP(2560 x 1944)@20fps, 5MP(2960 x 1665)@20fps, 4MP@25/30fps,  1080p@25/30fps, 720p@25/30fps                                                                                                                 3. AHD: 5MP@20fps, 4MP@25/30fps, 1080p@25/30fps, 720p@25/30fps",
+        "IP Camera Input": "Up to 6 Channels of IPC access                                                                                                                               2 IP channels by default + 4 Channels (analog channels are converted to IP channels)                                   Incoming bandwidth: 32 Mbps, recording bandwidth: 32 Mbps and outgoing bandwidth: 32  Mbps",
+        "Stream Capability": "Dual stream",
+        "Video Frame Rate": "Main stream: 5MP Mode: 4 Channels 5MP@(1fps-6fps), others 5MN@(1fps-12fps) 5M-N  Mode: 5M-N@(1fps–12fps), 4M-N/ 1080p@(1fps–15fps), 1080N/720p/960H/D1/CIF@(1fps 25/30fps)                                                                                                                                                                   Sub stream: D1/CIF@(1fps–15fps)",
+        "Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sample Rate": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 kbps",
+        "Video Output": "1 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720;                                                                                            1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Video Display Split": "When IP extension mode not enabled: 1/4                                                                                                    When IP extension mode enabled: 1/4/6",
+        "Video Compression": "AI Coding, Instastream, H.265, H.264+, H.264",
+        "Audio Compression": "G.711a, G.711u, PCM, AAC",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP,  DDNS, SNMP, Alarm, Server, InstaOn, Auto Connect, IP Search, ONVIF 24.12 (Profile T, Profile  S, Profile G), CGI, SDK",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE; Safari, Edge, Firefox",
+        "Record Mode": "General, Alarm, Motion detection",
+        "Recording Playback": "1/4",
+        "Backup Mode": "USB device and network",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "General Alarm": "Motion detection, HDCVI alarm, Camera external alarm, Network alarm, PIR alarm",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict,  MAC conflict), Video loss, Video tampering, Camera offline",
+        "Intelligent Alarm": "IMD+",
+        "Alarm Linkage": "Record, Snapshot (panoramic), IPC external alarm output, Audio, Buzzer, Log, Preset, Email",
+        "Audio Input": "1 Channel RCA                                                                                                                                                         4 Channels BNC (Coaxial Audio)",
+        "Audio Output": "1 Channel RCA",
+        "Two-way Talk": "Coaxial two-way talk: 4-channel BNC                                                                                                              Local and network user two-way talk: Shares the same audio input with the first channel",
+        "Disk Interface": "1 SATA port, up to 16 TB. This limit varies depending on the environment temperature",
+        "Interface Ports": "2 USB (2 rear USB 2.0 ports)",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "<4 W (without HDD)",
+        "Operating Temperature": "–10°C to +45°C (+14°F to +113°F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Dimensions": "197.0 mm × 204.3 mm × 41.5 mm",
+        "Weight": "580g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-0401F1V-I.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/e0e92063-1a59-4a74-8432-b8d58e6ff036.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-0401f1v-i-"
+  }
+}

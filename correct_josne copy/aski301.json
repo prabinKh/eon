@@ -1,0 +1,243 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Kits",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/kits",
+    "series": "Kits",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/kits",
+    "tab_title": "Kits",
+    "tab_id": "118252",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Kits",
+      "Kits",
+      "Kits"
+    ]
+  },
+  "card_info": {
+    "product_id": "155205",
+    "product_name": "ASKI301",
+    "product_title": "Access Control Kit",
+    "product_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/kits/aski301",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/image/1_0_01_15_12902_944855522_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/aski301.html",
+  "detail": {
+    "title": "Access Control Kit",
+    "model": "ASKI301",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASKI301 Access Control Kit Key Points · All-in-one design, Simplifying Selection and Purchasing Steps · Visible Light Facial Recognition and Liveness Detection · 1,000 Faces, 3,000 Cards and 1,000 Passwords · 2-MP CMOS Dual-lens Camera, DWDR · 2.4-inch LCD Screen with Resolution of 320 × 240 · DC12V1A Power Output for Lock and Card Reader · Easy Configuration via PC and Mobile Web Client · Wi-Fi AP Mode Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/image/1_0_01_15_12902_944855522_crop_thumb.PNG",
+        "alt": "ASKI301_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/image/1_0_01_15_12902_944855521_crop_thumb.PNG",
+        "alt": "ASKI301_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/image/1_0_01_15_12902_944855520_crop_thumb.PNG",
+        "alt": "ASKI301_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "General (KIT)": {
+        "Packaging Dimensions": "368mm×130mm×145mm",
+        "Gross Weight": "3.3kg",
+        "Certifications": "CE",
+        "Power Supply": "12V 3A"
+      },
+      "System (ASI)": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Network Protocol": "IPv4;RTSP;UDP;P2P;IPv6;RTP;TCP",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF; CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic(ASI)": {
+        "Product Type": "Standalone",
+        "Display Screen": "2.4-inch display screen",
+        "Screen Type": "Non-touchscreen",
+        "Screen Resolution": "240 (H) × 320 (V)",
+        "Camera": "2 MP CMOS HD Dual Cameras",
+        "WDR": "DWDR",
+        "Light Compensation": "Auto IR",
+        "Voice Prompt": "Yes",
+        "Backlight": "Yes",
+        "Casing Material": "PC+ABS"
+      },
+      "Function(ASI)": {
+        "Verification Method": "Card/remote/password/face unlock",
+        "Card Type": "IC card",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4G",
+        "Peripheral Card Reader": "One RS-485 card reader or one Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Real-time Monitoring": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Capture Function": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID(ASI)": {
+        "Modulation Type": "ASK",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42dBuA/m @10m"
+      },
+      "Performance(ASI)": {
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")",
+        "Face Recognition HeightRange": "1.2 m–2.0 m (3.94 ft–6.56 ft)",
+        "Face Recognition Distance": "0.3 m–1.5 m (0.98 ft–4.92 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s"
+      },
+      "User(ASI)": {
+        "User (Card) Type": "Normal user; VIP users; patrol users; guest user; blocklist user; other user;custom users 1 and customusers 2"
+      },
+      "Capacity(ASI)": {
+        "User Capacity": "1000",
+        "Face Image Capacity": "1,000",
+        "Card Capacity": "3,000",
+        "Password Capacity": "1,000",
+        "Record Capacity": "100,000"
+      },
+      "Port(ASI)": {
+        "RS-485": "1 port (reuse the Wiegand port)",
+        "Wiegand": "1 port (reuse the RS-485 port)",
+        "USB": "1 × USB 2.0 port",
+        "Network Port": "1 × 10/100 Mbps Ethernet port",
+        "Doorbell": "1",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1",
+        "Power Output Port": "1 channel (12 V, 1.0 A)"
+      },
+      "Alarm(ASI)": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card ExceedingThreshold": "Yes"
+      },
+      "General(ASI)": {
+        "Power Consumption": "≤12 W",
+        "Product Dimensions": "184.9 mm × 76.2 mm × 20.5 mm (7.28\" × 3.00\" × 0.81\")(H × W × D)",
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9842.52 ft)",
+        "Operating Environment": "Indoor",
+        "Accessory": "Wall mount bracket (included)",
+        "Installation": "Wall Mount",
+        "Installation Angle": "Straight",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "30%–75%"
+      },
+      "Basic(Button)": {
+        "Casing Material": "ABS",
+        "Electrical Performance": "The max power for durability is 3 A, 36 VDC",
+        "Durability Test": "Passed 500,000 aging tests.",
+        "Contact Output": "NO, COM",
+        "Product Dimensions": "86 mm × 86 mm × 30 mm (3.39\" × 3.39\" × 1.18\") (H × W × D)",
+        "Operating Temperature": "–20 °C to +55 °C (–4 °F to +131 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing"
+      },
+      "Basic(Lock)": {
+        "Suction Plate Dimensions": "180 mm × 38 mm × 11 mm (7.09\" × 1.50\" × 0.43\")"
+      },
+      "Function(Lock)": {
+        "Signal Output": "Door status feed back",
+        "Security": "Open while power off"
+      },
+      "General (Lock)": {
+        "Starting Current": "480 mA; 240 mA",
+        "Power Supply": "12 VDC; 24 VDC",
+        "Lock Dimensions": "250 mm × 47 mm × 26 mm (9.84\" × 1.85\" × 1.02\")",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤ 95%"
+      },
+      "Basic (Bracket)": {
+        "Casing Material": "Aluminum alloy"
+      },
+      "General (Bracket)": {
+        "Appearance Color": "Silvery",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)"
+      },
+      "Basic (Card)": {
+        "Operating Frequency": "13.56MHZ",
+        "Storage Capacity": "1K Byte",
+        "Erase and Write Times": "200,000 times",
+        "Type": "IC",
+        "Product style": "Keyfob",
+        "Operating Temperature": "-20°~70°C (−4°F to 158°F)",
+        "Storage Structure": "16 sectors",
+        "Implementation Standards": "ISO14443-A",
+        "Card Reading Distance": "2cm~8cm (0.79''~3.15'')",
+        "Communication Rate": "106Kbps",
+        "Data shelf Life": "10 years",
+        "Product Dimensions": "Φ32mm",
+        "Casing Material": "PVC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/datasheet/DHI-ASKI301_S0_datasheet_20260429.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Face Recognition Access Controller_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/user_manual/Face_Recognition_Access_Controller_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-05-01 #Drawings ASKI301_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/drawings/1_0_01_15_12902_944855854.pdf"
+      },
+      {
+        "name": "2026-05-01 #Drawings ASKI301_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87874/drawings/1_0_01_15_12902_944855853.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/kits/aski301"
+  }
+}

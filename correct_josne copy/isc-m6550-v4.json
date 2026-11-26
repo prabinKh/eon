@@ -1,0 +1,210 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Security Screening Machine",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine",
+    "series": "Scanner",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner",
+    "tab_title": "Scanner",
+    "tab_id": "16317",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Security Screening Machine",
+      "Scanner",
+      "Scanner"
+    ]
+  },
+  "card_info": {
+    "product_id": "155082",
+    "product_name": "ISC-M6550",
+    "product_title": "AI Security Screening System",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner/isc-m6550=v4",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950543_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-m6550-v4.html",
+  "detail": {
+    "title": "AI Security Screening System",
+    "model": "ISC-M6550",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-M6550 AI Security Screening System Key Points ●650mm×500mm ●Wire Resolution：Typical: 40 AWG; Standard: 40 AWG ●Penetration(Steel)：Typical: 39 mm; Standard: 35 mm ●High Performance Single-View Screening Machine ●Ai Algorithm In Recognizes 33types Of Objects ●2 Built-In Cameras, Monitoring Tunnel Entry & Exit ●Speed Adjustment-Supports Three-Speed Adjustment (0.2, 0.3, 0.4 m/s). ●Intelligent Energy-Saving Function. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950543_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950541_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950544_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950545_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950723_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950724_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950546_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950547_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950548_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950550_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950551_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950552_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/image/1_0_01_46_10488_800950722_crop_thumb.PNG",
+        "alt": "ISC-M6550_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 193,
+    "specifications": {
+      "System": {
+        "CPU": "Intel quad-core processor",
+        "Memory": "16 G",
+        "Operating System": "Embedded Linux operating system",
+        "Operating Interface": "Local GUI (full functions); Web interface"
+      },
+      "General": {
+        "Tunnel Dimensions": "655 mm × 505 mm (25.79\" × 19.88\")",
+        "X-ray Tube Cooling": "Sealed oil bath with forced air",
+        "X-ray Tube Anode Voltage": "160 kV",
+        "Wire Resolution": "Typical: 40 AWG(0.08 mm); standard: 40 AWG(0.08 mm)",
+        "Penetration (steel)": "Typical: 39mm; standard: 35mm",
+        "Leaked Dose": "≤0.9 μSv/h (μGy/h)",
+        "Noise Level": "≤59 dB",
+        "Conveyor Belt Speed": "Adjustable 0.2 m/s, 0.3m/s and 0.4 m/s",
+        "Conveyor High": "666 mm",
+        "Max Belt Load": "170 kg (374.79 lb)",
+        "Insulation Resistance": "≥200 Ω",
+        "Leakage Current": "≤0.25 mA",
+        "Film Safety": "ASA/ISO 1600"
+      },
+      "Function": {
+        "Live View": "AI recognizes the scanned objects. And the AI box tracks the real-time movement of the objects. It support custom modification of the color of text and boxes.",
+        "Type Recognition": "Supports intelligent recognition of over a hundred categories of prohibited and restricted items, including knives, guns, law enforcement equipment, aerosol cans, liquids, batteries, fireworks, tools, walkie-talkies, drones, etc.",
+        "Danger Level": "Algorithm sensitivity settings for three levels (high, medium, low) are supported, allowing for the configuration of different security screening strategies based on types such as land transport, air transport, and special regulations.",
+        "Event Linkage": "The sound and light alarm (Alarm IO output), audio prompt, platform alarm, screen prompt and more will be triggered according to danger level.",
+        "Image Storage": "Supports storage for more than 1 million pictures. The picture includes danger level and item type, the original picture and the AI picture can be selected to view.",
+        "Baggage Search": "Supports search according to time, object type and more, playback and export scanned baggage images and associated videos.",
+        "TIP Management": "Supports the random insertion of dangerous good images into scanned package images generated during normal operations. Parameters include the insertion frequency and proportion of various types of dangerous goods, along with start and end times for the insertion can be configured. Additionally, relevant item insertion reports and assessment reports can be queried.",
+        "Package Linkage": "Configurable front entrance camera support the capture of packages, which are then linked with X-ray imaging and stored for easy retrieval by security screener and travelers for review.",
+        "Image Processing": "Supports the following image enhancement effects: color/ black & white, partial enhancement, super enhancement, edge enhancement, scanning, organic material stripping, inorganic material stripping, mixture stripping, inverse color, high energy enhancement, low energy enhancement, light, dark, density threat alert Z7/Z8/Z9, high density alert, AI overlay, vertical flip, pseudo color, etc.",
+        "Image Playback": "Supports playback of 30 images.",
+        "Image Zooming": "64x",
+        "Intelligent Temperature Control": "Detects the temperature of main board and HDD and automatically adjusts fan speed to make it work stably and quietly."
+      },
+      "Port": {
+        "RS232 Port": "1-Channel RS232 port",
+        "Power Port": "1-Channel port",
+        "USB Port": "2-Channel USB3.0",
+        "Video Output (Network)": "2-Channel input, 1-channel MIC Output (3.5 mm)",
+        "Network Port": "1 RJ45 (supports 1,000 M)",
+        "Display Port": "2-Channel HDMI output",
+        "Alarm Output Port": "3-Channel alarm output",
+        "Emergency Stop Button": "3 buttons"
+      },
+      "Regular": {
+        "Power Supply": "220–240 VAC, 50-60 Hz",
+        "Power Consumption": "800 W",
+        "Max Power Consumption": "1.2 kW",
+        "Operating Temperature": "0 °C to +45 °C (32 °F to +113 °F)",
+        "Operating Humidity": "0% to 95%",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "0% to 95%, non-condensing",
+        "Product Dimensions": "2,024 mm × 916 mm × 1,435 mm (79.69” × 36.06” × 56.50”)",
+        "Packaging Dimensions": "2,175 mm × 1,195 mm × 1,686 mm (85.83” × 47.05” × 66.41”)",
+        "Net Weight": "460 kg (1014.13 lb)",
+        "Gross Weight": "680 kg (1499.14 lb)",
+        "Installation": "Ground mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/datasheet/ISC-M6550_V4_datasheet_20260408.pdf"
+      },
+      {
+        "name": "2025-07-30 #User Manual AI Security Screening System_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87582/user_manual/AI_Security_Screening_System_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings ISC-M6550_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/drawings/ISC-M6550_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings ISC-M6550_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87581/drawings/ISC-M6550_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-16 #Firmware General_ISC-MXXXX_MainBoard_C_V4.001.0000000.0.R.250611 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87575/firmware/General_ISC-MXXXX_MainBoard_C_V4.001.0000000.0.R.250611.zip"
+      },
+      {
+        "name": "2025-07-15 #Firmware DH_ISC-MXXXX_Server_Eng_V4.001.0000000.0.R.250430 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87578/firmware/DH_ISC-MXXXX_Server_Eng_V4.001.0000000.0.R.250430.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner/isc-m6550=v4"
+  }
+}

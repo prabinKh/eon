@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Outdoor Parking",
+    "tab_id": "18133",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Outdoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "146011",
+    "product_name": "IPMPGI-251AB",
+    "product_title": "Outdoor LED Screen",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/led-screens/ipmpgi-251ab",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10130/ProductImage/1_9_10_01_10130_534034264_thumb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmpgi-251ab.html",
+  "detail": {
+    "title": "Outdoor LED Screen",
+    "model": "IPMPGI-251AB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMPGI-251AB Outdoor LED Screen Key Points • Parking Entrance/Exit Design • Displays the number of available parking spaces. • Supports text & symbols in red, green, yellow color • 10mm Ultra-Dense Pixel Pitch – clearly displays 4 large characters per line, supporting up to 6 lines. • Super High Brightness (6,000+nits) – brilliant visibility under direct sunlight • IP54 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10130/ProductImage/1_9_10_01_10130_534034264_thumb.jpg",
+        "alt": "IPMPGI-251AB_View_45left-logo.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Basic": {
+        "Display Screen Type": "LED",
+        "Display Color": "Display in red, green, and yellow",
+        "Display Screen Dimensions": "320 mm × 800 mm (12.60\" × 31.50\") (L × W)",
+        "Display Contents": "Displays the available number of parking spaces",
+        "Pixels Configuration": "1R1PG",
+        "Screen Resolution": "2560 dots (32 × 80); 5 lines; pixel pitch: 10 mm (0.39\")",
+        "Display Screen Lifespan": "100,000 h",
+        "Brightness": "6000 cd/㎡"
+      },
+      "Port": {
+        "Network Port": "5 ports, 100 Mbps Ethernet port (RJ-45)"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC",
+        "Power Consumption": "150 W",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Protection": "IP54",
+        "Product Dimensions": "2,400 mm × 700 mm × 140 mm (94.49\" × 27.56\" × 5.51\") (L × W × H)",
+        "Net Weight": "≤90 kg (198.42 lb)",
+        "Gross Weight": "≤145 kg (319.67 lb)",
+        "Installation": "Floor-standing mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPMPGI-251AB_datasheet_20231219.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Outdoor LED Screen_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010281/202411/Outdoor_LED_Screen_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document IPMPGI-251AB_A&E_20240817002621 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81918/a_e_document/IPMPGI-251AB_A_E_20240817002621.docx"
+      },
+      {
+        "name": "2023-11-01 #Drawings IPMPGI-251AB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81912/drawings/DHI-IPMPGI-251AB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-01 #Drawings IPMPGI-251AB_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81912/drawings/DHI-IPMPGI-251AB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/led-screens/ipmpgi-251ab"
+  }
+}

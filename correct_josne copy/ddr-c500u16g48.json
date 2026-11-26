@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "DRAM",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/dram",
+    "series": "C500",
+    "series_url": "https://www.dahuasecurity.com/products/memory/dram/c500",
+    "tab_title": "C500",
+    "tab_id": "18238",
+    "breadcrumbs": [
+      "Memory",
+      "DRAM",
+      "C500",
+      "C500"
+    ]
+  },
+  "card_info": {
+    "product_id": "153093",
+    "product_name": "DDR-C500U16G48",
+    "product_title": "Memory Module",
+    "product_url": "https://www.dahuasecurity.com/products/memory/dram/c500/ddr-c500u16g48",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10702/ProductImage/1_0_01_06_10702_750389301_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ddr-c500u16g48.html",
+  "detail": {
+    "title": "Memory Module",
+    "model": "DDR-C500U16G48",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DDR-C500U16G48 Memory Module Key Points • Strict selection of high quality DRAM • Broad compatibility platform • Rich capacity is available for selection • Product Life Cycle Warranty • DDR5 Higher performance • PMIC management -Intelligent voltage regulation • On-die ECC intelligent error correction Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10702/ProductImage/1_0_01_06_10702_750389300_crop_thumb.png",
+        "alt": "DDR-C500U16G48_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10702/ProductImage/1_0_01_06_10702_750389301_crop_thumb.png",
+        "alt": "DDR-C500U16G48_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10702/ProductImage/1_0_01_06_10702_750389299_crop_thumb.png",
+        "alt": "DDR-C500U16G48_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical": {
+        "Product Model": "DHI-DDR-C500S8G48",
+        "Capacity": "8G",
+        "Type": "SODIMM",
+        "Applicable": "DDR5 Laptop",
+        "Voltage": "1.1V",
+        "CAS Latency": "CL40",
+        "Frequency": "4800MHz",
+        "Number of Pins": "288Pin",
+        "Operating Temperature": "0 °C to +70 °C (32 °F to +158 °F)",
+        "Storage Temperature": "–20 °C to +85 °C (–4 °F to +185 °F)",
+        "Operating Humidity": "25%–85% (RH), non-condensing",
+        "Warranty": "Lifetime",
+        "Product Dimensions": "69*.6mm*30mm*3.58mm①",
+        "Packaging Dimensions": "110mm*100mm*10mm",
+        "Net Weight": "8.5g",
+        "Gross Weight": "36g",
+        "Reference Information": "① The thickness is calculated at the thickest point. 1- For memory modules of the same generation, the operating frequency is backward compatible. For example, the frequency of DDR5 includes 4800 MHz, 5600 MHz, 6000 MHz and more. The memory module with the frequency of 6000 MHz can be used in motherboards supporting 4800 MHz or 5600 MHz with lower frequency."
+      },
+      "Ordering Information": {
+        "Type": "Model",
+        "C500 SERIES": "DHI-DDR-C500U8G48",
+        "DHI-DDR-C500U16G48": "C500 Series DDR5 4800 16 GB Memory Module for Desktops",
+        "DHI-DDR-C500U8G56": "C500 Series DDR5 5600 8 GB Memory Module for Desktops",
+        "DHI-DDR-C500U16G56": "C500 Series DDR5 5600 16 GB Memory Module for Desktops",
+        "DHI-DDR-C500S8G48": "C500 Series DDR5 4800 8 GB Memory Module for Laptops",
+        "DHI-DDR-C500S16G48": "C500 Series DDR5 4800 16 GB Memory Module for Laptops",
+        "DHI-DDR-C500S8G56": "C500 Series DDR5 5600 8 GB Memory Module for Laptops",
+        "DHI-DDR-C500S16G56": "C500 Series DDR5 5600 16 GB Memory Module for Laptops"
+      },
+      "Technical Speciﬁcation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DDR-C500S16G48_datasheet_20240604.pdf"
+      },
+      {
+        "name": "2025-06-17 #User Manual DDR-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010073/202506/DDR-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/dram/c500/ddr-c500u16g48"
+  }
+}

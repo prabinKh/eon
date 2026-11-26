@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Alpha Smart Scale with App & Bluetooth BMI - Mercury"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816531747",
+    "product_name": "Alpha Smart Scale with App & Bluetooth BMI - Mercury",
+    "product_title": "Alpha Smart Scale with App & Bluetooth BMI - Mercury",
+    "product_url": "https://antesports.com/products/alpha-scale-app-bmi-mercury",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/72.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/alpha-scale-app-bmi-mercury.html",
+  "detail": {
+    "title": "Alpha Smart Scale with App & Bluetooth BMI - Mercury",
+    "model": "ANTR0003",
+    "brand": "Ant Esports",
+    "overview": "The Ant Alpha is an app-enabled bathroom scale that pairs over Bluetooth to track 12 essential body metrics, including weight, BMI and body fat, all synced automatically to a companion app on Android and iOS. Its supportive large display makes results easy to read at a glance, while a rechargeable battery means no more hunting for replacement AAAs every few months. The scale recognises individual users automatically once paired, making it simple for a whole household to track their progress on one machine without mixing up data. Finished in a striking Mercury tone, it's a practical, long-lasting addition to any bathroom or home gym.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/72.png",
+        "alt": "Alpha Smart Scale with App & Bluetooth BMI - Mercury - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth, App Enabled",
+        "Metrics Tracked": "12 Body Metrics",
+        "Display": "Large Display",
+        "Power": "Rechargeable Battery",
+        "Color": "Mercury",
+        "CONNECTIVITY": "Bluetooth, App Enabled",
+        "METRICS TRACKED": "12 Body Metrics",
+        "DISPLAY": "Large Display",
+        "POWER": "Rechargeable Battery",
+        "COLOR": "Mercury",
+        "SKU": "ANTR0003"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (MERCURY)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK4100-Mercury-Setup%201.0.2.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/alpha-scale-app-bmi-mercury"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Optical Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+    "tab_title": "Optical Series",
+    "tab_id": "1501",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Optical Series",
+      "Optical Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152088",
+    "product_name": "EPT9A1825-HNR-F",
+    "product_title": "8MP 25x Starlight IR Explosion-proof Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/ept9a1825-hnr-f",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15623/ProductImage/1_0_01_07_15623_617384397_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ept9a1825-hnr-f.html",
+  "detail": {
+    "title": "8MP 25x Starlight IR Explosion-proof Camera",
+    "model": "EPT9A1825-HNR-F",
+    "brand": "Dahua",
+    "overview": "Favourite EPT9A1825-HNR-F 8MP 25x Starlight IR Explosion-proof Camera Key Points • 1/1.8\" 8Megapixel STARVIS™ CMOS • Powerful 25x optical zoom • 316L stainless steel housing • Starlight technology • H.265/H.264 Triple-stream Encoding • Max.25/30fps@2560P • IP68 • Wiper Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15623/ProductImage/1_0_01_07_15623_617384397_crop_thumb.png",
+        "alt": "EPT9A1825-HNR-F_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15623/ProductImage/1_0_01_07_15623_617384401_crop_thumb.png",
+        "alt": "EPT9A1825-HNR-F_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15623/ProductImage/1_0_01_07_15623_617384399_crop_thumb.png",
+        "alt": "EPT9A1825-HNR-F_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Wiper": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "5.4 mm–135 mm": "2406 m( 7893.70 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "IVS (Perimeter Protection)": {},
+      "Face Detection": {},
+      "SMD": {},
+      "Quick Pick": {},
+      "Sound Warning": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Optical Fiber": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82980/datasheet/EPT9A1825-HNR-F_S0_datasheet_20250903.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Explosion Proof Pan Tilt Camera_Quick Tour_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82979/user_manual/Explosion_Proof_Pan_Tilt_Camera_Quick_Tour_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide (EPT9A1)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82979/user_manual/Installation_Guide_(EPT9A1)_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-06-06 #A&E Document EPT9A1825-HNR-F_A&E_20260918013710 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82980/a_e_document/1789666868451.docx"
+      },
+      {
+        "name": "2024-12-06 #Drawings EPT9A1825-HNR-F_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82978/drawings/DH-EPT9A1445-HNR-F_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-06 #Drawings EPT9A1825-HNR-F_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82978/drawings/DH-EPT9A1445-HNR-F_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-29 #Firmware DH_SD-Taurus_MultiLang_PN_Stream3-Normal-M_V3.200.0000016.14.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82980/firmware/DH_SD-Taurus_MultiLang_PN_Stream3-Normal-M_V3.200.0000016.14.R.260514.zip"
+      },
+      {
+        "name": "2025-10-20 #Firmware General_PTZ9A1XXX-HN-GA_MCU_V2.401.0000003.14.R.250925 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3418164/M/General_PTZ9A1XXX-HN-GA_MCU_V2.401.0000003.14.R.250925.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/ept9a1825-hnr-f"
+  }
+}

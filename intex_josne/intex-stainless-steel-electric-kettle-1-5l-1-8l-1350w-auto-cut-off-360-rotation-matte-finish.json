@@ -1,0 +1,85 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://www.intex.in/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://www.intex.in/collections/home-appliances-series",
+    "tab_title": "Home Appliances",
+    "tab_id": "8919356801242",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Home Appliances",
+      "Intex Stainless Steel Electric Kettle – 1.5L / 1.8L, 1350W (Matte Finish)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8919356801242",
+    "product_name": "Intex Stainless Steel Electric Kettle – 1.5L / 1.8L, 1350W (Matte Finish)",
+    "product_title": "Intex Stainless Steel Electric Kettle – 1.5L / 1.8L, 1350W (Matte Finish)",
+    "product_url": "https://www.intex.in/products/intex-stainless-steel-electric-kettle-1-5l-1-8l-1350w-auto-cut-off-360-rotation-matte-finish",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Stainless-Steel-Kettle.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2499.0,
+      "display": "₹2,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-stainless-steel-electric-kettle-1-5l-1-8l-1350w-auto-cut-off-360-rotation-matte-finish.html",
+  "detail": {
+    "title": "Intex Stainless Steel Electric Kettle – 1.5L / 1.8L, 1350W (Matte Finish)",
+    "model": "1-5L-1-8L-1350W-360",
+    "brand": "Intex",
+    "overview": "Capacity: 1.8 Ltr / 1.5 Ltr Power Requirement: 230V-50Hz 1350W Concealed Element Body: Stainless steel with matte finish Durable PP Plastic Rotation: 360 degree Automatic & Manual Switch Off Auto Cut Off: Yes",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Stainless-Steel-Kettle.jpg",
+        "alt": "Intex Stainless Steel Electric Kettle – 1.5L / 1.8L, 1350W (Matte Finish)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Trusted Brand Legacy": "With years of experience in delivering reliable electronics and appliances, Intex is a name customers trust for consistent performance.",
+        "High-Quality Performance": "Our products are built using durable materials and advanced technology to ensure long-lasting and efficient operation.",
+        "Affordable Innovation": "We bring you modern features and smart designs at prices that make sense—no unnecessary premium, just real value.",
+        "Wide Product Range": "From home appliances to electronics, Intex offers a variety of solutions designed to meet everyday needs.",
+        "Customer-Centric Support": "Dedicated service and support to ensure a smooth experience before and after your purchase.",
+        "Energy Efficient Designs": "Our products are designed to consume less power while delivering optimal performance—saving both energy and money.",
+        "Model": "1-5L-1-8L-1350W-360"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-stainless-steel-electric-kettle-1-5l-1-8l-1350w-auto-cut-off-360-rotation-matte-finish"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "100487",
+    "product_name": "ARD323-W2(868S)",
+    "product_title": "Dahua Wireless Door Detector (Small)",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard323-w2(868s)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10607/ProductImage/1_0_01_19_10607_835749971_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard323-w2-868s.html",
+  "detail": {
+    "title": "Dahua Wireless Door Detector (Small)",
+    "model": "ARD323-W2(868S)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD323-W2(868S) Dahua Wireless Door Detector (Small) Key Points 1. Supports real-time device status display on the DMSS APP, pushing timely notifications of alarm events when armed, acting as a monitoring mechanism. 2. Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10607/ProductImage/1_0_01_19_10607_835749971_crop_thumb.PNG",
+        "alt": "ARD323-W2(868S)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10607/ProductImage/1_0_01_19_10607_835749972_crop_thumb.PNG",
+        "alt": "ARD323-W2(868S)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10607/ProductImage/1_0_01_19_10607_835749974_crop_thumb.PNG",
+        "alt": "ARD323-W2(868S)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10607/ProductImage/1_0_01_19_10607_835749976_crop_thumb.PNG",
+        "alt": "ARD323-W2(868S)_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Indicator Light": {},
+      "Button": {},
+      "Remote Update": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "Measuring Range (Temperature)": {},
+      "Sensor": {},
+      "Movement Distance": {},
+      "Test Mode": {},
+      "Scenario": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Power Supply Type": {},
+      "Battery Life": {},
+      "Low Battery Threshold": {},
+      "Battery Restore Threshold": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27567/datasheet/DHI-ARD323-W2(868S)_datasheet_20250310.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Wireless Door Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005704/202507/Wireless_Door_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Dahua Wireless Door Detector_User's Manual_V1.1.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005704/202507/Dahua_Wireless_Door_Detector_User_27s_Manual_V1.1.1.pdf"
+      },
+      {
+        "name": "2024-09-03 #Drawings ARD323-W2(868S)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27567/drawings/ARD323-W2(868S)_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-09-03 #Drawings ARD323-W2(868S)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35257/drawings/ARD323-W2(868S)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-09-03 #Drawings ARD323-W2(868S)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27577/drawings/ARD323-W2(S)_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-08-25 #Firmware General_ARD323-W2_868_V1.000.0000004.0.R.20230811 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2299918/M/General_ARD323-W2_868_V1.000.0000004.0.R.20230811.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard323-w2(868s)"
+  }
+}

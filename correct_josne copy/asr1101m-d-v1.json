@@ -1,0 +1,126 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "140547",
+    "product_name": "ASR1101M-D-V1",
+    "product_title": "DHI-ASR1101M-D-V1 Vandal-proof Indoor Password ID Card Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1101m-d-v1",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11663/ProductImage/1_0_01_25_11663_41405115_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr1101m-d-v1.html",
+  "detail": {
+    "title": "DHI-ASR1101M-D-V1 Vandal-proof Indoor Password ID Card Reader",
+    "model": "ASR1101M-D-V1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR1101M-D-V1 DHI-ASR1101M-D-V1 Vandal-proof Indoor Password ID Card Reader Key Points • Vander-proof Card and Password Reader • RS-485 and Wiegand(W26/W34) Protocol • ID Card (125KHz) Reading • Mechnical Keypad for Operation • Prompts Using The Buzzer and Indicator Light • IK08 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11663/ProductImage/1_0_01_25_11663_41405115_crop_thumb.png",
+        "alt": "ASR1101M-D-V1_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11663/ProductImage/1_0_01_25_11663_41405116_crop_thumb.png",
+        "alt": "ASR1101M-D-V1_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing": "Zinc alloy"
+      },
+      "Function": {
+        "Unlock Mode": "Card; password",
+        "Card Type": "ID card"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")"
+      },
+      "Port": {
+        "RS-485": "Yes",
+        "Wiegand": "Yes"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "9–15 VDC, 100 mA",
+        "Protection": "IK08",
+        "Power Consumption": "≤ 0.9 W (standby), ≤ 1 W (working)",
+        "Product Dimensions": "110 mm × 85 mm × 26 mm (4.33\" × 3.35\" × 1.02\") (L × W × H)",
+        "Packaging Dimensions": "153 mm × 144 mm × 77 mm (6.02\" × 5.67\" × 3.03\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Net Weight": "0.48 kg (1.06 lb)",
+        "Gross Weight": "0.56 kg (1.23 lb)",
+        "Installation": "Surface mount; 86 case mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASR1101M-D-V1_datasheet_20220316.pdf"
+      },
+      {
+        "name": "2025-08-03 #User Manual Access Reader_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002379/202501/Access_Reader_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-03-30 #Drawings ASR1101M-D-V1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79097/drawings/ASR1101M-D-V1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-05-17 #Firmware General_ASR1XXXM_NOENC_MCU_V4.000.0000000.0.R.220104 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/1789109/M/General_ASR1XXXM_NOENC_MCU_V4.000.0000000.0.R.220104.zip"
+      },
+      {
+        "name": "2022-05-17 #Firmware ASR1XXXM_NOENC Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/1789110/ASR1XXXM_NOENC.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1101m-d-v1"
+  }
+}

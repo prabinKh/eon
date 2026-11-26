@@ -1,0 +1,132 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "126607",
+    "product_name": "ASR2200A-B",
+    "product_title": "Dahua Card Swiping, Bluetooth card Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr2200a-b",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11995/ProductImage/1_0_01_25_11995_1488351237_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr2200a-b.html",
+  "detail": {
+    "title": "Dahua Card Swiping, Bluetooth card Reader",
+    "model": "ASR2200A-B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR2200A-B Dahua Card Swiping, Bluetooth card Reader Key Points • Slim Water-proof Card and Bluetooth Reader • RS-485 and Wiegand 34 Protocol • Mifare Classic 1K Card (13.56MHz) Reading • Works with ASC3202B • Prompts Using The Buzzer and Indicator Light • IP66 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11995/ProductImage/1_0_01_25_11995_1488351237_crop_thumb.png",
+        "alt": "ASR2200A-B_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11995/ProductImage/1_0_01_25_11995_1488351238_crop_thumb.png",
+        "alt": "ASR2200A-B_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11995/ProductImage/1_0_01_25_11995_1488351239_crop_thumb.png",
+        "alt": "ASR2200A-B_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing Material": "Tempered glass/PC"
+      },
+      "Function": {
+        "Unlock Mode": "Card swiping/Bluetooth",
+        "Card Type": "IC card",
+        "Bluetooth": "Yes"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–5 cm (0\"–1.97\")",
+        "Bluetooth Distance": "1.Short-range: ≤0.2 m (0.66 ft). 2.Mid-range: ≤2 m (6.56 ft). 3.Long-range: ≤10 m (32.81 ft). The Bluetooth unlock range might differ depending on models of your phone and the environment."
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1 output channel"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 0.5 A",
+        "Protection": "IP66",
+        "Power Consumption": "Standby ≤0.9 W, working ≤1.7W",
+        "Product Dimensions": "135 mm × 40 mm × 15 mm (5.31\" × 1.57\" × 0.59\") (H × W × D)",
+        "Packaging Dimensions": "195 mm × 75 mm × 52 mm (7.68\" × 2.95\" × 2.05\") (H × W × D, 1 in inner carton) 415 mm × 400 mm × 230 mm (16.34\" × 15.75\" × 9.06\") (H × W × D, carton)",
+        "Operating Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Outdoor",
+        "Gross Weight": "0.16 kg (0.35 lb)",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASR2200A-B_datasheet_20230914.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Access Reader_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007680/202501/Access_Reader_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-03-17 #Drawings ASR2200A-B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11707/drawings/ASR2201A-D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-03-17 #Drawings ASR2200A-B_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11697/drawings/ASR2201A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-04-07 #Firmware General_ASR2X0XA-BX_NOENC_MCU_V1.001.0000000.0.R.230304 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2126136/M/General_ASR2X0XA-BX_NOENC_MCU_V1.001.0000000.0.R.230304.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr2200a-b"
+  }
+}

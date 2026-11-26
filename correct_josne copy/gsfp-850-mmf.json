@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "Optical Module",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/optical-module",
+    "tab_title": "Optical Module",
+    "tab_id": "13717",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "Optical Module",
+      "Optical Module"
+    ]
+  },
+  "card_info": {
+    "product_id": "101097",
+    "product_name": "GSFP-850-MMF",
+    "product_title": "Gigabit Optical Module",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/opticalmodule/gsfp-850-mmf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211126/1_0_01_20_10797_2136130417_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/gsfp-850-mmf.html",
+  "detail": {
+    "title": "Gigabit Optical Module",
+    "model": "GSFP-850-MMF",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211126/1_0_01_20_10797_2136130417_thumb.png",
+        "alt": "GSFP-850-MMF",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/opticalmodule/gsfp-850-mmf"
+  }
+}

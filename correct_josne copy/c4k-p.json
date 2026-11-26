@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Cube Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/cube-series",
+    "tab_title": "Cube Series",
+    "tab_id": "18157",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Cube Series",
+      "Cube Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "146430",
+    "product_name": "C4K-P",
+    "product_title": "4MP Compact Wi-Fi & PoE Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/cube-series/c4k-p",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20240821/C2K-P_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/c4k-p.html",
+  "detail": {
+    "title": "4MP Compact Wi-Fi & PoE Camera",
+    "model": "C4K-P",
+    "brand": "Dahua",
+    "overview": "Compare Favourite C4K-P 4MP Compact Wi-Fi & PoE Camera Key Points • Fast Pairing with Bluetooth • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • AI Vehicle Detection • AI Human Detection • Built-in Mic & Speaker, Support Two-way Talk • Quickly Connect Wireless Camera with Account via PoE or Wi-Fi Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240821/C2K-P_1_thumb.png",
+        "alt": "C4K-P_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240821/C2K-P_1_2_thumb.png",
+        "alt": "C4K-P_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR)",
+        "Illuminator Number": "1 (IR LED)",
+        "Angle Adjustment": "Pan: 0° to 360° Tilt: -10° to 100°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "2.8 mm: H: 92°; V: 50°; D: 107° 3.6 mm: H: 75°; V: 41°; D: 88°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Video Frame Rate": "Main stream: 2560 × 1440@(1-25/30 fps) Sub stream: 640 × 360@(1-25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.264: 24 kbps–6144 kbps H.265: 9 kbps–6144 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "Yes",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "PCM; G.711a; G.711Mu"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.412–2.472 GHz, 2.4 G",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "Smart PSS Lite;DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "Function": {
+        "Abnormal Sound Alarm": "Yes"
+      },
+      "General": {
+        "Certifications": "CE",
+        "Power Supply": "12 VDC/PoE",
+        "Power Consumption": "Basic: 2.04 W (12 VDC); 4.7 W (PoE) Max.: 2.89 W (12 VDC); 5.85 W (PoE)",
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Camera Button": "Reset button",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "64 mm × 100 mm × 34 mm (2.52\" × 3.94\" × 1.34\") (L × W × H)",
+        "Net Weight": "0.11 kg (0.24 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/C4K-P_S0_datasheet_20240607.pdf"
+      },
+      {
+        "name": "2025-04-17 #User Manual Dahua Cube Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009242/202504/Dahua_Cube_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-04-17 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.9 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88308/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.9.pdf"
+      },
+      {
+        "name": "2025-04-17 #User Manual Cube Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009242/202504/Cube_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-06-06 #A&E Document C4K-P_A&E_20260918013633 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82245/a_e_document/1789666871956.docx"
+      },
+      {
+        "name": "2024-05-14 #Drawings C4K-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82548/drawings/IPC-K1230K-STW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-05-14 #Drawings C4K-P_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82548/drawings/IPC-K1230K-STW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-07-02 #Firmware DH_IPC-HX2XXX-W-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82870/firmware/DH_IPC-HX2XXX-W-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/cube-series/c4k-p"
+  }
+}

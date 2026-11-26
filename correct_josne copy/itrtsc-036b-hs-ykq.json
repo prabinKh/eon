@@ -1,0 +1,184 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Traffic Signal Controller and Traffic Light",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Traffic Signal Controller and Traffic Light",
+    "tab_id": "14027",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Traffic Signal Controller and Traffic Light",
+      "Traffic Signal Controller and Traffic Light"
+    ]
+  },
+  "card_info": {
+    "product_id": "147069",
+    "product_name": "ITRTSC-036B-HS-YKQ",
+    "product_title": "Dahua Traffic Signal Controller",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-signal-controller-and-traffic-light/traffic-signal-controller/itrtsc-036b-hs-ykq",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15230/ProductImage/1_0_01_09_15230_696931476_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itrtsc-036b-hs-ykq.html",
+  "detail": {
+    "title": "Dahua Traffic Signal Controller",
+    "model": "ITRTSC-036B-HS-YKQ",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITRTSC-036B-HS-YKQ Dahua Traffic Signal Controller Key Points • Supports 36-channels Signal Light Access • Self-Adaptive Flow Control • Flexible Modular Design • IP66 Waterproof • Easy-to-Use Management Interface Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15230/ProductImage/1_0_01_09_15230_696931476_crop_thumb.png",
+        "alt": "ITRTSC-036B-HS-YKQ_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15230/ProductImage/1_0_01_09_15230_696931477_crop_thumb.png",
+        "alt": "ITRTSC-036B-HS-YKQ_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15230/ProductImage/1_0_01_09_15230_696931478_crop_thumb.png",
+        "alt": "ITRTSC-036B-HS-YKQ_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15230/ProductImage/1_0_01_09_15230_696933866_crop_thumb.png",
+        "alt": "ITRTSC-036B-HS-YKQ_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Function": {
+        "Display Screen": "LCD",
+        "Flasher": "Standard hardware flasher, independent on program control",
+        "Flashing Yellow": "Flashing yellow during failure",
+        "Channel": "3 output boards, supporting 36 channels",
+        "Types of Phases": "16 parent phases and 16 overlap phases. Supports repeat running of parent phase, meeting requirements of repeat timing in a cycle and independent parameter settings",
+        "Signal Group Output": "12 groups",
+        "Cycle Scheme": "Up to 54 cycle schemes",
+        "Multi-period Timing": "Up to 112 daily schemes, 48 pretimed periods, 30 weekly schemes, 30 daily dispatch schemes, and 30 special dispatch schemes",
+        "Pedestrian Crossing": "Input and output of up to 8 pedestrian pushbuttons",
+        "Actuated Control": "Up to 16-channel coils and 64-channel traffic enforcement cameras. Two detecting devices (include camera, coil, and more) can be used for detecting one lane",
+        "Signal Control Mode": "Manual control, pretimed control, cableless link control, actuated control, pedestrian crossing coordination control",
+        "Manual Control": "Manual control and remote control through host computer or central platform to meet on-site requirements",
+        "Change of Control Modes": "Natural change between manual control and automatic control (pretimed control, actuated control, and more)",
+        "Cableless Link Control": "Yes. Coordination control is realized by GPS time synchronization and setting offset",
+        "Special Mode Control": "Yes",
+        "Two-intersection Control": "Yes",
+        "Temporary Scheme": "Supports configuring or clearing temporary schemes through platform",
+        "Waiting Area": "Yes",
+        "Default Light Color": "Default light colors include all red, flashing yellow, light off, and red flashing. Default light color displays when no phase is running in a scheme or no channel is configured",
+        "Special Status": "Supports special status control of traffic lights, such as all red, flashing yellow, light off, and red flashing",
+        "Count down": "Self-learning, pulse, and RS-485 communication countdown timers. Supports setting baud rate when using RS-485 communication countdown timer",
+        "Timing": "Network Sync; GPS; NTP; Manual Time Adjustment",
+        "Hot Standby of Main Control": "Yes",
+        "Phase": "Separately set parameters of phase for cycle schemes and repeated phase. Each cycle scheme can be set with different phase parameters",
+        "Signal Control Duration": "Adjustable",
+        "Auto Phase Timing": "When adjusting a cycle, set the total cycle length, and the phases will be timed automatically according to the split (the ratio of phase time and cycle length in a cycle)",
+        "Failure Detection": "Degradation mechanism in case of green conflict and light fault; independent hardware yellow flashing control; fault information upload and search",
+        "Access Control Monitoring": "Supports door open/close monitoring and reporting",
+        "Network Control": "Communicates with host computer or central platform through network; supports setting temporary scheme and special tasks on platform",
+        "Information Security": "Identity authentication, control order verification, update verification of operation parameters, and broadcast storm protection",
+        "Parameters Configuration": "Supports setting control parameters on PC client and remote server",
+        "Update": "Network upgrade, USB/TF card upgrade",
+        "Lighting": "Yes, supports door open/close and lighting linkage",
+        "Voltage Monitoring": "Monitoring and display of input voltage, input current, and overall power consumption",
+        "Auto Maintenance": "yes",
+        "Temperature and Humidity Monitoring": "Reports temperature and humidity to platform",
+        "Low Voltage Downgrade": "Yes",
+        "Startup Sequence": "Adjustable"
+      },
+      "Port": {
+        "Control Switch": "1 main power switch, 1 controller switch, 1 signal light control switch, 1 flasher switch, and 1 lighting switch",
+        "Power Input": "1",
+        "Network Port": "3 RJ-45 10/100 Mbps Ethernet ports: 1 on the main control board, and 2 on the communication control board",
+        "RS-232": "8",
+        "RS-485": "4",
+        "USB": "2",
+        "TF Card": "2",
+        "GPS": "2",
+        "Alarm Input": "14 (pedestrian pushbutton input port included)",
+        "Alarm Output": "10 (pedestrian pushbutton output port included)"
+      },
+      "General": {
+        "Power Supply": "220 VAC ± 20%, 50 Hz ± 2 Hz",
+        "Insulation": "Insulation resistance ≥10 MΩ",
+        "Voltage Withstanding": "1500 VAC, 50 Hz (1500 VAC, 50 Hz voltage is applied between the power electrode or other conductive circuits connected to the power electrode and easily accessible parts such as cabinets and installation casing)",
+        "Power Consumption": "≤60 W (no load)",
+        "Drive Power": "≤550 W",
+        "Operating Temperature": "–40 °C to +80 °C (–40 °F to +176 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Protection": "IP54",
+        "Anti-corrosion Level": "Moderate Protection",
+        "Protective Features": "Mains lightning protection; network lightning protection; electromagnetic immunity (no electrical failure in electromagnetic disturbance environments such as electrostatic discharge, fast electrical transient bursts, surges, and short-term voltage interruptions); waterproof (passed rain test. The signal controller works normally during and after the test, and there is no water seepage or accumulation inside the signal controller); dustproof (during and after the dust test, the signal controller works normally, and there is no large amount of dust inside the signal controller); corrosion (the signal controller works normally after the salt spraying test, and there is no serious corrosion of metal components such as the signal controller casing and internal rack); passed vibration test and steel ball impact test",
+        "Product Dimensions": "450.0 mm × 300.0 mm × 1,348.2 mm (17.72\" × 11.81\" × 53.08\") (L × W × H), without antenna cover; 450.0 mm × 300.0 mm × 1,388.5 mm (17.72\" × 11.81\" × 54.67\") (L × W × H), with antenna cover",
+        "Packaging Dimensions": "710.0 mm × 570.0 mm × 1,650.0 mm (27.95\" × 22.44\" × 64.96\")",
+        "Net Weight": "66.0 kg (145.51 lb)",
+        "Gross Weight": "73.0 kg (160.94 lb)",
+        "Certifications": "CE-LVD: EN 62368-1:2014+A11:2017 CE-EMC:EN IEC 61000-6-1:2019;EN IEC 61000-6-3:2021 CE-RED:EN 301 489-1 V2.2.3;EN 301 489-3 V2.3.2;EN 301 489-19 V2.2.1;EN 300220-1 V3.1.1 433MHz;EN 300220-2 V3.1.1 433MHz;EN 303413 V1.2.1 GPS;EN IEC 62311:2020",
+        "Installation": "Floor-standing",
+        "Remote control": "Included",
+        "RF433M Modulation Type": "FSK",
+        "RF433M Frequency Range": "433.05 MHz–434.79 MHz",
+        "RF433M Power Transmission": "10 mw (EIRP)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITRTSC-036B-HS-YKQ_datasheet_20241112.pdf"
+      },
+      {
+        "name": "2025-04-26 #User Manual Traffic Signal Controller_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009534/202504/Traffic_Signal_Controller_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-04-26 #User Manual Traffic Signal Controller_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009534/202504/Traffic_Signal_Controller_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-08-28 #A&E Document ITRTSC-036B-HS-YKQ_A&E_20260918020232 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82605/a_e_document/1789668657411.docx"
+      },
+      {
+        "name": "2024-11-08 #Drawings ITRTSC-036B-HS-YKQ_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82526/drawings/DHI-ITRTSC-036B-HS-YKQ_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-11-08 #Drawings ITRTSC-036B-HS-YKQ_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITRTSC-036B-HS-YKQ.pdf"
+      },
+      {
+        "name": "2025-04-11 #Firmware General_ITRTSC-036B_MultiLang_P_Oversea_V2.630.0000000.0.R.250122 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3077062/M/General_ITRTSC-036B_MultiLang_P_Oversea_V2.630.0000000.0.R.250122.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-signal-controller-and-traffic-light/traffic-signal-controller/itrtsc-036b-hs-ykq"
+  }
+}

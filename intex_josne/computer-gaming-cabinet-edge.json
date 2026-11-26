@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://www.intex.in/collections/gaming-cabinet-series",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "8614660440282",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Cabinet",
+      "Computer Gaming Cabinet Edge"
+    ]
+  },
+  "card_info": {
+    "product_id": "8614660440282",
+    "product_name": "Computer Gaming Cabinet Edge",
+    "product_title": "Computer Gaming Cabinet Edge",
+    "product_url": "https://www.intex.in/products/computer-gaming-cabinet-edge",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP_2fbcaf16-fddd-4bea-bfa2-4f8ec6ef1437.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4999.0,
+      "display": "₹4,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/computer-gaming-cabinet-edge.html",
+  "detail": {
+    "title": "Computer Gaming Cabinet Edge",
+    "model": "Edge",
+    "brand": "Intex",
+    "overview": "Dominate your game with The Edge. This gaming cabinet is a fusion of raw power and aggressive aesthetics. Featuring a tempered glass side panel and 3x 120mm ARGB fans, The Edge is designed to both impress and perform. Unleash your system's full potential in style.",
+    "features": [
+      "3x120mm Front Rainbow LED Fans",
+      "Clear Tempered Side Glass Panel for Edgy Style",
+      "USB 3.0 Ready",
+      "ABS+Steel Net Front Panel",
+      "Smooth Airflow",
+      "ATX/M-ATX/ITX"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP_2fbcaf16-fddd-4bea-bfa2-4f8ec6ef1437.png",
+        "alt": "Computer Gaming Cabinet Edge",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "3x120mm Front Rainbow LED Fans",
+        "Feature 2": "Clear Tempered Side Glass Panel for Edgy Style",
+        "Feature 3": "USB 3.0 Ready",
+        "Feature 4": "ABS+Steel Net Front Panel",
+        "Feature 5": "Smooth Airflow",
+        "Feature 6": "ATX/M-ATX/ITX"
+      },
+      "General": {
+        "Model": "Edge"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Gaming_Cabinet_Edge_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/computer-gaming-cabinet-edge"
+  }
+}

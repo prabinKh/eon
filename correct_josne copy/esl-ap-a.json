@@ -1,0 +1,128 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "ESL",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/esl",
+    "series": "Z Series AP Station",
+    "series_url": "https://www.dahuasecurity.com/my/products/security-screening-&-esl-&-eas/esl/z-series-ap-station",
+    "tab_title": "Z Series AP Station",
+    "tab_id": "16717",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "ESL",
+      "Z Series AP Station",
+      "Z Series AP Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "133327",
+    "product_name": "ESL-AP-A",
+    "product_title": "Electronic Shelf Label AP Station",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/esl/z-series-ap-station/esl-ap-a",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10610/ProductImage/1_9_03_09_10610_520054036_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/esl-ap-a.html",
+  "detail": {
+    "title": "Electronic Shelf Label AP Station",
+    "model": "ESL-AP-A",
+    "brand": "Dahua",
+    "overview": "Favourite ESL-AP-A Electronic Shelf Label AP Station Key Points > Strong extensibility, one AP station can manage up to 2000+ shelf labels. > Plug and play. > AES 128-bit encryption technology, which highly protects information security. > Shelf labels automatically search compatible AP stations. > Supports various IoT protocols. > Bluetooth / Wi-Fi dual mode indoor wireless base station. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10610/ProductImage/1_9_03_09_10610_520054036_crop_thumb.png",
+        "alt": "ESL-AP-A_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10610/ProductImage/1_9_03_09_10610_520054035_crop_thumb.png",
+        "alt": "ESL-AP-A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10610/ProductImage/1_9_03_09_10610_520054033_crop_thumb.png",
+        "alt": "ESL-AP-A_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10610/ProductImage/1_9_03_09_10610_520054037_crop_thumb.png",
+        "alt": "ESL-AP-A_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ESL-AP-A",
+        "Technology": "Bluetooth and Wi-Fi",
+        "Operating Frequency": "2.4 GHz+5 GHz",
+        "Coverage": "20m radius indoors"
+      },
+      "Certifications": {
+        "Certifications": "CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU"
+      },
+      "Processor": {
+        "CPU Main Frequency": "775 MHz",
+        "Chip Solution": "QCA 9563"
+      },
+      "Input&Output Port": {
+        "POE": "Yes"
+      },
+      "Dimensions&pPackaging": {
+        "Bare Machine Dimensions": "180 mm × 180 mm × 33 mm (7.09”× 7.09”× 1.30”)",
+        "Packaging Dimensions": "32 cm × 22 cm ×5.5 cm (12.60”× 8.66” × 2.17”)",
+        "Gross Weight": "780 g (1.72 lb)",
+        "Net Weight": "500 g (1.10 lb)",
+        "Packaging": "Carton"
+      },
+      "Function": {
+        "Memory": "16M FLASH + 128M RAM",
+        "Power Supply": "48 V PoE",
+        "Automatic Access": "Yes",
+        "Frequency-hopping Technology": "Yes",
+        "BLE Private Protocol": "Yes",
+        "Warranty (month)": "12",
+        "Transmission Frequency": "1167 Mbps",
+        "Operating Temperature": "–10 °C to 60 °C (14 °F to 140 °F)",
+        "Installation": "Ceiling-mounted"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ESL-AP-A_datasheet_20240325.pdf"
+      },
+      {
+        "name": "2024-09-07 #User Manual Electronic Shelf Label AP Station DHI-ESL-AP-A_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008296/Electronic_Shelf_Label_AP_Station_DHI-ESL-AP-A_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-11-24 #Drawings ESL-AP-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75327/drawings/ESL-AP-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/esl/z-series-ap-station/esl-ap-a"
+  }
+}

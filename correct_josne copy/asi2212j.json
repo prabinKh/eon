@@ -1,0 +1,191 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Standalone",
+    "tab_id": "545",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "118957",
+    "product_name": "ASI2212J",
+    "product_title": "Dahua Single Door IC Card, Password, Fingerprint Access Standalone",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/pro/asi2212j",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221216/ASI2212J-ASI2212J-D_left_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi2212j.html",
+  "detail": {
+    "title": "Dahua Single Door IC Card, Password, Fingerprint Access Standalone",
+    "model": "ASI2212J",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI2212J Dahua Single Door IC Card, Password, Fingerprint Access Standalone Key Points • Optical Fingerprint Recognition Networked Access Standalone • 3,000 Fingerprints, 5,000 Cards and 3,000 Passwords • 2.4-inch TFT Display Screen with Resolution of 240 × 320 • Fingerprint Comparison Time < 1s • Audio Prompts and Doorbell function • Mechnical Keypad for Operation • Easy Configuration via PC Web Client Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221216/ASI2212J-ASI2212J-D_left_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221216/ASI2212J-ASI2212J-D_front1_thumb.png",
+        "alt": "ASI2212J_front",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221216/ASI2212J-ASI2212J-D_right_thumb.png",
+        "alt": "ASI2212J_right",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Network Protocol": "UDP; TCP; IPv4; P2P",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF; CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "2.4\" LCD",
+        "Screen Type": "LCD",
+        "Screen Resolution": "240 (H) × 320 (V)",
+        "Voice Prompt": "Yes",
+        "Backlight": "Yes",
+        "Casing Material": "PC+ABS"
+      },
+      "Function": {
+        "Verification Method": "Configuration of card, remote, password, fingerprint combination unlock and multi-user combination unlock.",
+        "Unlock Mode": "Card, remote, password, fingerprint unlock, unlock through their combinations. and multi-user combination unlock.",
+        "Card Type": "Mifare cards (IC card)",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Peripheral Card Reader": "1 × RS-485 card reader 1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–6 cm (0\"–2.36\")",
+        "Fingerprint Sensor Type": "Optical",
+        "Fingerprint Verification Mode": "1:N",
+        "Fingerprint Comparison Time": "1 s"
+      },
+      "User": {
+        "User (Card) Type": "Normal user; VIP users; patrol users; guest user; blocklist user; other user"
+      },
+      "Capacity": {
+        "User Capacity": "5,000",
+        "Fingerprint Capacity": "3,000",
+        "Card Capacity": "5,000",
+        "Password Capacity": "5,000",
+        "Record Capacity": "100,000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1",
+        "USB": "1 × USB 2.0",
+        "Network Port": "1 × RJ-45 100 Mbps self-adaptive Ethernet port",
+        "Alarm Input": "1",
+        "Alarm Output": "1",
+        "Alarm Linkage": "Yes",
+        "Doorbell": "1",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes",
+        "Duress Fingerprint": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Optional",
+        "Power Supply": "12 VDC (the device can provide power to the lock)",
+        "Power Consumption": "≤12 W",
+        "Product Dimensions": "205 mm × 86 mm × 30 mm (8.07\" × 3.38\" × 1.18\") (H × W × W)",
+        "Packaging Dimensions": "254 mm × 131 mm × 75 mm (10.00\" × 5.16\" × 2.95\") (H × W × W)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9842.52 ft)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.45 kg (0.99 lb)",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Installation Angle": "Straight"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASI2212J_datasheet_20230309.pdf"
+      },
+      {
+        "name": "2026-03-08 #User Manual Access Standalone_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86579/user_manual/Access_Standalone_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-03-08 #User Manual Access Standalone_Quick Start Guide_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/user_manual/Access_Standalone_Quick_Start_Guide_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI2212J_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/drawings/1_0_01_15_12900_944855851.pdf"
+      },
+      {
+        "name": "2026-03-24 #Firmware DH_ASIX2XXJ-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.2.R.260310 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57847/firmware/DH_ASIX2XXJ-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.2.R.260310.zip"
+      },
+      {
+        "name": "2026-03-24 #Firmware DH_ASIX2XXJ-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.2.R.260310 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57837/firmware/DH_ASIX2XXJ-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.2.R.260310.zip"
+      },
+      {
+        "name": "2026-03-24 #Firmware DH_ASIX2XXJ-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.2.R.260310 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57837/firmware/DH_ASIX2XXJ-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.2.R.260310.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/pro/asi2212j"
+  }
+}

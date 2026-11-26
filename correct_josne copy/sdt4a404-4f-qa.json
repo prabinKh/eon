@@ -1,0 +1,179 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "X-Spans Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/x-spans-series",
+    "tab_title": "Project",
+    "tab_id": "18225",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "X-Spans Series",
+      "Project"
+    ]
+  },
+  "card_info": {
+    "product_id": "151915",
+    "product_name": "SDT4A404-4F-QA",
+    "product_title": "X-spans 4MP+4MP 4x Wizmind Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt4a404-4f-qa",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15635/ProductImage/1_0_01_07_15635_891453307_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sdt4a404-4f-qa.html",
+  "detail": {
+    "title": "X-spans 4MP+4MP 4x Wizmind Network PTZ Camera",
+    "model": "SDT4A404-4F-QA",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SDT4A404-4F-QA X-spans 4MP+4MP 4x Wizmind Network PTZ Camera Key Points • Captures a Large Area and Great Details at the Same Time • High-Quality Imaging with 4MP Resolution for Overview Channel, 4MP for Detailed Channel • Face Recognition: Supports Face Information Collection, Property Expression Fetching, Face Database Management and Comparison • Analyzes Student Behavior in Classroms by Detecting 7 Activities • Analyzes Student Behavior in Examination Rooms by Detecting 8 Activities • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15635/ProductImage/1_0_01_07_15635_891453307_crop_thumb.png",
+        "alt": "SDT4A404-4F-QA_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15635/ProductImage/1_0_01_07_15635_891453308_crop_thumb.png",
+        "alt": "SDT4A404-4F-QA_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "Panorama: 2.2 mm; Detail: 8 mm–32 mm": "441.4 m( 144.36 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "Face Recognition": {},
+      "Classroom Behavior Analysis": {},
+      "Behavior Analysis in Examination Room": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Region of Interest (RoI)": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82849/datasheet/SDT4A404-4F-QA_S0_datasheet_20250305.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51507/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide (SDT-4A1)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82849/user_manual/Installation_Guide_(SDT-4A1)_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-04-19 #A&E Document SDT4A404-4F-QA_A&E_20260918010745 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82849/a_e_document/1789665054117.docx"
+      },
+      {
+        "name": "2024-04-16 #Drawings SDT4A404-4F-QA_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82849/drawings/SDT4A404-4F-QA_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-04-16 #Drawings SDT4A404-4F-QA_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82849/drawings/SDT4A404-4F-QA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-04-29 #Firmware General_SDT4AXXX-HN_MCU_V2.401.0000001.65.R.230401 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2276424/M/General_SDT4AXXX-HN_MCU_V2.401.0000001.65.R.230401.zip"
+      },
+      {
+        "name": "2024-10-11 #Firmware DH_SD-Gram_MultiLang_PN_Stream3-Lingjing_V2.820.1CVO003.0.R.240905 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2830767/M/DH_SD-Gram_MultiLang_PN_Stream3-Lingjing_V2.820.1CVO003.0.R.240905.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt4a404-4f-qa"
+  }
+}

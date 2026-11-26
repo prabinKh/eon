@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Cables",
+    "category_url": "https://cpplusworld.com/products/cables",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/cables",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "94",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Cables",
+      "CP-EUT-6TP2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2208",
+    "product_name": "CP-EUT-6TP2",
+    "product_title": "CP-EUT-6TP2",
+    "product_url": "https://cpplusworld.com/cp-eut-6tp2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/6e2211e6-7616-43c3-a5d5-bbd1acbb8123.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-eut-6tp2.html",
+  "detail": {
+    "title": "CP-EUT-6TP2",
+    "model": "CP-EUT-6TP2",
+    "brand": "CP Plus",
+    "overview": "CAT 6 UTP LAN Cable",
+    "features": [
+      "Conforms to TIA /EIA- 568-C.2",
+      "Excellent Margin with suppression of Cross Talk (NEXT)",
+      "2 conductors twisted together to form a pair",
+      "20 Mtr. Standard Cable Length",
+      "4 Pairs are laid up and separated from one another through a Cross Separator",
+      "Laid up of 4 Pairs is sheathed with PVC"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6e2211e6-7616-43c3-a5d5-bbd1acbb8123.png",
+        "alt": "CP-EUT-6TP2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8a87cdd2-e14d-4d1b-9187-fc9899ae4984.png",
+        "alt": "CP-EUT-6TP2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Conduct Type": "Stranded Bare Electrolytic Grade Copper",
+        "Nominal Conductor Diameter": "24AWG (7/0.195 ± 0.010)",
+        "Insulation": "Polyethylene (HDPE)",
+        "No. of Pair": "4, Each pair Twisted",
+        "Pairing": "Twisted into Two core",
+        "Connector Type": "UTP RJ-45 3Part Connector both ends",
+        "Outer Sheath Material": "PVC",
+        "Colour of Sheath": "Grey",
+        "Approximate OD": "5.90mm ± 0.20mm",
+        "Cable Skew": "Max. 45 (ns/100 Mtr.)",
+        "Conductor Resistance": "Max. 98 @20°C",
+        "Standard Length": "20 Mtr.",
+        "Temperature Rating": "-15°C to +70°C",
+        "Resistance Unbalance": "5 Max",
+        "Capacitance Unbalance": "Max. 330 (pf/100 Mtr.)",
+        "Velocity of Propagation": "69%",
+        "Mutual Capacitance": "Max. 5.6 (nf/100 Mtr.)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EUT-6TP2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-eut-6tp2"
+  }
+}

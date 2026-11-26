@@ -1,0 +1,212 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 4 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series",
+    "tab_title": "IR",
+    "tab_id": "118266",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 4 Series",
+      "IR"
+    ]
+  },
+  "card_info": {
+    "product_id": "155705",
+    "product_name": "IPC-HDBW4241E-AS",
+    "product_title": "2MP IR Fixed-focal Dome WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series/ir/ipc-hdbw4241e-as",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_393434034-Black_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdbw4241e-as.html",
+  "detail": {
+    "title": "2MP IR Fixed-focal Dome WizMind Network Camera",
+    "model": "IPC-HDBW4241E-AS",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDBW4241E-AS 2MP IR Fixed-focal Dome WizMind Network Camera Key Points • 2MP@60fps Enhances Image Smoothness and Detail • Enhanced Deep Learning-Based Human and Vehicle Classification • Leveraging Facial Data to Enhance Business Analytics Accuracy • Built-in Mic for Real-Time Audio Security • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_393434034-Black_crop_thumb.png",
+        "alt": "IPC-HDBW4241E-AS_Rendergraph_45Left-logo-Black&White-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_330162900_crop_thumb.PNG",
+        "alt": "IPC-HDBW4241E-AS_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_330163918_crop_thumb.PNG",
+        "alt": "IPC-HDBW4241E-AS_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_248218943-Black_thumb.png",
+        "alt": "IPC-HDBW4241E-AS_View_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_248218942-Black_crop_thumb.png",
+        "alt": "IPC-HDBW4241E-AS_View_45left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_393434030-Black_crop_thumb.png",
+        "alt": "IPC-HDBW4241E-AS_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/image/1_0_01_04_37587_393434033-Black_crop_thumb.png",
+        "alt": "IPC-HDBW4241E-AS_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 193,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "512 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.002 lux@F1.4 (Color, 30 IRE) 0.0002 lux@F1.4 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": "> 56 dB",
+        "Illumination Distance": "50 m (164.04 ft)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "3 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–355°; Tilt: 0°–75°; Rotation: 0°–355°",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm; 6 mm",
+        "Max. Aperture": "F1.4",
+        "Field of View": "2.8 mm: Horizontal:107°; vertical: 56°; diagonal: 127° 3.6 mm: Horizontal:88°; vertical: 44°; diagonal: 105° 6 mm: Horizontal:54°; vertical: 29° ; diagonal: 63°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 0.7 m (2.3 ft) 3.6 mm: 1.3 m (4.3 ft) 6 mm: 2.6 m (8.5 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "43.9 m (144.03 ft)",
+        "3.6 mm": "58.9 m (193.24 ft)",
+        "6 mm": "85.5 m (280.51 ft)",
+        "IVS (Perimeter Protection)": "Tripwire, intrusion (support the classification and accurate detection of vehicle and human)",
+        "SMD 3.0": "Less false alarm, longer detection distance",
+        "Face Detection": "Face detection; track; snapshot; snapshot optimization; optimal face snapshot upload; face enhancement; face exposure; face snapshot set as face or one-inch photo; 3 snapshot strategies (real-time snapshot, optimization snapshot, and quality priority); face angle filter; optimization time setting",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+ Smart H.264+",
+        "AI Coding": "AI H.265 AI H.264",
+        "Video Frame Rate": "Main stream: 1920 × 1080 @ (1–50/60) fps Sub stream 1: 704 × 576 @ (1–50 fps)/704 × 480 @ (1–60 fps) Sub stream 2: 1920 × 1080 @ (1–50/60 fps) Sub stream 3: 1280 × 720 @ (1–50/60 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity",
+        "Stream Capability": "4 streams",
+        "Resolution": "1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); CIF (352 × 288/352 × 240); VGA (640 × 480)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 3 kbps–8192 kbps H.265: 3 kbps–8192 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart lllumination": "Yes",
+        "Defog": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (support 90°/270° with 1920×1080 resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726; G.723",
+        "Alarm Event": "No SD card, SD card full, SD card error, network disconnection, IP conflict, illegal access, motion detection, video tampering, tripwire, intrusion, scene changing, audio detection, voltage detection, external alarm, face detection, SMD and security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP;TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; SNMP",
+        "Security": "Digest; WSSE; Account lockout; Security logs; IP/MAC filtering; Generation and importing of X.509 certification; syslog; HTTPS; 802.1x; Trusted boot; Trusted execution; Trusted upgrade",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T); CGI; P2P; Milestone; Genetec",
+        "User/Host": "20 (Total bandwidth: 64 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 512 G); NAS",
+        "Browser": "IE:IE11 Chrome Firefox",
+        "Management Software": "Smart PSS; DSS; DMSS",
+        "Mobile Client": "IOS; Android",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; FCC: 47 CFR FCC Part 15, Subpart B; UL/CUL: UL62368-1 & CAN/CSA C22.2 No. 62368-1-14",
+        "Audio Input": "1 channel (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "1 channel in: 5 mA 3–5 VDC",
+        "Alarm Output": "1 channel out: 300 mA 12 VDC",
+        "Power Supply": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 2.3 W (12 VDC); 2.9 W (PoE) Max. (WDR + IR intensity + Intelligence): 6.6 W (12 VDC); 7.7 W (PoE)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to 140 °F) /Less than 95% RH",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to 140 °F)",
+        "Protection": "IP67; IK10",
+        "Casing": "Metal",
+        "Product Dimensions": "89.1 mm × Φ111.7 mm (3.51\" × Φ4.40\")",
+        "Net Weight": "516 g (1.14 lb)",
+        "Gross Weight": "670 g (1.48 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/datasheet/DH-IPC-HDBW4241E-AS_S0_datasheet_20250324.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Dome Network_ Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/user_manual/Dahua_Dome_Network__Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54247/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Dome Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/user_manual/Dahua_Dome_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-03-17 #A&E Document IPC-HDBW4241E-AS_A&E_20260917191710 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/a_e_document/1789644712337.docx"
+      },
+      {
+        "name": "2023-02-01 #Drawings IPC-HDBW4241E-AS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/drawings/1_0_01_04_37587_296972326.pdf"
+      },
+      {
+        "name": "2022-03-30 #Drawings IPC-HDBW4241E-AS_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88227/drawings/1_0_01_04_37587_6475404.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX4XXX-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88316/firmware/DH_IPC-HX4XXX-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series/ir/ipc-hdbw4241e-as"
+  }
+}

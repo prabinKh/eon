@@ -1,0 +1,155 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Cooper Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series",
+    "tab_title": "5MP",
+    "tab_id": "7027",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Cooper Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "153834",
+    "product_name": "HAC-B1A51-U",
+    "product_title": "5MP IR HDCVI Fixed-focal Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/5mp/hac-b1a51-u=s3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27491/ProductImage/1_0_01_12_27491_519956980_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-b1a51-u-s3.html",
+  "detail": {
+    "title": "5MP IR HDCVI Fixed-focal Bullet Camera",
+    "model": "HAC-B1A51-U",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-B1A51-U 5MP IR HDCVI Fixed-focal Bullet Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 30 m Illumination Distance for Superior Camera Image Quality • 2DNR & DWDR Ensures Clear Details in Strong Backlight Conditions • Effortless Signal Selection with DIP Switch • Time-saving Installation with Quick-to-install Structure • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27491/ProductImage/1_0_01_12_27491_519956980_crop_thumb.PNG",
+        "alt": "HAC-B1A51-U_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27491/ProductImage/1_0_01_12_27491_519956983_crop_thumb.PNG",
+        "alt": "HAC-B1A51-U_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27491/ProductImage/1_0_01_12_27491_519956985_crop_thumb.PNG",
+        "alt": "HAC-B1A51-U_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "66.0 m( 216.54 ft)",
+        "3.6 mm": "79.4 m( 260.50 ft)",
+        "6 mm": "118 m( 387.14 ft)"
+      },
+      "*DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {
+        "Lens": "Detect",
+        "2.8 mm": "66.0 m( 216.54 ft)",
+        "3.6 mm": "79.4 m( 260.50 ft)",
+        "6 mm": "118 m( 387.14 ft)"
+      },
+      "Video Frame Rate": {},
+      "Resolution": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Illumination Mode": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Certifications": {},
+      "Video Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84980/datasheet/HAC-B1A51-U_S3_datasheet_20250716.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-06-10 #Drawings HAC-B1A51-U_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84098/drawings/HAC-B1A51-U(-A)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-10 #Drawings HAC-B1A51-U_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84098/drawings/HAC-B1A51-U(-A)_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/5mp/hac-b1a51-u=s3"
+  }
+}

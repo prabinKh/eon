@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Indoor Parking",
+    "tab_id": "18134",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Indoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "126677",
+    "product_name": "IPMPGI-1032",
+    "product_title": "Dahua Indoor Guidance Screen (Two-Layer)",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/indoor-parking/led-screens/ipmpgi-1032",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_12_10191/ProductImage/1_0_99_12_10191_328127279_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmpgi-1032.html",
+  "detail": {
+    "title": "Dahua Indoor Guidance Screen (Two-Layer)",
+    "model": "IPMPGI-1032",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMPGI-1032 Dahua Indoor Guidance Screen (Two-Layer) Key Points • LED Color: display in red, green and yellow • LED supports display of English letters, numbers, and arrows for directional guidance or real-time remaining parking space display. • Wide range power supply from 100–240 VAC • Ceiling mounted Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_12_10191/ProductImage/1_0_99_12_10191_328127279_thumb.png",
+        "alt": "IPMPGI-1032_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_12_10191/ProductImage/1_0_99_12_10191_328127277_thumb.png",
+        "alt": "IPMPGI-1032_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Display Screen": "LED (display in red, green and yellow)",
+        "Display Screen Dimensions": "976 mm × 244 mm (38.43\" × 9.61\") (L × W)",
+        "Display Contents": "English letters, Chinese characters, numbers and arrows",
+        "Pixels Configuration": "1R1PG",
+        "Screen Resolution": "4,096 dots (128 × 32, 8 English letters per line), dot splicing: 7.62 mm (0.3\")",
+        "Display Screen Lifespan": "100,000 h",
+        "Brightness": "1000 cd/㎡"
+      },
+      "Port": {
+        "Network Port": "1× 100 Mbps RJ-45 Ethernet port"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC",
+        "Power Consumption": "<40 W",
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Storage Temperature": "–35 °C to +60 °C (–31 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Humidity": "10%–90%, non-condensing",
+        "Protection": "IP50",
+        "Product Dimensions": "1,245 mm × 65 mm × 277 mm (49.02\" × 2.56\" × 10.91\") (L × W × H)",
+        "Packaging Dimensions": "1,365 mm × 370 mm × 195 mm (53.74\" × 14.57\" × 7.68\") (L × W × H)",
+        "Net Weight": "8.5 kg (18.74 lb)",
+        "Gross Weight": "10.2 kg (22.49 lb)",
+        "Installation": "Ceiling mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPMPGI-1032_datasheet_20230314.pdf"
+      },
+      {
+        "name": "2026-08-13 #User Manual Third Generation Indoor Guidance Screen_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68237/user_manual/Third_Generation_Indoor_Guidance_Screen_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-02-23 #A&E Document IPMPGI-1032_A&E_20240817005130 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68247/a_e_document/IPMPGI-1032_A_E_20240817005130.docx"
+      },
+      {
+        "name": "2023-03-11 #Drawings IPMPGI-1032_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68247/drawings/1_0_99_12_10191_319849822.pdf"
+      },
+      {
+        "name": "2023-03-11 #Drawings IPMPGI-1032_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68247/drawings/IPMPGI-1032_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/indoor-parking/led-screens/ipmpgi-1032"
+  }
+}

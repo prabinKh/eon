@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/keyboard",
+    "series": "Keyboard Series",
+    "series_url": "https://www.intex.in/collections/keyboard-series",
+    "tab_title": "Keyboard",
+    "tab_id": "7707495530714",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Keyboard",
+      "(IT-KB331) Wired Gaming Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "7707495530714",
+    "product_name": "(IT-KB331) Wired Gaming Keyboard",
+    "product_title": "(IT-KB331) Wired Gaming Keyboard",
+    "product_url": "https://www.intex.in/products/it-kb331-wired-gaming-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_b707a831-fbcf-4749-8ad6-fbea990cdab1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1299.0,
+      "display": "₹1,299.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/it-kb331-wired-gaming-keyboard.html",
+  "detail": {
+    "title": "(IT-KB331) Wired Gaming Keyboard",
+    "model": "1147-1014-027",
+    "brand": "Intex",
+    "overview": "Gaming Wired Keyboard RGB Backlit Design Plug & play 80 Lac Clicks Button Cycle 1.2m Elongated Wire Length Spill Resistance Optical Tracking Technology One Year Service Warranty",
+    "features": [
+      "Gaming Wired Keyboard",
+      "RGB Backlit Design",
+      "Plug & play",
+      "80 Lac Clicks Button Cycle",
+      "1.2m Elongated Wire Length",
+      "Spill Resistance",
+      "Optical Tracking Technology",
+      "One Year Service Warranty"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_b707a831-fbcf-4749-8ad6-fbea990cdab1.jpg",
+        "alt": "(IT-KB331) Wired Gaming Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/2_f99d6138-e6b5-44b0-ad01-3b211f923d8a.jpg",
+        "alt": "(IT-KB331) Wired Gaming Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/3_a6104e59-fff3-4707-b51d-fd8d4d89b623.jpg",
+        "alt": "(IT-KB331) Wired Gaming Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/4_16fb3cfa-0c85-4cbb-a7e1-346ba110203d.jpg",
+        "alt": "(IT-KB331) Wired Gaming Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/5_08ca976f-b7fc-4b79-9101-6cb298577f2b.jpg",
+        "alt": "(IT-KB331) Wired Gaming Keyboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Gaming Wired Keyboard",
+        "Feature 2": "RGB Backlit Design",
+        "Feature 3": "Plug & play",
+        "Feature 4": "80 Lac Clicks Button Cycle",
+        "Feature 5": "1.2m Elongated Wire Length",
+        "Feature 6": "Spill Resistance",
+        "Feature 7": "Optical Tracking Technology",
+        "Feature 8": "One Year Service Warranty"
+      },
+      "General": {
+        "Model": "1147-1014-027"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/it-kb331-wired-gaming-keyboard"
+  }
+}

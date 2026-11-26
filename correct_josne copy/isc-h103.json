@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "120347",
+    "product_name": "ISC-H103",
+    "product_title": "Handheld Metal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-h103",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_10_10003/ProductImage/1_9_03_10_10003_107786923_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-h103.html",
+  "detail": {
+    "title": "Handheld Metal Detector",
+    "model": "ISC-H103",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-H103 Handheld Metal Detector Key Points ●Portable Size, Light Weight, Sensitive, Accurate And Stable Metal Detection. ●Easy To Operate And Carry. ●Adjustable Sensitivity, Which Can Detect Extremely Tiny Metal Objects. ●Adjustable Alarm Modes: Sound, Light And Vibration. ●Power-Saving, Automatic Standby Without Operation For A Long Time, With Standby Time More Than 100 Hours. ●Automatic Sleep And Shutdown. ●Sound And Light Alarm Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_10_10003/ProductImage/1_9_03_10_10003_107786923_crop_thumb.png",
+        "alt": "ISC-H103_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_10_10003/ProductImage/1_9_03_10_10003_107786924_crop_thumb.png",
+        "alt": "ISC-H103_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_10_10003/ProductImage/1_9_03_10_10003_107786921_crop_thumb.png",
+        "alt": "ISC-H103_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_10_10003/ProductImage/1_9_03_10_10003_107786922_crop_thumb.png",
+        "alt": "ISC-H103_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "General parameters": {
+        "Product Dimensions": "360 mm × 82.5 mm × 42.5 mm (14.17\" × 3.25\" × 1.67) (L × W × H)",
+        "Packaging Dimensions": "410 mm × 130 mm × 70 mm (16.14\" × 3.25\" × 1.67) (L × W × H)",
+        "Net Weight": "270 g (0.60 lb) (without battery)",
+        "Gross Weight": "800 g (with packaging)",
+        "Operating Temperature": "–25 °C to +60 °C (–13 °F to 140 °F)",
+        "Operating Humidity": "0–95%, non-condensing",
+        "Material": "ABS",
+        "Battery Specifications": "2 × 1.5 V AA alkaline batteries",
+        "Power Consumption": "<60 mW (normal operation)",
+        "Duration": "Continuous work for 100 h",
+        "Operating Frequency": "130 kHz",
+        "Detection Area": "136 mm × 70 mm (5.35\" × 2.76\") (L× W)",
+        "Alarm Volume": "≤87.6 dB"
+      },
+      "Functional Parameter": {
+        "Adjustable Sensitivity": "4 levels",
+        "Variable Metal Induction Intensity": "3 levels",
+        "Certification": "GB12899-2018 IEC 60068-2-1 IEC 60068-2-2 CE-LVD: EN62368-1 CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU FCC: 47 CFR FCC Part 15, Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-H103_datasheet_20220215.pdf"
+      },
+      {
+        "name": "2025-04-14 #User Manual Handheld Metal Detector_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006114/202504/Handheld_Metal_Detector_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-02-11 #Drawings ISC-H103_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49037/drawings/ISC-H103_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-h103"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "PoC Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series",
+    "tab_title": "5MP",
+    "tab_id": "7177",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "PoC Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "60267",
+    "product_name": "HAC-HFW1500TH-I8-A-POC",
+    "product_title": "5MP Starlight HDCVI POC IR Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/5mp/lite/hac-hfw1500th-i8-a-poc=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210119/121_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hfw1500th-i8-a-poc-s2.html",
+  "detail": {
+    "title": "5MP Starlight HDCVI POC IR Bullet Camera",
+    "model": "HAC-HFW1500TH-I8-A-POC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HFW1500TH-I8-A-POC 5MP Starlight HDCVI POC IR Bullet Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 80m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • PoC：Power over Coax Technology Simplifies HDCVI System Deployment • 2DNR & DWDR Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210119/121_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210119/13_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7 inch CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Pixel": "5MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "S/N Ratio": "> 65 dB",
+        "Min. Illumination": "0.005 Lux/F1.6, 30IRE, 0 Lux IR on",
+        "Illumination Distance": "80 m (262.5 ft)",
+        "Illumination On/Off Control": "Auto; manual",
+        "Illuminator Number": "2",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–180° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M12",
+        "Focal Length": "3.6 mm; 6 mm; 8 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "3.6 mm: 109° × 92° × 48° (diagonal × horizontal × vertical) 6 mm: 65° × 57° × 30° (diagonal × horizontal × vertical) 8 mm: 48° × 43° × 24° (diagonal × horizontal × vertical)",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "3.6 mm: 1.6 m (5.2 ft) 6 mm: 3.1 m (10.2 ft) 8 mm: 4.9 m (16.1 ft)",
+        "DORI Distance": "Lens",
+        "3.6 mm": "80 m (262.5 ft)",
+        "6 mm": "120 m (393.7 ft)"
+      },
+      "Video": {
+        "Frame Rate": "CVI: PAL: 5M@25 fps; 4M@25 fps; 1080P@25 fps; NTSC: 5M@25 fps; 4M@30 fps; 1080P@30 fps AHD: PAL: 4M@25 fps; NTSC: 4M@30 fps TVI: PAL: 4M@25 fps; NTSC: 4M@30 fps CVBS: PAL: 960H; NTSC: 960H",
+        "Resolution": "5M (2880 × 1620); 4M (2560 × 1440); 1080P (1920 × 1080); 960 H (960 × 576/960 × 480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/HLC/DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto; manual",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR",
+        "Smart IR": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN 55032:2015, EN 61000-3-2:2014, EN 61000-3-3:2013, EN 55024:2010+A1:2015, EN 55035:2017, EN 50130-4:2011+A1:2014, EN 62368-1:2014+A11:2017) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Audio Output": "One channel built-in mic",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "PoC (only CVI)/12V±30% DC",
+        "Power Consumption": "Max 5.2W (12V DC, IR on); PoC (AF)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40°C to +60°C (–40°F to 140°F); < 95% (non-condensation)",
+        "Storage Temperature": "–40°C to +60°C (–40°F to 140°F); < 95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal front cover+plastic main body+metal bracket",
+        "Camera Dimensions": "240.7 mm × 90.7 mm × 90.4 mm ( 9.48\" × 3.57\" × 3.56\" )",
+        "Net Weight": "0.41 kg (0.90 lb)",
+        "Gross Weight": "0.64 kg (1.41 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HFW1500TH-I8-A-POC_S2_datasheet_20230220.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2021-05-26 #Drawings HAC-HFW1500TH-I8-A-POC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85546/drawings/HAC-HFW1200TH-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-05-26 #Drawings HAC-HFW1500TH-I8-A-POC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85546/drawings/HAC-HFW1200TH-IL-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/5mp/lite/hac-hfw1500th-i8-a-poc=s2"
+  }
+}

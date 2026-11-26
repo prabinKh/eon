@@ -1,0 +1,246 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Ultra Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/ultra-series",
+    "tab_title": "Ultra Series",
+    "tab_id": "1371",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Ultra Series",
+      "Ultra Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "136217",
+    "product_name": "TPC-PT8441MA-T",
+    "product_title": "Thermal Network Mini Hybrid Pan & Tilt Camera",
+    "product_url": "https://www.dahuasecurity.com/ph/products/thermal-products/thermal-cameras/ultra-series/tpc-pt8441ma-t=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220630/pt12_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-pt8441ma-t-s2.html",
+  "detail": {
+    "title": "Thermal Network Mini Hybrid Pan & Tilt Camera",
+    "model": "TPC-PT8441MA-T",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-PT8441MA-T Thermal Network Mini Hybrid Pan & Tilt Camera Key Points • 4MP Resolution with 1/1.8 CMOS Sensor • 360° Pan and –90° to +90° Tilt Full Range Without Blind Spot • 100 m IR and 50 m White Light Illumination Options for Night Illumination • Wide Temperature measurement range of –20 °C to +550 °C by Max. (±2 °C, ±2%) Accuracy • High-precision PT Unit with Closed-loop Control and Real-time Coordinate Correction Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/pt12_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/pt33_thumb.png",
+        "alt": "TPC-PT8441MA-T",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/pt22_thumb.png",
+        "alt": "TPC-PT8441MA-T",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Thermal": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "400 (H) × 300 (V)",
+        "Pixel Pitch": "17 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Sensitivity (NETD)": "≤35 mK (@f/1.0)",
+        "Focal Length": "7.5 mm; 13 mm; 25 mm; M25 mm; 50 mm",
+        "Field of View": "7.5 mm: H: 51.2°; V: 38.4° 13 mm: H: 30.4°; V: 22.5° 25 mm/M25 mm: H: 15.49°; V: 11.65° 50 mm: H: 7.78°; V: 5.84°",
+        "Thermal Focus Control": "7.5 mm: Athermalized 13 mm: Athermalized 25 mm: Athermalized M25 mm: Auto/semi-auto/Manual 50 mm: Athermalized",
+        "Close Focus Distance": "7.5mm: 0.9 m (2.95 ft) 13 mm: 2.5 m (8.2 ft) 25 mm: 9.2 m (30.18 ft) M25 mm: 0.5 m (1.64 ft) 50 mm: 37 m (121.39 ft)",
+        "Detection Distance①": "7.5 mm: Vehicle: 678 m (2,224.41 ft); Human: 220 m (721.78 ft) 13 mm: Vehicle: 1,176 m (3,858.27 ft); Human: 382 m (1,253.28 ft) 25 mm/M25mm: Vehicle: 2,262 m (7,421.26 ft); Human: 735 m (2,411.42 ft) 50 mm: Vehicle: 4,525 m (14,845.80 ft); Human: 1,470 m (4,822.83 ft)",
+        "Recognition Distance②": "7.5 mm: Vehicle: 166 m (544.62 ft); Human: 57 m (187 ft) 13 mm: Vehicle: 288 m (944.88 ft); Human: 98 m (321.52 ft) 25 mm/M25mm: Vehicle: 555 m (1,820.87 ft); Human: 189 m (620.08 ft) 50 mm: Vehicle: 1,110 m (3,641.73 ft); Human: 378 m (1,240.16 ft)",
+        "Identification Distance③": "7.5 mm: Vehicle: 84 m (275.59 ft); Human: 28 m (91.9 ft) 13 mm: Vehicle: 146 m (497.00 ft); Human: 49 m (160.76 ft) 25 mm/M25mm: Vehicle: 280 m (918.64 ft); Human: 95 m (311.68 ft) 50 mm: Vehicle: 560 m (1,837.27 ft); Human: 189 m (620.08 ft)"
+      },
+      "Note: ①Detection Distance: Detects objects, but cannot recognize their characteristics (objects must cover more than 3.6 pixels of the image). ②Recognition Distance: Classifies objects into general categories, such as human, vehicle (the object must cover more than 14 pixels of the image). ③Identification Distance: Classifies objects into specific categories based on their characteristics, such as engineering truck, car (the object must cover more than 28 pixels of the image).": {
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Thermal Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Digital Zoom": "19 levels",
+        "Thermal AGC": "Auto/Manual",
+        "Thermal Noise Reduction": "2D NR/3D NR",
+        "Image Flip": "180°",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)",
+        "Temperature Measurement Range": "Low temperature mode: –20 °C to +150 °C (–4 °F to +302 °F) High temperature mode: 0 °C to +550 °C (+32 °F to +1022 °F) Auto mode: –20 °C to +550 °C (–4 °F to +1022 °F)",
+        "Temperature Measurement Accuracy": "Max. (±2 °C, ±2%); Operating temperature: –20 °C (–4°F) to +60 °C (+302 °F)",
+        "Temperature Measurement Mode": "Spot: 12 Line: 12 Area: 12 Supports 12 rules simultaneously"
+      },
+      "Visible": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "Pixel": "4 MP",
+        "Horizontal Definition": "Center ≥ 1200 TVL Edge ≥ 900 TVL",
+        "Min. Illumination": "Color: 0.001 lux@F1.4 Black & white: 0.0001 lux@F1.4 0 lux (IR on)",
+        "Visible AGC": "Auto/Manual",
+        "Visible Noise Reduction": "2D NR/3D NR",
+        "S/N Ratio": ">55 dB",
+        "White Balance": "Auto; manual; indoor; outdoor; tracking; sodium lamp; street lamp; natural",
+        "Defog": "Optical defog",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Electronic Shutter Speed": "1 s–1/30,000 s (auto/manual)",
+        "BLC": "Yes",
+        "WDR": "Yes",
+        "HLC": "Yes",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "Iris Control": "Auto",
+        "Image Flip": "180°",
+        "Exposure Compensation": "Yes",
+        "Visible Focus Control": "Auto/semi-auto/manual",
+        "Focal Length": "5.5 mm–248 mm",
+        "Field of View": "H: 63.5°–1.9° V: 37.4°–1.1°",
+        "Close Focus Distance": "0.5 m–2 m (1.64 ft–6.56 ft)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illumination Distance": "100 m (328.08 ft, IR) 50 m (164.04 ft, white light)"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264M; H.264H; H.264B",
+        "Resolution": "Thermal: Main stream: 1280 × 1024; 1280 × 960; 1280 × 720; 400 × 300; 1280 × 960 (default) Sub stream: 640 × 512; 640 × 480; 400 × 300; 400 × 300 (default) Visible: Main stream: 2688 × 1520; 1920 × 1080; 1280 × 720; 704 × 576; 2688 × 1520 (default) Sub stream: 704 × 576; 352 × 288; 352 × 288 (default)",
+        "Video Frame Rate": "Thermal (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Visible (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Thermal (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default Sub stream: 1 fps–30 fps, 15 fps by default Visible (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default Sub stream: 1 fps–30 fps, 15 fps by default",
+        "Audio Compression": "G.711a; G.711mu; PCM",
+        "Image Encoding Format": "JPEG"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless Tilt: –90° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s –100°/s Tilt: 0.1°/s –80°/s",
+        "Preset Speed": "Pan: 0.1°/s –100°/s Tilt: 0.1°/s –80°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Privacy Masking": "4 blocks",
+        "Idle Motion": "Preset; auto pattern; auto tour; pan; progressive scan"
+      },
+      "Function": {
+        "Two-way Audio": "Yes",
+        "Network Protocol": "HTTP; HTTPS; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP; Multicast; SFTP; 802.1x",
+        "Region of Interest (RoI)": "Yes",
+        "Storage": "FTP; Micro SD card (Optional)",
+        "Micro SD Card (Max.)": "512 GB",
+        "Interoperability": "ONVIF; CGI; Dahua SDK",
+        "Browser": "IE: IE8 and later (includes 360 brower and sogou brower) Chrome: 42 and earlier Firefox: 42 and earlier",
+        "User/Host": "Up to 12 (total bandwidth: 64 MB)",
+        "Security": "Authorized username and password; attached MAC address; HTTPS; IEEE 802.1x; controlled network access",
+        "User Management": "Up to 20 users; supports multi-level user permissions (2 levels): management group and user group",
+        "Malfunction Detection": "Network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "PIP": "Yes (Intelligence automatically turns off when PIP is on)"
+      },
+      "Intelligence": {
+        "Heat Detection": "Yes",
+        "Cold/Hot Spot Trace": "Yes",
+        "IVS (Perimeter Protection)": "Yes. Supports tripwire and intrusion.",
+        "Target Distinction": "Human/Vehicle Classification"
+      },
+      "Port": {
+        "Analog Output": "1 × CVBS output; BNC port",
+        "Network Port": "1 × RJ-45 (10/100 Base-T)",
+        "Alarm Input": "2",
+        "Alarm Output": "2",
+        "Audio Input": "1",
+        "Audio Output": "1",
+        "RS-485": "1"
+      },
+      "Power": {
+        "Power Supply": "Wide input voltage 10–36 VDC",
+        "Power Consumption": "Basic: 30 W (illuminator off, heating off) Max: 43 W (illuminator on, heating off); 50 W (illuminator on, heating on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +80 °C (–40 °F to +176°F)"
+      },
+      "Physical Characteristics": {
+        "Protection": "IP66",
+        "Reliability": "Surge protection: 6 kV Air discharge: 15 kV Contact discharge: 8 kV"
+      },
+      "Structure": {
+        "Product Dimensions": "231.3 mm × 389.7 mm × 276.9 mm (9.11\" × 15.34\" × 10.9\") (L × W × H)",
+        "Packaging Dimensions": "485 mm × 360 mm × 390 mm (19.09\" × 14.17\" × 15.35\") (L × W × H)",
+        "Net Weight": "≤9 kg (19.84 lb)",
+        "Gross Weight": "≤12 kg (26.46 lb)"
+      },
+      "Temperature Measurement Distance": {
+        "Focal Length": "Min. Distance",
+        "7.5 mm": "1 m (3.28 ft)",
+        "13 mm": "2 m (6.56 ft)",
+        "25 mm": "4 m (13.12 ft)",
+        "M25 mm": "4 m (13.12 ft)",
+        "50 mm": "9 m (29.53 ft)"
+      },
+      "Note: The table displays the measured distances obtained from using the target size 0.1 m × 0.1 m for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-TPC-PT8441MA-T_S2_datasheet_20250829.pdf"
+      },
+      {
+        "name": "2026-07-09 #User Manual Thermal Network PTZ Camera_Web3.0 Operation Manual_V2.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16717/user_manual/Thermal_Network_PTZ_Camera_Web3.0_Operation_Manual_V2.0.5.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Network Mobile Hybrid Pan & Tilt Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75547/user_manual/Thermal_Network_Mobile_Hybrid_Pan___Tilt_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-04-14 #A&E Document TPC-PT8441MA-T_A&E_20260413212325 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75547/a_e_document/1779453803368.docx"
+      },
+      {
+        "name": "2025-07-01 #Drawings TPC-PT8441MA-T_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75527/drawings/TPC-PT8641MA_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-01 #Drawings TPC-PT8441MA-T_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75527/drawings/TPC-PT8641MA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-23 #Firmware DH_TPC-PT8XX1MA-T-S2_MultiLang_PN_V2.650.0000000.3.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75547/firmware/DH_TPC-PT8XX1MA-T-S2_MultiLang_PN_V2.650.0000000.3.R.260514.zip"
+      },
+      {
+        "name": "2026-05-20 #Firmware General_TPC-NYX5402-TBCXB_V1.000.0000000.0.R.20260422 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75547/firmware/General_TPC-NYX5402-TBCXB_V1.000.0000000.0.R.20260422.zip"
+      },
+      {
+        "name": "2025-07-08 #Firmware General_TPC-SD-Darwin-A_PART_V2.830.0000000.5.R.250610 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3249813/M/General_TPC-SD-Darwin-A_PART_V2.830.0000000.5.R.250610.zip"
+      },
+      {
+        "name": "2023-07-20 #Firmware General_TPC-PTMXXX-F_MCU_V2.401.0000000.3.R.230518 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75547/firmware/General_TPC-PTMXXX-F_MCU_V2.401.0000000.3.R.230518.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/thermal-products/thermal-cameras/ultra-series/tpc-pt8441ma-t=s2"
+  }
+}

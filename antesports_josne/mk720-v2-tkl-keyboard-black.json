@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK720 V2 TKL Keyboard - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791345443",
+    "product_name": "MK720 V2 TKL Keyboard - Black",
+    "product_title": "MK720 V2 TKL Keyboard - Black",
+    "product_url": "https://antesports.com/products/mk720-v2-tkl-keyboard-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1.webp",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk720-v2-tkl-keyboard-black.html",
+  "detail": {
+    "title": "MK720 V2 TKL Keyboard - Black",
+    "model": "AEPP0276",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK720 Pro V2 is a 75% compact TKL keyboard with dedicated navigation keys, optimizing desk space while retaining arrow keys and essential navigation for gaming and productivity. Mechanical switch performance delivers fast, precise keystrokes with tactile feedback, while a water-resistant, quiet-typing design suits both office and gaming use across PC, PS5, PS4, Xbox One and Mac. A long-lasting battery keeps it running through extended sessions without frequent recharging, making the MK720 Pro V2 a genuinely versatile, ergonomic keyboard for multi-platform gaming and everyday productivity.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1.webp",
+        "alt": "MK720 V2 TKL Keyboard - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "75% TKL",
+        "Design": "Water Resistant, Quiet",
+        "Battery": "Long-Lasting",
+        "Compatibility": "PC, PS5, PS4, Xbox One, Mac",
+        "Color": "Black",
+        "LAYOUT": "75% TKL",
+        "DESIGN": "Water Resistant, Quiet",
+        "BATTERY": "Long-Lasting",
+        "COMPATIBILITY": "PC, PS5, PS4, Xbox One, Mac",
+        "COLOR": "Black",
+        "SKU": "AEPP0276"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk720-v2-tkl-keyboard-black"
+  }
+}

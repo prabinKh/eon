@@ -1,0 +1,132 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "Crystal X7 Gaming Chassis -Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315418140963",
+    "product_name": "Crystal X7 Gaming Chassis -Black",
+    "product_title": "Crystal X7 Gaming Chassis -Black",
+    "product_url": "https://antesports.com/products/ant-esports-chassis-crystal-x7-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1B_a2996bd7-6833-4699-92fc-704f26940369.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-chassis-crystal-x7-black.html",
+  "detail": {
+    "title": "Crystal X7 Gaming Chassis -Black",
+    "model": "AESP0322",
+    "brand": "Ant Esports",
+    "overview": "TheAnt Esports Crystal X7 - Blackis a premium mid-tower gaming cabinet engineered for enthusiasts who demand both style and performance. Designed to supportATX, Micro-ATX, and Mini-ITXmotherboards, it comes equipped with7 pre-installed ARGB fans(3 side, 3 bottom, and 1 rear) to deliver exceptional airflow for efficient cooling during demanding workloads and gaming sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1B_a2996bd7-6833-4699-92fc-704f26940369.png",
+        "alt": "Crystal X7 Gaming Chassis -Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4B_6b2f5e9c-cde5-450c-907c-70d1043f1ab0.png",
+        "alt": "Crystal X7 Gaming Chassis -Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2B_5b3de6a8-eb32-4db5-9fba-8e5db012e097.png",
+        "alt": "Crystal X7 Gaming Chassis -Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3B_bdbe22b0-dc28-4cb1-9c32-1331719af9f0.png",
+        "alt": "Crystal X7 Gaming Chassis -Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "CRYSTAL",
+        "Product Type": "Cabinet",
+        "Length (mm)": "435",
+        "Width (mm)": "220",
+        "Height (mm)": "455",
+        "Volume (liters)": "44",
+        "Motherboard Support": "ATX, M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "3",
+        "Front FAN Support": "None",
+        "Top FAN Support": "3x120mm, 2x140mm",
+        "Bottom FAN Support": "3x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Side FAN Support": "3x120mm",
+        "Front AIO Support": "None",
+        "Top AIO Support": "360mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "None",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "7 (3x Side, 3x Bottom, 1x Rear)",
+        "Max. VGA Card Length (mm)": "420",
+        "Max. CPU Cooler Height (mm)": "160",
+        "I/O Panel": "1xType-C, 1xUSB 3.0, 1xUSB",
+        "Expansion Slots": "7",
+        "SERIES": "CRYSTAL",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "435",
+        "WIDTH (MM)": "220",
+        "HEIGHT (MM)": "455",
+        "VOLUME (LITERS)": "44",
+        "MOTHERBOARD SUPPORT": "ATX, M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "3",
+        "FRONT FAN SUPPORT": "None",
+        "TOP FAN SUPPORT": "3x120mm, 2x140mm",
+        "BOTTOM FAN SUPPORT": "3x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "SIDE FAN SUPPORT": "3x120mm",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "360mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "None",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "7 (3x Side, 3x Bottom, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "420",
+        "MAX. CPU COOLER HEIGHT (MM)": "160",
+        "I/O PANEL": "1xType-C, 1xUSB 3.0, 1xUSB",
+        "EXPANSION SLOTS": "7",
+        "Offer Price (INR)": "₹6,999.00",
+        "SKU": "AESP0322"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (CRYSTAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-chassis-crystal-x7-black"
+  }
+}

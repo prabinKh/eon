@@ -1,0 +1,210 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Optical Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+    "tab_title": "Optical Series",
+    "tab_id": "1501",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Optical Series",
+      "Optical Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152553",
+    "product_name": "IPC-HFE8449F-Z-PV",
+    "product_title": "4MP Explosion-proof Active Deterrence Bullet WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/ipc-hfe8449f-z-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10538/ProductImage/1_0_01_08_10538_752524245_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfe8449f-z-pv.html",
+  "detail": {
+    "title": "4MP Explosion-proof Active Deterrence Bullet WizMind Network Camera",
+    "model": "IPC-HFE8449F-Z-PV",
+    "brand": "Dahua",
+    "overview": "Favourite IPC-HFE8449F-Z-PV 4MP Explosion-proof Active Deterrence Bullet WizMind Network Camera Key Points • 4 MP@30fps, 1/1.8\" CMOS Image Sensor • Built-in Dual Mic & Speaker: Secure Real-Time Talk • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • Instant Sound and Light Alerts Deter Intruders & Reduce Incidents • Supports Over 8 AI Functions, Applicable for Multi-scenario Targets Detection and Analysis • Explosion-proof Design, Certified by ATEX and IECEx • High-strength Aluminum Alloy Casing • IP68 and Anti-Corrosion Design (NEMA 4X) for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10538/ProductImage/1_0_01_08_10538_752524245_crop_thumb.png",
+        "alt": "IPC-HFE8449F-Z-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10538/ProductImage/1_0_01_08_10538_752524250_crop_thumb.png",
+        "alt": "IPC-HFE8449F-Z-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10538/ProductImage/1_0_01_08_10538_752524249_crop_thumb.png",
+        "alt": "IPC-HFE8449F-Z-PV_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10538/ProductImage/1_0_01_08_10538_752524248_crop_thumb.png",
+        "alt": "IPC-HFE8449F-Z-PV_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10538/ProductImage/1_0_01_08_10538_752524251_crop_thumb.png",
+        "alt": "IPC-HFE8449F-Z-PV_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 193,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "67.6 m( 221.78 ft)",
+        "T": "128.7 m( 425.52 ft)"
+      },
+      "IVS": {},
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "AcuPick": {},
+      "AI SSA": {},
+      "Face Detection": {},
+      "PPE Detection": {},
+      "People Counting": {},
+      "Heat Map": {},
+      "ANPR": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "Smart Codec": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Defog (Glass Heating)": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83376/datasheet/IPC-HFE8449F-Z-PV_S0_datasheet_20250911.pdf"
+      },
+      {
+        "name": "2026-07-01 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-01 #User Manual Dahua Explosion-Proof Camera (HFEXXXXF Series)_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83376/user_manual/Dahua_Explosion-Proof_Camera_(HFEXXXXF_Series)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-01 #User Manual Bullet Network Camera (F Series)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83376/user_manual/Bullet_Network_Camera_(F_Series)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-02-24 #A&E Document IPC-HFE8449F-Z-PV_A&E_20260918030905 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83376/a_e_document/1789672254815.docx"
+      },
+      {
+        "name": "2025-04-04 #Drawings IPC-HFE8449F-Z-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83376/drawings/IPC-HFE8449F-Z-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-02-19 #Drawings IPC-HFE8449F-Z-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83377/drawings/IPC-HFE8449F-Z-PV-AC_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX7(8)XXX-512-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83420/firmware/DH_IPC-HX7(8)XXX-512-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/ipc-hfe8449f-z-pv"
+  }
+}

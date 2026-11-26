@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "24 Inch",
+    "subcategory_url": "https://www.intex.in/collections/24-inch",
+    "series": "Curved Monitor",
+    "series_url": "https://www.intex.in/collections/curved-monitor",
+    "tab_title": "24 Inch",
+    "tab_id": "8516083679450",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "24 Inch",
+      "Intex IT-1702 24\" Curved Full HD Gaming Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "8516083679450",
+    "product_name": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+    "product_title": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+    "product_url": "https://www.intex.in/products/24-curved-monitor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_9f8291ab-9f14-4b95-8245-ab73e2152584.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 20499.0,
+      "display": "₹20,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/24-curved-monitor.html",
+  "detail": {
+    "title": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+    "model": "IT-1702",
+    "brand": "Intex",
+    "overview": "Elevate your gaming and entertainment experience with the Intex IT-1702 24-inch Curved Monitor. Designed for immersive visuals, this display features a Full HD 1080p resolution that delivers razor-sharp clarity across every inch of the screen. Whether you are battling in high-stakes games or streaming your favorite content, the 120Hz refresh rate ensures ultra-smooth, lag-free motion.The monitor boasts a sophisticated frameless design for maximum visual impact and a VA panel that provides consistent, rich colors from any viewing angle. With support for 16.7 million colors and a 3000:1 contrast ratio, you’ll experience deep blacks and vibrant highlights for true-to-life depth. Complete with built-in speakers and flexible connectivity via HDMI and VGA, the IT-1702 is built to fit your vision and simplify your setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_9f8291ab-9f14-4b95-8245-ab73e2152584.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-01_92f96677-8cf1-4089-8ca8-1d944dd59add.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-2_2f7e60e3-b00b-4417-b3c3-61f350219b92.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-3_b2f3de9f-4bec-4f2c-91fd-56a750da74e5.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-4_b959b17b-560d-4daa-8c2c-b122fa1cf71c.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-5_146d8f57-e5ce-4faa-b0e1-9beb40faef39.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-6_cdd41e26-807c-4207-9161-ecd5a8403aec.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-7_ef069587-8fae-4bc7-95f9-87f1f5580af9.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-8_cb5ea899-5b37-4733-b850-18e42ea3d486.jpg",
+        "alt": "Intex IT-1702 24\" Curved Full HD Gaming Monitor",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "General": {
+        "Screen Size": "24-inch Curved Display",
+        "Resolution": "Full HD 1080p (1920 × 1080)",
+        "Refresh Rate": "120Hz for lag-free gaming",
+        "Panel Type": "VA Panel for enhanced viewing angles",
+        "Aspect Ratio": "16:9",
+        "Color Depth": "16.7 Million Colors",
+        "Contrast Ratio": "3000:1 for rich visuals",
+        "Brightness": "Up to 250 Nits",
+        "Design": "Minimalist Frameless Design",
+        "Audio": "Integrated Built-in Speakers",
+        "Connectivity": "1 x HDMI port, 1 x VGA port",
+        "Model": "IT-1702"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/24inch_curve_monitor-PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/24-curved-monitor"
+  }
+}

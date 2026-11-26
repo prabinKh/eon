@@ -1,0 +1,159 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "View All",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/hac-pt-series",
+    "tab_title": "MultiVision",
+    "tab_id": "18213",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "View All",
+      "MultiVision"
+    ]
+  },
+  "card_info": {
+    "product_id": "152161",
+    "product_name": "HAC-PTS1500C-E2-IL-A",
+    "product_title": "5MP Smart Dual Light Outdoor HDCVI Dual-Lens PT Camera",
+    "product_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/hac-pt-series/multivision/hac-pts1500c-e2-il-a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26576/ProductImage/1_0_01_12_26576_735213398_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/hac-pts1500c-e2-il-a.html",
+  "detail": {
+    "title": "5MP Smart Dual Light Outdoor HDCVI Dual-Lens PT Camera",
+    "model": "HAC-PTS1500C-E2-IL-A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-PTS1500C-E2-IL-A 5MP Smart Dual Light Outdoor HDCVI Dual-Lens PT Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • 50m Illumination Distance for Superior Camera Image Quality • PT：Greater Flexibility with Pan & Tilt Function. • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & DWDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • Time-saving Installation with Quick-to-install Structure • IP66 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26576/ProductImage/1_0_01_12_26576_735213398_crop_thumb.png",
+        "alt": "HAC-PTS1500C-E2-IL-A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26576/ProductImage/1_0_01_12_26576_735213396_crop_thumb.png",
+        "alt": "HAC-PTS1500C-E2-IL-A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26576/ProductImage/1_0_01_12_26576_735213395_crop_thumb.png",
+        "alt": "HAC-PTS1500C-E2-IL-A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26576/ProductImage/1_0_01_12_26576_735215166_crop_thumb.png",
+        "alt": "HAC-PTS1500C-E2-IL-A_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "General": {
+        "Image Sensor": "2×CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s-1/1,000 s NTSC: 1/30 s-1/1,000 s",
+        "Min. Illumination": "0.005 lux@F2.0 (Color, 30 IRE) 0.0005 lux@F2.0 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "IR: 50 m (164.04 ft) Warm Light: 50 m (164.04 ft)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "Fixed Lens: 4 (Multi-core light) PT Lens: 2 (Multi-core light)",
+        "Angle Adjustment": "Fixed Lens: Tilt: 5°–10° PT Lens: Pan: 0°–355°; Tilt: 0°–90° Bracket: Pan: 0°–326°",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "PT Lens: 6 mm Fixed Lens: 2.8 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "Fixed Lens: H: 111.3°; V: 60.8°; D: 134.2° PT Lens: H: 48.1°; V: 26.7°; D: 55.5°",
+        "Close Focus Distance": "2.8 mm: 0.5 m (1.64 ft); 6 mm: 2.3 m (7.55 ft)",
+        "Iris Control": "Fixed",
+        "DORI Distance": "Lens",
+        "Fixed Lens": "40.6 m (133.20 ft)",
+        "PT Lens": "93.3 m (306.10 ft)",
+        "Video Frame Rate": "CVI: PAL: 5M@25 fps; 4M@25 fps; 1080p@25 fps NTSC: 5M@25 fps; 4M@30 fps; 1080p@30 fps AHD: PAL: 4M@25 fps NTSC: 4M@30 fps TVI: PAL: 4M@25 fps NTSC: 4M@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "5M (2880 × 1620); 4M (2560 × 1440); 1080p (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "BLC; HLC; DWDR",
+        "White Balance": "Auto; Area white balance",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Illumination Mode": "Smart IR&WL WL Mode; IR Mode",
+        "Defog": "Electronic defog",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)",
+        "Pan/Tilt Range": "Pan: 0°–355° Tilt: 0°–90° *Do not manually adjust the angle of the main body or enclosure.",
+        "Preset": "40",
+        "Linkage Tracking": "Yes",
+        "Certifications": "CE-LVD: EN 62368-1; CE-EMC: EN 55032; EN 55035",
+        "Built-in Mic": "Yes",
+        "Camera Audio": "CVI; TVI",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Power Supply": "12 VDC ± 30% (It is recommended to use a power adapter to supply the power for one camera)",
+        "Power Consumption": "Max 10.1 W (12 VDC, IR on)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Protection": "IP66",
+        "Anti-corrosion Level": "Basic Protection",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "162.5 mm × 122.6 mm × 218.2 mm (6.40\" × 4.83\" × 8.59\") (L × W × H)",
+        "Net Weight": "0.66 kg (1.46 lb)",
+        "Gross Weight": "1.09 kg (2.40 lb)",
+        "Installation": "Wall mount; ceiling mount; vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82996/datasheet/HAC-PTS1500C-E2-IL-A_S0_datasheet_20260109.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI PT Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87614/user_manual/HDCVI_PT_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2024-09-20 #Drawings HAC-PTS1500C-E2-IL-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82996/drawings/HAC-PTS1500C-E2-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-09-20 #Drawings HAC-PTS1500C-E2-IL-A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82996/drawings/HAC-PTS1500C-E2-IL-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/hac-pt-series/multivision/hac-pts1500c-e2-il-a"
+  }
+}

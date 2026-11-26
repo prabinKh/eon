@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://www.intex.in/collections/gaming-cabinet-series",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "8972752421082",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Cabinet",
+      "Intex Bolt Computer Gaming Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "8972752421082",
+    "product_name": "Intex Bolt Computer Gaming Cabinet",
+    "product_title": "Intex Bolt Computer Gaming Cabinet",
+    "product_url": "https://www.intex.in/products/intex-bolt-computer-gaming-case",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Computer-Gaming-Case.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3599.0,
+      "display": "₹3,599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-bolt-computer-gaming-case.html",
+  "detail": {
+    "title": "Intex Bolt Computer Gaming Cabinet",
+    "model": "Cabinet",
+    "brand": "Intex",
+    "overview": "The Intex Bolt Computer Gaming Case is crafted for gamers who demand cooling, compatibility, and style. It comes with multiple pre-installed fans to enhance airflow, ensuring your system runs at optimal temperatures. With support for Micro-ATX and Mini-ITX motherboards, it’s perfect for compact gaming builds. The high-quality SPCC black-coated body, flexible storage bays, and front mesh ventilation make this a go-to chassis for budget-conscious gamers and DIY enthusiasts alike.",
+    "features": [
+      "Chassis Size: 265*165*350 mm",
+      "Case Size: 300*165*350 mm",
+      "Material: 0.4 mm SPCC black coating",
+      "I/O Ports: 2*USB1.0 + Audio",
+      "Motherboard Support: Micro-ATX / Mini-ITX",
+      "Drive Bays: 2*2.5” SSD / 2*3.5” HDD",
+      "PCI Slots: 4 pcs",
+      "Fan Options: Front – 2 x 12 cm (pre-installed), Rear – 1 x 8 cm (pre-installed)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Computer-Gaming-Case.jpg",
+        "alt": "Intex Bolt Computer Gaming Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Chassis Size: 265*165*350 mm",
+        "Feature 2": "Case Size: 300*165*350 mm",
+        "Feature 3": "Material: 0.4 mm SPCC black coating",
+        "Feature 4": "I/O Ports: 2*USB1.0 + Audio",
+        "Feature 5": "Motherboard Support: Micro-ATX / Mini-ITX",
+        "Feature 6": "Drive Bays: 2*2.5” SSD / 2*3.5” HDD",
+        "Feature 7": "PCI Slots: 4 pcs",
+        "Feature 8": "Fan Options: Front – 2 x 12 cm (pre-installed), Rear – 1 x 8 cm (pre-installed)"
+      },
+      "General": {
+        "Model": "Cabinet"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-bolt-computer-gaming-case"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "Ghost 50 RGB Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925521699",
+    "product_name": "Ghost 50 RGB Gaming Mouse - Black",
+    "product_title": "Ghost 50 RGB Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/ghost-50-gaming-mouse-12800-dpi-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_31b3e920-e3af-4351-8f7c-01439aaa2d49.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ghost-50-gaming-mouse-12800-dpi-black.html",
+  "detail": {
+    "title": "Ghost 50 RGB Gaming Mouse - Black",
+    "model": "ANTR0022",
+    "brand": "Ant Esports",
+    "overview": "The Ant Ghost 50 is engineered for superior control, lightning-fast response and bold RGB styling, whether you're battling in fast-paced FPS titles or executing strategic plays in MOBAs. Its 6 redefinable DPI levels (1200/2400/3200/4800/7200/12800) can be reprogrammed via software to meet different in-game needs, while a multi-button tactical layout with side-mounted and top-mounted function buttons lets you assign commands, macros and shortcuts for maximum efficiency. A high-precision sensor ensures accurate tracking and fast response times, and the aggressive design showcases vibrant RGB underglow with an illuminated logo. On-the-fly DPI adjustment lets it adapt instantly from sniping to rapid navigation, with a wired connection ensuring zero latency for competitive players.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_31b3e920-e3af-4351-8f7c-01439aaa2d49.jpg",
+        "alt": "Ghost 50 RGB Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI Levels": "1200 / 2400 / 3200 / 4800 / 7200 / 12800",
+        "Buttons": "8, Programmable",
+        "Polling Rate": "1KHz",
+        "Software": "DIY Key Binding Support",
+        "Color": "Black",
+        "DPI LEVELS": "1200 / 2400 / 3200 / 4800 / 7200 / 12800",
+        "BUTTONS": "8, Programmable",
+        "POLLING RATE": "1KHz",
+        "SOFTWARE": "DIY Key Binding Support",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹599.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0022"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ghost-50-gaming-mouse-12800-dpi-black"
+  }
+}

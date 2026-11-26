@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Aura Smart Body Fat Scale with Bluetooth - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816564515",
+    "product_name": "Aura Smart Body Fat Scale with Bluetooth - Black",
+    "product_title": "Aura Smart Body Fat Scale with Bluetooth - Black",
+    "product_url": "https://antesports.com/products/aura-body-fat-scale-bmi-muscle-mass-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/71.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aura-body-fat-scale-bmi-muscle-mass-black.html",
+  "detail": {
+    "title": "Aura Smart Body Fat Scale with Bluetooth - Black",
+    "model": "ANTR0059",
+    "brand": "Ant Esports",
+    "overview": "The Ant Aura is a Bluetooth-enabled body fat scale built around 4 advanced G-sensors for accurate readings up to a 180kg capacity, tracking weight, BMI, muscle mass and overall body composition. A step-on activated LED display turns on automatically and shuts off after use to conserve battery, keeping things simple and low-maintenance day to day. It works with iOS 7.0+ and Android 4.3+ devices, syncing measurements to a companion app for tracking body composition trends over time. Its compact, sleek build with a modern tech-pattern glass top suits bathrooms, home gyms or travel use, and it comes with 2 AAA batteries included for immediate out-of-box use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/71.png",
+        "alt": "Aura Smart Body Fat Scale with Bluetooth - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth, App Enabled",
+        "Capacity": "180 KG",
+        "Sensors": "4 G-Sensors",
+        "Display": "LED, Auto On/Off",
+        "Compatibility": "iOS 7.0+, Android 4.3+",
+        "Color": "Black",
+        "CONNECTIVITY": "Bluetooth, App Enabled",
+        "CAPACITY": "180 KG",
+        "SENSORS": "4 G-Sensors",
+        "DISPLAY": "LED, Auto On/Off",
+        "COMPATIBILITY": "iOS 7.0+, Android 4.3+",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹506.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "ANTR0059"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aura-body-fat-scale-bmi-muscle-mass-black"
+  }
+}

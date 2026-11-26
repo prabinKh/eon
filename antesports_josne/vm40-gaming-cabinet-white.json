@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "VM40 Gaming Cabinet White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10369311670563",
+    "product_name": "VM40 Gaming Cabinet White",
+    "product_title": "VM40 Gaming Cabinet White",
+    "product_url": "https://antesports.com/products/vm40-gaming-cabinet-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1W_de336c9c-eca8-4725-ae67-47d2f3abda81.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/vm40-gaming-cabinet-white.html",
+  "detail": {
+    "title": "VM40 Gaming Cabinet White",
+    "model": "VM40 Gaming Cabinet White",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value Chassis VM40 White is a premium office cabinet designed to deliver excellent performance for everyday computing, work, and office use. Featuring support for ATX, M-ATX, M-ITX motherboards, 4(3x Front, 1x Rear) pre-installed fans, and support for graphics cards up to 335mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for home and office users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1W_de336c9c-eca8-4725-ae67-47d2f3abda81.png",
+        "alt": "VM40 Gaming Cabinet White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4W_e7629585-5aa6-4d65-97e0-051c08bc8e9d.png",
+        "alt": "VM40 Gaming Cabinet White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2W_508b130f-4458-4698-8f95-ffabe561d19c.png",
+        "alt": "VM40 Gaming Cabinet White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3W_373b7205-4fa1-43bb-8978-1e271fd16e67.png",
+        "alt": "VM40 Gaming Cabinet White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "Value Cabinets",
+        "Product Type": "Cabinet",
+        "Length (mm)": "375",
+        "Width (mm)": "200",
+        "Height (mm)": "452",
+        "Volume (liters)": "34",
+        "Motherboard Support": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") Bays": "2",
+        "SSD (2.5\") Bays": "1",
+        "Front FAN Support": "3x120mm, 2x140mm",
+        "Top FAN Support": "3x120mm, 2x140mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Front AIO Support": "360mm",
+        "Top AIO Support": "240mm",
+        "Rear AIO Support": "120mm",
+        "Pre-Installed FANs": "4 (3x Front, 1x Rear)",
+        "Max. VGA Card Length (mm)": "335",
+        "Max. CPU Cooler Height (mm)": "160",
+        "I/O Panel": "1x USB 3.0, 2x USB",
+        "Expansion Slots": "7",
+        "SERIES": "Value Cabinets",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "375",
+        "WIDTH (MM)": "200",
+        "HEIGHT (MM)": "452",
+        "VOLUME (LITERS)": "34",
+        "MOTHERBOARD SUPPORT": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") BAYS": "2",
+        "SSD (2.5\") BAYS": "1",
+        "FRONT FAN SUPPORT": "3x120mm, 2x140mm",
+        "TOP FAN SUPPORT": "3x120mm, 2x140mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "FRONT AIO SUPPORT": "360mm",
+        "TOP AIO SUPPORT": "240mm",
+        "REAR AIO SUPPORT": "120mm",
+        "PRE-INSTALLED FANS": "4 (3x Front, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "335",
+        "MAX. CPU COOLER HEIGHT (MM)": "160",
+        "I/O PANEL": "1x USB 3.0, 2x USB",
+        "EXPANSION SLOTS": "7",
+        "Offer Price (INR)": "₹2,649.00",
+        "MRP (INR)": "₹3,999.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/vm40-gaming-cabinet-white"
+  }
+}

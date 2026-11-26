@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "27",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "8 Ch.",
+      "CP-UNR-4K2081-V4"
+    ]
+  },
+  "card_info": {
+    "product_id": "2225",
+    "product_name": "CP-UNR-4K2081-V4",
+    "product_title": "CP-UNR-4K2081-V4",
+    "product_url": "https://cpplusworld.com/cp-unr-4k2081-v4",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/a47806ce-d3be-43e5-8dae-f0fa64df05db.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k2081-v4.html",
+  "detail": {
+    "title": "CP-UNR-4K2081-V4",
+    "model": "CP-UNR-4K2081-V4",
+    "brand": "CP Plus",
+    "overview": "8 Ch. 4K Network Video Recorder",
+    "features": [
+      "Up to 8 channel IP camera input",
+      "Instastream, H.265, H.264+, H.264, MJPEG Decoding",
+      "Max. decoding capability: 6 × 1080p@30 fps",
+      "Max. 80/80/60 Mbps incoming/recording/outgoing bandwidth",
+      "AI by NVR: Supports 4 Channel IMD",
+      "AI by Camera: Supports perimeter protection, IMD",
+      "Support 1 SATA HDD up to 20TB Each, 2 USB Ports, 1 HDMI, 1 VGA, 1 RJ45",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a47806ce-d3be-43e5-8dae-f0fa64df05db.png",
+        "alt": "CP-UNR-4K2081-V4 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8c8f04cc-bdf6-4fd0-968c-db3999939778.png",
+        "alt": "CP-UNR-4K2081-V4 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "User Interface": "Web, Local GUI",
+        "IP Camera Input": "8 Channels",
+        "Operating System": "Embedded Linux",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Resolution": "5MP, 4MP, 3MP, 1080p, 720p, 960p, D1, CIF, QCIF",
+        "AI by NVR": "IMD",
+        "AI by Camera": "Perimeter protection, IMD",
+        "Perimeter Performance of AI by Camera": "Human and vehicle detection on all channels, supporting up to 4 targets per second",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "IMD+ by NVR": "4 channels: Secondary filtering for human and motor vehicle, Reducing false alarms caused by  leaves, Rain and lighting condition change",
+        "Network Bandwidth": "80 Mbps incoming, 80 Mbps recording and 60 Mbps outgoing",
+        "Decoding Capability": "AI disabled: 1 Channel 12MP@30 fps, 1 Channel 8MP@30 fps, 2 Channel 6MP@30 fps, 2  Channel 5MP@30 fps, 3 Channel 4MP@30 fps, 6 Channel 1080p@30 fps       AI enabled: 1 Channel 8MP@30 fps, 1 Channel 6MP@30 fps, 1 Channel 5MP@30 fps, 2      Channel 4MP@30 fps, 4 Channel 1080p@30 fps",
+        "Video Output": "1 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720;   1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Playback": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Protocols": "HTTPS, TCP/IP, IPv4, IPv6, UDP, NTP, DHCP, DNS, SMTP, IP Filter, DDNS, InstaOn, Auto  Connect, ONVIF (Profile T, Profile S, Profile G), CGI, SDK",
+        "Backup Mode": "USB device and network",
+        "Audio Compression": "G.711a, G.711u, PCM, G726",
+        "Audio Input": "1 Channel RCA",
+        "Hard Disk": "1 SATA port. Each disk can contain up to 20 TB. this limit varies depending on the environment  temperature",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port), 1 HDMI, 1 VGA",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Smart Phone": "iOS, Android",
+        "Power Supply": "12 VDC, 1.5",
+        "Power Consumption": "<10 W (without HDD)",
+        "Operating Temperature": "–10°C to +55°C (14°F to +131°F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Dimension": "260.0 mm × 232.5 mm × 47.6 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K2081-V4.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k2081-v4"
+  }
+}

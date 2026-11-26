@@ -1,0 +1,140 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Smoke Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/smoke-alarms",
+    "tab_title": "Smoke Alarms",
+    "tab_id": "14227",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Smoke Alarms",
+      "Smoke Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "154064",
+    "product_name": "HY-SA2FA",
+    "product_title": "WiFi Smoke Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa2fa",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390417_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-sa2fa.html",
+  "detail": {
+    "title": "WiFi Smoke Alarm",
+    "model": "HY-SA2FA",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA2FA WiFi Smoke Alarm Key Points Wisualarm App Control 2.4 GHz Wi-Fi Connection 3V CR123A Replaceable Lithium Battery Low Battery Warning Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390417_thumb.png",
+        "alt": "HY-SA2FA_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390418_thumb.png",
+        "alt": "HY-SA2FA_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390421_thumb.png",
+        "alt": "HY-SA2FA_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390419_thumb.png",
+        "alt": "HY-SA2FA_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390335_thumb.png",
+        "alt": "HY-SA2FA_Rendergraph_Other-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_14828/ProductImage/1_0_01_36_14828_531390426_thumb.png",
+        "alt": "HY-SA2FA_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "Normal: 10 s Smoke alarm:1 s",
+        "Sensor Type": "Photoelectric",
+        "Alarm Type": "Smoke alarm, fault warning, low battery warning",
+        "Alarm Volume": "85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silence Function": "Yes",
+        "Silence Duration": "About 12 min",
+        "Alarm Response Threshold": "0.2dB/m-0.3dB/m",
+        "Wireless Frequency": "2.4 GHz",
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes once per minute Low battery warning: Red indicator flashes once per minute",
+        "Coverage Area": "When the height of the space is less than 8 m (26.25 ft), the protection area of a device is 20 m2–40 m2",
+        "Battery Life": "2 years",
+        "Power Source": "3V CR123A lithium battery (replaceable)",
+        "Operating Current": "Monitoring current: ≤ 30uA Alarm current: ≤ 35mA",
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤ 95% RH (non condensing)",
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "φ98 mm × H43.1 mm (φ3.85\" × H1.70\")",
+        "Weight": "136 g (0.30 lb)",
+        "Installation": "Ceiling Mount",
+        "Certifications": "TÜV, BOSEC, ActivFire, CE, RCM, PSTI",
+        "Compliance Standard": "EN 14604:2005, AS 3786:2014"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82535/datasheet/1343058529950.pdf"
+      },
+      {
+        "name": "2025-11-26 #User Manual Smoke Alarm(DHI-HY-SA2FA)_User's Maual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008696/3473639/Smoke_Alarm(DHI-HY-SA2FA)_User_27s_Maual_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-11-22 #Drawings HY-SA2FA_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1508011030351.pdf"
+      },
+      {
+        "name": "2023-11-22 #Drawings HY-SA2FA_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1508072514427.pdf"
+      },
+      {
+        "name": "2025-07-31 #Firmware DHI_HYSA2FA_Eng_MCU_V1.000.0000004.0.R.250722 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3303284/M/DHI_HYSA2FA_Eng_MCU_V1.000.0000004.0.R.250722.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa2fa"
+  }
+}

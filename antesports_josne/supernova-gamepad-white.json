@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "Supernova Tri-Mode Wireless Gamepad - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870304035",
+    "product_name": "Supernova Tri-Mode Wireless Gamepad - White",
+    "product_title": "Supernova Tri-Mode Wireless Gamepad - White",
+    "product_url": "https://antesports.com/products/supernova-gamepad-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_fc60635e-1a14-442f-b84a-091f0ce7bfab.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/supernova-gamepad-white.html",
+  "detail": {
+    "title": "Supernova Tri-Mode Wireless Gamepad - White",
+    "model": "AEPP0332",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Supernova is a tri-mode wireless gaming controller with Bluetooth and 2.4G connectivity for Windows PC, PS4, PS3, Steam Deck, Android, iOS and Mac. Hall Effect joysticks and triggers eliminate stick drift and dead zones for precise, long-lasting input, while two programmable rear buttons (M1/M2) support full macro and remap functionality, storing up to 16 inputs per macro. Turbo mode covers all major buttons with 3 adjustable speeds, and dual vibration motors offer 4 strength levels for immersive feedback. Dynamic RGB lighting with memory function keeps your preferred colours saved between sessions, and a 1000mAh battery delivers up to 20 hours of gameplay with smart auto-sleep, auto-reconnect and reset protection for reliable everyday use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_fc60635e-1a14-442f-b84a-091f0ce7bfab.png",
+        "alt": "Supernova Tri-Mode Wireless Gamepad - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_dfd5f73f-20ca-4d87-8c01-7b991add03ae.png",
+        "alt": "Supernova Tri-Mode Wireless Gamepad - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_57ec0eb8-72fb-42a0-90d4-f83adfcb2e98.png",
+        "alt": "Supernova Tri-Mode Wireless Gamepad - White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_dbf0a88f-9a9b-446c-b32b-f5f1279d1bbe.png",
+        "alt": "Supernova Tri-Mode Wireless Gamepad - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Joystick Type": "Hall Effect",
+        "Connectivity": "Bluetooth + 2.4G USB Dongle",
+        "Battery": "1000mAh, Up to 20 Hours",
+        "Macro Buttons": "M1/M2, 16-Input Storage",
+        "Compatibility": "Windows PC, PS4, PS3, Steam Deck, Android, iOS, Mac",
+        "Color": "White",
+        "JOYSTICK TYPE": "Hall Effect",
+        "CONNECTIVITY": "Bluetooth + 2.4G USB Dongle",
+        "BATTERY": "1000mAh, Up to 20 Hours",
+        "MACRO BUTTONS": "M1/M2, 16-Input Storage",
+        "COMPATIBILITY": "Windows PC, PS4, PS3, Steam Deck, Android, iOS, Mac",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,999.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AEPP0332"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/supernova-gamepad-white"
+  }
+}

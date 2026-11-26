@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "Tower Speakers",
+    "subcategory_url": "https://www.intex.in/collections/tower-speakers",
+    "series": "Tower Speakers Series",
+    "series_url": "https://www.intex.in/collections/tower-speakers-series",
+    "tab_title": "Tower Speakers",
+    "tab_id": "8811955880154",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "Tower Speakers",
+      "Thunder 1000 (S) (17003) - 100W Tower Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "8811955880154",
+    "product_name": "Thunder 1000 (S) (17003) - 100W Tower Speaker",
+    "product_title": "Thunder 1000 (S) (17003) - 100W Tower Speaker",
+    "product_url": "https://www.intex.in/products/thunder-1000-s-tower-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Thunder-1000.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 11499.0,
+      "display": "₹11,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/thunder-1000-s-tower-speaker.html",
+  "detail": {
+    "title": "Thunder 1000 (S) (17003) - 100W Tower Speaker",
+    "model": "1000",
+    "brand": "Intex",
+    "overview": "Enhance your audio experience with the Intex Thunder 1000 (S) (17003). With a 100W power output and an 8-inch woofer, it delivers deep bass and crystal-clear sound. The multimode playability supports Bluetooth, USB, AUX, FM, and MIC for versatile connectivity. Featuring a wired MIC jack with a voice priority function, it is perfect for karaoke and events. The LED display, triple digital dynamic bass, and analogue controls for volume, bass, and treble make it a must-have speaker for any occasion.",
+    "features": [
+      "100W powerful sound output for an immersive audio experience",
+      "8-inch (20.3 cm) woofer for deep bass and enhanced clarity",
+      "Multimode playability: Bluetooth, USB, AUX, FM, and MIC",
+      "Wired MIC jack with voice priority function for karaoke and announcements",
+      "Triple digital & dynamic bass for a richer sound experience",
+      "Informative LED display for easy navigation",
+      "300% faster instant connection for uninterrupted music playback",
+      "USB support for up to 64GB storage",
+      "Analogue controls for volume, bass, and treble adjustments"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Thunder-1000.jpg",
+        "alt": "Thunder 1000 (S) (17003) - 100W Tower Speaker",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "100W powerful sound output for an immersive audio experience",
+        "Feature 2": "8-inch (20.3 cm) woofer for deep bass and enhanced clarity",
+        "Feature 3": "Multimode playability: Bluetooth, USB, AUX, FM, and MIC",
+        "Feature 4": "Wired MIC jack with voice priority function for karaoke and announcements",
+        "Feature 5": "Triple digital & dynamic bass for a richer sound experience",
+        "Feature 6": "Informative LED display for easy navigation",
+        "Feature 7": "300% faster instant connection for uninterrupted music playback",
+        "Feature 8": "USB support for up to 64GB storage",
+        "Feature 9": "Analogue controls for volume, bass, and treble adjustments"
+      },
+      "General": {
+        "Model": "1000"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/thunder-1000-s-tower-speaker"
+  }
+}

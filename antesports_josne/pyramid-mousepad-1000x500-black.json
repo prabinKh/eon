@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Pyramid Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924997411",
+    "product_name": "Pyramid Mouse Pad - Black",
+    "product_title": "Pyramid Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/pyramid-mousepad-1000x500-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/43_82878e9d-3a64-4cfd-ad15-bbf1dd73ad08.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/pyramid-mousepad-1000x500-black.html",
+  "detail": {
+    "title": "Pyramid Mouse Pad - Black",
+    "model": "AEPP0217",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Pyramid is an oversized extended mouse pad measuring 1000 x 500 x 2mm, one of the largest in the lineup, giving generous room for a full keyboard, mouse and other desk accessories on one smooth surface. Its pyramid-themed design adds a distinctive visual touch, while a durable, non-slip base keeps the pad firmly anchored through demanding gaming or office sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/43_82878e9d-3a64-4cfd-ad15-bbf1dd73ad08.png",
+        "alt": "Pyramid Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "1000 x 500 x 2mm",
+        "Design": "Pyramid Print",
+        "Base": "Non-Slip",
+        "Color": "Black",
+        "DIMENSIONS": "1000 x 500 x 2mm",
+        "DESIGN": "Pyramid Print",
+        "BASE": "Non-Slip",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹3,699.00",
+        "SKU": "AEPP0217"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/pyramid-mousepad-1000x500-black"
+  }
+}

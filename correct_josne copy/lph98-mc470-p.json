@@ -1,0 +1,222 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Business Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/business-series",
+    "series": "MC470-P Series",
+    "series_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/business-series/mc470-p-series",
+    "tab_title": "MC470-P Series",
+    "tab_id": "15417",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Business Series",
+      "MC470-P Series",
+      "MC470-P Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "114497",
+    "product_name": "LPH98-MC470-P",
+    "product_title": "65/75/86/98'' DeepHub Pro Smart Interactive Whiteboard",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/business-series/mc470-p-series/lph98-mc470-p",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220926/DHI-LPH98-MC470-P_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/lph98-mc470-p.html",
+  "detail": {
+    "title": "65/75/86/98'' DeepHub Pro Smart Interactive Whiteboard",
+    "model": "LPH98-MC470-P",
+    "brand": "Dahua",
+    "overview": "Compare Favourite LPH98-MC470-P 65/75/86/98'' DeepHub Pro Smart Interactive Whiteboard Key Points Zero Air Gap technology, 4K DLED display, full lamination technology, Built-in AI 4K camera, 8 array microphone wireless screen sharing handwriting recognition. Quick file sharing, dual-system switchable, Fingerprint lock Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220926/DHI-LPH98-MC470-P_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220926/DHI-LPH98-MC470-P_5_thumb.png",
+        "alt": "DHI-LPH98-MC470-P",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220926/DHI-LPH98-MC470-P_4_thumb.png",
+        "alt": "DHI-LPH98-MC470-P",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220926/DHI-LPH98-MC470-P_3_thumb.png",
+        "alt": "DHI-LPH98-MC470-P",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220926/DHI-LPH98-MC470-P_2_thumb.png",
+        "alt": "DHI-LPH98-MC470-P",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Built-in System": {
+        "CPU Frequency": "2.2 GHz + 2.0 GHz",
+        "GPU": "ARM Mali-G52 MP8 (8EE)",
+        "Operating System": "Android 11.0",
+        "CPU": "Quad-core A73 + Quad-core A53",
+        "RAM": "12 GB (System: 8 GB, Camera: 4 GB)",
+        "ROM": "64 GB"
+      },
+      "Function": {
+        "Operating System of External Module": "Windows 7/8/10;Android",
+        "WiFi": "Dual-band 2.4 G/5 G; supports 802.11 a/b/g/n/ac wireless frequency range",
+        "Wi-Fi Hotspot": "Dual-band 2.4 G/5 G; supports enabling Hotspot and Wi-Fi at the same time"
+      },
+      "LCD Panel": {
+        "Panel Dimensions": "65-inch; 75-inch; 86-inch; 98-inch",
+        "Backlight": "DLED",
+        "Aspect Ratio": "16:9",
+        "Brightness": "65-inch: 350 cd/m²; 75-inch: 350 cd/m²; 86-inch: 400 cd/m²; 98-inch: 400 cd/m²",
+        "Resolution": "3840 (H) × 2160 (V)",
+        "Viewing Angle": "H: 178°; V: 178°",
+        "Lifespan": "50,000 h",
+        "Display Color": "72% NTSC",
+        "Refresh Rate": "60 Hz",
+        "Static Contrast": "1200:1"
+      },
+      "Camera": {
+        "Pixel": "48 MP",
+        "Auto Control": "Auto flip; Auto white balance",
+        "Distortion": "–8.6%",
+        "Max. Resolution": "3840 × 2160@30 fps",
+        "Storage": "8 GB eMMC",
+        "Field of View": "H: 87°; V: 49°; D: 99°",
+        "Face Detection": "Yes"
+      },
+      "Device Ports": {
+        "Light Sensor": "1",
+        "Front Button": "1 × power button (right side)",
+        "Front Ports": "1 × USB 3.0 (left side)",
+        "Network Port": "1 × RJ-45",
+        "Wi-Fi": "1 × Wi-Fi; 1 × Hotspot",
+        "USB": "3 × USB 3.0; 1 × Micro USB",
+        "RS-232": "1 × RS-232",
+        "Video Input": "1 × HDMI IN",
+        "Video Output": "1 × HDMI OUT",
+        "Audio Output": "1 × 3.5 mm (Line OUT) port",
+        "Others": "1 × Touch",
+        "IrDA": "1",
+        "Microphone": "8 Array",
+        "Type-C Port": "1 × Type-C"
+      },
+      "Touchscreen": {
+        "Touch Technology Type": "Infrared touch technology",
+        "Response Time": "< 10 ms",
+        "Touch Points": "Supports 20 touch points and drawing up to 20 lines",
+        "Valid Touch": "2 mm",
+        "touch accuracy": "± 1 mm",
+        "Writing Mode": "Finger + Pen (attaches magnetically)",
+        "Anti-light Interference": "Anti-dazzle tempered glass",
+        "Surface Hardness": "7 on the Mohs scale",
+        "Touch Resolution": "32767 × 32767",
+        "Number of Multi-user Writing Points": "10"
+      },
+      "Speaker": {
+        "Frequency": "150 Hz–20 kHz",
+        "Power": "Full: 15 W × 3",
+        "Built-in Speaker": "3"
+      },
+      "Fingerprint": {
+        "Fingerprint Capacity": "100",
+        "Fingerprint Resolution": "160 × 160",
+        "FAR": "0.001%"
+      },
+      "Microphone": {
+        "Pick-up Distance": "Far-field sound pickup: 6 m–8 m (19.69 ft–26.25 ft)",
+        "Number of Microphones": "8",
+        "AGC": "Yes",
+        "Echo Cancellation": "Yes",
+        "Polar Pattern": "Omnidirectional",
+        "Intelligent Noise Filtering": "Yes"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC, 50/60 Hz",
+        "Power Consumption": "65-inch: 200 W; 75-inch: 300 W; 86-inch: 400 W; 98-inch: 600 W",
+        "Operating Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Temperature": "–10 °C to +50 °C (+14 °F to +122 °F)",
+        "Operating Humidity": "10%–90%",
+        "Storage Humidity": "10%–90%",
+        "Product Material": "Metal casing",
+        "Protective Glass": "Anti-dazzle tempered glass with a hardness of 7 on the Mohs scale",
+        "Casing Color (Frame/Rear)": "Bottom/top: Silver; left/right: black",
+        "Product Dimensions": "65-inch: 1,485 mm x 967.8 mm x 93.3 mm (58.46\" × 38.10\" × 3.67\") 75-inch: 1,707.2 mm x 1,094.47 mm x 93.3 mm (67.21\" × 43.09\" × 3.67\") 86-inch: 1,953.2 mm x 1,232.7 mm x 93.3 mm (76.90\" × 48.53\" × 3.67\") 98-inch: 2,216.4 mm x 1,381.7 mm x 109.6 mm (87.26\" × 54.40\" × 4.31\")",
+        "Packaging Dimensions": "carton: 65-inch: 1,587 mm x 1,055 mm x 260 mm (62.48\" × 41.53\" × 10.24\") 75-inch: 1,810 mm × 1,150 mm × 260 mm (71.26\" × 45.28\" ×10.24\") 86-inch: 2,055 mm × 1,325 mm × 260 mm (80.91\" × 52.17\" × 10.24\") 98-inch: 2,337 mm × 1,470 mm × 255 mm (92.01\" × 57.87\" × 10.04\") pallet: 65-inch: 1,620 mm x 1,060 mm x 120 mm (63.78\" × 41.73\" × 4.72\") 75-inch: 1,830 mm × 1,060 mm × 120 mm (72.05\" × 41.73\" × 4.72\") 86-inch: 2,100 mm × 1,060 mm × 120 mm (82.68\" × 41.73\" × 4.72\") 98-inch: 2,340 mm × 1,040 mm × 155 mm (92.13\" × 40.94\" × 6.10\")",
+        "Net Weight": "65-inch: 40 kg (88.18 lb) 75-inch: 54 kg (119.05 lb) 86-inch: 67 kg (147.71 lb) 98-inch: 91 kg (200.62 lb)",
+        "Gross Weight": "65-inch: 50 kg (110.23 lb) 75-inch: 65 kg (143.30 lb) 86-inch: 80 kg (176.37 lb) 98-inch: 107 kg (235.89 lb)",
+        "Holes Distance": "65-inch: 500 mm× 400 mm (19.69''× 15.75'') 75-inch: 600 mm× 400 mm (23.62''× 15.75'') 86-inch: 800 mm× 400 mm (31.50''× 15.75'') 98-inch: 1000 mm× 400 mm (39.37''× 15.75'')",
+        "Installation": "Wall mount; mobile bracket",
+        "Standby Power Consumption": "≤ 0.5 W",
+        "Packing List": "Smart interactive whiteboard × 1 Power cord × 3 Stylus pen × 2 Quick start guide × 1 Wall mount bracket (already installed on the whiteboard): × 1 Accessory package × 1 Remote control × 1"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/LPH65-MC470-P_datasheet_20230621.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Smart Interactive Whiteboard_Quick Start Guide_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006842/202411/Dahua_Smart_Interactive_Whiteboard_Quick_Start_Guide_V1.0.3.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Smart Interactive Whiteboard_User's Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006842/202411/Dahua_Smart_Interactive_Whiteboard_User_27s_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-06-07 #A&E Document LPH98-MC470-P_A&E_20260901230300 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50467/a_e_document/1788275453834.docx"
+      },
+      {
+        "name": "2023-01-09 #Drawings LPH98-MC470-P_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50447/drawings/LPH75-MC470-P_PORT.pdf"
+      },
+      {
+        "name": "2023-01-09 #Drawings LPH98-MC470-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50467/drawings/LPH98-MC470-P_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-01-09 #Drawings LPH98-MC470-P_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50467/drawings/1_0_01_14_11394_289433926.pdf"
+      },
+      {
+        "name": "2024-05-18 #Firmware DH_DeepHubPro_MultiLang_V3.010.0000001.0.R.231011_ReleaseNotes Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2631503/DH_DeepHubPro_MultiLang_V3.010.0000001.0.R.231011_ReleaseNotes.zip"
+      },
+      {
+        "name": "2024-05-18 #Firmware DH_DeepHubPro_MultiLang_V3.010.0000002.1.R.240409 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2631502/M/DH_DeepHubPro_MultiLang_V3.010.0000002.1.R.240409.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/business-series/mc470-p-series/lph98-mc470-p"
+  }
+}

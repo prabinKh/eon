@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Sciflow 120mm ARGB Case Fan"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421974819",
+    "product_name": "Sciflow 120mm ARGB Case Fan",
+    "product_title": "Sciflow 120mm ARGB Case Fan",
+    "product_url": "https://antesports.com/products/ant-esports-sciflow-120mm-argb-case-fan",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SCIFLOW120mmCaseFanARGB_1_23813a13-2135-4f82-8008-cb0b33cacfca.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-sciflow-120mm-argb-case-fan.html",
+  "detail": {
+    "title": "Sciflow 120mm ARGB Case Fan",
+    "model": "AESP0264",
+    "brand": "Ant Esports",
+    "overview": "Vibrant 360° ARGB Illumination for stunning PC aestheticsHigh Airflow Nine-Blade Design for superior cooling efficiency|Ultra-Quiet Hydraulic Bearing ensures long-lasting, silent operationOptimized Static Pressure ideal for radiators and dense mesh airflowUniversal 3-Pin ARGB + 4-Pin PWM Support for full motherboard syncDurable Build Quality with anti-vibration pads for stable performance",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SCIFLOW120mmCaseFanARGB_1_23813a13-2135-4f82-8008-cb0b33cacfca.png",
+        "alt": "Sciflow 120mm ARGB Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SCIFLOW120mmCaseFanARGB_4_5ffc1701-a271-4d6f-af5b-9dde4fa39d8e.png",
+        "alt": "Sciflow 120mm ARGB Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_B_ef9f0040-4ba4-4d5a-9f8c-30b79d5d9e04.png",
+        "alt": "Sciflow 120mm ARGB Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_B_45719f64-46bc-466c-909e-0691590f2f86.png",
+        "alt": "Sciflow 120mm ARGB Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "Single",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "1500",
+        "FAN Airflow (CFM)": "65.4",
+        "FAN Static Pressure (mmH₂O)": "1.8",
+        "FAN Noise (dBA)": "30.8",
+        "FAN Direction": "Forward",
+        "Connection": "PWM + ARGB",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "Single",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "1500",
+        "FAN AIRFLOW (CFM)": "65.4",
+        "FAN STATIC PRESSURE (MMH₂O)": "1.8",
+        "FAN NOISE (DBA)": "30.8",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM + ARGB",
+        "Offer Price (INR)": "₹549.00",
+        "MRP (INR)": "₹1,299.00",
+        "SKU": "AESP0264"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-sciflow-120mm-argb-case-fan"
+  }
+}

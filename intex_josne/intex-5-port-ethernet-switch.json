@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "5-Port Ethernet Switch",
+    "subcategory_url": "https://www.intex.in/collections/5-port-ethernet-switch",
+    "series": "Ethernet Switch",
+    "series_url": "https://www.intex.in/collections/ethernet-switch",
+    "tab_title": "5-Port Ethernet Switch",
+    "tab_id": "9360476766426",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "5-Port Ethernet Switch",
+      "Intex 5-Port Ethernet Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "9360476766426",
+    "product_name": "Intex 5-Port Ethernet Switch",
+    "product_title": "Intex 5-Port Ethernet Switch",
+    "product_url": "https://www.intex.in/products/intex-5-port-ethernet-switch",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_7a5fdac0-cb02-4823-8b92-50dc6b89c22f.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1199.0,
+      "display": "₹1,199.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-5-port-ethernet-switch.html",
+  "detail": {
+    "title": "Intex 5-Port Ethernet Switch",
+    "model": "5",
+    "brand": "Intex",
+    "overview": "Enhance your wired network with the Intex 5-Port Ethernet Switch, designed to deliver reliable and efficient connectivity for homes, offices, gaming setups, and surveillance systems. Equipped with 5 Fast Ethernet 10/100 Mbps ports and a 1 Gbps switching capacity, it ensures smooth data transmission for multiple connected devices. Its plug-and-play functionality eliminates the need for software installation or configuration, making setup quick and effortless. Featuring low heat operation, built-in protection, and a compact design, the Intex Ethernet Switch is the ideal networking solution for stable, high-performance connectivity.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_7a5fdac0-cb02-4823-8b92-50dc6b89c22f.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_f7e0cc55-1e0c-4fc0-8f7e-56780b92f4f8.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_44d63a44-d7dc-459e-bb1b-72dd5b416837.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_d5691bcd-5695-4e6b-a924-94b19c041522.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_b0ffb785-d36a-4abb-9563-ae18f76c295a.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_2973465a-cfa0-47fa-9127-128565d71ff5.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_f09f7d9e-e734-43e0-8336-8cd3b0ecc6bb.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/8_5703bc51-d393-4fdc-bbe1-0ffc991d0d5f.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9_f251ba49-6c48-42b7-b37d-404fe477fcf4.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/10_429fe283-3fb6-4933-98c6-665a05d4a585.jpg",
+        "alt": "Intex 5-Port Ethernet Switch",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 10,
+    "specifications": {
+      "General": {
+        "Brand": "Intex",
+        "Product Type": "Ethernet Switch",
+        "Number of Ports": "5 × RJ45 Fast Ethernet Ports",
+        "Port Speed": "10/100 Mbps Auto-Negotiation",
+        "Total Switching Capacity": "1 Gbps",
+        "Power Supply": "DC 5V/1A Adapter",
+        "Network Standards": "IEEE 802.3 & IEEE 802.3u",
+        "Installation": "Desktop Placement",
+        "Operation": "Plug & Play (No Configuration Required)",
+        "Cooling": "Low Heat Operation",
+        "Protection": "Built-in Circuit Protection",
+        "Transmission Distance": "Up to 100 Metres per Port",
+        "Housing": "Compact & Lightweight",
+        "Applications": "Home, Office, CCTV, IP Cameras, Smart TVs, Gaming Consoles, Computers, Printers & Network Devices",
+        "Model": "5"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_5_Port_Ethernet_Launch_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-5-port-ethernet-switch"
+  }
+}

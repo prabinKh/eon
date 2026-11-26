@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "VM45 Gaming Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416731939",
+    "product_name": "VM45 Gaming Cabinet",
+    "product_title": "VM45 Gaming Cabinet",
+    "product_url": "https://antesports.com/products/ant-value-chassis-vm45-aesp0389",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_dcd8212a-d86d-4cd6-8beb-e82583c287ab.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-value-chassis-vm45-aesp0389.html",
+  "detail": {
+    "title": "VM45 Gaming Cabinet",
+    "model": "AESP0389",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value Chassis VM45 is a premium office cabinet designed to deliver excellent performance for everyday computing, work, and office use. Featuring support for M-ATX, M-ITX motherboards, 4(3x Front, 1x Rear) pre-installed fans, and support for graphics cards up to 280mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for home and office users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_dcd8212a-d86d-4cd6-8beb-e82583c287ab.png",
+        "alt": "VM45 Gaming Cabinet - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_c09f944c-cfb8-435b-b264-a0b0369797e0.png",
+        "alt": "VM45 Gaming Cabinet - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_e4e77f66-1f07-44a7-b910-01adab9d7556.png",
+        "alt": "VM45 Gaming Cabinet - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_bdc5b7da-770e-49d0-ad99-ac46431dfbe2.png",
+        "alt": "VM45 Gaming Cabinet - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "Value Cabinets",
+        "Product Type": "Cabinet",
+        "Length (mm)": "295",
+        "Width (mm)": "190",
+        "Height (mm)": "405",
+        "Volume (liters)": "23",
+        "Motherboard Support": "M-ATX, M-ITX",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "1",
+        "Front FAN Support": "3x120mm",
+        "Top FAN Support": "2x120mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Top AIO Support": "240mm",
+        "Rear AIO Support": "120mm",
+        "Pre-Installed FANs": "4 (3x Front, 1x Rear)",
+        "Max. VGA Card Length (mm)": "280",
+        "Max. CPU Cooler Height (mm)": "160",
+        "I/O Panel": "1x USB 3.0, 2x USB",
+        "Expansion Slots": "4",
+        "SERIES": "Value Cabinets",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "295",
+        "WIDTH (MM)": "190",
+        "HEIGHT (MM)": "405",
+        "VOLUME (LITERS)": "23",
+        "MOTHERBOARD SUPPORT": "M-ATX, M-ITX",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "1",
+        "FRONT FAN SUPPORT": "3x120mm",
+        "TOP FAN SUPPORT": "2x120mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "TOP AIO SUPPORT": "240mm",
+        "REAR AIO SUPPORT": "120mm",
+        "PRE-INSTALLED FANS": "4 (3x Front, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "280",
+        "MAX. CPU COOLER HEIGHT (MM)": "160",
+        "I/O PANEL": "1x USB 3.0, 2x USB",
+        "EXPANSION SLOTS": "4",
+        "Offer Price (INR)": "₹2,399.00",
+        "MRP (INR)": "₹2,699.00",
+        "SKU": "AESP0389"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-value-chassis-vm45-aesp0389"
+  }
+}

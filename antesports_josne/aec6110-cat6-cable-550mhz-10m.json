@@ -1,0 +1,70 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "Cat 6 Ethernet Cable 10 Meters - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353569857827",
+    "product_name": "Cat 6 Ethernet Cable 10 Meters - Black",
+    "product_title": "Cat 6 Ethernet Cable 10 Meters - Black",
+    "product_url": "https://antesports.com/products/aec6110-cat6-cable-550mhz-10m",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aec6110-cat6-cable-550mhz-10m.html",
+  "detail": {
+    "title": "Cat 6 Ethernet Cable 10 Meters - Black",
+    "model": "AEPP0262",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC6110 is a 10-metre Cat 6 Ethernet cable rated for 550MHz bandwidth, delivering stable, high-speed wired networking across longer distances for gaming, streaming or home networking setups. Cat 6 construction supports significantly higher data transfer rates than older Cat 5e cables, reducing lag and buffering even over its extended length. Its black finish and durable build make it a dependable choice for connecting routers, switches, PCs, consoles or smart TVs across larger rooms or between floors.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11.jpg",
+        "alt": "Cat 6 Ethernet Cable 10 Meters - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Category": "Cat 6",
+        "Bandwidth": "550MHz",
+        "Length": "10 Meters",
+        "Color": "Black",
+        "CATEGORY": "Cat 6",
+        "BANDWIDTH": "550MHz",
+        "LENGTH": "10 Meters",
+        "COLOR": "Black",
+        "SKU": "AEPP0262"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec6110-cat6-cable-550mhz-10m"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "153801",
+    "product_name": "ISC-D816S",
+    "product_title": "Walk-through Metal Detector for Prohibited Items Classification Detection",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d816s",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10516/ProductImage/1_0_01_46_10516_827229883_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-d816s.html",
+  "detail": {
+    "title": "Walk-through Metal Detector for Prohibited Items Classification Detection",
+    "model": "ISC-D816S",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-D816S Walk-through Metal Detector for Prohibited Items Classification Detection Key Points ●It Features Strong Anti-Interference Capabilities, High Precision, And Stable Performance ●The Detector Supports Multiple Detection Modes ●The Operating Interface Utilizes A 10-Inch Color Touchscreen Display ●The Main Unit Is Equipped With A 29-Inch Full HD Color LCD Display On The Rear ●The Equipment Supports Network Connectivity, Meeting The Needs Of Smart Security Screening Solutions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10516/ProductImage/1_0_01_46_10516_827229883_crop_thumb.PNG",
+        "alt": "ISC-D816S_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10516/ProductImage/1_0_01_46_10516_827229474_crop_thumb.PNG",
+        "alt": "ISC-D816S_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10516/ProductImage/1_0_01_46_10516_827229886_crop_thumb.PNG",
+        "alt": "ISC-D816S_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10516/ProductImage/1_0_01_46_10516_827229889_crop_thumb.PNG",
+        "alt": "ISC-D816S_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "System": {
+        "Display": "*1 29-inch LCD screen and *1 10-inch touch screen"
+      },
+      "Metal Detection": {
+        "Working Mode": "4 detection modes are selectable: metal detection, mobile phone detection, prohibited item detection, and classification detection.",
+        "Self Test": "Power-on Self-check",
+        "Zone": "16",
+        "Sensitivity": "10,000 levels",
+        "Frequency": "8-level frequency adjustment",
+        "Alarm Sound": "99 kinds of multiple alarm tones",
+        "Alarm Volume": "10-level volume adjustment",
+        "Alarm Duration": "0-10 seconds",
+        "Network Upgrade": "Yes",
+        "Time Display": "Yes",
+        "IR Mode": "Yes",
+        "Number of Scenarios": "11",
+        "Environmental Interference": "Real-time display of signal strength",
+        "People Counting": "Supports selectable counting modes (front + rear +, front + rear - and separate counting).",
+        "Auto Search Frequency": "Yes",
+        "Overall Sensitivity Settings": "Yes",
+        "Filter Umbrellas and Thermos Cups": "Yes",
+        "Random Alarm": "Yes",
+        "Standby": "Yes"
+      },
+      "Live View": {
+        "People Counting Display": "Displays the pass number, metal alarm number, human figure, detected object type icons and text on 29-inch LCD screen and 10-inch touch screen; if equipped with smart camera, video images, personnel detection and comparison pictures, historical data can be displayed on 29-inch large screen."
+      },
+      "Personnel Detection": {
+        "Personnel Detection": "1.12 persons/second (1,080P) for one channel, 12 persons/second (1,080P) for two channels. 2. Supports identification without mask.",
+        "Intelligent Playback (Personnel Detection)": "1. Query conditions: By pass channel, time and personnel attribute. 2. Function: Supports search results associated playback of 10 seconds of video before and after the event, and search results export as excel, video and picture. 3.Historical library capacity: 10 million"
+      },
+      "Personnel Comparison": {
+        "Database Management": "1. Import method: import personnel images single/in batches through the browser, single card modeling speed 10 pictures/second 2. Personnel information: name, gender, birthday, province, city, ID type and ID number; custom 3.Database capacity: create up to 10 personnel databases, 300,000 pictures, total capacity 50G 4.Image requirements: jpg format, max size of a single image is 4M, pixel range 100×100–6,000×5,000.",
+        "Personnel Comparison": "1.Comparison mode: rear FD+rear FR 2.AI by camera: supports 4-channel image stream 3.AI by device function configuration: normal/stranger mode; supports multiple personnel databases, support alarm prompts, linkage recording, snapshot, IPC external alarm output, voice prompts, buzzer, log records, emails performance: AI by device supports 1-channel personnel comparison (1,080p video stream)"
+      },
+      "Video and Audio": {
+        "Camera Access": "Max 4-channel 3,200W/2,100W/1,200W/800W/600W/500W/400W/300W/1,080P/960p/720P/D1/CIF/QCIF",
+        "Network Video Input": "Supports access up to 4-channel IPCs.",
+        "Video Frame Rate": "PAL: 1 frame/second to 25 frames/second",
+        "Video Bit Rate": "32–6,144 kbps",
+        "Audio Sampling Rate": "8KHz,16Bit",
+        "Audio Bit Rate": "64 kbps",
+        "Stream Type": "Video Stream and composite stream",
+        "Video Output": "3-Channel HDMI output resolution supports 1,920 × 1,080 /1,280 × 1,024/1,280 × 720/1,024 × 768, 1,280 × 1,024 by default.",
+        "Window Split": "1/4 Window",
+        "Third-party Camera Access": "onvif, RTSP, Panasonic, Sony, Axis, Arecont, Pelco, Canon, Samsung and GB/T28181"
+      },
+      "Network": {
+        "Protocol": "IPv6;P2P;DDNS;DNS;DHCP;NTP;SMTP;UDP;RTSP;IPv4;TCP/IP;HTTPS;HTTP",
+        "Interoperability": "SDK;CGI;GB/T28181;ONVIF(Profile SG)",
+        "Browser": "IE11, Google (Configuration only)"
+      },
+      "Recording Management": {
+        "Recording Method": "Auto recording; manual recording; alarm recording; scheduled recording",
+        "Video Playback": "4-channel",
+        "Backup": "Browser backup",
+        "Playback Method": "Instant playback; conventional playback; event playback; label playback; Intelligent playback (personnel, dynamic detection)"
+      },
+      "Alarm": {
+        "Alarm Linkage": "Video, snapshot, IPC external alarm output, voice prompt, buzzer, log record, preset point and mail."
+      },
+      "Port": {
+        "Power port": "*2, on the side of the detector panel.",
+        "Voice Output Port": "*1",
+        "Network Port": "*2 RJ-45 Network port",
+        "POE Port": "*4",
+        "SATA Port": "*2",
+        "USB Port": "*2 USB3.0",
+        "I/O Port": "2-channel alarm input and 2-channel alarm output."
+      },
+      "Regular": {
+        "Tunnel Dimensions": "H × W × D: 2,001 mm × 747 mm × 823 mm (78.82\" × 29.41\" × 32.44\")",
+        "Product Dimensions": "H × W × D: 2,370 mm × 1,006 mm × 823 mm (93.31\" × 39.57\" × 32.44\")",
+        "Packaging Dimensions": "L × W × H: Detector Panel: 2,520 mm × 920 mm × 351 mm (99.21\" × 36.22\" × 13.82\") Case: 870 mm × 693 mm × 504 mm (34.25\" × 27.32\" × 19.80\")",
+        "Gross Weight": "Detector panel: 100 kg (220.46 lb) Case: 32.6 kg (71.99 lb)",
+        "Installation": "Carton",
+        "Operating Temperature": "–10 °C to 35 °C (5 °F to 113 °F)",
+        "Storage Temperature": "–20 °C to 65 °C (–4 °Fto 149 °F)",
+        "Working Humidity": "<93% (RH), non-condensing",
+        "Storage Humidity": "<93% (RH), non-condensing",
+        "Power Consumption": "110 W",
+        "Power Supply": "100–220 VAC,50–60 Hz"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85028/datasheet/DHI-ISC-D816S_datasheet_20260724.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d816s"
+  }
+}

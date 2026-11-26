@@ -1,0 +1,177 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Android Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series",
+    "tab_title": "Lite Series",
+    "tab_id": "18232",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Android Series",
+      "Lite Series",
+      "Lite Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "46727",
+    "product_name": "VTH5321GB-W/VTH5321GW-W",
+    "product_title": "Android IP Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series/lite-series/vth5321gb-w/vth5321gw-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231215/1_0_01_15_11477_112191164924_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth5321gw-w.html",
+  "detail": {
+    "title": "Android IP Indoor Monitor",
+    "model": "VTH5321GB-W/VTH5321GW-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH5321GB-W/VTH5321GW-W Android IP Indoor Monitor Key Points • 7-inch Colorful Touch Screen with 1024 × 600 Resolution • Built-In Android 8.1 System • Wi-Fi Support • Supports Android App Installation • Device Port: 8-Channel Alarm Input, 1-Channel Alarm Output, 1-Channel RS485 • TF Card, Max 256G Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231215/1_0_01_15_11477_112191164924_crop_thumb.png",
+        "alt": "VTH5321GB(W)-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11477/ProductImage/1_0_01_15_11477_1121964925_crop_thumb.png",
+        "alt": "VTH5321GB(W)-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11477/ProductImage/1_0_01_15_11477_1121964928_crop_thumb.png",
+        "alt": "VTH5321GB(W)-W_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11477/ProductImage/1_0_01_15_11477_1121964927_crop_thumb.png",
+        "alt": "VTH5321GB(W)-W_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11477/ProductImage/1_0_01_15_11477_1121964929_crop_thumb.png",
+        "alt": "VTH5321GB(W)-W_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Operating System": "Android 8.1",
+        "Network Protocol": "IPv4, TCP, SIP, UDP, RTSP"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive screen",
+        "Display Screen": "7 inch TFT LCD",
+        "Resolution": "1024×600",
+        "Video Compression": "H.264",
+        "Audio Compression": "PCM",
+        "Audio Input": "1 omnidirectional microphone",
+        "Audio Output": "Built-in 1W speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/DNR",
+        "Audio Bit Rate": "16KHz, 16Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Information Release": "Text announcements released by the management center can be viewed",
+        "Elevator Control": "You can control the elevator through the indoor monitor",
+        "Leave Videos or Text Messages": "Yes (SD card is needed)",
+        "DND Mode": "Do not disturb period can be set.",
+        "Extension Number": "Villa: 4 (Calls can be made among up to 3 indoor monitors when only Wi-Fi is connected.) Apartment: 9",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4GHz",
+        "Wireless Security-Encryption": "64/128bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS",
+        "Storage": "Micro SD storage, the maximum space is 256GB"
+      },
+      "Performance": {
+        "Casing": "PC+ABS"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "8",
+        "Alarm Output": "1",
+        "Power Output": "1 12V/100mA",
+        "Door Bell": "Yes, use alarm input port",
+        "Network": "1 10M/100M Ethernet"
+      },
+      "Alarm": {
+        "SOS": "Yes"
+      },
+      "General": {
+        "Color": "White/Black",
+        "Power Supply": "12V DC 1A POE(802.3AF)",
+        "Installation": "Surface mount",
+        "Certifications": "CE FCC",
+        "Accessory": "Surface mount bracket, alarm ribbon cable, RS-485 cable, and power-supply pins are provided",
+        "Product Dimensions": "189.6 mm × 134.6 mm × 26 mm (7.46\"×5.30\"×1.02\")",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "10%RH–95%RH (Non-condensing)",
+        "Operating Altitude": "Less than 3,000 meters (9842.52 ft)",
+        "Power Consumption": "≤1.5W (standby), ≤7W (working)",
+        "Net Weight": "385 g (0.85 lb)",
+        "Gross Weight": "490 g (1.08 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH5321GB(W)-W_datasheet_20230522.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual IP Indoor Monitor_Quick Start Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42537/user_manual/IP_Indoor_Monitor_Quick_Start_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual IP Indoor Monitor_User's Manual_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42537/user_manual/IP_Indoor_Monitor_User_27s_Manual_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2021-01-07 #A&E Document VTH5321GB-W/VTH5321GW-W_A&E_20210107123650 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85421/a_e_document/VTH5321GB-W_VTH5321GW-W_A_E_20210107123650.docx"
+      },
+      {
+        "name": "2023-04-21 #Drawings VTH5321GB-W/VTH5321GW-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87837/drawings/1_0_01_15_11883_378532603.pdf"
+      },
+      {
+        "name": "2023-04-21 #Drawings VTH5321GB-W/VTH5321GW-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87837/drawings/1_0_01_15_11883_378532602.pdf"
+      },
+      {
+        "name": "2023-04-21 #Drawings VTH5321GB-W/VTH5321GW-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87837/drawings/1_0_01_15_11883_378532604.pdf"
+      },
+      {
+        "name": "2026-04-18 #Firmware DH_VTH53X1_MultiLang_SIP_V4.400.0000003.5.R.20260403 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85421/firmware/DH_VTH53X1_MultiLang_SIP_V4.400.0000003.5.R.20260403.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series/lite-series/vth5321gb-w/vth5321gw-w"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "hierarchy": {
+    "category": "Security & Surveillance",
+    "category_url": "https://www.intex.in/collections/security-surveillance",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "Biometric Series",
+    "series_url": "https://www.intex.in/collections/biometric-series",
+    "tab_title": "Biometric",
+    "tab_id": "9343294505178",
+    "breadcrumbs": [
+      "Home",
+      "Security & Surveillance",
+      "Biometric",
+      "INTEX AX 3K Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9343294505178",
+    "product_name": "INTEX AX 3K Biometric",
+    "product_title": "INTEX AX 3K Biometric",
+    "product_url": "https://www.intex.in/products/intex-ax-3k-1",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_73a7c870-a95a-4810-a8f2-7738c3ac929b.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 23541.0,
+      "display": "₹23,541.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-ax-3k-1.html",
+  "detail": {
+    "title": "INTEX AX 3K Biometric",
+    "model": "1165-2981-018",
+    "brand": "Intex",
+    "overview": "Streamline workforce attendance management with the INTEX AX 3K Biometric Attendance Machine. Featuring multiple authentication methods including fingerprint, RFID card, and password verification, this device provides secure and accurate employee attendance tracking. With a capacity of 3,000 users and storage for up to 200,000 attendance records, it is ideal for businesses of all sizes. USB data export and Excel-compatible reporting make attendance processing quick and efficient, while the high-speed biometric sensor ensures reliable performance every day.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_73a7c870-a95a-4810-a8f2-7738c3ac929b.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_7216b7ed-b24a-476a-8198-e91a8df2e459.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_2d5404b0-9c45-4470-bb3c-540b5c3117a9.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_1dcf8c12-987a-43a7-8204-53a4968afef7.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_c547b748-f5ad-4639-b278-e95978ca9f56.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_e7bb09fc-c2d5-469a-88e3-d9f43d1662b3.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_09b0e72c-c1e9-4656-ba16-25be9701fb37.jpg",
+        "alt": "INTEX AX 3K Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "General": {
+        "Finger Capacity": "3000",
+        "Card Capacity": "3000",
+        "Password Capacity": "3000",
+        "Add User": "3000",
+        "Attendance Records": "200000",
+        "Fingerprint Verification Mode": "1:1, 1:N",
+        "Working Mode": "Online / Offline",
+        "Verification Mode": "Fingerprint / Password / Card",
+        "Screen": "2.4 TFT Colour LCD",
+        "Language": "English",
+        "Communication": "TCP/IP, USB, WiFi",
+        "Power Supply": "DC 12V 2A",
+        "Battery Backup": "No",
+        "Recognition Speed": "1s",
+        "Model": "1165-2981-018"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_AX3K.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-ax-3k-1"
+  }
+}

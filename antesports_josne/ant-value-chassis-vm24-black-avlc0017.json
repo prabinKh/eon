@@ -1,0 +1,113 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Office Cabinets",
+    "subcategory_url": "https://antesports.com/collections/office-cabinets",
+    "series": "Office Cabinets Series",
+    "series_url": "https://antesports.com/collections/office-cabinets",
+    "tab_title": "Office Cabinets",
+    "tab_id": "508172796195",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Office Cabinets",
+      "VM24 Office Cabinet - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416830243",
+    "product_name": "VM24 Office Cabinet - Black",
+    "product_title": "VM24 Office Cabinet - Black",
+    "product_url": "https://antesports.com/products/ant-value-chassis-vm24-black-avlc0017",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_79bb7450-a522-4038-9e4d-fad599f918ce.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-value-chassis-vm24-black-avlc0017.html",
+  "detail": {
+    "title": "VM24 Office Cabinet - Black",
+    "model": "AVLC0017",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value Chassis VM24 - Black is a premium office cabinet designed to deliver excellent performance for everyday computing, work, and office use. Featuring support for ATX, M-ATX, M-ITX motherboards, 1(1x Rear) pre-installed fans, and support for graphics cards up to 280mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for home and office users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_79bb7450-a522-4038-9e4d-fad599f918ce.png",
+        "alt": "VM24 Office Cabinet - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_9b16cd65-a251-4245-bee3-b79fcbe55b34.png",
+        "alt": "VM24 Office Cabinet - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_873fa388-be9b-41b5-868f-0bed2fe9f1f5.png",
+        "alt": "VM24 Office Cabinet - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_78a5f5da-57b0-4dc3-be88-c3e33bb9558b.png",
+        "alt": "VM24 Office Cabinet - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "Value Cabinets",
+        "Product Type": "Cabinet",
+        "Length (mm)": "337",
+        "Width (mm)": "202",
+        "Height (mm)": "432.5",
+        "Volume (liters)": "29",
+        "Motherboard Support": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "1",
+        "Front FAN Support": "3x 120mm, 2x 140mm",
+        "Top FAN Support": "2x 120mm",
+        "Rear AIO Support": "120mm",
+        "Pre-Installed FANs": "1 (1x Rear)",
+        "Max. VGA Card Length (mm)": "280",
+        "Max. CPU Cooler Height (mm)": "160",
+        "I/O Panel": "1x USB 3.0, 2x USB",
+        "Expansion Slots": "7",
+        "SERIES": "Value Cabinets",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "337",
+        "WIDTH (MM)": "202",
+        "HEIGHT (MM)": "432.5",
+        "VOLUME (LITERS)": "29",
+        "MOTHERBOARD SUPPORT": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "1",
+        "FRONT FAN SUPPORT": "3x 120mm, 2x 140mm",
+        "TOP FAN SUPPORT": "2x 120mm",
+        "REAR AIO SUPPORT": "120mm",
+        "PRE-INSTALLED FANS": "1 (1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "280",
+        "MAX. CPU COOLER HEIGHT (MM)": "160",
+        "I/O PANEL": "1x USB 3.0, 2x USB",
+        "EXPANSION SLOTS": "7",
+        "Offer Price (INR)": "₹2,099.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AVLC0017"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-value-chassis-vm24-black-avlc0017"
+  }
+}

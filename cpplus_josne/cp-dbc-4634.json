@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Body Worn camera",
+    "category_url": "https://cpplusworld.com/products/body-worn-camera",
+    "subcategory": "Body Worn Solutions",
+    "subcategory_url": "https://cpplusworld.com/products/Body Worn Solutions/body-worn-camera",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Body Worn Solutions",
+    "tab_id": "55",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Body Worn Solutions",
+      "Body Worn camera",
+      "CP-DBC-4634"
+    ]
+  },
+  "card_info": {
+    "product_id": "1818",
+    "product_name": "CP-DBC-4634",
+    "product_title": "CP-DBC-4634",
+    "product_url": "https://cpplusworld.com/cp-dbc-4634",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/081158c9-9238-412f-b658-bc80e71bf5ad.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-dbc-4634.html",
+  "detail": {
+    "title": "CP-DBC-4634",
+    "model": "CP-DBC-4634",
+    "brand": "CP Plus",
+    "overview": "Body Worn Camera",
+    "features": [
+      "Angle of View 140 Degree",
+      "H.264 Video Compression",
+      "2.0\" Display (5.08cm)",
+      "4MP High Definition Recording",
+      "IP68",
+      "Support Built-in battery (Lithium ion)",
+      "Drop Test 2 Meter"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/081158c9-9238-412f-b658-bc80e71bf5ad.jpg",
+        "alt": "CP-DBC-4634 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/5cfe5d11-4173-4b8b-8d29-558c489d62ed.jpg",
+        "alt": "CP-DBC-4634 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensing Capacity": "48MP",
+        "sensor Type": "CMOS Sensor",
+        "Display": "2” LCD (5.08cm)",
+        "Angle of View": "140˚",
+        "Video Frame Rate": "30fps",
+        "Video Compression": "H.264",
+        "Video Resolution": "2560 x 1440P@30fps, 2304 x 1296P@30fps, 1920 x 1080P@30fps, 1280 × 720@30fps, 864 x  480P@30fps",
+        "Image Pixel": "48MP (9600 x 5120), 38MP (7808 x 4928), 32MP (7680 x 4352), 24MP (6016 x 4096), 10MP  (2840 x 2352), 8MP (3760 x 2188), 4MP (2640 x 1488), 2MP (1920 x 1088)",
+        "Storage": "Support 64GB (Optional 32GB, 128GB, 256GB, 512GB)",
+        "Battery": "Built-in 4000mAh",
+        "Continuous Working Time": "Continuous video recording for more than 14 hours(1080P)",
+        "Charging Time": "≤4H",
+        "USB Port": "2.0",
+        "Auxiliary Light Source": "Infrared, white light, red and blue flash",
+        "Night Vision Distance": "15 Meter",
+        "Wi-Fi": "Support AP mode (only SSID) *Optional",
+        "GPS": "Support",
+        "Screen Protection": "Device Support Scratch Proof coating & protection",
+        "Drop Test": "2 meter",
+        "Working Temperature": "-30°C ~+60°C",
+        "Working Humidity": "≤90%",
+        "Storage Temperature": "- 40 ~ 65°C",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE,  FCC, RoHS and BIS",
+        "Weatherproof Standard": "IP68",
+        "Dimension": "81mm x 60.9mm x 33.5mm",
+        "Weight": "130g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DBC-4634.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/b96a357f-1ab0-4543-a075-258ce5bfbf90.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dbc-4634"
+  }
+}

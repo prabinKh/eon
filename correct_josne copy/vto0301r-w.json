@@ -1,0 +1,160 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Villa Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Villa Door Station",
+    "tab_id": "12792",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Villa Door Station",
+      "Villa Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "116467",
+    "product_name": "VTO0301R-W",
+    "product_title": "IP & Wi-Fi Villa Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/lite-series/vto0301r-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221117/VTO0301R-W_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto0301r-w.html",
+  "detail": {
+    "title": "IP & Wi-Fi Villa Door Station",
+    "model": "VTO0301R-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO0301R-W IP & Wi-Fi Villa Door Station Key Points • Ultra Slim Design • Voice Call Through App • Wi-Fi Support • IP65 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221117/VTO0301R-W_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221117/VTO0301R-W_4_thumb.png",
+        "alt": "VTO0301R-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221117/VTO0301R-W_3_thumb.png",
+        "alt": "VTO0301R-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221117/VTO0301R-W_2_thumb.png",
+        "alt": "VTO0301R-W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Network Protocol": "RTSP; DNS; P2P; UPnP; RTP; RTMP; SIP; SSH; HTTP/HTTPS; ONVIF"
+      },
+      "Basic": {
+        "Noise Reduction": "3D NR; 2D NR",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction; Echo suppression; Digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function": {
+        "Web Configuration": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE 802.11b; IEEE 802.11g; IEEE 802.11n",
+        "Wireless Frequency Range": "2.4 GHz"
+      },
+      "Performance": {
+        "Casing": "PC + ABS"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance color": "Light grey",
+        "Power Supply": "12–33 VDC, 1 A",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Included: Alarm power ribbon cable, rain cover",
+        "Product Dimensions": "140.7 mm × 50.7 mm × 27 mm (5.54\" × 2.00\" × 1.06\")",
+        "Protection": "IP65",
+        "Operating Temperature": "–40 °C to +55 °C (–40 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.51 ft)",
+        "Power Consumption": "≤ 3 W (standby), ≤ 5 W (working)",
+        "Gross Weight": "0.34 kg (0.75 lb)",
+        "Net Weight": "0.13 kg (0.29 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO0301R-W_datasheet_20211215.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Villa Door Station_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010956/3480009/Villa_Door_Station_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2021-12-27 #Drawings VTO0301R-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28857/drawings/1_0_01_15_11970_15705846.pdf"
+      },
+      {
+        "name": "2021-12-27 #Drawings VTO0301R-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52007/drawings/1_0_01_15_11968_15705850.pdf"
+      },
+      {
+        "name": "2021-12-27 #Drawings VTO0301R-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28867/drawings/1_0_01_15_11966_15705845.pdf"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28837/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/lite-series/vto0301r-w"
+  }
+}

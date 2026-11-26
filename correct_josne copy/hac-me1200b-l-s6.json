@@ -1,0 +1,150 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Active Deterrence Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series",
+    "tab_title": "Active Deterrence 2.0",
+    "tab_id": "6432",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Active Deterrence Series",
+      "Active Deterrence 2.0"
+    ]
+  },
+  "card_info": {
+    "product_id": "145612",
+    "product_name": "HAC-ME1200B-L",
+    "product_title": "2MP Smart Dual Light Active Deterrence HDCVI Fixed-focal Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/active-deterrence-2.0/1080p/hac-me1200b-l=s6",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25811/ProductImage/1_0_01_12_25811_1278585849_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-me1200b-l-s6.html",
+  "detail": {
+    "title": "2MP Smart Dual Light Active Deterrence HDCVI Fixed-focal Bullet Camera",
+    "model": "HAC-ME1200B-L",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-ME1200B-L 2MP Smart Dual Light Active Deterrence HDCVI Fixed-focal Bullet Camera Key Points • High-Quality Imaging with 1080P Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • 30m Illumination Distance for Superior Camera Image Quality • Active Deterrence with Warm Light • 3DNR & DWDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25811/ProductImage/1_0_01_12_25811_1278585849_crop_thumb.png",
+        "alt": "HAC-ME1200B-L_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25811/ProductImage/1_0_01_12_25811_1278585851_crop_thumb.png",
+        "alt": "HAC-ME1200B-L_View_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25811/ProductImage/1_0_01_12_25811_1278585850_crop_thumb.png",
+        "alt": "HAC-ME1200B-L_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Auto Focus": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "ABF": {},
+      "Video Frame Rate": {},
+      "Resolution": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Illumination Mode": {},
+      "Mirror": {},
+      "Detection Mode": {},
+      "Max. Detection Range": {},
+      "Recommended Installation Height": {},
+      "Recommended Working Temperature": {},
+      "Warm Light Warning": {},
+      "Certifications": {},
+      "Video Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-ME1200B-L_S6_datasheet_20240425.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2024-02-20 #Drawings HAC-ME1200B-L_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6917/drawings/HAC-ME1800B-L_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-02-20 #Drawings HAC-ME1200B-L_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6917/drawings/HAC-ME1800B-L_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/active-deterrence-2.0/1080p/hac-me1200b-l=s6"
+  }
+}

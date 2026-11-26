@@ -1,0 +1,136 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "Mobile",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+    "series": "Dash Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+    "tab_title": "Dash Camera",
+    "tab_id": "17317",
+    "breadcrumbs": [
+      "Others",
+      "Mobile",
+      "Dash Camera",
+      "Dash Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "138577",
+    "product_name": "S6",
+    "product_title": "Dash Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/s6",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231204/s6_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/s6.html",
+  "detail": {
+    "title": "Dash Camera",
+    "model": "S6",
+    "brand": "Dahua",
+    "overview": "Favourite S6 Dash Camera Key Points Dual recording: 1080P+720P; GPS(Computer playback); 3-inch touch screen Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231204/s6_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231204/s62_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.10547/Others/1856306594376_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_01_10547/ProductImage/1_0_99_01_10547_242223006_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.10547/ProductImage/1855493149621_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.10547/ProductImage/1856039467725_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.10547/ProductImage/1855563391475_thumb.png",
+        "alt": "S6",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.9'' CMOS",
+        "Camera Pixel": "2MP",
+        "Frame Rate": "Dual-Channel: 1920P×1080P@25FPS; 1280P×720P@25FPS",
+        "Field of View": "134°",
+        "Iris": "F2.0",
+        "Screen": "3'' touch screen with 320×640 resolution",
+        "Video Compression": "H.264",
+        "OSD": "Display time, date, etc.",
+        "Image format": "JPEG",
+        "Storage": "1 TF card (up to 128GB)",
+        "Communication Module": "WiFi AP",
+        "G-sensor": "Built in, supports locking video after collision."
+      },
+      "Interface": {
+        "Power Supply": "Mini USB",
+        "Audio Input": "Build-in microphone",
+        "Audio Output": "Build-in speaker"
+      },
+      "General": {
+        "Operating Temperature": "-20°C to 70°C(-4°F to 158°F)",
+        "Operating humidity": "<95%(No condensation)",
+        "Power Supply": "DC 5V/1.5A",
+        "Power Consumption": "≤7.5W",
+        "Dimensions": "91mm×58mm×39mm(3.58′′×2.28′′×1.54′′)",
+        "Weight": "≈108.9g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/138577/datasheet/S6_datasheet_20230719.pdf"
+      },
+      {
+        "name": "2023-12-03 #User Manual S6 User Manual Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78327/user_manual/S6_User_Manual.pdf"
+      },
+      {
+        "name": "2022-12-22 #Drawings S6_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78327/drawings/S6_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/s6"
+  }
+}

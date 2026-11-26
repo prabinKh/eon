@@ -1,0 +1,123 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Gateways",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/gateways",
+    "tab_title": "Gateways",
+    "tab_id": "17841",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Gateways",
+      "Gateways"
+    ]
+  },
+  "card_info": {
+    "product_id": "154200",
+    "product_name": "HY-GW02A",
+    "product_title": "Wireless Gateway",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gateways/hy-gw02a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15821/ProductImage/1_0_01_36_15821_634299616_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-gw02a.html",
+  "detail": {
+    "title": "Wireless Gateway",
+    "model": "HY-GW02A",
+    "brand": "Dahua",
+    "overview": "Favourite HY-GW02A Wireless Gateway Key Points · Compatible with WisuLink wireless interconnected products · Multiplex communication based on Ethernet, Wi-Fi, and 4G · AC power supply accompanied by rechargeable lithium battery back-up · Support OTA software upgrades · Support 1 LED indicator to illustrate the status of Power, Alarm and Internet Connectivity Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15821/ProductImage/1_0_01_36_15821_634299616_thumb.png",
+        "alt": "HY-GW02A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15821/ProductImage/1_0_01_36_15821_634285477_thumb.png",
+        "alt": "HY-GW02A_Rendergraph_Other-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15821/ProductImage/1_0_01_36_15821_634299617_thumb.png",
+        "alt": "HY-GW02A_Rendergraph_Other-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15821/ProductImage/1_0_01_36_15821_634279696_thumb.png",
+        "alt": "HY-GW02A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Power Supply": "AC100V-AC240V",
+        "Alarm Volume": "70 dB",
+        "Alarm Mode": "Visual and audible alarm",
+        "LED Instructions": "Standby: Green indicator stays on continuously Pairing: Green indicator flashes quickly (once per 0.5 seconds) Unpairing: The indicator returns to the initial state Alarm: Red indicator remains lit Fault: Yellow indicator remains lit Distributed the network successfully: Blue indicator remains lit AP distribution mode: Blue indicator flashes quickly (once per 0.5 seconds) Reset: Red indicator flashes quickly (once per 0.5 seconds)",
+        "Wi-Fi Frequency": "2.4 GHz (Incompatible with 5 GHz Wi-Fi network)",
+        "Wi-Fi Transmission Range": "50 m (164 ft)",
+        "Wi-Fi Protocol": "IEEE 802.11b/g/n",
+        "Operating Frequency": "868 MHz / 925 MHz",
+        "Maximum Number of Connected Devices": "128 WisuLink wireless interconnected products",
+        "Color": "White",
+        "Casing": "ABS",
+        "Dimensions": "L175mm × W175mm × H36mm (L6.89\" × W6.89\" × H1.42\")",
+        "Weight": "500 g (1.10 lb)",
+        "Installation": "Free standing / Wall mounting",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)",
+        "LTE-FDD": "B1/B3/B5/B7/B8/B20/B28",
+        "Battery back-up": "4750mAh, 17.57Wh",
+        "Certifications": "CE, UKCA, PSTI, RCM"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82543/datasheet/1801104753723.pdf"
+      },
+      {
+        "name": "2026-04-09 #User Manual Mains Powered Wireless Gateway (DHI-HY-GW02A)_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82543/user_manual/Mains_Powered_Wireless_Gateway_(DHI-HY-GW02A)_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-07-18 #Drawings HY-GW02A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82543/drawings/HY-GW02A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-18 #Drawings HY-GW02A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82543/drawings/HY-GW02A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-08-21 #Firmware DHI_HYGW02A_Eng_MCU_V1.000.0000003.0.R.260715 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82543/firmware/DHI_HYGW02A_Eng_MCU_V1.000.0000003.0.R.260715.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gateways/hy-gw02a"
+  }
+}

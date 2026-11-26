@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Industrial PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/industrial-poe-switch",
+    "tab_title": "Industrial PoE Switch",
+    "tab_id": "8387",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Industrial PoE Switch",
+      "Industrial PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "27817",
+    "product_name": "PFS4207-4GT-DP",
+    "product_title": "7-port Gigabit Industrial Switch with 4-port PoE (Managed)",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs4207-4gt-dp",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210518/10-1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs4207-4gt-dp.html",
+  "detail": {
+    "title": "7-port Gigabit Industrial Switch with 4-port PoE (Managed)",
+    "model": "PFS4207-4GT-DP",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210518/10-1_thumb.png",
+        "alt": "PFS4207-4GT-DP",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs4207-4gt-dp"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Access Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/access-switches",
+    "series": "Metal",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/access-switches/metal",
+    "tab_title": "Metal",
+    "tab_id": "8607",
+    "breadcrumbs": [
+      "Transmission",
+      "Access Switches",
+      "Metal",
+      "Metal"
+    ]
+  },
+  "card_info": {
+    "product_id": "104817",
+    "product_name": "AS4300-48GT4GF",
+    "product_title": "48 Ports Managed Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/as4300-48gt4gf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220331/430011_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/as4300-48gt4gf.html",
+  "detail": {
+    "title": "48 Ports Managed Switch",
+    "model": "AS4300-48GT4GF",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220331/430011_thumb.png",
+        "alt": "AS4300-48GT4GF",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/as4300-48gt4gf"
+  }
+}

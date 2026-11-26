@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Value FKBRI05 Wireless Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346760110371",
+    "product_name": "Value FKBRI05 Wireless Keyboard & Mouse Combo - Black",
+    "product_title": "Value FKBRI05 Wireless Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/value-fkbri05-keyboard-mouse-combo-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/value-fkbri05-keyboard-mouse-combo-black.html",
+  "detail": {
+    "title": "Value FKBRI05 Wireless Keyboard & Mouse Combo - Black",
+    "model": "AVLP0015",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value FKBRI05 is a slim 2.4GHz wireless keyboard and mouse combo with a quiet, aesthetic design suited to modern home or office desks. The 110-key thin keyboard pairs with a matching wireless mouse for a clean, cable-free setup, connecting instantly via USB receiver with no drivers needed. Compatible with laptops, computers, PCs and notebooks running Windows or Mac OS, it's a practical, stylish everyday combo finished in a sleek Black colourway.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28.png",
+        "alt": "Value FKBRI05 Wireless Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless",
+        "Keys": "110",
+        "Design": "Slim, Quiet Typing",
+        "Compatibility": "Windows, Mac OS",
+        "Color": "Black",
+        "CONNECTIVITY": "2.4GHz Wireless",
+        "KEYS": "110",
+        "DESIGN": "Slim, Quiet Typing",
+        "COMPATIBILITY": "Windows, Mac OS",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹599.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AVLP0015"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/value-fkbri05-keyboard-mouse-combo-black"
+  }
+}

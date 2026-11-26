@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "27",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "8 Ch.",
+      "CP-UNR-208F2-I2"
+    ]
+  },
+  "card_info": {
+    "product_id": "1541",
+    "product_name": "CP-UNR-208F2-I2",
+    "product_title": "CP-UNR-208F2-I2-8Ch. AI Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-unr-208f2-i2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/ffc5118f-c47e-4983-939d-ef15629317bb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-208f2-i2.html",
+  "detail": {
+    "title": "CP-UNR-208F2-I2-8Ch. AI Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-UNR-208F2-I2",
+    "brand": "CP Plus",
+    "overview": "8Ch. AI Network Video Recorder",
+    "features": [
+      "8 Channel IP video access",
+      "Intelli Code/ H.265/Smart H.264+ /H.264/MJPEG",
+      "Max. decoding capability: 6 × 1080p@30fps. Supports adaptive decoding",
+      "1-channel face detection and recognition (AI by NVR); 1-channel perimeter protection (AI by NVR); up to 10 face databases and 5,000 face images",
+      "AI by camera: Face detection and recognition, perimeter protection and SMD",
+      "Support 2 SATA HDDs up to 10TB Each, 2 USB Ports",
+      "Support Multi-brand network cameras",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ffc5118f-c47e-4983-939d-ef15629317bb.jpg",
+        "alt": "CP-UNR-208F2-I2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/26c5c963-bc68-499c-aa02-8dd56d3927cc.jpg",
+        "alt": "CP-UNR-208F2-I2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade embedded micro-processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "8 channel",
+        "User Interface": "Web; local GUI",
+        "Video Output": "1 × VGA, 1 × HDMI (simultaneous)",
+        "Resolution": "12MP; 8MP; 5MP; 4MP; 3MP; 2MP; 720P; D1",
+        "Video Compression": "Intelli Code/H.265/Smart H.264+/H.264/MJPEG",
+        "Video Display Split": "1/4/8/9",
+        "Audio Compression": "PCM; G.711A; G.711U; G.726",
+        "Decoding Capability": "AI disabled: 1-channel 12MP@30 fps; 1-channel 8MP@30 fps; 2-channel 5MP@30 fps; 3- channel 4MP@30 fps; 6-channel 1080p@30 fps AI enabled: 1-channel 8MP@30 fps; 1-channel 5MP@30 fps; 2-channel 4MP@30 fps; 4- channel 1080p@30 fps",
+        "Audio Output": "1 channel",
+        "Audio Input": "1 channel",
+        "Camera Blank": "Supports",
+        "Motion Detection": "MD Zones: 396 (22 × 18)",
+        "Video Loss": "Supports",
+        "Alarm Linkage": "Record; snapshot; buzzer; log; preset; email; tour",
+        "AI Search": "Face detection; face recognition; perimeter protection; SMD",
+        "General Alarm": "Motion detection; privacy masking; video loss; local alarm; PIR alarm; IPC alarm",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Anomaly Alarm": "Camera offline; storage error; disk full; IP conflict; MAC conflict; login lock; cyber security exception",
+        "Face": "6 attributes: Gender; age group (6); glasses; expressions (8); mouth mask; beard",
+        "Hard Disk": "2 SATA III ports, up to 10TB for a single HDD. The maximum HDD capacity varies with environment temperature",
+        "Recording Mode": "Manual record; alarm recordings; motion detection recordings; scheduled recordings",
+        "Backup Mode": "USB device",
+        "Playback": "Play; pause; stop; fast forward; fast backward; rewind; play by frame, Full screen; backup (cut/file) ; partially enlarge; audio on/off",
+        "Ethernet": "1 RJ-45 10/100/1000 Mbps",
+        "Interface Ports": "2 USB Ports (1 × front USB2.0; 1 × back USB2.0)",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; DDNS; Alarm Server; IP Search; RTSP; InstaOn; Auto Registration; ONVIF (profile T; profile S; profile G); CGI; SDK",
+        "Power Supply": "DC 12V/4A",
+        "Power Consumption": "Total output of NVR is ≤ 10 W (without HDD)",
+        "Working Temp": "-10°C to 55°C (+14°F to +113°F)",
+        "Dimension": "375 mm × 284.3 mm × 53 mm (W × L × H)",
+        "Operating Altitude": "3000 m",
+        "Weight": "1.51 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-208F2-I2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-208f2-i2"
+  }
+}

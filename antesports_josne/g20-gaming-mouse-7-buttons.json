@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "G20 Office & Laptop Gaming Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925357859",
+    "product_name": "G20 Office & Laptop Gaming Mouse",
+    "product_title": "G20 Office & Laptop Gaming Mouse",
+    "product_url": "https://antesports.com/products/g20-gaming-mouse-7-buttons",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_93dd3915-6b5e-4a7d-9854-b9ee409668e9.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/g20-gaming-mouse-7-buttons.html",
+  "detail": {
+    "title": "G20 Office & Laptop Gaming Mouse",
+    "model": "ANTP0037",
+    "brand": "Ant Esports",
+    "overview": "The Ant G20 is a wired mouse built for both office productivity and casual gaming, using a high-end optical engine reaching up to 7200 DPI across 5 adjustable levels (1000/1600/2400/3200/7200) with a distinct LED colour for each setting. Its 7 responsive buttons offer quick access to extra shortcuts beyond a standard 3-button mouse, while RGB breathing lights add an immersive visual touch to any desk. An all-copper cable core with magnetic ring and anti-jamming PU sheathing ensures durable, tangle-resistant use, and an ergonomic human-centric design keeps hands comfortable during extended sessions. Wide compatibility spans Windows, Mac, Linux and Chrome OS.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_93dd3915-6b5e-4a7d-9854-b9ee409668e9.jpg",
+        "alt": "G20 Office & Laptop Gaming Mouse - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI Levels": "1000 / 1600 / 2400 / 3200 / 7200",
+        "Buttons": "7",
+        "Lighting": "RGB Breathing",
+        "Cable": "Copper Core, Anti-Jamming PU",
+        "Compatibility": "Windows, Mac, Linux, Chrome OS",
+        "DPI LEVELS": "1000 / 1600 / 2400 / 3200 / 7200",
+        "BUTTONS": "7",
+        "LIGHTING": "RGB Breathing",
+        "CABLE": "Copper Core, Anti-Jamming PU",
+        "COMPATIBILITY": "Windows, Mac, Linux, Chrome OS",
+        "Offer Price (INR)": "₹349.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "ANTP0037"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/g20-gaming-mouse-7-buttons"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC510 Laptop Cooling Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349033062691",
+    "product_name": "NC510 Laptop Cooling Pad - Black",
+    "product_title": "NC510 Laptop Cooling Pad - Black",
+    "product_url": "https://antesports.com/products/nc510-laptop-cooling-pad-6-fans-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_e0f25241-d7f0-424d-b86c-07c5b1644ce7.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc510-laptop-cooling-pad-6-fans-black.html",
+  "detail": {
+    "title": "NC510 Laptop Cooling Pad - Black",
+    "model": "AEPP0322",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC510 is built around six high-speed silent fans spinning up to 2400 RPM, delivering around 47 CFM of airflow to efficiently dissipate heat during gaming, content creation or extended office use. Despite the strong cooling output, noise stays low at 26-30 dBA thanks to careful fan tuning, and an integrated fan speed controller lets you fine-tune cooling intensity to match the task at hand. Adjustable ergonomic height settings with a 15-28 degree tilt range improve posture and reduce wrist strain during long sessions, while 10 dynamic RGB lighting modes and a built-in phone holder round out a genuinely premium feature set. Rated for up to 30,000 hours of fan life and supporting laptops from 10 to 17 inches across major brands like ASUS, Dell, HP, Lenovo and MacBook, the NC510 is built for serious, long-term daily use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_e0f25241-d7f0-424d-b86c-07c5b1644ce7.png",
+        "alt": "NC510 Laptop Cooling Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "6 x 60mm, Up to 2400 RPM",
+        "Airflow": "~47 CFM",
+        "Noise Level": "26-30 dBA",
+        "Height Adjustment": "15-28° Tilt",
+        "Lighting": "10 RGB Modes",
+        "USB Ports": "2",
+        "Compatibility": "Laptops up to 17 Inches",
+        "Color": "Black",
+        "FANS": "6 x 60mm, Up to 2400 RPM",
+        "AIRFLOW": "~47 CFM",
+        "NOISE LEVEL": "26-30 dBA",
+        "HEIGHT ADJUSTMENT": "15-28° Tilt",
+        "LIGHTING": "10 RGB Modes",
+        "USB PORTS": "2",
+        "COMPATIBILITY": "Laptops up to 17 Inches",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,199.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0322"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc510-laptop-cooling-pad-6-fans-black"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Villa Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Villa Door Station",
+    "tab_id": "12792",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Villa Door Station",
+      "Villa Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "123177",
+    "product_name": "VTO2101E-P-S2",
+    "product_title": "IP Villa Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/pro-series/vto2101e-p-s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230130/VTO2101E-P-S2_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto2101e-p-s2.html",
+  "detail": {
+    "title": "IP Villa Door Station",
+    "model": "VTO2101E-P-S2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO2101E-P-S2 IP Villa Door Station Key Points • 2MP HD Camera • Zinc Alloy Panel • IP65 & IK10 • PoE Power Supply • Device Ports: 1-Channel Alarm Input, 1-Channel RS485, 2-Channel Locks (1 with Secure Model) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230130/VTO2101E-P-S2_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230130/VTO2101E-P-S2_2_thumb.png",
+        "alt": "VTO2101E-P-S2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230130/VTO2101E-P-S2_3_thumb.png",
+        "alt": "VTO2101E-P-S2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230130/VTO2101E-P-S2_4_thumb.png",
+        "alt": "VTO2101E-P-S2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "RTSP; DNS; P2P; UPnP; RTP; RTMP; SIP; SSH; HTTP/HTTPS; ONVIF"
+      },
+      "Basic": {
+        "Camera": "1/2.8\" 2-MP CMOS HD Camera",
+        "Field of View": "H: 80°; V: 40°; D: 90°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR; 2D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, and CIF; Sub stream: 1080p, WVGA, D1, QVGA, and CIF",
+        "Video Frame Rate": "PAL: 25 fps NTSC: 30 fps",
+        "Video Bit Rate": "768 kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction; Echo suppression; Digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Unlock Mode": "Remote",
+        "Leave Videos": "Yes (SD card inserted in VTH is needed)",
+        "Web Configuration": "Yes"
+      },
+      "Performance": {
+        "Casing": "Zinc alloy"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "1",
+        "Exit Button": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance color": "Grey",
+        "Power Supply": "12 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Included: Alarm power ribbon cable, rain cover",
+        "Product Dimensions": "163.0 mm × 73.0 mm × 55.0 mm (6.42\" × 2.87\" × 2.17\")",
+        "Protection": "IP65 IK10",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.51 ft)",
+        "Power Consumption": "≤ 2.5 W (standby), ≤ 5 W (working)",
+        "Gross Weight": "0.8 kg (1.76 lb)",
+        "Net Weight": "0.3 kg (0.66 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO2101E-P-S2_datasheet_20211202.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Villa Door Station_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010956/3480009/Villa_Door_Station_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83226/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-11-17 #Drawings VTO2101E-P-S2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29337/drawings/VTO2101E-P-S2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-11-17 #Drawings VTO2101E-P-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/60397/drawings/VTO2101E-P-S2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-17 #Drawings VTO2101E-P-S2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29337/drawings/VTO2101E-P-S2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28837/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/pro-series/vto2101e-p-s2"
+  }
+}

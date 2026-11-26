@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "IT Accessories",
+    "subcategory_url": "https://www.intex.in/collections/it-accessories",
+    "series": "IT Keyboard",
+    "series_url": "https://www.intex.in/collections/it-keyboard",
+    "tab_title": "IT Accessories",
+    "tab_id": "9069741375706",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "IT Accessories",
+      "Intex Rise Wired Keyboard (CORONAA S IT-KB333)"
+    ]
+  },
+  "card_info": {
+    "product_id": "9069741375706",
+    "product_name": "Intex Rise Wired Keyboard (CORONAA S IT-KB333)",
+    "product_title": "Intex Rise Wired Keyboard (CORONAA S IT-KB333)",
+    "product_url": "https://www.intex.in/products/intex-rise-wired-keyboard-coronaa-s-it-kb333",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Rise01.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-rise-wired-keyboard-coronaa-s-it-kb333.html",
+  "detail": {
+    "title": "Intex Rise Wired Keyboard (CORONAA S IT-KB333)",
+    "model": "IT-KB333",
+    "brand": "Intex",
+    "overview": "Experience seamless performance with the Intex Rise Wired Keyboard (Model: CORONAA S IT-KB333). Designed for comfort and durability, this full-sized keyboard ensures smooth and precise typing for long hours. Its 104 premium keys, adjustable tilt, and anti-splash design make it the ideal choice for home, office, and gaming needs. With a 5 million keystroke lifespan and USB Plug & Play connectivity, it delivers reliable performance every day — smart design meets pure performance with the Intex Rise Wired Keyboard.",
+    "features": [
+      "Model Name: CORONAA S (IT-KB333)",
+      "104 Precision Keys for Smooth Typing",
+      "Adjustable Height for Comfortable Use",
+      "1.2 Metre Cable Length",
+      "Anti-Splash Design",
+      "5 Million Keystroke Lifespan",
+      "USB Plug & Play",
+      "Lightweight and Durable Build",
+      "Price: ₹599 (Inclusive of all taxes)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Rise01.jpg",
+        "alt": "Intex Rise Wired Keyboard (CORONAA S IT-KB333)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model Name: CORONAA S (IT-KB333)",
+        "Feature 2": "104 Precision Keys for Smooth Typing",
+        "Feature 3": "Adjustable Height for Comfortable Use",
+        "Feature 4": "1.2 Metre Cable Length",
+        "Feature 5": "Anti-Splash Design",
+        "Feature 6": "5 Million Keystroke Lifespan",
+        "Feature 7": "USB Plug & Play",
+        "Feature 8": "Lightweight and Durable Build",
+        "Feature 9": "Price: ₹599 (Inclusive of all taxes)"
+      },
+      "General": {
+        "Model": "IT-KB333"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Rise_Wired_Keyboard_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-rise-wired-keyboard-coronaa-s-it-kb333"
+  }
+}

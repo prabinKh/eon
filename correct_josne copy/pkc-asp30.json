@@ -1,0 +1,131 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "SpeakerPhone",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/speakerphone",
+    "tab_title": "SpeakerPhone",
+    "tab_id": "18215",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "SpeakerPhone",
+      "SpeakerPhone"
+    ]
+  },
+  "card_info": {
+    "product_id": "152870",
+    "product_name": "PKC-ASP30",
+    "product_title": "Omnidirectional Digital Microphone",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/speakerphone/pkc-asp30",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10072/ProductImage/1_0_99_11_10072_792689279_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkc-asp30.html",
+  "detail": {
+    "title": "Omnidirectional Digital Microphone",
+    "model": "PKC-ASP30",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKC-ASP30 Omnidirectional Digital Microphone Key Points • 8-Array Omnidirectional Speakerphone with 6 m Pickup Distance • Built-In Speaker with Max Power Reaching 3 W • Plug-and-Play USB Port, No Need to Install a Driver • AI Noise Reduction, AI Echo Cancellation and AI De-reverberation • Up to 4 Levels of PoE Cascading over Network Cable Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10072/ProductImage/1_0_99_11_10072_792689279_thumb.PNG",
+        "alt": "PKC-ASP30_Rendergraph_Other-logo.PNG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10072/ProductImage/1_0_99_11_10072_792689278_thumb.PNG",
+        "alt": "PKC-ASP30_Rendergraph_45Right-logo.PNG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10072/ProductImage/1_0_99_11_10072_792689277_thumb.PNG",
+        "alt": "PKC-ASP30_Rendergraph_45Left-logo.PNG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10072/ProductImage/1_0_99_11_10072_792689280_thumb.PNG",
+        "alt": "PKC-ASP30_Rendergraph_Front-logo.PNG",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Audio Parameter": {
+        "Pick-up Distance": "6 m (19.69 ft)",
+        "Pickup Mode": "360° HD audio pickup",
+        "Number of Microphones": "8 array, omni-directional",
+        "Power": "1 × 2 W",
+        "Frequency Response": "100 Hz–20 kHz"
+      },
+      "Device Ports": {
+        "Type-C Port": "1 × USB2.0 Type-C",
+        "Button": "4 (receive and ignore calls, volume up, volume down, turn on and off the speakerphone)",
+        "Indicator Light": "Ring Light (Lights up when connected to power. Turns green when the speakerphone is on and red when it is off)"
+      },
+      "Power Supply": {
+        "Power Supply": "1 × power port (53 VDC)"
+      },
+      "Cascade": {
+        "Number of Cascade": "4"
+      },
+      "size/Weight": {
+        "Product Dimensions": "φ126 mm × 67 mm (φ4.96\" × 2.64\")",
+        "Packaging Dimensions": "314 mm × 172 mm × 89 mm (12.36\" × 6.77\" × 3.50\") ( L × W × H)",
+        "Net Weight": "0.513 kg (1.13 lb)",
+        "Gross Weight": "1.383 kg (3.05 lb)"
+      },
+      "Packing List": {
+        "Packing List": "Omnidirectional digital speakerphone × 1 5 m USB Type-C to USB Type-A cable × 1 3 m Power Cord × 1 Power adapter × 1 European standard plug × 1 Legal and regulatory information × 1 User's manual QR code × 1"
+      },
+      "Environment": {
+        "Operating Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Operating Humidity": "10%–90%, (RH)",
+        "Storage Temperature": "–10 °C to +50 °C (14 °F to +122 °F)",
+        "Storage Humidity": "10%–90%, (RH)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/PKC-ASP30_datasheet_20250528.pdf"
+      },
+      {
+        "name": "2026-07-22 #User Manual Dahua Distributed Speakerphone_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84063/user_manual/Dahua_Distributed_Speakerphone_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-22 #User Manual Dahua Distributed Speakerphone_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84063/user_manual/Dahua_Distributed_Speakerphone_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-24 #Drawings PKC-ASP30_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84063/drawings/PKC-ASP30_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/speakerphone/pkc-asp30"
+  }
+}

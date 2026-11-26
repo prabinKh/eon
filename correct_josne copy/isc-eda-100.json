@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "Detacher",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/detacher",
+    "tab_title": "Detacher",
+    "tab_id": "17994",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "Detacher",
+      "Detacher"
+    ]
+  },
+  "card_info": {
+    "product_id": "111237",
+    "product_name": "ISC-EDA-100",
+    "product_title": "AM Deactivator 220V",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/detacher/isc-eda-100",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220721/DHI-ISC-EDA-100_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-eda-100.html",
+  "detail": {
+    "title": "AM Deactivator 220V",
+    "model": "ISC-EDA-100",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EDA-100 AM Deactivator 220V Key Points > Adapt to deactivate most EAS Labels, sensitive reaction, degaussing faster and most through. > Efficient deactivating, 120 Labels per minute, up to 10cm deactivating height. > High anti-interference, more stable performance. > Strong and durable shell material, not easy to damage. > The indicator light flashes or the indicator sound is activated after deactivating successfully. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220721/DHI-ISC-EDA-100_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Performance": {
+        "Technology": "Acousto-Magnetic (AM)",
+        "Detection Frequency": "58 kHz ± 0.5 kHz",
+        "Label Decoding Distance": "≤ 100 mm",
+        "Shell Material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "Deactivating Rate": "120 labels/min",
+        "Certifications": "Conform with RoHS & CE Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "General": {
+        "Power Input": "220 VAC 50 / 60 Hz",
+        "Rated Power": "25 W",
+        "Power Plugs Standard": "European Standard",
+        "Color": "Black",
+        "Length": "240 mm (9.45'') ± 0.5 mm (0.02'')",
+        "Width": "200 mm (7.87'') ± 0.5 mm (0.02'')",
+        "Thickness": "60 mm (2.36'') ± 0.5 mm (0.02'')",
+        "Installation Dimension": "220 mm × 180 mm (8.66'' × 7.09'')",
+        "Inner Packaging": "1 pcs per box",
+        "Inner Box Dimension": "295 mm × 230 mm × 90 mm (11.61'' × 9.06'' × 3.54'')",
+        "Inner Box Weight": "1.0 kg (2.2 lb)",
+        "Packaging": "10 boxes per carton",
+        "Carton Dimension": "896 mm × 248 mm × 313 mm (35.28'' × 9.76'' × 12.32'')",
+        "Carton Weight": "11 kg (24.25 lb)",
+        "Minimum Order Quantity": "1 box"
+      },
+      "Environmental Constraints": {
+        "Temperature": "0 °C to 50 °C (32 °F to 122 °F)",
+        "Humidity": "10 % –90 % (RH)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EDA-100_datasheet_20220630.pdf"
+      },
+      {
+        "name": "2025-12-27 #User Manual Supermarket anti-theft product_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85215/user_manual/Supermarket_anti-theft_product_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/detacher/isc-eda-100"
+  }
+}

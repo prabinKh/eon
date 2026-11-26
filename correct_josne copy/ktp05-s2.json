@@ -1,0 +1,231 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "153615",
+    "product_name": "KTP05",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp05=s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12586/ProductImage/1_0_01_15_12586_552846893_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktp05-s2.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTP05",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTP05 Video Intercom KIT Key Points • DHI-VTO3222E-P+DHI-VTH2621GW-WP+DH-PFS3006-4ET-36 • 7-inch Screen VTH • Metal VTO with Keypad, Card Unlock Support • POE Connection • APP Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12586/ProductImage/1_0_01_15_12586_552846893_crop_thumb.png",
+        "alt": "KTP05_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12586/ProductImage/1_0_01_15_12586_552846892_crop_thumb.png",
+        "alt": "KTP05_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12586/ProductImage/1_0_01_15_12586_552846902_crop_thumb.png",
+        "alt": "KTP05_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12586/ProductImage/1_0_01_15_12586_778849160_crop_thumb.JPEG",
+        "alt": "KTP05_View_Front-logo.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DHI-VTO3222E-P"
+      },
+      "System(VTO)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF",
+        "Network Protocol": "SIP; P2P; IPv4; DNS; RTSP; RTP; TCP; UDP"
+      },
+      "Basic(VTO)": {
+        "Camera": "1/2.9\" 2 MP CMOS",
+        "Field of View": "H: 140°, V: 80°, D: 160°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H264, H265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, CIF Sub stream: 1080p, WVGA, D1, QVGA, CIF",
+        "Video Frame Rate": "25 fps",
+        "Light Compensation": "Auto white light",
+        "Day/Night": "Color/B/W",
+        "Audio Compression": "G.711a, G.711u, PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression, digital noise reduction",
+        "Audio Bit Rate": "16 KHz, 16 bit"
+      },
+      "Function(VTO)": {
+        "Communication Mode": "Digital 2-wire",
+        "Unlock Mode": "Card; password; remote unlock",
+        "Card Type": "Mifare card",
+        "Auto Snapshot": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Supports Micro SD card (up to 256 GB)",
+        "Web Configuration": "Yes"
+      },
+      "Performance(VTO)": {
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")",
+        "Casing Material": "Aluminum alloy"
+      },
+      "Capacity(VTO)": {
+        "Card Capacity": "10000"
+      },
+      "Port(VTO)": {
+        "RS-485": "1",
+        "Wiegand": "1",
+        "Alarm Input": "1",
+        "Alarm Output": "1",
+        "Power Output": "1 (12 V, 600 mA)",
+        "Door Bell": "1",
+        "Exit Button": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45, 10 Mbps/100 Mbps network port"
+      },
+      "Alarm(VTO)": {
+        "Tamper Alarm": "Yes"
+      },
+      "General(VTO)": {
+        "Appearance Color": "Silver",
+        "Power Supply": "48 VDC, 0.4 A; PoE (802.3af/at)",
+        "Power Adapter": "Optional",
+        "Installation": "Surface mount (The surface mount kit comes with the surface mount bracket)",
+        "Certifications": "CE",
+        "Product Dimensions": "200.0 mm × 98.0 mm × 35.4 mm (7.87\" × 3.86\" × 1.39\")",
+        "Protection": "IK08, IP65 (Silicone sealant is needed, see the quick start guide)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140°F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Beneath 3000 m (9842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "≤5 W (standby), ≤7 W (working)",
+        "Gross Weight": "692 g (1.53 lb)",
+        "Storage Humidity": "30%–75% (RH)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Model": "DHI-VTH2621GW-WP"
+      },
+      "System (VTH)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Network Protocol": "RTSP; DNS; RTP; SIP; SSH"
+      },
+      "Basic (VTH)": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7\" TFT",
+        "Screen Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 KHz; 16 bit"
+      },
+      "Function (VTH)": {
+        "Communication Mode": "Full digital",
+        "Information Release": "Receive and view text information released by the management center",
+        "Leave Videos": "Yes (SD card inserted in VTH is needed)",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Max. Transmission Power": "≤20dBm@2400-2483.5MHz",
+        "Wireless Security Encryption": "WPA/WPA2;WPA-PSK/WPA2-PSK",
+        "DND Mode": "Do not disturb period can be set",
+        "Number of Extensions": "Villa: 9 extensions; Apartment: 4 extensions"
+      },
+      "Port (VTH)": {
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Door Bell": "Yes (reuse the alarm input port)",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port"
+      },
+      "Performance (VTH)": {
+        "Casing Material": "PC + ABS"
+      },
+      "General (VTH)": {
+        "Appearance Color": "White",
+        "Power Supply": "12 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Bracket and alarm ribbon cable (included)",
+        "Product Dimensions": "189.6 mm × 134.6 mm × 26.0 mm (7.50\" × 5.30\" × 1.00\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Beneath 3000 m (9842.52 ft)",
+        "Operating Environment": "Indoor",
+        "Power Consumption": "≤2 W (standby), ≤6 W (working)",
+        "Gross Weight": "575 g (1.27 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75% (RH)",
+        "Model": "DH-PFS3006-4ET-36"
+      },
+      "System (Networking Device)": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Port (Networking Device)": {
+        "Network Port": "4 × PoE ports with 10/100 Mbps Base-TX 2 uplink ports with 10/100 Mbps Base-TX"
+      },
+      "General (Networking Device)": {
+        "Power Supply": "Built-in power supply: 100–240 VAC",
+        "Certifications": "CE; FCC",
+        "Product Dimensions": "194.0 mm × 108.1 mm × 35.0 mm (7.64\" × 4.26\" × 1.38\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Power Consumption": "Idling: 0.5 W; Full load: 36 W",
+        "Gross Weight": "1.11 kg (2.15 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-KTP05(S)_S2_datasheet_20241204.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp05=s2"
+  }
+}

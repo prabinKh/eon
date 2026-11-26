@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "EV Charger",
+    "category_url": "https://www.dahuasecurity.com/products/ev-charger",
+    "subcategory": "D-Volt Nova",
+    "subcategory_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova",
+    "series": "D-Volt Nova",
+    "series_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova",
+    "tab_title": "D-Volt Nova",
+    "tab_id": "118211",
+    "breadcrumbs": [
+      "EV Charger",
+      "D-Volt Nova",
+      "D-Volt Nova",
+      "D-Volt Nova"
+    ]
+  },
+  "card_info": {
+    "product_id": "153821",
+    "product_name": "ICS-D0060E-I1A",
+    "product_title": "Overseas DH DC Charging Station",
+    "product_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova/ics-d0060e-i1a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10072/ProductImage/1_0_01_47_10072_808838475_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "ev-charger/products/ics-d0060e-i1a.html",
+  "detail": {
+    "title": "Overseas DH DC Charging Station",
+    "model": "ICS-D0060E-I1A",
+    "brand": "Dahua",
+    "overview": "Favourite ICS-D0060E-I1A Overseas DH DC Charging Station Key Points ·Support dual CCS 2 charging connectors ·With 10.1-Inch touch screen display ·Support RFID, QR code, VIN charge ·OCPP 1.6 enbales easy integration with CSMS ·Cable management makes charging more convenient Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10072/ProductImage/1_0_01_47_10072_808838475_crop_thumb.PNG",
+        "alt": "ICS-D0060E-I1A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10072/ProductImage/1_0_01_47_10072_823956204_crop_thumb.PNG",
+        "alt": "ICS-D0060E-I1A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10072/ProductImage/1_0_01_47_10072_808838474_crop_thumb.PNG",
+        "alt": "ICS-D0060E-I1A_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Electrical": {
+        "Rated Input Voltage": "400 VAC",
+        "Max. Output Power": "60 kW",
+        "Maximum Charging Current for Single Connector": "200 A",
+        "Output Voltage Range": "200–1,000 VDC",
+        "Constant Power Range": "300–1,000 VDC",
+        "Max. Charging Current": "200 A",
+        "Harmonic Wave": "≤ 5%",
+        "Power Factor": "0.99 (Full load)",
+        "Efficiency": "96.8%, the highest efficiency during a full load",
+        "Standby Power Consumption": "≤30 W",
+        "Output Voltage Error": "≤ ±0.5%",
+        "Output Current Error": "≤ ±1%",
+        "Stabilized Voltage Accuracy": "≤ ±0.5%",
+        "Stabilized Current Accuracy": "≤ ±1%",
+        "Ripple Peak Value": "≤ ±1%",
+        "Average Current Imbalance": "≤ 3%"
+      },
+      "Basic": {
+        "Charging Mode": "Mode 4",
+        "Charging Port": "2 × CCS2",
+        "Communication Protocol (with Backend)": "OCPP1.6J",
+        "Measurement Accuracy": "Level 1 (Class B)",
+        "Types of Protection": "Protects against input overvoltage, undervoltage, short circuit, input overload, output overvoltage and overtemperature. It also detects insulation issues.",
+        "Cooling Method": "Intelligent air cooling"
+      },
+      "Function": {
+        "Display Screen Dimensions": "10.1-inch",
+        "Startup Method": "Scan a QR code, enter a VIN code, swipe the IC card, utilize Plug and Play or enter the password.",
+        "Network Connection Method": "LAN, 4G, Wi-Fi",
+        "Bluetooth": "Yes",
+        "Status Indicator Light": "Blue: Charging Yellow: Device updating Green: Standby Red: Fault"
+      },
+      "Structure": {
+        "Accessory": "Includes a cable organizer and MID meter.",
+        "Product Dimensions": "944 mm × 561.5 mm × 1,945 mm (37.17\" × 22.11\" × 76.57\") (W × D × H)",
+        "Packaging Dimensions": "1,098 mm × 1,098 mm × 2,147 mm (43.23\" × 43.23\" × 84.53\") (W × D × H)",
+        "Net Weight": "202 kg (445.34 lb)",
+        "Gross Weight": "222 kg (489.44 lb)",
+        "Cable Length": "5 m (16.40 ft). This length includes the length of the connector."
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F) Performance might be derated of temperatures exceed 50°C.",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Altitude": "≤2,000 m (6561.68 ft)",
+        "Protection": "IP55",
+        "Vandal-proof Rating": "The EV Charger is IK10, and its screen is IK08.",
+        "Working Noise": "≤ 65 dB"
+      },
+      "External Port": {
+        "Power Supply System Type": "3P + N + PE"
+      },
+      "Certification": {
+        "Certifications": "IEC 61851-1; IEC 61851-23; IEC 61851-21-2"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ICS-D0060E-I1A_S0_datasheet_20250723.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Dahua DC Charging Station D-Volt Nova_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84969/user_manual/Dahua_DC_Charging_Station_D-Volt_Nova_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Dahua DC Charging Station D-Volt Nova_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84969/user_manual/Dahua_DC_Charging_Station_D-Volt_Nova_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-07-08 #Drawings ICS-D0060E-I1A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84599/drawings/D-Volt_Nova_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-26 #Drawings ICS-D0060E-I1A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84599/drawings/D-Volt_Nova_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova/ics-d0060e-i1a"
+  }
+}

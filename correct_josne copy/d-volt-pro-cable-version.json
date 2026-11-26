@@ -1,0 +1,135 @@
+{
+  "hierarchy": {
+    "category": "EV Charger",
+    "category_url": "https://www.dahuasecurity.com/products/ev-charger",
+    "subcategory": "D-Volt Pro",
+    "subcategory_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-pro",
+    "series": "D-Volt Pro",
+    "series_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-pro",
+    "tab_title": "D-Volt Pro",
+    "tab_id": "18037",
+    "breadcrumbs": [
+      "EV Charger",
+      "D-Volt Pro",
+      "D-Volt Pro",
+      "D-Volt Pro"
+    ]
+  },
+  "card_info": {
+    "product_id": "146673",
+    "product_name": "D-Volt Pro Cable Version",
+    "product_title": "Intelligent EV Charger",
+    "product_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-pro/d-volt-pro-cable-version",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20241009/procable_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "ev-charger/products/d-volt-pro-cable-version.html",
+  "detail": {
+    "title": "Intelligent EV Charger",
+    "model": "D-Volt Pro Cable Version",
+    "brand": "Dahua",
+    "overview": "Favourite D-Volt Pro Cable Version Intelligent EV Charger Key Points ·Ideal for Any Scenario ·Designed to Stay Cool, ·Intelligent Integration ·Open & Flexible Software ·PEN protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241009/procable_thumb.png",
+        "alt": "D-Volt Pro Cable Version",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Rated Power": {},
+      "Input Voltage": {},
+      "Rated Input Frequency": {},
+      "Output Voltage": {},
+      "Output Current": {},
+      "Overcurrent Protection": {},
+      "Charging Mode": {},
+      "Leakage Protection": {},
+      "Types of Protection": {},
+      "Cooling Method": {},
+      "Communication Protocol (with Backend)": {},
+      "Connection Mode": {},
+      "ROHS": {},
+      "Measurement Accuracy": {},
+      "Display Screen": {},
+      "Startup Method": {},
+      "Network Connection": {},
+      "Status Indicator Light": {},
+      "Bluetooth": {},
+      "MID Meter": {},
+      "Auto Timing": {},
+      "Update": {},
+      "Casing Material": {},
+      "Installation": {},
+      "Wiring Method": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Cable Length": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Protection": {},
+      "Vandal-proof Rating": {},
+      "Power Input Port": {},
+      "Power Output Port": {},
+      "Charging Port": {},
+      "Load Balancing": {},
+      "Current Adjustment": {},
+      "Reservation": {},
+      "Auto-Resume Charging": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82384/datasheet/DHI-ICS-A220E-B2D_datasheet_20260723_English.pdf"
+      },
+      {
+        "name": "2026-02-02 #User Manual Dahua_Intelligent EV Charger_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82382/user_manual/Dahua_Intelligent_EV_Charger_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-02-02 #User Manual Dahua Charging Station_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82382/user_manual/Dahua_Charging_Station_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-02-02 #User Manual Dahua Charging Station_Software License Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82382/user_manual/Dahua_Charging_Station_Software_License.pdf"
+      },
+      {
+        "name": "2024-09-15 #Drawings D-Volt Pro Cable Version_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82384/drawings/D-Volt_Pro_Cable_Version_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-09-15 #Drawings D-Volt Pro Cable Version_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82384/drawings/D-Volt_Pro_Cable_Version_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-pro/d-volt-pro-cable-version"
+  }
+}

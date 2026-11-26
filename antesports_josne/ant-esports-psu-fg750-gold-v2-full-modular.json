@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "FG750 V2 80 Plus Gold Full Modular Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420926243",
+    "product_name": "FG750 V2 80 Plus Gold Full Modular Power Supply Unit",
+    "product_title": "FG750 V2 80 Plus Gold Full Modular Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-fg750-gold-v2-full-modular",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_4a494962-b506-4e2f-8e16-7b23629086c9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-psu-fg750-gold-v2-full-modular.html",
+  "detail": {
+    "title": "FG750 V2 80 Plus Gold Full Modular Power Supply Unit",
+    "model": "AESP0363",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU FG750 Gold V2 Full Modular is a premium 750W power supply engineered for gaming PCs and high-performance workstations. Featuring 80 Plus Gold certification and a fully modular design, it ensures superior power efficiency, optimized airflow through clean cable management, and reliable performance under demanding workloads. With dual CPU, multiple PCIe, SATA, and Molex connectors, it's an ideal choice for powerful gaming rigs and advanced PC builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_4a494962-b506-4e2f-8e16-7b23629086c9.png",
+        "alt": "FG750 V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_d0165ed3-4712-4247-93d9-3d0021679c3d.png",
+        "alt": "FG750 V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_8c4e4eab-011e-4ede-8af9-e7246a5a6c89.png",
+        "alt": "FG750 V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Series": "FG V2 Series (80+ Gold)",
+        "Category": "Power Supply",
+        "Rated Wattage": "750",
+        "Rating": "80 Plus Gold",
+        "Modularity": "Fully-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "2 (8-Pin)",
+        "PCIe (8-Pin)": "4",
+        "SATA": "6",
+        "Molex": "3",
+        "SERIES": "FG V2 Series (80+ Gold)",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "750",
+        "RATING": "80 Plus Gold",
+        "MODULARITY": "Fully-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "4",
+        "MOLEX": "3",
+        "Offer Price (INR)": "₹6,849.00",
+        "MRP (INR)": "₹8,799.00",
+        "SKU": "AESP0363"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-fg750-gold-v2-full-modular"
+  }
+}

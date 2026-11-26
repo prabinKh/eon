@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "65W",
+    "subcategory_url": "https://www.intex.in/collections/65w",
+    "series": "Data Cable",
+    "series_url": "https://www.intex.in/collections/data-cable",
+    "tab_title": "65W",
+    "tab_id": "9155342467290",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "65W",
+      "Intex Speed 27W Type-C to I Data Cable"
+    ]
+  },
+  "card_info": {
+    "product_id": "9155342467290",
+    "product_name": "Intex Speed 27W Type-C to I Data Cable",
+    "product_title": "Intex Speed 27W Type-C to I Data Cable",
+    "product_url": "https://www.intex.in/products/intex-speed-27w-type-c-to-i-data-cable",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEED_27W_C_TO_I.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 499.0,
+      "display": "₹499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-speed-27w-type-c-to-i-data-cable.html",
+  "detail": {
+    "title": "Intex Speed 27W Type-C to I Data Cable",
+    "model": "27W",
+    "brand": "Intex",
+    "overview": "Charge your Apple devices efficiently with the Intex Speed 27W C to I Cable. Designed for fast charging and seamless data transfer, it supports up to 27W output with 480 Mbps speed. The strong PVC construction ensures reliable performance, flexibility, and long-lasting durability for daily use.",
+    "features": [
+      "27W fast charging output support",
+      "Type-C to Lightning charging & data cable",
+      "480 Mbps high-speed data transfer",
+      "1-metre cable length",
+      "Strong PVC cable construction",
+      "Tangle-free and flexible design",
+      "Universal compatibility with Apple devices",
+      "Emark 2.0 protection chip",
+      "Overheat protection",
+      "20000+ bends tested for extended lifespan"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEED_27W_C_TO_I.jpg",
+        "alt": "Intex Speed 27W Type-C to I Data Cable",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "27W fast charging output support",
+        "Feature 2": "Type-C to Lightning charging & data cable",
+        "Feature 3": "480 Mbps high-speed data transfer",
+        "Feature 4": "1-metre cable length",
+        "Feature 5": "Strong PVC cable construction",
+        "Feature 6": "Tangle-free and flexible design",
+        "Feature 7": "Universal compatibility with Apple devices",
+        "Feature 8": "Emark 2.0 protection chip",
+        "Feature 9": "Overheat protection",
+        "Feature 10": "20000+ bends tested for extended lifespan"
+      },
+      "General": {
+        "Model": "27W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-speed-27w-type-c-to-i-data-cable"
+  }
+}

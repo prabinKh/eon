@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Supplement Lights",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Supplement Lights",
+    "tab_id": "606",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Supplement Lights",
+      "Supplement Lights"
+    ]
+  },
+  "card_info": {
+    "product_id": "146954",
+    "product_name": "ITALF-300AG-GL",
+    "product_title": "All-in-One Multifunction Illuminator",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/flash-light/italf-300ag-gl",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_36_10204/ProductImage/1_0_99_36_10204_509919644_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/italf-300ag-gl.html",
+  "detail": {
+    "title": "All-in-One Multifunction Illuminator",
+    "model": "ITALF-300AG-GL",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITALF-300AG-GL All-in-One Multifunction Illuminator Key Points • 4 Modes (Warm Light LED Strobing, Warm Light LED Flashing, White HID Flashing and IR HID Flashing) • White/IR HID Flashing Light with Long Lifespan • Facilitates Driver Behavior Analytics and Face Capture • Illumination Distance Covers up to 26 m • Remotely Displays the Running or Fault Status of The Illuminator • Easy Installation and Easy Configuration • Covers up to 1 Lane • Water and Dust Resistant(lP66) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_36_10204/ProductImage/1_0_99_36_10204_509919644_crop_thumb.png",
+        "alt": "ITALF-300AG-GL_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Light Type": "Multifunctional: 4 modes (warm light LED strobing, warm light LED flashing, white HID flashing and IR HID flashing)",
+        "Light Source": "Visible light/IR light (cut-off wavelength: 710 nm)",
+        "Color Temperature": "HID: 5800 K ± 200 K, LED: 3500 K",
+        "Center Illuminance": "LED: ≤0.1 lx, illuminates up to 20 m on average ≤10 lx, limited illumination after 20 m ≤ 80 lx, limited illumination after 20 m for strobe flash Xenon: ≤ 4,000 lx",
+        "Trigger Mode": "Measures the number of times the illuminator is turned on and off.",
+        "Light Spot Coverage": "1 lane",
+        "Illumination Distance": "16 m-26 m (52.49”-85.30”)",
+        "Recycle Time": "Xenon ≤70 ms, LED ≤20 ms"
+      },
+      "Xenon": {
+        "Exposure Index": "64 GN",
+        "Flash Duration": "180 μs–500 μs",
+        "Flash Count": "Generates statistics on the number of flashes and times triggered",
+        "Flashing Light Lifespan": "≥ 10 million times"
+      },
+      "LED": {
+        "Frequency": "100Hz/120Hz",
+        "LED Quantity": "24 high-brightness LEDs",
+        "Luminous Flux": "1,000 lm",
+        "Color Rendering Index (CRI)": ">69",
+        "Strobe Pulse Width": "0-3 ms",
+        "Strobe Delay": "0-4 ms",
+        "Flash Pulse Width": "0-5 ms",
+        "Flash Delay": "0-6 ms",
+        "Strobe Time": "Measures how long the light remains on when it flashes.",
+        "Lens Illuminating Angle": "10° × 10°"
+      },
+      "Function": {
+        "Operating Mode": "Supports strobe and flash.",
+        "Status Indication": "Displays the status of the illuminator, showing if it is online or offline.",
+        "IR/White Light Switch": "Yes",
+        "Cascading": "Supports strobe cascading",
+        "Remote Failure Display": "Displays the status of the illuminator on the webpage of the camera, such as the normal and fault status.",
+        "Brightness": "The brightness level can be adjusted across the following ranges: Xenon: From level 1–16. LED strobe: From level 1–20. LED flash: From level 1 to 255.",
+        "Anti-dazzling Processing": "Yes",
+        "Snapshotand Illumination Synchronization": "Yes, supports snap and illumination synchronization",
+        "Recording and Illumination Synchronization": "Yes",
+        "False Triggered Signal Blocking": "Yes"
+      },
+      "Port": {
+        "Flash Light": "1",
+        "Strobe Input": "1",
+        "Strobe Output": "1",
+        "RS-485": "1"
+      },
+      "General": {
+        "Power Supply": "220 VAC ± 20%, 50 Hz ± 2 Hz",
+        "Power Consumption": "Average: <100 W(@1 flash/s), max: <1000 W LED: <40 W",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Humidity": "10%–90% (RH), non-condensing",
+        "Protection": "IP66",
+        "Anti-corrosion Level": "Basic Protection",
+        "Product Dimensions": "452.0 mm × 279.0 mm × 279.0 mm (17.80\" × 10.98\" × 10.98\")",
+        "Packaging Dimensions": "510.0 mm × 350.0 mm × 355.0 mm (20.08\" × 13.78\" × 13.98\")",
+        "Net Weight": "5.3 kg (11.68 lb)",
+        "Gross Weight": "6.5 kg (14.33 lb)",
+        "Installation": "Universal joint installation"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITALF-300AG-GL_datasheet_20240520.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua All-in-one Multifunction Illuminator_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008937/202411/Dahua_All-in-one_Multifunction_Illuminator_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual All-in-one Multifunction Illuminator_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008937/202411/All-in-one_Multifunction_Illuminator_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-03-14 #A&E Document ITALF-300AG-GL_A&E_20260901205128 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82349/a_e_document/1788267161752.docx"
+      },
+      {
+        "name": "2024-03-18 #Drawings ITALF-300AG-GL_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84038/drawings/ITSBG-1402-A-24-GS_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-03-18 #Drawings ITALF-300AG-GL_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82349/drawings/ITALF-300AG-GL_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/flash-light/italf-300ag-gl"
+  }
+}

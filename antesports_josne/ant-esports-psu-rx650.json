@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "RX650 80 Plus Bronze Full Modular Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421057315",
+    "product_name": "RX650 80 Plus Bronze Full Modular Power Supply Unit",
+    "product_title": "RX650 80 Plus Bronze Full Modular Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-rx650",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_a4f42cad-1c7e-4050-80ce-08a5030bb876.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-rx650.html",
+  "detail": {
+    "title": "RX650 80 Plus Bronze Full Modular Power Supply Unit",
+    "model": "AESP0258",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU RX650 is a high-efficiency 650W power supply engineered for gaming PCs and high-performance desktop systems. With 80 Plus Bronze certification, it delivers stable, energy-efficient power, while its non-modular design offers essential 24-pin, dual CPU, PCIe, SATA, and Molex connectors for wide hardware compatibility. Built for dependable performance and long-lasting reliability, it's an excellent choice for modern gaming rigs and workstation builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_a4f42cad-1c7e-4050-80ce-08a5030bb876.png",
+        "alt": "RX650 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_5e887d03-053d-4bc5-9456-7a84705cb210.png",
+        "alt": "RX650 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_d5770574-88da-4ffa-9398-7dd84447c8d0.png",
+        "alt": "RX650 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_f21a1dc5-0ae2-4b64-9c37-0e8b58508d7a.png",
+        "alt": "RX650 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "RX Series (80+ Bronze)",
+        "Category": "Power Supply",
+        "Rated Wattage": "650",
+        "Rating": "80 Plus Bronze",
+        "Modularity": "Non-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "2 (8-Pin)",
+        "PCIe (8-Pin)": "1",
+        "SATA": "4",
+        "Molex": "2",
+        "SERIES": "RX Series (80+ Bronze)",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "650",
+        "RATING": "80 Plus Bronze",
+        "MODULARITY": "Non-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "1",
+        "MOLEX": "2",
+        "Offer Price (INR)": "₹3,899.00",
+        "MRP (INR)": "₹5,999.00",
+        "SKU": "AESP0258"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-rx650"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories",
+    "series": "Alarm Box",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/alarm-box",
+    "tab_title": "Alarm Box",
+    "tab_id": "6937",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Accessories",
+      "Alarm Box",
+      "Alarm Box"
+    ]
+  },
+  "card_info": {
+    "product_id": "21387",
+    "product_name": "ARB1606",
+    "product_title": "Alarm Box",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/alarm-box/arb1606",
+    "card_image": "https://material.dahuasecurity.com/product/20180416/Alarm-Box_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/arb1606.html",
+  "detail": {
+    "title": "Alarm Box",
+    "model": "ARB1606",
+    "brand": "Dahua",
+    "overview": "Favourite ARB1606 Alarm Box Key Points > Support through RS485 access to NVR&XVR > Support 16ch Alarm In/6ch Alarm Out interface > Support 2-bit DIP switch (0/1) to determine the different alarm box access; Max support 4 alarm boxes having access to the back-end storage device > Support universal 12V power supply; Support using a separate adapter or through 1 to 2 power cable using the DVR adapter to supply the alarm box with power > The front panel has a power indicator (PWR) which maintains lightening when the device is powered up; The front panel has a signal communication indicator (ACT) which lights up every 1 second when the communication is established between the alarm box and XVR/NVR equipment. > Linked alarm can be configured on the alarm input and output interface when the communication is established between XVR/NVR device and the alarm box. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Communication": "1 RS485 port",
+        "DIP Switch": "2-bit"
+      },
+      "Alarm": {
+        "Alarm In": "16ch",
+        "Alarm Out": "6ch"
+      },
+      "Electrical": {
+        "Power Supply": "12V/1A (or use 1 to 2 power cable to use the DVR power)",
+        "Power Consumption": "0.2W"
+      },
+      "Environmental": {
+        "Operating Temperature": "-10°C ~ +55°C (+14°F ~ +131°F)",
+        "Operating Humidity": "10%~ 90% RH"
+      },
+      "Construction": {
+        "Dimensions": "97.68mm×90.3mm×33mm (3.85\" x 3.56\" x 1.3\")",
+        "Net Weight": "≤0.2kg(0.44lb)",
+        "Installation": "Desktop installation"
+      },
+      "Certifications": {
+        "Certifications": "FCC: Coming Soon"
+      },
+      "CE:Coming Soon": {},
+      "UL:Coming Soon": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20220310/DHI-ARB1606_Datasheet_20220310.pdf"
+      },
+      {
+        "name": "2018-04-16 #User Manual Alarm Box Use's Manual V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/product/20180416/Alarm-Box-Uses-Manual-V1_0_0.pdf"
+      },
+      {
+        "name": "2018-04-16 #Drawings DHI-ARB1606_Dimension_20180413 Download",
+        "url": "https://materialfile.dahuasecurity.com/product/20180416/DHI-ARB1606_Dimension_20180413.pdf"
+      },
+      {
+        "name": "2018-04-16 #Drawings DHI-ARB1606_Front Panel_20180413 Download",
+        "url": "https://materialfile.dahuasecurity.com/product/20180416/DHI-ARB1606_Front-Panel_20180413.pdf"
+      },
+      {
+        "name": "2018-04-16 #Drawings DHI-ARB1606_Rear Panel_20180413 Download",
+        "url": "https://materialfile.dahuasecurity.com/product/20180416/DHI-ARB1606_Rear-Panel_20180413.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/alarm-box/arb1606"
+  }
+}

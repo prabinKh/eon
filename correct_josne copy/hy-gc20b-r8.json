@@ -1,0 +1,151 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Carbon Monoxide Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/carbon-monoxide-alarms",
+    "tab_title": "Carbon Monoxide Alarms",
+    "tab_id": "14537",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Carbon Monoxide Alarms",
+      "Carbon Monoxide Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "120017",
+    "product_name": "HY-GC20B-R8",
+    "product_title": "Wireless Interconnected Carbon Monoxide Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/carbon-monoxide-alarms/hy-gc20b-r8",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221226/HY-GC20B-R8_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-gc20b-r8.html",
+  "detail": {
+    "title": "Wireless Interconnected Carbon Monoxide Alarm",
+    "model": "HY-GC20B-R8",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-GC20B-R8 Wireless Interconnected Carbon Monoxide Alarm Key Points · High-performance Figaro electrochemical CO sensor · Long standby time, low power consumption, 7-year battery life · Three separate LED indicators to provide clear and apparent working status illustration · Built-in high-volume buzzer with alarm volume 85dB (A) at 3 m (9.84 ft) · Support low battery warning, one-click silence, and self-test · Peak level display function to inform users extra potential hazards in home · Informative and easy-to-read CO concentration display in screen · Wireless interconnected with maximum of 24 devices · End of life warning: LCD display shows End with the buzzer beeping and LED indicator flashing three times per minute Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221226/HY-GC20B-R8_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221226/HY-GC20B-R8_2_thumb.png",
+        "alt": "HY-GC20B-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221226/HY-GC20B-R8_3_thumb.png",
+        "alt": "HY-GC20B-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221226/HY-GC20B-R8_4_thumb.png",
+        "alt": "HY-GC20B-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221226/HY-GC20B-R8_5_thumb.png",
+        "alt": "HY-GC20B-R8",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Carbon Monoxide (CO)",
+        "Sensor Type": "Electrochemical"
+      },
+      "Alarm": {
+        "Alarm Type": "CO alarm, fault alarm, low battery warning",
+        "Alarm Volume": "Over 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silence Function": "Support",
+        "Alarm Response Threshold": "50 ppm: 60 min–90 min 100 ppm: 10 min–40 min 300 ppm: < 3 min"
+      },
+      "Basic Parameters": {
+        "Display": "LCD",
+        "Indicator Light": "LED (red/yellow/green)",
+        "LED Instruction": "Alarm: Red indicator Fault: Yellow indicator Power: Green indicator",
+        "Operating Frequency": "868MHz",
+        "Radio Signal Range": "Up to 1000 m (3280.84 ft) in open air",
+        "Maximum Number of Interconnected Units": "24pcs"
+      },
+      "Power Supply": {
+        "Battery Life": "7 years",
+        "Operating Voltage": "3V DC",
+        "Operating Current": "Monitoring Current: ≤20uA Alarm Current: ≤20mA"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor use only",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Material": "PC + ABS",
+        "Dimensions": "116.4 mm × 71.7 mm × 29.1 mm (4.58\" × 2.82\" × 1.15\")",
+        "Weight": "125 g (0.28 lb)",
+        "Installation": "Wall Mount"
+      },
+      "Certification": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 50291-1:2018"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/120017/datasheet/HY-GC20B-R8_datasheet_20221128.pdf"
+      },
+      {
+        "name": "2026-04-09 #User Manual Wireless Interconnected CO Alarm (DHI-HY-GC20C-R8) _V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63567/user_manual/Wireless_Interconnected_CO_Alarm_(DHI-HY-GC20C-R8)__V1.0.2.pdf"
+      },
+      {
+        "name": "2022-12-26 #User Manual User manual_DHI-HY-GC20B-R8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63567/user_manual/User_manual_DHI-HY-GC20B-R8.pdf"
+      },
+      {
+        "name": "2024-08-30 #Drawings HY-GC20B-R8_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63567/drawings/1613230558614.pdf"
+      },
+      {
+        "name": "2022-12-21 #Drawings HY-GC20B-R8_installation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82537/drawings/Installation_HY-GC20C.pdf"
+      },
+      {
+        "name": "2025-03-12 #Firmware DHI_HYGC20B-R8_Eng_MCU_V1.000.0000007.0.R.250311 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3072768/M/DHI_HYGC20B-R8_Eng_MCU_V1.000.0000007.0.R.250311.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/carbon-monoxide-alarms/hy-gc20b-r8"
+  }
+}

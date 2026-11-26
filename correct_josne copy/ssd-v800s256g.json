@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "V800",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/v800",
+    "tab_title": "V800",
+    "tab_id": "16297",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "V800",
+      "V800"
+    ]
+  },
+  "card_info": {
+    "product_id": "128887",
+    "product_name": "SSD-V800S256G",
+    "product_title": "2.5 inch SATA Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/v800/ssd-v800s256g",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988860_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-v800s256g.html",
+  "detail": {
+    "title": "2.5 inch SATA Solid State Drive",
+    "model": "SSD-V800S256G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-V800S256G 2.5 inch SATA Solid State Drive Key Points 1. Surveillance Level SSD for XVR/NVR in compatibility list 2. Read speed up to 540MB/s, write speed up to 170MB/s; 3. Operating temperature: 0 °C to +70 °C (+32 °F to 158 °F) Storage temperature: -40°C to +85°C (-40°F to +185°F) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988860_crop_thumb.png",
+        "alt": "SSD-V800S256G_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988864_crop_thumb.png",
+        "alt": "SSD-V800S256G_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988865_crop_thumb.png",
+        "alt": "SSD-V800S256G_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988861_crop_thumb.png",
+        "alt": "SSD-V800S256G_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988863_crop_thumb.png",
+        "alt": "SSD-V800S256G_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10462/ProductImage/1_0_01_06_10462_115988862_crop_thumb.png",
+        "alt": "SSD-V800S256G_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Technical": {
+        "Product Model": "DHI-SSD-V800S256G",
+        "Capacity1": "256GB",
+        "Form Factor": "2.5 inch",
+        "Port": "SATAIII 6Gb/s",
+        "Net Weight": "Max 40 g (0.09 lb)",
+        "Product Dimensions": "99.68 mm × 69.68 mm × 6.80 mm (3.92\" × 2.74\" × 0.27\")",
+        "Packaging Dimensions": "575.00 mm × 262.00 mm × 153.00 mm (22.63\" × 10.31\" × 6.02\")",
+        "Component": "3D NAND",
+        "Power Consumption2": "1100 mW (max) 620 mW (Avg) 500 mW (idle)",
+        "S.M.A.R.T": "Support",
+        "TRIM": "Support",
+        "Garbage Collection": "Support",
+        "Sequential Read2": "Up to 540MB/s",
+        "Sequential Write2": "Up to 170MB/s",
+        "4K Random Read2": "Up to 45500",
+        "4K Random Write2": "Up to 34500",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0°C to +70°C (+32°F to +158°F)",
+        "Storage Temperature": "-40°C to +85°C (-40°F to +185°F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10–1000 Hz, 2.78G",
+        "TBW": "230TB",
+        "Warranty3": "3-year limited warranty",
+        "Reference Information": "1. Capacity calculation: 1GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partition, operating system applications, or other necessary usage). 2. The speed data comes from Zhejiang Huayixin Technology Co., Ltd. Lab. System configuration of performance test: Intel Z390 Chipset, Intel Core i9-9900KF@3.6GHz, 16GB DDR4; operating system-Windows 10 x64; testing tool-CrystalDiskMark 6.0.0. 3. Warranty period or maximum write amount (TBW), whichever comes first."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-V800S1TB_datasheet_202409051.pdf"
+      },
+      {
+        "name": "2025-07-09 #User Manual SSD-2.5 inch-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010080/202507/SSD-2.5_inch-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "2024-04-24 #Drawings SSD-V800S256G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48397/drawings/SSD-S820GS1TB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-04-24 #Drawings SSD-V800S256G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49837/drawings/SSD-C800AS2000G_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/v800/ssd-v800s256g"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Darkflow 3x120mm PWM Black Case Fan"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421909283",
+    "product_name": "Darkflow 3x120mm PWM Black Case Fan",
+    "product_title": "Darkflow 3x120mm PWM Black Case Fan",
+    "product_url": "https://antesports.com/products/ant-esports-darkflow-120mm-case-fan-3-pack",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/DARKFLOW120mm_01_0b7323e2-bef3-4b63-8fb8-508e67869f01.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-darkflow-120mm-case-fan-3-pack.html",
+  "detail": {
+    "title": "Darkflow 3x120mm PWM Black Case Fan",
+    "model": "AESP0268",
+    "brand": "Ant Esports",
+    "overview": "High-Performance Airflow – Engineered 9-blade design delivers efficient cooling for gaming PCs and high-load systems.Silent Operation – Optimized fan blade geometry paired with low-noise bearings keeps performance high and noise minimal.Durable Fluid Dynamic Bearing – Ensures long lifespan, reduced friction, and stable thermal performance.Anti-Vibration Rubber Pads – Minimizes vibration transfer to the chassis, giving a quieter experience.Premium All-Black Stealth Design – Sleek matte-black aesthetic blends seamlessly with any build theme.Wide Compatibility – Supports radiators, CPU coolers, and case ventilation for ATX, mATX & ITX builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/DARKFLOW120mm_01_0b7323e2-bef3-4b63-8fb8-508e67869f01.png",
+        "alt": "Darkflow 3x120mm PWM Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_97725fa8-a4f7-4969-b9c6-b6e89ea6878f.png",
+        "alt": "Darkflow 3x120mm PWM Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_29ff964b-e6eb-409e-baf4-e5818e6cbb5f.png",
+        "alt": "Darkflow 3x120mm PWM Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_138e3096-0484-420c-a2f9-d06d15cf1f95.png",
+        "alt": "Darkflow 3x120mm PWM Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Non-RGB",
+        "FAN Speed (RPM)": "1800",
+        "FAN Airflow (CFM)": "73.6",
+        "FAN Static Pressure (mmH₂O)": "2.12",
+        "FAN Noise (dBA)": "33.8",
+        "FAN Direction": "Forward",
+        "Connection": "PWM",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Non-RGB",
+        "FAN SPEED (RPM)": "1800",
+        "FAN AIRFLOW (CFM)": "73.6",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.12",
+        "FAN NOISE (DBA)": "33.8",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM",
+        "Offer Price (INR)": "₹1,499.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AESP0268"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-darkflow-120mm-case-fan-3-pack"
+  }
+}

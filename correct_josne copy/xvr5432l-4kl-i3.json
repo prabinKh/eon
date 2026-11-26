@@ -1,0 +1,206 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders",
+    "series": "4K Value/5MP Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/4k-value-5mp-series",
+    "tab_title": "4K Value/5MP Series",
+    "tab_id": "11827",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Recorders",
+      "4K Value/5MP Series",
+      "4K Value/5MP Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "113827",
+    "product_name": "XVR5432L-4KL-I3",
+    "product_title": "32CH Penta-brid 4K Value/5MP 1.5U 4HDDs WizSense Digital Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/4k-value-5mp-series/xvr5432l-4kl-i3",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220913/XVR5432L-4KL-I3_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/xvr5432l-4kl-i3.html",
+  "detail": {
+    "title": "32CH Penta-brid 4K Value/5MP 1.5U 4HDDs WizSense Digital Video Recorder",
+    "model": "XVR5432L-4KL-I3",
+    "brand": "Dahua",
+    "overview": "Compare Favourite XVR5432L-4KL-I3 32CH Penta-brid 4K Value/5MP 1.5U 4HDDs WizSense Digital Video Recorder Key Points • 32-ch Analog Video Input, Max. 4K@15fps/5MP@25fps Encoding Capability • Max. 64-ch IP Video Input (Up to 12MP) • AI Functions: 6-ch QuickPick 2.0, 6-ch FR, 12-ch Perimeter Protection, 1-ch EPTZ, 1-ch Privacy Protection, 32-ch SMD, 32-ch AI Coding • 4 Bays. Up to 16TB for Each HDD Storage Capacity Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220913/XVR5432L-4KL-I3_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220913/XVR5432L-4KL-I3_3_thumb.png",
+        "alt": "XVR5432L-4KL-I3",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220913/XVR5432L-4KL-I3_2_thumb.png",
+        "alt": "XVR5432L-4KL-I3",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "System": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web; Local GUI"
+      },
+      "QuickPick 2.0": {
+        "QuickPick 2.0 AI by Recorder (Number of Channels)": "6 channels"
+      },
+      "Perimeter Protection": {
+        "Perimeter Performance AI by Recorder (Number of Channels)": "Advanced Mode: 6 channels, 10 IVS rules for each channel General Mode: 12 channels, 10 IVS rules for each channel"
+      },
+      "Face Detection": {
+        "Face Attributes": "6 attributes",
+        "Face Detection Performance of AI by Recorder (Number of Channels)": "6 channels(up to 12 face images/s each channel)"
+      },
+      "Privacy Protection": {
+        "Privacy Protection Performance of AI by Recorder (Number of Channels)": "1 channel"
+      },
+      "Face Recognition": {
+        "Face Database Capacity": "Up to 10 face databases with 20,000 images.",
+        "Face Recognition Performance of AI by Recorder (Number of Channels)": "6 channels"
+      },
+      "SMD Plus": {
+        "SMD Plus by Recorder": "32 channels: Secondary filtering for human and vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "64 channels"
+      },
+      "AI Video Quality Analytics": {
+        "AI Video Quality Analytics by Recorder": "32 channels: Supports detecting brightness levels, color cast, defocus, overexposure, contrast levels, black and white"
+      },
+      "Scene Changing": {
+        "Scene Changing by Recorder": "1 channel"
+      },
+      "Irregular Black Block Masking": {
+        "Irregular Black Block Masking by Recorder": "1 channel"
+      },
+      "EPTZ": {
+        "EPTZ by Recorder": "1 channel"
+      },
+      "Audio and Video": {
+        "Analog Camera Input": "32 BNC ports, supports HDCVI/AHD/TVI/CVBS auto-detect",
+        "Camera Input": "1. CVI: 4K@25/30 fps; 4K@12.5/15 fps; 6 MP@20 fps; 5 MP@25 fps; 5 MP@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps; 720p@50/60 fps. 2. TVI: 4K@15 fps; 5 MP(2560 x 1944)@20 fps; 5 MP(2960 x 1665)@20 fps; 4 MP@25/30 fps; 3 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps. 3. AHD: 4K@15 fps; 5 MP@20 fps; 4 MP@25/30 fps; 3 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps.",
+        "IP Camera Input": "Up to 64 channels of IPC access 32 IP channels by default + 32 channels (analog channels are converted to IP channels) Incoming bandwidth: 256 Mbps, recording bandwidth: 256 Mbps and outgoing bandwidth: 256 Mbps *After IP extension is enabled, EPTZ, Video Quality Analytics, Scene Changing, Face Recognition, Face Detection, SMD, Perimeter Protection, QuickPick 2.0 and Privacy Protection cannot be used.",
+        "Encoding Capacity": "Encode Enhancement disabled： Main stream: the 1st, 9th, 17th, 25th channel 4K@(1 fps–15 fps), others 4K@(1 fps–7 fps); the 1st, 9th, 17th, 25th channel 6 MP@(1 fps–20 fps), others 6 MP@(1 fps–10 fps); the 1st, 9th, 17th, 25th channel 5 MP@(1 fps–25 fps), others 5 MP@(1 fps–12 fps); the 1st, 9th, 17th, 25th channel 4K-N/4 MP/3 MP@(1 fps–25/30 fps), others 4K-N/4 MP/3 MP@(1 fps–15 fps); 4K@(1 fps–8 fps); Channels 1-5, 9-13, 17-21, and 15-29 5M-N@(1 fps–15 fps), others 5M-N@(1 fps–12 fps); 4M-N/1080p/720p/960H/D1/CIF@(1 fps–25/30 fps) Sub stream: 960H@(1 fps–15 fps); D1/CIF@(1 fps–25/30 fps) Encode Enhancement enabled： Main stream: the 1st, 5th, 9th,13th, 17th, 21st, 25th, 29th channel 4K@(1 fps–15 fps), others 4K@(1 fps–7 fps); the 1st, 5th, 9th, 13th, 17th, 21st, 25th, 29th channel 6 MP@(1 fps–20 fps), others 6 MP@(1 fps–10 fps); the 1st, 5th, 9th, 13th, 17th, 21st, 25th, 29th, channel 5 MP@(1 fps–25 fps), others 5 MP@(1 fps–12 fps); the 1st, 5th, 9th, 13th, 17th, 21st, 25th, 29th channel 4K-N/4 MP/3 MP@(1 fps–25/30 fps), others 4K-N/4 MP/3 MP@(1 fps–15 fps); 4K/6 MP@(1 fps–10 fps); 5 MP@(1 fps-15 fps); 4M-N/1080p/720p/960H/D1/CIF@(1 fps–25/30 fps) Sub stream: 960H@(1 fps–15 fps); D1/CIF@(1 fps–25/30 fps) *When Encode Enhancement is enabled, EPTZ, Video Quality Analytics, Scene Changing, Face Recognition, Face Detection, Perimeter Protection, QuickPick 2.0 and Privacy Protection cannot be used.",
+        "Dual-stream": "Yes",
+        "Video Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sampling": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 kbps",
+        "Video Output": "2 HDMI, 1 VGA, 1 CVBS HDMI1: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 VGA/HDMI2: 1920 × 1080, 1280 × 1024, 1280 × 720 *Heterogeneous video sources output for HDMI 2 is configurable.",
+        "Multi-screen Display": "1/4/8/9/16/25/36",
+        "Third-party Camera Access": "Panasonic; Sony; Hanwha; Axis; Arecont; ONVIF"
+      },
+      "Compression Standard": {
+        "Video Compression": "AI Coding; Smart H.265+; H.265; Smart H.264+; H.264",
+        "Audio Compression": "G.711a; G.711u; PCM"
+      },
+      "Network": {
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; FTP; DDNS; SNMP; Alarm Server; P2P; Auto Registration; IP Search (Supports IP camera, DVR, NVS, etc.)",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 24.06 (Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox"
+      },
+      "Recording Playback": {
+        "Record Mode": "General; alarm; motion detection; intelligent; POS",
+        "Recording Playback": "1/4/9/16",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback; general playback; event playback; tag playback; smart playback"
+      },
+      "Storage": {
+        "Disk Group": "Yes"
+      },
+      "Alarm": {
+        "General Alarm": "Motion detection; local alarm; alarm box; HDCVI alarm; camera external alarm; network alarm; PIR alarm",
+        "Anomaly Alarm": "Error (no disk, disk error, low space, low quota space; network disconnection; IP conflict; MAC conflict); video loss; video tampering; camera offline",
+        "Intelligent Alarm": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "Alarm Linkage": "Record; snapshot (panoramic); local alarm output; IPC external alarm output; audio; buzzer; log; preset; email"
+      },
+      "Ports": {
+        "CVBS Output": "1 channel",
+        "Audio Input": "4-channel BNC 32-channel BNC (Coaxial Audio)",
+        "Audio Output": "1-channel BNC",
+        "Two-way Talk": "1-channel BNC",
+        "Alarm Input": "16 channels",
+        "Alarm Output": "6 channels (5-channel relay output, 1-channel 12 V 1 A output）",
+        "Disk Interface": "4 SATA ports. Each disk can contain up to 16 TB. This limit varies depending on the environment temperature.",
+        "eSATA": "1",
+        "RS-232": "1",
+        "RS-485": "1",
+        "USB": "3 (1 front USB 2.0 port, 2 rear USB 3.0 ports)",
+        "HDMI": "2",
+        "VGA": "1",
+        "Network Port": "1 (10/100/1000 Mbps Ethernet port, RJ-45)"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC, 50±2% Hz",
+        "Power Consumption": "<30 W (without HDD)",
+        "Net Weight": "4.90 kg (10.81 lb)",
+        "Gross Weight": "7.20 kg (15.88 lb)",
+        "Product Dimensions": "440.0 mm × 420.2 mm × 76.0 mm (17.32\" × 16.54\" × 2.99\") (W × D × H)",
+        "Packaging Dimensions": "529.0 mm × 499.0 mm × 211.0 mm 20.83\" × 19.65\" × 8.31\" (W × D × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Installation": "Desktop",
+        "Certifications": "CE: CE-LVD: EN 60950-1/IEC 60950-1 CE-EMC: EN 61000-3-2, EN 61000-3-3, EN 55032, EN 50130, EN 55024 FCC: Part 15 Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/XVR5432L-4KL-I3_datasheet_20241109.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Dahua AI Digital Video Recorder_User Manual_V2.7.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88296/user_manual/Dahua_AI_Digital_Video_Recorder_User_Manual_V2.7.0.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Digital Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88296/user_manual/Digital_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-06-12 #Drawings XVR5432L-4KL-I3_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50237/drawings/XVR5432L-4KL-I3_PORT.pdf"
+      },
+      {
+        "name": "2024-06-12 #Drawings XVR5432L-4KL-I3_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48897/drawings/XVR5432L-I3_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-02-13 #Firmware DH_XVR7x32-AstonDB11_MultiLang_V4.000.0000004.2.R.250123 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3027898/M/DH_XVR7x32-AstonDB11_MultiLang_V4.000.0000004.2.R.250123.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/4k-value-5mp-series/xvr5432l-4kl-i3"
+  }
+}

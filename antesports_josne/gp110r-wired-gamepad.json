@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP110R Wired Gamepad with Neon RGB - D-Input & X-Input"
+    ]
+  },
+  "card_info": {
+    "product_id": "10343745126691",
+    "product_name": "GP110R Wired Gamepad with Neon RGB - D-Input & X-Input",
+    "product_title": "GP110R Wired Gamepad with Neon RGB - D-Input & X-Input",
+    "product_url": "https://antesports.com/products/gp110r-wired-gamepad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_6c60ad81-8a19-4415-bada-5c90c5ac6a89.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gp110r-wired-gamepad.html",
+  "detail": {
+    "title": "GP110R Wired Gamepad with Neon RGB - D-Input & X-Input",
+    "model": "AEPP0038",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP110R is a wired gamepad with a transparent shell that shows off its internal RGB lighting and rumble motors for a striking, geek-friendly look. Dual precision analog joysticks with textured rubber grips give accurate control for shooters, racing titles and action games alike, while turbo and programmable button support add a competitive edge. It supports both D-Input and X-Input modes on Windows, along with PS3, Nintendo Switch, Android TV boxes and Android media boxes, making it a genuinely versatile controller across PC and console setups. A true plug-and-play USB 2.0 connection means no drivers are needed, and the ergonomic curved shell with anti-slip texture keeps hands comfortable through long gaming sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_6c60ad81-8a19-4415-bada-5c90c5ac6a89.jpg",
+        "alt": "GP110R Wired Gamepad with Neon RGB - D-Input & X-Input - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB 2.0",
+        "Input Mode": "D-Input & X-Input",
+        "Lighting": "RGB, Transparent Shell",
+        "Compatibility": "PS3, Nintendo Switch, PC, Android TV, Android Media Box",
+        "Controls": "Dual Analog Sticks, Turbo Function",
+        "Color": "Black/Transparent",
+        "CONNECTIVITY": "Wired USB 2.0",
+        "INPUT MODE": "D-Input & X-Input",
+        "LIGHTING": "RGB, Transparent Shell",
+        "COMPATIBILITY": "PS3, Nintendo Switch, PC, Android TV, Android Media Box",
+        "CONTROLS": "Dual Analog Sticks, Turbo Function",
+        "COLOR": "Black/Transparent",
+        "Offer Price (INR)": "₹1,359.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0038"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP110)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP110.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp110r-wired-gamepad"
+  }
+}

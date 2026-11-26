@@ -1,0 +1,87 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "GCB90 GPU SUPPORT BRACKET - BLACK"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315417125155",
+    "product_name": "GCB90 GPU SUPPORT BRACKET - BLACK",
+    "product_title": "GCB90 GPU SUPPORT BRACKET - BLACK",
+    "product_url": "https://antesports.com/products/ant-esports-gpu-support-bracket-black-gcb90",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_0d251948-4249-4f0a-ab13-8c1bfb4bacf3.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-gpu-support-bracket-black-gcb90.html",
+  "detail": {
+    "title": "GCB90 GPU SUPPORT BRACKET - BLACK",
+    "model": "GCB90",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS GCB90 GPU Support Bracket is designed to provide reliable support for modern graphics cards, preventing GPU sag while maintaining the structural integrity of your gaming PC. Its sturdy construction ensures stability for heavy GPUs, while the sleek black finish blends seamlessly into gaming builds. Easy to install and compatible with a wide range of PC cabinets, the GCB90 is an essential accessory for enthusiasts and gamers looking to protect their graphics card investment.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_0d251948-4249-4f0a-ab13-8c1bfb4bacf3.png",
+        "alt": "GCB90 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_0d0acc5c-1936-4ce2-8008-88888bf5779d.png",
+        "alt": "GCB90 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_6c1104fa-4f0b-450d-9df4-02b048cb311c.png",
+        "alt": "GCB90 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_a77bcf3b-c75d-486a-b794-fdd4a8258c32.png",
+        "alt": "GCB90 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Category": "GPU Holder",
+        "Model": "GCB90",
+        "Color": "Black",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "GPU Holder",
+        "MODEL": "GCB90",
+        "COLOR": "Black",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹1,149.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AESP0291"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-gpu-support-bracket-black-gcb90"
+  }
+}

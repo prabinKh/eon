@@ -1,0 +1,180 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "2-Wire IP",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "484",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "2-Wire IP",
+      "Apartment Door Station",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "154569",
+    "product_name": "VTH5722BW-IWP",
+    "product_title": "2-Wire IP & Wi-Fi Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/my/products/video-intercoms/2-wire-ip/indoor-monitor/pro-series/vth5722bw-iwp",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/image/1_0_01_15_12875_907052349_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth5722bw-iwp.html",
+  "detail": {
+    "title": "2-Wire IP & Wi-Fi Indoor Monitor",
+    "model": "VTH5722BW-IWP",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH5722BW-IWP 2-Wire IP & Wi-Fi Indoor Monitor Key Points Ultra Slim, 4K Decoding Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/image/1_0_01_15_12875_907052349_crop_thumb.PNG",
+        "alt": "VTH5722BW-IWP_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/image/1_0_01_15_12875_907052347_crop_thumb.PNG",
+        "alt": "VTH5722BW-IWP_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/image/1_0_01_15_12875_907052348_crop_thumb.PNG",
+        "alt": "VTH5722BW-IWP_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Network Protocol": "IPv4;RTSP;UDP;DNS;RTP;TCP;SIP"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7-inch display screen",
+        "Screen Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz，16Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital;Digital 2-wire",
+        "Information Release": "Receive and view the published information from the management center",
+        "Elevator Control": "Residents can call the elevator through this device to their desired floor.",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "DND Mode": "Do not disturb period can be set",
+        "Number of Extensions": "Villa: 1 main VTH and 9 extensions. Apartment: 1 main VTH and 4 extensions",
+        "Storage": "Supports micro SD card storage (up to 512 GB)"
+      },
+      "Network": {
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE 802.11b/g/n/ax",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Max. Transmission Power": "≤20dBm@2400-2483.5 MHz"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "8 channels",
+        "Alarm Output": "1 channel",
+        "Power Output": "1 port (12 V, 200 mA)",
+        "Door Bell": "Yes (use the alarm input port)",
+        "Network Port": "1 × 10 Mbps/100 Mbps Ethernet port"
+      },
+      "Performance": {
+        "Casing Material": "PC + ABS"
+      },
+      "General": {
+        "Appearance Color": "White",
+        "Power Supply": "48 VDC 0.4 A Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Included: RS-485 and power output cable, power cord， bracket and alarm cable.",
+        "Product Dimensions": "210.2mm × 103.1 mm × 18.6mm (8.28\" × 4.06\" × 0.73\") (H × W × D)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Below 3,000 m (9,842.52 ft)",
+        "Power Consumption": "≤ 3.8 W (standby), ≤ 10 W (working)",
+        "Gross Weight": "0.6 kg (1.32 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75%",
+        "Operating Environment": "Indoor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/datasheet/VTH5722BW-IWP_S0_datasheet_20260310.pdf"
+      },
+      {
+        "name": "2026-02-07 #User Manual Digital VTH_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86478/user_manual/Digital_VTH_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-02-07 #User Manual Dahua Digital Indoor Monitor_SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Dahua_Digital_Indoor_Monitor_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2026-02-07 #User Manual Video Door Phone_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/user_manual/Video_Door_Phone_(VTO,_VTS,_DSS_Agile_VDP,_DMSS,_DoLynk_Care,_and_DoLynk_Pro)_Quick_Start_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-02-07 #User Manual Dahua Digital Indoor Monitor_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Dahua_Digital_Indoor_Monitor_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2026-02-07 #User Manual Dahua Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86482/user_manual/Dahua_Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-01-24 #Drawings VTH5722BW-IWP_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/drawings/VTH5722BW-IWP_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2026-01-23 #Drawings VTH5722BW-IWP_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/drawings/VTH5722BW-IWP_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-01-23 #Drawings VTH5722BW-IWP_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/drawings/VTH5722BW-IWP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-01-23 #Drawings VTH5722BW-IWP_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86480/drawings/VTH5722BW-IWP_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-20 #Firmware DH_VTHX7XXX_MultiLang_SIP_V4.810.0000000.2.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86479/firmware/DH_VTHX7XXX_MultiLang_SIP_V4.810.0000000.2.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/video-intercoms/2-wire-ip/indoor-monitor/pro-series/vth5722bw-iwp"
+  }
+}

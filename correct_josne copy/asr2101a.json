@@ -1,0 +1,137 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "96787",
+    "product_name": "ASR2101A",
+    "product_title": "Access Reader",
+    "product_url": "https://www.dahuasecurity.com/ph/products/access-control-&-time-attendance/access-control/readers/asr2101a",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11198/ProductImage/1_0_01_25_11198_1488379787_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr2101a.html",
+  "detail": {
+    "title": "Access Reader",
+    "model": "ASR2101A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR2101A Access Reader Key Points • Water-proof Card and Password Reader • RS-485 and Wiegand(W26/W34) Protocol • Mifare Classic 1K Card (13.56MHz) Reading • Touch Keypad for Operation • Prompts Using The Buzzer and Indicator Light • IP66 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11198/ProductImage/1_0_01_25_11198_1488379787_crop_thumb.png",
+        "alt": "ASR2101A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11198/ProductImage/1_0_01_25_11198_1488379788_crop_thumb.png",
+        "alt": "ASR2101A_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11198/ProductImage/1_0_01_25_11198_1488379789_crop_thumb.png",
+        "alt": "ASR2101A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing": "PC/acrylic panel"
+      },
+      "Function": {
+        "Unlock Mode": "Card swiping/password Multiple unlocking modes",
+        "Card Type": "IC card",
+        "Modulation Type": "AM",
+        "Frequency Range": "13.56 MHz",
+        "Max Transmission Power": "42 dBuA/m @10 m"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–5 cm (0\"–1.97\")"
+      },
+      "Port": {
+        "RS-485": "1 channel",
+        "Wiegand": "1 output channel"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "12V 0.5A DC",
+        "Protection": "IP66 (silicon sealant is needed, see the manual)",
+        "Power Consumption": "Standby ≤ 0.9W, working ≤1.7W",
+        "Product Dimensions": "123 mm × 86 mm × 15 mm (4.84\" × 3.38\" × 0.59\") (L × W × H)",
+        "Packaging Dimensions": "185 mm × 163 mm × 71 mm (7.28\" × 6.41 × 2.80\") (L × W × H, 1 in inner carton) 578 mm × 383 mm × 349 mm (22.76\" × 15.08\" × 13.74\") (L × W × H, carton)",
+        "Operating Temperature": "–30°C to +70°C (–22°F to +158°F)",
+        "Operating Humidity": "5%RH–95% (non-condensing)",
+        "Operating Environment": "Indoor; outdoor",
+        "Gross Weight": "0.35 kg (0.77 lb)",
+        "Installation": "Surface mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASR2101A_datasheet_20240627.pdf"
+      },
+      {
+        "name": "2026-05-28 #User Manual Access Reader_User's Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11717/user_manual/Access_Reader_User_27s_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-05-28 #User Manual Dahua_Access Reader_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11647/user_manual/Dahua_Access_Reader_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2021-01-30 #Drawings ASR2101A_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11637/drawings/ASR2101A-ME_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2021-01-30 #Drawings ASR2101A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/drawings/ASR2115A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-03-08 #Firmware General_ASR2XXXA_NOENC_MCU_V1.000.0000001.2.R.230208 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82145/firmware/General_ASR2XXXA_NOENC_MCU_V1.000.0000001.2.R.230208.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/access-control-&-time-attendance/access-control/readers/asr2101a"
+  }
+}

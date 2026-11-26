@@ -1,0 +1,121 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories",
+    "series": "Junction boxes",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/junction-boxes",
+    "tab_title": "Junction boxes",
+    "tab_id": "6977",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Accessories",
+      "Junction boxes",
+      "Junction boxes"
+    ]
+  },
+  "card_info": {
+    "product_id": "23917",
+    "product_name": "PFA12A",
+    "product_title": "Plastic Junction Box",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/junction-boxes/pfa12a",
+    "card_image": "https://material.dahuasecurity.com/product/20180629/PFA12A_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/pfa12a.html",
+  "detail": {
+    "title": "Plastic Junction Box",
+    "model": "PFA12A",
+    "brand": "Dahua",
+    "overview": "Favourite PFA12A Plastic Junction Box Key Points · Material: Weatherability and Nondiscolouring PP · Structural Water-Proof Design · Hidden Line Design, Can Place Video Balun with HDCVI/AHD/TVI/CVBS Cameras · Aesthetic Design Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DH-PFA12A"
+      },
+      "General": {
+        "Material": "PP",
+        "Dimension (WxHxD)": "210.9mmx97.5mmx35mm (8.3”x3.84”x1.38”)",
+        "Weight": "0.1kg (0.22lb)",
+        "Color": "White",
+        "Operating Temperature": "-40℃ ~+60℃(-40℉~+140℉)",
+        "Humidity": "0~90% RH",
+        "Installation": "Wall mount",
+        "Applicable Model": "Please see “Accessory Selector”"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180709/DH-PFA12A_datasheet_20180608.pdf"
+      },
+      {
+        "name": "2026-08-21 #User Manual Camera Mount_User Manual_20260820_Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84894/user_manual/Camera_Mount_User_Manual_20260820_Eng.pdf"
+      },
+      {
+        "name": "2026-08-21 #User Manual Camera Mount_User Manual_20260820_Pld Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84894/user_manual/Camera_Mount_User_Manual_20260820_Pld.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings PFA12A_dimension Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84894/drawings/PFA12A_dimension.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/junction-boxes/pfa12a"
+  }
+}

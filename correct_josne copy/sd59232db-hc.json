@@ -1,0 +1,189 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras",
+    "series": "SD5",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd5",
+    "tab_title": "SD5",
+    "tab_id": "9282",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI PTZ Cameras",
+      "SD5",
+      "SD5"
+    ]
+  },
+  "card_info": {
+    "product_id": "135777",
+    "product_name": "SD59232DB-HC",
+    "product_title": "2MP 32x Starlight IR HDCVI PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd5/sd59232db-hc",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231012/1_0_01_07_15318_1193605393_crop2_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/sd59232db-hc.html",
+  "detail": {
+    "title": "2MP 32x Starlight IR HDCVI PTZ Camera",
+    "model": "SD59232DB-HC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD59232DB-HC 2MP 32x Starlight IR HDCVI PTZ Camera Key Points • High-Quality Imaging with 2MP Resolution • 32× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 150m IR Distance for 24/7 Monitoring • 4 in 1 (4 Signals Switchable TVI/AHD/CVI/CVBS) • Clear Imaging Against Strong Back Light Due to 120 dB True WDR Technology • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231012/1_0_01_07_15318_1193605393_crop2_thumb.png",
+        "alt": "SD59232DB-HC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231012/1_0_01_07_15318_1219554877_crop2_thumb.png",
+        "alt": "SD59232DB-HC_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Electronic Shutter Speed": "1/3 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE); 0.0005 lux@F1.6 (B/W, 30 IRE) 0 lux (illuminator)",
+        "Illumination Distance": "150 m (492.13 ft) (IR)",
+        "Illuminator On/Off Control": "Zoom Prio; manual",
+        "Illuminator Number": "4 (IR)"
+      },
+      "Lens": {
+        "Focal Length": "4.5 mm–144 mm",
+        "Max. Aperture": "F1.6–F4.0",
+        "Field of View": "H: 59.6°–2.8°; V: 34.1°–1.6°; D: 67.9°–3.3°",
+        "Optical Zoom": "32x",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "0.1 m–1.5 m (0.33 ft–4.92 ft)",
+        "Iris Control": "Auto; manual",
+        "DORI Distance": "Detect",
+        "1986.2 m (6516.43 ft)": "784.6 m (2573.99 ft)"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless; Tilt: –15° to +90°, auto flip 180°",
+        "Manual Control Speed": "Pan: 0.1°–300°/s; Tilt: 0.1°–200°/s",
+        "Preset Speed": "Pan: 0.1°–400°/s; Tilt: 0.1°–300°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Pattern; Preset; Scan; Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)"
+      },
+      "Video": {
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480)",
+        "Video Frame Rate": "1080p (25/30 fps); 720p (25/30/50/60 fps)",
+        "Day/Night": "Yes",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Defog": "Electronic",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Yes",
+        "S/N Ratio": "≥ 50 dB"
+      },
+      "Function": {
+        "CVI Product Output Mode": "TVI; CVI; CVBS; AHD (CVBS is only used for debugging)"
+      },
+      "Certification": {
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpart B, ANSI C63.4-2014 UL: UL60950-1+CAN/CSA C22.2, No.60950-1"
+      },
+      "Port": {
+        "Analog Output": "1 channel (CVBS/CVI output, BNC)",
+        "RS-485": "1 (baud rate range: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Alarm Input": "2 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "1",
+        "Alarm Linkage": "Scan; preset; tour; pattern; alarm digital output",
+        "Alarm Event": "Alarm input"
+      },
+      "Power": {
+        "Power Supply": "24 VDC, 2.5 A ± 25%",
+        "Power Consumption": "Basic: 10 W Max: 21 W (PTZ + illuminator)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Protection": "TVS 6000 V lightning proof; IP66; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "310.0 mm × Φ185.7 mm (12.20\" × Φ7.31\")",
+        "Net Weight": "3.9 kg (8.60 lb)",
+        "Gross Weight": "7.2 kg (15.87 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD59232DB-HC_S0_datasheet_20230921.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82244/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004380/202411/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual HDCVI_Speed_Dome&PTZ_Camera_User's_Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007330/202411/HDCVI_Speed_Dome_26PTZ_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-23 #A&E Document SD59232DB-HC_A&E_20260918000229 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76537/a_e_document/1789662064907.docx"
+      },
+      {
+        "name": "2023-07-14 #Drawings SD59232DB-HC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3417/drawings/SD59232XA-HNR_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-07-14 #Drawings SD59232DB-HC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/20607/drawings/SD59430U-HNI_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-09-26 #Firmware General_SD59XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212392/M/General_SD59XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "2023-06-20 #Firmware General_SD59XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212394/M/General_SD59XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd5/sd59232db-hc"
+  }
+}

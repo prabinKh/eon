@@ -1,0 +1,252 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/pro-series",
+    "tab_title": "TPC 5 Series",
+    "tab_id": "12127",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Pro Series",
+      "TPC 5 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "154684",
+    "product_name": "TPC-SD5441",
+    "product_title": "Thermal Hybrid Speed Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/pro-series/tpc-5-series/tpc-sd5441=v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86592/image/1_0_01_34_14829_886831357_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-sd5441-v1.html",
+  "detail": {
+    "title": "Thermal Hybrid Speed Dome Camera",
+    "model": "TPC-SD5441",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-SD5441 Thermal Hybrid Speed Dome Camera Key Points • Thermal and Visible Dual Channels for 7×24h Monitoring • Integrates Multiple Advanced Perimeter Algorithms, with High Precision and Low False Alarms • 45X Optical Zoom in 4MP Resolution and 100m IR Distance • Max. 40W Lower Power Consumption, More Energy Saving • IP66 Protection for Extreme Environmental Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86592/image/1_0_01_34_14829_886831357_crop_thumb.PNG",
+        "alt": "TPC-SD5441_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86592/image/1_0_01_34_14829_886831358_crop_thumb.PNG",
+        "alt": "TPC-SD5441_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "General": {
+        "Appearance": "Thermal Network Hybrid Speed Dome Camera",
+        "Type": "Security"
+      },
+      "Thermal": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "400 (H) × 300 (V)",
+        "Pixel Pitch": "12 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Sensitivity (NETD)": "<35 mK (@f/1.0, 25 Hz, 300 K)",
+        "Focal Length": "13 mm; 19 mm; 25 mm; 35 mm; 50 mm",
+        "Field of View": "13 mm: H: 21.24°; V: 15.94° 19 mm: H: 14.5° ; V: 10.9° 25 mm: H: 11°; V: 8.2° 35 mm: H: 7 .85°; V: 5.89° 50 mm: H: 5.5°; V: 4.12°",
+        "Thermal Focus Control": "Fixed-focal",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Thermal Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Digital Zoom": "19 levels",
+        "Thermal AGC": "Auto/Manual",
+        "Thermal Noise Reduction": "2D NR/3D NR",
+        "Image Flip": "180°",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)"
+      },
+      "Visible": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "Pixel": "4 MP",
+        "Horizontal Definition": "Center ≥ 1200 TVL Edge ≥ 900 TVL",
+        "Min. Illumination": "Color: 0.01 lux Black & white: 0.001 lux 0 lux (IR on)",
+        "Visible AGC": "Auto/Manual",
+        "Visible Noise Reduction": "2D NR/3D NR",
+        "S/N Ratio": "≥55 dB",
+        "White Balance": "Auto; manual; indoor; outdoor; tracking; sodium lamp; street lamp; natural",
+        "Defog": "Electronic defog",
+        "Visible Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Electronic Shutter Speed": "1 s–1/30,000 s (auto/manual)",
+        "BLC": "Yes",
+        "WDR": "Yes",
+        "HLC": "Yes",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "Iris Control": "DC Auto",
+        "Exposure Compensation": "Yes",
+        "Visible Focus Control": "Auto/Semi-auto/Manual",
+        "Focal Length": "3.95 mm–177.75 mm",
+        "Zoom Speed": "＜7 s",
+        "Close Focus Distance": "1 m–10 m (3.28 ft–32.81 ft)",
+        "Optical Zoom": "45×",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illumination Distance": "100 m (328.08 ft)",
+        "Video Compression": "H.265; H.264M; H.264H; H.264B",
+        "Resolution": "Thermal: Main stream: 1280 × 1024; 1280 × 960; 1280 × 720; 400 × 300; 1280 × 960 (default); Sub stream: 640 × 512; 640 × 480; 400 × 300; 400 × 300 (default); Visible: Main stream: 4MP (2688 × 1520); 4MP (2560 × 1440); 2MP (1920 × 1080); 720p (1280 × 720); D1 (704 × 576); 4MP (2560 × 1440) (default); Sub stream: 2MP (1920 × 1080); 720p (1280 × 720); D1 (704 × 576); CIF (352 × 288); CIF (352 × 288) (default)",
+        "Video Frame Rate": "Thermal (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Visible (50 Hz): Main stream: 1 fps–50 fps, 50 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Thermal (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default Sub stream: 1 fps–30 fps, 15 fps by default Visible (60 Hz): Main stream: 1 fps–60 fps, 60 fps by default Sub stream: 1 fps–30 fps, 15 fps by default",
+        "Audio Compression": "G.711a; G.711mu; AAC",
+        "Image Encoding Format": "JPEG"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless Tilt: –10° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s to 200°/s Tilt: 0.1°/s to 120°/s",
+        "Preset Speed": "Pan: 240°/s Tilt: 200°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "2",
+        "Power-off Memory": "Yes",
+        "Privacy Masking": "4 blocks",
+        "Idle Motion": "Preset; pattern; tour; pan; scan"
+      },
+      "Function": {
+        "Two-way Audio": "Yes",
+        "Network Protocol": "HTTP; HTTPS; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP; Multicast; SFTP; 802.1x",
+        "Region of Interest (RoI)": "Yes",
+        "Regional Focus": "Yes",
+        "Storage": "FTP; Micro SD card (optional)",
+        "Interoperability": "ONVIF; CGI; DaHua SDK",
+        "Browser": "IE: IE8 and later (including the browsers with IE kernel, such as 360 Explorer, Sougou Explorer) Chrome: 42 and earlier Firefox: 42 and earlier",
+        "User/Host": "Up to 20 (total bandwidth: 64 MB)",
+        "Security": "Authorized username and password; attached MAC address; HTTPS; IEEE 802.1x; controlled network access",
+        "User Management": "Up to 20 users; supports multi-level user permissions (2 levels): management group and user group",
+        "Malfunction Detection": "Network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Micro SD Card (Max.)": "512 GB",
+        "IVS": "Yes",
+        "Heat Detection": "Yes",
+        "Cold/Hot Spot Trace": "Yes",
+        "IVS (Perimeter Protection)": "Yes. Supports tripwire and intrusion.",
+        "Target Distinction": "Human/Vehicle Classification",
+        "Target Tracking": "Yes",
+        "Smoke Detection": "Yes",
+        "Smoke Detection Distance": "4,000 m (13,123.36 ft)",
+        "Boat Tracking": "Yes",
+        "Analog Output": "1 × CVBS output; BNC port",
+        "Network Port": "1 × RJ-45 (10/100 Base-T)",
+        "Alarm Input": "7",
+        "Alarm Output": "2",
+        "Audio Input": "1",
+        "Audio Output": "1",
+        "RS-485": "1"
+      },
+      "Power": {
+        "Power Supply": "36 VDC ± 50%, Hi-PoE",
+        "Power Consumption": "Basic: ≤21 W Max: ≤40 W",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)"
+      },
+      "Physical Characteristics": {
+        "Protection": "IP66",
+        "Product Dimensions": "Φ240.0 mm × 382.0 mm (Φ9.45\" × 15.04\")",
+        "Packaging Dimensions": "319.0 mm × 319.0 mm × 521.0 mm (12.56\" × 12.56\" × 20.51\") (L × W × H)",
+        "Net Weight": "≤8 kg (17.64 lb)",
+        "Gross Weight": "≤10 kg (22.05 lb)",
+        "Lens": "Included",
+        "Reliability": "Surge protection: 6 kV Air discharge of 15 kV Contact discharge of 8 kV",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use in areas that have no specific requirements for anti-corrosion protection."
+      },
+      "Certification": {
+        "Certifications": "CE"
+      },
+      "Heat Detection Distance": {
+        "Focal Length": "Max. Distance",
+        "13 mm": "780 m (2,559.06 ft)",
+        "19 mm": "1,140 m (3,740.16 ft)",
+        "25 mm": "1,500 m (4,921.26 ft)",
+        "35 mm": "2,100 m (6,889.76 ft)",
+        "50 mm": "3,000 m (9,842.52 ft)"
+      },
+      "Note: The table displays the measured distances obtained from using the target size 2 m × 2 m for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {},
+      "Perimeter Protection Distance (IVS Distance)": {
+        "Focal Length": "Distance (Vehicle)",
+        "13 mm": "273 m (895.67 ft)",
+        "19 mm": "399 m (1,309.06 ft)",
+        "25 mm": "525 m (1,722.44 ft)",
+        "35 mm": "735 m (2,411.42 ft)",
+        "50 mm": "1,050 m (3,444.88 ft)"
+      },
+      "Note: The table displays the optimal distance obtained from using the target sizes 1.8 m × 0.5 m (human) and 4 m × 1.4 m (vehicle) for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {},
+      "DRI Distance": {
+        "Focal Length": "Detection Distance①",
+        "13 mm": "Vehicle: 1,661 m (5,449.48 ft); Human: 542 m (1,778.22 ft)",
+        "19 mm": "Vehicle: 2,428 m (7,965.88 ft); Human: 792 m (2,598.43 ft)",
+        "25 mm": "Vehicle: 3,194 m (10,479.00 ft); Human: 1,042 m (3,418.64 ft)",
+        "35 mm": "Vehicle: 4,472 m (14,671.92 ft); Human: 1,458 m (4,783.46 ft)",
+        "50 mm": "Vehicle: 6,389 m (20,961.29 ft); Human: 2,083 m (6,833.99 ft)"
+      },
+      "①Detection Distance: Detects objects, but cannot recognize their characteristics (objects must cover more than 1.5 pixels of the image). ②Recognition Distance: Classifies objects into general categories, such as human, vehicle (the object must cover more than 6 pixels of the image). ③Identification Distance: Classifies objects into specific categories based on their characteristics, such as engineering truck, car (the object must cover more than 12 pixels of the image).": {},
+      "Note: The table is the standard theoretical calculation and is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. For the intelligent detection distance, refer to the table of Perimeter Protection Distance (IVS Distance) above.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86592/datasheet/DHI-TPC-SD5441_V1_datasheet_20260227.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Hybrid Speed Dome Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/user_manual/Thermal_Hybrid_Speed_Dome_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-01-12 #A&E Document TPC-SD5441_A&E_20260902011853 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86592/a_e_document/1788283252214.docx"
+      },
+      {
+        "name": "2026-04-13 #Drawings TPC-SD5441_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/drawings/TPC-SD5641-AC-V1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-28 #Drawings TPC-SD5441_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/drawings/TPC-SD5641-AC-V1_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_TPC-SD5X41-TB-S2_MultiLang_NP_V2.654.0000000.2.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/firmware/DH_TPC-SD5X41-TB-S2_MultiLang_NP_V2.654.0000000.2.R.260527.zip"
+      },
+      {
+        "name": "2025-09-10 #Firmware General_TPC-SD6A9XXX-HN_MCU_V2.401.0000000.9.R.250625 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/firmware/General_TPC-SD6A9XXX-HN_MCU_V2.401.0000000.9.R.250625.zip"
+      },
+      {
+        "name": "2025-09-10 #Firmware DH_TPC-SD-Prometheus-V1_Stream3_PART_V2.800.0000000.4.R.250905 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/firmware/DH_TPC-SD-Prometheus-V1_Stream3_PART_V2.800.0000000.4.R.250905.zip"
+      },
+      {
+        "name": "2023-12-27 #Firmware General_TPC-NYX5400-BCXA_V1.000.0000000.0.R.231213 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87623/firmware/General_TPC-NYX5400-BCXA_V1.000.0000000.0.R.231213.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/pro-series/tpc-5-series/tpc-sd5441=v1"
+  }
+}

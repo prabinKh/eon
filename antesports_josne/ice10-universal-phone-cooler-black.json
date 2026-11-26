@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Mobile Accessories",
+    "subcategory_url": "https://antesports.com/collections/mobile-accessories",
+    "series": "Mobile Accessories Series",
+    "series_url": "https://antesports.com/collections/mobile-accessories",
+    "tab_title": "Mobile Accessories",
+    "tab_id": "508173648163",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Mobile Accessories",
+      "ICE10 Universal Phone Cooling Fan - 3 Speed Modes, Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10343745519907",
+    "product_name": "ICE10 Universal Phone Cooling Fan - 3 Speed Modes, Black",
+    "product_title": "ICE10 Universal Phone Cooling Fan - 3 Speed Modes, Black",
+    "product_url": "https://antesports.com/products/ice10-universal-phone-cooler-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ice10-universal-phone-cooler-black.html",
+  "detail": {
+    "title": "ICE10 Universal Phone Cooling Fan - 3 Speed Modes, Black",
+    "model": "ANTR0033",
+    "brand": "Ant Esports",
+    "overview": "The Ant ICE10 is a clip-on universal phone cooler built for mobile gamers, streamers and anyone who pushes their phone hard for extended stretches. Its semiconductor refrigeration technology cools the back of a device almost instantly, helping prevent the screen dimming, lag and automatic shutdowns that come with an overheating phone during intense gaming sessions. Three switchable cooling speed modes let you match the fan's intensity to how hard the phone is working, while a quiet, low-noise design keeps it from becoming a distraction. An LED temperature display shows real-time readings so you always know how your device is running, and its universal clamp fits smartphones from 4.5 to 7 inches, covering most iPhone and Android models.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14.png",
+        "alt": "ICE10 Universal Phone Cooling Fan - 3 Speed Modes, Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Cooling Tech": "Semiconductor Refrigeration",
+        "Speed Modes": "3 Adjustable",
+        "Display": "LED Temperature Readout",
+        "Fit Range": "4.5 - 7 Inch Smartphones",
+        "Mounting": "Clip-On Clamp",
+        "Compatibility": "iPhone & Android",
+        "Color": "Black",
+        "COOLING TECH": "Semiconductor Refrigeration",
+        "SPEED MODES": "3 Adjustable",
+        "DISPLAY": "LED Temperature Readout",
+        "FIT RANGE": "4.5 - 7 Inch Smartphones",
+        "MOUNTING": "Clip-On Clamp",
+        "COMPATIBILITY": "iPhone & Android",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹579.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0033"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ice10-universal-phone-cooler-black"
+  }
+}

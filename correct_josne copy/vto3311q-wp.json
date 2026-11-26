@@ -1,0 +1,208 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Villa Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Villa Door Station",
+    "tab_id": "12792",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Villa Door Station",
+      "Villa Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "102307",
+    "product_name": "VTO3311Q-WP",
+    "product_title": "IP & Wi-Fi Villa Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/ultra-series/vto3311q-wp",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211230/vt5_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto3311q-wp.html",
+  "detail": {
+    "title": "IP & Wi-Fi Villa Door Station",
+    "model": "VTO3311Q-WP",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO3311Q-WP IP & Wi-Fi Villa Door Station Key Points • Full Metal Casing Design • Customizable Number of Buttons • Wi-Fi Connection • 1/2.8-inch 2-MP HD CMOS Camera • IR Illumination and Auto WDR • IK08 & IP65 • Unlock via IC Card • PoE Power Supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt5_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt8_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt7_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt6_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/vt1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "RTSP; DNS; P2P; UPnP; RTP; RTMP; SIP; SSH; HTTP/HTTPS; ONVIF"
+      },
+      "Basic": {
+        "Camera": "1/2.8\" CMOS 2-MP HD camera",
+        "Field of View": "H: 125°; V: 65°; D: 139°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR; 2D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, and CIF; Sub stream: 1080p, WVGA, D1, QVGA, and CIF",
+        "Video Frame Rate": "PAL: 25 fps NTSC: 30 fps",
+        "Video Bit Rate": "768 kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto (ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction; Echo suppression; Digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Unlock Mode": "Card; app; indoor monitor",
+        "Card Type": "IC card",
+        "Auto Snapshot": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Leave Videos": "Yes (SD card inserted in VTH/VTO is needed)",
+        "Web Configuration": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE 802.11b; IEEE 802.11g; IEEE 802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Storage": "Micro SD card (max. 256 GB)"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–3.5 cm (0\"–1.38\")",
+        "Issue Card Locally": "Yes",
+        "Casing": "Alluminum alloy"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "1",
+        "Alarm Output": "1",
+        "Power Output": "1",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance color": "Grey",
+        "Power Supply": "12 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Included: Alarm power ribbon cable, rain cover",
+        "Product Dimensions": "188.1 mm × 107.2 mm × 30 mm (7.41\" × 4.22\" × 1.18\")",
+        "Protection": "IP65 IK08",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.51 ft)",
+        "Power Consumption": "≤ 3 W (standby), ≤ 6 W (working)",
+        "Gross Weight": "0.81 kg (1.79 lb)",
+        "Net Weight": "0.55 kg (1.21 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO3311Q-WP_datasheet_20211215.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Villa Door Station_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010956/3480009/Villa_Door_Station_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88312/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-10-23 #Drawings VTO3311Q-WP_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28797/drawings/VTO3311Q-WP_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-10-23 #Drawings VTO3311Q-WP_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28797/drawings/VTO3311Q-WP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-10-23 #Drawings VTO3311Q-WP_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28797/drawings/VTO3311Q-WP_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28837/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/ultra-series/vto3311q-wp"
+  }
+}

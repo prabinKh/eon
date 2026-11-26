@@ -1,0 +1,106 @@
+{
+  "hierarchy": {
+    "category": "Door Bell",
+    "category_url": "https://cpplusworld.com/products/door-bell",
+    "subcategory": "Software",
+    "subcategory_url": "https://cpplusworld.com/products/",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Software",
+    "tab_id": "136",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Software",
+      "Connector",
+      "Door Bell",
+      "CP-L23"
+    ]
+  },
+  "card_info": {
+    "product_id": "1458",
+    "product_name": "CP-L23",
+    "product_title": "CP-L23-Wi-Fi Doorbell | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-l23",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/50d3d59f-52c2-4374-881a-58d18f5b9468.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-l23.html",
+  "detail": {
+    "title": "CP-L23-Wi-Fi Doorbell | Cp Plus | Cpplusworld.com",
+    "model": "CP-L23",
+    "brand": "CP Plus",
+    "overview": "Wi-Fi Doorbell",
+    "features": [
+      "2MP Full HD Video",
+      "Super Wide View Angle",
+      "Two-way Communication",
+      "Support Built-in Mic",
+      "Support IR for Night Vision",
+      "Support IP65, IK07",
+      "Support Micro SD Card 128GB",
+      "Works with Alexa & Google Assistant (Wi-Fi Doorbell)",
+      "USB Chime for Wi-Fi Doorbell",
+      "The chime device provides a choice of 20 different melodies"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/50d3d59f-52c2-4374-881a-58d18f5b9468.jpg",
+        "alt": "CP-L23 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9cb3c3cf-dd21-45a2-8ed8-b9f44a1bd83c.jpg",
+        "alt": "CP-L23 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Captured Videos": "2MP",
+        "Built-in Speaker": "Support",
+        "Built-in Mic": "Support",
+        "Infrared LED": "Additional Light in Low light Conditions",
+        "Light Sensor": "Infrared Light Adjustment",
+        "Indicator Light": "Status Indicator light which shows the device’s working status",
+        "Doorbell Button": "You will receive notification or call by the App when its pressed",
+        "Microphone": "Transfer the sound",
+        "Built-in Siren": "Controlled by Mobile APP",
+        "USB Port": "Connect to charge the unit",
+        "Power Switch": "Off/On",
+        "Angle of View": "120°",
+        "PIR Range": "5 to 10 Meter",
+        "IR": "IR for Night Vision",
+        "Two-Way Communication": "Support",
+        "Work with Alexa": "Support",
+        "Work with Google Assistant": "Support",
+        "Battery": "2 x 2500mAH",
+        "Battery Charging Time": "3 hours (5V 2A charger) ; 6 hours (5V 1A charger) AC 8~24V ; DC 5V 2A",
+        "Weatherproof Protection": "IP65 & IK07",
+        "Casing": "Non-Metal Body",
+        "Ringtone selection": "The chime device provides a choice of 20 different melodies",
+        "Connection Type": "USB plug (power)",
+        "Status Indicator": "Support"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-L23.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/d340ccfb-361c-4c28-9652-361a1e048c7b.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-l23"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "EV Charger",
+    "category_url": "https://www.dahuasecurity.com/products/ev-charger",
+    "subcategory": "D-Volt Nova",
+    "subcategory_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova",
+    "series": "D-Volt Nova",
+    "series_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova",
+    "tab_title": "D-Volt Nova",
+    "tab_id": "118211",
+    "breadcrumbs": [
+      "EV Charger",
+      "D-Volt Nova",
+      "D-Volt Nova",
+      "D-Volt Nova"
+    ]
+  },
+  "card_info": {
+    "product_id": "153823",
+    "product_name": "ICS-D0120E-I1A",
+    "product_title": "Overseas DH DC Charging Station",
+    "product_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova/ics-d0120e-i1a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10074/ProductImage/1_0_01_47_10074_808838475_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "ev-charger/products/ics-d0120e-i1a.html",
+  "detail": {
+    "title": "Overseas DH DC Charging Station",
+    "model": "ICS-D0120E-I1A",
+    "brand": "Dahua",
+    "overview": "Favourite ICS-D0120E-I1A Overseas DH DC Charging Station Key Points ·Support dual CCS 2 charging connectors ·With 10.1-Inch touch screen display ·Support RFID, QR code, VIN charge ·OCPP 1.6 enbales easy integration with CSMS ·Cable management makes charging more convenient Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10074/ProductImage/1_0_01_47_10074_808838475_crop_thumb.PNG",
+        "alt": "ICS-D0120E-I1A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10074/ProductImage/1_0_01_47_10074_823956204_crop_thumb.PNG",
+        "alt": "ICS-D0120E-I1A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10074/ProductImage/1_0_01_47_10074_808838474_crop_thumb.PNG",
+        "alt": "ICS-D0120E-I1A_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Rated Input Voltage": {},
+      "Max. Output Power": {},
+      "Maximum Charging Current for Single Connector": {},
+      "Output Voltage Range": {},
+      "Constant Power Range": {},
+      "Max. Charging Current": {},
+      "Harmonic Wave": {},
+      "Power Factor": {},
+      "Efficiency": {},
+      "Standby Power Consumption": {},
+      "Output Voltage Error": {},
+      "Output Current Error": {},
+      "Stabilized Voltage Accuracy": {},
+      "Stabilized Current Accuracy": {},
+      "Ripple Peak Value": {},
+      "Average Current Imbalance": {},
+      "Charging Mode": {},
+      "Charging Port": {},
+      "Communication Protocol (with Backend)": {},
+      "Measurement Accuracy": {},
+      "Types of Protection": {},
+      "Cooling Method": {},
+      "Display Screen Dimensions": {},
+      "Startup Method": {},
+      "Network Connection Method": {},
+      "Bluetooth": {},
+      "Status Indicator Light": {},
+      "Accessory": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Cable Length": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Protection": {},
+      "Vandal-proof Rating": {},
+      "Working Noise": {},
+      "Power Supply System Type": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84971/datasheet/DHI-ICS-D0120E-I1A_S0_datasheet_20250723.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Dahua DC Charging Station D-Volt Nova_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84969/user_manual/Dahua_DC_Charging_Station_D-Volt_Nova_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Dahua DC Charging Station D-Volt Nova_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84969/user_manual/Dahua_DC_Charging_Station_D-Volt_Nova_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-06-26 #Drawings ICS-D0120E-I1A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84599/drawings/D-Volt_Nova_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-08 #Drawings ICS-D0120E-I1A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84599/drawings/D-Volt_Nova_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-nova/ics-d0120e-i1a"
+  }
+}

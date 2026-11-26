@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Desktop PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/desktop-poe-switch",
+    "tab_title": "Desktop PoE Switch",
+    "tab_id": "8367",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Desktop PoE Switch",
+      "Desktop PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "105717",
+    "product_name": "PFS3210-8ET2GF-96",
+    "product_title": "10-Port Unmanaged Desktop Switch with 8-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs3210-8et2gf-96",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220422/p1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs3210-8et2gf-96.html",
+  "detail": {
+    "title": "10-Port Unmanaged Desktop Switch with 8-Port PoE",
+    "model": "PFS3210-8ET2GF-96",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220422/p1_thumb.png",
+        "alt": "PFS3210-8ET2GF-96",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs3210-8et2gf-96"
+  }
+}

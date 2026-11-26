@@ -1,0 +1,179 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Hero Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series",
+    "tab_title": "Hero Series",
+    "tab_id": "18148",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Hero Series",
+      "Hero Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "137577",
+    "product_name": "H2C",
+    "product_title": "2MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/h2c",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798254_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/h2c.html",
+  "detail": {
+    "title": "2MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "model": "H2C",
+    "brand": "Dahua",
+    "overview": "Compare Favourite H2C 2MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Key Points • Automatic Tracking of Targets • Built-in Mic & Speaker, Support Two-way Talk • One-click Privacy Mode Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798254_crop_thumb.png",
+        "alt": "H2C_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798251_crop_thumb.png",
+        "alt": "H2C_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798252_crop_thumb.png",
+        "alt": "H2C_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798253_crop_thumb.png",
+        "alt": "H2C_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798147_crop_thumb.png",
+        "alt": "H2C_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798255_crop_thumb.png",
+        "alt": "H2C_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798256_crop_thumb.png",
+        "alt": "H2C_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15395/ProductImage/1_0_01_07_15395_522798257_crop_thumb.png",
+        "alt": "H2C_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Electronic Shutter Speed": "Auto/Manual1/3s~1/100000s",
+        "Illumination Distance": "15m(49.21 ft)",
+        "Illuminator On/Off Control": "Manual; Auto; Off",
+        "Illuminator Number": "1 (IR light)",
+        "Angle Adjustment": "Pan: 0° to 325° Tilt: –20° to +100°",
+        "Max. Aperture": "F2.0",
+        "Field of View": "H: 85.9°; V: 44.9°; D: 103.3°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes"
+      },
+      "Video & Audio": {
+        "Video Compression": "H.264B;Smart H.265+;H.264;H.265;Smart H.264+;MJPEG",
+        "Resolution": "1080p (1920×1080); (1.3M)1280×960; 720p (1280×720)",
+        "Video Frame Rate": "Main stream: 1080p/1.3M/720p(1–25/30fps) Sub stream 1: D1/CIF(1–25/30fps)",
+        "Video Bit Rate": "H.264: 256 Kbps–8192 Kbps H.265: 144 Kbps–8192 Kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Support",
+        "Image Rotation": "180°",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; MPEG2-Layer2; G722.1"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n 2.412-2.472 GHz, 2.4 G",
+        "Power Transmission": "≤20 dBm@2400–2483.5 MHz",
+        "Storage": "FTP; Micro SD card (512 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "General": {
+        "Certifications": "CE",
+        "Power Supply": "5 VDC, 1 A ± 10% (Type-C)",
+        "Power Consumption": "Basic: 2 W Max: 5 W (illuminator +PTZ +speaker)",
+        "Operating Conditions": "–10 °C to +40 °C (14 °F to +104 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "130.4mm×Φ95.5mm",
+        "Net Weight": "0.25 kg (0.55 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/H2C_datasheet_20240628.pdf"
+      },
+      {
+        "name": "2025-08-24 #User Manual Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User's_Manual_V3.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008270/202508/Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User_27s_Manual_V3.0.3.pdf"
+      },
+      {
+        "name": "2025-08-24 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008270/202508/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-24 #User Manual Network Speed Dome & PTZ Camera_Installation Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77527/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-09-23 #A&E Document H2C_A&E_20260918000113 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77667/a_e_document/1789661459116.docx"
+      },
+      {
+        "name": "2023-07-17 #Drawings H2C_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77677/drawings/H4C_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-07-17 #Drawings H2C_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77667/drawings/H2C_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-08-19 #Firmware DH_SD-Hertz_MultiLang_PN_V2.810.9992002.0.R.250801 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3320180/M/DH_SD-Hertz_MultiLang_PN_V2.810.9992002.0.R.250801.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/h2c"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "Detacher",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/detacher",
+    "tab_title": "Detacher",
+    "tab_id": "17994",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "Detacher",
+      "Detacher"
+    ]
+  },
+  "card_info": {
+    "product_id": "111257",
+    "product_name": "ISC-EDR-100",
+    "product_title": "RF Deactivator",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/detacher/isc-edr-100",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220721/DHI-ISC-EDR-100_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-edr-100.html",
+  "detail": {
+    "title": "RF Deactivator",
+    "model": "ISC-EDR-100",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EDR-100 RF Deactivator Key Points > Adapt to deactivate most EAS Labels, sensitive reaction, degaussing faster and most through. > Efficient deactivating, 120 Labels per minute, up to 10cm deactivating height. > High anti-interference, more stable performance. > Strong and durable shell material, not easy to damage. > The indicator light flashes or the indicator sound is activated after deactivating successfully Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220721/DHI-ISC-EDR-100_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Performance": {
+        "Technology": "Radio-Frequency (RF)",
+        "Detection Frequency": "8.2 MHz ± 0.4 MHz",
+        "Label Deactivating Distance": "≤ 200 mm",
+        "Shell Material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "Certifications": "Conform with RoHS & CE Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "General": {
+        "Power Input": "100 - 240 V ~ 50 / 60 Hz 1.0 A MAX",
+        "Power Output": "24 VDC",
+        "Rated Power": "5 W",
+        "Power Plugs Standard": "European Standard",
+        "Color": "Black",
+        "Length": "242 mm (9.53'') ± 0.5 mm (0.02'')",
+        "Width": "232 mm (9.13'') ± 0.5 mm (0.02'')",
+        "Thickness": "27 mm (1.06'') ± 0.5 mm (0.02'')",
+        "Installation Dimension": "222 mm × 210 mm (8.74'' × 8.27'')",
+        "Inner Packaging": "1 pcs per box",
+        "Inner Box Dimension": "260 mm × 260 mm × 80 mm (10.24' × 10.24'' × 3.15'')",
+        "Inner Box Weight": "1.04 kg (2.29 lb)",
+        "Packaging": "10 boxes per carton",
+        "Carton Dimension": "540 mm × 280 mm × 420 mm (21.26'' × 11.02'' × 16.54'')",
+        "Carton Weight": "11.4 kg (25.13 lb)",
+        "Minimum Order Quantity": "1 box"
+      },
+      "Environmental Constraints": {
+        "Temperature": "0 °C to 50 °C (32 °F to 122 °F)",
+        "Humidity": "10 % –90 % (RH)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EDR-100_datasheet_20220630.pdf"
+      },
+      {
+        "name": "2025-12-27 #User Manual Supermarket anti-theft product_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85215/user_manual/Supermarket_anti-theft_product_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/detacher/isc-edr-100"
+  }
+}

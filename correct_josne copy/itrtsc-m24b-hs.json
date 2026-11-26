@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Traffic Signal Controller and Traffic Light",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Traffic Signal Controller and Traffic Light",
+    "tab_id": "14027",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Traffic Signal Controller and Traffic Light",
+      "Traffic Signal Controller and Traffic Light"
+    ]
+  },
+  "card_info": {
+    "product_id": "154311",
+    "product_name": "ITRTSC-M24B-HS",
+    "product_title": "Dahua Traffic Signal Controller",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-signal-controller-and-traffic-light/traffic-signal-controller/itrtsc-m24b-hs",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868387626_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itrtsc-m24b-hs.html",
+  "detail": {
+    "title": "Dahua Traffic Signal Controller",
+    "model": "ITRTSC-M24B-HS",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITRTSC-M24B-HS Dahua Traffic Signal Controller Key Points Dahua Traffic Signal Controller Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868387626_crop_thumb.PNG",
+        "alt": "ITRTSC-M24B-HS_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868386432_crop_thumb.PNG",
+        "alt": "ITRTSC-M24B-HS_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868386433_crop_thumb.PNG",
+        "alt": "ITRTSC-M24B-HS_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868386434_crop_thumb.PNG",
+        "alt": "ITRTSC-M24B-HS_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868386435_crop_thumb.PNG",
+        "alt": "ITRTSC-M24B-HS_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/image/1_0_01_09_16223_868387627_crop_thumb.PNG",
+        "alt": "ITRTSC-M24B-HS_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "Flasher": {},
+      "Flashing Yellow": {},
+      "Channel": {},
+      "Types of Phases": {},
+      "Signal Group Output": {},
+      "Cycle Scheme": {},
+      "Multi-period Timing": {},
+      "Pedestrian Crossing": {},
+      "Coil": {},
+      "Actuated Control": {},
+      "Signal Control Mode": {},
+      "Manual Control": {},
+      "Change of Control Modes": {},
+      "Cableless Link Control": {},
+      "Special Mode Control": {},
+      "Temporary Scheme": {},
+      "Waiting Area": {},
+      "Default Light Color": {},
+      "Special Status": {},
+      "Count down": {},
+      "Timing": {},
+      "Phase": {},
+      "Signal Control Duration": {},
+      "Auto Phase Timing": {},
+      "Failure Detection": {},
+      "Access Control Monitoring": {},
+      "Network Control": {},
+      "Information Security": {},
+      "Parameters Configuration": {},
+      "Update": {},
+      "Lighting": {},
+      "Auto Maintenance": {},
+      "Control Switch": {},
+      "Power Input": {},
+      "PDU Output": {},
+      "Network Port": {},
+      "RS-232": {},
+      "RS-485": {},
+      "USB": {},
+      "TF Card": {},
+      "Positioning Interface": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Insulation": {},
+      "Voltage Withstanding": {},
+      "Power Consumption": {},
+      "Drive Power": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Protective Features": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Remote control": {},
+      "RF433M Modulation Type": {},
+      "RF433M Frequency Range": {},
+      "RF433M Power Transmission": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/datasheet/DHI-ITRTSC-M24B-HS_datasheet_20260128.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual Traffic Signal Controller_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85771/user_manual/Traffic_Signal_Controller_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-27 #A&E Document ITRTSC-M24B-HS_A&E_20260918051501 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85772/a_e_document/1789680065642.docx"
+      },
+      {
+        "name": "2025-10-25 #Drawings ITRTSC-M24B-HS_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85771/drawings/ITRTSC-M48B-HS_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-10-25 #Drawings ITRTSC-M24B-HS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85771/drawings/ITRTSC-M48B-HS_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-12-01 #Firmware General_ITRTSC-048B_MultiLang_P_Oversea_V2.631.0000000.0.R.250905 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85771/firmware/General_ITRTSC-048B_MultiLang_P_Oversea_V2.631.0000000.0.R.250905.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-signal-controller-and-traffic-light/traffic-signal-controller/itrtsc-m24b-hs"
+  }
+}

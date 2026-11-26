@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "Edge Box",
+    "category_url": "https://cpplusworld.com/products/edge-box",
+    "subcategory": "AI Edge Box",
+    "subcategory_url": "https://cpplusworld.com/products/AIEdgeBox/edgebox",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "AI Edge Box",
+    "tab_id": "186",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "AI Edge Box",
+      "Edge Box",
+      "CP-EBQ8-16AI48"
+    ]
+  },
+  "card_info": {
+    "product_id": "2275",
+    "product_name": "CP-EBQ8-16AI48",
+    "product_title": "CP-EBQ8-16AI48",
+    "product_url": "https://cpplusworld.com/cp-ebq8-16ai48",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/108a53bd-ffd7-46f4-8580-dcab2acbd03f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-ebq8-16ai48.html",
+  "detail": {
+    "title": "CP-EBQ8-16AI48",
+    "model": "CP-EBQ8-16AI48",
+    "brand": "CP Plus",
+    "overview": "AI Edge Computing Device",
+    "features": [
+      "Qualcomm Snapdragon QCS8550 Octa-core Processor",
+      "Octa-core KryoTM 64-bit CPU up to 3.2GHz for intensive edge workloads",
+      "Adreno TM GPU for advanced AI acceleration and graphics processing",
+      "8GB LPDDR5X high-speed memory",
+      "128GB UFS 3.1 high-speed storage"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/108a53bd-ffd7-46f4-8580-dcab2acbd03f.png",
+        "alt": "CP-EBQ8-16AI48 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/67ce4b00-fbe2-420c-8da2-916b02f973fd.png",
+        "alt": "CP-EBQ8-16AI48 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor Platform": "Qualcomm Snapdragon QCS8550",
+        "CPU Architecture": "Octa-core Qualcomm® Kryo™ 64-bit CPU <BR> 1 x Kryo Gold @ 3.2 GHz <BR> 4 x Kryo Gold @ 2.8 GHz <BR> 3 x Kryo Silver @ 2.0 GHz",
+        "GPU": "Adreno™ 740",
+        "Operating System": "Linux",
+        "RAM": "8GB LPDDR5X",
+        "ROM": "128GB UFS 3.1",
+        "Ethernet": "100/1000 Mbps RJ45",
+        "WAN Port": "1 × WAN",
+        "LAN Ports": "3 × LAN",
+        "USB Ports": "1x USB-A 2.0 <BR> 4x USB-A 3.1 <BR> 1x USB-C 3.1 (DP over Type-C)",
+        "Storage": "Support Up to 4TB Micro SD Card or NVMe SSD (M.2)",
+        "Power Input": "DC 12V ~ 24V",
+        "Operating Temperature": "-20°C ~ +70°C",
+        "Dimensions": "135 mm × 115 mm × 55 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EBQ8-16AI48.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/00c6bc58-918e-43bf-8681-6125471ee53a.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ebq8-16ai48"
+  }
+}

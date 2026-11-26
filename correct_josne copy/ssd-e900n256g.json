@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "E900",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/e900",
+    "tab_title": "E900",
+    "tab_id": "11807",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "E900",
+      "E900"
+    ]
+  },
+  "card_info": {
+    "product_id": "60077",
+    "product_name": "SSD-E900N256G",
+    "product_title": "NVMe M.2 Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/e900/ssd-e900n256g",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210113/E9001_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-e900n256g.html",
+  "detail": {
+    "title": "NVMe M.2 Solid State Drive",
+    "model": "SSD-E900N256G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-E900N256G NVMe M.2 Solid State Drive Key Points 1.High transmission speed up to 2000MB/s Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210113/E9001_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-SSD-E900N128G",
+        "Capacity1": "128 GB",
+        "Form Factor": "M.2 2280",
+        "Port": "PCIe Gen 3.0 x 4",
+        "Net Weight": "Max 8 g (0.02 lb)",
+        "Product Dimensions2": "80.00 mm × 22.00 mm × 2.25 mm (3.15\" × 0.87\" × 0.09\")",
+        "Packaging Dimensions": "130 mm × 104 mm × 17 mm (5.12\" × 4.09\" × 0.67\")",
+        "Memory Component": "3D NAND",
+        "Power Consumption2": "3066 mW (max) 566 mW (idle)",
+        "S.M.A.R.T": "Support",
+        "TRIM": "Support",
+        "Garbage Collection": "Support",
+        "Sequential Read2": "Up to 2000 MB/s",
+        "Sequential Write2": "Up to 650 MB/s",
+        "4K Random Read2": "Up to 58800",
+        "4K Random Write2": "Up to 102400",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0°C to +70°C (+32°F to +158°F)",
+        "Storage Temperature": "–40°C to +85°C (–40°F to +185°F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10-200Hz, 0.5 G",
+        "Shock Resistance": "1500G&0.5 ms (half sine wave)",
+        "TBW": "80 TB",
+        "Warranty3": "3-year limited warranty",
+        "Reference Information": "1.Capacity calculation: 1 GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partition, operating system applications, or other necessary usage). 2. System configuration of performance test: Chip-AMD Ryzen 5 5600X 6-Core Processor@3.70 GHz, 8G-DDR4, operating system-Windows 10 x64, testing tool-CrystalDiskMark 6.0.0 x64. 3.Warranty period or maximum write amount (TBW), whichever comes first. 4.High performance SLC cache has been enabled. *Above data based on internal testing of Zhejiang Huayixin Technology Co., Ltd Laboratory The actual performance might differ depending on the device it is being used with."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-E900N256G_Datasheet_20231106.pdf"
+      },
+      {
+        "name": "2025-05-12 #User Manual SSD NVMe M.2 2280-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010004/202505/SSD_NVMe_M.2_2280-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings SSD-E900N256G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50617/drawings/SSD-E900N128G_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings SSD-E900N256G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78847/drawings/SSD-C970VN1TB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/e900/ssd-e900n256g"
+  }
+}

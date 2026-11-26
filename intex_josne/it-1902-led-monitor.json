@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "LED Monitor",
+    "subcategory_url": "https://www.intex.in/collections/led-monitor",
+    "series": "LED Monitor Series",
+    "series_url": "https://www.intex.in/collections/led-monitor-series",
+    "tab_title": "LED Monitor",
+    "tab_id": "8922348814554",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "LED Monitor",
+      "Intex IT-1902 LED Monitor – 19\""
+    ]
+  },
+  "card_info": {
+    "product_id": "8922348814554",
+    "product_name": "Intex IT-1902 LED Monitor – 19\"",
+    "product_title": "Intex IT-1902 LED Monitor – 19\"",
+    "product_url": "https://www.intex.in/products/it-1902-led-monitor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1902.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 8999.0,
+      "display": "₹8,999.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/it-1902-led-monitor.html",
+  "detail": {
+    "title": "Intex IT-1902 LED Monitor – 19\"",
+    "model": "IT-1902",
+    "brand": "Intex",
+    "overview": "Enjoy stunning visuals with the Intex 19\" LED Monitor featuring HD+ resolution, anti-glare display, and vibrant color reproduction. Comes with HDMI & VGA ports and VESA mount compatibility for versatile setup.",
+    "features": [
+      "HD Quality 1440 x 900 Pixel",
+      "Anti Glare Screen",
+      "1 x HDMI (High-Definition Multimedia Interface)",
+      "1 x VGA Port",
+      "VESA Wall Mount"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1902.jpg",
+        "alt": "Intex IT-1902 LED Monitor – 19\"",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "HD Quality 1440 x 900 Pixel",
+        "Feature 2": "Anti Glare Screen",
+        "Feature 3": "1 x HDMI (High-Definition Multimedia Interface)",
+        "Feature 4": "1 x VGA Port",
+        "Feature 5": "VESA Wall Mount"
+      },
+      "General": {
+        "Model": "IT-1902"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_LED_Monitor_19_inch.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/it-1902-led-monitor"
+  }
+}

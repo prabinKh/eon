@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Docking Station",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/docking-station",
+    "tab_title": "Docking Station",
+    "tab_id": "16447",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Docking Station",
+      "Docking Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "129877",
+    "product_name": "TC35",
+    "product_title": "5 in 1 USB 3.1 Type-C to HDMI + USB 3.0 + PD Docking Station",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/dockingstations/tc35",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10580/ProductImage/1_9_10_01_10580_296726396_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/tc35.html",
+  "detail": {
+    "title": "5 in 1 USB 3.1 Type-C to HDMI + USB 3.0 + PD Docking Station",
+    "model": "TC35",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10580/ProductImage/1_9_10_01_10580_296726396_crop_thumb.png",
+        "alt": "TC35",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/dockingstations/tc35"
+  }
+}

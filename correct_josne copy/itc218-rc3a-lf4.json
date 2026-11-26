@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Outdoor Parking",
+    "tab_id": "18133",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Outdoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "152212",
+    "product_name": "ITC218-RC3A-LF4",
+    "product_title": "Dahua 2MP ANPR pillar",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/spot-detection-cameras/itc218-rc3a-lf4",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15002/ProductImage/1_0_01_09_15002_2059184265_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc218-rc3a-lf4.html",
+  "detail": {
+    "title": "Dahua 2MP ANPR pillar",
+    "model": "ITC218-RC3A-LF4",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC218-RC3A-LF4 Dahua 2MP ANPR pillar Key Points • 2 x 2MP starlight lenses for 2 parking spaces detection, 1/2.8\"\" CMOS with max. 3840 × 1080 resolution • 7-color indicator light and illuminator for instant space/direction status. • Supports detection of occupancy , multi-space/incorrect parking, unlicensed vehicles, non-motor vehicles, and even video tampering. • Wide voltage input (9-36V DC), cascades up to 20 units per line with 100m network range. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15002/ProductImage/1_0_01_09_15002_2059183836_crop_thumb.png",
+        "alt": "ITC218-RC3A-LF4_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15002/ProductImage/1_0_01_09_15002_2059184265_crop_thumb.png",
+        "alt": "ITC218-RC3A-LF4_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15002/ProductImage/1_0_01_09_15002_2059184263_crop_thumb.png",
+        "alt": "ITC218-RC3A-LF4_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Pixel": {},
+      "Image Sensor": {},
+      "Max.Detection Spot": {},
+      "Indicator Light": {},
+      "Image Resolution": {},
+      "Video Resolution": {},
+      "Noise Reduction": {},
+      "WDR": {},
+      "White Balance": {},
+      "Video Compression": {},
+      "Image Encoding Format": {},
+      "Video Bit Rate": {},
+      "Video Frame Rate": {},
+      "Edge Enhancement": {},
+      "Exposure Mode": {},
+      "Vehicle Speed": {},
+      "Field of View": {},
+      "Electronic Shutter Speed": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Lens": {},
+      "Lens Type": {},
+      "Focal Length": {},
+      "Shutter Mode": {},
+      "OSD Overlay": {},
+      "Alarm Event": {},
+      "Automatic Network Replenishment (ANR)": {},
+      "Auto Registration": {},
+      "Image Tampering Prevention": {},
+      "Security Mode": {},
+      "Parking Spot Status Detection": {},
+      "Parking Direction Detection": {},
+      "Illegal Parking Detection": {},
+      "Non-motor Vehicle Detection": {},
+      "Capture Triggered by Unlicensed Vehicle": {},
+      "RS-485": {},
+      "Alarm Input": {},
+      "Network Port": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83059/datasheet/ITC218-RC3A-LF4_datasheet_20250820.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual ANPR Pillar_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007962/202411/ANPR_Pillar_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-05-17 #A&E Document ITC218-RC3A-LF4_A&E_20260901201935 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83059/a_e_document/1788265289542.docx"
+      },
+      {
+        "name": "2023-06-26 #Drawings ITC218-RC3A-LF4_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83059/drawings/ITC218-RC3A-LF4_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-06-26 #Drawings ITC218-RC3A-LF4_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83059/drawings/ITC218-RC3A-LF4_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/spot-detection-cameras/itc218-rc3a-lf4"
+  }
+}

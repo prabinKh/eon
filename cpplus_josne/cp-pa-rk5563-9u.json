@@ -1,0 +1,79 @@
+{
+  "hierarchy": {
+    "category": "Racks",
+    "category_url": "https://cpplusworld.com/products/racks",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "109",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Racks",
+      "CP-PA-RK5563-9U"
+    ]
+  },
+  "card_info": {
+    "product_id": "499",
+    "product_name": "CP-PA-RK5563-9U",
+    "product_title": "CP-PA-RK5563-9U-9U Rack | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-pa-rk5563-9u",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/88347add-8eee-4e9b-8701-ed93c236b904.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-pa-rk5563-9u.html",
+  "detail": {
+    "title": "CP-PA-RK5563-9U-9U Rack | Cp Plus | Cpplusworld.com",
+    "model": "CP-PA-RK5563-9U",
+    "brand": "CP Plus",
+    "overview": "9U Rack (Premium Series)",
+    "features": [
+      "Easy Wall-Mounting Design",
+      "Suitable for Networking, Telecom & CCTV Applications",
+      "Built with high-quality 0.8 mm CRCA Steel",
+      "Lockable Front Door",
+      "Top & Bottom Cable Entry Provision with Rubber Edge Protection",
+      "Powder-Coated Durable Finish (RAL 7035 Grey)",
+      "30kg Load Bearing Capacity"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/88347add-8eee-4e9b-8701-ed93c236b904.jpg",
+        "alt": "CP-PA-RK5563-9U - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e6a11b13-5008-42fe-a0c8-ebca759b4dff.jpg",
+        "alt": "CP-PA-RK5563-9U - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display Size": "N/A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-PA-RK5563-9U.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-pa-rk5563-9u"
+  }
+}

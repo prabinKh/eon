@@ -1,0 +1,154 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Master Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Master Station",
+    "tab_id": "5797",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Master Station",
+      "Master Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "117997",
+    "product_name": "VTS8A40B-CG",
+    "product_title": "Master Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/master-station/pro-series/vts8a40b-cg",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221207/VTS8A40B-CG_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vts8a40b-cg.html",
+  "detail": {
+    "title": "Master Station",
+    "model": "VTS8A40B-CG",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTS8A40B-CG Master Station Key Points • 10-inch Glass Touch Screen with a 1024 (H) × 600 (V) Resolution and Support for Speakerphone Gooseneck Microphones and Handsets • Offers HDMI Output with a Resolution up to 1024 (H) × 600 (V) • The Intercom Can Be Set for Residential Areas and Use in Industries • Building Intercom: Doors Can Be Remotely Unlocked During Monitoring and While The Intercom Is in Use • Monitors 4-Channel Door Stations and IPCs at the Same Time • Industry Intercom: 300 IP VTAs Can Be Connected to The Master Station • Supports Two-Way Talk with Emergency Phone Terminals and Emergency Phone Terminal Stations Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221207/VTS8A40B-CG_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221207/VTS8A40B-CG_2_thumb.png",
+        "alt": "VTS8A40B-CG",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Android 11",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI; SDK; SIP",
+        "Network Protocol": "IPv4; RTSP; UDP; FTP; RTP; TCP"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "10\" TFT display",
+        "Screen Resolution": "1024 × 600",
+        "Camera": "5 MP CMOS camera",
+        "Field of View": "H: 57°; V: 45°; D: 72°",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "720p",
+        "Video Frame Rate": "25 fps",
+        "Video Bit Rate": "2 Mbps",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "3 Channels",
+        "Audio Output": "Built-in speaker; handset speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz,16Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Multi-Window Display": "Supports splitting to 4 windows and monitoring 4-ch 720p videos.",
+        "Storage": "Micro SD, Max 512 GB",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes",
+        "Access Device": "Building mode: Up to 32 VTSs. Up to 32 IPCs. Industry mode: Up to 300 VTAs (Added through IP). Up to 32 IPCs."
+      },
+      "Performance": {
+        "Casing Material": "PC + ABS"
+      },
+      "Port": {
+        "RS-485": "1",
+        "HDMI": "1",
+        "USB": "1 × USB 2.0 port 1 × USB 3.0 port",
+        "Power Output": "1 channel, 12 V/200 mA",
+        "Network Port": "1 × RJ-45 100 Mbps/1000 Mbps self-adaptive"
+      },
+      "General": {
+        "Appearance Color": "Titanium gray",
+        "Power Supply": "12 VDC, 4A",
+        "Power Adapter": "Included",
+        "Installation": "Desk Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Power adapter; power cord; handset cord",
+        "Product Dimensions": "345.00 mm × 224.60 mm × 64.42 mm (13.58\" × 8.84\" × 2.54\")",
+        "Operating Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "5%–90% (RH) (Non-condensing)",
+        "Operating Altitude": "0 m–1300 m (0 ft–4265.09 ft)",
+        "Power Consumption": "≤ 5 W (standby), ≤ 10 W (working)",
+        "Gross Weight": "2.5 kg (5.51 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30% to 75% (RH)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTS8A40B-CG_datasheet_20221122.pdf"
+      },
+      {
+        "name": "2025-08-08 #User Manual Digital VTS_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010332/202504/Digital_VTS_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-08-08 #User Manual Video Door Phone (Version 4.8)_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010928/3480508/Video_Door_Phone_(Version_4.8)_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-12-30 #Drawings VTS8A40B-CG_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57507/drawings/VTS5A40B_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2025-12-30 #Drawings VTS8A40B-CG_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57507/drawings/VTS5A40B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-12-15 #Firmware DH_VTSXA40X_MultiLang_V4.800.0000000.0.R.241123 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2955344/M/DH_VTSXA40X_MultiLang_V4.800.0000000.0.R.241123.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/master-station/pro-series/vts8a40b-cg"
+  }
+}

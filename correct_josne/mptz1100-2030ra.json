@@ -1,0 +1,176 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "Special Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/special-series",
+    "tab_title": "Positioning Systems",
+    "tab_id": "282",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "Special Series",
+      "Positioning Systems"
+    ]
+  },
+  "card_info": {
+    "product_id": "151971",
+    "product_name": "MPTZ1100-2030RA",
+    "product_title": "Mobile Portable HD IR PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/positioning-systems/mptz1100-2030ra",
+    "card_image": "https://material.dahuasecurity.com/product/20180709/MPTZ1100-2030RA_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/mptz1100-2030ra.html",
+  "detail": {
+    "title": "Mobile Portable HD IR PTZ Camera",
+    "model": "MPTZ1100-2030RA",
+    "brand": "Dahua",
+    "overview": "Compare Favourite MPTZ1100-2030RA Mobile Portable HD IR PTZ Camera Key Points • 2MP Resolution Delivers Excellent Image Quality for Surveillance • 30x Optical Zoom Provides Powerful Long-Range Monitoring Capability • 360° Endless Pan Range Ensures Complete Area Coverage • 80m IR Illumination Enables Clear Night Vision Performance • IP66 Rating Ensures Durability in Harsh Outdoor Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Effective Pixels": "1920 (H) × 1080 (V), 2.42MP",
+        "Horizontal Resolution": "≥1000TVL",
+        "Minimum Illumination": "Color:0.005Lux@F1.6",
+        "Gain Control": "Auto/Manual",
+        "3DNR": "Support",
+        "2DNR": "Support",
+        "S/N Ratio": "≥55dB",
+        "White Balance": "Auto/Manual/Track/Outdoor/Indoor/Outdoor Auto/Sodium Lamp Auto/Sodium Lamp",
+        "Electronic Shutter Speed": "1/1~1/30000s",
+        "Anti Shake": "Support",
+        "Defog": "Support",
+        "Demist": "Support",
+        "Backlight Compensation": "Support",
+        "WDR": "Support",
+        "HLC": "Support",
+        "Digital Zoom": "16x",
+        "Day/Night": "Auto ICR /Color /B/W",
+        "Focus Control": "Auto/Semi-Auto/Manual",
+        "Focal Length": "4.5mm~135mm",
+        "Zoom Speed": "4s",
+        "baipingheng": "Horizontal:67.8~2.77°(wide-tele)",
+        "Close Focus Distance": "100mm~1000mm(wide-tele)",
+        "Optical Zoom": "30x",
+        "Max Aperture": "F1.6~F4.4",
+        "Main Stream": "50Hz:25fps(1920×1080),50fps(1920×1080),25fps(1280×960),25fps(1280×720); 60Hz:30fps(1920×1080),60fps(1920×1080),30fps(1280×960),30fps(1280×720)",
+        "Sub Stream 1": "50Hz:25fps(704×576),25fps(352×288) 60Hz:30fps(704×480),30fps(352×240)",
+        "Sub Stream 2": "50Hz:25fps(1920×1080),25fps(1280×960),25fps(1280×720); 60Hz:30fps(1920×1080),30fps(1280×960),30fps(1280×720)",
+        "Video Compression": "H.265/H.264Baseline Profile/H.264Main Profile/H.264High Profile/M-JPEG",
+        "Audio Compression": "G.711a/G.711Mu/AAC/G.722 / G.726/MPEG2-L2",
+        "Voice Intercom": "Support",
+        "Protocol": "Default:IPv4/IPv6,HTTP,HTTPS,Qos,FTP,SMTP,UPnP,IGMP,SNMP,DNS,DDNS,NTP,RTSP,RTP,TCP,UDP,ICMP,DHCP,SSL/TLS,SFTP,RTCP,SSH,PPPoE,onvif Customize:CIFS/SMB,SOCKS",
+        "Protection": "IP66",
+        "ROI": "Support",
+        "SVC": "Support",
+        "Zone Focusing": "Support",
+        "Time Diaplay": "Support",
+        "API": "Support API,Support standard protocol (Onvif,CGI, GB/T28181), Support SDK and 3rd party",
+        "Web Viewer": "Support IE7 above,google,firefox,safari",
+        "Max. User Access": "Max 20 channel(total bandwidth 48M)",
+        "Security Measures": "User Authentication (User ID and Password), Host Authentication (MAC address), HTTPS Encryption, IEEE 802.1x Port-Based Network Access control",
+        "User Management": "Multi-level user management",
+        "Pan Range": "360° endless",
+        "Pan Speed": "0.1~90°/s",
+        "Tilt Range": "+20° ~-90°",
+        "Tilt Speed": "0.1~60°/s",
+        "Presets": "256",
+        "Tour": "8",
+        "IR distance": "80m (2 pairs of IR light)",
+        "IR on/off control": "Auto/Manual",
+        "Material": "Aluminum Alloy (Main Body)",
+        "Port": "1 RJ-45, 1 M12 aviation port",
+        "Power Supply": "DC 12V",
+        "Power Consumption": "<12W (IR off), < 24W (IR on)",
+        "Working Environment": "-35ºC ~ 60ºC / Less than 90% RH",
+        "Weight": "2.5Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180709/MPTZ1100-2030RA.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Dahua Network Speed Dome Web3.0 Operation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3327/user_manual/Dahua_Network_Speed_Dome_Web3.0_Operation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Installation Guide (MPTZ)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/22057/user_manual/Installation_Guide_(MPTZ)_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-28 #User Manual Mobile Portable HD IR PTZ Camera User's Manual V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/22057/user_manual/Mobile_Portable_HD_IR_PTZ_Camera_User_27s__Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-01-22 #A&E Document MPTZ1100-2030RA_A&E_20260918003610 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/22057/a_e_document/1789663897359.docx"
+      },
+      {
+        "name": "2021-10-27 #Drawings MPTZ1100-2030RA_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84868/drawings/MPTZ1100-2030RA-NT_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-10-27 #Drawings MPTZ1100-2030RA_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84868/drawings/MPTZ1100-2030RA-NT_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-04-26 #Firmware General_SD-Eos_Eng_PN_Stream3_V2.623.9995002.0.R.240419 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2599879/M/General_SD-Eos_Eng_PN_Stream3_V2.623.9995002.0.R.240419.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/positioning-systems/mptz1100-2030ra"
+  }
+}

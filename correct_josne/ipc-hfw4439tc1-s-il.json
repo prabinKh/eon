@@ -1,0 +1,197 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 4 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series",
+    "tab_title": "Smart Dual Lght",
+    "tab_id": "118264",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 4 Series",
+      "Smart Dual Lght"
+    ]
+  },
+  "card_info": {
+    "product_id": "155666",
+    "product_name": "IPC-HFW4439TC1-S-IL",
+    "product_title": "4MP Smart Dual Light Fixed-focal Bullet WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series/smart-dual-lght/ipc-hfw4439tc1-s-il",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/image/1_0_01_04_50222_956911357_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw4439tc1-s-il.html",
+  "detail": {
+    "title": "4MP Smart Dual Light Fixed-focal Bullet WizMind Network Camera",
+    "model": "IPC-HFW4439TC1-S-IL",
+    "brand": "Dahua",
+    "overview": "New Favourite IPC-HFW4439TC1-S-IL 4MP Smart Dual Light Fixed-focal Bullet WizMind Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • Deep Learning-Based Human and Vehicle Classification • 3 Streams for Diverse Application Needs • Built-in Mic for Real-Time Audio Security • 30%-50% Storage Saving with Super AI Coding Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/image/1_0_01_04_50222_956911357_crop_thumb.PNG",
+        "alt": "IPC-HFW4439TC1-S-IL_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/image/1_0_01_04_50222_956912098_crop_thumb.PNG",
+        "alt": "IPC-HFW4439TC1-S-IL_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/image/1_0_01_04_50222_956911355_crop_thumb.PNG",
+        "alt": "IPC-HFW4439TC1-S-IL_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/image/1_0_01_04_50222_956911353_crop_thumb.PNG",
+        "alt": "IPC-HFW4439TC1-S-IL_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/image/1_0_01_04_50222_956912097_crop_thumb.PNG",
+        "alt": "IPC-HFW4439TC1-S-IL_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 194,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "61.6 m( 202.10 ft)",
+        "3.6 mm": "78.0 m( 255.91 ft)",
+        "6 mm": "122.2 m( 400.92 ft)"
+      },
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "Video Compression": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "LDC": {},
+      "Built-in MIC": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "Power Supply": {},
+      "Dual Power Backup": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/datasheet/DH-IPC-HFW4439TC1-S-IL_S0_datasheet_20260904_English.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88441/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Bullet Network Camera Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88189/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88441/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88189/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-07-29 #A&E Document IPC-HFW4439TC1-S-IL_A&E_20260918081234 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88190/a_e_document/1789690859072.docx"
+      },
+      {
+        "name": "2026-08-19 #Drawings IPC-HFW4439TC1-S-IL_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88189/drawings/1_0_01_04_50203_982923166.pdf"
+      },
+      {
+        "name": "2026-08-11 #Drawings IPC-HFW4439TC1-S-IL_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88189/drawings/1_0_01_04_50203_980912511.pdf"
+      },
+      {
+        "name": "2026-09-14 #Firmware DH_IPC-HX4XXX-HB-Chou-Monet_MultiLang_PN_V3.120.0000000.12.R.260820 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88193/firmware/DH_IPC-HX4XXX-HB-Chou-Monet_MultiLang_PN_V3.120.0000000.12.R.260820.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series/smart-dual-lght/ipc-hfw4439tc1-s-il"
+  }
+}

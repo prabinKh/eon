@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "65W",
+    "subcategory_url": "https://www.intex.in/collections/65w",
+    "series": "Data Cable",
+    "series_url": "https://www.intex.in/collections/data-cable",
+    "tab_title": "65W",
+    "tab_id": "9155420684506",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "65W",
+      "Intex Speed Pro 65W Type-C to C Data Cable"
+    ]
+  },
+  "card_info": {
+    "product_id": "9155420684506",
+    "product_name": "Intex Speed Pro 65W Type-C to C Data Cable",
+    "product_title": "Intex Speed Pro 65W Type-C to C Data Cable",
+    "product_url": "https://www.intex.in/products/intex-speed-pro-65w-type-c-to-c-data-cable",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEEDPRO65WCTOC.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-speed-pro-65w-type-c-to-c-data-cable.html",
+  "detail": {
+    "title": "Intex Speed Pro 65W Type-C to C Data Cable",
+    "model": "65W",
+    "brand": "Intex",
+    "overview": "The Intex Speed Pro 65W C to C Cable is built for high-speed charging and seamless data transfer across USB Type-C devices. Supporting up to 65W power output and 480 Mbps data speed, it is ideal for smartphones, tablets, and laptops. The durable TPE material ensures flexibility, tangle-free use, and long-lasting performance with advanced safety protection.",
+    "features": [
+      "65W fast charging output support",
+      "Type-C to C charging & data cable",
+      "480 Mbps high-speed data transfer",
+      "1-metre cable length",
+      "Durable TPE material for long-lasting use",
+      "Tangle-free and flexible design",
+      "Universal compatibility with USB-C devices",
+      "Emark 2.0 protection chip",
+      "Overheat protection for safe charging",
+      "20000+ bends tested for extended lifespan"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEEDPRO65WCTOC.jpg",
+        "alt": "Intex Speed Pro 65W Type-C to C Data Cable",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "65W fast charging output support",
+        "Feature 2": "Type-C to C charging & data cable",
+        "Feature 3": "480 Mbps high-speed data transfer",
+        "Feature 4": "1-metre cable length",
+        "Feature 5": "Durable TPE material for long-lasting use",
+        "Feature 6": "Tangle-free and flexible design",
+        "Feature 7": "Universal compatibility with USB-C devices",
+        "Feature 8": "Emark 2.0 protection chip",
+        "Feature 9": "Overheat protection for safe charging",
+        "Feature 10": "20000+ bends tested for extended lifespan"
+      },
+      "General": {
+        "Model": "65W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-speed-pro-65w-type-c-to-c-data-cable"
+  }
+}

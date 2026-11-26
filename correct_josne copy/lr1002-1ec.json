@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "Ethernet over Coax(EoC)",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/ethernet-over-coax(eoc)",
+    "tab_title": "Ethernet over Coax(EoC)",
+    "tab_id": "13707",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "Ethernet over Coax(EoC)",
+      "Ethernet over Coax(EoC)"
+    ]
+  },
+  "card_info": {
+    "product_id": "16521",
+    "product_name": "LR1002-1ET/LR1002-1EC",
+    "product_title": "Single-Port Long Reach Ethernet over Coax Extender",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/ethernetovercoax(eoc)/lr1002-1et/lr1002-1ec",
+    "card_image": "https://material.dahuasecurity.com/upfiles/LR1002-1ET_LR1002-1EC1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/lr1002-1ec.html",
+  "detail": {
+    "title": "Single-Port Long Reach Ethernet over Coax Extender",
+    "model": "LR1002-1ET/LR1002-1EC",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/upfiles/LR1002-1ET_LR1002-1EC1_thumb.png",
+        "alt": "LR1002-1ET/LR1002-1EC",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/ethernetovercoax(eoc)/lr1002-1et/lr1002-1ec"
+  }
+}

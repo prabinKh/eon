@@ -1,0 +1,174 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Turnstiles",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles",
+    "series": "Swing Barrier",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier",
+    "tab_title": "Flap Barrier",
+    "tab_id": "16347",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Turnstiles",
+      "Swing Barrier",
+      "Flap Barrier"
+    ]
+  },
+  "card_info": {
+    "product_id": "146172",
+    "product_name": "ASGY5XXC-X",
+    "product_title": "Flap Barrier",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/flap-barrier/pro/asgy5xxc-x",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400223_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asgy5xxc-x.html",
+  "detail": {
+    "title": "Flap Barrier",
+    "model": "ASGY5XXC-X",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASGY5XXC-X Flap Barrier Key Points • Cabinet Material: SUS304 1.2mm • DC Brushless Servo Motor, MCBF ≥ 5 Million Times • 12 pairs of IR Detectors • 600mm Standard Passage Width • Adjustable Volume, Speed and Passing Time • 4 Security Levels and 9 Combination of Passage Modes • Remaining Open During Fire Emergencies • Water-proof with IPX4 Rating Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400223_thumb.png",
+        "alt": "ASGY5XXC-X_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400222_thumb.png",
+        "alt": "ASGY5XXC-X_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400219_thumb.png",
+        "alt": "ASGY5XXC-X_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400218_thumb.png",
+        "alt": "ASGY5XXC-X_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400221_thumb.png",
+        "alt": "ASGY5XXC-X_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12246/ProductImage/1_0_01_25_12246_542400220_thumb.png",
+        "alt": "ASGY5XXC-X_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Basic": {
+        "Motor": "Brushless DC motor",
+        "Status Indicator Light": "Blue light: Standby Flashing red light: Abnormal Solid green light: Authenticated Flashing green light: Permitted to pass",
+        "Casing Material": "SUS304",
+        "Product Type": "Flap Barrier"
+      },
+      "Function": {
+        "Online Update": "Yes",
+        "Verification Method": "Card"
+      },
+      "Performance": {
+        "MCBF": "≥ 5 million times",
+        "Product Life Span": "≥ 7 million times",
+        "Card Reading Distance": "0 cm–5 cm (0\"–1.97\")",
+        "Max Custom Passage Width": "Acrylic: 600 mm (23.62\")",
+        "Input Port": "RS–232, RS–485",
+        "Passing Speed": "20–60 people/minute",
+        "Unlock/Lock Speed": "≥ 0.5 s",
+        "Pairs of IR Detectors": "12 pairs",
+        "Cabinet Thickness": "1.2 mm (0.05\")",
+        "Top Cover Thickness": "1.2 mm (0.05\")",
+        "Frame Thickness": "1.2 mm (0.05\")",
+        "Barrier Material": "Acrylic",
+        "Barrier Thickness": "12 mm (0.47\")",
+        "Type of Face Module Installation Hole": "Simple",
+        "Location of Face Module Installation Hole": "Exit",
+        "Number of Face Module Installation Holes": "0",
+        "Number of Access Controllers": "0",
+        "Card Swiping": "Yes",
+        "Standard Height of Barrier": "776.2 mm (30.56\")"
+      },
+      "Port": {
+        "Network Port": "One RJ–45"
+      },
+      "Capacity": {
+        "User Capacity": "100000",
+        "Card Capacity": "100000",
+        "Record Capacity": "100000"
+      },
+      "General": {
+        "Power Supply": "Left: 24 VDC 6 A",
+        "Vandal-proof Rating": "IK06, IK08",
+        "Protection": "IPX4",
+        "Power Consumption": "≤ 10 W (standby), ≤ 130 W (working)",
+        "Product Dimensions": "1,400 mm × 280 mm × 980 mm (55.12\" × 11.02\" × 38.58\") (L × W × H)",
+        "Module Protruding Size": "100 mm (3.94\")",
+        "Packaging Dimensions": "1,550 mm × 400 mm × 1,220 mm (61.02\" × 15.75\" × 48.03\") (L × W × H)",
+        "Gross Weight": "100 kg (220.47 lb)",
+        "Operating Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Operating Environment": "Indoor;Outdoor",
+        "Storage Humidity": "5%–90% (RH), non-condensing",
+        "Series": "ASGY5C Series",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Storage Temperature": "0 °C to +50 °C (+32 °F to +122 °F)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASGY5XXC-X_datasheet_20241212.pdf"
+      },
+      {
+        "name": "2025-07-10 #User Manual Flap Barrier_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008902/202501/Flap_Barrier_User_s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-03-22 #A&E Document ASGY5XXC-X_A&E_20260901195259 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82062/a_e_document/1788264059846.docx"
+      },
+      {
+        "name": "2024-01-31 #Drawings ASGY5XXC-X_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82062/drawings/ASGY5XXC-X_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-31 #Drawings ASGY5XXC-X_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82062/drawings/ASGY5XXC-X_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2025-09-25 #Firmware General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3396077/M/General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/flap-barrier/pro/asgy5xxc-x"
+  }
+}

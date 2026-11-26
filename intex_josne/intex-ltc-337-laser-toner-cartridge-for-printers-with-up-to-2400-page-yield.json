@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "8986288652506",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC 337 | Laser Toner Cartridge (up to 2400-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8986288652506",
+    "product_name": "Intex LTC 337 | Laser Toner Cartridge (up to 2400-page yield)",
+    "product_title": "Intex LTC 337 | Laser Toner Cartridge (up to 2400-page yield)",
+    "product_url": "https://www.intex.in/products/intex-ltc-337-laser-toner-cartridge-for-printers-with-up-to-2400-page-yield",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-337.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 999.0,
+      "display": "₹999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-ltc-337-laser-toner-cartridge-for-printers-with-up-to-2400-page-yield.html",
+  "detail": {
+    "title": "Intex LTC 337 | Laser Toner Cartridge (up to 2400-page yield)",
+    "model": "337-2400",
+    "brand": "Intex",
+    "overview": "Maximize your productivity with the Intex LTC 337 Laser Toner Cartridge. Engineered for high-volume printing, this toner offers up to 2400 pages of clear and crisp print output. It features a reliable drum unit and advanced toner composition to produce professional documents every time. Compatible with multiple Canon Image Class printer models, the LTC 337 ensures smooth and trouble-free operation for your everyday print tasks.",
+    "features": [
+      "Model: LTC 337",
+      "Type: Laser Toner Cartridge",
+      "Page Yield: Up to 2400 pages",
+      "High-Quality Drum for smooth operation",
+      "Superior Monochrome Print Quality",
+      "Compatible with various Canon Image Class printers"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-337.jpg",
+        "alt": "Intex LTC 337 | Laser Toner Cartridge (up to 2400-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: LTC 337",
+        "Feature 2": "Type: Laser Toner Cartridge",
+        "Feature 3": "Page Yield: Up to 2400 pages",
+        "Feature 4": "High-Quality Drum for smooth operation",
+        "Feature 5": "Superior Monochrome Print Quality",
+        "Feature 6": "Compatible with various Canon Image Class printers"
+      },
+      "General": {
+        "Model": "337-2400"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_CARTRIDGE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-ltc-337-laser-toner-cartridge-for-printers-with-up-to-2400-page-yield"
+  }
+}

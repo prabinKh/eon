@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "LED TV",
+    "category_url": "https://www.intex.in/collections/led-tv",
+    "subcategory": "32 Inch",
+    "subcategory_url": "https://www.intex.in/collections/32-inch",
+    "series": "32 inch LED TV",
+    "series_url": "https://www.intex.in/collections/32-inch-led-tv",
+    "tab_title": "32 Inch",
+    "tab_id": "8655131541722",
+    "breadcrumbs": [
+      "Home",
+      "LED TV",
+      "32 Inch",
+      "Intex 32\" HD Google TV | LED-GV3207"
+    ]
+  },
+  "card_info": {
+    "product_id": "8655131541722",
+    "product_name": "Intex 32\" HD Google TV | LED-GV3207",
+    "product_title": "Intex 32\" HD Google TV | LED-GV3207",
+    "product_url": "https://www.intex.in/products/1m-32-google-tv-led-gv3207",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-GV3207.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 23999.0,
+      "display": "₹23,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/1m-32-google-tv-led-gv3207.html",
+  "detail": {
+    "title": "Intex 32\" HD Google TV | LED-GV3207",
+    "model": "LED-GV3207",
+    "brand": "Intex",
+    "overview": "Experience cinematic entertainment in your living room with a 32-inch HD frameless screen. This Smart TV boasts a vibrant 16.7 million color display and wide color gamut for stunning visuals. Enjoy immersive audio with 24W of powerful sound and Dolby Digital technology. Chromecast built-in lets you stream your favorite content seamlessly, while hotkeys for Netflix, Prime Video, and YouTube provide quick access to popular apps.",
+    "features": [
+      "HD Display (1366 x 768 Resolution)",
+      "16.7 Million Vibrant Colors for Lifelike Images",
+      "Wide Colour Gamut for Richer and Better Detailed Viewing",
+      "24W Powerful Sound with Dolby Digital Technology",
+      "Chromecast Built-in: Effortlessly stream your favorite content",
+      "Hotkeys for Quick Access - Netflix, Prime Video, YouTube",
+      "Build Your Watchlist & Explore Endless Entertainment Options",
+      "Explore 10,000+ Apps from the Google Store"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-GV3207.jpg",
+        "alt": "Intex 32\" HD Google TV | LED-GV3207",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/GV3207-PDP-1.jpg",
+        "alt": "Intex 32\" HD Google TV | LED-GV3207",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/GV3207-PDP-2.jpg",
+        "alt": "Intex 32\" HD Google TV | LED-GV3207",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "HD Display (1366 x 768 Resolution)",
+        "Feature 2": "16.7 Million Vibrant Colors for Lifelike Images",
+        "Feature 3": "Wide Colour Gamut for Richer and Better Detailed Viewing",
+        "Feature 4": "24W Powerful Sound with Dolby Digital Technology",
+        "Feature 5": "Chromecast Built-in: Effortlessly stream your favorite content",
+        "Feature 6": "Hotkeys for Quick Access - Netflix, Prime Video, YouTube",
+        "Feature 7": "Build Your Watchlist & Explore Endless Entertainment Options",
+        "Feature 8": "Explore 10,000+ Apps from the Google Store"
+      },
+      "General": {
+        "Model": "LED-GV3207"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/LED-GV3207.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/1m-32-google-tv-led-gv3207"
+  }
+}

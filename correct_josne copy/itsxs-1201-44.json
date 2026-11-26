@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "97707",
+    "product_name": "ITSXS-1201-44",
+    "product_title": "Entrance and Exit LED Display",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/led-screens/itsxs-1201-44",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210817/DHI-ITSXS-1201-44_Image1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itsxs-1201-44.html",
+  "detail": {
+    "title": "Entrance and Exit LED Display",
+    "model": "ITSXS-1201-44",
+    "brand": "Dahua",
+    "overview": "Favourite ITSXS-1201-44 Entrance and Exit LED Display Key Points > Highlighted LED module displays in 64 × 64 lattice diagram (4.75 mm pixel pitch) with adjustable brightness > Supports voice broadcast > 3 built-in LED illuminators with adjustable brightness > Supports screen bad pixel (abnormal LED) detection > Supports online update of program and character library > Conforms to EMC CLASS A standards > Conforms to ROHS standards Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210817/DHI-ITSXS-1201-44_Image1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Basic": {
+        "Monitor": "LED (displays in red, green and yellow)",
+        "Dimensions": "304 mm × 304 mm (11.97\" × 11.97\") (L × W)",
+        "Display Content": "Displays license plate information, time, charge information, remaining parking space, custom information, etc.",
+        "Pixels Configuration": "1R1PG",
+        "Resolution": "4,096 dots (64 × 64); 4 lines; pixel pitch: 4.75 mm ( 0.19\")",
+        "Service Life": "100,000 hours",
+        "Screen Brightness": "1,500 cd/m2 (adjustable)",
+        "Number of LED": "3"
+      },
+      "Function": {
+        "Screen Bad Pixel Detection": "Yes",
+        "Audio": "Yes"
+      },
+      "External Port": {
+        "RS-485": "1",
+        "Audio Input": "1 channel"
+      },
+      "General": {
+        "Power Supply": "100 V–240 V AC",
+        "Power Consumption": "< 40 W",
+        "Operating Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)",
+        "Operating Humidity": "10%–90% (non-condensing)",
+        "IP Rating": "IP54",
+        "Product Dimensions": "364 mm × 484 mm × 60 mm (14.33\" × 19.06\" × 2.36\") (L × W × H)",
+        "Net Weight": "7 kg (15.43 lb)",
+        "Gross Weight": "8 kg (17.64 lb)",
+        "Installation": "Pole mount (bracket)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20210817/DHI-ITSXS-1201-44_datasheet_202103221.pdf"
+      },
+      {
+        "name": "2021-08-17 #User Manual Dahua-Entrance-and-Exit-LED-Screen_Users-Manual_V1.0.01 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20210817/Dahua-Entrance-and-Exit-LED-Screen_Users-Manual_V1.0.01.pdf"
+      },
+      {
+        "name": "2021-08-17 #Drawings DHI-ITSXS-1201-44_Installation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20210817/DHI-ITSXS-1201-44_Installation1.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/led-screens/itsxs-1201-44"
+  }
+}

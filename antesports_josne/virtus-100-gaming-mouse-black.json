@@ -1,0 +1,81 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "Virtus 100 Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923719459",
+    "product_name": "Virtus 100 Gaming Mouse - Black",
+    "product_title": "Virtus 100 Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/virtus-100-gaming-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_7da971cd-544d-4ea0-ac5e-eec7483a1c18.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/virtus-100-gaming-mouse-black.html",
+  "detail": {
+    "title": "Virtus 100 Gaming Mouse - Black",
+    "model": "AEPP0324",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Virtus 100 delivers ultra-smooth cursor control through a 7000 series optical sensor rated up to 12800 DPI, giving pixel-perfect accuracy ideal for FPS, MOBA and esports titles. Its 6D durable buttons are rated for 20 million clicks, while the 52g lightweight ergonomic shell keeps it fatigue-free through long gaming marathons or creative work sessions. Eleven vibrant RGB lighting effects are fully adjustable through dedicated software, letting you sync colours and animations to your gaming mood, and adjustable polling rates from 125Hz to 1000Hz ensure flawless, lag-free responsiveness via a 1.5m braided USB cable. A bundled USB to Type-C OTG adapter adds compatibility across PC, laptop and gaming consoles for an all-in-one gaming and everyday-use solution.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_7da971cd-544d-4ea0-ac5e-eec7483a1c18.jpg",
+        "alt": "Virtus 100 Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "Up to 12800",
+        "Sensor": "AI Optical, 7000 Series",
+        "Weight": "52g",
+        "Buttons": "6D, 20 Million Clicks",
+        "Lighting": "11 RGB Effects",
+        "Polling Rate": "125-1000Hz",
+        "Color": "Black",
+        "SENSOR": "AI Optical, 7000 Series",
+        "WEIGHT": "52g",
+        "BUTTONS": "6D, 20 Million Clicks",
+        "LIGHTING": "11 RGB Effects",
+        "POLLING RATE": "125-1000Hz",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹549.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0324"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (VIRTUS)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-Virtus-100.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/virtus-100-gaming-mouse-black"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Indoor Parking",
+    "tab_id": "18134",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Indoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "153352",
+    "product_name": "ITC514-PH6D-Q22-F36-POE",
+    "product_title": "Dahua 5MP Spot Detection Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/indoor-parking/itc514-series-spot-detection-camera/itc514-ph6d-q22-f36-poe",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15668/ProductImage/1_0_01_09_15668_798102384_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc514-ph6d-q22-f36-poe.html",
+  "detail": {
+    "title": "Dahua 5MP Spot Detection Camera",
+    "model": "ITC514-PH6D-Q22-F36-POE",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC514-PH6D-Q22-F36-POE Dahua 5MP Spot Detection Camera Key Points • High Sensitivity and Clarity: HD 5MP camera with 1/2.7\"\" CMOS, suitable for environment with low illumination • Advanced Multi-Spot Detection: 4 lenses provide 360° surround detection with up to 99.5% recognition accuracy. Supports two parking zones and two parking lanes, simultaneously detecting up to 12 parking spaces (6+6 standard spaces or 4+4 spaces with LPR), delivering comprehensive coverage and precise monitoring. • Smart Event Analysis: Intelligent detection of parking space status, such as illegal parking, smoke detection, line crossing detection and parking in restricted areas. • Easy deployment: Network wiring with easy connection, installation, and maintenance. • Robust Connectivity: 1 RS-485 for external indicators, 1 × RJ-45 Ethernet Port, H.264, H.265, and MJPEG flexible coding, PoE power supply and 12–48 VDC. • Built-in LED: 7 indicator lights colors, adjustable according to parking space type (charging spaces, handicapped spaces, etc.). Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15668/ProductImage/1_0_01_09_15668_798102384_thumb.PNG",
+        "alt": "ITC514-PH6D-Q22-F36-POE_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15668/ProductImage/1_0_01_09_15668_788201224_crop_thumb.PNG",
+        "alt": "ITC514-PH6D-Q22-F36-POE_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15668/ProductImage/1_0_01_09_15668_788201225_crop_thumb.PNG",
+        "alt": "ITC514-PH6D-Q22-F36-POE_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max.Detection Spot": "Parking space detection:12 Parking space detection+ License Plate recognition: 8",
+        "Indicator Light": "1, 7 customizable colors (red, yellow, blue, green, cyan, white, and pink)",
+        "Electronic Shutter Speed": "Auto/Manual 1/25 s–1/10,000 s",
+        "Pixel": "5 MP",
+        "Image Resolution": "2880 (H) × 1620 (V) (OSD black background is not calculated in the pixels)",
+        "Video Resolution": "5 MP (2880×1620); 1080p (1920 × 1080); 720p (1280 × 720)",
+        "Noise Reduction": "3D NR",
+        "WDR": "100 dB",
+        "White Balance": "Auto; Outdoor; Partial white balance; Manual; Natural; Street lamp",
+        "Video Compression": "H.265;H.264B;H.264M;H.264H;MJPEG",
+        "Image Encoding Format": "JPEG",
+        "Video Bit Rate": "H.264: 2,488 kbps–30,720 kbps; H.265: 2,488 kbps–30,720 kbps; MJPEG: 7,465 kbps–30,720 kbps",
+        "Video Frame Rate": "PAL: Main stream (1920 × 1080@25 fps, 1280 × 720@25 fps), sub stream (704 × 576@25 fps)",
+        "Edge Enhancement": "Yes",
+        "Exposure Mode": "Auto; Manual (Select from shutter values or customize shutter range)",
+        "Field of View": "Channel 1 (Parking Space): 3.6 mm Channel 2 (Lane): 3.6 mm Channel 3 (Parking Space): 3.6 mm Channel 4 (Lane): 3.6 mm: Channel 1 (Parking Space): H: 90.3°; V: 47.8°; D: 108.6°; Channel 2 (Lane): H: 90.3°; V: 47.8°; D: 108.6°; Channel 3 (Parking Space): H: 90.3°; V: 47.8°; D: 108.6°; Channel 4 (Lane): H: 90.3°; V: 47.8°; D: 108.6°",
+        "Lens Angle": "Vertical adjustable (depression angle of 43°–0°) Horizontal adjustable (from left 20° to right 20 °) 20° clockwise to 20° counterclockwise",
+        "DORI Distance": "Lens",
+        "Channel 1 (Parking Space): 3.6 mm Channel 2 (Lane): 3.6 mm Channel 3 (Parking Space): 3.6 mm Channel 4 (Lane): 3.6 mm": "78.0 m",
+        "Built-in Speaker": "Yes, built-in speaker"
+      },
+      "Function": {
+        "Security": "Username and password authorization; MAC address binding; HTTPS encryption; IEEE 802.1x; network access control",
+        "Shutter Mode": "Single shutter",
+        "OSD Overlay": "Time; address; parking space No.; parking space status; plate number; vehicle model; vehicle logo and color",
+        "Alarm Event": "Illegal access, security error and other events",
+        "Auto Registration": "Yes",
+        "Image Tampering Prevention": "Yes. Watermarks can be added to videos and images for verification.",
+        "Voice Broadcast": "Voice broadcast (adjustable volume and customizable content)",
+        "Network Protocol": "HTTP;HTTPS;TCP/IP;RTSP;NTP;DHCP",
+        "API": "Yes",
+        "SDK": "Yes",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T);CGI;ITSAPI"
+      },
+      "Intelligence": {
+        "Vehicle Recognition": "In the recommended installation and lighting condition, recognizes vehicle model, logo, color, and plate number, and collects metadata for unlicensed vehicles. Vehicle recognition rate is over 99.5%, and the recognition rate for European vehicle plates is over 98% .",
+        "Parking Spot Status Detection": "Yes, indicator color is customizable",
+        "Illegal Parking Detection": "Detects illegal parking events including vehicle occupying two parking spaces, non-allowlist vehicle occupying a parking space, small vehicle parked in a large vehicle's space and parking in a restricted area.",
+        "Non-motor Vehicle Detection": "Supports the detection of non-motor vehicle occupancy.",
+        "Capture Triggered by Unlicensed Vehicle": "Yes",
+        "Smoke and Fire Detection": "Supports fire and smoke detection.",
+        "Unauthorized Occupation": "Detects non-motor vehicles, traffic cones, shopping carts and no parking signs."
+      },
+      "Port": {
+        "RS-485": "1",
+        "Network Port": "1 × RJ-45 Ethernet port, 100/1000 Mbps network transmission",
+        "Power Output": "12 VDC ± 10% voltage output, ≤ 1 A current output"
+      },
+      "General": {
+        "Power Supply": "12–48 VDC; PoE+ (802.3at)",
+        "Power Consumption": "＜24 W",
+        "Operating Temperature": "–30 °C to +50 °C (–22 °F to +122 °F)",
+        "Storage Temperature": "–35 °C to +55 °C (–31 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Storage Humidity": "10%–95% (RH), non-condensing",
+        "Protection": "IP54",
+        "Anti-corrosion Level": "Basic Protection",
+        "Product Dimensions": "200.6 mm × 202.4 mm × 131.2 mm (7.90\" × 7.97\" × 5.17\") (L × W × H)",
+        "Packaging Dimensions": "250 mm × 250 mm × 200 mm (9.84\" × 9.84\" × 7.87\") (L × W × H)",
+        "Net Weight": "1.07 kg (2.36 lb)",
+        "Gross Weight": "1.83 kg (4.03 lb)",
+        "Installation": "Ceiling mount; bracket mount",
+        "Lens": "Included",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "Channel 1 (Parking Space): 3.6 mm Channel 2 (Lane): 3.6 mm Channel 3 (Parking Space): 3.6 mm Channel 4 (Lane): 3.6 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ITC514-PH6D-Q22-F36-POE_datasheet_20250605.pdf"
+      },
+      {
+        "name": "2025-06-17 #User Manual Parking Space Detection Camera_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010812/202506/Parking_Space_Detection_Camera_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-17 #User Manual Parking Space Detection Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84496/user_manual/Parking_Space_Detection_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-23 #A&E Document ITC514-PH6D-Q22-F36-POE_A&E_20260901201821 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84489/a_e_document/1788265291429.docx"
+      },
+      {
+        "name": "2025-05-08 #Drawings ITC514-PH6D-Q22-F36-POE_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84431/drawings/DHI-ITC514-PH6D-Q20-F28-POE_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-05-08 #Drawings ITC514-PH6D-Q22-F36-POE_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84424/drawings/DHI-ITC514-PH6D-Q22-F21-POE_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/indoor-parking/itc514-series-spot-detection-camera/itc514-ph6d-q22-f36-poe"
+  }
+}

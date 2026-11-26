@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Wireless Router",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/wireless-router",
+    "tab_title": "Wireless Router",
+    "tab_id": "16397",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Wireless Router",
+      "Wireless Router"
+    ]
+  },
+  "card_info": {
+    "product_id": "133667",
+    "product_name": "AX30",
+    "product_title": "AX3000 Wireless Router",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/routers/wirelessrouter/ax30",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240306/ax30_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/ax30.html",
+  "detail": {
+    "title": "AX3000 Wireless Router",
+    "model": "AX30",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240306/ax30_thumb.png",
+        "alt": "AX30",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/routers/wirelessrouter/ax30"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Cooper Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series",
+    "tab_title": "1080P",
+    "tab_id": "6422",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Cooper Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "43957",
+    "product_name": "HAC-D3A21-Z",
+    "product_title": "2MP HDCVI IR Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-d3a21-z",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200515/HAC-D3A21-Z_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-d3a21-z.html",
+  "detail": {
+    "title": "2MP HDCVI IR Dome Camera",
+    "model": "HAC-D3A21-Z",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-D3A21-Z 2MP HDCVI IR Dome Camera Key Points 1. Max 30fps@1080P 2. 2.7-12mm motorized lens 3. Max. IR length 30m, Smart IR Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200515/HAC-D3A21-Z_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7 inch CMOS",
+        "Effective Pixels": "1920(H)×1080(V), 2MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25s–1/100000s NTSC: 1/30s–1/100000s",
+        "S/N Ratio": ">65dB",
+        "Minimum Illumination": "0.04Lux/F1.7, 30IRE, 0Lux IR on",
+        "Fill Light Working Distance": "30 m (98.4 ft)",
+        "IR On/Off Control": "Auto; manual",
+        "IR LED Number": "2",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–355° Tilt: 0°–75° Rotation: 0°–355°"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Auto Focus": "N/A",
+        "Mount Type": "φ14",
+        "Focal Length": "2.7 mm-12 mm",
+        "Max. Aperture": "F1.7",
+        "Field of View": "Diagonal: 38°– 125° Horizontal: 33°–102° Vertical: 19°– 53°",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "1.2 m (3.9 ft)",
+        "2.7mm": "48.3m (158.5ft)"
+      },
+      "Video": {
+        "Frame Rate": "CVI: 1080P@25/30fps; 720P@25/30fps; 720P@50/60fps; AHD: 1080P@25/30fps; 720P@25/30fps; TVI: 1080P@25/30fps; 720P@25/30fps; 720P@50/60fps; CVBS: 960H",
+        "Resolution": "1080P (1920×1080); 720P (1280×720); 960H (960× 576/960×480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/HLC/DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto; manual",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR",
+        "Smart IR": "Yes",
+        "Electronic Defog": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032:2015, EN 61000-3-2:2014, EN 61000-3-3:2013, EN55024:2010+A1:2015, EN 55035:2017, EN50130-4:2011+A1:2014) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 5.28W (12V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "-30°C to +60°C (-22°F to 140°F);<95% (non-condensation)",
+        "Storage Temperature": "-30°C to +60°C (-22°F to 140°F);<95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Plastic throughout the whole casing",
+        "Camera Dimensions": "Φ122.0 mm × 98.1 mm (Φ4.80\" × 3.86\")",
+        "Net Weight": "0.34 kg (0.75 lb)",
+        "Gross Weight": "0.46 kg (1.01 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-D3A21-Z_datasheet_20200603.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Dome Camera Installation Guide V1.0.3-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/user_manual/HDCVI_Dome_Camera_Installation_Guide_V1.0.3-Eng.pdf"
+      },
+      {
+        "name": "2025-09-25 #Drawings HAC-D3A21-Z_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81985/drawings/IPC-HDPW1430R1-S5_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-05-06 #Drawings HAC-D3A21-Z_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/1617/drawings/HAC-D3A21-Z_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-d3a21-z"
+  }
+}

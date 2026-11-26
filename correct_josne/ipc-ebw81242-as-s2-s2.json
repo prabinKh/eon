@@ -1,0 +1,183 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind Panoramic Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series",
+    "tab_title": "Fisheye Series",
+    "tab_id": "8732",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind Panoramic Series",
+      "Fisheye Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "95287",
+    "product_name": "IPC-EBW81242-AS-S2",
+    "product_title": "12MP IR Fisheye WizMind Network CAMERA",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series/fisheye-series/ipc-ebw81242-as-s2=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_35894/ProductImage/1_0_01_04_35894_313735091_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-ebw81242-as-s2-s2.html",
+  "detail": {
+    "title": "12MP IR Fisheye WizMind Network CAMERA",
+    "model": "IPC-EBW81242-AS-S2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-EBW81242-AS-S2 12MP IR Fisheye WizMind Network CAMERA Key Points • Panoramic Fisheye View • Outputs Max. 12 MP (4000 × 3000)@25 fps • Supports Front-dewarp and Back-dewarp for Intuitive Viewing • Built-in IR LED, the Max. Illumination Distance is 10 m • Built-in Dual Mic & Speaker: Secure Real-Time Talk • IP67 and IK10 Ratings for Protection Against Harsh Environments • People Counting and Heat Map for Customer Traffic Analytics Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_35894/ProductImage/1_0_01_04_35894_313735091_crop_thumb.png",
+        "alt": "IPC-EBW81242-AS-S2_View_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_35894/ProductImage/1_0_01_04_35894_313625297_crop_thumb.png",
+        "alt": "IPC-EBW81242-AS-S2_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_35894/ProductImage/1_0_01_04_35894_313735090_crop_thumb.png",
+        "alt": "IPC-EBW81242-AS-S2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 192,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "Heat Map": {},
+      "IVS (Perimeter Protection)": {},
+      "People Counting": {},
+      "Smart Search": {},
+      "Installation": {},
+      "Decoding Mode": {},
+      "Display mode": {},
+      "Video Compression": {},
+      "Smart Codec": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Defog": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Security": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "ePoE": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/53497/datasheet/DH-IPC-EBW81242-AS-S2_S2_datasheet_20260522.pdf"
+      },
+      {
+        "name": "2026-01-25 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-25 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.9 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88308/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.9.pdf"
+      },
+      {
+        "name": "2026-01-25 #User Manual Fisheye Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14207/user_manual/Fisheye_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-01-25 #User Manual Dahua Panoramic Fisheye Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14207/user_manual/Dahua_Panoramic_Fisheye_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-04-14 #A&E Document IPC-EBW81242-AS-S2_A&E_20260917174634 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/53497/a_e_document/1789638748759.docx"
+      },
+      {
+        "name": "2021-07-22 #Drawings IPC-EBW81242-AS-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14207/drawings/IPC-EBW8842-AS_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-12 #Drawings IPC-EBW81242-AS-S2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14207/drawings/IPC-EBW8842-AS_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-02-26 #Firmware DH_IPC-HX8(7)XXX-FE-Darwin_MultiLang_PN_V3.000.0000000.17.R.250219 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14217/firmware/DH_IPC-HX8(7)XXX-FE-Darwin_MultiLang_PN_V3.000.0000000.17.R.250219.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series/fisheye-series/ipc-ebw81242-as-s2=s2"
+  }
+}

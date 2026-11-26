@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "PS400 Power Strip - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348821774627",
+    "product_name": "PS400 Power Strip - White",
+    "product_title": "PS400 Power Strip - White",
+    "product_url": "https://antesports.com/products/ps400-power-strip-4-socket-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/27_7e183750-a5e3-4469-97c1-1ce02b509fb9.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps400-power-strip-4-socket-white.html",
+  "detail": {
+    "title": "PS400 Power Strip - White",
+    "model": "AEPP0219",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS400 is a straightforward 4-socket power strip built to run multiple appliances at once, backed by a 2500W capacity that comfortably handles heavier home and office equipment. Its 3-metre heavy-duty cord is designed to stay tangle-free in daily use, with 1.25mm² pure copper wiring inside for reliable current carrying capacity. Intelligent chipsets provide over-voltage protection and a high-temperature fuse cuts power completely if things run too hot, while safety shutters and a grounded design protect users and connected devices alike. A dependable everyday extension cord for home or office appliances, backed by a 1-year pan-India warranty.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/27_7e183750-a5e3-4469-97c1-1ce02b509fb9.jpg",
+        "alt": "PS400 Power Strip - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Sockets": "4 Universal",
+        "Power Rating": "2500 Watt",
+        "Cord Length": "3 Meter",
+        "Material": "Fireproof",
+        "Protection": "Overload, Over-Voltage, Overheat",
+        "Color": "White",
+        "SOCKETS": "4 Universal",
+        "POWER RATING": "2500 Watt",
+        "CORD LENGTH": "3 Meter",
+        "MATERIAL": "Fireproof",
+        "PROTECTION": "Overload, Over-Voltage, Overheat",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹299.00",
+        "MRP (INR)": "₹1,199.00",
+        "SKU": "AEPP0219"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps400-power-strip-4-socket-white"
+  }
+}

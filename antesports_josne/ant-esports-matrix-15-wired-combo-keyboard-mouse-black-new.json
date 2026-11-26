@@ -1,0 +1,112 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Matrix 15 Wired Combo Keyboard & Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416043811",
+    "product_name": "Matrix 15 Wired Combo Keyboard & Mouse - Black",
+    "product_title": "Matrix 15 Wired Combo Keyboard & Mouse - Black",
+    "product_url": "https://antesports.com/products/ant-esports-matrix-15-wired-combo-keyboard-mouse-black-new",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_7740dd5d-de65-4f1e-adcf-60ddf5a70c2b.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-matrix-15-wired-combo-keyboard-mouse-black-new.html",
+  "detail": {
+    "title": "Matrix 15 Wired Combo Keyboard & Mouse - Black",
+    "model": "ANTR0137",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Matrix 15 Wired Combo Keyboard & Mouse - Black is a premium gaming keyboard and mouse combo designed to deliver excellent performance for gaming, work, and everyday use. Featuring Wired connectivity, Membrane keyboard switches, and a mouse with up to 1400 DPI, it ensures reliability, durability, and compatibility with modern systems. Whether you are upgrading your desk setup or building a new system, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers, students, and everyday users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_7740dd5d-de65-4f1e-adcf-60ddf5a70c2b.png",
+        "alt": "Matrix 15 Wired Combo Keyboard & Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_3ad51555-759e-42f8-a195-5d18ceb3b0ba.png",
+        "alt": "Matrix 15 Wired Combo Keyboard & Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_bfa11fa5-2093-415f-8bea-4e5a8ca98a62.png",
+        "alt": "Matrix 15 Wired Combo Keyboard & Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_f7c8dafa-65a3-4749-87fc-51248d8c271f.png",
+        "alt": "Matrix 15 Wired Combo Keyboard & Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_7fb5b030-5ae0-4d4a-b699-bf9cd88313a4.png",
+        "alt": "Matrix 15 Wired Combo Keyboard & Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Keyboard Size": "Full Size",
+        "No of Keys in Keyboard": "104",
+        "Keyboard Switch Type": "Membrane",
+        "Mouse Shape": "Right-Handed",
+        "Mouse Buttons": "7",
+        "Connectivity": "Wired",
+        "Mouse DPI": "3600",
+        "Mouse Tracking": "28 IPS",
+        "Lighting Type": "Multi-Colour",
+        "Connector Type": "USB-A",
+        "Compatibility": "Windows, Linux, Mac",
+        "Switch Lifetime": "5M Clicks (Mouse), 10M Clicks (Keyboard)",
+        "KEYBOARD SIZE": "Full Size",
+        "NO OF KEYS IN KEYBOARD": "104",
+        "KEYBOARD SWITCH TYPE": "Membrane",
+        "MOUSE SHAPE": "Right-Handed",
+        "MOUSE BUTTONS": "7",
+        "CONNECTIVITY": "Wired",
+        "MOUSE DPI": "3600",
+        "MOUSE TRACKING": "28 IPS",
+        "LIGHTING TYPE": "Multi-Colour",
+        "CONNECTOR TYPE": "USB-A",
+        "COMPATIBILITY": "Windows, Linux, Mac",
+        "SWITCH LIFETIME": "5M Clicks (Mouse), 10M Clicks (Keyboard)",
+        "Offer Price (INR)": "₹699.00",
+        "MRP (INR)": "₹899.00",
+        "SKU": "ANTR0137"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-matrix-15-wired-combo-keyboard-mouse-black-new"
+  }
+}

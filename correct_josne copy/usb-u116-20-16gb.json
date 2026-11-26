@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "U116",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u116",
+    "tab_title": "U116",
+    "tab_id": "12027",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "U116",
+      "U116"
+    ]
+  },
+  "card_info": {
+    "product_id": "61347",
+    "product_name": "USB-U116-20-16GB",
+    "product_title": "USB Flash Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u116/usb-u116-20-16gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210220/USB1162_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-u116-20-16gb.html",
+  "detail": {
+    "title": "USB Flash Drive",
+    "model": "USB-U116-20-16GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-U116-20-16GB USB Flash Drive Key Points · Compact and portable. · Rotating design protection interface. · Multiple choices with various capacities. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210220/USB1162_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-USB-U116-20-8GB",
+        "Interface": "USB2.0",
+        "Capacity": "8 GB",
+        "Read Speed": "10–25 MB/s",
+        "Write Speed": "3–10 MB/s",
+        "File System": "FAT32",
+        "Operating Temperature": "0°C to 60°C (32°F to 140°F)",
+        "Storage Temperature": "­-20°C to 70°C (-4°F to 158°F)",
+        "Compatible System": "Windows 7/8/10; macOS10.15 and later versions; Linux 2.4.x and later versions",
+        "Max Operating Voltage": "5V",
+        "Max Operating Current": "150mA",
+        "Warranty": "5-year limited warranty",
+        "Product Dimensions": "58.3 mm × 19.6 mm × 10.8 mm (2.30\" × 0.77\" × 0.43\")",
+        "Packaging Dimensions": "100 mm × 132 mm × 12 mm (3.94\" × 5.20\" × 0.47\")",
+        "Net Weight": "About 23 g",
+        "Gross Weight": "About 33 g",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not all for data storage. According to internal testing, the transmission speed varies with the devices, ports, environments, and other factors."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/USB-U116-20-16GB_datasheet_20200826.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u116/usb-u116-20-16gb"
+  }
+}

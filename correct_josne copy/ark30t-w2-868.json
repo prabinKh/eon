@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "105157",
+    "product_name": "ARK30T-W2(868)",
+    "product_title": "Wireless Keypad",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ark30t-w2(868)",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220406/ark11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ark30t-w2-868.html",
+  "detail": {
+    "title": "Wireless Keypad",
+    "model": "ARK30T-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARK30T-W2(868) Wireless Keypad Key Points · Supports arming/disarming with a password or IC card. Supports multiple users, allowing each one to access the alarm security system with their own private passcode. · Supports 3 shortcut alarms: Medical, fire, and emergency. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220406/ark11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220406/ark21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220406/ark31_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Function": {
+        "Indicator Light": "4 indicators (communication, arm/disarm, fault, and alarm)",
+        "Button": "15 buttons (0–9, *, #, arm, disarm, and home arm)",
+        "Buzzer": "1 × built-in buzzer",
+        "Arm and Disarm": "Password; IC card",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Yes",
+        "Measuring Range (Temperature)": "–15 °C to +65 °C (+5 °F to +149 °F) (indoor)",
+        "Measuring Accuracy": "1 °C (33.8 °F)",
+        "User Management": "32 users"
+      },
+      "Wireless": {
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 25 mW",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "Up to 1,600 m (5,249.34 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "4 × AA batteries",
+        "Battery Life": "3 years (if the device is used to arm and disarm once a day). After enabling Entering/Exiting Delay Time and Arming/Disarming Ringtone function: 2 years (if the devices is used to arm and disarm once day).",
+        "Power Consumption": "Max. 2.3 W",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "146.0 mm × 82.0 mm × 22.6 mm (5.75\" × 3.23\" × 0.89\")",
+        "Packaging Dimensions": "180.0 mm × 104.0 mm × 58.0 mm (7.07\" × 4.09\" × 2.28\")",
+        "Net Weight": "240 g (0.529 lb) (with battery) 145 g (0.32 lb) (without battery)",
+        "Gross Weight": "370 g (0.816 lb)",
+        "Installation": "Wall mount",
+        "Casing Material": "PC + ABS",
+        "Certifications": "CE EN 50131-1:2006+A1:2009+A2:2017+A3:2020 EN 50131-3:2009 EN 50131-6:2017 EN 50131-5-3:2017 Security Grade 2 Environmental Class II"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARK30T-W2(868)_datasheet_20240629.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Dahua Wireless Keypad_User's Manual_V1.2.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44317/user_manual/Dahua_Wireless_Keypad_User_s_Manual_V1.2.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Wireless Keypad_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44317/user_manual/Wireless_Keypad_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-04-01 #Drawings ARK30T-W2(868)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44317/drawings/ARK30T-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-04-01 #Drawings ARK30T-W2(868)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44327/drawings/ARK30T-W2(868)_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2022-04-01 #Drawings ARK30T-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44317/drawings/ARK30T-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-03-02 #Firmware General_ARK30T-W2_868_MCU_V1.002.0000006.0.R.20260130 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44327/firmware/General_ARK30T-W2_868_MCU_V1.002.0000006.0.R.20260130.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ark30t-w2(868)"
+  }
+}

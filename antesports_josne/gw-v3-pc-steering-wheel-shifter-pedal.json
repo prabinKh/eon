@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Racing Wheels",
+    "subcategory_url": "https://antesports.com/collections/wheels",
+    "series": "Racing Wheels Series",
+    "series_url": "https://antesports.com/collections/wheels",
+    "tab_title": "Racing Wheels",
+    "tab_id": "508173680931",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Racing Wheels",
+      "GW V3 270° Steering Wheel with Shifter & Pedal"
+    ]
+  },
+  "card_info": {
+    "product_id": "10342319816995",
+    "product_name": "GW V3 270° Steering Wheel with Shifter & Pedal",
+    "product_title": "GW V3 270° Steering Wheel with Shifter & Pedal",
+    "product_url": "https://antesports.com/products/gw-v3-pc-steering-wheel-shifter-pedal",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18_d62616d1-49ea-419d-b491-cbb5697b7e56.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gw-v3-pc-steering-wheel-shifter-pedal.html",
+  "detail": {
+    "title": "GW V3 270° Steering Wheel with Shifter & Pedal",
+    "model": "AEPP0221",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GW V3 is a 270-degree rotation steering wheel built for PC, Xbox One and Xbox Series X|S, pairing a dual-motor vibration system with a responsive gear shifter and ergonomically designed pedal set. The dual-motor drive delivers haptic feedback synced to in-game action, while adjustable sensitivity and programmable buttons let you tune the wheel to match different racing titles. The pedal set adds progressive resistance braking and an adjustable tilt angle, so you feel every throttle and brake input with more precision than a standard controller. Lightweight and compact, it sets up easily on a desktop or across the knees, making it a practical entry point into sim racing on PC and Xbox platforms.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18_d62616d1-49ea-419d-b491-cbb5697b7e56.png",
+        "alt": "GW V3 270° Steering Wheel with Shifter & Pedal - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Rotation": "270 Degrees",
+        "Vibration": "Dual Motor Feedback",
+        "Included": "Steering Wheel, Gear Shifter, Pedal Set",
+        "Sensitivity": "Adjustable, Programmable Buttons",
+        "Connectivity": "USB Wired",
+        "ROTATION": "270 Degrees",
+        "VIBRATION": "Dual Motor Feedback",
+        "INCLUDED": "Steering Wheel, Gear Shifter, Pedal Set",
+        "SENSITIVITY": "Adjustable, Programmable Buttons",
+        "COMPATIBILITY": "PC, Xbox One, Xbox Series X",
+        "CONNECTIVITY": "USB Wired",
+        "Offer Price (INR)": "₹5,999.00",
+        "MRP (INR)": "₹11,999.00",
+        "SKU": "AEPP0221"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gw-v3-pc-steering-wheel-shifter-pedal"
+  }
+}

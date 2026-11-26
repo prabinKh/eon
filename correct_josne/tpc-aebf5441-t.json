@@ -1,0 +1,189 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Thermal Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/thermal-series",
+    "tab_title": "Thermal Series",
+    "tab_id": "118241",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Thermal Series",
+      "Thermal Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "125307",
+    "product_name": "TPC-AEBF5441-T",
+    "product_title": "Thermal Network Explosion-proof Hybrid Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/thermal-series/tpc-aebf5441-t",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230307/TPC-AEBF5441-T_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/tpc-aebf5441-t.html",
+  "detail": {
+    "title": "Thermal Network Explosion-proof Hybrid Bullet Camera",
+    "model": "TPC-AEBF5441-T",
+    "brand": "Dahua",
+    "overview": "Favourite TPC-AEBF5441-T Thermal Network Explosion-proof Hybrid Bullet Camera Key Points • Thermal and Visible Dual Channels for 7×24h Monitoring • 4MP High Resolution and IR Distance Up to 30m • Built-in White Light Alarm • Wide Temperature Measurement Range of –20 °C to +550 °C by Max. (±2 °C, ±2%) Accuracy • Rugged Structure in SUS304/316L Stainless Steel • Explosion-proof Design with ATEX/IECEx Certification Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230307/TPC-AEBF5441-T_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230307/TPC-AEBF5441-T_2_thumb.png",
+        "alt": "TPC-AEBF5441-T",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "General": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "400 (H) × 300 (V)",
+        "Pixel Pitch": "17 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Sensitivity (NETD)": "≤40 mK (@f/1.0)",
+        "Focal Length": "Detection Distance①",
+        "Field of View": "4 mm: H: 90.1°; V: 48.2 6 mm: H: 56°; V: 30° 8 mm: H: 41.3°; V: 23.1°",
+        "Thermal Focus Control": "Fixed-focal",
+        "Close Focus Distance": "4 mm: 1.5 m (4.92 ft) 6 mm: 3 m (9.84 ft) 8 mm: 4.4 m (14.44 ft)",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Digital Zoom": "19 levels",
+        "Thermal AGC": "Auto/Manual",
+        "Thermal Noise Reduction": "2D NR/3D NR",
+        "Image Flip": "180°; mirror; rotation mode",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)",
+        "Temperature Measurement Range": "Low temperature mode: –20 °C (–4 °F) to +150 °C (+302 °F) High temperature mode: +100 °C (+212 °F) to +550 °C (+1022 °F) Auto mode",
+        "Temperature Measurement Accuracy": "Max. (±2 °C, ±2%) Operating temperature: –20 °C (–4 °F) to +50 °C (+122°F)",
+        "Temperature Measurement Mode": "Spot: 12 Line: 12 Area: 12 Support 12 rules simultaneously",
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "Pixel": "4 MP",
+        "Horizontal Definition": "≥1100 TVL",
+        "Min. Illumination": "Color: 0.01 lux Black & white: 0.001 lux 0 lux (white light on)",
+        "Visible AGC": "Auto/Manual",
+        "Visible Noise Reduction": "2D NR/3D NR",
+        "S/N Ratio": ">55 dB",
+        "White Balance": "Auto; manual; indoor; outdoor; tracking; sodium lamp; street lamp; natural",
+        "Defog": "Electronic defog",
+        "Electronic Shutter Speed": "1 s–1/30,000 s (auto/manual)",
+        "BLC": "Yes",
+        "WDR": "Yes",
+        "HLC": "Yes",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "Iris Control": "Fixed",
+        "Exposure Compensation": "Yes",
+        "Visible Focus Control": "Fixed-focal",
+        "Aperture": "F2.0",
+        "Illuminator On/Off Control": "Auto; manual",
+        "Illumination Distance": "30 m (98.43 ft)",
+        "Video Compression": "H.265; H.264M; H.264H; H.264B",
+        "Resolution": "Thermal: Main stream: 1280 × 1024; 1280 × 960; 1280 × 720; 400 × 300; 1280 × 960 (default); Sub stream: 640 × 512; 640 × 480; 400 × 300; 400 × 300 (default) Visible: Main stream: 2688 × 1520; 1920 × 1080; 1280 × 720; 704 × 576; 2688 × 1520 (default); Sub stream: 704 × 576; 352 × 288; 704 × 576 (default)",
+        "Video Frame Rate": "Thermal (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Visible (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Thermal (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default Sub stream: 1 fps–30 fps, 15 fps by default Visible (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default Sub stream: 1 fps–30 fps, 15 fps by default",
+        "Audio Compression": "PCM; G.711a; G.711mu; AAC",
+        "Image Encoding Format": "JPEG",
+        "Two-way Audio": "Yes",
+        "Light Alarm": "Local audio and white light alarm prompts",
+        "Network Protocol": "IPv4/IPv6; HTTP; HTTPS; 802.1x; QoS; FTP; SMTP; UPnP; SNMP; DNS; DDNS; NTP; RTSP; RTP; TCP; UDP; IGMP; ICMP; DHCP; PPPoE",
+        "Storage": "FTP; Micro SD card (optional)",
+        "Micro SD Card (Max.)": "512 GB",
+        "Interoperability": "ONVIF; CGI",
+        "Browser": "IE; Firefox; Chrome",
+        "User/Host": "Up to 12 (total bandwidth: 64 MB)",
+        "Security": "Authorized username and password; attached MAC address; encrypted HTTPS; IEEE 802.1x; controlled network access",
+        "User Management": "Up to 20 users; supports multi-level user permissions (2 levels): management group and user group",
+        "Malfunction Detection": "Network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Fusion Mode": "Yes. Disabled by default.",
+        "PIP": "Yes",
+        "Cold/Hot Spot Trace": "Yes",
+        "Perimeter Protection": "Yes. Supports tripwire and intrusion.",
+        "Target Distinction": "Human/Vehicle Classification",
+        "Network Port": "1 × RJ-45 (10/100 Base-T)",
+        "Alarm Input": "2",
+        "Alarm Output": "2",
+        "Audio Input": "1",
+        "Audio Output": "1",
+        "RS-485": "1",
+        "Power Supply": "12 VDC ± 20%, PoE (802.3af)",
+        "Power Consumption": "Basic: 5 W Max: 10 W",
+        "ePoE": "Yes",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Protection": "IP68",
+        "Reliability": "Surge protection: 6 kV Air discharge of 15 kV Contact discharge of 8 kV",
+        "Product Dimensions": "248 mm × 149 mm × 155.7 mm (9.76\" × 5.87\" × 6.13\") (L × W × H)",
+        "Packaging Dimensions": "Package: 330 mm × 256 mm × 256 mm (12.99\" × 10.08\" × 10.08\") (L × W × H) Protection box: 535 mm ×535 mm ×360 mm (21.06\" ×21.06\" × 14.17\") (L × W × H)",
+        "Net Weight": "≤5.8 kg (12.79 lb)",
+        "Gross Weight": "≤6.8 kg (14.99 lb)",
+        "Certifications": "CE",
+        "Explosion-proof certification": "ATEX, IECEx: II 2G Ex db IIC T6 Gb/II 2D Ex tb IIIC T80 °C Db",
+        "9 mm": "Vehicle: 812 m (2,664.04 ft); Human: 265 m (869.42 ft)",
+        "13 mm": "Vehicle: 1,173 m (3,848.43 ft); Human: 382 m (1,253.28 ft)",
+        "25 mm": "Vehicle: 2,255 m (7,398.29 ft); Human: 735 m (2,411.42 ft)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/TPC-AEBF5441-T_datasheet_20250421.pdf"
+      },
+      {
+        "name": "2026-01-15 #User Manual Thermal Network Bullet Camera_Web3.0 Operation Manual_V2.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14517/user_manual/Thermal_Network_Bullet_Camera_Web3.0_Operation_Manual_V2.0.5.pdf"
+      },
+      {
+        "name": "2026-01-15 #User Manual Thermal Explosion-proof Bullet Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65867/user_manual/Thermal_Explosion-proof_Bullet_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-12-05 #A&E Document TPC-AEBF5441-T_A&E_20260413212155 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65867/a_e_document/1779453805289.docx"
+      },
+      {
+        "name": "2022-11-25 #Drawings TPC-AEBF5441-T_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65867/drawings/TPC-AEBF5441-T_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-11-25 #Drawings TPC-AEBF5441-T_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65867/drawings/TPC-AEBF5441-T_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-03-20 #Firmware General_TPC-NYX5400-BCYA_V1.000.0000000.0.R.20230228 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2109091/M/General_TPC-NYX5400-BCYA_V1.000.0000000.0.R.20230228.zip"
+      },
+      {
+        "name": "2022-11-05 #Firmware General_TPC-NYX5400-BWYB_V1.000.0000000.2.R.20220830 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/1915037/M/General_TPC-NYX5400-BWYB_V1.000.0000000.2.R.20220830.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/thermal-series/tpc-aebf5441-t"
+  }
+}

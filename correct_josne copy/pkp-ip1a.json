@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "Pencil",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/pencil",
+    "tab_title": "Pencil",
+    "tab_id": "13447",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "Pencil",
+      "Pencil"
+    ]
+  },
+  "card_info": {
+    "product_id": "152387",
+    "product_name": "PKP-IP1A",
+    "product_title": "Smart Pen",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/pencil/pkp-ip1a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10867/ProductImage/1_9_10_01_10867_531730472_thumb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkp-ip1a.html",
+  "detail": {
+    "title": "Smart Pen",
+    "model": "PKP-IP1A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKP-IP1A Smart Pen Key Points • 2.4 GHz Wireless Technology • Long Communication Range of 15 m • Recognition of Pressure Sensing, Up to 4,096 Levels • Zoom, Laser, and Spotlight Support • Paging Up and Down Smoothly • Multiple Colors for Writing and Text Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10867/ProductImage/1_9_10_01_10867_531730472_thumb.jpg",
+        "alt": "PKP-IP1A_Rendergraph_45Left-logo.jpg",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10867/ProductImage/1_9_10_01_10867_531730471_crop_thumb.png",
+        "alt": "PKP-IP1A_Rendergraph_Front-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10867/ProductImage/1_9_10_01_10867_531730470_crop_thumb.png",
+        "alt": "PKP-IP1A_Rendergraph_Top-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Stylus": {
+        "Pen Point": "1.6 mm (0.06\")",
+        "Data Transmission Party": "2.4 GHz RF wireless technology",
+        "Port": "Charges by contact and through the Type C port",
+        "Built-in Battery": "Built-in 150 mAh lithium battery",
+        "Operating Current": "Around 10 mA",
+        "Transmission Rate": "250 Kbps",
+        "Receiver Sensitivity": "5 dBm to –40 dBm",
+        "Communication Distance": "The communication range reaches up to 15 m.",
+        "Wireless Standard": "Private Protocol 2.4G",
+        "Wireless Frequency Range": "2402–2480 MHz",
+        "MAX Transmission Power (Wireless)": "5 dBm"
+      },
+      "Receiver": {
+        "Supported Operating Systems": "Android, WIN10 and later systems",
+        "Port": "Comes with a USB 2.0 port, and is compatible with USB 1.1 ports and USB 3.0 ports.",
+        "Operating Voltage": "USB bus power supply (3.3V–4.2V)"
+      },
+      "General": {
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Product Dimensions": "185 mm × 20 mm × 20.2 mm (7.28\" × 0.79\" × 0.80\")",
+        "Packaging Dimensions": "189 mm × 64 mm × 13 mm (7.44\" × 2.52\" × 0.51\")",
+        "Net Weight": "45 g (0.10 lb)",
+        "Gross Weight": "119 g (0.26 lb)",
+        "Packing List": "Smart pen × 1; Charging pen post × 1; Charging cable × 1; User's manual × 1;"
+      },
+      "Certifications": {
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/PKP-IP1A_datasheet_20240729.pdf"
+      },
+      {
+        "name": "2025-10-14 #User Manual Smart Pen_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010205/202508/Smart_Pen_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-11-30 #Drawings PKP-IP1A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82976/drawings/DHI-PKP-IP1A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/pencil/pkp-ip1a"
+  }
+}

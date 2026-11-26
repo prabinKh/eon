@@ -1,0 +1,185 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "109607",
+    "product_name": "ASI3223A",
+    "product_title": "Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi3223a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220627/dhi1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi3223a.html",
+  "detail": {
+    "title": "Face Recognition Access Controller",
+    "model": "ASI3223A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI3223A Face Recognition Access Controller Key Points • Visible Light Facial Recognition and Liveness Detection • 3,000 Faces and 1,000 Passwords • 2-MP CMOS Dual-lens Camera, DWDR • 4.3-inch Touch Screen with Resolution of 480 × 272 • Face Recognition Duration< 0.2s/person, Accuracy rate ≥ 99.9% • Supports Video Intercom and Time Attendance • Easy Configuration via PC and Mobile Web Client Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/dhi1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/dhi4_thumb.png",
+        "alt": "ASI3223A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/dhi3_thumb.png",
+        "alt": "ASI3223A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/dhi2_thumb.png",
+        "alt": "ASI3223A",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Network Protocol": "IPv4;RTSP;RTP;TCP;UDP;SIP;P2P",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF;CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "4.3\" LCD",
+        "Screen Type": "Capacitive Touchscreen",
+        "Screen Resolution": "480 (H) × 272 (V)",
+        "Camera": "2-MP CMOS HD dual-lens camera",
+        "WDR": "DWDR",
+        "Light Compensation": "Auto IR",
+        "Voice Prompt": "Yes",
+        "Casing": "PC + ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Password, remote, face and combination unlock",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Peripheral Card Reader": "1 × RS–485 card reader; 1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Real-time Monitoring": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "Performance": {
+        "Face Recognition Height Range": "1.1 m– 2.0 m (3.61 ft–6.56 ft)",
+        "Face Recognition Distance": "0.3 m–1.5 m (0.98 ft–4.92 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s",
+        "Read Speed (QR Code )": "500 ms",
+        "Code Type": "Paper; Electronic"
+      },
+      "User": {
+        "User (Card) Type": "Normal user; VIP users; patrol users; guest user; blocklist user; other user"
+      },
+      "Capacity": {
+        "User Capacity": "2,000",
+        "Face Image Capacity": "2,000",
+        "Password Capacity": "2,000",
+        "Record Capacity": "300,000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1",
+        "USB": "1 × USB 2.0",
+        "Network Port": "1 × RJ-45 10/100 Mbps self-adaptive Ethernet port",
+        "Exit Button": "1",
+        "Lock Control": "1",
+        "Door Status Detection": "1"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Standard",
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "≤18 W",
+        "Product Dimensions": "115.0 mm × 118.0 mm × 27.1 mm (4.53\" × 4.65\" × 1.07\") (H × W × W)",
+        "Packaging Dimensions": "190 mm × 179 mm × 127 mm (7.48\" × 4.65\" × 5.00\") (L × W × H, protection box)",
+        "Operating Temperature": "–10 °C to +40 °C (+14 °F to +104 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Net Weight": "250 g (0.55 lb)",
+        "Gross Weight": "400 g (0.88 lb)",
+        "Accessory": "Wall mount bracket (included)",
+        "Installation": "Wall; 86 case mount; Desk Mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASI3223A_datasheet_20220517.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller Web 5.0_User Manual_V1.5.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88278/user_manual/Face_Recognition_Access_Controller_Web_5.0_User_Manual_V1.5.0.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88263/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-10 #Drawings ASI3223A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88263/drawings/1_0_01_25_12795_980770501.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI3223A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88263/drawings/1_0_01_25_12795_832942768.pdf"
+      },
+      {
+        "name": "2026-09-18 #Firmware DH_ASIX2XX-C-H-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47567/firmware/DH_ASIX2XX-C-H-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi3223a"
+  }
+}

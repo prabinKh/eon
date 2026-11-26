@@ -1,0 +1,162 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "5MP",
+    "tab_id": "9462",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "153472",
+    "product_name": "HAC-HDW1500TLM-A",
+    "product_title": "5MP IR HDCVI Fixed-focal Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/5mp/starlight/hac-hdw1500tlm-a=s3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27329/ProductImage/1_0_01_12_27329_110811713_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw1500tlm-a-s3.html",
+  "detail": {
+    "title": "5MP IR HDCVI Fixed-focal Eyeball Camera",
+    "model": "HAC-HDW1500TLM-A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW1500TLM-A 5MP IR HDCVI Fixed-focal Eyeball Camera Key Points 1. High Performance - New ISP brings high performance image 2. High Usability - Standard-equipped with DIP switch 3. High Compatability - Compatible with TVI audio, smart hybrid light and 3K 4. High Frame Rate - 5MP@25fps output provides a smoother visual experience 5. High Definition - Real 5MP 16:9 output brings more image details Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27329/ProductImage/1_0_01_12_27329_110811713_thumb.png",
+        "alt": "HAC-HDW1500TLM-A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27329/ProductImage/1_0_01_12_27329_2074187616_crop_thumb.png",
+        "alt": "HAC-HDW1500TLM-A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27329/ProductImage/1_0_01_12_27329_110811714_thumb.png",
+        "alt": "HAC-HDW1500TLM-A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27329/ProductImage/1_0_01_12_27329_2074187614_crop_thumb.png",
+        "alt": "HAC-HDW1500TLM-A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "59.8 m( 196.19 ft)",
+        "3.6 mm": "77 m( 252.62 ft)"
+      },
+      "*DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {
+        "Lens": "Detect",
+        "2.8 mm": "59.8 m( 196.19 ft)",
+        "3.6 mm": "77 m( 252.62 ft)"
+      },
+      "Video Frame Rate": {},
+      "Resolution": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Illumination Mode": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Certifications": {},
+      "Built-in Mic": {},
+      "Camera Audio": {},
+      "Pick-up Distance": {},
+      "Video Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84452/datasheet/DH-HAC-HDW1500TLM-A_S3_datasheet_20251121.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-05-22 #Drawings HAC-HDW1500TLM-A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84452/drawings/HAC-HDW1500TLM-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-05-22 #Drawings HAC-HDW1500TLM-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84299/drawings/HAC-HDW1801TLM-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/5mp/starlight/hac-hdw1500tlm-a=s3"
+  }
+}

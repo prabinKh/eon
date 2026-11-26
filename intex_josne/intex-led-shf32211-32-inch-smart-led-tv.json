@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "LED TV",
+    "category_url": "https://www.intex.in/collections/led-tv",
+    "subcategory": "FHD Smart TV",
+    "subcategory_url": "https://www.intex.in/collections/fhd-smart-tv",
+    "series": "HD Smart TV",
+    "series_url": "https://www.intex.in/collections/hd-smart-tv",
+    "tab_title": "FHD Smart TV",
+    "tab_id": "9152526647514",
+    "breadcrumbs": [
+      "Home",
+      "LED TV",
+      "FHD Smart TV",
+      "Intex LED-SHF32211 (32-Inch) Smart LED TV"
+    ]
+  },
+  "card_info": {
+    "product_id": "9152526647514",
+    "product_name": "Intex LED-SHF32211 (32-Inch) Smart LED TV",
+    "product_title": "Intex LED-SHF32211 (32-Inch) Smart LED TV",
+    "product_url": "https://www.intex.in/products/intex-led-shf32211-32-inch-smart-led-tv",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3211.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 21999.0,
+      "display": "₹21,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-led-shf32211-32-inch-smart-led-tv.html",
+  "detail": {
+    "title": "Intex LED-SHF32211 (32-Inch) Smart LED TV",
+    "model": "Intex LED-SHF32211",
+    "brand": "Intex",
+    "overview": "Upgrade your home entertainment with the Intex LED-SHF32211 Smart LED TV, designed to deliver immersive visuals, powerful sound, and smart connectivity. With a sleek design and advanced display technology, this TV offers crystal-clear picture quality and a smooth viewing experience for movies, sports, and gaming. Built for modern homes, it supports multiple connectivity options and smart features that make entertainment effortless and enjoyable.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3211.jpg",
+        "alt": "Intex LED-SHF32211 (32-Inch) Smart LED TV",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Model Name": "Intex LED-SHF32211",
+        "Screen Size": "32 Inch",
+        "Display Type": "LED",
+        "Resolution": "HD Ready (1366 x 768)",
+        "Aspect Ratio": "16:9",
+        "Audio Output": "20W Powerful Speakers",
+        "Smart TV": "Yes",
+        "Operating System": "Smart TV Platform",
+        "Pre-installed Apps": "YouTube, Netflix, Prime Video (availability may vary)",
+        "Screen Mirroring": "Yes",
+        "HDMI Ports": "2",
+        "USB Ports": "2",
+        "Wi-Fi": "Yes",
+        "Bluetooth": "Yes",
+        "AV Input": "Yes",
+        "Power Requirement": "AC 100–240V, 50/60Hz",
+        "Color": "Black",
+        "Wall Mountable": "Yes",
+        "Warranty": "1 Year Manufacturer Warranty",
+        "Model": "Intex LED-SHF32211"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_LED-SHF32211_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-led-shf32211-32-inch-smart-led-tv"
+  }
+}

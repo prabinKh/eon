@@ -1,0 +1,106 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-F59B"
+    ]
+  },
+  "card_info": {
+    "product_id": "2257",
+    "product_name": "CP-F59B",
+    "product_title": "CP-F59B",
+    "product_url": "https://cpplusworld.com/cp-f59b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/2e3e5761-73f9-494d-8cc9-32eb2a26f65d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-f59b.html",
+  "detail": {
+    "title": "CP-F59B",
+    "model": "CP-F59B",
+    "brand": "CP Plus",
+    "overview": "CarKam 5MP with Rear Camera",
+    "features": [
+      "5MP Resolution",
+      "Support SD Card upto 1TB (Class 10 U3)",
+      "Sony Starvis 2",
+      "G-Sensor (Emergency Recording)",
+      "Time Lapse*",
+      "24/7 Parking Monitoring*",
+      "Built-in GPS",
+      "Built-in Display"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2e3e5761-73f9-494d-8cc9-32eb2a26f65d.png",
+        "alt": "CP-F59B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2ab43667-edac-419f-84ad-b3dd870fabbf.png",
+        "alt": "CP-F59B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "Front Camera: H=105°, D=123°, V=56° <br/>Rear Camera: H=102°, D=124°, V=53°",
+        "Image Sensor": "Front Camera: 1/2.8” Image sensor (0.9071 centimeters)  , <BR> Rear Camera: 1/2.9” Image sensor (0.8758 centimeters)",
+        "Lens": "Front Camera: 3.0mm, <BR>Rear Camera: 3.35 mm",
+        "Max. Aperture": "Front Camera:   F1.55, <BR> Rear Camera: F2.0",
+        "Compression": "Front Camera: H.265",
+        "Resolution": "Front Camera: 5MP, <BR> Rear Camera: 2MP",
+        "Screen type": "IPS (In-Plane Switching)",
+        "Screen size": "3\" (7.62 centimeters)",
+        "Screen Resolution": "360 x 640 (RGB)",
+        "Video Format": "MP4",
+        "Video resolution": "5MP (2560 x 1920P)@25ps + 2MP (1920 x 1080P)@25fps",
+        "Smart Features": "Voice Prompt, G-Sensor (Emergency Recording), Built-in GPS, Parking Mode*, WDR",
+        "Record Type": "Audio Recording, Regular Recording, Emergency Recording, Time-Lapse*",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Connectivity": "AP Mode (Dashcam creates its own Wi-Fi hotspot/ Direct Wi-Fi to phone)",
+        "Mobile App": "CarKam (Available for iOS and Android)",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Microphone": "Support",
+        "Speaker": "Support",
+        "Photo Format": "JPG",
+        "Casing": "PC+ABS",
+        "Power Source": "5V/3.4A Type C",
+        "Operating Temperature": "-10°C~60°C",
+        "Storage temperature": "-20°C~70°C",
+        "Dimensions": "93.25mm x 50.75mm x 39.49mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS",
+        "Note:": "*Please note time lapse and parking mode is supported with hardwire kit only."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-F59B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/0f282012-41f9-416b-aa92-8216bd799b27.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-f59b"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Video Doorbell",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell",
+    "series": "Chime",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/chime",
+    "tab_title": "Chime",
+    "tab_id": "18189",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Video Doorbell",
+      "Chime",
+      "Chime"
+    ]
+  },
+  "card_info": {
+    "product_id": "154428",
+    "product_name": "DS3BB",
+    "product_title": "Wireless Chime",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/chime/ds3bb",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912376339_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ds3bb.html",
+  "detail": {
+    "title": "Wireless Chime",
+    "model": "DS3BB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DS3BB Wireless Chime Key Points • Multi-Doorbell Support • 100m Long-Range Wireless • Offline Chime • Easy-pairing • Available with EU/UK/US/ Plugs • Customize Ringtones & Volume Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912376339_crop_thumb.PNG",
+        "alt": "DS3BB_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912373657_crop_thumb.PNG",
+        "alt": "DS3BB_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912375441_crop_thumb.PNG",
+        "alt": "DS3BB_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912375377_crop_thumb.PNG",
+        "alt": "DS3BB_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912373655_crop_thumb.PNG",
+        "alt": "DS3BB_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/image/1_0_01_04_48058_912375442_crop_thumb.PNG",
+        "alt": "DS3BB_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Audio": {
+        "Built-in Speaker": "Built-in Speaker",
+        "Ringtone Volume": "94.5 dB (Level measured at 10-cm distance)"
+      },
+      "Power": {
+        "Power Supply": "100–240 V AC AC, 50/60 Hz",
+        "Power Consumption": "< 3W",
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 25 mW",
+        "Communication Mechanism": "One-way",
+        "Communication Distance": "Up to 100 m (328 ft) in an open space"
+      },
+      "Structure": {
+        "Appearance Color": "Black Plastic",
+        "Net Weight": "0.08 kg (0.18 lb)",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "74 mm × 74 mm × 70.5 mm (2.91\" × 2.91\" × 2.78\") (L × W × H)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Operating Humidity": "20%–95% (RH), non-condensing"
+      },
+      "Certification": {
+        "Certification": "CE-LVD: EN IEC 62368-1:2020+A11:2020; CE-EMC: EN55032:2015+A1:2020; EN55035:2017+A11:2020; EN IEC61000-3-2:2019+A1:2021; EN61000-3-3:2013+A2:2021; CE-RED: ETSI EN 300 220-1 V3.1.1; ETSI EN 300 220-2 V3.2.1; ETSI EN 301 489-1 V2.2.3; ETSI EN 301 489-3 V2.3.2; EN62479:2010; EN50663:2017"
+      },
+      "Doorbell Connection": {
+        "Connection Capacity": "Each chime up to 5 doorbells"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/datasheet/DH-DS3BB_S0_datasheet_20260916_English.pdf"
+      },
+      {
+        "name": "2026-02-08 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2026-02-08 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-02-08 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2026-02-08 #User Manual Wireless Chime_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/user_manual/Wireless_Chime_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-02-08 #User Manual Wireless Chime_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/user_manual/Wireless_Chime_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-02-08 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2026-03-11 #A&E Document DS3BB_A&E_20260918150117 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/a_e_document/1789715466102.docx"
+      },
+      {
+        "name": "2026-02-12 #Drawings DS3BB_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/drawings/1_0_01_04_48058_914415608.pdf"
+      },
+      {
+        "name": "2026-02-12 #Drawings DS3BB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86370/drawings/DS3BB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/chime/ds3bb"
+  }
+}

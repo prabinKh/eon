@@ -1,0 +1,107 @@
+{
+  "hierarchy": {
+    "category": "32 Ch.",
+    "category_url": "https://cpplusworld.com/products/32-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/32-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "31",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "32 Ch.",
+      "CP-UNR-4K4322-V3"
+    ]
+  },
+  "card_info": {
+    "product_id": "1470",
+    "product_name": "CP-UNR-4K4322-V3",
+    "product_title": "CP-UNR-4K4322-V3-32Ch. H.265+ 4K Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4322-v3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/0c46a4d5-1b0e-499f-b313-44d3af4201e9.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4322-v3.html",
+  "detail": {
+    "title": "CP-UNR-4K4322-V3-32Ch. H.265+ 4K Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-UNR-4K4322-V3",
+    "brand": "CP Plus",
+    "overview": "32Ch. 4K Network Video Recorder",
+    "features": [
+      "Up to 32 channel IP camera input",
+      "Instastream/H.265/Smart H.264+/H.264/MJPEG",
+      "Max. decoding capability: 8 x 1080p@30fps. Supports adaptive decoding",
+      "Supports mainstream cameras of ONVIF and RTSP protocols",
+      "Support 2 SATA HDDs up to 10TB Each, 2 USB Ports",
+      "VGA/HDMI simultaneous video output, maximum resolution of HDMI is 4K",
+      "Support Multi-brand network cameras",
+      "AI by Camera: Face detection, perimeter protection, IVS, people counting, heat map, and SMD",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0c46a4d5-1b0e-499f-b313-44d3af4201e9.jpg",
+        "alt": "CP-UNR-4K4322-V3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1662e8c2-f529-48ac-8c73-68d8da624f0d.jpg",
+        "alt": "CP-UNR-4K4322-V3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade embedded processor",
+        "Operating System": "Embedded LINUX",
+        "Two-way Talk": "1 × RCA input ; Audio Input/ Audio Output",
+        "User Interface": "GUI",
+        "Video Output": "1 × VGA output, 1 × HDMI output, supports simultaneous video sources output for VGA and HDMI",
+        "Channel": "32 channel",
+        "Bandwidth Incoming": "Access: 160 Mbps; Storage: 128 Mbps; Forward: 48 Mbps",
+        "Motion Detection": "MD Zones: 396(22×18).",
+        "Video Loss": "supports",
+        "Alarm Input": "4 channel",
+        "Alarm Output": "2 Channel",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Hard Disk": "2 SATA III ports, up to 10 TB for a single HDD. The maximum HDD capacity varies with environment temperature",
+        "Trigger Events": "Face detection, perimeter protection (intrusion and tripwire), IVS, people counting, heat map, and SMD alarms",
+        "Recording Mode": "Manual record; alarm recording; SMD recording; smart recording",
+        "Search Mode": "Time /Date, MD and Exact Search (accurate to second), Smart search",
+        "Backup Mode": "USB Device/Network",
+        "Playback": "Play/pause/stop/slow/quick/backward/by frame Full screen, backup (video clip/file), partial zoom in, and audio on/off",
+        "Ethernet": "1 × RJ-45, 10/100/1000 Mbps self-adaptive Ethernet port",
+        "Interface Ports": "2 USB Ports (1 × front USB2.0; 1 × back USB2.0)",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4/IPv6; UPnP; SNMP; RTSP; UDP; SMTP; NTP; DHCP; DNS; IP Filter; DDNS; FTP; Alarm Server; IP Search, P2P, auto register, RTSP, ONVIF (profile T/S/G); CGI; SDK",
+        "Power Supply": "DC12V/1.5A",
+        "Power Consumption": "< 5.6 W (HDD not included, idling)",
+        "Working Temp": "-10°C to +55°C (+10 °F to +131 °F)",
+        "Dimension": "375 mm × 282.4 mm × 53 mm",
+        "Weight": "15 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4322-V3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/57bbc2f5-ed46-46b8-bc19-9ddaf3899a35.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4322-v3"
+  }
+}

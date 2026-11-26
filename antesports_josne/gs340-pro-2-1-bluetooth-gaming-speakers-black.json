@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Speaker",
+    "subcategory_url": "https://antesports.com/collections/speaker",
+    "series": "Speaker Series",
+    "series_url": "https://antesports.com/collections/speaker",
+    "tab_title": "Speaker",
+    "tab_id": "508173353251",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Speaker",
+      "GS340 Pro 2.1 Bluetooth Gaming Speakers with RGB - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341811224867",
+    "product_name": "GS340 Pro 2.1 Bluetooth Gaming Speakers with RGB - Black",
+    "product_title": "GS340 Pro 2.1 Bluetooth Gaming Speakers with RGB - Black",
+    "product_url": "https://antesports.com/products/gs340-pro-2-1-bluetooth-gaming-speakers-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/53.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gs340-pro-2-1-bluetooth-gaming-speakers-black.html",
+  "detail": {
+    "title": "GS340 Pro 2.1 Bluetooth Gaming Speakers with RGB - Black",
+    "model": "AEPP0330",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GS340 Pro pairs a punchy 5W subwoofer with dual 3W satellite speakers for a balanced 2.1 channel setup that fills a desk or room with clear highs and deep, rounded bass. Wireless Bluetooth streaming sits alongside a wired 3.5mm AUX input, so you can switch between phone, PC, laptop or tablet without swapping cables. Seven RGB lighting modes cycle across the subwoofer and satellites, letting you match the glow to your setup or mood, while the in-line volume control keeps loudness within easy reach during gameplay or movie marathons. USB powered and simple to set up, it's a compact multimedia speaker system built for everyday desktop use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/53.png",
+        "alt": "GS340 Pro 2.1 Bluetooth Gaming Speakers with RGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Channel": "2.1 Stereo (5W Subwoofer + Dual 3W Satellites)",
+        "Output Power": "11W Total",
+        "Connectivity": "Bluetooth + 3.5mm AUX Input",
+        "Lighting": "7-Mode RGB",
+        "Controls": "In-line Volume Control",
+        "Power": "USB Powered",
+        "Color": "Black",
+        "CHANNEL": "2.1 Stereo (5W Subwoofer + Dual 3W Satellites)",
+        "OUTPUT POWER": "11W Total",
+        "CONNECTIVITY": "Bluetooth + 3.5mm AUX Input",
+        "LIGHTING": "7-Mode RGB",
+        "CONTROLS": "In-line Volume Control",
+        "POWER": "USB Powered",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,599.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0330"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gs340-pro-2-1-bluetooth-gaming-speakers-black"
+  }
+}

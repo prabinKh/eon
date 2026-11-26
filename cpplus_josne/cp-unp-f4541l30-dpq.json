@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "Speed Dome(PTZ)",
+    "subcategory_url": "https://cpplusworld.com/products/speed-dome/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Speed Dome(PTZ)",
+    "tab_id": "24",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Speed Dome(PTZ)",
+      "Network",
+      "CP-UNP-F4541L30-DPQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "1983",
+    "product_name": "CP-UNP-F4541L30-DPQ",
+    "product_title": "CP-UNP-F4541L30-DPQ",
+    "product_url": "https://cpplusworld.com/cp-unp-f4541l30-dpq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/87a53c6d-f7fd-41b1-b18c-2dbaa92393e2.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unp-f4541l30-dpq.html",
+  "detail": {
+    "title": "CP-UNP-F4541L30-DPQ",
+    "model": "CP-UNP-F4541L30-DPQ",
+    "brand": "CP Plus",
+    "overview": "4MP WDR 45x IR Network PTZ Camera- 300 Mtr.",
+    "features": [
+      "1/2.8” 4MP PS CMOS Image sensor (0.9071 centimeters)",
+      "Max. 4MP (2688 x 1520/ 2560 x 1440)@1–25/30fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Triple  Stream",
+      "Powerful 45x Optical and 16x Digital zoom",
+      "WDR(120dB), 2D NR/ 3D NR, Day/Night(ICR), ROI, Defog, AWB, BLC, HLC",
+      "Up to 300 Presets, 5 Scan, 8 Tour, 5 Pattern",
+      "Support Starlight Technology",
+      "IR  Range of  300 Mtr.",
+      "Support PoE+, IP67, IK10",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/87a53c6d-f7fd-41b1-b18c-2dbaa92393e2.png",
+        "alt": "CP-UNP-F4541L30-DPQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/16ca50ef-cd73-48b0-8490-10bb4b3f0d77.png",
+        "alt": "CP-UNP-F4541L30-DPQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 4MP PS CMOS Image sensor (0.9071 centimeters)",
+        "Effective Pixels": "2688 (H) x 1520 (V)",
+        "Minimum Illumination": "0.005 lux@F1.6 (Color, 30 IRE), 0.0005 lux@F1.6 (B/W, 30 IRE), 0 lux@F1.6 (IR on)",
+        "Electronic Shutter": "1 s–1/30000 s",
+        "RAM": "512 MB",
+        "ROM": "256 MB",
+        "White Balance": "Auto, Indoor, Outdoor, ATW, Manual, Sodium lamp, Natural light, Street lamp",
+        "Lens": "3.95 mm–177.75 mm",
+        "Max. Aperture": "F1.6–F4.95",
+        "Angle of View": "H: 65.7°–1.9°, V: 39.4°–1.1°, D: 73.1°–2.1°",
+        "Close Focus Distance": "0.1 m–1 m",
+        "Iris Control": "Auto, Manual",
+        "DORI Distance": "2,451.7 m (Detect), 972.9 m (Observe), 490.3 m (Recognize), 245.2 m (Identify)",
+        "Focus Control": "Auto, Semi-auto, Manual",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "Overlay": "Channel Title, Time Title, OSD Info (PTZ Coordinate, Zoom, North, Pattern, Temperature,        Preset, Location, Input Text, Text Alignment), Font Properties, Custom Title, Exception Overlay",
+        "Video Format": "PAL",
+        "S/N Ratio": "≥55 dB",
+        "Optical Zoom": "45×",
+        "Digital zoom": "16x",
+        "Image Rotation": "180°",
+        "Pan/Tilt Angle": "Pan: 0° to 360°, endless, Tilt: –20° to +90°, Auto flip 180°",
+        "Power-off Memory": "Support",
+        "Manual Speed": "Pan: 0.1°/s~260°/s, Tilt: 0.1°/s~120°/s",
+        "Preset Speed": "Pan: 0.1°/s~300°/s, Tilt: 0.1°/s~200°/s",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Privacy Masking": "Up to 24 areas can be set, with up to 8 areas in the same view",
+        "Special Features": "Up to 300 Presets, 5 Pattern, 8  (up to 32 presets per tour) Tour, 5 Scan",
+        "Idle Motion": "Pattern, Preset, Scan, Tour",
+        "IR": "IR Range of 300 Mtr.",
+        "IR Number": "6 IR",
+        "IR Control": "Zoom Prio, Manual, Smart IR, Off",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "Gain Control": "Auto, Manual",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Sub Stream1)",
+        "Resolution": "4MP (2688 x 1520), 4MP (2560 x 1440), 3MP (2304 x 1296), 1080p (1920 ×1080), 720p (1280 ×  720), D1, VGA, CIF",
+        "Stream Capability": "Triple  Stream",
+        "Frame Rate": "Main stream: 4MP (2688 x 1520/ 2560 x 1440)@1–25fps, 3MP (2304 x 1296)@1–25fps, 2MP  (1920 × 1080)@1–25fps, 720p,       Sub stream 1: D1/VGA/CIF@1–25 fps       Sub stream 2: 720P@1–25fps",
+        "Defog": "Electronic",
+        "Bit Rate": "H265: 86 kbps–8192 kbps, H264: 216 kbps–8192 kbps",
+        "Bit Rate Control": "CBR/VBR",
+        "Motion detection": "Support",
+        "RS-485": "1 Channel",
+        "ROI": "Support",
+        "Audio In": "1 Channel",
+        "Audio Out": "1 Channel",
+        "Audio Compression": "PCM, G.711A, G.711MU, G.726, MPEG2-Layer2, G.722.1",
+        "Auto Tracking": "Support",
+        "Alarm IN": "7 Channels (on-off value input: 0–5 VDC)",
+        "Alarm Out": "2 Channels",
+        "Event Alarm": "Motion Detection, Defocus Detection, Disk Full, Disk Error, Video Tampering, External Alarm,  Security Warning, Audio Detection, AI Event",
+        "Noise Reduction": "2D NR/ 3D NR",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs,  WSSE, Account lockout, Syslog, Video encryption, 802.1x, Allow list/Block list, HTTPS, Trusted  upgrade, Trusted boot, Firmware encryption",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, QoS,  UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3,  ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "Reset Button": "Support",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "SDK and API": "Support",
+        "IVS (Perimeter Protection)": "Crossing virtual fence, Tripwire, Intrusion, Abandoned Object, Fast Moving, Parking Detection,  Crowd Gathering, Missing Object, Loitering Detection, IMD",
+        "Face Detection": "Face detection, Face Enhancement, Face Cutout (Face/ One Inch Photo), Snapshot Mode (Real-Time/ Quality Priority), Optimal face snapshot upload, Quality Th",
+        "User/Host": "20 (Total bandwidth: 64 M)",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Alarm Linkage": "Capture, Recording, Send email, Preset, Tour, Pattern, Alarm digital output",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "24 VDC, 2.5 A ± 25% PoE+ (802.3at)",
+        "Power Consumption": "24 VDC, 2.5 A ± 25%: Basic: 13 W,       Max: 25 W (IR + PTZ) PoE+ (802.3at): Basic: 13 W, Max: 25 W (IR + PTZ)",
+        "Weatherproof Standard": "IP67, IK10, TVS 6000 V lightning proof, Surge protection, Voltage transient protection",
+        "Browser": "Microsoft Edge, Chrome, Firefox",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤ 95% (RH)",
+        "Dimension": "337.4 mm × 209 mm",
+        "Weight": "5900g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNP-F4541L30-DPQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unp-f4541l30-dpq"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "S810",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/s810",
+    "tab_title": "S810",
+    "tab_id": "13787",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "S810",
+      "S810"
+    ]
+  },
+  "card_info": {
+    "product_id": "101417",
+    "product_name": "SSD-S810GS480G",
+    "product_title": "2.5\" SATA Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/s810/ssd-s810gs480g",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211206/S810-61_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-s810gs480g.html",
+  "detail": {
+    "title": "2.5\" SATA Solid State Drive",
+    "model": "SSD-S810GS480G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-S810GS480G 2.5\" SATA Solid State Drive Key Points As a new generation of SATA 2.5\" SSD product launched by Dahua, the S810 series adopts high-quality 3D wafer level chip and professional controller. Designed for video surveillance system, the product can effectively improve the response speed of video storage servers. With efficient and stable data processing capability, it can help you cope with special situations in video surveillance, such as overwrite when full. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-61_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-81_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-71_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-51_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-41_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-31_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211206/S810-11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Specification": {
+        "Product Model": "DHI-SSD-S810GS240G",
+        "Capacity¹": "240 GB",
+        "Form Factor": "2.5\"",
+        "Interface": "6 Gb/s SATA",
+        "Net Weight": "Max. 80 g (0.18 lb)",
+        "Product Dimensions": "100.20 mm × 69.90 mm × 7.00 mm (3.94\" × 2.75\" × 0.28\") (L × W × H)",
+        "Packaging Dimensions": "130 mm × 138 mm × 17.50 mm (5.12\" × 5.43\" × 0.69\") (L × W × H)",
+        "Memory Component": "3D TLC",
+        "Power Consumption": "1,840 mW (max.) 680 mW (idle)",
+        "S.M.A.R.T": "Yes",
+        "TRIM": "Yes",
+        "Garbage Collection": "Yes",
+        "Sequential Read²": "Up to 550 MB/s",
+        "Sequential Write²": "Up to 470 MB/s",
+        "4K Random Read²": "Up to 75,000",
+        "4K Random Write²": "Up to 85,000",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0 °C to +70 °C (+32 °F to +158 °F)",
+        "Storage Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10–1000 Hz, 2.78G",
+        "Shock Resistance": "20G/0.5 ms (half sine wave)",
+        "TBW": "620 TB",
+        "Warranty3": "3-year limited warranty",
+        "Reference Information": "1. Capacity calculation: 1GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partition, operating system applications, or other necessary usage). 2. System configuration of performance test: Intel Z390 Chipset, Intel Core i9-9900KF@3.6GHz, 16GB DDR4; operating system-Windows 10 x64; testing tool-CrystalDiskMark 6.0.0. 3. Warranty period or maximum write amount (TBW), whichever comes first. 4. High performance SLC cache has been enabled."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-S810GS480G_datasheet_20220606.pdf"
+      },
+      {
+        "name": "2025-07-09 #User Manual SSD-2.5 inch-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010080/202507/SSD-2.5_inch-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/s810/ssd-s810gs480g"
+  }
+}

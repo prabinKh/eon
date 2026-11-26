@@ -1,0 +1,176 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Time Attendance",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance",
+    "series": "Time Attendance",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance",
+    "tab_title": "Time Attendance",
+    "tab_id": "4191",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Time Attendance",
+      "Time Attendance",
+      "Time Attendance"
+    ]
+  },
+  "card_info": {
+    "product_id": "125267",
+    "product_name": "ASA1222E",
+    "product_title": "Dahua Fingerprint, Password Attendance Standalone",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance/asa1222e",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230303/DHI-ASA1222E_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asa1222e.html",
+  "detail": {
+    "title": "Dahua Fingerprint, Password Attendance Standalone",
+    "model": "ASA1222E",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASA1222E Dahua Fingerprint, Password Attendance Standalone Key Points • 2,000 Fingerprints, 1,000 Passwords and 100,000 Attendance Records • 2.4-inch LCD Screen with Resolution of 240 × 320 • Features Voice Prompts • Export or Import User Information or Attendance Records Through USB • Local Time Attendance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230303/DHI-ASA1222E_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230303/DHI-ASA1222E_3_thumb.png",
+        "alt": "DHI-ASA1222E",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230303/DHI-ASA1222E_2_thumb.png",
+        "alt": "DHI-ASA1222E",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical"
+      },
+      "Basic": {
+        "Display Screen": "2.4\" TFT",
+        "Product Type": "Attendance Standalone",
+        "Screen Type": "Non-touchscreen",
+        "Screen Resolution": "320 × 240",
+        "Voice Prompt": "Yes",
+        "Powering On/Off Button": "1",
+        "Casing Material": "PC + ABS"
+      },
+      "Performance": {
+        "Fingerprint Sensor Type": "Optical fingerprint",
+        "Fingerprint Verification Mode": "1:N",
+        "Fingerprint Recognition Time": "2 s"
+      },
+      "Attendance": {
+        "Export Attendance Record": "USB flash drive export",
+        "Attendance Check Mode": "Fixed attendance;Free attendance",
+        "Attendance Statistics": "Yes",
+        "Department Setting": "Yes",
+        "Schedule Setting": "Yes"
+      },
+      "User": {
+        "User (Card) Type": "General user"
+      },
+      "Capacity": {
+        "User Capacity": "1,000",
+        "Fingerprint Capacity": "2,000",
+        "Password Capacity": "1,000",
+        "Record Capacity": "100,000"
+      },
+      "Port": {
+        "USB": "1 × USB 2.0 port"
+      },
+      "General": {
+        "Power Adapter": "Included",
+        "Power Supply": "5 VDC, 1 A",
+        "Power Consumption": "≤ 2.5 W (Working)",
+        "Product Dimensions": "175.5 mm × 120.0 mm × 30.0 mm (6.91\" × 4.72\" × 1.18\")",
+        "Packaging Dimensions": "248 mm × 143 mm × 66 mm (9.76\" × 5.63\" × 2.60\") (L × W × H, in an inner carton) 351 mm × 261 mm × 304 mm (13.82\" × 10.28\" × 11.97\") (L × W × H, protection box)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "5%–95% (RH)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.36 kg (0.79 lb)",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Storage Temperature": "–20 °C to +60 °C (–22 °F to +140 °F)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASA1222EL_datasheet_20230222.pdf"
+      },
+      {
+        "name": "2025-08-04 #User Manual Attendance Standalone_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/user_manual/Attendance_Standalone_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-08-04 #User Manual Dahua Attendance Standlone (Model GL)_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/user_manual/Dahua_Attendance_Standlone_(Model_GL)_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-08-04 #User Manual Dahua Attendance Standlone (Model E)_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/user_manual/Dahua_Attendance_Standlone_(Model_E)_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-08-04 #User Manual Dahua Attendance Standlone (Model E-S)_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/user_manual/Dahua_Attendance_Standlone_(Model_E-S)_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-08-04 #User Manual Attendance Standalone_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/user_manual/Attendance_Standalone_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-01-05 #A&E Document ASA1222E_A&E_20201225180803 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/a_e_document/ASA1222E_A_E_20201225180803.docx"
+      },
+      {
+        "name": "2023-11-09 #Drawings ASA1222E_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/drawings/ASA1222E_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-12-21 #Drawings ASA1222E_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14997/drawings/ASA1222E-S_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings ASA1222E_Insatllation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/14987/Drawings/ASA1222E_Insatllation.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings ASA1222E_Dimension Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14987/drawings/ASA1222E_Dimension.pdf"
+      },
+      {
+        "name": "2023-01-04 #Firmware DH_ASA1222E_Eng_V2.000.0000000.1.R.221209 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2046058/M/DH_ASA1222E_Eng_V2.000.0000000.1.R.221209.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance/asa1222e"
+  }
+}

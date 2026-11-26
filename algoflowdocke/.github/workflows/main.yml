@@ -1,0 +1,81 @@
+name: Deploy to Server via SSH
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: ssh-deploy-main
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Deploy to VPS Server (144.91.72.44)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Execute Deployment Commands via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        env:
+          POSTGRES_PASSWORD: ${{ secrets.POSTGRES_PASSWORD || 'admin' }}
+          DJANGO_SECRET_KEY: ${{ secrets.DJANGO_SECRET_KEY || 'django-insecure-prod-key-algoflow-2026' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SSH_PASS: ${{ secrets.SSH_PASSWORD || 'Prabin@1234#' }}
+          REPO: ${{ github.repository }}
+        with:
+          host: ${{ secrets.SSH_HOST || '144.91.72.44' }}
+          username: ${{ secrets.SSH_USER || 'prabin' }}
+          password: ${{ secrets.SSH_PASSWORD || 'Prabin@1234#' }}
+          envs: POSTGRES_PASSWORD,DJANGO_SECRET_KEY,GEMINI_API_KEY,SSH_PASS,REPO
+          script: |
+            set -e
+            echo "Starting deployment on server..."
+
+            APP_DIR="$HOME/algoflow"
+            mkdir -p $APP_DIR
+            cd $APP_DIR
+
+            if [ ! -d ".git" ]; then
+              echo "Cloning repository..."
+              git clone https://github.com/$REPO.git .
+            else
+              echo "Fetching latest changes..."
+              git fetch --all
+              git reset --hard origin/main
+            fi
+
+            # Write .env using env vars (safe for special characters in passwords)
+            {
+              echo "POSTGRES_PASSWORD=$POSTGRES_PASSWORD"
+              echo "DJANGO_SECRET_KEY=$DJANGO_SECRET_KEY"
+              echo "DJANGO_ALLOWED_HOSTS=*,.localhost,144.91.72.44"
+              echo "FRONTEND_URL=http://144.91.72.44"
+              echo "GEMINI_API_KEY=$GEMINI_API_KEY"
+            } > .env
+
+            echo "Stopping ALL running containers across the server..."
+            RUNNING_IDS=$(echo "$SSH_PASS" | sudo -S docker ps -aq)
+            if [ -n "$RUNNING_IDS" ]; then
+              echo "$SSH_PASS" | sudo -S docker stop $RUNNING_IDS || true
+            fi
+
+            echo "Stopping host web servers (nginx, apache2, caddy)..."
+            echo "$SSH_PASS" | sudo -S systemctl stop nginx apache2 caddy lighttpd || true
+
+            echo "Force killing port 80 and 3000..."
+            echo "$SSH_PASS" | sudo -S fuser -k -9 80/tcp || true
+            echo "$SSH_PASS" | sudo -S fuser -k -9 3000/tcp || true
+
+            echo "Building and starting Docker containers..."
+            echo "$SSH_PASS" | sudo -S docker compose down --remove-orphans || true
+            echo "$SSH_PASS" | sudo -S docker compose build --no-cache
+            echo "$SSH_PASS" | sudo -S docker compose up -d
+            echo "Running database migrations..."
+            echo "$SSH_PASS" | sudo -S docker compose exec -T app bash -c "cd backend && python3 manage.py migrate --noinput"
+
+            echo "=== Deployment Completed Successfully! ==="

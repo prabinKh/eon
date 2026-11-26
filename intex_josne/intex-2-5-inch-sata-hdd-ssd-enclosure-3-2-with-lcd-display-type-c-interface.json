@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "HDD",
+    "subcategory_url": "https://www.intex.in/collections/hdd",
+    "series": "SSD",
+    "series_url": "https://www.intex.in/collections/ssd",
+    "tab_title": "HDD",
+    "tab_id": "9432420352218",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "HDD",
+      "Intex 2.5 Inch SATA HDD-SSD Enclosure 3.2 with LCD Display, Type-C Interface"
+    ]
+  },
+  "card_info": {
+    "product_id": "9432420352218",
+    "product_name": "Intex 2.5 Inch SATA HDD-SSD Enclosure 3.2 with LCD Display, Type-C Interface",
+    "product_title": "Intex 2.5 Inch SATA HDD-SSD Enclosure 3.2 with LCD Display, Type-C Interface",
+    "product_url": "https://www.intex.in/products/intex-2-5-inch-sata-hdd-ssd-enclosure-3-2-with-lcd-display-type-c-interface",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_3beb3361-4912-46e2-b4bd-8bacd5e9322e.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 799.0,
+      "display": "₹799.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-2-5-inch-sata-hdd-ssd-enclosure-3-2-with-lcd-display-type-c-interface.html",
+  "detail": {
+    "title": "Intex 2.5 Inch SATA HDD-SSD Enclosure 3.2 with LCD Display, Type-C Interface",
+    "model": "HDD-SSD",
+    "brand": "Intex",
+    "overview": "Upgrade your storage setup with the Intex 2.5 SATA HDD-SSD Enclosure 3.2 with Display. Designed for 2.5-inch SATA notebook hard drives and SSDs, this enclosure features a convenient LCD screen display that provides useful drive and connection information. With a Type-C external interface, compatibility with USB 3.0/USB 2.0, and transmission speeds of up to 5Gbps, it enables fast and convenient data transfer. The enclosure supports SATA HDDs and SSDs up to 6TB and is compatible with both 7.5mm and 9.5mm drive thicknesses. Its ABS construction helps provide better heat dissipation and protection for your hard disk, while the plug-and-play design makes installation quick and hassle-free. USB direct power eliminates the need for a separate power adapter.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_3beb3361-4912-46e2-b4bd-8bacd5e9322e.jpg",
+        "alt": "Intex 2.5 Inch SATA HDD-SSD Enclosure 3.2 with LCD Display, Type-C Interface",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "External HDD/SSD Enclosure",
+        "Supported Capacity": "Up to 6TB",
+        "Display": "LCD Screen Display",
+        "External Interface": "Type-C",
+        "USB Compatibility": "USB 3.0 / USB 2.0",
+        "Internal Interface": "SATA III",
+        "Transmission Speed": "Up to 5Gbps",
+        "Applicable Drives": "2.5-inch SATA Notebook HDDs or SSDs",
+        "Supported HDD Thickness": "7.5mm / 9.5mm",
+        "Cable": "Type-C to Type-C to USB-A",
+        "Installation": "Plug & Play",
+        "Power Supply": "USB Direct Power",
+        "Material": "ABS",
+        "Material Benefits": "Enhanced Heat Dissipation and Hard Disk Data Protection",
+        "System Compatibility": "Windows 98 / SE / ME / 2000 / XP / Windows 7 / Windows 10 / Mac OS 8.6",
+        "Model": "HDD-SSD"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_SSD_Enclosure_3.2_with_Display_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-2-5-inch-sata-hdd-ssd-enclosure-3-2-with-lcd-display-type-c-interface"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H530 Multi-Platform Gaming Headset - Black/Blue"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444263203",
+    "product_name": "H530 Multi-Platform Gaming Headset - Black/Blue",
+    "product_title": "H530 Multi-Platform Gaming Headset - Black/Blue",
+    "product_url": "https://antesports.com/products/h530-multi-platform-headset-black-blue",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/h530-multi-platform-headset-black-blue.html",
+  "detail": {
+    "title": "H530 Multi-Platform Gaming Headset - Black/Blue",
+    "model": "AESP0123",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports H530 is a multi-platform gaming headset built around 40mm neodymium drivers tuned for both bass response and spatial awareness, giving a genuine edge in competitive titles. Double-padded headbands reduce head pressure across different head shapes, while soft, breathable leatherette earmuffs isolate outside noise effectively for long, fatigue-free gaming sessions. A unidirectional noise-cancellation boom microphone transmits voice clearly even in noisy environments, and a lightweight metal-and-fabric headband construction keeps the whole headset comfortable to wear for hours. Broad compatibility spans PC, PS4, PS5, Xbox One, Nintendo Switch, Android and iOS, making the H530 a flexible choice across almost any gaming setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35.jpg",
+        "alt": "H530 Multi-Platform Gaming Headset - Black/Blue - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Driver Size": "40mm Neodymium",
+        "Microphone": "Unidirectional, Noise Cancelling",
+        "Connectivity": "Wired, 3.5mm",
+        "Compatibility": "PC, PS4, PS5, Xbox One, Nintendo Switch, Android, iOS",
+        "Color": "Black/Blue",
+        "DRIVER SIZE": "40mm Neodymium",
+        "MICROPHONE": "Unidirectional, Noise Cancelling",
+        "CONNECTIVITY": "Wired, 3.5mm",
+        "COMPATIBILITY": "PC, PS4, PS5, Xbox One, Nintendo Switch, Android, iOS",
+        "COLOR": "Black/Blue",
+        "Offer Price (INR)": "₹993.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AESP0123"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/h530-multi-platform-headset-black-blue"
+  }
+}

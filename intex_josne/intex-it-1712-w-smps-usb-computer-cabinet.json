@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/cabinet",
+    "series": "Cabinet Series",
+    "series_url": "https://www.intex.in/collections/cabinet-series",
+    "tab_title": "Cabinet",
+    "tab_id": "8978316787930",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cabinet",
+      "Intex IT-1712 W SMPS & USB Computer Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "8978316787930",
+    "product_name": "Intex IT-1712 W SMPS & USB Computer Cabinet",
+    "product_title": "Intex IT-1712 W SMPS & USB Computer Cabinet",
+    "product_url": "https://www.intex.in/products/intex-it-1712-w-smps-usb-computer-cabinet",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1712-W-SMPS-_-USB.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2699.0,
+      "display": "₹2,699.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-it-1712-w-smps-usb-computer-cabinet.html",
+  "detail": {
+    "title": "Intex IT-1712 W SMPS & USB Computer Cabinet",
+    "model": "IT-1712",
+    "brand": "Intex",
+    "overview": "The Intex IT-1712 W is a versatile and budget-friendly computer cabinet designed to meet the essential needs of PC builders. Equipped with an integrated SMPS (Switch Mode Power Supply) and front USB port, this cabinet provides reliable performance for home and office use. Its compact design supports Micro ATX and Mini ITX motherboards, making it ideal for space-saving desktop setups. With multiple expansion and internal slots, it ensures enough room for both HDDs and SSDs, supporting a dual-drive configuration for enhanced storage. An 80 mm cooling fan ensures optimal airflow, while the front MIC port enhances accessibility for audio peripherals.",
+    "features": [
+      "Model: Intex IT-1712 W Cabinet with SMPS & USB",
+      "Supports Micro ATX and Mini ITX motherboards",
+      "4 Expansion Slots for flexible upgrades",
+      "2 x 13.36 cm (5.25\") External Drive Bays",
+      "2 x 8.89 cm (3.5\") Internal HDD Slots",
+      "3 x 6.35 cm (2.5\") Internal SSD Slots",
+      "Storage Support: HDD x2, SSD x2",
+      "Pre-installed 80 mm Cooling Fan for optimal airflow",
+      "Front Panel with MIC and USB ports",
+      "Integrated SMPS (Switch Mode Power Supply)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1712-W-SMPS-_-USB.jpg",
+        "alt": "Intex IT-1712 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: Intex IT-1712 W Cabinet with SMPS & USB",
+        "Feature 2": "Supports Micro ATX and Mini ITX motherboards",
+        "Feature 3": "4 Expansion Slots for flexible upgrades",
+        "Feature 4": "2 x 13.36 cm (5.25\") External Drive Bays",
+        "Feature 5": "2 x 8.89 cm (3.5\") Internal HDD Slots",
+        "Feature 6": "3 x 6.35 cm (2.5\") Internal SSD Slots",
+        "Feature 7": "Storage Support: HDD x2, SSD x2",
+        "Feature 8": "Pre-installed 80 mm Cooling Fan for optimal airflow",
+        "Feature 9": "Front Panel with MIC and USB ports",
+        "Feature 10": "Integrated SMPS (Switch Mode Power Supply)"
+      },
+      "General": {
+        "Model": "IT-1712"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-it-1712-w-smps-usb-computer-cabinet"
+  }
+}

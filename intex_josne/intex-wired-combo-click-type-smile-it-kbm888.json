@@ -1,0 +1,140 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/keyboard",
+    "series": "Mouse",
+    "series_url": "https://www.intex.in/collections/mouse",
+    "tab_title": "Keyboard",
+    "tab_id": "9177898778842",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Keyboard",
+      "INTEX Wired Combo Click & Type (SMILE IT-KBM888)"
+    ]
+  },
+  "card_info": {
+    "product_id": "9177898778842",
+    "product_name": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+    "product_title": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+    "product_url": "https://www.intex.in/products/intex-wired-combo-click-type-smile-it-kbm888",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-01.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-wired-combo-click-type-smile-it-kbm888.html",
+  "detail": {
+    "title": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+    "model": "IT-KBM888",
+    "brand": "Intex",
+    "overview": "Upgrade your everyday computing experience with the INTEX SMILE IT-KBM888 Wired Combo – Click & Type. Designed for seamless performance and zero setup hassle, this keyboard and mouse combo is perfect for home, office, and professional use. The full-size keyboard features 104 premium keys with smooth typing response and 12 multimedia shortcut keys for quick access to essential functions. Built with a spill-resistant design and durable construction, it offers up to 5 million keystrokes lifespan for long-lasting performance. The ergonomic optical mouse comes with a 1200 DPI sensor for accurate tracking and smooth scrolling. With USB plug-and-play functionality and a 1.2-meter cable length, setup is quick and effortless — just connect and start working. Reliable. Comfortable. Efficient.",
+    "features": [
+      "Product Type: Wired Keyboard & Mouse Combo",
+      "Model: SMILE IT-KBM888",
+      "Interface: USB Plug & Play",
+      "Keyboard Type: Full Size (104 Keys)",
+      "Multimedia Keys: 12 Dedicated Shortcut Keys",
+      "Key Lifespan: Up to 5 Million Keystrokes",
+      "Keyboard Feature: Spill Resistant Design",
+      "Mouse DPI: 1200 DPI Optical Sensor",
+      "Mouse Technology: Optical Tracking",
+      "Frame Rate: 3300 Frames per Second",
+      "Scroll Type: Smooth Scroll Wheel",
+      "Cable Length: 1.2 Meter",
+      "Design: Ergonomic & Durable",
+      "Color: Black"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-01.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-02.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-03.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-04.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-05.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-06.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIREDCOMBO-07.jpg",
+        "alt": "INTEX Wired Combo Click & Type (SMILE IT-KBM888)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Product Type: Wired Keyboard & Mouse Combo",
+        "Feature 2": "Model: SMILE IT-KBM888",
+        "Feature 3": "Interface: USB Plug & Play",
+        "Feature 4": "Keyboard Type: Full Size (104 Keys)",
+        "Feature 5": "Multimedia Keys: 12 Dedicated Shortcut Keys",
+        "Feature 6": "Key Lifespan: Up to 5 Million Keystrokes",
+        "Feature 7": "Keyboard Feature: Spill Resistant Design",
+        "Feature 8": "Mouse DPI: 1200 DPI Optical Sensor",
+        "Feature 9": "Mouse Technology: Optical Tracking",
+        "Feature 10": "Frame Rate: 3300 Frames per Second",
+        "Feature 11": "Scroll Type: Smooth Scroll Wheel",
+        "Feature 12": "Cable Length: 1.2 Meter",
+        "Feature 13": "Design: Ergonomic & Durable",
+        "Feature 14": "Color: Black"
+      },
+      "General": {
+        "Model": "IT-KBM888"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Wired_Combo_Click_Type_Launch_PPT_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-wired-combo-click-type-smile-it-kbm888"
+  }
+}

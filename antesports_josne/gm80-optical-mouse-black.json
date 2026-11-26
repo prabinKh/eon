@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM80 Optical Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923293475",
+    "product_name": "GM80 Optical Gaming Mouse - Black",
+    "product_title": "GM80 Optical Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/gm80-optical-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11_88122868-e6b6-468e-9aa4-b1c72cc5b811.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm80-optical-mouse-black.html",
+  "detail": {
+    "title": "GM80 Optical Gaming Mouse - Black",
+    "model": "AEPP0031",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM80 is built around a high-performance optical sensor delivering pinpoint accuracy, durability and extreme responsiveness across 4 adjustable DPI levels (1200/1800/2400/3600). A honeycomb shell design keeps the mouse just 60 grams, making it lightweight and agile enough for fast flicks without hand fatigue during long play sessions. Three RGB backlit zones and a convenient DPI switch button suit every game and play style, while a 1.5m braided cable with gold-plated USB port ensures stability and minimal signal delay. Universal compatibility across Windows, Mac and Linux means true plug-and-play with no drivers required.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11_88122868-e6b6-468e-9aa4-b1c72cc5b811.jpg",
+        "alt": "GM80 Optical Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI Levels": "1200 / 1800 / 2400 / 3600",
+        "Weight": "60g",
+        "Shell Design": "Honeycomb",
+        "Lighting": "3-Zone RGB",
+        "Compatibility": "Windows, Mac, Linux",
+        "Color": "Black",
+        "DPI LEVELS": "1200 / 1800 / 2400 / 3600",
+        "WEIGHT": "60g",
+        "SHELL DESIGN": "Honeycomb",
+        "LIGHTING": "3-Zone RGB",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹379.00",
+        "MRP (INR)": "₹1,099.00",
+        "SKU": "AEPP0031"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm80-optical-mouse-black"
+  }
+}

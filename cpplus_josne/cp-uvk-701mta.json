@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "Villa",
+    "category_url": "https://cpplusworld.com/products/villa",
+    "subcategory": "Video Door Phones",
+    "subcategory_url": "https://cpplusworld.com/products/video-door-phones/villa",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Video Door Phones",
+    "tab_id": "17",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Video Door Phones",
+      "Villa",
+      "CP-UVK-701MTA"
+    ]
+  },
+  "card_info": {
+    "product_id": "1456",
+    "product_name": "CP-UVK-701MTA",
+    "product_title": "CP-UVK-701MTA-Video Intercom Kit with Memory | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-uvk-701mta",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/6d334e55-7319-4570-a840-685021003e19.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-uvk-701mta.html",
+  "detail": {
+    "title": "CP-UVK-701MTA-Video Intercom Kit with Memory | Cp Plus | Cpplusworld.com",
+    "model": "CP-UVK-701MTA",
+    "brand": "CP Plus",
+    "overview": "Video Intercom Kit with Memory",
+    "features": [
+      "7\" TFT screen (17.78cm)",
+      "Video intercom function: Unlock, voice call, video call, volume adjustment, doorway monitoring",
+      "System Capacity: 2 door stations + 3 indoor monitors",
+      "Multiple bell sounds",
+      "Supports digital wide dynamic range (DWDR)",
+      "In-Built Memory (200 Snapshots)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6d334e55-7319-4570-a840-685021003e19.jpg",
+        "alt": "CP-UVK-701MTA - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/673f0b00-321c-43a8-8f60-bd99722c1cda.jpg",
+        "alt": "CP-UVK-701MTA - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Communication Mode": "Analog",
+        "Display": "7.0\" TFT (17.78cm)",
+        "Audio Input": "1 channel to the microphone; pickup distance 0.5 m",
+        "Audio Output": "1 channel to the speaker",
+        "IR": "Auto IR",
+        "Power Source": "Powered by indoor monitor (Outdoor) ; DC 12V/2A (Monitor)",
+        "Power Consumption": "≤ 1W (standby) ; ≤ 3W (working) - Outdoor ; ≤ 2W (standby) ≤ 5W (working) - Monitor",
+        "Operating Temperature": "-30°C to +60°C (-22°F to +140°F) - Outdoor ; -10°C to +55°C (+14°F to +131°F) - Monitor",
+        "Humidity": "10%RH–95%RH",
+        "Dimension": "131.45 mm × 46.00 mm × 33.80 mm (outdoor) ; 133.90mm × 182.70mm × 17.70mm (Monitor)",
+        "IP Rating": "IP66 (Apply silicon sealant to gaps between the device and the wall. Liquid sodium silicate is recommended. For details, see the quick start guide).",
+        "Casing": "PC + ABS",
+        "Weight": "0.18 kg (Outdoor) ; 0.25kg (Monitor)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVK-701MTA.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/5a35a410-46aa-4424-b0d6-38b30d279be5.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvk-701mta"
+  }
+}

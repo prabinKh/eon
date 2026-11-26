@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "130 2.0 Desktop Speaker",
+    "subcategory_url": "https://www.intex.in/collections/130-2-0-desktop-speaker",
+    "series": "Desktop Speaker",
+    "series_url": "https://www.intex.in/collections/desktop-speaker",
+    "tab_title": "130 2.0 Desktop Speaker",
+    "tab_id": "9379122381018",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "130 2.0 Desktop Speaker",
+      "Intex IT 130 2.0 Desktop Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "9379122381018",
+    "product_name": "Intex IT 130 2.0 Desktop Speaker",
+    "product_title": "Intex IT 130 2.0 Desktop Speaker",
+    "product_url": "https://www.intex.in/products/intex-it-130-2-0-desktop-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_5c68d8de-8fa2-48b5-abf3-0bc7ad6e9ade.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1399.0,
+      "display": "₹1,399.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-it-130-2-0-desktop-speaker.html",
+  "detail": {
+    "title": "Intex IT 130 2.0 Desktop Speaker",
+    "model": "130-2-0",
+    "brand": "Intex",
+    "overview": "Experience powerful and immersive sound in a compact design with the Intex IT 130 2.0 Desktop Speaker. Designed for desktops, laptops, and multimedia setups, this speaker delivers clear audio with its 10W power output and 52mm dynamic drivers. Its sleek and portable design makes it perfect for home, office, and entertainment needs. The USB-powered speaker offers easy plug-and-play connectivity, while the 3.5mm stereo audio jack ensures compatibility with a wide range of devices. Enjoy convenient sound control with the in-line volume controller and enhance your workspace with a stylish, compact audio solution.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_5c68d8de-8fa2-48b5-abf3-0bc7ad6e9ade.jpg",
+        "alt": "Intex IT 130 2.0 Desktop Speaker",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Speaker Type": "2.0 Channel Desktop Speaker",
+        "Power Output": "10W",
+        "Driver Size": "52mm Driver Unit",
+        "Connectivity": "USB Powered + 3.5mm Audio Jack",
+        "Audio Channel": "Stereo Sound",
+        "Volume Control": "In-Line Wired Volume Control",
+        "Design": "Compact & Portable Design",
+        "Cable Length": "1 Meter",
+        "Compatibility": "Desktop, Laptop, PC, Monitor & Other 3.5mm Audio Devices",
+        "Power Source": "USB Power Supply",
+        "Features": "Loud Sound Output, Space-Saving Design, Easy Plug & Play Setup",
+        "Color": "Black",
+        "Model": "130-2-0"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_IT_130_2.0_Desktop_Speaker_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-it-130-2-0-desktop-speaker"
+  }
+}

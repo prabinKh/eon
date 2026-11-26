@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Core Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "series": "Core Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "tab_title": "Core Switches",
+    "tab_id": "4321",
+    "breadcrumbs": [
+      "Transmission",
+      "Core Switches",
+      "Core Switches",
+      "Core Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "142971",
+    "product_name": "S10508",
+    "product_title": null,
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s10508",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11220/ProductImage/1_0_01_20_11220_418859969_temporary_thumb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s10508.html",
+  "detail": {
+    "title": "S10508",
+    "model": "S10508",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11220/ProductImage/1_0_01_20_11220_418859969_temporary_thumb.jpg",
+        "alt": "S10508",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s10508"
+  }
+}

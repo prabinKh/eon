@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "eSATA",
+    "tab_id": "58",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "eSATA"
+    ]
+  },
+  "card_info": {
+    "product_id": "1083",
+    "product_name": "ESS1504C",
+    "product_title": "4 HDDs eSATA Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/esata/ess1504c",
+    "card_image": "https://material.dahuasecurity.com/upfiles/ESS1504C_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ess1504c.html",
+  "detail": {
+    "title": "4 HDDs eSATA Storage",
+    "model": "ESS1504C",
+    "brand": "Dahua",
+    "overview": "Favourite ESS1504C 4 HDDs eSATA Storage Key Points >ESS1504C: 1.5U standard 19-inch rack case >Connect main device via eSATA or USB >eSATA port transmission speed up to 3Gbps >USB 3.0 port data transmission higher than normal >Powerful R / W performance: read >64MB/s, write >64MB/s >ESS1504C: Max support Internal 4 SATA HDD up to 24TB >Recommended with DVR, NVR connection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Model": "ESS1504C",
+        "eSATA Interface": "1 port, up to 3Gbps",
+        "USB Interface": "1 port, USB 3.0",
+        "Internal HDD": "4 SATA ports",
+        "R/W Performance": "Read >64MB/s, Write >64MB/s",
+        "Connection Device": "DVR, NVR",
+        "Power Supply": "AC 100~240V, 50/60Hz",
+        "Power Consumption (without HDD)": "6.8W",
+        "Fan": "1 pcs",
+        "Working Environment": "0℃~40℃(Working) , -20℃~70℃(Storage) 86kpa～106kpa /10%－90%RH(working), 5%-90%RH(Storage)",
+        "Dimension(WxHxD)": "1.5U, 440mmx70mmx408mm",
+        "Weight": "4.2KG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52137/datasheet/ESS1504C_Datasheet_20150724.pdf"
+      },
+      {
+        "name": "2024-11-30 #User Manual ESS150XC Series_QSG_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0003414/2941397/ESS150XC_Series_QSG_V1.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/esata/ess1504c"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Traffic Sensors",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Traffic Sensors",
+    "tab_id": "607",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Traffic Sensors",
+      "Traffic Sensors"
+    ]
+  },
+  "card_info": {
+    "product_id": "131917",
+    "product_name": "ITARD-024MA-H",
+    "product_title": "Multi Target Bayonet Radar",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-sensors/itard-024ma-h",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231024/1_9_10_01_10265_17748090166_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itard-024ma-h.html",
+  "detail": {
+    "title": "Multi Target Bayonet Radar",
+    "model": "ITARD-024MA-H",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITARD-024MA-H Multi Target Bayonet Radar Key Points • One Single Radar Covers Up to 128 Vehicles of 1-4 Lanes • Detection Range: 10 km/h–250 km/h • Easy Installation and Easy Configuration • Detection Distance: 10 m–110 m • The Detection Performance Is Not Impaired by Adjacent Lane or Vehicles In Front of or behind the Target • Certifications: OIML R91 • Water and Dust Resistant(lP66) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231024/1_9_10_01_10265_17748090166_crop_thumb.png",
+        "alt": "ITARD-024MA-H_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10265/ProductImage/1_9_10_01_10265_1774809019_crop_thumb.png",
+        "alt": "ITARD-024MA-H_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10265/ProductImage/1_9_10_01_10265_1774809017_crop_thumb.png",
+        "alt": "ITARD-024MA-H_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10265/ProductImage/1_9_10_01_10265_1774809018_crop_thumb.png",
+        "alt": "ITARD-024MA-H_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Performance": {
+        "Lane Coverage": "1–4 lane(s) (3.75 m (12.30 ft) standard lane)",
+        "Speed Measurement Range": "10 km/h–250 km/h",
+        "Speed Measurement Accuracy": "Simulated speed measurement: ±1% On-site speed measurement error range: Vehicle speed < 100 km/h: ± 2 km/h Vehicle speed ≥ 100 km/h: ± 2%",
+        "Detection Target": "Up to 128 vehicles",
+        "Detection Range": "10 m–110 m (32.81 ft–360.89 ft)",
+        "Installation Height": "4 m–8 m (13.1 ft–26.2 ft)",
+        "Position Detection Accuracy": "± 1 m (3.3 ft)",
+        "Overspeed Capture Rate": "≥ 97% (when traffic is smooth)",
+        "Lane Recognition Rate": "≥ 97%",
+        "Frequency": "24 GHz–24.25 GHz",
+        "Response Time": "≤ 50 ms",
+        "Transmit Power (EIRP)": "20 dBm (100 mW)",
+        "Modulation": "FMCW",
+        "Detection Direction": "Approaching/Leaving",
+        "Bandwidth": "250 MHz",
+        "Protection Grade": "IP66",
+        "Radar Beam Angle": "Horizontal: 60° (–3 dB) Vertical: 10° (–3 dB)"
+      },
+      "General": {
+        "Operating Voltage": "12 VDC",
+        "Average Power Consumption": "< 3.5 W",
+        "Operating Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Relative Humidity": "10%–90% (RH, non-condensing)",
+        "Dimensions": "199.5 mm × 183.0 mm × 52.3 mm (7.85'' × 7.20'' × 2.05'') (L × W × H)",
+        "Weight": "1 kg (2.20 lb)",
+        "Installation": "Center mount/Side mount",
+        "Certifications": "CE, OIML R91"
+      },
+      "Port": {
+        "RS-485": "1. Connects cameras",
+        "Network Port": "1 RJ-45 for device debugging and update. Supports 10/100 Mbps data transmission"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITARD-024MA-H_datasheet_20241109.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Multi Target Bayonet Radar_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005747/2924070/Dahua_Multi_Target_Bayonet_Radar_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Multi Target Bayonet Radar_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005747/2924072/Dahua_Multi_Target_Bayonet_Radar_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document ITARD-024MA-H_A&E_20260904163349 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/72327/a_e_document/1788511242428.docx"
+      },
+      {
+        "name": "2023-02-28 #Drawings ITARD-024MA-H_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/72327/drawings/ITARD-024MA-H_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-02-28 #Drawings ITARD-024MA-H_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/72327/drawings/ITARD-024MA-H_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-sensors/itard-024ma-h"
+  }
+}

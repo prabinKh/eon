@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Indoor Monitor",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "5787",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Indoor Monitor",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "37717",
+    "product_name": "VTH1550CH-S2",
+    "product_title": "IP Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/indoor-monitor/lite-series/vth1550ch-s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.15.10953/ProductImage/1340437098655_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth1550ch-s2.html",
+  "detail": {
+    "title": "IP Indoor Monitor",
+    "model": "VTH1550CH-S2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH1550CH-S2 IP Indoor Monitor Key Points • 7-inch TFT Capacitive Touch Screen • IPC Surveillance • Alarm Integration • Micro SD Card Optional, Max 32GB • Record & Snapshot (SD Card Needed) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.15.10953/ProductImage/1340437098655_thumb.png",
+        "alt": "VTH1550CH-S2_Image.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "VTH1550CH-S2"
+      },
+      "System": {
+        "Main Processor": "Embedded Micro Processor",
+        "Operation System": "Embedded LINUX OS"
+      },
+      "Video": {
+        "Video Compression": "H.264"
+      },
+      "Audio": {
+        "Audio Compression": "G.711",
+        "Audio Input": "All-direction Microphone",
+        "Audio Output": "Built-in Loudspeaker",
+        "Bidirectional Talk": "Support Dual-way Bidirectional talk"
+      },
+      "Display": {
+        "LCD Screen": "7“ 800x480, Capacitive"
+      },
+      "Operation Mode": {
+        "Input": "Touch buttons"
+      },
+      "Interface": {
+        "Alarm In": "6",
+        "Alarm Out": "1",
+        "RS485": "1"
+      },
+      "Network": {
+        "Ethernet": "10M/100Mbps Self-adaptive",
+        "Network Protocol": "TCP/IP"
+      },
+      "General": {
+        "Memory Slot": "Micro SD, Max 32GB",
+        "Installation": "Surface",
+        "Power": "DC 12V/ supply directly by VTNS1060A",
+        "Power Consumption": "Standby ≤1.5W, Work ≤7W",
+        "Working Temperature": "﹣10°C~+55°C",
+        "Relative Humidity": "10%~90%RH",
+        "Dimensions": "200.5mm×136.5mm×22.0mm",
+        "Weight": "0.8Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20190910/VTH1550CH-S2_Datasheet_20190828.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual Dahua Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10357/user_manual/Dahua_Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.PDF"
+      },
+      {
+        "name": "2025-02-26 #User Manual Dahua Digital Indoor Monitor_SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16787/user_manual/Dahua_Digital_Indoor_Monitor_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual Dahua Digital Indoor Monitor_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004584/202502/Dahua_Digital_Indoor_Monitor_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual Digital VTH_User's Manual_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27587/user_manual/Digital_VTH_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual Digital VTH_Quick Start Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004584/202502/Digital_VTH_Quick_Start_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual Indoor Monitor_Installation Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004584/202502/Indoor_Monitor_Installation_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings VTH1550CH-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16787/drawings/VTH1550CH-S2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings VTH1550CH-S2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16787/drawings/VTH1550CH-S2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings VTH1550CH-S2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16787/drawings/VTH1550CH-S2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-06-28 #Firmware DH_VTHX421L_MultiLang_SIP_V4.510.0000000.1.R.230509 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2228397/M/DH_VTHX421L_MultiLang_SIP_V4.510.0000000.1.R.230509.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/indoor-monitor/lite-series/vth1550ch-s2"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series",
+    "tab_title": "SD2",
+    "tab_id": "18209",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+      "SD2"
+    ]
+  },
+  "card_info": {
+    "product_id": "152626",
+    "product_name": "SD22204DB-GNY-W",
+    "product_title": "2MP 4x Starlight WizSense Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras/ip-pt-3-series/sd2/sd22204db-gny-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221111/SD22204DB-GNY-W_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd22204db-gny-w.html",
+  "detail": {
+    "title": "2MP 4x Starlight WizSense Network PTZ Camera",
+    "model": "SD22204DB-GNY-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD22204DB-GNY-W 2MP 4x Starlight WizSense Network PTZ Camera Key Points • High-Quality Imaging with 2MP Resolution • 4× Optical Zoom Provide Close Up Views Over Expansive Areas • Deep Learning-Based Human and Vehicle Classification • Face Detection：Leveraging Facial Data to Enhance Analytics Accuracy • Supports Wi-Fi for Wireless Connectivity and Remote Monitoring • IP66 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221111/SD22204DB-GNY-W_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221111/SD22204DB-GNY-W_3_thumb.png",
+        "alt": "SD22204DB-GNY-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221111/SD22204DB-GNY-W_2_thumb.png",
+        "alt": "SD22204DB-GNY-W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Electronic Shutter Speed": "1/1 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.005 lux@F1.6 B/W: 0.0005 lux@F1.6",
+        "Focal Length": "2.8 mm–12 mm",
+        "Max. Aperture": "F1.6–F3.0",
+        "Field of View": "H: 99.1°–31.9°; V: 53.4°–18.0°; D: 117.7°–36.6°",
+        "Optical Zoom": "4×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "1.5 m (4.92 ft)",
+        "Iris Control": "Fixed",
+        "DORI Distance": "Detect",
+        "165.5 m (542.98 ft)": "65.4 m (214.57 ft)",
+        "Pan/Tilt Range": "Pan: 0°–355° Tilt: 0°–90°",
+        "Manual Control Speed": "Pan: 0.1°/s–100°/s Tilt: 0.1°/s–60°/s",
+        "Preset Speed": "Pan: 100°/s; Tilt: 60°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Idle Motion": "Pattern; Preset; Tour",
+        "PTZ Protocol": "SD Pelco-P/D(Auto recognition)",
+        "PTZ Locked": "Yes",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; crossing fence detection; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; vehicle/human alarm classification",
+        "Face Detection": "Supports face detection, face track, snapshot, and face enhancement; Supports face cutout: Face, one-inch photo; Capturing strategies include real-time capturing and quality first.",
+        "SMD": "Yes",
+        "Video Compression": "H.264H; H.264B; Smart H.265+; H.264; H.265; MJPEG(Sub Stream); Smart H.264+",
+        "Streaming Capability": "3 streams",
+        "Resolution": "1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576); CIF (352 × 288); VGA (640 × 480)",
+        "Video Frame Rate": "Main stream: 1080p/1.3M/720p@(1–25/30 fps) Sub stream 1: D1/VGA/CIF@(1–25/30 fps) Sub stream 2: 1080p/1.3M/720p@(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 2048 kbps–8192 kbps H.265: 768 kbps–6400 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; ATW; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Yes",
+        "Defog": "Electronic defog",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "S/N Ratio": "≥ 55 dB",
+        "Privacy Mask": "Up to 24 areas can be set, with up to 8 areas in the same view; 8 colors available",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "Yes",
+        "Wi-Fi–Wireless Standard": "802.11n; IEEE802.11b; 802.11g",
+        "Wi-Fi–Wireless Frequency Range": "2.4GHz",
+        "Wi-Fi–Wireless Transmission Rate": "150 Mbps",
+        "Max Transmission Power": "≤20 dBm@2400–2483.5 MHz",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; IPv6; 802.1x; SSL; Qos; FTP; UPnP; ICMP; SNMP; IGMP; ARP; RTCP; RTP; PPPoE; RTMP; Bonjour; SAMBA; NFS",
+        "Interoperability": "ONVIF(Profile S&G&T); P2P; CGI; SDK",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP; Micro SD card (512 GB); NAS",
+        "Browser": "IE 9 and later versions Chrome 41 and later versions Firefox 50 and later versions iOS 10 and later versions.",
+        "Management Software": "DMSS; DSS Pro",
+        "Mobile Client": "iOS; Android",
+        "Certifications": "CE: CE-LVD: IEC 62368-1/ CE-EMC/EN55032/ EN61000-3-3/EN IEC61000-3-2/EN50130-4/EN55035 FCC: 47 CFR FCC Part15, Subpart B, ANSI C63.4:2014",
+        "Alarm Linkage": "Capture; preset; tour; pattern; recordings; alarm digital input; send email",
+        "Alarm Event": "Motion/Tampering detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection; power exception detection",
+        "Power Supply": "12 VDC, 1 A ± 10%",
+        "Power Consumption": "Basic: 2.7 W Max.: 4.8 W",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Storage Humidity": "≤ 95%",
+        "Protection": "IP66, IK10",
+        "Product Dimensions": "89 mm × Φ122 mm (3.50\" × Φ4.80\")",
+        "Net Weight": "0.5 kg (1.10 lb)",
+        "Gross Weight": "0.7 kg (1.54 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-SD22204DB-GNY-W_S0_datasheet_20251104.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51517/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-10-22 #A&E Document SD22204DB-GNY-W_A&E_20260917213112 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51517/a_e_document/1789651906473.docx"
+      },
+      {
+        "name": "2022-09-17 #Drawings SD22204DB-GNY-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54417/drawings/SD22404T-GN-W_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-09-17 #Drawings SD22204DB-GNY-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51517/drawings/SD22204DB-GNY-W_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-08-22 #Firmware DH_SD-Gauss-Civil_MultiLang_PN_Stream3-xiaobei_V3.201.0000007.4.R.260810 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51507/firmware/DH_SD-Gauss-Civil_MultiLang_PN_Stream3-xiaobei_V3.201.0000007.4.R.260810.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras/ip-pt-3-series/sd2/sd22204db-gny-w"
+  }
+}

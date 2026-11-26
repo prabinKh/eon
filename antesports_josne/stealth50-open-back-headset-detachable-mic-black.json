@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "Stealth 50 Open-Back Wireless Headset -  Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444656419",
+    "product_name": "Stealth 50 Open-Back Wireless Headset -  Black",
+    "product_title": "Stealth 50 Open-Back Wireless Headset -  Black",
+    "product_url": "https://antesports.com/products/stealth50-open-back-headset-detachable-mic-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29_2d91c565-621c-45fc-9d02-292d376ebaad.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/stealth50-open-back-headset-detachable-mic-black.html",
+  "detail": {
+    "title": "Stealth 50 Open-Back Wireless Headset -  Black",
+    "model": "AEPP0370",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Stealth 50 is an open-back wireless gaming headset combining Bluetooth 5.4 and low-latency 2.4GHz connectivity for flexible use across PC, PS5, laptop, mobile and tablet. Its open-back design lets 50mm drivers breathe more naturally, producing a wider, more spacious soundstage than typical closed-back gaming headsets, ideal for music, competitive gaming and immersive media alike. A detachable microphone can be removed for casual listening or attached for clear voice communication during gaming and calls, while customizable RGB lighting adds a distinctive visual accent. USB Type-C charging keeps the headset topped up quickly between sessions, and the low-latency 2.4GHz mode ensures audio stays perfectly synced with fast-paced on-screen action.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29_2d91c565-621c-45fc-9d02-292d376ebaad.jpg",
+        "alt": "Stealth 50 Open-Back Wireless Headset -  Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Design": "Open-Back",
+        "Connectivity": "Bluetooth 5.4 + 2.4GHz",
+        "Driver Size": "50mm",
+        "Microphone": "Detachable",
+        "Charging": "USB-C",
+        "Compatibility": "PC, PS5, Laptop, Mobile, Tablet",
+        "Color": "Black",
+        "DESIGN": "Open-Back",
+        "CONNECTIVITY": "Bluetooth 5.4 + 2.4GHz",
+        "DRIVER SIZE": "50mm",
+        "MICROPHONE": "Detachable",
+        "CHARGING": "USB-C",
+        "COMPATIBILITY": "PC, PS5, Laptop, Mobile, Tablet",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹7,999.00",
+        "MRP (INR)": "₹14,999.00",
+        "SKU": "AEPP0370"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (STEALTH)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-Stealth-10.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/stealth50-open-back-headset-detachable-mic-black"
+  }
+}

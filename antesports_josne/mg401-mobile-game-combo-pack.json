@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "MG401 Mobile Gaming Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791836963",
+    "product_name": "MG401 Mobile Gaming Combo",
+    "product_title": "MG401 Mobile Gaming Combo",
+    "product_url": "https://antesports.com/products/mg401-mobile-game-combo-pack",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15_29d3b864-c354-4085-a16e-9fe6ab9c3eb6.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mg401-mobile-game-combo-pack.html",
+  "detail": {
+    "title": "MG401 Mobile Gaming Combo",
+    "model": "AEPP0163",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MG401 is a cutting-edge mobile gaming combo built for PUBG, Call of Duty and other FPS titles on Android and iOS. The one-handed RGB backlit keyboard features 35 membrane keys including dedicated WASD keys, a built-in palm rest and a compact footprint that saves desk space during extended sessions. The included precision mouse offers 6 keys with side-mounted backward buttons and a quick DPI switch spanning 1200 to 3600 DPI for accurate, responsive cursor movement. A Bluetooth receiver with dual USB ports lets both devices connect to any Bluetooth-enabled device simultaneously, transforming the combo into a wireless mobile gaming converter, while an included mobile stand keeps the phone at an ideal inclined viewing angle for immersive gameplay.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15_29d3b864-c354-4085-a16e-9fe6ab9c3eb6.png",
+        "alt": "MG401 Mobile Gaming Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Keys": "35, One-Handed",
+        "Mouse DPI": "1200-3600",
+        "Connectivity": "Bluetooth Receiver, Dual USB",
+        "Included": "Mobile Stand",
+        "Compatibility": "Android, iOS",
+        "KEYBOARD KEYS": "35, One-Handed",
+        "MOUSE DPI": "1200-3600",
+        "CONNECTIVITY": "Bluetooth Receiver, Dual USB",
+        "INCLUDED": "Mobile Stand",
+        "COMPATIBILITY": "Android, iOS",
+        "Offer Price (INR)": "₹3,499.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0163"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mg401-mobile-game-combo-pack"
+  }
+}

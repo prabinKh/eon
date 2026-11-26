@@ -1,0 +1,193 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Cloud Managed Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "series": "Cloud Managed Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "tab_title": "Cloud Managed Switches",
+    "tab_id": "15717",
+    "breadcrumbs": [
+      "Transmission",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "155870",
+    "product_name": "CS4008-6GT-90",
+    "product_title": "8-Port Cloud Managed Desktop Switch with 6-Port PoE",
+    "product_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches/cs4008-6gt-90",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/image/1_0_01_20_12230_958681232_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/cs4008-6gt-90.html",
+  "detail": {
+    "title": "8-Port Cloud Managed Desktop Switch with 6-Port PoE",
+    "model": "CS4008-6GT-90",
+    "brand": "Dahua",
+    "overview": "New Favourite CS4008-6GT-90 8-Port Cloud Managed Desktop Switch with 6-Port PoE Key Points • 6 × RJ-45 10/100/1000 Mbps (PoE) Ports, 2 × RJ-45 100/1000 Mbps (Uplink) Ports • 802.3af/at/Hi-PoE/bt PoE Standard, PoE Watchdog, 250m Long Distance PoE, Intelligent POE • Supports STP, RSTP • IEEE802.1Q-Based VLAN Configuration • Static Link Aggregation • WEB-Managed and Centralized Cloud Management through DoLynk Care • Desktop mount, Wall mount Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/image/1_0_01_20_12230_958681232_crop_thumb.PNG",
+        "alt": "CS4008-6GT-90_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/image/1_0_01_20_12230_958681233_crop_thumb.PNG",
+        "alt": "CS4008-6GT-90_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/image/1_0_01_20_12230_958681234_crop_thumb.PNG",
+        "alt": "CS4008-6GT-90_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Layer": {},
+      "Switching Capacity": {},
+      "Packet Forwarding Rate": {},
+      "Description of Function Slots": {},
+      "Operating Temperature": {},
+      "Adapter Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Power Supply": {},
+      "Included Power Adapter": {},
+      "Power Consumption": {},
+      "Statics Protection": {},
+      "Lightning Protection (Ethernet Port)": {},
+      "Lightning Protection (Power Port)": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Casing Material": {},
+      "Installation": {},
+      "Certifications": {},
+      "PoE": {},
+      "PoE Power": {},
+      "PoE Protocol": {},
+      "PoE Power Consumption Management": {},
+      "PoE Pin Assignment": {},
+      "Long Distance PoE Transmission": {},
+      "PoE Watchdog": {},
+      "Perpetual PoE": {},
+      "DIP Switch": {},
+      "Reset Button": {},
+      "EMI": {},
+      "EMS": {},
+      "MTBF": {},
+      "Packet Buffer Size": {},
+      "Jumbo Frame": {},
+      "MAC Table Size": {},
+      "Total Static MAC Addresses": {},
+      "Flash": {},
+      "RAM": {},
+      "Communication Standard": {},
+      "Aggregation Group": {},
+      "Management VLAN": {},
+      "VLAN Number": {},
+      "LLDP": {},
+      "Ethernet Loop Protection": {},
+      "VLAN Function": {},
+      "Link Aggregation": {},
+      "Port Feature": {},
+      "Mirror": {},
+      "DHCP Function": {},
+      "Security": {},
+      "QoS/ACL": {},
+      "Equipment Management": {},
+      "Packing List": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/datasheet/DH-CS4008-6GT-90_datasheet_20260727_English.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Ethernet Switch (Cloud-Managed Desktop Switch)_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_(Cloud-Managed_Desktop_Switch)_Quick_Start_Guide_V1.0.1.zip"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Ethernet Switch (Cloud Managed Switch)_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_(Cloud_Managed_Switch)_User_Manual_V1.0.2.zip"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua DoLynk Care (Ethernet Switch)_Quick Configuration Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_DoLynk_Care_(Ethernet_Switch)_Quick_Configuration_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Ethernet Switch_Hardware Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_Hardware_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua Ethernet Switch_Hardware Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_Hardware_Installation_Guide_V1.0.0.zip"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua DoLynk Care (Ethernet Switch)_Quick Configuration Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_DoLynk_Care_(Ethernet_Switch)_Quick_Configuration_Manual_V1.1.0.zip"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Ethernet Switch (Cloud Managed Switch)_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_(Cloud_Managed_Switch)_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Ethernet Switch (Cloud-Managed Desktop Switch)_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_(Cloud-Managed_Desktop_Switch)_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-07-10 #A&E Document CS4008-6GT-90_A&E_20260923152651 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/a_e_document/1790149849409.docx"
+      },
+      {
+        "name": "2026-06-16 #Drawings CS4008-6GT-90_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/drawings/1_0_01_20_12230_959456873.pdf"
+      },
+      {
+        "name": "2026-06-16 #Drawings CS4008-6GT-90_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/drawings/1_0_01_20_12230_959232268.pdf"
+      },
+      {
+        "name": "2026-06-16 #Drawings CS4008-6GT-90_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/drawings/1_0_01_20_12230_959232264.pdf"
+      },
+      {
+        "name": "2026-07-31 #Drawings CS4008-6GT-90_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/drawings/1_0_01_20_12230_976925369.pdf"
+      },
+      {
+        "name": "2026-08-06 #Firmware DH_TS-S4XXX-Pandora_S41XX_Eng_Full_V1.000.0000001.2.R.20260721 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/firmware/DH_TS-S4XXX-Pandora_S41XX_Eng_Full_V1.000.0000001.2.R.20260721.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches/cs4008-6gt-90"
+  }
+}

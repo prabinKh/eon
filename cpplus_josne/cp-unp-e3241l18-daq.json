@@ -1,0 +1,155 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "Speed Dome(PTZ)",
+    "subcategory_url": "https://cpplusworld.com/products/speed-dome/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Speed Dome(PTZ)",
+    "tab_id": "24",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Speed Dome(PTZ)",
+      "Network",
+      "CP-UNP-E3241L18-DAQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2088",
+    "product_name": "CP-UNP-E3241L18-DAQ",
+    "product_title": "CP-UNP-E3241L18-DAQ",
+    "product_url": "https://cpplusworld.com/cp-unp-e3241l18-daq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/988f3b1c-e2e0-4d4b-9bf5-b35187df77da.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unp-e3241l18-daq.html",
+  "detail": {
+    "title": "CP-UNP-E3241L18-DAQ",
+    "model": "CP-UNP-E3241L18-DAQ",
+    "brand": "CP Plus",
+    "overview": "4MP WDR 32x IR Network PTZ Camera- 180 Mtr.",
+    "features": [
+      "1/2.8” 4MP PS CMOS Image sensor (0.9071 centimeters)",
+      "Max. 4MP (2688 x 1520)@1-25fps",
+      "Instastream, H.265, H.264, H.264B, H.264H, MJPEG",
+      "Support Triple stream",
+      "Powerful 32x Optical and 16x Digital zoom",
+      "WDR(120dB), 2D NR/ 3D NR, Day/Night(ICR), ROI, Defog, AWB, BLC",
+      "Up to 300 Presets, 5 Scan, 8 Tour, 5 Pattern",
+      "Support Starlight Technology",
+      "IR  Range of 180 Mtr..",
+      "Support PoE, IP67, IK10",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/988f3b1c-e2e0-4d4b-9bf5-b35187df77da.jpg",
+        "alt": "CP-UNP-E3241L18-DAQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0acb33ae-72dc-49f3-a2c8-34611cdad428.jpg",
+        "alt": "CP-UNP-E3241L18-DAQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 4MP PS CMOS Image sensor (0.9071 centimeters)",
+        "Effective Pixels": "2688(H) × 1520(V)",
+        "Max. Aperture": "F1.6–F4.0",
+        "RAM": "512 MB",
+        "ROM": "256 MB",
+        "Minimum Illumination": "Color: 0.005 lux@F1.6, B/W: 0.0005 lux@F1.6, 0 lux (IR light on)",
+        "Focus Control": "Auto, Semi-auto, Manual",
+        "S/N Ratio": "≥55 dB",
+        "White Balance": "Auto, Indoor, Outdoor, ATW, Manual, Sodium lamp, Natural light, Street lamp",
+        "Angle of View": "H: 55.8°–2.4°, V: 31.9°–1.3°, D: 63.7°–2.7°",
+        "Focal Length": "4.8 mm–154 mm",
+        "Close Focus Distance": "0.8 m–5.0 m",
+        "Iris Control": "Auto, Manual",
+        "Electronic Shutter": "1/1 s–1/30,000 s",
+        "DORI Distance": "2,124 m (Detect), 839 m (Observe), 425 m (Recognize), 212 m (Identify)",
+        "Video Format": "PAL",
+        "Overlay": "Channel Title, Time Title, OSD Info (PTZ Coordinate, Zoom, North, Pattern, Temperature,      Preset, Location, Input Text, Text Alignment), Font Properties, Custom Title, Exception Overlay",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "Pan/ Tilt Range": "Pan: 0° to 360° endless, Tilt: –15° to +90°, auto flip 180°",
+        "Optical Zoom": "32×",
+        "Digital Zoom": "16x",
+        "Bit Rate": "H265: 16 Kbps–7424 Kbps, H264: 40 Kbps–8192 Kbps",
+        "Image Rotation": "180°",
+        "Resolution": "4MP (2688 × 1520)/ (2560 × 1440), 3MP (2304 × 1296), 2MP (1920 × 1080), 1.3MP  (1280 × 960), 720p (1280 × 720), D1 (704 × 576), VGA (640 × 480), CIF (352 × 288)",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "Manual Speed": "Pan: 0.1°/s–300°/s, Tilt: 0.1°/s–200°/s",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Preset Speed": "Pan: 400°/s, Tilt: 300°/s",
+        "Noise Reduction": "2D NR, 3D NR",
+        "Power-off Memory": "Support",
+        "Privacy Mask": "Up to 24 areas can be set, with up to 8 areas in the same view",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Defog": "Support",
+        "Special Features": "Up to 300 Presets, 5 Pattern, 8 (up to 32 presets per tour) Tour, 5 Scan",
+        "Idle Motion": "Preset, Pattern, Tour, Scan",
+        "IR Number": "4 IR",
+        "IR": "180 Mtr.",
+        "IR Control": "Zoom Priority, Manual, Smart IR",
+        "stream Capability": "Triple stream",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Video Compression": "IInstastream, H.265, H.264, H.264B, H.264H, MJPEG (Sub Stream)",
+        "Bit Rate Control": "CBR/VBR",
+        "Frame Rate": "Main stream: 4MP@1-25fps, 1080p,720p@1-50 fps Sub stream 1: D1 (704 × 576)@1-25fps, VGA (640 × 480) @1-25fps, CIF(352 × 288)@1-25fps   Sub stream 2: 720P (1280 × 720)@1-25fps",
+        "Motion Detection": "Support",
+        "Audio Compression": "AAC, PCM, G.711A, G.711MU, G.726, MPEG2-Layer2, G.722.1",
+        "ROI": "Support",
+        "Event Alarm": "Motion Detection, Defocus Detection, Disk Full, Disk Error, Video Tampering, External Alarm,  Security Warning, Audio Detection, AI Event",
+        "Two-way audio": "Support",
+        "Auto Tracking": "Support",
+        "Audio In": "1 Channel",
+        "Audio Out": "1 Channel",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs,  WSSE, Account lockout, Syslog, Video encryption, 802.1x, Allow list/Block list, HTTPS, Trusted  upgrade, Trusted boot, Firmware encryption",
+        "Alarm IN": "2 Channel",
+        "Alarm Out": "1 Channel",
+        "Alarm Linkage": "Capture, Recording, Send email, Preset, Tour, Pattern, Alarm digital output",
+        "Protocols": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, QoS,  UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3,  ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "IVS (Perimeter Protection)": "Crossing virtual fence, Tripwire, Intrusion, Abandoned Object, Fast Moving, Parking Detection,  Crowd Gathering, Missing Object, Loitering Detection, IMD",
+        "Reset Button": "Support",
+        "IMD": "Support",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "User/Host": "20 (Total Bandwidth: 64 M)",
+        "Browser": "IE, Chrome, Firefox, Safari",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE,  FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "24 VDC, 2.5 A (± 25%) PoE +(802.3at)",
+        "Power Consumption": "Basic: 8W Max.: 19W (IR + PTZ working)",
+        "Weatherproof Standard": "IP67, IK10, TVS 6000 V lightning proof, Surge protection, voltage transient protection",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤ 95% (RH)",
+        "Dimension": "331.9 mm × 190.4 mm",
+        "Weight": "4600g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNP-E3241L18-DAQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unp-e3241l18-daq"
+  }
+}

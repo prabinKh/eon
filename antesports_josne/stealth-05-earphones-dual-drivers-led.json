@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "Stealth 05 USB Type-C Wired Earphones"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444492579",
+    "product_name": "Stealth 05 USB Type-C Wired Earphones",
+    "product_title": "Stealth 05 USB Type-C Wired Earphones",
+    "product_url": "https://antesports.com/products/stealth-05-earphones-dual-drivers-led",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/32.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/stealth-05-earphones-dual-drivers-led.html",
+  "detail": {
+    "title": "Stealth 05 USB Type-C Wired Earphones",
+    "model": "AEPP0383",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Stealth 05 is a USB Type-C wired in-ear earphone built around dual 10mm drivers for HD stereo sound with genuinely punchy bass, ideal for gaming, music and calls on Android, PC, laptops and tablets. Built-in RGB LED lighting adds a distinctive visual touch not commonly found on in-ear designs, while a durable 1.2m cable and inline microphone support hands-free calls and voice assistant access. Digital USB Type-C connectivity ensures consistent, high-quality audio output without relying on an analog 3.5mm jack, making it a compact, portable choice for anyone who wants gaming-grade sound in an earbud form factor.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/32.jpg",
+        "alt": "Stealth 05 USB Type-C Wired Earphones - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Driver Size": "Dual 10mm",
+        "Connectivity": "USB Type-C, Wired",
+        "Cable Length": "1.2m",
+        "Lighting": "RGB LED",
+        "Compatibility": "Android, PC, Laptop, Tablets",
+        "DRIVER SIZE": "Dual 10mm",
+        "CONNECTIVITY": "USB Type-C, Wired",
+        "CABLE LENGTH": "1.2m",
+        "LIGHTING": "RGB LED",
+        "COMPATIBILITY": "Android, PC, Laptop, Tablets",
+        "Offer Price (INR)": "₹499.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0383"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (STEALTH)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-Stealth-10.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/stealth-05-earphones-dual-drivers-led"
+  }
+}

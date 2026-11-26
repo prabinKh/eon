@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "AEKS100 Kitchen Weighing Machine"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341738414371",
+    "product_name": "AEKS100 Kitchen Weighing Machine",
+    "product_title": "AEKS100 Kitchen Weighing Machine",
+    "product_url": "https://antesports.com/products/aeks100-kitchen-weighing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aeks100-kitchen-weighing-machine.html",
+  "detail": {
+    "title": "AEKS100 Kitchen Weighing Machine",
+    "model": "AVLP0069",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEKS100 Digital Kitchen Weighing Scale delivers accurate, convenient food measurement for cooking, baking and everyday use. High-precision sensors, a bright backlit LCD display, tare function for easy ingredient measurement, auto on/off, and a compact, wall-hangable design make it ideal for home kitchens and small shops.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22.png",
+        "alt": "AEKS100 Kitchen Weighing Machine - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Capacity": "Up to 10 Kg",
+        "Display": "0.6\" LED backlit LCD",
+        "Units": "Grams / Ounces",
+        "Functions": "Tare, Auto On/Off, Low Battery & Overload Indicator",
+        "Power": "2 x AAA batteries (included)",
+        "Dimensions": "24 x 4 x 17.7 cm",
+        "Weight": "280 g",
+        "Color": "White",
+        "CAPACITY": "Up to 10 Kg",
+        "DISPLAY": "0.6\" LED backlit LCD",
+        "UNITS": "Grams / Ounces",
+        "FUNCTIONS": "Tare, Auto On/Off, Low Battery & Overload Indicator",
+        "POWER": "2 x AAA batteries (included)",
+        "DIMENSIONS": "24 x 4 x 17.7 cm",
+        "WEIGHT": "280 g",
+        "COLOR": "White",
+        "SKU": "AVLP0069"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aeks100-kitchen-weighing-machine"
+  }
+}

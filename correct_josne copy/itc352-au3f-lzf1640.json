@@ -1,0 +1,201 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "ITC",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "ITC",
+    "tab_id": "721",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "ITC",
+      "ITC"
+    ]
+  },
+  "card_info": {
+    "product_id": "60107",
+    "product_name": "ITC352-AU3F-LZF1640",
+    "product_title": "3MP All-in-one AI Enforcement Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/3mp/itc352-au3f-lzf1640",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14331/ProductImage/1_0_01_09_14331_1177506725_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc352-au3f-lzf1640.html",
+  "detail": {
+    "title": "3MP All-in-one AI Enforcement Camera",
+    "model": "ITC352-AU3F-LZF1640",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC352-AU3F-LZF1640 3MP All-in-one AI Enforcement Camera Key Points • 2/3\" GS-CMOS Image Sensor with A Resolution of 2048 × 1536 • ANPR Distance Covers up to 30 m • Covers up to 2 Lanes • Speeds Up to 300 km/h • IP66 Waterproof and IK10 Vandal Proof Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14331/ProductImage/1_0_01_09_14331_1177506725_crop_thumb.png",
+        "alt": "ITC352-AU3F-LZF1640_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14331/ProductImage/1_0_01_09_14331_1177506726_crop_thumb.png",
+        "alt": "ITC352-AU3F-LZF1640_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "2/3\" GS-CMOS",
+        "Shutter Mode": "Single shutter; double shutters; three shutters",
+        "Electronic Shutter Speed": "Auto/Manual 1/50 s–1/100,000 s",
+        "Noise Reduction": "3D NR",
+        "S/N": "48 dB",
+        "WDR": "120 dB",
+        "Minimum intensity": "0.001 lux",
+        "Day/Night": "Supports ICR auto switch: IR cut-off filter (IRCF) with the polarizing filter is used during the daytime, and switches to the common IR cut-off filter at night"
+      },
+      "Illuminator": {
+        "Illuminator Number": "6",
+        "Illumination Distance": "23 m–30 m (75.46 ft–98.43 ft) (adjustable brightness)",
+        "Covered lane": "2 lanes"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Focal Length": "16 mm–40 mm",
+        "Max. Aperture": "F1.5",
+        "Aperture Type": "P iris",
+        "Field of View": "Horizontal: 12.8°–30.28° Vertical: 7.2°–16.96° Diagonal: 13.2°–30.9°"
+      },
+      "Function": {
+        "Trigger Mode": "Video detection; radar",
+        "Speed Detection Range": "0 km/h–300 km/h",
+        "OSD Overlay": "Time, address, lane No., plate, plate color, and more",
+        "Alarm Event": "Storage full, storage error, external alarm, no storage card, license plate blocklist, illegal access, network disconnection, and IP conflict",
+        "Automatic Network Replenishment (ANR)": "Platform and FTP (TF card is required)",
+        "Auto Registration": "Yes"
+      },
+      "Intelligence": {
+        "Target Detection": "Motor vehicle; motorcycle",
+        "Face Detection": "Detects the driver and front-seat passenger of motor vehicles, and motorcycle drivers; extracts face images",
+        "ANPR": "Adopts developed algorithms to recognize license plate numbers and letters",
+        "Vehicle Type Recognition": "Vehicle head: SUV, Large bus, sedan, light truck, pickup, heavy truck, medium truck, van, medium bus, MPV Vehicle tail: SUV, large bus, sedan, light truck, pickup, heavy truck, medium truck, van",
+        "Vehicle Color Recognition": "White, pink, black, red, yellow, gray, blue, green, orange, purple, brown, and silver gray",
+        "Vehicle logo": "Vehicle head mode: Acura, Alfaromeo, Ashokleyland, Astonmartin, Audi, Baic, Bently, Benz, BMW, Buick, BYD, Cadillac, Chery, Chevrolet, Chrysler, Citroen, Dacia, Daihatsu, Datsun, Dodge, DS, Ferrari, Fiat, Force, Ford, Foton, Geely, GMC, Greatwall, Hino, Honda, Hyundai, Infiniti, Isuzu, Iveco, Jac, Jaguar, Jeep, Kia, Kinglong, Land, Lexus, Lifan, Lincoln, Mahindra, MAN, Maserati, Mazda, Mercury, MG, Mini, Mitsubishi, Nissan, Opel, Peugeot, Porsche, Renault, Rollsroyce, Saab, Scania, Seat, Skoda, Smart, Subaru, Suzuki, Tata, Tesla, Toyota, UD, Volkswagen, Volvo",
+        "Motor Vehicle Violation Snapshot": "ANPR mode: Wrong-way driving, speeding, driving slow, crossing the solid white line, crossing the solid yellow line, illegal lane change, unfasten seat belt, calling while driving, smoking while driving",
+        "Motorcycle vehicle Violation Capture": "Captures traffic violations including carrying passenger, not wearing helmet, and wrong-way driving",
+        "Traffic Flow Detection": "Generates statistics on vehicle flow, queue length, average speed, lane occupancy, and more",
+        "Traffic Event": "Motor vehicle illegal stopping on the roadway, traffic congestion"
+      },
+      "Video": {
+        "Video Compression": "H.265; H.264M; H.264H; MJPEG",
+        "Video Resolution": "3M (2048 × 1536); UXGA (1600 × 1200); 1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576); CIF (352 × 288)",
+        "Video Frame Rate": "50 Hz: Maximum 50 fps; default main stream (1536 × 2048@25 fps), sub stream (1600 × 1200@25 fps) 60 Hz: Maximum 60 fps; default main stream (1536 × 2048@30 fps), sub stream (1600 × 1200@30 fps)",
+        "Video Bit Rate": "H.264: 32 kbps–32767 kbps H.265: 32 kbps–32767 kbps MJPEG: 512 kbps–32767 kbps",
+        "Bit Rate Control": "CBR; VBR",
+        "White Balance": "Auto; night; custom color temperature",
+        "Edge Enhancement": "Yes",
+        "HLC": "Yes",
+        "BLC": "Yes",
+        "Bad Pixel Correction": "Yes",
+        "Gain Scope": "0–100"
+      },
+      "image": {
+        "Composite Image": "Supports combining up to 4 images into a composite image",
+        "Image Resolution": "2048 (H) × 1536 (V) (OSD black background is not calculated in the pixels)",
+        "Image Encoding Format": "JPEG",
+        "Image Tampering Prevention": "Watermark and verification are available for videos and images"
+      },
+      "Network": {
+        "Network Port": "2 RJ-45 Ethernet ports, 10/100/1000 M network transmission",
+        "SDK and API": "Yes",
+        "Security": "Authorized username and password, MAC address binding, HTTPS encryption, and network access control",
+        "Protocol": "IPv4; IPv6; HTTP; TCP; IP; UDP; NTP; DHCP",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T)",
+        "Browser": "Microsoft Edge IE: IE9–IE11 Chrome: Chrome 41 and earlier Firefox: Firefox 49 and earlier For Win 10 users, run the browser as administrator",
+        "Positioning": "GPS",
+        "Time Synchronization": "NTP; GPS"
+      },
+      "Port": {
+        "Storage": "1, supports maximum 256 GB TF card local storage",
+        "Iris Control": "1, connects to DC iris or P iris",
+        "Focus Control": "1, connects to motorized vari-focal lens",
+        "Frequency Source Sync": "1, supports synchronizing the camera with the mains electricity",
+        "Peripheral Light": "7, optocoupler signal output (can be configured as flashing light or LED strobe sync output port, frequency adjustable)",
+        "USB": "2 USB 2.0 ports",
+        "RS-485": "2, connects to devices such as signal detector, radar, and more",
+        "RS-232": "4 (1 is used for serial debugging and 3 for connecting to radars)",
+        "I/O": "4, same functions as ALARM IN port",
+        "Audio Input": "1, 3.5 mm (0.14'') jack",
+        "Audio output": "1, 3.5 mm (0.14'') jack",
+        "Alarm Input": "4, same functions as I/O port",
+        "Alarm Output": "2 (AO1 is for relay output and AO2 for optocoupler output)",
+        "Power Output": "12 VDC ±10% voltage output, ≤ 1.5 A current output"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC, 50 Hz/60 Hz",
+        "Power Consumption": "≤ 25 W",
+        "Operating Temperature": "−40 °C to +65 °C (−40 °F to +149 °F)",
+        "Storage Temperature": "−40 °C to +70 °C (−40 °F to +154 °F)",
+        "Operating Humidity": "10%-90% (RH)",
+        "Storage Humidity": "0%-90% (RH)",
+        "Protection": "IP66, IK10",
+        "Certifications": "CE: 4789630630-1, FCC: 4789630630-2",
+        "Product Dimensions": "554.0 mm × 204.2 mm × 209.6 mm (21.81'' × 8.04'' × 8.25'') (L × W × H)",
+        "Net Weight": "4.6 kg (10.14 lb)",
+        "Gross Weight": "6.6 kg (14.55 lb)",
+        "Installation": "Center mount; Side mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITC352-AU3F-LZF1640_datasheet_20241016.pdf"
+      },
+      {
+        "name": "2025-08-19 #User Manual HD Intelligent Enforcement Camera_Web Operation Manual_V1.0.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005735/202508/HD_Intelligent_Enforcement_Camera_Web_Operation_Manual_V1.0.6.pdf"
+      },
+      {
+        "name": "2025-08-19 #User Manual HD Intelligent Enforcement Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005735/202508/HD_Intelligent_Enforcement_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-05-13 #A&E Document ITC352-AU3F-LZF1640_A&E_20260901210729 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27677/a_e_document/1788268261474.docx"
+      },
+      {
+        "name": "2022-03-17 #Drawings ITC352-AU3F-LZF1640_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27677/drawings/ITC352-AU3F-LZF1640_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-03-17 #Drawings ITC352-AU3F-LZF1640_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27757/drawings/ITC352-AU3F-IRL7_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-16 #Firmware General_ITCX52-AF3F(RF2F)-(IR7)(IR8)-C1_Eng_PN_Oversea_V4.003.0000000.1.R.250314 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3134216/M/General_ITCX52-AF3F(RF2F)-(IR7)(IR8)-C1_Eng_PN_Oversea_V4.003.0000000.1.R.250314.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/3mp/itc352-au3f-lzf1640"
+  }
+}

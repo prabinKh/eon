@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "USB Camera",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/usb-camera",
+    "tab_title": "USB Camera",
+    "tab_id": "15987",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "USB Camera",
+      "USB Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "129657",
+    "product_name": "BDC-UZ48(Only for ST470-P)",
+    "product_title": "USB CAMERA",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/usb-camera/bdc-uz48(only-for-st470-p)",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392271301_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/bdc-uz48-only-for-st470-p.html",
+  "detail": {
+    "title": "USB CAMERA",
+    "model": "BDC-UZ48(Only for ST470-P)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite BDC-UZ48(Only for ST470-P) USB CAMERA Key Points • Plug-in Camera • Pixel: 48 MP • Auto Control: Auto White Balance • Distortion: –8.6% • Max. Resolution: 3840 × 2160@30 fps • Field of View: H: 87°; V: 49°; D: 99° Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392271301_thumb.png",
+        "alt": "BDC-UZ48_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392217848_thumb.png",
+        "alt": "BDC-UZ48_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392271302_thumb.png",
+        "alt": "BDC-UZ48_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392217846_thumb.png",
+        "alt": "BDC-UZ48_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392217847_thumb.png",
+        "alt": "BDC-UZ48_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_11740/ProductImage/1_0_01_14_11740_392271300_thumb.png",
+        "alt": "BDC-UZ48_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Video": {
+        "Sensor": "1/1.8\" CMOS",
+        "Resolution": "48 MP",
+        "Pixel": "2 um × 2 um",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "Min. Illumination": "0.1 lux",
+        "S/N Ratio": ">50 dB",
+        "Data Format": "MJPG, YUY2, H.264, H.265, NV12",
+        "Lens Type": "Fixed-focal",
+        "Video Frame Rate": "MJPG: 3840 × 2160@30; 2880 × 1620@30; 1920 × 1080@30; 1920 × 1680@30; 1280 × 720@30; 960 × 540@30;640 × 360@30; 480 × 270@30; 320 × 180@30 H.264: 3840 × 2160@30; 2880 × 1620@30; 1920 × 1080@30; 1920 × 1680@30; 1280 × 720@30; 960 × 540@30;640 × 360@30; 480 × 270@30; 320 × 180@30 H.265: 3840 × 2160@30; 2880 × 1620@30; 1920 × 1080@30; 1920 × 1680@30; 1280 × 720@30; 960 × 540@30;640 × 360@30; 480 × 270@30; 320 × 180@30 YUY2: 640 × 480@30; 640 × 360@30; 480 × 270@30; 320 × 180@30 NV12: 960 × 540@30; 640 × 360@30; 480 × 270@30; 320 × 180@30"
+      },
+      "Lens": {
+        "Focal Length": "4 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 87°; V: 49°; D: 99°"
+      },
+      "Function": {
+        "White balance": "Yes",
+        "Exposure Mode": "Auto"
+      },
+      "Port": {
+        "USB": "1 × USB 2.0, Type A"
+      },
+      "Power": {
+        "Operating Voltage": "5 V",
+        "Operating Current": "Max. 1 A",
+        "Power Consumption": "Max. 5 W"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +50 °C (+14 °F to +122 °F)",
+        "Operating Humidity": "20%–80% (RH)",
+        "Storage Temperature": "–10 °C to +60 °C (+14 °F to +140 °F)",
+        "Storage Humidity": "20%–90% (RH)"
+      },
+      "Structure": {
+        "Product Dimensions": "51.7mm × 68.0mm × 96.1mm (2.04\" × 2.68\" × 3.78\") (L × W × H)",
+        "Packaging Dimensions": "138 mm × 84mm × 95 mm (5.43\" × 3.31\" × 3.74\") (L × W × H)",
+        "Net Weight": "0.12 kg (0.26 lb)",
+        "Gross Weight": "0.15 kg (0.33 lb)",
+        "Accessory": "User's manual x 1"
+      },
+      "Certification": {
+        "Certifications": "CB, FCC, IC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20240131/BBDC-UZ48(Only_for_ST470-P)_datasheet_20240129.pdf"
+      },
+      {
+        "name": "2023-06-27 #Drawings BDC-UZ48(Only for ST470-P)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71037/drawings/BDC-UZ48_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-06-27 #Drawings BDC-UZ48(Only for ST470-P)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71037/drawings/BDC-UZ48_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-06-27 #Drawings BDC-UZ48(Only for ST470-P)_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71037/drawings/BDC-UZ48_PORT.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/usb-camera/bdc-uz48(only-for-st470-p)"
+  }
+}

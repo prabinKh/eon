@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/cabinet",
+    "series": "Cabinet Series",
+    "series_url": "https://www.intex.in/collections/cabinet-series",
+    "tab_title": "Cabinet",
+    "tab_id": "9262981480666",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cabinet",
+      "IT-1601 W SMPS & USB Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "9262981480666",
+    "product_name": "IT-1601 W SMPS & USB Cabinet",
+    "product_title": "IT-1601 W SMPS & USB Cabinet",
+    "product_url": "https://www.intex.in/products/it-1601-w-smps-usb-cabinet",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/8c54ee30-c48d-4c56-b60d-c0b1e1824e84.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2699.0,
+      "display": "₹2,699.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/it-1601-w-smps-usb-cabinet.html",
+  "detail": {
+    "title": "IT-1601 W SMPS & USB Cabinet",
+    "model": "IT-1601",
+    "brand": "Intex",
+    "overview": "Upgrade your desktop setup with the IT-1601 W SMPS & USB Cabinet, designed for efficient performance, durability, and excellent cooling support. Compatible with ATX, Micro ATX, and Mini ATX motherboards, this cabinet offers multiple expansion slots and storage options, making it ideal for home, office, and professional PC builds.",
+    "features": [
+      "Four Expansion Slots",
+      "Two 5.25” External Slots",
+      "Two 3.5” Internal Slots",
+      "Three 2.5” Internal Slots",
+      "Compatible with Motherboard Series P4",
+      "HDD Support: 2",
+      "SSD Support: 2",
+      "Supports ATX / Micro ATX / Mini ATX",
+      "CPU / PCI Graphic Heat Vent",
+      "Standard ATX PSU Support",
+      "20+4 Pin & SATA Support"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/8c54ee30-c48d-4c56-b60d-c0b1e1824e84.png",
+        "alt": "IT-1601 W SMPS & USB Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Four Expansion Slots",
+        "Feature 2": "Two 5.25” External Slots",
+        "Feature 3": "Two 3.5” Internal Slots",
+        "Feature 4": "Three 2.5” Internal Slots",
+        "Feature 5": "Compatible with Motherboard Series P4",
+        "Feature 6": "HDD Support: 2",
+        "Feature 7": "SSD Support: 2",
+        "Feature 8": "Supports ATX / Micro ATX / Mini ATX",
+        "Feature 9": "CPU / PCI Graphic Heat Vent",
+        "Feature 10": "Standard ATX PSU Support",
+        "Feature 11": "20+4 Pin & SATA Support"
+      },
+      "General": {
+        "Model": "IT-1601"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/it-1601-w-smps-usb-cabinet"
+  }
+}

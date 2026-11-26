@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Wires & Cables",
+    "category_url": "https://bestor.in/collections/wires-cables",
+    "subcategory": "Wires & Cables",
+    "subcategory_url": "https://bestor.in/collections/wires-cables",
+    "series": "Wires & Cables Series",
+    "series_url": "https://bestor.in/collections/wires-cables-series",
+    "tab_title": "Wires & Cables",
+    "tab_id": "8291346645299",
+    "breadcrumbs": [
+      "Home",
+      "Wires & Cables",
+      "Wires & Cables",
+      "Display Port Cable"
+    ]
+  },
+  "card_info": {
+    "product_id": "8291346645299",
+    "product_name": "Display Port Cable",
+    "product_title": "Display Port Cable",
+    "product_url": "https://bestor.in/products/display-port-cable",
+    "card_image": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/61mtfHCurDL._SL1500_-removebg-preview.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 679.0,
+      "display": "₹679.00",
+      "original_price": 1899.0,
+      "original_display": "₹1,899.00",
+      "discount_percentage": 64.2
+    }
+  },
+  "html_file": "bestor/products/display-port-cable.html",
+  "detail": {
+    "title": "Display Port Cable",
+    "model": "BST-DP CABLE_1M",
+    "brand": "Bestor",
+    "overview": "Discover the Display Port Cable by Bestor, engineered for high performance, durability, and seamless connectivity.",
+    "features": [
+      "8K DP 1.4 Cable: HBR3, multiple resolutions.",
+      "Compliant with DP1.4, DSC, HDR.",
+      "Durable fishnet nylon braided.",
+      "24K gold-plated connectors.",
+      "Gaming-friendly, stable high refresh rates.",
+      "Plug and play, flicker-free.",
+      "(Open Product) 8.5 Inch LCD Writing Tablet Drawing Pad, Colorful Screen Doodle Board for... (Open Product) 8.5 Inch LCD Writing Tablet Drawing Pad, Colorful Screen Doodle Board for... Regular price Rs. 749.00 Sale price Rs. 199.00",
+      "1.5 m Type C Cable 1.5 m Type C Cable Regular price Rs. 699.00 Sale price Rs. 249.00",
+      "1.5m Aux Cable 1.5m Aux Cable Regular price Rs. 799.00 Sale price Rs. 249.00",
+      "10 in 1 USB C HUB 10 in 1 USB C HUB Rs. 13,999.00"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/61mtfHCurDL._SL1500_-removebg-preview.png",
+        "alt": "Display Port Cable",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/712ataNgqRL._SL1500.jpg",
+        "alt": "Display Port Cable",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/616DC4w6PSL._SL1500.jpg",
+        "alt": "Display Port Cable",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/71YF3DhVgLL._SL1500.jpg",
+        "alt": "Display Port Cable",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/61RWR-PJ2RL._SL1500.jpg",
+        "alt": "Display Port Cable",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0696/7708/9075/files/71T23emTTKL._SL1500.jpg",
+        "alt": "Display Port Cable",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "General": {
+        "8K DP 1.4 Cable": "HBR3, multiple resolutions.",
+        "Model": "BST-DP CABLE_1M"
+      }
+    },
+    "downloads": [
+      {
+        "name": "WARRANTY, REFUND & REPLACEMENT POLICY",
+        "url": "https://bestor.in/pages/warranty-refund-replacement-policy/warranty-refund-replacement-policy-8negl7xq"
+      }
+    ],
+    "source_url": "https://bestor.in/products/display-port-cable"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "Supernova Lite Controller - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870238499",
+    "product_name": "Supernova Lite Controller - White",
+    "product_title": "Supernova Lite Controller - White",
+    "product_url": "https://antesports.com/products/supernova-lite-white-controller",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/718-xYZdrWL._SL1500.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/supernova-lite-white-controller.html",
+  "detail": {
+    "title": "Supernova Lite Controller - White",
+    "model": "AEPP0372",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Supernova Lite is a tri-mode wireless gaming controller offering Bluetooth, 2.4GHz wireless and wired USB connectivity for broad compatibility across Nintendo Switch, PS4, PS3, Android, iOS, Windows PC, Steam and Mac. Hall Effect 3D joysticks and triggers eliminate drift and dead zones for lasting precision, while dual back buttons with macro function add customizable controls for competitive play. RGB lighting and dual-shock vibration bring extra immersion to the experience, and a 6-axis motion sensor supports motion-based gameplay in compatible titles. An 800mAh rechargeable battery delivers up to 6 meters of stable wireless range, with a 1.0m charging cable included for quick top-ups between sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/718-xYZdrWL._SL1500.jpg",
+        "alt": "Supernova Lite Controller - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Joystick Type": "Hall Effect 3D",
+        "Connectivity": "Bluetooth + 2.4GHz + Wired",
+        "Battery": "800mAh Rechargeable",
+        "Range": "Up to 6 Meters",
+        "Motion": "6-Axis Sensor",
+        "Compatibility": "Switch, PS4, PS3, Android, iOS, PC, Steam, Mac",
+        "Color": "White",
+        "JOYSTICK TYPE": "Hall Effect 3D",
+        "CONNECTIVITY": "Bluetooth + 2.4GHz + Wired",
+        "BATTERY": "800mAh Rechargeable",
+        "RANGE": "Up to 6 Meters",
+        "MOTION": "6-Axis Sensor",
+        "COMPATIBILITY": "Switch, PS4, PS3, Android, iOS, PC, Steam, Mac",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,799.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0372"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/supernova-lite-white-controller"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "PS5 Dock5 Cooling & Dual Controller Charging Station - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870533411",
+    "product_name": "PS5 Dock5 Cooling & Dual Controller Charging Station - White",
+    "product_title": "PS5 Dock5 Cooling & Dual Controller Charging Station - White",
+    "product_url": "https://antesports.com/products/dock5-rgb-ps5-cooling-charging-station-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/20.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/dock5-rgb-ps5-cooling-charging-station-white.html",
+  "detail": {
+    "title": "PS5 Dock5 Cooling & Dual Controller Charging Station - White",
+    "model": "AEPP0090",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Dock5 RGB is an all-in-one PS5 station combining a secure vertical stand, active cooling, dual controller charging and accessory storage in one compact unit, built for both PS5 Disc and Digital Edition consoles. High-speed cooling fans running up to 5200 RPM across 3 adjustable speeds improve airflow around the console, reducing heat buildup during long gaming sessions, while a dual charging dock powers up two DualSense controllers simultaneously in around 3 hours with LED status indicators. Dedicated storage for up to 6 game cases and a built-in headset holder keep accessories organized and within reach, and dynamic RGB lighting effects add a premium visual touch to the setup. A safety screw firmly secures the console to the stand, preventing accidental knocks, and a smart security chip protects against overvoltage, overcurrent and short circuits during charging.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/20.jpg",
+        "alt": "PS5 Dock5 Cooling & Dual Controller Charging Station - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Cooling": "Up to 5200 RPM, 3 Speeds",
+        "Controller Charging": "2 Simultaneous, ~3 Hours",
+        "Game Storage": "6 Slots",
+        "Extras": "Headset Holder, RGB Lighting",
+        "Compatibility": "PS5 Disc & Digital Edition",
+        "Color": "White",
+        "COOLING": "Up to 5200 RPM, 3 Speeds",
+        "CONTROLLER CHARGING": "2 Simultaneous, ~3 Hours",
+        "GAME STORAGE": "6 Slots",
+        "EXTRAS": "Headset Holder, RGB Lighting",
+        "COMPATIBILITY": "PS5 Disc & Digital Edition",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,899.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0090"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/dock5-rgb-ps5-cooling-charging-station-white"
+  }
+}

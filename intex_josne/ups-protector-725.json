@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "15 mins Battery Backup",
+    "subcategory_url": "https://www.intex.in/collections/15-mins-battery-backup",
+    "series": "3 Output Sockets",
+    "series_url": "https://www.intex.in/collections/3-output-sockets",
+    "tab_title": "15 mins Battery Backup",
+    "tab_id": "7486480580826",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "15 mins Battery Backup",
+      "UPS Protector 725"
+    ]
+  },
+  "card_info": {
+    "product_id": "7486480580826",
+    "product_name": "UPS Protector 725",
+    "product_title": "UPS Protector 725",
+    "product_url": "https://www.intex.in/products/ups-protector-725",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_af606856-6312-49dd-85dc-4feaa95927e1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3499.0,
+      "display": "₹3,499.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/ups-protector-725.html",
+  "detail": {
+    "title": "UPS Protector 725",
+    "model": "1187-1725-2",
+    "brand": "Intex",
+    "overview": "This UPS has a massive power capacity of 360W and produces less than 40db noise level. It has 3 output sockets and provides battery backup up to 15 minutes for 1 PC. The transfer time is 4-8ms and it comes with a 2-year warranty with 1 year warranty on battery.",
+    "features": [
+      "Massive 360W Power Capacity UPS",
+      "Less than 40dB Noise Level",
+      "3 Output Sockets",
+      "15 mins Battery Backup for 1 PC",
+      "Excellent microprocessor control gaurantees high reliability",
+      "Typical 4-8ms Transfer Time",
+      "6 hours up to 90% capacity ​​Typical Recharge Time",
+      "2 YEAR (One year on battery)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_af606856-6312-49dd-85dc-4feaa95927e1.jpg",
+        "alt": "UPS Protector 725",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/2_7b763796-0731-4a0b-83b5-1dd47695db91.jpg",
+        "alt": "UPS Protector 725",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/3_dc44ab40-941e-47c6-82e7-518e39753f4a.jpg",
+        "alt": "UPS Protector 725",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/4_a321d8e6-d718-4a22-87ca-5475bbf8174b.jpg",
+        "alt": "UPS Protector 725",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/5_02b1e51c-2095-486b-af79-dbbdc2104392.jpg",
+        "alt": "UPS Protector 725",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Massive 360W Power Capacity UPS",
+        "Feature 2": "Less than 40dB Noise Level",
+        "Feature 3": "3 Output Sockets",
+        "Feature 4": "15 mins Battery Backup for 1 PC",
+        "Feature 5": "Excellent microprocessor control gaurantees high reliability",
+        "Feature 6": "Typical 4-8ms Transfer Time",
+        "Feature 7": "6 hours up to 90% capacity ​​Typical Recharge Time",
+        "Feature 8": "2 YEAR (One year on battery)"
+      },
+      "General": {
+        "Model": "1187-1725-2"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Protector-M_UPS_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/ups-protector-725"
+  }
+}

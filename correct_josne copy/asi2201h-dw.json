@@ -1,0 +1,187 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Standalone",
+    "tab_id": "545",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "153397",
+    "product_name": "ASI2201H-DW",
+    "product_title": "Access Standalone",
+    "product_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/standalone/pro/asi2201h-dw",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11390/ProductImage/1_0_01_25_11390_832927051_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi2201h-dw.html",
+  "detail": {
+    "title": "Access Standalone",
+    "model": "ASI2201H-DW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI2201H-DW Access Standalone Key Points • Card and Password Networked Access Standalone • 30,000 Cards and 30,000 Passwords • 2.4-inch LCD Display Screen with Resolution of 240 × 320 • Audio Prompts and Doorbell function • Touch Keypad for Operation • Easy Configuration via PC Web Client • Wi-Fi, IP65 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11390/ProductImage/1_0_01_25_11390_832927051_crop_thumb.PNG",
+        "alt": "ASI2201H-DW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11390/ProductImage/1_0_01_25_11390_832927047_crop_thumb.PNG",
+        "alt": "ASI2201H-DW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11390/ProductImage/1_0_01_25_11390_832927050_crop_thumb.PNG",
+        "alt": "ASI2201H-DW_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "High-performance embedded processor",
+        "Network Protocol": "IPv4; TCP; UDP; P2P"
+      },
+      "Basic": {
+        "Display Screen": "2.4\" LCD",
+        "Screen Type": "LCD",
+        "Resolution": "240 (H) × 320 (V)",
+        "Voice Prompt": "Yes",
+        "Buzzer": "Yes",
+        "Casing": "PC + ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Card/Remote/Password unlock and unlock through their combinations",
+        "Card Type": "ID card",
+        "Period List": "128",
+        "Holiday Period": "128",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Max Transmission Power": "≤20dBm@2400-2483.5MHz",
+        "Wireless Security Encryption": "WPA/WPA2;WPA-PSK/WPA2-PSK",
+        "Peripheral Card Reader": "1 × RS-485 card reader 1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "Performance": {
+        "Card Reading Distance": "0-5 cm (0\" to 1.97\")"
+      },
+      "User": {
+        "User (Card) Type": "General user, VIP user, patrol user, guest user, blocklist user and others"
+      },
+      "Capacity": {
+        "User Capacity": "30,000 users",
+        "Card Capacity": "30,000",
+        "Password Capacity": "30,000",
+        "Record Capacity": "150,000 unlock records"
+      },
+      "Port": {
+        "RS-485": "1",
+        "RS-232": "1",
+        "Wiegand": "1-ch input/output",
+        "USB": "1 × USB2.0 port",
+        "Network Port": "1 × RJ-45, 100 Mbps",
+        "Alarm Input": "2 (digital quantity)",
+        "Alarm Output": "1 (relay)",
+        "Alarm Linkage": "Yes",
+        "Doorbell": "1",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Optional",
+        "Power Supply": "12 V DC, 1 A",
+        "Protection": "IP65 (silicone sealant is needed, see the quick start guide)",
+        "Power Consumption": "≤ 12 W",
+        "Product Dimensions": "183 mm × 80 mm × 25.5 mm (7.20\" × 3.15\" × 1.00\") (H × W × D)",
+        "Packaging Dimensions": "248 mm × 143 mm × 66 mm (9.76\" × 5.63\" × 2.60\") (H × W × D, 1 in an inner carton)",
+        "Operating Temperature": "–30 °C to +65 °C (–22 °F to +149 °F)",
+        "Operating Humidity": "10%–95% (RH), no condensing",
+        "Operating Environment": "Indoor; outdoor",
+        "Net Weight": "262 g (0.58 lb)",
+        "Gross Weight": "462 g (1.02 lb)",
+        "Accessory": "Bracket (included)",
+        "Installation": "Surface mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASI2201H-DW_datasheet_20240802.pdf"
+      },
+      {
+        "name": "2026-03-08 #User Manual Access Standalone_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86579/user_manual/Access_Standalone_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-03-08 #User Manual Access Standalone_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82143/user_manual/Access_Standalone_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2021-09-02 #Drawings ASI2201H-DW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84481/drawings/ASI2201H-DW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XXH-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84481/firmware/DH_ASIX2XXH-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XXH-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84481/firmware/DH_ASIX2XXH-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XXH-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84481/firmware/DH_ASIX2XXH-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/standalone/pro/asi2201h-dw"
+  }
+}

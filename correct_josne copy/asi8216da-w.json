@@ -1,0 +1,211 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "153649",
+    "product_name": "ASI8216DA-W",
+    "product_title": "Dahua Single Door Face Recognition,Card Swiping,Password,Palm Vein Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/ultra/asi8216da-w",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12361/ProductImage/1_0_01_25_12361_644533815_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi8216da-w.html",
+  "detail": {
+    "title": "Dahua Single Door Face Recognition,Card Swiping,Password,Palm Vein Access Controller",
+    "model": "ASI8216DA-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI8216DA-W Dahua Single Door Face Recognition,Card Swiping,Password,Palm Vein Access Controller Key Points • Visible Light Facial Recognition, Palm Vein Recognition and Liveness Detection • 100,000 Faces, 20,000 Palm Veins, 500,000 Cards and 100,000 Passwords • Built-in Android 11 Operating System • 2-MP CMOS Dual-lens Camera, 120 dB WDR • 8-inch IPS Touch Screen with Resolution of 800 × 1280 • Face Recognition Duration< 0.2s/person, Accuracy rate ≥ 99.9% • Supports Video Intercom and Advertisement Playback • IP65 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12361/ProductImage/1_0_01_25_12361_644533815_thumb.PNG",
+        "alt": "ASI8216DA-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12361/ProductImage/1_0_01_25_12361_625517877_thumb.PNG",
+        "alt": "ASI8216DA-W_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12361/ProductImage/1_0_01_25_12361_644533816_crop_thumb.PNG",
+        "alt": "ASI8216DA-W_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Network Protocol": "FTP; RTMP; HTTP/HTTPS; DNS; RTSP; UPnP; ONVIF; SIP; RTP",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "CGI; ONVIF",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "8-inch display screen",
+        "Screen Type": "Capacitive Touchscreen",
+        "Screen Resolution": "800 (H) × 1280 (V)",
+        "Camera": "1/2.8\" 2MP CMOS HD WDR Dual Cameras",
+        "WDR": "120 dB",
+        "Light Compensation": "Auto IR",
+        "Voice Prompt": "Yes",
+        "Speaker": "Yes",
+        "Casing Material": "Aluminum alloy + tempered glass"
+      },
+      "Function": {
+        "Verification Method": "QR Code; Remote; Face Recognition; Card; Password; Palm Veins",
+        "Advertisement Playing": "Support graphic advertisement play",
+        "Peripheral Card Reader": "1 × RS-485 port and 1 × Weigand port",
+        "Real-time Monitoring": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Capture Function": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes",
+        "Card Type": "IC card",
+        "Modulation Type": "AM",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42 dBuA/m @10 m"
+      },
+      "Network": {
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "802.11b/g/n",
+        "Wireless Frequency Range": "2.400–2.472 GHz",
+        "Max. Transmission Power": "≤20 dBm@2400–2483.5 MHz"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–5 cm (0\"–1.97\") (IC card)",
+        "Face Recognition Height Range": "0.9 m–2.4 m (2.95 ft–7.87 ft)",
+        "Face Recognition Distance": "0.3 m–3 m (0.98 ft–9.84 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s"
+      },
+      "Performance specification": {
+        "Palm Vein Recognition Distance": "7–15 cm (2.76\"–5.91\")",
+        "Palm Vein False Acceptance Rate (FAR)": "<1/100000",
+        "Palm Vein Recognition Accuracy": "99.9%",
+        "Palm Vein Recognition Speed": "<0.5 s"
+      },
+      "Capacity parameter": {
+        "Number of Palm Veins": "20,000"
+      },
+      "User": {
+        "User (Card) Type": "General user, guest user, patrol user, blocklist user, VIP user, other users, custom user 1 and custom user 2"
+      },
+      "Capacity": {
+        "Face Image Capacity": "100,000",
+        "User Capacity": "100,000",
+        "Card Capacity": "500,000",
+        "Password Capacity": "100,000",
+        "Record Capacity": "300,000"
+      },
+      "Port": {
+        "RS-485": "1 port",
+        "RS-232": "1 port",
+        "Wiegand": "1 × Weigand port with configurable input and output",
+        "USB": "1 × USB2.0 port (Type-C)",
+        "Network Port": "1 × 10/100/1000 Mbps Ethernet port",
+        "Alarm Input": "2 channels",
+        "Alarm Output": "2 channels",
+        "Alarm Linkage": "Yes",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel, open by default",
+        "Power Output Port": "1 channel (12 V, 0.3 A)"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Included",
+        "Power Supply": "12 VDC, 2 A",
+        "Protection": "IP65",
+        "Power Consumption": "≤7 W (standby), ≤12 W (working)",
+        "Product Dimensions": "306 mm × 133 mm × 25 mm (12.05\" × 5.24\" × 0.98\") (H × W × D)",
+        "Packaging Dimensions": "369 mm × 231 mm × 119 mm (14.53\" × 9.09\" × 4.69\") (H × W × D)",
+        "Transport Package Dimensions": "485 mm × 390 mm × 270 mm (19.09\" × 15.35\" × 10.63\") (H × W × D)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–1,300 m (0 ft–4,265.09 ft)",
+        "Operating Environment": "Outdoor; Indoor",
+        "Gross Weight": "1.45 kg (3.20 lb)",
+        "Accessory": "Included: Wall mount bracket",
+        "Installation": "Turnstile Mount;86 case mount; Floor Bracket Mount; Flush Mount; Wall Mount",
+        "Certifications": "CE",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "30%–75%"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASI8216DA-W_datasheet_20241029.pdf"
+      },
+      {
+        "name": "2025-05-10 #User Manual Face Recognition Access Controller_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009544/202505/Face_Recognition_Access_Controller_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-05-10 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009544/202505/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI8216DA-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84692/drawings/ASI8216DA-W_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI8216DA-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84692/drawings/ASI8216DA-W_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI8216DA-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84692/drawings/ASI8216DA-W_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-11-21 #Firmware DH_ASIX2XX-Android_Eng_V1.001.0000000.1.R.240929 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2889384/M/DH_ASIX2XX-Android_Eng_V1.001.0000000.1.R.240929.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/ultra/asi8216da-w"
+  }
+}

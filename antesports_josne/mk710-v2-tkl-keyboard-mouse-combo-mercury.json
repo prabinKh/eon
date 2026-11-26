@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "MK710 V2 TKL Keyboard & Mouse Combo - Mercury"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923686691",
+    "product_name": "MK710 V2 TKL Keyboard & Mouse Combo - Mercury",
+    "product_title": "MK710 V2 TKL Keyboard & Mouse Combo - Mercury",
+    "product_url": "https://antesports.com/products/mk710-v2-tkl-keyboard-mouse-combo-mercury",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk710-v2-tkl-keyboard-mouse-combo-mercury.html",
+  "detail": {
+    "title": "MK710 V2 TKL Keyboard & Mouse Combo - Mercury",
+    "model": "AEPP0251",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK710 V2 is a compact tenkeyless combo featuring an 87-key mechanical-feel membrane keyboard with UV-coated, injection laser-carved ABS keycaps that resist fading over time, paired with an Aero-Jet RGB gaming mouse offering adjustable 1200-3600 DPI tracking. Its TKL layout drops the numpad to free up desk space for sweeping mouse movements while retaining all essential gaming keys, and cool multi-colour RGB backlighting adds vibrant visual flair across both devices. A Type-C adapter is included for compatibility with modern devices, and broad platform support spans PC, Laptop, PS3, PS4, PS5, Xbox and Mac. True USB plug-and-play connectivity means no additional drivers are needed, finished in a clean Mercury white colourway.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35.png",
+        "alt": "MK710 V2 TKL Keyboard & Mouse Combo - Mercury - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Layout": "TKL, 87 Keys",
+        "Mouse DPI": "1200-3600",
+        "Included": "Type-C Adapter",
+        "Connectivity": "Wired USB",
+        "Compatibility": "PC, Laptop, PS3, PS4, PS5, Xbox, Mac",
+        "Color": "Mercury",
+        "KEYBOARD LAYOUT": "TKL, 87 Keys",
+        "MOUSE DPI": "1200-3600",
+        "INCLUDED": "Type-C Adapter",
+        "CONNECTIVITY": "Wired USB",
+        "COMPATIBILITY": "PC, Laptop, PS3, PS4, PS5, Xbox, Mac",
+        "COLOR": "Mercury",
+        "Offer Price (INR)": "₹899.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0251"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (MERCURY)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK4100-Mercury-Setup%201.0.2.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk710-v2-tkl-keyboard-mouse-combo-mercury"
+  }
+}

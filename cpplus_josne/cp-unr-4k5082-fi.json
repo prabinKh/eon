@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "27",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "8 Ch.",
+      "CP-UNR-4K5082-FI"
+    ]
+  },
+  "card_info": {
+    "product_id": "1775",
+    "product_name": "CP-UNR-4K5082-FI",
+    "product_title": "CP-UNR-4K5082-FI",
+    "product_url": "https://cpplusworld.com/cp-unr-4k5082-fi",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/30f40732-96dd-4ea1-ae13-92feb80574b8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k5082-fi.html",
+  "detail": {
+    "title": "CP-UNR-4K5082-FI",
+    "model": "CP-UNR-4K5082-FI",
+    "brand": "CP Plus",
+    "overview": "8Ch. 4K AI Network Video Recorder",
+    "features": [
+      "Up to 8 channel IP camera input",
+      "Max. 384 Mbps incoming/recording/outgoing bandwidth",
+      "Instastream, H.265, H.264+, H.264, MJPEG codec decoding",
+      "AI by recorder: 2 Channel face detection and recognition, up to 20 face databases  and 20,000 face images, 4 Channel perimeter protection, 8 Channel IMD+",
+      "AI by Camera: Face detection and recognition, Perimeter protection, IMD+,  Metadata, ANPR, Stereo analysis, Heat map, People counting",
+      "Supports N+M cluster",
+      "Support 2 SATA HDDs up to 20TB Each, 2 USB Ports (1 front USB 2.0 port, 1 rear USB 3.0 port)",
+      "HDMI/ VGA Heterogeneous video output",
+      "Support Multi-brand network cameras",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/30f40732-96dd-4ea1-ae13-92feb80574b8.jpg",
+        "alt": "CP-UNR-4K5082-FI - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ed115063-ce8f-492e-9a0b-7cf4a77d5802.jpg",
+        "alt": "CP-UNR-4K5082-FI - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "8 Channels",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "Video Output": "1 VGA:1920 × 1080, 1280 × 1024, 1280 × 720        1 HDMI:3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720   Heterogeneous video source output for HDMI and VGA",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Decoding Capability": "AI disabled: 2 Channel 32MP@25 fps, 2 Channel 24MP@25 fps, 4 Channel 16MP@30 fps, 5  Channel 12MP@30 fps, 8 Channel 8MP@30 fps       AI enabled: 1 Channel 32MP@25 fps, 1 Channel 24MP@25 fps, 2 Channel 16MP@30 fps, 4  Channel 12MP@30 fps, 6 Channel 8MP@30 fps, 8 Channel 6MP@30 fps, 8 Channel  5MP@30 fps",
+        "AI by NVR": "Face detection, Face recognition, Perimeter protection, IMD+",
+        "AI by Camera": "Face detection, Face recognition, Video metadata (Human, Motor vehicles, and non-motor  vehicles), Perimeter protection, IMD, Stereo analysis, Crowd distribution, People counting,              ANPR, Vehicle density, Heat map, PPE detection, Smart object detection, Smart sound detection",
+        "IntelliCheck AI by Camera +  Recorder": "Max. 8 Channel, 1 combined event per Channel/s",
+        "Resolution": "32MP, 24MP, 16MP, 12MP, 8MP, 6MP, 5MP, 4MP, 3MP, 2MP, 720p, 960p, D1, CIF, QCIF",
+        "Video Display Split": "Main screen: 1/4/8/9 , Sub screen: 1/4/8/9",
+        "Perimeter Performance AI by NVR (Number of Channels)": "4 Channels, 10 IVS rules for each channel",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "Human and vehicle detection on all channels, supporting up to 8 targets per second.",
+        "Face Attributes": "Gender, Age group, Glasses, Expressions, Face mask, Beard",
+        "Network Bandwidth": "AI disabled: 384 Mbps incoming, 384 Mbps recording and 384 Mbps outgoing   AI enabled: 200 Mbps incoming, 200 Mbps recording and 200 Mbps outgoing",
+        "Face Detection Performance of AI by Recorder (Number of Channels)": "2 Channels (up to 12 face images/s each Channel)",
+        "Face Detection Performance of AI by Camera (Number of Channels)": "8 Channels",
+        "Face Database Capacity": "Up to 20 face databases with 20,000 images, with a total capacity of 2.5 G. Name, Gender,  Birthday, Address, Credential type, Credential No., Countries & Regions and state can be  added to each face image",
+        "Face Recognition Performance of AI by NVR (Number of Channels)": "1.8 Channel FD (by camera) + FR (by NVR), image stream: 16 face images/s 2.2 Channel FD (by NVR) + FR (by NVR), video stream: 12 face images/s",
+        "Face Recognition Performance of AI by Camera (Number of Channels)": "8 Channels",
+        "IMD+ by NVR": "8 Channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by  leaves, rain and lighting condition change",
+        "IMD By Camera": "Human and vehicle detection on all channels, supporting up to 16 targets per second",
+        "Metadata Performance of AI by Camera (Number of Channels)": "8 Channels",
+        "Human Attributes": "Top color, Top type, Bottom color, Bottom type, Hat, Bag, Age, Gender and Umbrella",
+        "Motor Vehicle Attributes": "License plate, Plate color, Vehicle body, Vehicle model, Vehicle logo, Calling, Seatbelt, Vehicle  interior, Vehicle registration location",
+        "Non-motor Vehicle Attributes": "Vehicle model, Vehicle color, Number of persons, Helmet",
+        "ANPR by Camera (Number of Channels)": "Human and vehicle detection on all channels, supporting up to 8 targets per second",
+        "License Plate Database Capacity": "1. Create up to 20,000 plate numbers, 2. Blocklist and allowlist",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Abnormal disk health, Network  disconnection, IP conflict, MAC conflict, Abnormal fan speed), Video loss, Video tampering,  Camera offline, Audio detection",
+        "Intelligent Alarm": "Face detection, Perimeter protection, Face recognition, Video metadata (Human, Motor  vehicles and Non-motor vehicles), IMD+, Stereo analysis, Crowd distribution, People  counting, ANPR, Vehicle density, Heat map, PPE detection, Smart object detection, Smart  sound detection",
+        "General Alarm": "Motion detection, Local alarm, Alarm box, Camera external alarm, Network alarm, Scene  changing, PIR alarm, Thermal alarm",
+        "Alarm Linkage": "Record, Snapshot (panoramic), Local alarm output, IPC external alarm output, Audio, Buzzer,  Log, Preset, Email",
+        "Audio Input": "1 Channel RCA",
+        "Audio Output": "1 Channel RCA",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Disk Group": "Support",
+        "Alarm Input": "4 Channel",
+        "Alarm Output": "2 Channel",
+        "Hard Disk": "2 SATA ports, each disk can contain up to 20 TB. This limit varies depending on the environment temperature",
+        "Multi-channel Playback": "Up to 8 Channels",
+        "Record Mode": "General, Motion detection, Intelligent, Alarm, POS",
+        "Playback Mode": "Instant playback, General playback, Event playback, Target video, Video clip, Tag playback, Smart playback (face and motion detection)",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Backup Method": "USB Device/Network",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 3.0 port), 1 RS232, 1 RS485",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, UDP, NTP, DHCP, DNS, SMTP, UPnP, DDNS, Alarm Server, Multicast,  P2P, Auto Connect, iSCSI, ONVIF (Profile T, Profile S, Profile G), CGI, SDK",
+        "Ethernet": "1 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 4Amp",
+        "Power Consumption": "Total output of NVR is ≤ 10 W (without HDD)",
+        "Operating Temperature": "-10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Storage Temperature": "-20 °C to +60 °C (–4 °F to +140 °F)",
+        "Dimensions": "375.0 mm × 284.4 mm x 56.0 mm",
+        "Weight": "1570g (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K5082-FI.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ea076ae6-3a93-4ede-92f8-65524d5bf270.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k5082-fi"
+  }
+}

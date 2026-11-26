@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "Flora Wave Weighing Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341738545443",
+    "product_name": "Flora Wave Weighing Scale",
+    "product_title": "Flora Wave Weighing Scale",
+    "product_url": "https://antesports.com/products/flora-wave-weighing-scale",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9_f1396971-44b7-4ccb-a10e-3ff227b95033.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/flora-wave-weighing-scale.html",
+  "detail": {
+    "title": "Flora Wave Weighing Scale",
+    "model": "AETSB0002",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Flora Wave Digital Bathroom Scale offers highly accurate, auto-calibrating sensors precise to the nearest 0.1Kg, ideal for tracking weight loss. Built with a sturdy 12.3\"x12.3\" tempered glass platform with rounded corners, it features an extra-large 3.6\" bright LED display showing weight and room temperature, with automatic on/off operation.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9_f1396971-44b7-4ccb-a10e-3ff227b95033.png",
+        "alt": "Flora Wave Weighing Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Capacity": "Up to 180 Kg",
+        "Accuracy": "±0.1 Kg auto-calibrating sensors",
+        "Platform": "12.3\" x 12.3\" tempered glass, rounded corners",
+        "Display": "3.6\" LED (weight + room temperature)",
+        "Power": "2 x AAA batteries (included)",
+        "Dimensions": "31.2 x 31.2 x 2 cm",
+        "Weight": "910 g",
+        "Color": "Black",
+        "CAPACITY": "Up to 180 Kg",
+        "ACCURACY": "±0.1 Kg auto-calibrating sensors",
+        "PLATFORM": "12.3\" x 12.3\" tempered glass, rounded corners",
+        "DISPLAY": "3.6\" LED (weight + room temperature)",
+        "POWER": "2 x AAA batteries (included)",
+        "DIMENSIONS": "31.2 x 31.2 x 2 cm",
+        "WEIGHT": "910 g",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹379.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AETSB0002"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/flora-wave-weighing-scale"
+  }
+}

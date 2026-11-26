@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "LED Monitor",
+    "subcategory_url": "https://www.intex.in/collections/led-monitor",
+    "series": "LED Monitor Series",
+    "series_url": "https://www.intex.in/collections/led-monitor-series",
+    "tab_title": "LED Monitor",
+    "tab_id": "8516152361178",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "LED Monitor",
+      "Intex 24\" Flat Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "8516152361178",
+    "product_name": "Intex 24\" Flat Monitor",
+    "product_title": "Intex 24\" Flat Monitor",
+    "product_url": "https://www.intex.in/products/24-flat-monitor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flat-Monitor.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 19999.0,
+      "display": "₹19,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/24-flat-monitor.html",
+  "detail": {
+    "title": "Intex 24\" Flat Monitor",
+    "model": "24",
+    "brand": "Intex",
+    "overview": "Elevate your workspace with the clarity of a 1920 x 1080 FHD resolution and 16.7 million colors. Enjoy immersive audio with built-in speakers, all on a sleek and sturdy metal stand. The energy-efficient design keeps your visuals sharp and your power consumption low.",
+    "features": [
+      "Frameless design for maximum immersion",
+      "Built-in speakers for rich audio",
+      "16.7M colors for vibrant visuals",
+      "Sleek metal stand for a modern look",
+      "Dynamic LED backlight for captivating contrast",
+      "16:9 widescreen for cinematic viewing",
+      "1920 x 1080 FHD resolution for sharp details",
+      "Energy-efficient design for lower power consumption"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Flat-Monitor.png",
+        "alt": "Intex 24\" Flat Monitor",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Frameless design for maximum immersion",
+        "Feature 2": "Built-in speakers for rich audio",
+        "Feature 3": "16.7M colors for vibrant visuals",
+        "Feature 4": "Sleek metal stand for a modern look",
+        "Feature 5": "Dynamic LED backlight for captivating contrast",
+        "Feature 6": "16:9 widescreen for cinematic viewing",
+        "Feature 7": "1920 x 1080 FHD resolution for sharp details",
+        "Feature 8": "Energy-efficient design for lower power consumption"
+      },
+      "General": {
+        "Model": "24"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/24-flat-monitor"
+  }
+}

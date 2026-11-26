@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "Cables",
+    "category_url": "https://cpplusworld.com/products/cables",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/cables",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "94",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Cables",
+      "CP-EFC-12AS-2K"
+    ]
+  },
+  "card_info": {
+    "product_id": "2217",
+    "product_name": "CP-EFC-12AS-2K",
+    "product_title": "CP-EFC-12AS-2K",
+    "product_url": "https://cpplusworld.com/cp-efc-12as-2k",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/b772ef62-548d-41cc-900b-bf8cd5ff84d3.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-efc-12as-2k.html",
+  "detail": {
+    "title": "CP-EFC-12AS-2K",
+    "model": "CP-EFC-12AS-2K",
+    "brand": "CP Plus",
+    "overview": "Optical Fiber Cable",
+    "features": [
+      "Color-coded Fibers ensure easy identification",
+      "Comes with UV-protected HDPE outer sheath",
+      "Offers low signal loss during transmission",
+      "Withstands up to 1000 N tensile force",
+      "12 Optical Fibers enclosed in a single robust sheath",
+      "Operates reliably from –20°C to +70°C"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b772ef62-548d-41cc-900b-bf8cd5ff84d3.png",
+        "alt": "CP-EFC-12AS-2K - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/54a8d56e-c3a3-4024-8602-dd94a3aaec30.png",
+        "alt": "CP-EFC-12AS-2K - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Cable Bending Radius": "Long Term 20 x Cable Diameter, Short term 10 x Cable Diameter",
+        "Tensile": "Short Term 1000 N, Long Term 500 N",
+        "Single Mode Optical Fiber": "Attenuation at 1310 nm: < 0.35 dB/Km Attenuation at 1550 nm: < 0.25 dB/Km",
+        "Colour Code": "Color of Fibers in a Tube: Blue, Orange, Green, Brown, Slate, White, Red, Black, Yellow, Violet,  Pink, Nat Color of Loose Tubes: Natural",
+        "Cable Constructional": "a) Primary Coated Fiber: Single Mode - G 652 b) Tube Filling Compound: Thixotropic Jelly  c) Loose Tube (s): PBTP d) Strength Member: FRP Rod e) Armour: Corrugated ECCS Tape f) Outer Sheath ( T= 1.8 mm Nominal): UV protected Black HDPE",
+        "Laying and Installation            Temperature": "-20°C to +70°C",
+        "Operating Temperature": "-20°C to +70°C",
+        "Transport and Storage           Temperature": "-20°C to +70°C",
+        "Nominal Cable Weight": "42 ± 2",
+        "Nominal Cable Diameter": "7.5 ± 0.2",
+        "Standard Length": "1000 ± 10 % (per Drum Mtr.)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EFC-12AS-2K.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-efc-12as-2k"
+  }
+}

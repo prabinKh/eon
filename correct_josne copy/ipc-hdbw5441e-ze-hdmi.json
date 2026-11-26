@@ -1,0 +1,193 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 5 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series",
+    "tab_title": "HDMI Camera",
+    "tab_id": "17995",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 5 Series",
+      "HDMI Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "145989",
+    "product_name": "IPC-HDBW5441E-ZE-HDMI",
+    "product_title": "4MP IR Vari-focal Vandal-proof Dome WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/hdmi-camera/ipc-hdbw5441e-ze-hdmi",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43053/ProductImage/1_0_01_04_43053_313550526_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdbw5441e-ze-hdmi.html",
+  "detail": {
+    "title": "4MP IR Vari-focal Vandal-proof Dome WizMind Network Camera",
+    "model": "IPC-HDBW5441E-ZE-HDMI",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDBW5441E-ZE-HDMI 4MP IR Vari-focal Vandal-proof Dome WizMind Network Camera Key Points • High-Quality Imaging with 4MP Resolution • HDMI 1.4a: Direct Connect, Videos On-the-Go • AcuPick Enables Fast and Precise Human&Vehicle Search • Built-in Mic for Real-Time Audio Security • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43053/ProductImage/1_0_01_04_43053_313550526_crop_thumb.png",
+        "alt": "IPC-HDBW5441E-ZE-HDMI_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43053/ProductImage/1_0_01_04_43053_313550529_crop_thumb.png",
+        "alt": "IPC-HDBW5441E-ZE-HDMI_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.9\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "ROM": "256 MB",
+        "RAM": "1 GB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.002 lux@F1.6 (Color, 30 IRE) 0.0002 lux@F1.6 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": "＞56 dB",
+        "Illumination Distance": "Up to 40 m (131.23 ft) (IR)",
+        "Illuminator On/Off Control": "Auto;Manual;Zoomprio",
+        "Illuminator Number": "3 (IR LED)",
+        "Angle Adjustment": "Pan: 0°–355°; Tilt: 0°–65°; Rotation: 0°–355°",
+        "Lens Type": "Motorized vari-focal",
+        "Lens Mount": "φ14",
+        "Focal Length": "2.7 mm-13.5mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 104°–29°; V: 54°–16°; D: 125°–34°",
+        "Iris Control": "Auto",
+        "Close Focus Distance": "0.1 m (0.33 ft)",
+        "DORI Distance": "Lens",
+        "W": "64.0 m ( 209.97 ft)",
+        "T": "210.0 m ( 688.98 ft)",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire, fast moving (the three functions support the classification and accurate detection of vehicle and human); loitering detection, people gathering, and parking detection",
+        "Smart Object Detection": "Smart abandoned object; smart missing object",
+        "SMD": "SMD 3.0",
+        "AcuPick": "Uses deep learning algorithms and works with back-end devices to accurately match targets, such as people and motor vehicles, and search through live and recorded videos to quickly locate targets.",
+        "Face Detection": "Face detection; snapshot; snapshot optimization; optimal face snapshot upload; face snapshot enhancement; face exposure; face attributes extraction including 6 attributes and 8 expressions; face snapshot set as face or one-inch photo; snapshot strategies (real-time snapshot, quality priority and optimization snapshot); face angle filter; optimization time setting.",
+        "People Counting": "Tripwire people counting and people counting in area; generating and exporting report (day/week/month/year); 4 rules can be set for tripwire, people counting in area and queue management.",
+        "Heat Map": "Yes",
+        "Video Metadata": "Motor vehicle, non-motor vehicle, face, and human body detection; snapshot; snapshot optimization; optimal face snapshot upload. Extraction of motor vehicle and non-motor vehicle attributes: extracts 6 attributes for motor vehicle and 6 attributes for non-motor vehicle Extraction of face and human body attributes: extracts 6 attributes for face and 8 attributes for human body.",
+        "Video Compression": "H.265；H.264；H.264H；H.264B；MJPEG (Only supported by sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "AI Coding": "AI H.265; AI H.264",
+        "Video Frame Rate": "Main stream: 2688 × 1520@(1–25/30 fps) sub stream: 704 × 576@(1-25 fps)/704 × 480@(1-30 fps) third stream: 1920 × 1080@(1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "3 streams",
+        "Resolution": "4M (2688 × 1520/2560 × 1440); 3M (2048 × 1536/2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "VBR;CBR",
+        "Video Bit Rate": "H.264: 3 kbps–16384 kbps; H.265: 3 kbps–16384 kbps",
+        "HDMI Output": "2560 × 1440@25/30 fps; 1920 × 1080@25/30/50/60 fps; 1280 × 720@25/30/50/60 fps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Smart Illumination": "Yes",
+        "Defog": "Yes",
+        "Image Rotation": "Yes",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "LDC": "Yes",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; G.723",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; fast moving; abandoned object; missing object; loitering detection; people gathering; parking detection; scene changing; audio detection; voltage detection; external alarm; face detection; video metadata; SMD; people counting in area; stay detection; people counting; people number error detection; queue people number alarm; queue time alarm; security exception; defocus detection",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; SNMP; P2P",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI",
+        "User/Host": "20 (Total bandwidth: 80 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 512 GB); NAS",
+        "Browser": "IE: IE 11 and later; Chrome: Chrome 45 and later; Firefox: Firefox 46 and later; Safari: Safari 12 and later",
+        "Management Software": "SmartPSS Lite; DSS; DMSS",
+        "Mobile Client": "iOS;Android",
+        "Cyber Security": "Video encryption;Firmware encryption;Configuration encryption;Digest;WSSE;Account lockout;Security logs;IP/MAC filtering;Generation and importing of X.509 certification;syslog;HTTPS;802.1x;Trusted boot;Trusted execution;Trusted upgrade",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU",
+        "HDMI": "HDMI 1.4a, type A, female plug",
+        "Audio Input": "1 channel (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "2 channels in: wet contact, 5 mA 3–5 VDC",
+        "Alarm Output": "1 channel out: wet contact, 300 mA 12 VDC",
+        "Power Supply": "12 VDC; PoE (802.3af); ePoE",
+        "Dual Power Backup": "When the power adapter and PoE provide power at the same time, disconnect one of them. The device will continue to work, but will not restart.",
+        "Power Consumption": "Basic: 3.6 W (12 VDC), 4.7 W (PoE); Max.: 8.3 W (12 VDC), 8.8 W (PoE) (H.265+ WDR+ Intelligence on+IR on)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP67; IK10",
+        "Casing Material": "Metal",
+        "Product Dimensions": "Φ159.1 mm × 118.1 mm (6.26\" × Φ4.65\")",
+        "Net Weight": "0.92 kg (2.03 lb)",
+        "Gross Weight": "1.22 kg (2.69 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDBW5441E-ZE-HDMI_S0_datasheet_20240703.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Dome Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81894/user_manual/Dahua_Dome_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dome Network Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81894/user_manual/Dome_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-04-22 #A&E Document IPC-HDBW5441E-ZE-HDMI_A&E_20260918010754 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81894/a_e_document/1789665054269.docx"
+      },
+      {
+        "name": "2024-03-18 #Drawings IPC-HDBW5441E-ZE-HDMI_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14837/drawings/IPC-HDBW5831E-ZE_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-03-18 #Drawings IPC-HDBW5441E-ZE-HDMI_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5017/drawings/IPC-HDBW5241E-ZHE_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX5(7)XXX-Meta-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81894/firmware/DH_IPC-HX5(7)XXX-Meta-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/hdmi-camera/ipc-hdbw5441e-ze-hdmi"
+  }
+}

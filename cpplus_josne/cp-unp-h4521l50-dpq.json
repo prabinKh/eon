@@ -1,0 +1,155 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "Speed Dome(PTZ)",
+    "subcategory_url": "https://cpplusworld.com/products/speed-dome/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Speed Dome(PTZ)",
+    "tab_id": "24",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Speed Dome(PTZ)",
+      "Network",
+      "CP-UNP-H4521L50-DPQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2089",
+    "product_name": "CP-UNP-H4521L50-DPQ",
+    "product_title": "CP-UNP-H4521L50-DPQ",
+    "product_url": "https://cpplusworld.com/cp-unp-h4521l50-dpq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/26762117-5bc4-45d3-a597-e5b321885071.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unp-h4521l50-dpq.html",
+  "detail": {
+    "title": "CP-UNP-H4521L50-DPQ",
+    "model": "CP-UNP-H4521L50-DPQ",
+    "brand": "CP Plus",
+    "overview": "2MP WDR 45x IR Network PTZ Camera- 500 Mtr.",
+    "features": [
+      "1/2.8\" 2MP PS CMOS Image Sensor (0.9071 centimeters)",
+      "Max. 2MP (1920 × 1080)@1–25fps",
+      "AI Instastream, Instastream, H.265, H.264, H.264B, H.264H, MJPEG",
+      "Powerful 45x Optical zoom and 16x Digital zoom",
+      "WDR(120dB), 2D NR/ 3D NR, Day/Night (ICR), Defog, ROI, AGC, AWB, BLC, HLC",
+      "Support Penta stream",
+      "Up to 300 Preset, 5 Auto scan, 8 Tour, 5 Pattern",
+      "Support Starlight Technology",
+      "IR Range of 500 Mtr.",
+      "Support Smart Wiper, IP67, IK10",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/26762117-5bc4-45d3-a597-e5b321885071.png",
+        "alt": "CP-UNP-H4521L50-DPQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2f651410-9dfd-467c-bbc0-9455bd5f2f44.png",
+        "alt": "CP-UNP-H4521L50-DPQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" 2MP PS CMOS Image Sensor (0.9071 centimeters)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Max Aperture": "F1.6–F4.95",
+        "S/N Ratio": "≥55 dB",
+        "RAM": "512 MB",
+        "ROM": "256 MB",
+        "Minimum Illumination": "0.005 lux@F1.6 (Color, 30 IRE), 0.0005 lux@F1.6 (B/W, 30 IRE), 0 lux@F1.6 (IR on)",
+        "White Balance": "Auto, Indoor, Outdoor, ATW, Manual, Sodium lamp, Natural light, Street lamp",
+        "Angle of View": "H: 65.7°–1.9°, V: 39.4°–1.1°, D: 73.1°–2.1°",
+        "Video Format": "PAL",
+        "Close Focus Distance": "0.1 m–1 m (0.33 ft–3.28 ft)",
+        "Focal Length": "3.95 mm–177.75 mm",
+        "Focus Control": "Auto, Semi-auto, Manual",
+        "Resolution": "2MP (1920 × 1080), 720p (1280 × 720), D1 (704 × 576), CIF (352 × 288)",
+        "DORI Distance": "2451.7 m (Detect), 972.9 m (Observe), 490.3 m (Recognize), 245.2 m (Identify)",
+        "Shutter Speed": "1 s–1/30,000 s",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "Optical Zoom": "45 ×",
+        "Digital Zoom": "16×",
+        "Pan/ Tilt Range": "Pan: 0° to 360° endless, Tilt: –15° to +90°, auto flip 180°",
+        "Bit Rate": "H.265: 25 kbps–6,400 kbps, H.264: 64 kbps–8,192 kbps",
+        "Image Rotation": "180°",
+        "Manual Speed": "Pan: 0.1°/s–300°/s, Tilt: 0.1°/s–140°/s",
+        "OSD": "Camera title, Date & Time",
+        "Noise Reduction": "2D NR/ 3D NR",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Special Features": "Up to 300 Presets, 5 Pattern, 8 Tour (up to 32 presets per tour), 5 Auto Scan",
+        "Preset Speed": "Pan: 0.1°/s–300°/s, Tilt: 0.1°/s–200°/s",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Wiper": "Support",
+        "Privacy Mask": "Up to 24 areas can be set, with up to 8 areas in the same view",
+        "Iris Control": "Auto, Manual",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Defog": "Electronic",
+        "RS-485": "1 (baud rate: 1200 bps–9600 bps）",
+        "Idle Motion": "Preset, Pattern, Tour, Scan",
+        "IR Number": "10 (IR lights)",
+        "Day/Night": "Auto (ICR), Electronic, Color/B/W",
+        "IR": "IR Range of 500 Mtr.",
+        "IR Control": "Zoom Prio, Manual, Auto, Off",
+        "Gain Control (AGC)": "Auto, Manual",
+        "Video Compression": "AI Instastream, Instastream, H.265, H.264, H.264B, H.264H, MJPEG",
+        "Bit Rate Control": "CBR/VBR",
+        "Stream Capability": "Penta stream",
+        "Frame Rate": "Main stream: 2MP (1920 × 1080)@1–25, 720p (1280 × 720)@1–25, D1 (704 × 576)@1–25fps     Sub stream 1: D1 (704 × 576)@1–25fps , CIF (352 × 288)@1–25fps       Sub stream 2: 2MP (1920 × 1080)@1–25fps, 720p (1280 × 720)@1–25fps, D1 (704 × 576)@1 25fps       Sub stream 3: D1 (704 × 576)@1–25fps       Sub stream 4: D1 (704 × 576)@1–25fps",
+        "Audio Compression": "PCM, G.711A, G.711MU, G.726, MPEG2-Layer2, G.722.1, AAC",
+        "Motion Detection": "Support",
+        "Alarm Event": "Motion/ tampering detection, Defocus Detection, Audio detection, SD Card Exception (No  SD card, Low SD card space, SD card error), Network Exception (Offline, IP Conflict), External  Alarm, IMD, Security Warning, AI Events",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "SDK and API": "Support",
+        "ROI": "Support",
+        "Power-off Memory": "Support",
+        "Audio In": "1 Channel (LINE IN, bare wire)",
+        "Audio Out": "1 Channel (LINE OUT, bare wire)",
+        "Alarm Linkage": "Capture, Recording, Send email, Preset, Tour, Pattern, Alarm digital output",
+        "Alarm IN": "7 (on-off value input: 0–5 VDC)",
+        "Alarm Out": "2 channel",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs,  WSSE, account lockout, syslog, video encryption, 802.1x, Allow list/Block list, HTTPS, trusted  upgrade, trusted boot, firmware encryption",
+        "Protocol": "SFTP, IPv6, IPv4, DNS,RTCP, NTP, RTP, HTTP, HTTPS, SNMP V3, TLS Version 1.2, TCP/IP, PPPoE,  NFS, UDP, ICMP, SSL, DHCP, SMTP, RTSPS, RTMP, ONVIF (Profile S, Profile G, Profile T), unicast,  multicast, InstaOn",
+        "IVS (Perimeter Protection)": "IMD, Crossing Virtual Fence, Tripwire, Intrusion, Abandoned Object, Fast Moving, Parking  Detection, Crowd Gathering, Missing Object, Loitering Detection, Face Detection",
+        "Tracking Trigger Event": "Motion Detection, Defocus Detection, Disk Full, Disk Error, Video Tampering, External Alarm,  Security Warning, Audio Detection, AI Event",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "36 VDC, 2.23 A ± 25%  PoE+ (802.3at)",
+        "Power Consumption": "Basic: 16 W, Max: 29 W (IR + PTZ)",
+        "Browser": "IE, Chrome, Firefox, Safari",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Weatherproof Standard": "IP67, IK10, TVS 6000 V lightning proof, surge protection, voltage transient protection",
+        "Dimension": "415.9mm × 262.0mm",
+        "Weight": "8500g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNP-H4521L50-DPQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unp-h4521l50-dpq"
+  }
+}

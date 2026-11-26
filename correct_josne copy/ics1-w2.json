@@ -1,0 +1,150 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "129327",
+    "product_name": "ICS1-W2",
+    "product_title": "Smart Plug",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ics1-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_45_10229/ProductImage/1_0_01_45_10229_363388193_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ics1-w2.html",
+  "detail": {
+    "title": "Smart Plug",
+    "model": "ICS1-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ICS1-W2 Smart Plug Key Points > Two-way RF communication. > Displays the status with an LED indicator. > Supports cloud update and auto recovery after an update fails. > Offers protection against overcurrent, overvoltage, and overheating. > Measure the voltage, current and temperature. > Generates power consumption statistics and it can be reset to clear the statistics. > Output control mode can be selected between bistable and pulse modes. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_45_10229/ProductImage/1_0_01_45_10229_363388193_crop_thumb.png",
+        "alt": "ICS1-W2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_45_10229/ProductImage/1_0_01_45_10229_363388194_crop_thumb.png",
+        "alt": "ICS1-W2_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_45_10229/ProductImage/1_0_01_45_10229_363388195_crop_thumb.png",
+        "alt": "ICS1-W2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_45_10229/ProductImage/1_0_01_45_10229_363388196_crop_thumb.png",
+        "alt": "ICS1-W2_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Port": {
+        "Relay Output": "1 port, NO/NC (100–240 VAC, max 16 A)"
+      },
+      "Wireless": {
+        "Indicator Light": "1 indicator light, displays multiple status Flash green: paring Solid green: the circuit is closed Light off: the circuit is open",
+        "Remote Update": "Supports cloud update",
+        "Button": "1 button, perform multiple operations (open/close the circuit, restore to the factory settings and pair)",
+        "Signal Strength": "Supports detecting signal strength.",
+        "Frequency Range": "433.1-433.6 MHz",
+        "Communication Distance": "In an open environment: 800 m (2,624.67 ft)",
+        "MAX Power": "433.1-433.6 MHz@12.15 dBm",
+        "Communication Mechanism": "Two-way communication.",
+        "Encryption": "AES-128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Operating Temperature": "Indoor: –10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Humidity": "10%–90% (RH), non-condensing",
+        "Power Supply": "100–240 VAC, 50/60 Hz",
+        "Product Dimensions": "52 mm × 52 mm × 82 mm (2.05\" × 2.05\" × 8.32\") (L × W × H)",
+        "Installation": "With power strip/2 Pin",
+        "Net Weight": "83 g (0.18 lb)",
+        "Power Consumption": "0.3 W",
+        "Certifications": "CE",
+        "Casing Material": "PC"
+      },
+      "Data Monitoring": {
+        "Data Monitoring": "Yes",
+        "Data Type": "Current; voltage; temperature"
+      },
+      "Accuracy": {
+        "Current Measurement Accuracy": "Protection range: 0 A-16 A Measurement Accuracy: level 1.0 and above.",
+        "Voltage Measurement Accuracy": "Protection range: 0 V-250 V Measurement Accuracy: level 1.0 and above.",
+        "Internal Temperature Monitoring Accuracy": "Protection range: 0 °C –55 °C Measurement Accuracy: ±2% or ±2 °C"
+      },
+      "Alarm": {
+        "Alarm Type": "Alarm for overcurrent, overvoltage, and overheating"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ICS1-W2_datasheet_20240628.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Smart Plug_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007955/202507/Smart_Plug_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Smart Plug_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007955/202507/Dahua_Smart_Plug_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-07 #Drawings ICS1-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70377/drawings/ICS1-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-11-27 #Drawings ICS1-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70387/drawings/ICS1-W2(868)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-04-21 #Drawings ICS1-W2_EXPLODED_VIEW Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70377/drawings/ICS1-W2_EXPLODED_VIEW.pdf"
+      },
+      {
+        "name": "2023-08-28 #Firmware DH_CS1-W2_433_V1.000.0000000.1.R.20230606 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2276535/M/DH_CS1-W2_433_V1.000.0000000.1.R.20230606.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ics1-w2"
+  }
+}

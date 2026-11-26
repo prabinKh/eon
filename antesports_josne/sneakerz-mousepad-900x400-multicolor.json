@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Sneakerz Mouse Pad - Multi Colour"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925062947",
+    "product_name": "Sneakerz Mouse Pad - Multi Colour",
+    "product_title": "Sneakerz Mouse Pad - Multi Colour",
+    "product_url": "https://antesports.com/products/sneakerz-mousepad-900x400-multicolor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/42_7013a520-fcf8-4cb9-ac7c-5cc819fd2567.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/sneakerz-mousepad-900x400-multicolor.html",
+  "detail": {
+    "title": "Sneakerz Mouse Pad - Multi Colour",
+    "model": "AEPP0211",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Sneakerz is a large extended mouse pad measuring 900 x 400 x 2mm, featuring a colourful sneaker-themed print that adds personality to any desk setup. Its generous size comfortably fits a keyboard and mouse together, while a durable, non-slip base ensures it stays firmly in place through daily gaming or office sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/42_7013a520-fcf8-4cb9-ac7c-5cc819fd2567.png",
+        "alt": "Sneakerz Mouse Pad - Multi Colour - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "900 x 400 x 2mm",
+        "Design": "Sneakerz Print",
+        "Base": "Non-Slip",
+        "Color": "Multi Colour",
+        "DIMENSIONS": "900 x 400 x 2mm",
+        "DESIGN": "Sneakerz Print",
+        "BASE": "Non-Slip",
+        "COLOR": "Multi Colour",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0211"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/sneakerz-mousepad-900x400-multicolor"
+  }
+}

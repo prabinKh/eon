@@ -1,0 +1,174 @@
+{
+  "hierarchy": {
+    "category": "6 MP",
+    "category_url": "https://cpplusworld.com/products/6-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/6-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "35",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "6 MP",
+      "CP-UNC-EE61L2C-VMD-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2093",
+    "product_name": "CP-UNC-EE61L2C-VMD-Q",
+    "product_title": "CP-UNC-EE61L2C-VMD-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-ee61l2c-vmd-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/1dad5ac8-db1a-467c-b48b-bfe4c68bc93c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-ee61l2c-vmd-q.html",
+  "detail": {
+    "title": "CP-UNC-EE61L2C-VMD-Q",
+    "model": "CP-UNC-EE61L2C-VMD-Q",
+    "brand": "CP Plus",
+    "overview": "6MP Network IR Fisheye Camera",
+    "features": [
+      "1/2.5” 6MP PS CMOS Image Sensor (1.016 centimeters)",
+      "Max. 6MP (2560 × 2560)@1–25/30 fps",
+      "1.68 mm Fixed-focal Lens",
+      "Instastream, H.265, H.264, H.264H, MJPEG",
+      "Support Triple Stream",
+      "WDR (120dB), Day/Night (ICR), 3D NR, AWB, AGC, BLC, HLC",
+      "Support Built-in Mic",
+      "Support Micro SD Card, IP67, IK10, PoE"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1dad5ac8-db1a-467c-b48b-bfe4c68bc93c.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/72d292f9-43b5-42ff-9ab9-b5fbec90e740.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/aa53696d-13b5-4fb5-b437-70f708e079e0.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/78a10129-225f-40de-8643-0a44f8be9261.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3729b92b-531e-4c3f-a5f5-ae33a3f0baae.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/69224d06-ea3c-44c2-b9ae-aa0d22b7d6d4.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/69335418-fd85-459e-83e3-39f04843c7c3.png",
+        "alt": "CP-UNC-EE61L2C-VMD-Q - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.5” 6MP PS CMOS Image Sensor (1.016 centimeters)",
+        "Minimum Illumination": "0.001 lux@F1.8 (Color, 30 IRE), 0.0001 lux@F1.8 (B/W, 30 IRE), 0 lux (IR on)",
+        "Effective Pixels": "2560 (H) × 2560 (V)",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100000 s",
+        "RAM": "1 GB",
+        "ROM": "4 GB",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "Lens": "1.68 mm",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Lens Type": "Fixed-focal",
+        "Iris Control": "Fixed",
+        "Max Aperture": "F1.8",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "0.3 m",
+        "IR Control": "Auto/Manual",
+        "DORI Distance": "33.6m (Detect), 13.4m (Observe), 6.7 m (Recognize), 3.4 m (Identify)",
+        "Back Light Comp.": "BLC/ HLC/ WDR(120dB)/ISA",
+        "Angle of View": "H: 185°, V: 185°, D: 185°",
+        "Stream Capability": "Triple Stream",
+        "S/N Ratio": ">56 dB",
+        "Resolution": "6MP (2560 × 2560), 4MP (2048 × 2048), 2MP (1440 × 1440), 1.6MP (1280 × 1280), 1MP (1024  × 1024), (720 × 720), SVCD (480 × 480)",
+        "Noise Reduction": "2D NR, 3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "IR": "IR Range of 20 Mtr.",
+        "IR Number": "3 IR LED",
+        "Bit Rate Control": "VBR/CBR/ABR",
+        "Bit Rate": "H.265: 3 kbps–16384 kbps, H.264: 3 kbps–16384 kbps",
+        "Video Format": "PAL/NTSC",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by sub stream)",
+        "Image Rotation": "0°/180°",
+        "Smart Compression": "Instastream/ General",
+        "Frame Rate": "Max Resolution in O Mode by Default Main stream: 6MP (2560 × 2560)@1–25/30 fps,             Sub stream: 2MP (1440 × 1440)@1–25/30 fps, third stream: 2MP (1440 × 1440)@1–25/30 fps                                                 Resolution of 2 Split Windows in 2P Mode: Sub stream: Panoramic View and Split Window:  (1920 × 1440)@1– 25/30 fps, (640 × 480)@1–25/30 fps, (320 × 240)@1– 25/30 fps,                             third stream: Panoramic View and Split Window: (1920 × 1440)@1– 25/30 fps, (640 × 480)@1–25/30 fps, (320 × 240)@1– 25/30 fps, Resolution of 2 Split Windows in 2R Mode: Sub stream: Panoramic View and Split Window:  (2560 × 960)@1– 25/30 fps, (1280 × 480)@1–25/30 fps, (640 × 240)@1– 25/30 fps,                             third stream: Panoramic View and Split Window: (2560 × 960)@1– 25/30 fps, (1280 × 480)@1–25/30 fps, (640 × 240)@1– 25/30 fps, Resolution of 4 Split Windows in 4R Mode: sub stream: Panoramic View and Split Window:  (1920 × 1440)@1– 25/30 fps, (640 × 480)@1–25/30 fps, (320 × 240)@1– 25/30 fps,                             third stream: Panoramic View and Split Window: (1920 × 1440)@1– 25/30 fps, (640 × 480)@1–25/30 fps, (320 × 240)@1– 25/30 fps",
+        "Mirror Function": "Support",
+        "Privacy Mask": "4 Mosaics + 4 color blocks",
+        "Audio": "Built-in dual Mic",
+        "Built-in Speaker": "Support",
+        "EPTZ": "Support",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Alarm Event": "No SD card, Low SD card space, SD card error, Network disconnection, IP conflict, Account  Lockout, Motion Detection, Video Tampering, Scene Changing, Tripwire, Intrusion, Audio             Detection, Intensity change, Voltage Detection, External Alarm, People Counting in area, Stay  Detection, People counting, Abnormal number of people detection, Security exception",
+        "Intelligent Scene Adaption (ISA)": "Support",
+        "Cyber Security": "Video encryption, Firmware encryption, Configuration encryption, Digest, WSSE, Account lock out, Security logs, IP/MAC filtering, syslog, HTTPS, 802.1x, Trusted boot, Trusted execution,Trusted upgrade, Session security, Security warning",
+        "OSD": "Camera title, Date & Time, Location, Font Properties, Picture Overlay, Custom Title",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, ARP, RTP, RTSP, RTSPS, RTCP, RTMP, SMTP, SFTP, DHCP, DNS, QoS, UPnP, NTP, Multicast, Unicast, ICMP, IGMP, PPPoE, SNMP V3, ONVIF (Profile S & Profile G & Profile T), InstaOn, TLS Version 1.2 & 1.3, SSL",
+        "IVS (Optional)": "Tripwire, Intrusion",
+        "SDK and API": "Support",
+        "Decoding Mode": "Front-dewarp, Back-dewarp",
+        "Display Mode": "Front-dewarp (hardware decoding): 1O, 1P, 2P, 1R, 2R, 4R, 1O+ 3R 2P/2R: Supports split  screen for 2 windows. 4R: Supports split screen for 4 windows",
+        "Heat Map": "Support",
+        "RS-485": "1 (baud rate range: 1200 bps–115200 bps)",
+        "Audio Input": "1 Channel (RCA port)",
+        "Audio Output": "1 Channel (RCA port)",
+        "Audio Compression": "PCM, G.711a, G.711Mu, G.726, G.723, AAC",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Alarm IN": "1 channel in: wet contact, 5 mA 3–5 VDC",
+        "Alarm Out": "1 channel out: wet contact, 300 mA 12 VDC",
+        "Weatherproof Standard": "IP67, IK10",
+        "Storage": "SFTP, Mirco SD card (Max. 512GB)",
+        "User/Host": "20 users",
+        "Browser": "IE: IE11, Chrome, Firefox",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC, 1 A, PoE (802.3af)",
+        "Power Consumption": "Basic: 1.4 W (12 VDC), 2.6 W (PoE), Max.: 8.1 W (12 VDC), 10.1 W (PoE) (ICR switch + IR intensity)",
+        "Dual Power Backup": "When the power adapter and PoE provide power at the same time, disconnect one of them.  The device will continue to work, but will not restart.",
+        "Operating Temperature": "–30 °C to +60 °C (–22°F to +140 °F)",
+        "Operating Humidity": "≤95% RH, non-condensing",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140°F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Casing": "Metal",
+        "Dimensions": "Φ122 mm × 53.3 mm",
+        "Weight": "460g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-EE61L2C-VMD-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-ee61l2c-vmd-q"
+  }
+}

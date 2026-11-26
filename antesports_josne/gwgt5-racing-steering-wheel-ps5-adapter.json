@@ -1,0 +1,73 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Racing Wheels",
+    "subcategory_url": "https://antesports.com/collections/wheels",
+    "series": "Racing Wheels Series",
+    "series_url": "https://antesports.com/collections/wheels",
+    "tab_title": "Racing Wheels",
+    "tab_id": "508173680931",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Racing Wheels",
+      "GWGT5 Racing Steering Wheel with Pedals & PS5 Adapter - 270°"
+    ]
+  },
+  "card_info": {
+    "product_id": "10342319915299",
+    "product_name": "GWGT5 Racing Steering Wheel with Pedals & PS5 Adapter - 270°",
+    "product_title": "GWGT5 Racing Steering Wheel with Pedals & PS5 Adapter - 270°",
+    "product_url": "https://antesports.com/products/gwgt5-racing-steering-wheel-ps5-adapter",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/16.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gwgt5-racing-steering-wheel-ps5-adapter.html",
+  "detail": {
+    "title": "GWGT5 Racing Steering Wheel with Pedals & PS5 Adapter - 270°",
+    "model": "AEPP0382",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GWGT5 is a full-featured racing wheel bundle that includes pedals, a gear shifter and a PS5 adapter, giving it out-of-the-box compatibility across PS5, PS4, Xbox One, Xbox Series X|S, PC and Nintendo Switch. A 270-degree rotation range paired with dual vibration motors delivers realistic haptic feedback synced to in-game action, while six suction cup mounts anchor the wheel firmly to a desk or table for stable, wobble-free play during intense races. The bundled gear shifter and dedicated pedal set add an extra layer of control beyond a standard controller, making it a strong pick for anyone setting up a home sim racing station across multiple consoles.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/16.png",
+        "alt": "GWGT5 Racing Steering Wheel with Pedals & PS5 Adapter - 270° - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Rotation": "270 Degrees",
+        "Vibration": "Dual Motor",
+        "Included": "Wheel, Pedals, Gear Shifter, PS5 Adapter",
+        "Mounting": "6 Suction Cup Mounts",
+        "ROTATION": "270 Degrees",
+        "VIBRATION": "Dual Motor",
+        "INCLUDED": "Wheel, Pedals, Gear Shifter, PS5 Adapter",
+        "MOUNTING": "6 Suction Cup Mounts",
+        "COMPATIBILITY": "PS5, PS4, Xbox One, Xbox Series X",
+        "Offer Price (INR)": "₹9,499.00",
+        "MRP (INR)": "₹21,999.00",
+        "SKU": "AEPP0382"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gwgt5-racing-steering-wheel-ps5-adapter"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/poe-switch",
+    "tab_title": "PoE Switch",
+    "tab_id": "16427",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "PoE Switch",
+      "PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "146625",
+    "product_name": "SG4020LP",
+    "product_title": "20-Port Cloud Managed Desktop Gigabit Switch with 16-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sg4020lp",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11759/ProductImage/1_0_01_20_11759_671639946_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sg4020lp.html",
+  "detail": {
+    "title": "20-Port Cloud Managed Desktop Gigabit Switch with 16-Port PoE",
+    "model": "SG4020LP",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11759/ProductImage/1_0_01_20_11759_671639946_crop_thumb.png",
+        "alt": "SG4020LP",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sg4020lp"
+  }
+}

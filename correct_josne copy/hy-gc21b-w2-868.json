@@ -1,0 +1,127 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "147250",
+    "product_name": "HY-GC21B-W2(868)",
+    "product_title": "Wireless Carbon Monoxide Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/hy-gc21b-w2(868)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.36.16166/ProductImage/1041576272135_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/hy-gc21b-w2-868.html",
+  "detail": {
+    "title": "Wireless Carbon Monoxide Alarm",
+    "model": "HY-GC21B-W2(868)",
+    "brand": "Dahua",
+    "overview": "Favourite HY-GC21B-W2(868) Wireless Carbon Monoxide Alarm Key Points Overseas WisuAlarm Carbon monoxide alarm Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.36.16166/ProductImage/1041576272135_thumb.png",
+        "alt": "HY-GC21B-W2(868)_image.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Carbon Monoxide (CO)",
+        "Sensor Type": "Electrochemical"
+      },
+      "Alarm": {
+        "Alarm Type": "CO alarm, fault warning, low battery warning",
+        "Alarm Volume": "Over 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silence Function": "Support",
+        "Silence Duration": "About 45 seconds",
+        "Alarm Response Threshold": "50 ppm: 60 min–90 min 100 ppm: 10 min–40 min 300 ppm: < 3 min"
+      },
+      "Wireless": {
+        "Carrier Frequency": "868 MHz",
+        "Communication Distance": "Up to 1000 m (3280.84 ft) in an open space",
+        "Frequency Hopping": "Yes",
+        "Encryption Mode": "AES128"
+      },
+      "Basic Parameters": {
+        "Display": "LCD",
+        "Indicator Light": "LED (red/yellow/green)",
+        "LED Instruction": "Alarm: Red indicator Fault: Yellow indicator Power: Green indicator"
+      },
+      "Power Supply": {
+        "Battery Life": "3 years",
+        "Power Source": "3V CR123A lithium battery (replaceable)",
+        "Operating Current": "Monitoring Current: ≤20uA Alarm Current: ≤10mA"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor use only",
+        "Operating Temperature": "–10°C to +40°C (+14°F to +104°F)",
+        "Operating Humidity": "≤95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Material": "PC + ABS",
+        "Dimensions": "116.4 mm × 71.7 mm × 28.3 mm (4.58\" × 2.82\" × 1.11\")",
+        "Weight": "125 g",
+        "Installation": "Wall Mount"
+      },
+      "Certification": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 50291-1:2018, EN 50291-2:2019"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/147250/datasheet/HY-GC21B-W2(868)_datasheet_20241231.pdf"
+      },
+      {
+        "name": "2026-04-09 #User Manual Wireless Interconnected CO Alarm (DHI-HY-GC20C-R8) _V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63567/user_manual/Wireless_Interconnected_CO_Alarm_(DHI-HY-GC20C-R8)__V1.0.2.pdf"
+      },
+      {
+        "name": "2025-06-28 #Drawings HY-GC21B-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63567/drawings/1_0_01_36_15123_27430882.pdf"
+      },
+      {
+        "name": "2026-03-19 #Firmware DHI_HYGC21B-W2(868)_Eng_MCU_V1.000.0000001.0.R.251211 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82755/firmware/DHI_HYGC21B-W2(868)_Eng_MCU_V1.000.0000001.0.R.251211.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/hy-gc21b-w2(868)"
+  }
+}

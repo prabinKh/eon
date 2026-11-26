@@ -1,0 +1,73 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 12 Optical Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925488931",
+    "product_name": "Globe 12 Optical Mouse - Black",
+    "product_title": "Globe 12 Optical Mouse - Black",
+    "product_url": "https://antesports.com/products/globe-12-mouse-multicolour-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/10_7736fdb4-93dc-4148-af40-d312bb4d00e8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-12-mouse-multicolour-black.html",
+  "detail": {
+    "title": "Globe 12 Optical Mouse - Black",
+    "model": "ANTR0127",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 12 is a wired optical gaming mouse offering 2400 DPI high-precision sensing for smooth, accurate cursor movement across everyday computing and light gaming. Multicolour RGB backlighting adds a vibrant visual accent, while 4 responsive buttons give quick access beyond standard left, right and scroll click functions. Its lightweight, ergonomic design keeps hands comfortable through extended use, and true plug-and-play USB connectivity works across PC, Mac, laptop and desktop systems with no drivers required.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/10_7736fdb4-93dc-4148-af40-d312bb4d00e8.jpg",
+        "alt": "Globe 12 Optical Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "2400",
+        "Buttons": "4",
+        "Lighting": "Multicolour RGB",
+        "Compatibility": "PC, Mac, Laptop, Desktop",
+        "Color": "Black",
+        "BUTTONS": "4",
+        "LIGHTING": "Multicolour RGB",
+        "COMPATIBILITY": "PC, Mac, Laptop, Desktop",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹199.00",
+        "MRP (INR)": "₹799.00",
+        "SKU": "ANTR0127"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-12-mouse-multicolour-black"
+  }
+}

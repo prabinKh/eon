@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Picoo Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series",
+    "tab_title": "Picoo Series",
+    "tab_id": "18160",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Picoo Series",
+      "Picoo Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "146417",
+    "product_name": "P3D-3F-PV",
+    "product_title": "3+3MP Outdoor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/p3d-3f-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20240815/pdf1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/p3d-3f-pv.html",
+  "detail": {
+    "title": "3+3MP Outdoor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "model": "P3D-3F-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite P3D-3F-PV 3+3MP Outdoor Wi-Fi Dual-Lens Pan & Tilt Camera Key Points • One Camera for 360° View Without Blind Spots • Smart Detection for Both Lenses to Focus on What Matters • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • Built-in Mic & Speaker, Support Two-way Talk • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • AI Human & Vehicle Detection • Automatic Tracking of Targets • IP66 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/pdf1_thumb.png",
+        "alt": "P3D-3F-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/pdf2_thumb.png",
+        "alt": "P3D-3F-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/pdf3_thumb.png",
+        "alt": "P3D-3F-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera（2.8 mm +6 mm）": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Illumination Distance": "Up to 50 m (164.04 ft) (IR) Up to 40 m (131.23 ft) (Warm light)",
+        "Illuminator Number": "2 (IR LED); 2 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 352°; Tilt: 0° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 53°; V: 29°; D: 62°"
+      },
+      "Camera (3.6 mm+3.6 mm)": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Illumination Distance": "Up to 30 m (98.43 f) (IR) Up to 30 m (98.43 f) (Warm light)",
+        "Illuminator Number": "2 (IR LED); 2 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 352°; Tilt: 0° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "3.6mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 86°; V: 46°; D: 103°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2304 × 1296@15 fps sub stream: 640 × 360@15 fps *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.265: 512 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.4000~2.4835 GHz, 2.4G,≤20dBm",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "General": {
+        "Certifications": "CE",
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Basic: 2.3 W Max.: 10 W (pulling stream+ IR + siren and light active deterrence)",
+        "Operating Temperature": "–30 °C to +50 °C (–22 °F to +122 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP66",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "159.4 mm × 119.1 mm × 210 mm (6.28\" × 4.69\" × 8.27\") (L × W × H)",
+        "Net Weight": "585 g (1.29 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-P3D-3F-PV_S0_datasheet_20251201.pdf"
+      },
+      {
+        "name": "2025-09-10 #User Manual Dahua Network Camera (Dual-lens Pan and Tilt)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87833/user_manual/Dahua_Network_Camera_(Dual-lens_Pan_and_Tilt)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-09-10 #User Manual Network Camera (Dual-lens Pan and Tilt)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87833/user_manual/Network_Camera_(Dual-lens_Pan_and_Tilt)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-09-10 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2025-09-10 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-09-10 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2025-09-10 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2025-10-11 #A&E Document P3D-3F-PV_A&E_20260918050906 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82240/a_e_document/1789680066553.docx"
+      },
+      {
+        "name": "2025-09-10 #Drawings P3D-3F-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87833/drawings/1_0_01_04_49060_692099329.pdf"
+      },
+      {
+        "name": "2025-09-10 #Drawings P3D-3F-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87833/drawings/1_0_01_04_49060_550125032.pdf"
+      },
+      {
+        "name": "2026-07-28 #Firmware DH_IPC-WPT-E2-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88172/firmware/DH_IPC-WPT-E2-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/p3d-3f-pv"
+  }
+}

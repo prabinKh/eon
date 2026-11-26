@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "Wireless Access Controller",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/wireless-access-controller",
+    "tab_title": "Wireless Access Controller",
+    "tab_id": "8647",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "Wireless Access Controller",
+      "Wireless Access Controller"
+    ]
+  },
+  "card_info": {
+    "product_id": "152962",
+    "product_name": "ERC210-P",
+    "product_title": "Router",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accesspoints/eapseries/erc210-p",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11555/ProductImage/1_0_01_20_11555_539252146_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/erc210-p.html",
+  "detail": {
+    "title": "Router",
+    "model": "ERC210-P",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11555/ProductImage/1_0_01_20_11555_539252146_crop_thumb.png",
+        "alt": "ERC210-P",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accesspoints/eapseries/erc210-p"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "PS5 Controller Charging Station - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870205731",
+    "product_name": "PS5 Controller Charging Station - Black",
+    "product_title": "PS5 Controller Charging Station - Black",
+    "product_url": "https://antesports.com/products/ps5-controller-charging-station-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_67891111-aa0c-4369-b125-4255a85e0c5a.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps5-controller-charging-station-black.html",
+  "detail": {
+    "title": "PS5 Controller Charging Station - Black",
+    "model": "AEPP0128",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS5 Controller Charging Station holds and charges two PS5 DualSense controllers simultaneously, keeping you ready for your next gaming session without waiting on individual charge cycles. It fully charges two controllers in just 2.5 hours, and can be placed conveniently on top of the console and connected via the included cable for a hassle-free setup. A built-in smart chip protects against overloading, overcurrent, overvoltage and short circuits, while intuitive LED indicators show charging status at a glance — red while charging, blue when fully charged, grey in standby. Anti-slip rubber pads keep both controllers firmly in place, saving desk space while keeping your gaming setup organized and ready to go.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_67891111-aa0c-4369-b125-4255a85e0c5a.jpg",
+        "alt": "PS5 Controller Charging Station - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Compatibility": "PS5 DualSense Controllers, x2",
+        "Charging Time": "2.5 Hours (Both Controllers)",
+        "Protection": "Overload, Overcurrent, Overvoltage, Short Circuit",
+        "Indicators": "LED (Red/Blue/Grey)",
+        "Color": "Black",
+        "COMPATIBILITY": "PS5 DualSense Controllers, x2",
+        "CHARGING TIME": "2.5 Hours (Both Controllers)",
+        "PROTECTION": "Overload, Overcurrent, Overvoltage, Short Circuit",
+        "INDICATORS": "LED (Red/Blue/Grey)",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,049.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0128"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps5-controller-charging-station-black"
+  }
+}

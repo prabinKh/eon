@@ -1,0 +1,199 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Picoo Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series",
+    "tab_title": "Picoo Series",
+    "tab_id": "18160",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Picoo Series",
+      "Picoo Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152688",
+    "product_name": "IPC-PT2849DC1-SW-PV",
+    "product_title": "8MP WizColor Outdoor Wi-Fi Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/ipc-pt2849dc1-sw-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16161/ProductImage/1_0_01_07_16161_734308470_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/ipc-pt2849dc1-sw-pv.html",
+  "detail": {
+    "title": "8MP WizColor Outdoor Wi-Fi Pan & Tilt Network Camera",
+    "model": "IPC-PT2849DC1-SW-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PT2849DC1-SW-PV 8MP WizColor Outdoor Wi-Fi Pan & Tilt Network Camera Key Points • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • One Camera for 360° View Without Blind Spots • 4K Ultra HD, Beyond Sharpness • AI Human & Vehicle Detection • Built-in Mic & Speaker, Support Two-way Talk • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • WizColor Technology，As Bright As Day Light • Automatic Tracking of Targets Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16161/ProductImage/1_0_01_07_16161_734308470_crop_thumb.png",
+        "alt": "IPC-PT2849DC1-SW-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16161/ProductImage/1_0_01_07_16161_734308473_crop_thumb.png",
+        "alt": "IPC-PT2849DC1-SW-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16161/ProductImage/1_0_01_07_16161_785527272_crop_thumb.png",
+        "alt": "IPC-PT2849DC1-SW-PV_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16161/ProductImage/1_0_01_07_16161_785528780_crop_thumb.png",
+        "alt": "IPC-PT2849DC1-SW-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16161/ProductImage/1_0_01_07_16161_785527271.png",
+        "alt": "IPC-PT2849DC1-SW-PV_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "Electronic Shutter Speed": "1 s–1/100,000 s",
+        "Min. Illumination": "0.0005 lux@F1.0 (Color, 30 IRE); 0 lux (Illuminator on)",
+        "Illumination Distance": "30 m (98.43 ft) (Warm light)",
+        "Illuminator Number": "4 (Warm light)"
+      },
+      "Lens": {
+        "Focal Length": "3.6 mm",
+        "Max. Aperture": "F1.0",
+        "Field of View": "H: 82.9°; V: 47.3°; D: 93.4°"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 345°; Tilt: 0° to 90°"
+      },
+      "Smart Event": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Video": {
+        "Video Compression": "Smart H.265+; H.264M; H.264H; Smart H.264+; H.265; H.264B; MJPEG(Sub Stream 1)",
+        "Video Frame Rate": "Main stream: 8M/3M/720p@(1–15 fps) Sub stream 1: 640 × 360/QVGA@(1–15 fps)",
+        "Day/Night": "Color/B/W",
+        "WDR": "120 dB",
+        "Motion Detection": "Yes",
+        "Image Rotation": "180°"
+      },
+      "Audio": {
+        "Audio Compression": "PCM, G.711A, G.711Mu",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi Standard": "IEEE802.11g;IEEE802.11b; IEEE802.11n; IEEE802.11ax",
+        "Wi-Fi Frequency Range": "2.4 GHz",
+        "Wi-Fi Transmission Rate": "229 Mbps",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Max. Transmission Power": "≤20 dBm@2,400–2,483.5 MHz",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); SDK; CGI",
+        "Storage": "Micro SD card (Up to 512 GB); FTP",
+        "Management Software": "NVR;DMSS",
+        "Mobile Client": "Android;iOS"
+      },
+      "Function": {
+        "Abnormal Sound Alarm": "Yes"
+      },
+      "Certification": {
+        "Certifications": "CE"
+      },
+      "Power": {
+        "Power Supply": "12 VDC, 1 A ± 10%",
+        "Power Consumption": "Basic: 3 W Max. (Basic power consumption + WDR + Light on + PTZ operation): 9 W"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP66; TVS 2000 V lightning proof; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "153.5 mm × Φ129.3 mm (6.04\" × Φ5.09\")",
+        "Net Weight": "0.60 kg (1.32 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-PT2849DC1-SW-PV_S0_datasheet_20250429.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Wi-Fi Network Camera (Outdoor Pan-Tilt) User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82983/user_manual/Wi-Fi_Network_Camera_(Outdoor_Pan-Tilt)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Network Camera (Pan and Tilt-Outdoor)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83454/user_manual/Network_Camera_(Pan_and_Tilt-Outdoor)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera (SD2C_WIFI-Eur)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83454/user_manual/Dahua_Network_Camera_(SD2C_WIFI-Eur)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-04-23 #User Manual Network Camera (SD2C_WIFI)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010629/202504/Network_Camera_(SD2C_WIFI)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-04-23 #User Manual Dahua Network Speed Dome & PTZ Camera Web 5.0_User Manual_V1.2.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83454/user_manual/Dahua_Network_Speed_Dome__26_PTZ_Camera_Web_5.0_User_Manual_V1.2.1.pdf"
+      },
+      {
+        "name": "2025-05-08 #A&E Document IPC-PT2849DC1-SW-PV_A&E_20260918032358 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83454/a_e_document/1789674682143.docx"
+      },
+      {
+        "name": "2025-05-08 #A&E Document IPC-PT2849DC1-SW-PV_A&E_20260918032356 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83454/a_e_document/1789674682335.docx"
+      },
+      {
+        "name": "2025-04-18 #Drawings IPC-PT2849DC1-SW-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83450/drawings/P3F-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-04-18 #Drawings IPC-PT2849DC1-SW-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83450/drawings/P3F-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-08 #Firmware DH_SD-Hugo-HB_MultiLang_PN_Stream1_Normal_V3.000.0000000.10.R.260206 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83448/firmware/DH_SD-Hugo-HB_MultiLang_PN_Stream1_Normal_V3.000.0000000.10.R.260206.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/ipc-pt2849dc1-sw-pv"
+  }
+}

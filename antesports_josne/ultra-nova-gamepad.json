@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock"
+    ]
+  },
+  "card_info": {
+    "product_id": "10325394161955",
+    "product_name": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock",
+    "product_title": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock",
+    "product_url": "https://antesports.com/products/ultra-nova-gamepad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_ae41bb8e-547f-4b18-b869-a32642185dae.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ultra-nova-gamepad.html",
+  "detail": {
+    "title": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock",
+    "model": "AEPP0385",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Ultranova reinvents PC and Console gaming with built indrift-free TMR sticks, Hall Effect Trggers and an included charging dock.The Tri-Mode Connectivity ensures seamless gameplay. While compatibilityacross PC/PS4/PS3/Switch/Steam OS/Android/iOS enables maximum device support.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_ae41bb8e-547f-4b18-b869-a32642185dae.png",
+        "alt": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_fb855feb-b826-427f-924e-caab7df22e08.png",
+        "alt": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_622043e2-1632-42f8-988a-6a9adfe7e577.png",
+        "alt": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_8de27964-bcd5-4ead-a514-fadcf2ff6fad.png",
+        "alt": "Ultranova Tri-Mode Multi-platform Gamepad with Charging Dock - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Gamepad",
+        "Platform Support": "PS4, PS3, PC, Steam OS, Android, iOS, Nintendo Switch",
+        "Joystick Type": "Tunneling Magneto-Resistance (TMR) Sticks",
+        "Trigger Type": "Pressure Sensitive, Hall Effect",
+        "Polling Rate": "1000 Hz",
+        "Charging Dock": "Included",
+        "Connectivity": "Tri-Mode (2.4G, Bluetooth, Wired)",
+        "Layout": "XBOX Style, Asymmetric",
+        "Vibration": "Yes (Dual Motor, Adjustable Intensity)",
+        "Battery Capacity": "600 mAh",
+        "PRODUCT TYPE": "Gamepad",
+        "PLATFORM SUPPORT": "PS4, PS3, PC, Steam OS, Android, iOS, Nintendo Switch",
+        "JOYSTICK TYPE": "Tunneling Magneto-Resistance (TMR) Sticks",
+        "TRIGGER TYPE": "Pressure Sensitive, Hall Effect",
+        "POLLING RATE": "1000 Hz",
+        "CHARGING DOCK": "Included",
+        "CONNECTIVITY": "Tri-Mode (2.4G, Bluetooth, Wired)",
+        "LAYOUT": "XBOX Style, Asymmetric",
+        "VIBRATION": "Yes (Dual Motor, Adjustable Intensity)",
+        "BATTERY CAPACITY": "600 mAh",
+        "Offer Price (INR)": "₹6,999.00",
+        "SKU": "AEPP0385"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ultra-nova-gamepad"
+  }
+}

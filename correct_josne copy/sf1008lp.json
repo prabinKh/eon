@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/poe-switch",
+    "tab_title": "PoE Switch",
+    "tab_id": "16427",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "PoE Switch",
+      "PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "129687",
+    "product_name": "SF1008LP",
+    "product_title": "8-Port Unmanaged Desktop Switch with 4-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sf1008lp",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11284/ProductImage/1_0_01_20_11284_424399241_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sf1008lp.html",
+  "detail": {
+    "title": "8-Port Unmanaged Desktop Switch with 4-Port PoE",
+    "model": "SF1008LP",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11284/ProductImage/1_0_01_20_11284_424399241_thumb.png",
+        "alt": "SF1008LP",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sf1008lp"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Body Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/body-camera",
+    "tab_title": "Body Camera",
+    "tab_id": "118255",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Body Camera",
+      "Body Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "151125",
+    "product_name": "MPT120",
+    "product_title": "Dahua Body Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/body-camera/mpt120",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20250108/MPT120_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/mpt120.html",
+  "detail": {
+    "title": "Dahua Body Camera",
+    "model": "MPT120",
+    "brand": "Dahua",
+    "overview": "Compare Favourite MPT120 Dahua Body Camera Key Points Offline body camera; 64GB storage; 125g ultra-light; FOV 142°; 720P video recording up to 10h. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250108/MPT120_1_thumb.png",
+        "alt": "MPT120_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250108/MPT120_2_thumb.png",
+        "alt": "MPT120_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250108/MPT120_3_thumb.png",
+        "alt": "MPT120_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Operating System": "Linux",
+        "RAM": "256 MB",
+        "Storage Capacity": "64 GB"
+      },
+      "Screen": {
+        "Screen Size": "2.0\"",
+        "Brightness": "480 cd/m²",
+        "Contrast": "800:1",
+        "Resolution": "320 (H) × 240 (V)",
+        "Screen Type": "LCD"
+      },
+      "Camera": {
+        "Max. Aperture": "F2.1",
+        "Field of View": "H: 124°; D: 142°",
+        "Focal Length": "2.44 mm",
+        "Image Sensor": "1/2.8\"",
+        "Focus Control": "Fixed focal"
+      },
+      "Audio/Video": {
+        "Video Compression": "H.265;H.264",
+        "Video Format": "MP4",
+        "Video Resolution/Frame Rate": "3840 × 2160@30 fps; 2560 × 1440@30 fps; 2304 × 1296@30 fps; 1920 × 1080@30 fps; 1280 × 720@30 fps; 1280 × 720@15 fps",
+        "Image Resolution": "Supports up to 36 MP (8000 x 4500), and 32 MP, 26 MP, 20 MP, 14 MP and 8 MP can be set.",
+        "Image Encoding Format": "JPG",
+        "Video Packaging Time": "Can be set as 5, 10, 20 or 30 minutes.",
+        "Pre-Record/Post-Record": "Pre-recording time reaches 120 sec and post-recording reaches 300 sec.",
+        "Distortion Correction": "Yes",
+        "IR Switching Mode": "Supports the manual and auto modes (it is manual by default).",
+        "Max. IR Distance": "Sees faces up to 5 m away and outlines up to 10 m away.",
+        "Min. Illumination": "0.0001 lux (B/W)",
+        "Noise Reduction": "3D NR",
+        "White Balance": "Auto",
+        "LED Flashing Light": "1",
+        "Audio Compression": "PCM",
+        "Audio Sampling": "8 kHz, 16 bit",
+        "Audio Format": "WAV",
+        "Key Mark": "Yes"
+      },
+      "Function": {
+        "Voice Prompt": "Supports voice broadcast prompts.",
+        "OSD Overlay": "Time; user ID; device ID",
+        "Shortcut Function": "With the press of a button it records videos and audios, takes pictures, turns on the light at night, and flags files."
+      },
+      "Port": {
+        "USB": "1 × Type-C USB 2.0 port",
+        "External Port": "5-Pin metal port (connects with the docking base through the Pogo Pin connector to charge the device and transmit data.)"
+      },
+      "General": {
+        "Speaker": "1",
+        "Button": "Power on/off; flag files; record videos; take pictures; record audios; turn on/off IR",
+        "Indicator Light": "2, indicate the operating status and charging status.",
+        "Battery Capacity": "3000 mAh (4.35 V)",
+        "Battery Detachability": "No",
+        "Charging": "5 VDC, 1.5 A",
+        "Operating Time": "Lasts up to 10 hours when recording at 720p.",
+        "Standby Time": "≥16 hours",
+        "Charging Time": "3 hours",
+        "Protection": "The bare machine is IP68 rated, and received rigorous testing with four 2-meter drop tests.",
+        "Operating Temperature": "–20 °C to +55 °C (–4 °F to +158 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Net Weight": "125 g (0.28 lb) (battery included, without back clip)",
+        "Gross Weight": "490 g (1.12 lb) (package included)",
+        "Product Dimensions": "82 mm × 58 mm × 33 mm (3.23\" × 2.28\" × 1.30\") (L × W × H)",
+        "Packaging Dimensions": "169 mm × 120 mm × 65 mm (6.65\" × 4.72\" × 2.56\") (L × W × H)",
+        "Accessory": "Type-C USB charging cable; 5 V 2 A power adapter; clip; docking base",
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/MPT120_datasheet_20240925.pdf"
+      },
+      {
+        "name": "2024-12-16 #User Manual CLIP INSTALLATION GUIDE_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82826/user_manual/CLIP_INSTALLATION_GUIDE_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-12-16 #User Manual Offline Body Camera MPT120_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82826/user_manual/Offline_Body_Camera_MPT120_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-09-20 #Drawings MPT120_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82826/drawings/MPT120_PORT.pdf"
+      },
+      {
+        "name": "2024-09-26 #Drawings MPT120_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82826/drawings/MPT120_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/body-camera/mpt120"
+  }
+}

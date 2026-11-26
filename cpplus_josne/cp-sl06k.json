@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Solar Panel",
+    "category_url": "https://cpplusworld.com/products/solar-panel",
+    "subcategory": "EzyHome",
+    "subcategory_url": "https://cpplusworld.com/products/ezyhome/Solar Panel",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "EzyHome",
+    "tab_id": "183",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "EzyHome",
+      "Solar Panel",
+      "CP-SL06K"
+    ]
+  },
+  "card_info": {
+    "product_id": "2222",
+    "product_name": "CP-SL06K",
+    "product_title": "CP-SL06K",
+    "product_url": "https://cpplusworld.com/cp-sl06k",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d37135f3-a2c2-4d60-8862-3b06d269bf0a.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-sl06k.html",
+  "detail": {
+    "title": "CP-SL06K",
+    "model": "CP-SL06K",
+    "brand": "CP Plus",
+    "overview": "Solar Panel Kit with built-in Battery",
+    "features": [
+      "The maximum power output is 30W.",
+      "Backup time 12 Hours (Assumption based on 76.8Wh  Battery Capacity and 5.5 Watt continuous load)",
+      "Indications LED Battery charging: Green Blink",
+      "Indications LED Full charge: Green ON",
+      "Indications LED Battery discharge: Red ON"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d37135f3-a2c2-4d60-8862-3b06d269bf0a.png",
+        "alt": "CP-SL06K - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/55926f8d-03c0-4c9a-8efc-8d29a64024d2.png",
+        "alt": "CP-SL06K - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Cell Type": "Monocrystalline",
+        "No. of cells": "32",
+        "Open circuit voltage": "22.9 V+/- 10%",
+        "Short circuit current": "1.59 A +/-",
+        "Voltage at Maximum power": "19.25 V +/- 10%",
+        "Current at Maximum power": "1.56 A +/- 10%",
+        "Maximum Power": "30 W",
+        "Nominal Operating Cell Temperature": "45 °C ± 2 °C",
+        "Panel operating Temperatures": "-20 °C to +65 °C",
+        "Dimensions": "510mm x 425mm x 17mm",
+        "Charge current": "Up to 1.5 A (Depends on Solar irradiation and Battery SOC)",
+        "Configuration": "4S-1P",
+        "Capacity": "76.8Wh",
+        "Charge Cutoff Voltage": "14.6V +/- 10%",
+        "Cycle Life": "1000 @ 90% DOD",
+        "Working Temperature": "0°C~60°C (Discharge), 0°C~45°C (Charge)",
+        "Battery packaging": "PVC",
+        "Dimension": "70 mm x 130 mm x 35 mm (±10) mm",
+        "Voltage During Charging": "12V (+/-10%), Will be adjusted slightly based on Cable length",
+        "Voltage During Discharging": "12V (+/- 10%), Will be adjusted slightly based on Cable length",
+        "Maximum Load Current During Charging": "1A",
+        "Cable Length": "3 Mtr.",
+        "Load": "12 Watt Camera load (Load varies from 2.65 Watt to 10",
+        "Backup time": "12 Hours (Assumption based on 76.8Wh Battery Capacity and 5.5 Watt continuous load)  Battery backup may vary based on the change in Power consumption",
+        "LED": "1.Battery charging: Green Blink                                                                                                                           2.Full charge: Green ON                                                                                                                              3.Battery discharge: Red ON",
+        "Battery primary protection": "Using a separate PCB inside the battery pack to protect from all kinds of faults and issues men t ioned below.                                                                                                                                                   1.Over current and Short circuit protection                                                                                             2.Over voltage protection                                                                                                                              3.Under voltage protection                                                                                                                             4.Over charge protection                                                                                                                                 5.Deep discharge protection                                                                                                                            6.Over temperature protection",
+        "Fasteners": "U-Bolt – 101.6 mm, Hose Clamp – 150 mm",
+        "Dimension.": "550 mm x 450 mm x 105 mm",
+        "Output port": "Cable with compatible Power jack"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-SL06K.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-sl06k"
+  }
+}

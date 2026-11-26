@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "Optical Module",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/optical-module",
+    "tab_title": "Optical Module",
+    "tab_id": "13717",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "Optical Module",
+      "Optical Module"
+    ]
+  },
+  "card_info": {
+    "product_id": "124267",
+    "product_name": "QSFP-1310-10-SMF",
+    "product_title": "SFP Optical Modul",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/opticalmodule/qsfp-1310-10-smf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230215/QSFP-1310-10-SMF_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/qsfp-1310-10-smf.html",
+  "detail": {
+    "title": "SFP Optical Modul",
+    "model": "QSFP-1310-10-SMF",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230215/QSFP-1310-10-SMF_1_thumb.png",
+        "alt": "QSFP-1310-10-SMF",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/opticalmodule/qsfp-1310-10-smf"
+  }
+}

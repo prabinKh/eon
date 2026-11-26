@@ -1,0 +1,128 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "EVO 360 Lite Gaming Chassis - white"
+    ]
+  },
+  "card_info": {
+    "product_id": "10369290666275",
+    "product_name": "EVO 360 Lite Gaming Chassis - white",
+    "product_title": "EVO 360 Lite Gaming Chassis - white",
+    "product_url": "https://antesports.com/products/evo-360-lite-gaming-chassis-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01W.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/evo-360-lite-gaming-chassis-white.html",
+  "detail": {
+    "title": "EVO 360 Lite Gaming Chassis - white",
+    "model": "EVO 360 Lite Gaming Chassis - white",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Chassis EVO 360 Lite - white is a premium gaming cabinet designed to deliver excellent performance for gaming, content creation, and high-performance PC builds. Featuring support for E-ATX, ATX, M-ATX, M-ITX motherboards, 4(3x Front, 1x Rear) pre-installed fans, and support for graphics cards up to 335mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and PC builders.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01W.png",
+        "alt": "EVO 360 Lite Gaming Chassis - white - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02W.png",
+        "alt": "EVO 360 Lite Gaming Chassis - white - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03W.png",
+        "alt": "EVO 360 Lite Gaming Chassis - white - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04W.png",
+        "alt": "EVO 360 Lite Gaming Chassis - white - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "CLASSIC",
+        "Product Type": "Cabinet",
+        "Length (mm)": "375",
+        "Width (mm)": "220",
+        "Height (mm)": "445",
+        "Volume (liters)": "37",
+        "Motherboard Support": "E-ATX, ATX, M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "3",
+        "SSD (2.5\") Bays": "1",
+        "Front FAN Support": "3x120mm, 3x140mm",
+        "Top FAN Support": "3x120mm, 3x140mm",
+        "Bottom FAN Support": "None",
+        "Rear FAN Support": "1x120mm",
+        "Side FAN Support": "2x120mm",
+        "Front AIO Support": "None",
+        "Top AIO Support": "360mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "None",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "4(3x Front, 1x Rear)",
+        "Max. VGA Card Length (mm)": "335",
+        "Max. CPU Cooler Height (mm)": "170",
+        "I/O Panel": "1xUSB 3.0, 2xUSB",
+        "Expansion Slots": "7",
+        "SERIES": "CLASSIC",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "375",
+        "WIDTH (MM)": "220",
+        "HEIGHT (MM)": "445",
+        "VOLUME (LITERS)": "37",
+        "MOTHERBOARD SUPPORT": "E-ATX, ATX, M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "3",
+        "SSD (2.5\") BAYS": "1",
+        "FRONT FAN SUPPORT": "3x120mm, 3x140mm",
+        "TOP FAN SUPPORT": "3x120mm, 3x140mm",
+        "BOTTOM FAN SUPPORT": "None",
+        "REAR FAN SUPPORT": "1x120mm",
+        "SIDE FAN SUPPORT": "2x120mm",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "360mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "None",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "4(3x Front, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "335",
+        "MAX. CPU COOLER HEIGHT (MM)": "170",
+        "I/O PANEL": "1xUSB 3.0, 2xUSB",
+        "EXPANSION SLOTS": "7",
+        "Offer Price (INR)": "₹3,749.00",
+        "MRP (INR)": "₹4,499.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/evo-360-lite-gaming-chassis-white"
+  }
+}

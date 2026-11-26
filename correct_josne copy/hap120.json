@@ -1,0 +1,117 @@
+{
+  "hierarchy": {
+    "category": "Audio & Sensing",
+    "category_url": "https://www.dahuasecurity.com/products/audio-&-sensing",
+    "subcategory": "General Audio",
+    "subcategory_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "series": "Indoor Pickups",
+    "series_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "tab_title": "Indoor Pickups",
+    "tab_id": "18103",
+    "breadcrumbs": [
+      "Audio & Sensing",
+      "General Audio",
+      "Indoor Pickups",
+      "Indoor Pickups"
+    ]
+  },
+  "card_info": {
+    "product_id": "20687",
+    "product_name": "HAP120",
+    "product_title": "Hi-fidelity Pickup",
+    "product_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/indoor-pickups/hap120",
+    "card_image": "https://material.dahuasecurity.com/product/20180316/DH-HAP120_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "audio-&-sensing/products/hap120.html",
+  "detail": {
+    "title": "Hi-fidelity Pickup",
+    "model": "HAP120",
+    "brand": "Dahua",
+    "overview": "Favourite HAP120 Hi-fidelity Pickup Key Points Small metal Hi-fidelity Pickup, Used for sound acquisition within 10~70 square meters. 10-70㎡, Omni-directional, Basic noise reduction, CE, FCC. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Model": "DH-HAP120",
+        "Scope": "10~70 m2",
+        "Sensitivity": "-34±3dB",
+        "Frequency response": "80Hz～16kHz",
+        "Directional characteristic": "Omni-directional",
+        "SNR (re 94dBSPL=1Pa@1KHz)": "58dB",
+        "Dynamic range": "74dB",
+        "Max. sustainable sound pressure": "110dBSPL (1KHz, THD 1%)",
+        "Output impedance": "600Ω(non-equilibrium)",
+        "Output signal amplitude": "2.5Vpp/88dBSPL",
+        "Microphone": "Plated film capacitor microphone head",
+        "Working voltage": "DC 12V",
+        "Working current": "40mA",
+        "Working temperature": "-30ºC~+70ºC(-22℉~+158℉)",
+        "Material": "Aluminum",
+        "Color": "Silver",
+        "Dimension": "Φ40mm×20mm (Φ1.57”×0.79”)",
+        "Weight": "48g( 0.11lb)",
+        "Certification": "CE/FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180408/DH-HAP120_datasheet.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/indoor-pickups/hap120"
+  }
+}

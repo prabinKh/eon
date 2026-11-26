@@ -1,0 +1,148 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Micro-size Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series",
+    "tab_title": "Micro-size Series",
+    "tab_id": "6252",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Micro-size Series",
+      "Micro-size Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "36577",
+    "product_name": "HAC-HUM3201B-B",
+    "product_title": "2MP Starlight HDCVI Miniature Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series/hac-hum3201b-b=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20190820/HAC-HUM3201B-B_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hum3201b-b-s2.html",
+  "detail": {
+    "title": "2MP Starlight HDCVI Miniature Camera",
+    "model": "HAC-HUM3201B-B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HUM3201B-B 2MP Starlight HDCVI Miniature Camera Key Points • High-Quality Imaging with 1080P Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 3m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & 120dB WDR Ensures Clear Details in Strong Backlight Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20190820/HAC-HUM3201B-B_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8 inch CMOS",
+        "Effective Pixels": "1920 (H) × 1080 (V), 2MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/3s–1/100000s NTSC: 1/4s–1/100000s",
+        "S/N Ratio": ">65 dB",
+        "Minimum Illumination": "Color: 0.004LuxLux/F2.4 Black & White: 0.0004LuxLux/F2.4"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M12",
+        "Focal Length": "2.8 mm",
+        "Max. Aperture": "F2.5",
+        "Angle of View": "130° × 110° × 59° (diagonal x horizontal x vertical)",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "0.5 m (1.6 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "41.4 m (135.8 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Frame Rate": "CVI: PAL: 1080P@25fps, 720P@25/50fps NTSC: 1080P@30fps, 720P@30/60fps AHD: PAL: 1080P@25fps, 720P@25fps NTSC: 1080P@30fps, 720P@30fps TVI: PAL: 1080P@25fps, 720P@25ps NTSC: 1080P@30fps, 720P@30ps CVBS: PAL: 960 × 576H NTSC: 960 × 480H",
+        "Resolution": "1080P (1920 × 1080); 720P (1280 × 720); 960H (704 × 576/704 × 480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/HLC/WDR",
+        "WDR": "120 dB",
+        "White Balance": "Auto; manual",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "3D NR",
+        "Smart IR": "Yes",
+        "Electronic Defog": "Yes",
+        "Digital Zoom": "4 ×",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4,EN60950-1) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel, RCA sound pick-up port"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 2.11W"
+      },
+      "Environmental": {
+        "Operating Temperature": "-30°C to +60°C (-22°F to 140°F);<95% (non-condensation)",
+        "Storage Temperature": "-30°C to +60°C (-22°F to 140°F);<95% (non-condensation)",
+        "Protection Grade": "NA"
+      },
+      "Construction": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "43.5 mm × 36.2 mm × 29.5 mm (1.71\" × 1.43\" × 1.16\")",
+        "Net Weight": "0.04 kg (0.09 lb)",
+        "Gross Weight": "0.14 kg (0.31 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-HUM3201B-B_S2_datasheet_20240701.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Miniature and Mobile Camera_Installation Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004597/3429195/HDCVI_Miniature_and_Mobile_Camera_Installation_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2021-07-20 #Drawings HAC-HUM3201B-B_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57297/drawings/HAC-HUM3201B-B_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2021-07-20 #Drawings HAC-HUM3201B-B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57297/drawings/HAC-HUM3201B-B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series/hac-hum3201b-b=s2"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "4MP Smart Dual Light Fixed-focal Bullet 4G Solar Power Network Camera IPC-HFW2441DG-4G-SP-B-MAX",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/4g-cameras",
+    "series": "Wired Cameras",
+    "series_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras",
+    "tab_title": "Wired Cameras",
+    "tab_id": "118200",
+    "breadcrumbs": [
+      "Wireless Products",
+      "4MP Smart Dual Light Fixed-focal Bullet 4G Solar Power Network Camera IPC-HFW2441DG-4G-SP-B-MAX",
+      "Wired Cameras",
+      "Wired Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "152353",
+    "product_name": "P4F-PV-4G",
+    "product_title": "4MP Outdoor Wizcolor Fixed-focal 4G Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras/p4f-pv-4g",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15958/ProductImage/1_0_01_07_15958_734308470_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/p4f-pv-4g.html",
+  "detail": {
+    "title": "4MP Outdoor Wizcolor Fixed-focal 4G Pan & Tilt Network Camera",
+    "model": "P4F-PV-4G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite P4F-PV-4G 4MP Outdoor Wizcolor Fixed-focal 4G Pan & Tilt Network Camera Key Points • AI Human & Vehicle Detection • IP66 Protection • Built-in Mic & Speaker, Support Two-way Talk • WizColor Technology，As Bright As Day Light • Expands your Connectivity with 4G • Automatic Tracking of Targets • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15958/ProductImage/1_0_01_07_15958_734308470_crop_thumb.png",
+        "alt": "P4F-PV-4G-LA_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15958/ProductImage/1_0_01_07_15958_734308473_crop_thumb.png",
+        "alt": "P4F-PV-4G-LA_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "Electronic Shutter Speed": "1 s–1/30,000 s",
+        "Min. Illumination": "0.0005 lux@F1.0 (Color, 30 IRE); 0 lux (illuminator on)",
+        "Illumination Distance": "30 m (164.04 ft) (Warm light)",
+        "Illuminator Number": "4 (warm light)"
+      },
+      "Lens": {
+        "Focal Length": "4 mm",
+        "Max. Aperture": "F1.0",
+        "Field of View": "H: 97°; V: 52°; D: 114°"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 345°; Tilt: 0° to +90°"
+      },
+      "Smart Event": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Video": {
+        "Video Compression": "Smart H.265+; H.264M; H.264H; Smart H.264+; H.265; H.264B; MJPEG",
+        "Video Frame Rate": "Main stream: 4M/1080p/720p@(1–25/30 fps) Sub stream 1: D1/VGA/CIF@(1–25/30 fps)",
+        "Video Bit Rate": "H264: 3,072 kbps–15,104 kbps H265: 1,280 kbps–9,216 kbps",
+        "Day/Night": "Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "180°"
+      },
+      "Audio": {
+        "Audio Compression": "PCM, G.711A, G.711Mu",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wireless Carrier Frequency Band": "EAU LTE-FDD: B1/B3/B5/B7/B8/B20/B28 TDD:B38/40/41 EUR LTE-FDD: B1/B3/B5/B7/B8/B20/B28 TDD:B38/40/41 LA LTE-FDD: B2/B3/B4/B5/B7/B8/B28/B66",
+        "Max. Transmission Power": "4G: Power class3: 23dBm±2dB",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); SDK; CGI",
+        "Storage": "Micro SD card (Up to 256 GB); FTP",
+        "Management Software": "DSS Pro; 5 Series NVR; DMSS",
+        "Mobile Client": "Android; iOS"
+      },
+      "Function": {
+        "Abnormal Sound Alarm": "Yes"
+      },
+      "Certification": {
+        "Certifications": "CE"
+      },
+      "Power": {
+        "Power Supply": "12 VDC,1 A ± 10% (included)",
+        "Power Consumption": "Basic: 3 W Max: 7.5 W (illuminator + PTZ)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "TVS 2000 V lightning proof; Waterproof and Dustproof; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "153.5 mm × Φ129.3 mm (6.04\" × Φ5.09\")",
+        "Net Weight": "0.66 kg (1.46 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/P4F-PV-4G-EAU_S0_datasheet_20250228.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual 4G Network Camera (Outdoor Pan-Tilt) User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83128/user_manual/4G_Network_Camera_(Outdoor_Pan-Tilt)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Network Camera (Pan and Tilt-Outdoor-4G)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83460/user_manual/Network_Camera_(Pan_and_Tilt-Outdoor-4G)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82661/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2024-11-05 #A&E Document P4F-PV-4G_A&E_20260918023959 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83457/a_e_document/1789671096513.docx"
+      },
+      {
+        "name": "2025-01-15 #Drawings P4F-PV-4G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83450/drawings/P3F-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-12-06 #Drawings P4F-PV-4G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83450/drawings/P3F-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-04-29 #Firmware DH_SD-Hugo_MultiLang_PN_Stream2-Normal-GYY_V3.200.0000017.7.R.260414 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83208/firmware/DH_SD-Hugo_MultiLang_PN_Stream2-Normal-GYY_V3.200.0000017.7.R.260414.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras/p4f-pv-4g"
+  }
+}

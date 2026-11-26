@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Liquid Coolers",
+    "subcategory_url": "https://antesports.com/collections/liquid-coolers",
+    "series": "Liquid Coolers Series",
+    "series_url": "https://antesports.com/collections/liquid-coolers",
+    "tab_title": "Liquid Coolers",
+    "tab_id": "508173189411",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Liquid Coolers",
+      "ICE-360 Liquid Cooler ARGB - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420696867",
+    "product_name": "ICE-360 Liquid Cooler ARGB - Black",
+    "product_title": "ICE-360 Liquid Cooler ARGB - Black",
+    "product_url": "https://antesports.com/products/ant-esports-cpu-cooler-ice-360-argb-with-heatsink-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_618ccb6a-441e-42a2-a40c-abc9174337f3.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-cpu-cooler-ice-360-argb-with-heatsink-black.html",
+  "detail": {
+    "title": "ICE-360 Liquid Cooler ARGB - Black",
+    "model": "AESP0221",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports  CPU Cooler ICE-360 ARGB  With Heatsink - Black is a high-performance liquid CPU cooler built for gamers, creators, and PC enthusiasts. Featuring a 360mm radiator with triple ARGB fans, it delivers efficient heat dissipation for processors up to 350W TDP while maintaining reliable and quiet operation. Compatible with the latest Intel and AMD platforms, it offers excellent cooling performance, vibrant aesthetics, and dependable durability for modern PC builds. Backed by a 3 Year Limited, it is an ideal choice for new builds and system upgrades.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_618ccb6a-441e-42a2-a40c-abc9174337f3.png",
+        "alt": "ICE-360 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_12ecc022-3e9f-4e9b-869d-928651827409.png",
+        "alt": "ICE-360 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_9c861afc-289c-4f2a-9f1c-38ce45d358ba.png",
+        "alt": "ICE-360 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_d28c07ab-8350-4ddf-8312-4f3e81a2c328.png",
+        "alt": "ICE-360 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_7bf58a09-781b-4b4b-84de-517d183637f9.png",
+        "alt": "ICE-360 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Product Type": "Liquid Cooler",
+        "Radiator Size": "360mm",
+        "Radiator Thickness": "27mm",
+        "Display": "None",
+        "Pump Speed (RPM)": "2600",
+        "Pump Noise (dBA)": "23",
+        "Fans Included": "3 x 120mm",
+        "Fan Size (mm)": "120 x 120 x 25",
+        "Fan Speed (RPM)": "2000",
+        "Fan Airflow (CFM)": "72",
+        "Fan Static Pressure (mmH₂O)": "2.9",
+        "Fan Noise (dBA)": "32",
+        "Rated TDP (Watts)": "350",
+        "Tube Length (mm)": "425",
+        "AMD Socket Support": "FM1, FM2, AM2, AM2+, AM3, AM3+, AM4, AM5",
+        "Intel Socket Support": "LGA115X, LGA1200, LGA17XX, LGA18XX, LGA1366, LGA2066",
+        "Warranty": "3 Year Limited",
+        "PRODUCT TYPE": "Liquid Cooler",
+        "RADIATOR SIZE": "360mm",
+        "RADIATOR THICKNESS": "27mm",
+        "DISPLAY": "None",
+        "PUMP SPEED (RPM)": "2600",
+        "PUMP NOISE (DBA)": "23",
+        "FANS INCLUDED": "3 x 120mm",
+        "FAN SIZE (MM)": "120 x 120 x 25",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "72",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.9",
+        "FAN NOISE (DBA)": "32",
+        "RATED TDP (WATTS)": "350",
+        "TUBE LENGTH (MM)": "425",
+        "AMD SOCKET SUPPORT": "FM1, FM2, AM2, AM2+, AM3, AM3+, AM4, AM5",
+        "INTEL SOCKET SUPPORT": "LGA115X, LGA1200, LGA17XX, LGA18XX, LGA1366, LGA2066",
+        "WARRANTY": "3 Year Limited",
+        "Offer Price (INR)": "₹6,149.00",
+        "MRP (INR)": "₹8,999.00",
+        "SKU": "AESP0221"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-cpu-cooler-ice-360-argb-with-heatsink-black"
+  }
+}

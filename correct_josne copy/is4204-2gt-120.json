@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Industrial PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/industrial-poe-switch",
+    "tab_title": "Industrial PoE Switch",
+    "tab_id": "8387",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Industrial PoE Switch",
+      "Industrial PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "119227",
+    "product_name": "IS4204-2GT-120",
+    "product_title": "4-Port Gigabit Industrial Switch with 2-Port Gigabit PoE (Managed)",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/is4204-2gt-120",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221220/DH-IS4204-2GT-120_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/is4204-2gt-120.html",
+  "detail": {
+    "title": "4-Port Gigabit Industrial Switch with 2-Port Gigabit PoE (Managed)",
+    "model": "IS4204-2GT-120",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221220/DH-IS4204-2GT-120_11_thumb.png",
+        "alt": "IS4204-2GT-120",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/is4204-2gt-120"
+  }
+}

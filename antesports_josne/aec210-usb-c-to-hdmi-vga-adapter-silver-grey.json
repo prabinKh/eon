@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "2-in-1 USB-C to HDMI & VGA Adapter - Silver Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353569431843",
+    "product_name": "2-in-1 USB-C to HDMI & VGA Adapter - Silver Grey",
+    "product_title": "2-in-1 USB-C to HDMI & VGA Adapter - Silver Grey",
+    "product_url": "https://antesports.com/products/aec210-usb-c-to-hdmi-vga-adapter-silver-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/17.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/aec210-usb-c-to-hdmi-vga-adapter-silver-grey.html",
+  "detail": {
+    "title": "2-in-1 USB-C to HDMI & VGA Adapter - Silver Grey",
+    "model": "AEPP0058",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC210 is a compact 2-in-1 USB-C dock that adds simultaneous HDMI and VGA output to any USB-C laptop, letting you extend or mirror your screen to a monitor, TV or projector at the same time. HDMI output supports up to 4K at 30Hz for sharp visuals, while the VGA port covers 1080p at 60Hz for older displays, giving you flexibility to connect two different display types together. Universal compatibility spans Windows, Mac and Android devices, working across laptops, MacBooks, iPads, tablets and even mobile phones. Its compact, portable design makes the AEC210 an easy addition to a travel bag for presentations, video conferencing or everyday dual-display setups on the go.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/17.jpg",
+        "alt": "2-in-1 USB-C to HDMI & VGA Adapter - Silver Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Ports": "HDMI + VGA",
+        "HDMI Output": "Up to 4K @ 30Hz",
+        "VGA Output": "Up to 1080p @ 60Hz",
+        "Compatibility": "Windows, Mac, Android",
+        "Color": "Silver Grey",
+        "PORTS": "HDMI + VGA",
+        "HDMI OUTPUT": "Up to 4K @ 30Hz",
+        "VGA OUTPUT": "Up to 1080p @ 60Hz",
+        "COMPATIBILITY": "Windows, Mac, Android",
+        "COLOR": "Silver Grey",
+        "SKU": "AEPP0058"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec210-usb-c-to-hdmi-vga-adapter-silver-grey"
+  }
+}

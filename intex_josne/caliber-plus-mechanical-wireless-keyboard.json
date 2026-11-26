@@ -1,0 +1,136 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/keyboard",
+    "series": "Keyboard Series",
+    "series_url": "https://www.intex.in/collections/keyboard-series",
+    "tab_title": "Keyboard",
+    "tab_id": "8317937189082",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Keyboard",
+      "Caliber Plus Mechanical Wireless Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "8317937189082",
+    "product_name": "Caliber Plus Mechanical Wireless Keyboard",
+    "product_title": "Caliber Plus Mechanical Wireless Keyboard",
+    "product_url": "https://www.intex.in/products/caliber-plus-mechanical-wireless-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4499.0,
+      "display": "₹4,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/caliber-plus-mechanical-wireless-keyboard.html",
+  "detail": {
+    "title": "Caliber Plus Mechanical Wireless Keyboard",
+    "model": "Keyboard",
+    "brand": "Intex",
+    "overview": "Dominate your workflow with the Caliber Plus Mechanical Keyboard. Feel the crisp response of anti-ghost keys and lose yourself in 20 dazzling RGB lighting modes. This keyboard adapts to you with adjustable brightness, a built-in rechargeable battery, and the freedom of 3 connection options: Bluetooth, 2.4GHz wireless, or wired via the included 1.5m Type-C cable. Caliber Plus - elevate your typing experience, anywhere.",
+    "features": [
+      "Anti-ghost Keys",
+      "3 Device Connectivity",
+      "Perfect Link (Type-C, Bluetooth, 2.4 GHz)",
+      "20 Modes RGB Lights",
+      "Long-lasting Backup",
+      "Stable Wireless Connection",
+      "In-build Rechargeable Battery"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-2.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-3.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-4.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-5.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-6.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-7.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-8.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-9.jpg",
+        "alt": "Caliber Plus Mechanical Wireless Keyboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Anti-ghost Keys",
+        "Feature 2": "3 Device Connectivity",
+        "Feature 3": "Perfect Link (Type-C, Bluetooth, 2.4 GHz)",
+        "Feature 4": "20 Modes RGB Lights",
+        "Feature 5": "Long-lasting Backup",
+        "Feature 6": "Stable Wireless Connection",
+        "Feature 7": "In-build Rechargeable Battery"
+      },
+      "General": {
+        "Model": "Keyboard"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Caliber_Plus_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/caliber-plus-mechanical-wireless-keyboard"
+  }
+}

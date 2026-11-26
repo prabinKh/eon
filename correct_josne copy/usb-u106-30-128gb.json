@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "U106",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u106",
+    "tab_title": "U106",
+    "tab_id": "12017",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "U106",
+      "U106"
+    ]
+  },
+  "card_info": {
+    "product_id": "61337",
+    "product_name": "USB-U106-30-128GB",
+    "product_title": "USB Flash Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u106/usb-u106-30-128gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210220/USB_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-u106-30-128gb.html",
+  "detail": {
+    "title": "USB Flash Drive",
+    "model": "USB-U106-30-128GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-U106-30-128GB USB Flash Drive Key Points · Exclusive appearance with metal mini casing. · Waterproof and portable; safe and reliable. · Shockproof and anti-drop for great quality. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210220/USB_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-USB-U106-30-16GB",
+        "Interface": "USB3.0",
+        "Capacity": "16 GB",
+        "Read Speed": "40–70 MB/s",
+        "Write Speed": "9–25 MB/s",
+        "File System": "FAT32",
+        "Operating Temperature": "0°C to 60°C (32°F to 140°F)",
+        "Storage Temperature": "­-20°C to 70°C (-4°F to 158°F)",
+        "Compatible System": "Windows 7/8/10; macOS10.15 and later versions; Linux 2.4.x and later versions",
+        "Max Operating Voltage": "5V",
+        "Max Operating Current": "150mA",
+        "Warranty": "5-year limited warranty",
+        "Product Dimensions": "40.4 mm × 12.25 mm × 4.65 mm (1.59\" × 0.48\" × 0.18\")",
+        "Packaging Dimensions": "100 mm × 132 mm × 5.6 mm (3.94\" × 5.20\" × 0.22\")",
+        "Net Weight": "About 5.7 g",
+        "Gross Weight": "About 14.2 g",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not all for data storage. According to internal testing, the transmission speed varies with the devices, ports, environments, and other factors."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/USB-U106-30-128GB_Datasheet_20200826.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u106/usb-u106-30-128gb"
+  }
+}

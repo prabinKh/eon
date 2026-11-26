@@ -1,0 +1,87 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "RFID",
+    "tab_id": "118203",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "RFID"
+    ]
+  },
+  "card_info": {
+    "product_id": "153568",
+    "product_name": "PJKX08-0A",
+    "product_title": "RF Adapter Cable 08",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/pjkx08-0a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_20_10015/ProductImage/1_0_99_20_10015_847735864_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/pjkx08-0a.html",
+  "detail": {
+    "title": "RF Adapter Cable 08",
+    "model": "PJKX08-0A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PJKX08-0A RF Adapter Cable 08 Key Points RFID domestic PN Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_20_10015/ProductImage/1_0_99_20_10015_847735864_crop_thumb.PNG",
+        "alt": "PJKX08-0A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_20_10015/ProductImage/1_0_99_20_10015_847735860_thumb.PNG",
+        "alt": "PJKX08-0A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Length": {},
+      "Min Repeated Bending Radius": {},
+      "Min Single Bending Radius": {},
+      "Characteristic Impedance": {},
+      "Insulation Resistance": {},
+      "Shielding Attenuation": {},
+      "VSWR": {},
+      "Transmission Attenuation": {},
+      "Performance Requirements": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84672/datasheet/DHI-PJKX08-0A_datasheet_20250904.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/pjkx08-0a"
+  }
+}

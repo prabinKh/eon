@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "NEON GLOW 2x8-PIN"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416895779",
+    "product_name": "NEON GLOW 2x8-PIN",
+    "product_title": "NEON GLOW 2x8-PIN",
+    "product_url": "https://antesports.com/products/ant-esports-neon-glow-8-pin-x2-new",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_3b7d5099-e838-44b6-8cff-9bb55be05464.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-neon-glow-8-pin-x2-new.html",
+  "detail": {
+    "title": "NEON GLOW 2x8-PIN",
+    "model": "Neon Glow 8 PIN X2",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS Neon Glow 8 Pin X2 ARGB PSU Cable Extension is designed to elevate the aesthetics of your gaming PC with vibrant double-sided ARGB lighting while ensuring reliable power delivery. Featuring premium 18AWG braided cables, optical fiber LED strips, and support for motherboard ARGB synchronization, it creates stunning lighting effects that integrate seamlessly with your RGB ecosystem. The flexible design allows for easy cable routing and clean cable management, making it ideal for high-end gaming builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_3b7d5099-e838-44b6-8cff-9bb55be05464.png",
+        "alt": "NEON GLOW 2x8-PIN - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_ed4763ac-7e40-4b27-9521-ceca62aab718.png",
+        "alt": "NEON GLOW 2x8-PIN - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_89c4d4ed-7a92-45c6-af9d-69041f6cd0de.png",
+        "alt": "NEON GLOW 2x8-PIN - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Category": "Mod Cable",
+        "Model": "Neon Glow 8 PIN X2",
+        "Cable Type": "PCIe 8-Pin x2 Extension Cable",
+        "Wire Gauge": "18 AWG",
+        "Cable Length": "300 mm",
+        "Lighting": "Addressable RGB (ARGB)",
+        "LED Design": "Double-Sided Optical Fiber",
+        "ARGB Connector": "5V 3-Pin",
+        "Motherboard Sync": "ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, ASRock Polychrome Sync",
+        "Compatibility": "Dual 8-Pin PCIe Graphics Cards",
+        "Color": "White",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "Mod Cable",
+        "MODEL": "Neon Glow 8 PIN X2",
+        "CABLE TYPE": "PCIe 8-Pin x2 Extension Cable",
+        "WIRE GAUGE": "18 AWG",
+        "CABLE LENGTH": "300 mm",
+        "LIGHTING": "Addressable RGB (ARGB)",
+        "LED DESIGN": "Double-Sided Optical Fiber",
+        "ARGB CONNECTOR": "5V 3-Pin",
+        "MOTHERBOARD SYNC": "ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, ASRock Polychrome Sync",
+        "COMPATIBILITY": "Dual 8-Pin PCIe Graphics Cards",
+        "COLOR": "White",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹2,199.00",
+        "MRP (INR)": "₹5,999.00",
+        "SKU": "AESP0308"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-neon-glow-8-pin-x2-new"
+  }
+}

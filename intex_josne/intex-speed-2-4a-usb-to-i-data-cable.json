@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "Data Cable",
+    "subcategory_url": "https://www.intex.in/collections/data-cable",
+    "series": "smart accessories",
+    "series_url": "https://www.intex.in/collections/smart-accessories",
+    "tab_title": "Data Cable",
+    "tab_id": "9155344498906",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "Data Cable",
+      "Intex Speed 2.4A USB to I Data Cable"
+    ]
+  },
+  "card_info": {
+    "product_id": "9155344498906",
+    "product_name": "Intex Speed 2.4A USB to I Data Cable",
+    "product_title": "Intex Speed 2.4A USB to I Data Cable",
+    "product_url": "https://www.intex.in/products/intex-speed-2-4a-usb-to-i-data-cable",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEED_2.4A_USB_TO_I.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 499.0,
+      "display": "₹499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-speed-2-4a-usb-to-i-data-cable.html",
+  "detail": {
+    "title": "Intex Speed 2.4A USB to I Data Cable",
+    "model": "2-4A",
+    "brand": "Intex",
+    "overview": "Charge and sync your Apple devices efficiently with the Intex Speed 2.4A USB to I Cable. Designed for stable charging and fast data transfer at 480 Mbps, this cable features a strong PVC build and enhanced safety protection for everyday dependable use.",
+    "features": [
+      "2.4A fast charging output support",
+      "USB to I charging & data cable",
+      "480 Mbps high-speed data transfer",
+      "1-metre cable length",
+      "Strong PVC cable construction",
+      "Tangle-free and flexible design",
+      "Universal compatibility with Apple devices",
+      "Emark 2.0 protection chip",
+      "Overheat protection",
+      "20000+ bends tested for extended lifespan"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEED_2.4A_USB_TO_I.jpg",
+        "alt": "Intex Speed 2.4A USB to I Data Cable",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "2.4A fast charging output support",
+        "Feature 2": "USB to I charging & data cable",
+        "Feature 3": "480 Mbps high-speed data transfer",
+        "Feature 4": "1-metre cable length",
+        "Feature 5": "Strong PVC cable construction",
+        "Feature 6": "Tangle-free and flexible design",
+        "Feature 7": "Universal compatibility with Apple devices",
+        "Feature 8": "Emark 2.0 protection chip",
+        "Feature 9": "Overheat protection",
+        "Feature 10": "20000+ bends tested for extended lifespan"
+      },
+      "General": {
+        "Model": "2-4A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-speed-2-4a-usb-to-i-data-cable"
+  }
+}

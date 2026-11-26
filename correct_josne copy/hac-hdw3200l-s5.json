@@ -1,0 +1,155 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Micro-size Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series",
+    "tab_title": "Micro-size Series",
+    "tab_id": "6252",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Micro-size Series",
+      "Micro-size Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "47017",
+    "product_name": "HAC-HDW3200L",
+    "product_title": "2MP HDCVI IR Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series/hac-hdw3200l=s5",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200713/HAC-HDW3200L_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw3200l-s5.html",
+  "detail": {
+    "title": "2MP HDCVI IR Eyeball Camera",
+    "model": "HAC-HDW3200L",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW3200L 2MP HDCVI IR Eyeball Camera Key Points • High-Quality Imaging with 1080P Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 3m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 2DNR & DWDR Ensures Clear Details in Strong Backlight Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200713/HAC-HDW3200L_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200713/HAC-HDW3200L-0_thumb.png",
+        "alt": "HAC-HDW3200L00",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7 inch CMOS",
+        "Max. Resolution": "1920 (H) x 1080 (V)",
+        "Pixel": "2MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100000 s NTSC: 1/30 s–1/100000 s",
+        "S/N Ratio": ">65 dB",
+        "Min. Illumination": "0.02 Lux/F2.0, 30IRE, 0 Lux IR on",
+        "Illumination Distance": "3 m (9.8 ft)",
+        "Illuminator On/Off Control": "Auto; manual",
+        "Illuminator Number": "1 (IR)",
+        "Pan/Tilt/Rotation Range": "Pan: 40° Tilt: 55° Rotation: 360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M12",
+        "Focal Length": "2.1 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "H: 132°; V: 69°; D: 164°",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "0.5 m (1.64 ft)",
+        "DORI Distance": "Lens",
+        "2.1 mm": "35.5m (116.5 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Frame Rate": "CVI: 1080p@25/30fps; 720p@25/30fps; 720p@50/60fps; AHD: 1080p@25/30fps; 720p@25/30fps; TVI: 1080p@25/30fps; 720p@25/30fps; 720p@50/60fps; CVBS: 960H",
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Electronic",
+        "BLC": "BLC/HLC/DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto; manual",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR",
+        "Smart IR": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE/FCC, UL, EN50155"
+      },
+      "Port": {
+        "Audio Interface": "Built-in Mic",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 1.9W (12V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40°C to +60°C (–40°F to 140°F); <95% (non-condensation)",
+        "Storage Temperature": "–40°C to +60°C (–40°F to 140°F); <95% (non-condensation)"
+      },
+      "Structure": {
+        "Casing": "Plastic",
+        "Dimensions": "71.6 mm × 60.9 mm × 45.9 mm (2.82\" × 2.4\" × 1.81\")",
+        "Net Weight": "0.09 kg (0.20 lb)",
+        "Gross Weight": "0.17 kg (0.37 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-HDW3200L_S5_datasheet_20240624.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2021-07-20 #Drawings HAC-HDW3200L_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/4617/drawings/DH-HAC-HDW3200LN-0210B-S5_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-07-20 #Drawings HAC-HDW3200L_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/60577/drawings/HAC-HMW3200L_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series/hac-hdw3200l=s5"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM333 Gaming Mouse - Blue/White/Yellow"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353922867491",
+    "product_name": "GM333 Gaming Mouse - Blue/White/Yellow",
+    "product_title": "GM333 Gaming Mouse - Blue/White/Yellow",
+    "product_url": "https://antesports.com/products/gm333-huano-switches-mouse-blue-white-yellow",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18_583c5820-b70c-4b85-9479-8ac222984016.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm333-huano-switches-mouse-blue-white-yellow.html",
+  "detail": {
+    "title": "GM333 Gaming Mouse - Blue/White/Yellow",
+    "model": "AEPP0243",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM333 is a high-end wired gaming mouse built with durable Huano mechanical switches for crisp tactile clicks and long-term reliability. Its high-end gaming chip supports six DPI levels up to 12800 (1000-1600-3200-6400-9600-12800) with a 1000Hz polling rate, ensuring every action registers instantly during competitive play. A rubberized topcover gives a secure, comfortable grip through long sessions, while a dedicated DPI switch and lighting button let you cycle sensitivity and RGB modes on the fly. Latest inbuilt software support lets you fully customize buttons, macros and lighting, finished here in a striking blue-and-white colourway with vivid RGB accents.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18_583c5820-b70c-4b85-9479-8ac222984016.jpg",
+        "alt": "GM333 Gaming Mouse - Blue/White/Yellow - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "Up to 12800, 6 Levels",
+        "Switches": "Huano Mechanical",
+        "Polling Rate": "1000Hz",
+        "Cable": "1.5m Braided",
+        "Software": "Inbuilt Customization Support",
+        "Color": "Blue/White/Yellow",
+        "SWITCHES": "Huano Mechanical",
+        "POLLING RATE": "1000Hz",
+        "CABLE": "1.5m Braided",
+        "SOFTWARE": "Inbuilt Customization Support",
+        "COLOR": "Blue/White/Yellow",
+        "Offer Price (INR)": "₹656.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0243"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GM333)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=GM333.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm333-huano-switches-mouse-blue-white-yellow"
+  }
+}

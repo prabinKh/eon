@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://www.intex.in/collections/gaming-cabinet-series",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "9008884121818",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Cabinet",
+      "Intex Axis Computer Gaming Cabinet/Case"
+    ]
+  },
+  "card_info": {
+    "product_id": "9008884121818",
+    "product_name": "Intex Axis Computer Gaming Cabinet/Case",
+    "product_title": "Intex Axis Computer Gaming Cabinet/Case",
+    "product_url": "https://www.intex.in/products/intex-axis-computer-gaming-case",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_fe2fd0db-3719-4d23-9532-55081a66829a.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 6999.0,
+      "display": "₹6,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-axis-computer-gaming-case.html",
+  "detail": {
+    "title": "Intex Axis Computer Gaming Cabinet/Case",
+    "model": "Axis Computer Gaming Case",
+    "brand": "Intex",
+    "overview": "The Intex Axis Computer Gaming Case combines style and functionality with its dual-compartment design for efficient heat dissipation and a top-mounted 240mm water-cooling system. Built with tempered glass on the left side and front, it gives gamers a clear view of their powerful setup. Supporting Micro-ATX and Mini-ATX motherboards, it also accommodates high-performance graphics cards up to 315mm. With multiple USB ports and durable PSU support, this case ensures smooth assembly and long-lasting performance for every gaming rig.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_fe2fd0db-3719-4d23-9532-55081a66829a.jpg",
+        "alt": "Intex Axis Computer Gaming Cabinet/Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_04b6a756-33fe-44c7-ad88-af0428bd114b.jpg",
+        "alt": "Intex Axis Computer Gaming Cabinet/Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_2a293758-3ff6-43e3-aada-40ecd81da685.jpg",
+        "alt": "Intex Axis Computer Gaming Cabinet/Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_7e7bfe02-b186-424e-9f73-0ef8d452f0b4.jpg",
+        "alt": "Intex Axis Computer Gaming Cabinet/Case",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Model": "Axis Computer Gaming Case",
+        "Design": "Left & Right Compartment Wide Body for Better Heat Dissipation",
+        "Cooling": "Top Mounted 240mm Water-Cooled (Motherboard 240mm Water-Cooled)",
+        "Motherboard Support": "Micro-ATX / Mini-ATX",
+        "Panels": "Tempered Glass Left Side & Front Panel",
+        "I/O Panel": "1 × USB 3.0, 1 × USB 1.0",
+        "Power Supply Support": "ATX PSU, 190mm",
+        "CPU Radiator": "Max. Length 166mm",
+        "Graphics Card Support": "Max. Length 315mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/AXIS-PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-axis-computer-gaming-case"
+  }
+}

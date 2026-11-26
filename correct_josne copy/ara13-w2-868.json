@@ -1,0 +1,172 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "103027",
+    "product_name": "ARA13-W2(868)",
+    "product_title": "Wireless External Siren",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara13-w2(868)",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220215/ara11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara13-w2-868.html",
+  "detail": {
+    "title": "Wireless External Siren",
+    "model": "ARA13-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARA13-W2(868) Wireless External Siren Key Points 1. Provides multiple alarm sounds: Fire, medical, intrusion, panic, and more. 2. Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara-bb1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara-rr1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara-r3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara-r2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara-b3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara-b2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara31_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220215/ara21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Indicator Light": {},
+      "Button": {},
+      "Buzzer": {},
+      "Remote Update": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "Scenario": {},
+      "Operating Current": {},
+      "Sound and Light Alarm": {},
+      "Sound Pressure": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Power Supply Type": {},
+      "Battery Model": {},
+      "Battery Life": {},
+      "Low Battery Threshold": {},
+      "Battery Restore Threshold": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Protection": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28927/datasheet/DHI-ARA13-W2(868)_datasheet_20260721_English.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Wireless External Siren_Quick StartGuide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Wireless_External_Siren_Quick_StartGuide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Dahua Wireless External Siren_User's Manual_V2.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Dahua_Wireless_External_Siren_User_27s_Manual_V2.0.1.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings ARA13-W2(868)_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/drawings/ARA13-W2(868)_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2021-12-18 #Drawings ARA13-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/drawings/ARA13-W2(868)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-12-18 #Drawings ARA13-W2(868)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/drawings/ARA13-W2(868)_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-10-11 #Firmware General_ARA13-W2_868_V1.000.0000005.0.R.20250519 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3406135/M/General_ARA13-W2_868_V1.000.0000005.0.R.20250519.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara13-w2(868)"
+  }
+}

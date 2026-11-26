@@ -1,0 +1,183 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Video Doorbell",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell",
+    "series": "Chime",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/chime",
+    "tab_title": "Chime",
+    "tab_id": "18189",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Video Doorbell",
+      "Chime",
+      "Chime"
+    ]
+  },
+  "card_info": {
+    "product_id": "152481",
+    "product_name": "DS1AG",
+    "product_title": "Wireless Chime",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/chime/ds1ag",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751709724_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ds1ag.html",
+  "detail": {
+    "title": "Wireless Chime",
+    "model": "DS1AG",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DS1AG Wireless Chime Key Points • Multi-Doorbell Support • Easy-pairing • Available with EU/UK/US/AU Plugs • Customize Ringtones & Volume Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751709724_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751735233_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751735230_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751709720_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751709723_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751709718_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751735240_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751735241_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751735235_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43432/ProductImage/1_0_01_04_43432_751735236_crop_thumb.png",
+        "alt": "DS1AG_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "Audio": {
+        "Built-in Speaker": "Built-in Speaker"
+      },
+      "Network": {
+        "Management Software": "DMSS",
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.4000–2.4835 GHz, 2.4 G, EIRP≤20 dBm",
+        "Network Update": "Yes"
+      },
+      "Power": {
+        "Power Supply": "100–240 VAC 50/60 Hz",
+        "Power Consumption": "< 5 W"
+      },
+      "Structure": {
+        "Appearance Color": "Grey",
+        "Net Weight": "0.1 kg (0.22 lb)",
+        "Gross Weight": "0.2 kg (0.44 lb)",
+        "Casing Material": "Plastic + Cloth",
+        "Product Dimensions": "Bare machine: 96 mm × 50 mm × 30.3 mm (3.78\" × 1.97\"× 1.19\") (L × W × H)",
+        "Packaging Dimensions": "187 mm × 81 mm × 57 mm (7.36\" × 3.19\" × 2.24\") (L × W × H)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +45 °C (14 °F to +113 °F)",
+        "Operating Humidity": "20%–95% (RH), non-condensing"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DS1AG_S0_datasheet_20250328.pdf"
+      },
+      {
+        "name": "2025-05-30 #User Manual Dahua DMSS_Operation Manual (Chime)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010585/3208850/Dahua_DMSS_Operation_Manual_(Chime)_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-30 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-05-30 #User Manual Wireless Chime_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010585/3208851/Wireless_Chime_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-30 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2025-05-30 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2025-05-30 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2025-03-12 #A&E Document DS1AG_A&E_20260918150116 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83293/a_e_document/1789715466194.docx"
+      },
+      {
+        "name": "2025-03-05 #Drawings DS1AG_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83293/drawings/DS1AG_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-03-05 #Drawings DS1AG_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83293/drawings/DS1AG_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-08-29 #Firmware DH_IPC-WDS-Kant_MultiLang_PN_V2.860.0000000.19.R.250811 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3341970/M/DH_IPC-WDS-Kant_MultiLang_PN_V2.860.0000000.19.R.250811.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/chime/ds1ag"
+  }
+}

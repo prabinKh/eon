@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "U176",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u176",
+    "tab_title": "U176",
+    "tab_id": "14647",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "U176",
+      "U176"
+    ]
+  },
+  "card_info": {
+    "product_id": "109877",
+    "product_name": "USB-U176-31-256G",
+    "product_title": "USB Flash Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u176/usb-u176-31-256g",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220630/u3113_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-u176-31-256g.html",
+  "detail": {
+    "title": "USB Flash Drive",
+    "model": "USB-U176-31-256G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-U176-31-256G USB Flash Drive Key Points 1.High compatibility 2.High endurance U176 Operating tempreture:0~60℃ competitive product :0~35°C Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/u3113_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/u3123_thumb.png",
+        "alt": "USB-U176-31-256G",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/u3133_thumb.png",
+        "alt": "USB-U176-31-256G",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/u3143_thumb.png",
+        "alt": "USB-U176-31-256G",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220630/u3153_thumb.png",
+        "alt": "USB-U176-31-256G",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Specification": {
+        "Product Model": "DHI-USB-U176-31-32G",
+        "Interface": "USB3.2 Gen1",
+        "Capacity": "32 GB",
+        "Read Speed": "15-150 MB/s",
+        "Write Speed": "6-100 MB/s",
+        "File System": "FAT32",
+        "Operating System": "Windows 7/8/10 or above MacOS 10.5 or above Linux 2.4.x or above Android 7.0 or above"
+      },
+      "General": {
+        "Product Dimensions": "54 mm × 18.7 mm × 7.3 mm (2.13\" × 0.74\" × 0.29\")",
+        "Packaging Dimensions": "132 mm × 100 mm × 8.5 mm (5.20\" × 3.94\" × 0.33\")",
+        "Operating Temperature": "0 °C to +60 °C (32 °F to +140°F)",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158°F)",
+        "Net Weight": "About 4.5 g",
+        "Gross Weight": "About 16.5 g",
+        "Max Operating Voltage": "5 V",
+        "Max Operating Current": "220mA",
+        "Warranty": "5-year limited warranty",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not solely for data storage. According to internal testing, the transmission speed varies with devices, ports, environments, and other factors. 3. Warranty period or maximum write amount (TBW), whichever comes first. (*The speed data comes from Dahua Memory Lab. The actual performance might differ depending on the device it is being used with. )"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/USB-U176-31-256G_Datasheet_20220609.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u176/usb-u176-31-256g"
+  }
+}

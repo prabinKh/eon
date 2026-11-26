@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Wireless Access Point",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/wireless-access-point",
+    "tab_title": "Wireless Access Point",
+    "tab_id": "16437",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Wireless Access Point",
+      "Wireless Access Point"
+    ]
+  },
+  "card_info": {
+    "product_id": "131237",
+    "product_name": "EAP6230-W",
+    "product_title": "Wireless Access Point",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accesspoints/eapseries/eap6230-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_83_10121/ProductImage/1_0_99_83_10121_295631810_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/eap6230-w.html",
+  "detail": {
+    "title": "Wireless Access Point",
+    "model": "EAP6230-W",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_83_10121/ProductImage/1_0_99_83_10121_295631810_crop_thumb.png",
+        "alt": "EAP6230-W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accesspoints/eapseries/eap6230-w"
+  }
+}

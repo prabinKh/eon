@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Spectraflow 3x120mm ARGB Case Fan Kit White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10382440169763",
+    "product_name": "Spectraflow 3x120mm ARGB Case Fan Kit White",
+    "product_title": "Spectraflow 3x120mm ARGB Case Fan Kit White",
+    "product_url": "https://antesports.com/products/spectraflow-3x120mm-argb-case-fan-kit-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SPECTRAFLOW_120MM3In1FanKitARGB_03_4c323a1b-33d4-4f4a-9f27-17bf6605bb70.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/spectraflow-3x120mm-argb-case-fan-kit-white.html",
+  "detail": {
+    "title": "Spectraflow 3x120mm ARGB Case Fan Kit White",
+    "model": "AESP0261",
+    "brand": "Ant Esports",
+    "overview": "Transform your PC’s aesthetic with theAnt Esports Spectraflow 120mm ARGB Fan Kit. Designed for both gaming rigs and professional productivity builds, this 3-fan pack combines eye-catching visuals with highly efficient thermal performance.",
+    "features": [
+      "Transform your PC’s aesthetic with theAnt Esports Spectraflow 120mm ARGB Fan Kit. Designed for both gaming rigs and professional productivity builds, this 3-fan pack combines eye-catching visuals with highly efficient thermal performance."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SPECTRAFLOW_120MM3In1FanKitARGB_03_4c323a1b-33d4-4f4a-9f27-17bf6605bb70.png",
+        "alt": "Spectraflow 3x120mm ARGB Case Fan Kit White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SPECTRAFLOW_120MM3In1FanKitARGB_02_34ff54d0-53d8-4ae2-b7e6-9c6346a07b65.png",
+        "alt": "Spectraflow 3x120mm ARGB Case Fan Kit White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_6eb5500f-ec43-4f44-ad38-94fdaa2f9070.png",
+        "alt": "Spectraflow 3x120mm ARGB Case Fan Kit White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "1800",
+        "FAN Airflow (CFM)": "45",
+        "FAN Static Pressure (mmH₂O)": "2.1",
+        "FAN Noise (dBA)": "20",
+        "FAN Direction": "Forward",
+        "Connection": "PWM + ARGB",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "1800",
+        "FAN AIRFLOW (CFM)": "45",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.1",
+        "FAN NOISE (DBA)": "20",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM + ARGB",
+        "Offer Price (INR)": "₹2,499.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AESP0261"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/spectraflow-3x120mm-argb-case-fan-kit-white"
+  }
+}

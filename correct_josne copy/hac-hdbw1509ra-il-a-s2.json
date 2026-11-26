@@ -1,0 +1,161 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "5MP",
+    "tab_id": "9462",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "139607",
+    "product_name": "HAC-HDBW1509RA-IL-A",
+    "product_title": "5MP Smart Dual Light HDCVI Fixed-focal Vandal-proof Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/5mp/smart-dual-light/hac-hdbw1509ra-il-a=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_23598/ProductImage/1_0_01_12_23598_37798470_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdbw1509ra-il-a-s2.html",
+  "detail": {
+    "title": "5MP Smart Dual Light HDCVI Fixed-focal Vandal-proof Dome Camera",
+    "model": "HAC-HDBW1509RA-IL-A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDBW1509RA-IL-A 5MP Smart Dual Light HDCVI Fixed-focal Vandal-proof Dome Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • 40 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & 120 dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_23598/ProductImage/1_0_01_12_23598_37798470_crop_thumb.png",
+        "alt": "HAC-HDBW1509RA-IL-A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_23598/ProductImage/1_0_01_12_23598_37798471_crop_thumb.png",
+        "alt": "HAC-HDBW1509RA-IL-A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "5 MP CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/3 s–1/100,000 s; NTSC: 1/4 s–1/100,000 s",
+        "Min. Illumination": "0.001 lux@F1.0 (Color, 30 IRE) 0.0001 lux@F1.0 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65dB",
+        "Illumination Distance": "IR: 40 m (131.23 ft); Warm light: 40 m (131.23 ft)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "3 (Warm light);3 (IR light)",
+        "Angle Adjustment": "Pan: 0°–355° Tilt: 0°–80° Rotation: 0°–355°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm;3.6 mm",
+        "Max. Aperture": "F1.2",
+        "Field of View": "2.8 mm: H: 112°; V: 58°; D: 136° 3.6 mm: H: 92°; V: 48°; D: 108°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 1.4 m (4.59 ft) 3.6 mm: 2 m (6.56 ft)",
+        "DORI distance": "Lens",
+        "2.8 mm": "63.8 m (209.32 ft)",
+        "3.6 mm": "77.8 m (255.25 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 5M@25 fps; 5M@12.5 fps; 4M@25 fps; 1080p@25 fps NTSC: 5M@30 fps; 5M@10 fps; 4M@30 fps; 1080p@30 fps AHD: PAL: 4M@25 fps; NTSC: 4M@30 fps TVI: PAL: 4M@25 fps; NTSC: 4M@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "5M (2880 × 1620); 4M (2560 × 1440); 1080p (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "BLC; HLC; WDR; HLC-Pro",
+        "WDR": "120 dB",
+        "White Balance": "Auto;Area white balance",
+        "Gain Control": "Auto;Manual",
+        "Noise Reduction": "3D NR",
+        "Illumination Mode": "Smart IR&WL WL Mode; IR Mode",
+        "Defog": "Electronic defog",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE-LVD: EN 62368-1; CE-EMC: EN 55032; EN 55035; FCC: 47 CFR FCC Part 15, Subpart B; UL: UL62368-1 + CAN/CSA C22.2 No. 62368-1-14"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel built-in Mic"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 30%",
+        "Power Consumption": "Max 6.4 W (12 VDC, WLED on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Protection": "IK10;IP67",
+        "Anti-corrosion Level": "Basic Protection"
+      },
+      "Structure": {
+        "Casing Material": "Metal",
+        "Product Dimensions": "Φ126.0 mm × 100 mm (Φ4.96\" × 3.94\")",
+        "Net Weight": "0.59 kg (1.30 lb)",
+        "Gross Weight": "0.75 kg (1.65 lb)",
+        "Installation": "Wall mount; ceiling mount; vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HDBW1509RA-IL-A_S2_datasheet_20240725.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Dome Camera Installation Guide V1.0.3-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/user_manual/HDCVI_Dome_Camera_Installation_Guide_V1.0.3-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-11-13 #Drawings HAC-HDBW1509RA-IL-A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/drawings/HAC-HDBW2241RA-Z-A-DP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-26 #Drawings HAC-HDBW1509RA-IL-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87611/drawings/HAC-HDBW1200RA-Z-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/5mp/smart-dual-light/hac-hdbw1509ra-il-a=s2"
+  }
+}

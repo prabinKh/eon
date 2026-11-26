@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "9011840778458",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC 110A With Chip | Laser Toner Cartridge (up to 2000-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "9011840778458",
+    "product_name": "Intex LTC 110A With Chip | Laser Toner Cartridge (up to 2000-page yield)",
+    "product_title": "Intex LTC 110A With Chip | Laser Toner Cartridge (up to 2000-page yield)",
+    "product_url": "https://www.intex.in/products/intex-ltc-110a-with-chip-laser-toner-cartridge",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-110A-WITH-CHIP.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1499.0,
+      "display": "₹1,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-ltc-110a-with-chip-laser-toner-cartridge.html",
+  "detail": {
+    "title": "Intex LTC 110A With Chip | Laser Toner Cartridge (up to 2000-page yield)",
+    "model": "LTC 110A With Chip",
+    "brand": "Intex",
+    "overview": "The Intex LTC 110A With Chip Laser Toner Cartridge ensures efficient printing with consistent quality. Built with a smart chip for accurate page tracking and printer compatibility, it provides a maximum yield of up to 2000 pages. Its high-quality drum delivers sharp, clear, and reliable prints, making it ideal for both personal and professional use. Designed for HP LaserJet 103, 108, MFP 136, and MFP 138 printers, this toner cartridge is a perfect balance of performance and affordability.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-110A-WITH-CHIP.jpg",
+        "alt": "Intex LTC 110A With Chip | Laser Toner Cartridge (up to 2000-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Model": "LTC 110A With Chip",
+        "Page Yield": "Up to 2000 pages",
+        "Features": "Smart Chip, Maximum Page Yield, Superior Print Quality, High-Quality Drum",
+        "Printer Compatibility": "HP LaserJet 103, 108, MFP 136, MFP 138"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_CARTRIDGE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-ltc-110a-with-chip-laser-toner-cartridge"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Active Deterrence Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series",
+    "tab_title": "PIR Camera",
+    "tab_id": "6442",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Active Deterrence Series",
+      "PIR Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "20897",
+    "product_name": "HAC-ME2802B",
+    "product_title": "4K HDCVI MotionEye Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/pir-camera/hac-me2802b",
+    "card_image": "https://material.dahuasecurity.com/product/20180322/DH-HAC-ME2802B2_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-me2802b.html",
+  "detail": {
+    "title": "4K HDCVI MotionEye Camera",
+    "model": "HAC-ME2802B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-ME2802B 4K HDCVI MotionEye Camera Key Points > Max 15fps@4K > HD and SD output switchable > 2.8mm fixed lens > 10m/110°detecting range/angle > Quaternionic digital sensor > Max. IR length 20m, Smart IR > IP67, DC12V Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2\" CMOS",
+        "Effective Pixels": "3840(H)×2160(V), 8MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/4s~1/100,000s NTSC: 1/3s~1/100,000s",
+        "Minimum Illumination": "0.005Lux/F1.6, 30IRE, 0Lux IR on",
+        "S/N Ratio": "More than 65dB",
+        "IR Distance": "Up to 20m (66feet)",
+        "IR On/Off Control": "Auto / Manual",
+        "IR LEDs": "1"
+      },
+      "Lens": {
+        "Lens Type": "Fixed lens / Fixed iris",
+        "Mount Type": "Board-in",
+        "Focal Length": "2.8mm",
+        "Max Aperture": "F1.6",
+        "Angle of View": "H: 110.8°",
+        "Focus Control": "N/A",
+        "Close Focus Distance": "1800mm 70.87''"
+      },
+      "Note: The DORI distance is a “general proximity” of distance which makes it easy to pinpoint the right camera for your needs. The DORI distance is calculated based on sensor specification and lab test result according to EN 62676-4 which defines the criteria for Detect, Observe, Recognize and Identify respectively.": {
+        "Detect": "25px/m (8px/ft)",
+        "Observe": "63px/m (19px/ft)",
+        "Recognize": "125px/m (38px/ft)",
+        "Identify": "250ppm (76px/ft)"
+      },
+      "Pan / Tilt / Rotation": {
+        "Pan/Tilt/Rotation": "Pan: 0° ~ 360° Tilt: 0° ~ 90° Rotation: 0° ~ 360°"
+      },
+      "Video": {
+        "Resolution": "8MP (3840×2160)",
+        "Frame Rate": "15fps@4K, 20fps@6MP, 30fps@4MP",
+        "Video Output": "1-channel BNC high definition video output / CVBS video output (DIP switch)",
+        "Day/Night": "Auto (ICR) / Manual",
+        "OSD Menu": "Multi-language",
+        "BLC Mode": "BLC / HLC / WDR",
+        "WDR": "120dB",
+        "Gain Control": "AGC",
+        "Noise Reduction": "2D/3D",
+        "White Balance": "Auto / Manual",
+        "Smart IR": "Auto / Manual",
+        "Detection": "Passive infrared",
+        "Detection Range": "10m, 110°",
+        "Alarm prompt": "Red led",
+        "Installation height": "Default bracket, wall mount, 2.2-2.5m"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Interface": {
+        "Audio Interface": "N/A"
+      },
+      "Eelectrical": {
+        "Power Supply": "12V DC ±30%",
+        "Power Consumption": "Max 5.3W (12V DC, IR on)"
+      },
+      "Environmental": {
+        "Operating Conditions": "-10°C ~ +50°C (+14°F ~ +122°F) / Less than 95% RH * Start up should be done at above -10°C (14°F)",
+        "Storage Conditions": "-10°C ~ +50°C (+14°F ~ +122°F) / Less than 95% RH",
+        "Ingress Protection & Vandal Resistance": "IP67"
+      },
+      "Construction": {
+        "Casing": "Aluminium (Front cover) + Plastic (Rear Barrel)",
+        "Dimensions": "146.6mm×72.4mm×83mm (5.77\"×2.85\"×3.27\")",
+        "Net Weight": "0.25kg (0.55lb)",
+        "Gross Weight": "0.33kg (0.73lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180322/DH-HAC-ME2802B_Datasheet_20180321.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings HAC-ME2802B_Installation_20180312 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/15877/drawings/HAC-ME2802B_Installation_20180312.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings HAC-ME2802B_Demension_20180312 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/15877/Drawings/HAC-ME2802B_Demension_20180312.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/pir-camera/hac-me2802b"
+  }
+}

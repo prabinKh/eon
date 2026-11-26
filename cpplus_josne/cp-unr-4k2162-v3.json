@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "30",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "16 Ch.",
+      "CP-UNR-4K2162-V3"
+    ]
+  },
+  "card_info": {
+    "product_id": "1933",
+    "product_name": "CP-UNR-4K2162-V3",
+    "product_title": "CP-UNR-4K2162-V3",
+    "product_url": "https://cpplusworld.com/cp-unr-4k2162-v3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/321fa297-90c2-43f0-9756-b5aa5fab0be1.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k2162-v3.html",
+  "detail": {
+    "title": "CP-UNR-4K2162-V3",
+    "model": "CP-UNR-4K2162-V3",
+    "brand": "CP Plus",
+    "overview": "16Ch. 4K Network Video Recorder",
+    "features": [
+      "Up to 16 Channel IP Camera input",
+      "Instastream, H.265, H.264+, H.264, MJPEG",
+      "AI by Recorder: Support 4 channel SMD",
+      "AI by Camera: Support perimeter protection and SMD",
+      "Max. 144/144/72 Mbps incoming/recording/outgoing bandwidth",
+      "Support 2 SATA HDDs up to 20TB, 2 USB ports(2.0)",
+      "HDMI / VGA simultaneous video output",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/321fa297-90c2-43f0-9756-b5aa5fab0be1.png",
+        "alt": "CP-UNR-4K2162-V3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9801c8f0-6d8b-4f7b-b199-c616819f8ae4.png",
+        "alt": "CP-UNR-4K2162-V3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "16 channel",
+        "User Interface": "Web, Local GUI",
+        "AI by Recorder": "SMD",
+        "AI by Camera": "Perimeter protection, SMD",
+        "Perimeter Performance of AI by Camera": "All channels (4 targets/s)",
+        "Video Output": "1 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720  1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Video Compression": "H.265, H.264+, H.264, MJPEG",
+        "Encode Strategy": "Instastream",
+        "Decoding Capability": "AI disabled: 1 channel 12 MP@30 fps, 1 channel 8 MP@30 fps, 2 channel 6 MP@30 fps,  2 channel 5 MP@30 fps, 3 channel 4 MP@30 fps, 6 channel 1080p@30 fps  AI enabled: 1 channel 8 MP@30 fps, 1 channel 6 MP@30 fps, 1 channel 5 MP@30 fps,  2 channel 4 MP@30 fps, 4 channel 1080p@30 fps",
+        "Video Resolution": "12MP, 8MP, 6MP, 5MP, 4MP, 3MP, 2MP, 720p, 960p, D1, CIF, QCIF",
+        "Video Display Split": "1/4/8/9/16",
+        "SMD Plus by NVR": "4 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "All channels (8 targets/s)",
+        "Network Bandwidth": "AI disabled: 144 Mbps incoming, 144 Mbps recording and 72 Mbps outgoing AI enabled: 72 Mbps incoming, 72 Mbps recording and 36 Mbps outgoing",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, UDP, NTP, DHCP, DNS, SMTP, IP Filter, DDNS, InstaOn, Auto Registration, ONVIF 23.12(Profile T, Profile S, Profile G), CGI, SDK",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict, MAC  conflict), Video loss, Video tampering, Camera offline",
+        "Intelligent Alarm": "Perimeter protection; SMD+",
+        "General Alarm": "Motion detection, Camera external alarm, PIR alarm",
+        "Alarm Linkage": "Recording, Snapshot, Buzzer, Log, Preset, Email, Tour",
+        "Audio Input": "1 channel RCA",
+        "Audio Output": "1 channel RCA",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Hard Disk": "2 SATA ports. Each disk can contain up to 20 TB. this limit varies depending on the environment  temperature",
+        "Multi-channel Playback": "Up to 16 channels",
+        "Record Mode": "General, Motion detection, Intelligent, Alarm",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port)",
+        "Backup Method": "USB device and network",
+        "Smart Phone": "iOS, Android",
+        "Ethernet": "1 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Power Supply": "12 VDC, 4 A",
+        "Power Consumption": "≤ 10 W (without HDD)",
+        "Operating Temperature": "-10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Storage Temperature": "-20 °C to +60 °C (–4 °F to +140 °F)",
+        "Dimensions": "375.0 mm × 282.9 mm × 53.0 mm",
+        "Weight": "1490 g (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K2162-V3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k2162-v3"
+  }
+}

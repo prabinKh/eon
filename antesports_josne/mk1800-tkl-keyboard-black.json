@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboard",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboard",
+    "series": "Gaming Keyboard Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboard",
+    "tab_title": "Gaming Keyboard",
+    "tab_id": "10356791083299",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboard",
+      "MK1800 TKL Mechanical Keyboard - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791083299",
+    "product_name": "MK1800 TKL Mechanical Keyboard - Black",
+    "product_title": "MK1800 TKL Mechanical Keyboard - Black",
+    "product_url": "https://antesports.com/products/mk1800-tkl-keyboard-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_5c3c692c-a2dc-4882-9a79-fac7661ad5c5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1800-tkl-keyboard-black.html",
+  "detail": {
+    "title": "MK1800 TKL Mechanical Keyboard - Black",
+    "model": "AEPP0224",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1800 is a compact TKL mechanical keyboard built for players who prefer more room for mouse movement without compromising performance. Featuring 87 responsive mechanical switches and dynamic multi-colour RGB illumination flowing across the keyboard, it adds a visually stunning glow to any battlestation, with floating keycaps letting each key shine brightly for unmatched clarity. A reinforced chassis and double-shot keycaps prevent fading and maintain crisp legends even after intense usage, while an ergonomic tilt design and plug-and-play USB interface make the MK1800 a genuinely dependable option for gaming, creative work or everyday typing.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_5c3c692c-a2dc-4882-9a79-fac7661ad5c5.jpg",
+        "alt": "MK1800 TKL Mechanical Keyboard - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "TKL, 87 Keys",
+        "Switch Type": "Mechanical",
+        "Lighting": "Multi-Colour RGB",
+        "Keycaps": "Double-Shot, Floating",
+        "Color": "Black",
+        "LAYOUT": "TKL, 87 Keys",
+        "SWITCH TYPE": "Mechanical",
+        "LIGHTING": "Multi-Colour RGB",
+        "KEYCAPS": "Double-Shot, Floating",
+        "COLOR": "Black",
+        "SKU": "AEPP0224"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1800-tkl-keyboard-black"
+  }
+}

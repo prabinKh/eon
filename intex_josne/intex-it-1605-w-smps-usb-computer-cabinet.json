@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/cabinet",
+    "series": "Cabinet Series",
+    "series_url": "https://www.intex.in/collections/cabinet-series",
+    "tab_title": "Cabinet",
+    "tab_id": "9340614672602",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cabinet",
+      "INTEX IT-1605 W SMPS & USB Computer Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "9340614672602",
+    "product_name": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+    "product_title": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+    "product_url": "https://www.intex.in/products/intex-it-1605-w-smps-usb-computer-cabinet",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-07.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3299.0,
+      "display": "₹3,299.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-it-1605-w-smps-usb-computer-cabinet.html",
+  "detail": {
+    "title": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+    "model": "IT-1605",
+    "brand": "Intex",
+    "overview": "The INTEX IT-1605 W Computer Cabinet is engineered for reliable performance, efficient cooling, and long-lasting durability. Featuring a robust metallic steel body, this cabinet offers excellent protection for internal components while maintaining optimal airflow through dedicated CPU and PCI graphic heat vents. The stylish front mesh design enhances ventilation and gives the cabinet a modern professional look. With support for Micro ATX and Mini ATX motherboards, multiple USB ports, front audio and microphone connectivity, and ATX PSU compatibility, the IT-1605 W is an ideal choice for office, home, and custom PC builds.",
+    "features": [
+      "Product Type: Desktop Computer Cabinet",
+      "Model Number: IT-1605 W",
+      "Motherboard Compatibility: Micro ATX, Mini ATX",
+      "Material: Heavy-Duty Metallic Steel",
+      "Front Panel: Ventilated Mesh Design",
+      "USB Ports: Multiple Front USB Ports",
+      "Audio Connectivity: Front Audio & Mic Ports",
+      "Cooling Support: CPU/PCI Graphic Heat Vent",
+      "PSU Support: Top-Mounted ATX Power Supply",
+      "Color: Black",
+      "Usage: Home, Office & Business Desktop PCs"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-07.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-01.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-02.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-03.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-04.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-05.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1605-06.jpg",
+        "alt": "INTEX IT-1605 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Product Type: Desktop Computer Cabinet",
+        "Feature 2": "Model Number: IT-1605 W",
+        "Feature 3": "Motherboard Compatibility: Micro ATX, Mini ATX",
+        "Feature 4": "Material: Heavy-Duty Metallic Steel",
+        "Feature 5": "Front Panel: Ventilated Mesh Design",
+        "Feature 6": "USB Ports: Multiple Front USB Ports",
+        "Feature 7": "Audio Connectivity: Front Audio & Mic Ports",
+        "Feature 8": "Cooling Support: CPU/PCI Graphic Heat Vent",
+        "Feature 9": "PSU Support: Top-Mounted ATX Power Supply",
+        "Feature 10": "Color: Black",
+        "Feature 11": "Usage: Home, Office & Business Desktop PCs"
+      },
+      "General": {
+        "Model": "IT-1605"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_IT-1605_Cabinet_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-it-1605-w-smps-usb-computer-cabinet"
+  }
+}

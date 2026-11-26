@@ -1,0 +1,159 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Smoke Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/smoke-alarms",
+    "tab_title": "Smoke Alarms",
+    "tab_id": "14227",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Smoke Alarms",
+      "Smoke Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "147068",
+    "product_name": "HY-SA13A",
+    "product_title": "Standalone Smoke Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa13a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_5_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-sa13a.html",
+  "detail": {
+    "title": "Standalone Smoke Alarm",
+    "model": "HY-SA13A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA13A Standalone Smoke Alarm Key Points Replaceable battery, easy installation Test and silence features in one single button Loud sound output over 85 dB(A) at 3 meters Surface-mount device (SMD) circuit board design Low battery warning signal Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_5_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_1_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_2_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_3_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_4_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_6_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_7_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241130/HY-SA13A_8_thumb.png",
+        "alt": "HY-SA13A",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "9 s",
+        "Sensor Type": "Photoelectric",
+        "Alarm Type": "Smoke alarm, fault warning, low battery warning",
+        "Alarm Response Threshold": "0.1 dB/m-0.2 dB/m",
+        "Alarm Volume": "≥ 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Silence Duration": "9 min",
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes twice per minute",
+        "Coverage Area": "When the height of the space is less than 8 m (26.25 ft), the protection area of a device is 20 m2–40 m2",
+        "Operating Voltage": "DC 3V",
+        "Operating Current": "Monitoring current: ≤ 20uA (avg.) Alarm current: ≤ 25mA (avg.)",
+        "Battery Life": "5 years",
+        "Battery": "Replaceable 1.5V Alkaline dry cell battery * 2",
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)",
+        "Storage Temperature": "-20°C to +70°C (-4°F to +158°F)",
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "φ102.0 mm × H50.9 mm (φ4.02\" × H2.00\")",
+        "Weight": "140 g (0.31 lb)",
+        "Installation": "Ceiling Mount",
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 14604:2005+AC:2008"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82520/datasheet/HY-SA13A_datasheet_20241112.pdf"
+      },
+      {
+        "name": "2025-04-17 #User Manual Standalone Smoke Alarm(DHI-HY-SA13A)_User manual Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82520/user_manual/Standalone_Smoke_Alarm(DHI-HY-SA13A)_User_manual.pdf"
+      },
+      {
+        "name": "2024-04-07 #Drawings HY-SA13A_COMPONENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82520/drawings/HY-SA13A_COMPONENT.pdf"
+      },
+      {
+        "name": "2024-04-07 #Drawings HY-SA13A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82520/drawings/HY-SA13A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-04-07 #Drawings HY-SA13A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82520/drawings/HY-SA13A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-04-07 #Drawings HY-SA13A_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82520/drawings/HY-SA13A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2025-01-04 #Firmware DHI_HYSA13A_Eng_MCU_V1.000.0000003.0.R.241230 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2994000/M/DHI_HYSA13A_Eng_MCU_V1.000.0000003.0.R.241230.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa13a"
+  }
+}

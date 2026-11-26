@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://www.intex.in/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://www.intex.in/collections/home-appliances-series",
+    "tab_title": "Home Appliances",
+    "tab_id": "8919384916186",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Home Appliances",
+      "Intex Stainless Steel Multi Kettle – 1.2L/1.5L, 600W, Egg Tray, Auto Cut-Off, Shockproof Body"
+    ]
+  },
+  "card_info": {
+    "product_id": "8919384916186",
+    "product_name": "Intex Stainless Steel Multi Kettle – 1.2L/1.5L, 600W, Egg Tray, Auto Cut-Off, Shockproof Body",
+    "product_title": "Intex Stainless Steel Multi Kettle – 1.2L/1.5L, 600W, Egg Tray, Auto Cut-Off, Shockproof Body",
+    "product_url": "https://www.intex.in/products/intex-stainless-steel-multi-kettle-1-2l-1-5l-600w-egg-tray-auto-cut-off-shockproof-body",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Stainless-Steel-Multi-Kettle.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4599.0,
+      "display": "₹4,599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-stainless-steel-multi-kettle-1-2l-1-5l-600w-egg-tray-auto-cut-off-shockproof-body.html",
+  "detail": {
+    "title": "Intex Stainless Steel Multi Kettle – 1.2L/1.5L, 600W, Egg Tray, Auto Cut-Off, Shockproof Body",
+    "model": "1-2L-1-5L-600W",
+    "brand": "Intex",
+    "overview": "Boil, steam, or prepare quick meals effortlessly with the Intex Multi Kettle. Featuring a stainless steel body, egg tray, concealed heating element, and auto cut-off safety, it’s a smart addition to any modern kitchen.",
+    "features": [
+      "Capacity: 1.2 Ltr / 1.5 Ltr",
+      "Power Requirement: 230V-50Hz",
+      "600W Concealed Element",
+      "Body: Stainless steel with matte polish",
+      "Egg Tray: Yes",
+      "Auto Cut Off: Yes",
+      "Shock Proof: Yes"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Stainless-Steel-Multi-Kettle.jpg",
+        "alt": "Intex Stainless Steel Multi Kettle – 1.2L/1.5L, 600W, Egg Tray, Auto Cut-Off, Shockproof Body",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Capacity: 1.2 Ltr / 1.5 Ltr",
+        "Feature 2": "Power Requirement: 230V-50Hz",
+        "Feature 3": "600W Concealed Element",
+        "Feature 4": "Body: Stainless steel with matte polish",
+        "Feature 5": "Egg Tray: Yes",
+        "Feature 6": "Auto Cut Off: Yes",
+        "Feature 7": "Shock Proof: Yes"
+      },
+      "General": {
+        "Model": "1-2L-1-5L-600W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-stainless-steel-multi-kettle-1-2l-1-5l-600w-egg-tray-auto-cut-off-shockproof-body"
+  }
+}

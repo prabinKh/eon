@@ -1,0 +1,145 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Supplement Lights",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Supplement Lights",
+    "tab_id": "606",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Supplement Lights",
+      "Supplement Lights"
+    ]
+  },
+  "card_info": {
+    "product_id": "121187",
+    "product_name": "ITALF-300AD-IR",
+    "product_title": "IR Illuminator",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/flash-light/italf-300ad-ir",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230104/ITALF-300AD-IR_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/italf-300ad-ir.html",
+  "detail": {
+    "title": "IR Illuminator",
+    "model": "ITALF-300AD-IR",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITALF-300AD-IR IR Illuminator Key Points • IR HID Flashing Light with Long Lifespan • Facilitates Driver Behavior Analytics and Face Capture • Illumination Distance Covers up to 26 m • Remotely Displays the Running or Fault Status of The Illuminator • Easy Installation and Easy Configuration • Covers up to 1 Lane • Water and Dust Resistant(lP66) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230104/ITALF-300AD-IR_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230104/ITALF-300AD-IR_4_thumb.png",
+        "alt": "ITALF-300AD-IR",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230104/ITALF-300AD-IR_3_thumb.png",
+        "alt": "ITALF-300AD-IR",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230104/ITALF-300AD-IR_2_thumb.png",
+        "alt": "ITALF-300AD-IR",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Basic": {
+        "Illuminator Type": "IR xenon illuminator",
+        "Recycle Time": "≤ 60 ms, meeting the time requirements of taking 2 snapshots consecutively by the camera",
+        "Spot Coverage": "4 m (13.12 ft) (installation height: 6 m (19.69 ft), capture distance: 26 m (85.30 ft))",
+        "Center Illuminance": "≤ 4000 lx",
+        "Trigger Mode": "Pulse width trigger/edge trigger",
+        "Illumination Distance": "16 m–26 m (52.49 ft–85.30 ft)"
+      },
+      "Xenon": {
+        "Exposure": "64 GN",
+        "Flash Duration": "180 us–500 us",
+        "Flashing Statistics": "Supports statistics of flashing times and trigger times",
+        "Lifespan": "≥ 10 million times",
+        "Light Source": "Visible light"
+      },
+      "Function": {
+        "Day/Night": "Yes. Sensitivity levels 1–6 can be set",
+        "Remote Fault Display": "Supports remotely displaying the running or fault status of the illuminator on the web interface of camera (only Dahua traffic enforcement cameras)",
+        "Brightness": "Yes. Sensitivity levels 1–16 can be set",
+        "Capture and Flash Synchronization": "Yes",
+        "False Trigger Shielding": "Yes",
+        "Anti-interference": "Filters interference signal by detecting pulse width signals of fixed width"
+      },
+      "Port": {
+        "I/O": "1",
+        "Flash": "1",
+        "RS-485": "1"
+      },
+      "General": {
+        "Power Supply": "220V AC±10%",
+        "Power Consumption": "Xenon: < 65J/time, instantaneous power ≤ 5500 W",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "10%–90% (non-condensation)",
+        "Protection Grade": "IP66",
+        "Dimensions": "358.5 mm × 251.6 mm × 170.8 mm (14.11'' × 9.91'' × 6.72'') (L × W × H)",
+        "Net Weight": "4.5 kg (9.92 lb)",
+        "Gross Weight": "5.0 kg (11.02 lb)",
+        "Installation": "Installed on pole by using bracket"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITALF-300AD-IR_datasheet_20221221.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Flashlight_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002884/202411/Flashlight_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Flashlight_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002884/202411/Flashlight_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document ITALF-300AD-IR_A&E_20260901205127 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63917/a_e_document/1788267162003.docx"
+      },
+      {
+        "name": "2021-10-09 #Drawings ITALF-300AD-IR_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63917/drawings/ITALF-300AD-IR_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-11-17 #Firmware General_ITALF-300AD_All_MCU_V1.001.0000000.3.R.190809 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq//General_ITALF-300AD_All_MCU_V1.001.0000000.3.R.190809.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/flash-light/italf-300ad-ir"
+  }
+}

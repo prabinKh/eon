@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "USB Hub",
+    "subcategory_url": "https://www.intex.in/collections/usb-hub",
+    "series": "USB Hub 7 Port",
+    "series_url": "https://www.intex.in/collections/usb-hub-7-port",
+    "tab_title": "USB Hub",
+    "tab_id": "9020524200154",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "USB Hub",
+      "Intex USB Hub 7 Port"
+    ]
+  },
+  "card_info": {
+    "product_id": "9020524200154",
+    "product_name": "Intex USB Hub 7 Port",
+    "product_title": "Intex USB Hub 7 Port",
+    "product_url": "https://www.intex.in/products/usb-hub-7-port",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7-PORT-4.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 499.0,
+      "display": "₹499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/usb-hub-7-port.html",
+  "detail": {
+    "title": "Intex USB Hub 7 Port",
+    "model": "7",
+    "brand": "Intex",
+    "overview": "The Intex USB Hub 7 Port provides a simple and effective way to expand your device connectivity. With one USB 3.0 port for high-speed transfers, five USB 2.0 ports for peripherals, and a Type-C port for modern devices, this hub supports multiple simultaneous connections without drivers. Designed for compact use and everyday reliability, it is ideal for home offices, classrooms, and travel.",
+    "features": [
+      "Model: USB HUB 7 Port",
+      "Ports: 1 × USB 3.0, 5 × USB 2.0, 1 × Type-C",
+      "Data Transfer: USB 3.0 up to 5 Gbps (backward compatible with USB 2.0)",
+      "Power Requirement: 5V working voltage",
+      "Compatibility: Windows, macOS, Linux and most USB-enabled devices",
+      "Driver: Plug & Play, driver free"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7-PORT-4.jpg",
+        "alt": "Intex USB Hub 7 Port",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7-PORT-3.jpg",
+        "alt": "Intex USB Hub 7 Port",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7-PORT-2.jpg",
+        "alt": "Intex USB Hub 7 Port",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: USB HUB 7 Port",
+        "Feature 2": "Ports: 1 × USB 3.0, 5 × USB 2.0, 1 × Type-C",
+        "Feature 3": "Data Transfer: USB 3.0 up to 5 Gbps (backward compatible with USB 2.0)",
+        "Feature 4": "Power Requirement: 5V working voltage",
+        "Feature 5": "Compatibility: Windows, macOS, Linux and most USB-enabled devices",
+        "Feature 6": "Driver: Plug & Play, driver free"
+      },
+      "General": {
+        "Model": "7"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/7_PORT_USB_HUB.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/usb-hub-7-port"
+  }
+}

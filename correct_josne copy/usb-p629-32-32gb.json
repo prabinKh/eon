@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "P629",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/p629",
+    "tab_title": "P629",
+    "tab_id": "12647",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "P629",
+      "P629"
+    ]
+  },
+  "card_info": {
+    "product_id": "95617",
+    "product_name": "USB-P629-32-32GB",
+    "product_title": "USB Flash Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/p629/usb-p629-32-32gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210624/1-14_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-p629-32-32gb.html",
+  "detail": {
+    "title": "USB Flash Drive",
+    "model": "USB-P629-32-32GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-P629-32-32GB USB Flash Drive Key Points · Exclusive appearance with metal casing. · Shockproof and anti-drop for great quality. · High-speed read/write; easy to use. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210624/1-14_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210624/221_thumb.png",
+        "alt": "USB-P629-32-32GB",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210624/22_thumb.png",
+        "alt": "USB-P629-32-32GB",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-USB-P629-32-32GB",
+        "Interface": "USB3.2 Gen1",
+        "Capacity": "32 GB",
+        "Read Speed": "20 MB/s–150 MB/s",
+        "Write Speed": "6 MB/s–100 MB/s",
+        "File System": "FAT32",
+        "Operating System": "Windows 7/8/10 or above; MacOS 10.5 or above; Linux 2.4.x or above; Android 7.0 or above",
+        "Product Dimensions": "67.3 mm × 18.2 mm × 12.8 mm (2.65\" × 0.72\" × 0.50\")",
+        "Packaging Dimensions": "132 mm × 100 mm × 13.8 mm (5.20\" × 3.94\" × 0.54\")",
+        "Operating Temperature": "0 °C to +60 °C (+32 °F to +140 °F)",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Net Weight": "28 g (0.06 lb)",
+        "Gross Weight": "40 g (0.09 lb)",
+        "Max Operating Voltage": "5 V",
+        "Max Operating Current": "150 mA",
+        "Warranty": "5-year limited warranty",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not solely for data storage. According to internal testing, the transmission speed varies with devices, ports, environments, and other factors. 3. Warranty period or maximum write amount (TBW), whichever comes first. (*The speed data comes from Zhejiang Huayixin Technology Co., Ltd Lab. The actual performance might differ depending on the device it is being used with. )"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/USB-P629-32-32GB_datasheet_20230131.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/p629/usb-p629-32-32gb"
+  }
+}

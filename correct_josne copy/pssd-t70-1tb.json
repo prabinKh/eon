@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "External Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/external-storage",
+    "series": "T70 PSSD",
+    "series_url": "https://www.dahuasecurity.com/products/memory/external-storage/t70-pssd",
+    "tab_title": "T70 PSSD",
+    "tab_id": "14287",
+    "breadcrumbs": [
+      "Memory",
+      "External Storage",
+      "T70 PSSD",
+      "T70 PSSD"
+    ]
+  },
+  "card_info": {
+    "product_id": "105877",
+    "product_name": "PSSD-T70-1TB",
+    "product_title": "Portable Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/external-storage/t70-pssd/pssd-t70-1tb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220427/pssd11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/pssd-t70-1tb.html",
+  "detail": {
+    "title": "Portable Solid State Drive",
+    "model": "PSSD-T70-1TB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PSSD-T70-1TB Portable Solid State Drive Key Points 1.High endurance T70 Operating tempreture:0~50℃ competitive product :0~40°C Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220427/pssd11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220427/pssd3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220427/pssd2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical": {
+        "Product Model": "DHI-PSSD-T70-500G",
+        "Capacity1": "500 GB",
+        "Interface Protocol": "USB3.2 Gen2 Type-C",
+        "Read Speed2": "Up to 555 MB/s",
+        "Write Speed2": "Up to 500 MB/s",
+        "TBW": "310 TB",
+        "Operating Temperature": "0 °C to +50 °C (+32 °F to +122 °F)",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Operating Humidity": "5% – 95% (non-condensing)",
+        "UASP": "Yes",
+        "Compatibility": "Windows 7/10, Kylin OS, UOS, MAC, Android,ipadOS",
+        "Net Weight": "48.5 g (0.11 lb)",
+        "Gross Weight": "105 g (0.23 lb)",
+        "Product Dimensions": "89 mm × 51 mm × 9 mm (3.50\" × 2.01\" × 0.35\")",
+        "Packaging": "Standard",
+        "Packaging Dimensions": "120 mm × 77mm × 35 mm (4.72\" × 3.03\" ×1.38\")",
+        "Product Color": "Black , Silver",
+        "S.M.A.R.T": "Yes",
+        "TRIM": "Yes",
+        "Garbage Collection": "Yes",
+        "Warranty3": "3-year warranty",
+        "Reference Information": "1. Capacity calculation: 1 GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partitioning, operating system applications, or other necessary usage). 2. System configuration of performance test: Intel Z390 Chipset, Intel Core i9-9900KF@3.6 GHz, 16 GB DDR4; operating system: Windows 10 × 64; testing tool: CrystalDiskMark 6.0.0. 3. Warranty provides coverage for the stated time period or until the TBW is reached, whichever comes first."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/PSSD-T70-1TB_datasheet_20231023.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/external-storage/t70-pssd/pssd-t70-1tb"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Wireless Adapters",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/wireless-adapters",
+    "tab_title": "Wireless Adapters",
+    "tab_id": "16587",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Wireless Adapters",
+      "Wireless Adapters"
+    ]
+  },
+  "card_info": {
+    "product_id": "130947",
+    "product_name": "NC1800",
+    "product_title": "802.11AX 1800M WIRELESS ADAPTER",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/wirelessadapters/nc1800",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221010/NC1800_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/nc1800.html",
+  "detail": {
+    "title": "802.11AX 1800M WIRELESS ADAPTER",
+    "model": "NC1800",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221010/NC1800_1_thumb.png",
+        "alt": "NC1800",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/wirelessadapters/nc1800"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "Cosmos 3-Mode Wireless Controller"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869353763",
+    "product_name": "Cosmos 3-Mode Wireless Controller",
+    "product_title": "Cosmos 3-Mode Wireless Controller",
+    "product_url": "https://antesports.com/products/cosmos-3-mode-controller-hall-effect",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/d14d9a3d-06b7-4392-b2b5-075b6bcbba19.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/cosmos-3-mode-controller-hall-effect.html",
+  "detail": {
+    "title": "Cosmos 3-Mode Wireless Controller",
+    "model": "AEPP0351",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Cosmos is a 3-mode wireless gaming controller built around Hall Effect precision joysticks and Hall-linear triggers, delivering drift-free control that holds up over years of use. It switches effortlessly between Bluetooth 5.3, 2.4GHz wireless and wired connections, making it equally at home with a Windows PC, Nintendo Switch, Android TV or mobile device. Dual vibration feedback with adjustable intensity levels adds immersion during key moments, while Turbo functionality and programmable macro buttons make repetitive actions faster and gameplay more intuitive. An ergonomic, lightweight shape reduces fatigue during long sessions, and fast Type-C charging keeps the rechargeable battery topped up quickly between matches. A well-rounded, versatile controller for gamers who move between platforms throughout the day.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/d14d9a3d-06b7-4392-b2b5-075b6bcbba19.png",
+        "alt": "Cosmos 3-Mode Wireless Controller - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Joystick Type": "Hall Effect Precision",
+        "Connectivity": "Bluetooth 5.3 + 2.4GHz + Wired",
+        "Charging": "Fast Type-C",
+        "Vibration": "Dual, Adjustable Levels",
+        "Compatibility": "PC, Switch, Android TV, Mobile",
+        "Color": "Black",
+        "JOYSTICK TYPE": "Hall Effect Precision",
+        "CONNECTIVITY": "Bluetooth 5.3 + 2.4GHz + Wired",
+        "CHARGING": "Fast Type-C",
+        "VIBRATION": "Dual, Adjustable Levels",
+        "COMPATIBILITY": "PC, Switch, Android TV, Mobile",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,599.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AEPP0351"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/cosmos-3-mode-controller-hall-effect"
+  }
+}

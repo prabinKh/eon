@@ -1,0 +1,131 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-KF86C"
+    ]
+  },
+  "card_info": {
+    "product_id": "2268",
+    "product_name": "CP-KF86C",
+    "product_title": "CP-KF86C",
+    "product_url": "https://cpplusworld.com/cp-kf86c",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/077a588f-c6ad-4238-ad9e-ea76ce2016fc.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-kf86c.html",
+  "detail": {
+    "title": "CP-KF86C",
+    "model": "CP-KF86C",
+    "brand": "CP Plus",
+    "overview": "CarKam GPS with Cabin & Rear Camera, Hardwire Kit",
+    "features": [
+      "4K Resolution",
+      "24x7 Parking Monitoring",
+      "Built-in Display",
+      "Support SD Card upto 1TB (Class 10 U3)",
+      "Emergency Recording Support"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/077a588f-c6ad-4238-ad9e-ea76ce2016fc.png",
+        "alt": "CP-KF86C - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/247e77df-816e-4e7c-9447-75c3b5aa98a0.png",
+        "alt": "CP-KF86C - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "Front Camera: H-106°, D-139°, V-77° <br/>Rear Camera: H-102°, D-124°, V-53.4°<BR>Cabin Camera: H-125°, D-150°, V-65.4°",
+        "Image Sensor": "Front Camera: 1/2.8\" Image sensor (0.9071 centimeters) <br/>Rear Camera: 1/2.9\" Image sensor (0.8758 centimeters) <BR>Cabin Camera: 1/2.9\" Image sensor (0.8758 centimeters)",
+        "Lens": "Front Camera: 3.0 mm, <BR> Rear Camera: 3.35 mm,<BR>Cabin Camera: 2.82 mm",
+        "Max. Aperture": "Front Camera: F1.5, <BR> Rear Camera: F1.8,<BR>Cabin Camera: F2.0",
+        "Compression": "Front Camera: H.265, <BR> Rear Camera: H.265,<BR>Cabin Camera: H.265",
+        "Resolution": "Front Camera: 8M <br/>Rear Camera: 2MP (1920 x 1080p) <BR>Cabin Camera: 2MP (1920 x 1080p)",
+        "Night Vision": "4 x 940nm IR LEDs",
+        "Screen type": "IPS (In-Plane Switching)",
+        "Screen size": "2.45\" (6.223 centimeters)",
+        "Screen Resolution": "480 x 272",
+        "Video Format": "MP4",
+        "Video resolution": "8MP (3840 x 2160p)@25fps +2MP (1920 x 1080p)@25fps +2MP (1920× 1080p)@25fps",
+        "Smart Features": "GPS Logging, Voice Prompt, Time-Lapse , G-sensor, Parking Mode, Collision Detecon, WDR",
+        "Record Type": "Audio Recording, Regular Recording, Parking mode, Time-Lapse",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Microphone": "Support",
+        "Speaker": "Support",
+        "Connectivity": "AP Mode (Dashcam creates its own Wi-Fi hotspot/ Direct Wi-Fi to phone)",
+        "SD Card": "1TB Max (Class 10 U3 Category)",
+        "Mobile App": "CarKam (Available for iOS and Android Devices)",
+        "Photo Format": "JPG",
+        "Housing Type": "PC + ABS",
+        "Power Source": "Type C 5V/2.4A",
+        "Operating Temperature": "-10℃~60C",
+        "Storage Temperature": "-20°℃~70C",
+        "Dimensions (W × D × H)": "108.5 mm x 45 mm x 45.5 mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS",
+        "Input voltage": "12Vdc",
+        "Working voltage Range": "12Vdc-30Vdc",
+        "Input Current": "UPTO 1.6A Max.@12Vdc Input & at 2.4amp. max load",
+        "No Load Input Current": "UPTO 06mA Max.@12Vdc Input & at No load output",
+        "Output voltage": "5.0V",
+        "Port Type": "C Type",
+        "Type C Port (Voltage and current)": "5.0V/0A (4.70V to 5.35V) / 5.0V/2.4A (4.70V to 5.35V)",
+        "Type C A8 PIN (Voltage and current)": "5.0V/0A (4.80V to 5.20V ) Type C port no load",
+        "C Port Output current Limit": "2.9A (2.6A to 3.2A)",
+        "Ripple and Noise": "50mVp-p",
+        "Efficiency": "Min 75% at full load",
+        "Short circuit protection": "Input power shall decrease when the output short, the power supply shall no damage, and shall be self recovery when the fault condition is removed.",
+        "Over Current Protection": "Output shall hiccup/ no load when the over current applied to the output, and shall be self-recovery when the fault condition is removed.",
+        "Low voltage": "Battery voltage is lower than 16V, it is judged as a car, battery voltage is lower than 11.8V±0.2V for 3 seconds, the voltage reduction line will automatically turn off the out-put.",
+        "High voltage": "Battery voltage is higher than 16V, it is judged as a large vehicle, battery voltage is low-er than 23.6V±0.4V for 3 seconds, the voltage reduction line will automatically turn off the output",
+        "Low voltage recovery conditions": "Battery voltage is higher than the low voltage set value & ACC IN is input before it can be",
+        "Low voltage invalid": "Battery voltage is higher than the low voltage set value & ACC IN is input before it can be",
+        "Working Ambient                           Temperature": "-20〜 +70°C",
+        "Working Relative humidity": "20% ~ 90%",
+        "Storage Ambient Temperature": "-20°C ~ +80°C (-40°C ~ +85°C , @72H)",
+        "Storage Relative humidity": "5% ~ 95%",
+        "Aging test": "Aged for 2 hours at full load in a normal temperature environment",
+        "Lightning strike": "Input DC40V lightning strike",
+        "Drop Test": "Freely from 1.0m height onto the surface which is consisted of wooden floor, 6 sides, 1times each side",
+        "Input line (0.5m) Cable": "DC Power V+(RED) & V-(BLACK) , ACC power (YELLOW)",
+        "Output Cable Type": "Type C cable",
+        "Output Type Cable Distance": "2.8 meters",
+        "Output Type C cable (2.8 meters)": "DC Power for Type C V+(RED) & V-(BLACK) , ACC for Type C A8 Pin ( YELLOW)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-KF86C.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/d35997a1-f991-4e48-8ed8-dc58055ec1f8.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-kf86c"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "Mobile Accessories",
+    "category_url": "https://www.intex.in/collections/mobile-accessories",
+    "subcategory": "Analogue Rotary volume knob",
+    "subcategory_url": "https://www.intex.in/collections/analogue-rotary-volume-knob",
+    "series": "Black",
+    "series_url": "https://www.intex.in/collections/black",
+    "tab_title": "Analogue Rotary volume knob",
+    "tab_id": "7650526331098",
+    "breadcrumbs": [
+      "Home",
+      "Mobile Accessories",
+      "Analogue Rotary volume knob",
+      "Hero Headphone"
+    ]
+  },
+  "card_info": {
+    "product_id": "7650526331098",
+    "product_name": "Hero Headphone",
+    "product_title": "Hero Headphone",
+    "product_url": "https://www.intex.in/products/hero-headphone",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1_9fbbb039-cea9-48e5-b257-4bba93a497f3.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 849.0,
+      "display": "₹849.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/hero-headphone.html",
+  "detail": {
+    "title": "Hero Headphone",
+    "model": "1133-1001-009",
+    "brand": "Intex",
+    "overview": "These multimedia headphones with 40mm driver size and super loud and strong bass will be your ideal choice. The 1.4M long premium cable will make sure you don’t spend your time in untangling it. It has a uni-directional mic and an analog rotary volume knob with 3.5mm jack connectivity. It is dust and sweatproof so that you can use these anywhere.",
+    "features": [
+      "Multimedia Headphone with 40mm Driver Size",
+      "Super Loud and Strong Bass",
+      "Analogue Rotary volume knob",
+      "Highly Sensitive Mic",
+      "Dust and Sweat Proof",
+      "USB & AUX Connectivity"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1_9fbbb039-cea9-48e5-b257-4bba93a497f3.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-2_c7ccc321-4cd9-46f2-b86d-f029e30d47f6.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-3_d51a8ca7-cbf2-4af0-8272-e0b5d372ca23.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-4_6914a3bf-bd7d-4097-b4d5-2f648ee63300.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-5_0fb5f313-c5b1-4b45-8790-dcc8b2ab8454.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-6_b5e0d1fd-c6b6-4959-b120-9d5d3168a46f.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-7_1264f395-22f6-4b4e-8b29-698b6d2d8087.jpg",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/transparant.png",
+        "alt": "Hero Headphone",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Multimedia Headphone with 40mm Driver Size",
+        "Feature 2": "Super Loud and Strong Bass",
+        "Feature 3": "Analogue Rotary volume knob",
+        "Feature 4": "Highly Sensitive Mic",
+        "Feature 5": "Dust and Sweat Proof",
+        "Feature 6": "USB & AUX Connectivity"
+      },
+      "General": {
+        "Model": "1133-1001-009"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Hero_Multimedia_Headphone_PPT_11be080a-275a-4ec1-9ea9-b2d4d74f56dc.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/hero-headphone"
+  }
+}

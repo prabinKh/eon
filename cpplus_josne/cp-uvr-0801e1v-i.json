@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "57",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "8 Ch.",
+      "CP-UVR-0801E1V-I"
+    ]
+  },
+  "card_info": {
+    "product_id": "2233",
+    "product_name": "CP-UVR-0801E1V-I",
+    "product_title": "CP-UVR-0801E1V-I",
+    "product_url": "https://cpplusworld.com/cp-uvr-0801e1v-i",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/926175b5-f022-4ef5-9192-5a73d1355693.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-0801e1v-i.html",
+  "detail": {
+    "title": "CP-UVR-0801E1V-I",
+    "model": "CP-UVR-0801E1V-I",
+    "brand": "CP Plus",
+    "overview": "8Ch. 1080N Digital Video Recorder",
+    "features": [
+      "Supports HDCVI, AHD, TVI, CVBS and IP video input",
+      "Supports up to 10 channels of IPC access, including 2 additional IP channels + 8  analog channels, with the option to convert all analog channels to IP",
+      "The incoming bandwidth reaches 40 Mbps",
+      "8 Channels two-way talk over coaxial cable allows for seamless communication  between the camera, client and recorder",
+      "8 Channels IMD+ for analog channels which allows the device to trigger accurate  alarms for humans and vehicles.",
+      "8 Channels AI Coding saves on storage and bandwidth while                        maintaining the details of targets in videos",
+      "Instastream, H.265, H.264+, H.264 dual stream video compression",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/926175b5-f022-4ef5-9192-5a73d1355693.png",
+        "alt": "CP-UVR-0801E1V-I - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3c593347-bd5f-4e01-8ffa-9dc2fc47d228.png",
+        "alt": "CP-UVR-0801E1V-I - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "IMD+ by DVR": "8 Channels: Secondary filtering for human and vehicle, reducing false alarms caused by leaves,  rain and lighting condition change",
+        "IMD By Camera": "10 Channels (2 IP Channels + 8 Analog Channels)",
+        "Analog Camera Input": "8 BNC ports, Supports HDCVI/AHD/TVI/CVBS autodetect",
+        "Camera Input": "1. CVI: 1080p@25/30fps, 720p@25/30fps                                                                                                      2. TVI: 1080p@25/30fps, 720p@25/30fps                                                                                                        3. AHD: 1080p@25/30fps, 720p@25/30fps",
+        "IP Camera Input": "Up to 10 Channels of IPC access                                                                                                                   2 IP Channels by default + 8 Channels (analog channels are converted to IP channels)                                          Incoming bandwidth: 40 Mbps, Recording bandwidth: 40 Mbps and Outgoing bandwidth: 40  Mbps                                                                                                                                                                       *After IP extension is enabled, the AI Function (IMD) will be disabled.",
+        "Stream Capability": "Dual stream",
+        "Video Frame Rate": "Main stream: the 1st Channel 1080N/720p@(1fps– 25/30fps), others 1080N/720p@(1fps 15fps), 960H/D1/CIF@(1fps–25/30fps)                                                                                                                   Sub stream: CIF@(1fps–7fps)",
+        "Bit Rate": "32 kbps–4096 kbps",
+        "Audio Sample Rate": "8 kHz, 16 bit",
+        "Video Output": "1 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720;                                                                                                1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Video Display Split": "When IP extension mode not enabled: 1/4/8/9                                                                                          When IP extension mode enabled: 1/4/8/9/16",
+        "Video Compression": "AI Coding, Instastream, H.265, H.264+, H.264",
+        "Audio Compression": "G.711a, G.711u, PCM, AAC",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP,  DDNS, SNMP, Alarm Server, InstaOn, Auto connect, IP Search, ONVIF (Profile T, Profile S,                   Profile G), CGI, SDK",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Record Mode": "General, Alarm, Motion detection",
+        "Recording Playback": "1/4/9",
+        "Backup Mode": "USB device and network",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "General Alarm": "Motion detection, HDCVI alarm, Camera external alarm, Network alarm, PIR alarm",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict,  MAC conflict), Video loss, Video tampering, Camera offline",
+        "Intelligent Alarm": "IMD+",
+        "Alarm Linkage": "Record, Snapshot (panoramic), IPC external alarm output, Audio, Buzzer, Log, Preset, Email",
+        "Audio Input": "1 Channel RCA                                                                                                                                                           8 Channels BNC (Coaxial Audio)",
+        "Audio Output": "1 Channel RCA",
+        "Two-way Talk": "Coaxial two-way talk: 8 Channels BNC                                                                                                              Local and network user two-way talk: Shares the same audio input with the first channel",
+        "Disk Interface": "1 SATA port, up to 6 TB. This limit varies depending on the environment temperature",
+        "Interface Ports": "2 USB (2 rear USB 2.0 ports)",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "<7 W (without HDD)",
+        "Operating Temperature": "–10°C to +45°C (+14°F to +113°F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Dimension": "197 mm × 204.3 mm × 41.5 mm",
+        "Weight": "570g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-0801E1V-I.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/e0e92063-1a59-4a74-8432-b8d58e6ff036.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-0801e1v-i"
+  }
+}

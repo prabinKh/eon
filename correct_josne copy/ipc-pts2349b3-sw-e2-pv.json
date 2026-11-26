@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Picoo Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series",
+    "tab_title": "Picoo Series",
+    "tab_id": "18160",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Picoo Series",
+      "Picoo Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152670",
+    "product_name": "IPC-PTS2349B3-SW-E2-PV",
+    "product_title": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/ipc-pts2349b3-sw-e2-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45925/ProductImage/1_0_01_04_45925_794553255_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/ipc-pts2349b3-sw-e2-pv.html",
+  "detail": {
+    "title": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "model": "IPC-PTS2349B3-SW-E2-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PTS2349B3-SW-E2-PV 3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera Key Points • Fast Pairing with Bluetooth • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • One Camera for 360° View Without Blind Spots • WizColor Technology，As Bright As Day Light • Quickly Connect Wireless Camera with Account via PoE or Wi-Fi. • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • Smart Detection for Both Lenses to Focus on What Matters • Coordinated Fixed Lens and PT Lens Monitoring Ensures Complete Vigilance in Security Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45925/ProductImage/1_0_01_04_45925_794553255_crop_thumb.png",
+        "alt": "IPC-PTS2349B3-SW-E2-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45925/ProductImage/1_0_01_04_45925_794553419_crop_thumb.png",
+        "alt": "IPC-PTS2349B3-SW-E2-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45925/ProductImage/1_0_01_04_45925_794553420_crop_thumb.png",
+        "alt": "IPC-PTS2349B3-SW-E2-PV_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "Channel 1 (PT Lens): 1/2.9\" CMOS Channel 2 (Fixed Lens): 1/2.9\" CMOS",
+        "Max. Resolution": "Channel 1-2: 2304 (H) × 1296 (V)",
+        "Illumination Distance": "Up to 40 m (131.23 ft) (Warm light)",
+        "Illuminator Number": "4 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 352° Tilt: 0° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "Channel 1 (PT Lens): 6 mm Channel 2 (Fixed Lens): 2.8 mm",
+        "Max. Aperture": "F1.0",
+        "Field of View": "Channel 1 (PT Lens): H: 52°; V: 29°; D: 60° Channel 2 (Fixed Lens): H: 89°; V: 48°; D: 105°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by sub stream)",
+        "Video Frame Rate": "Main stream: 2304 × 1296@(1–20 fps) sub stream: 640 × 360@(1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.265: 512 kbps–4096 kbps",
+        "Day/Night": "Color/B/W",
+        "WDR": "120 dB",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n 2.4 G, EIRP≤20 dBm@2400–2483.5 MHz (CE)",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "Android;iOS"
+      },
+      "Function": {
+        "Abnormal Sound Alarm": "Yes"
+      },
+      "General": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU",
+        "Power Supply": "12 VDC (±30%); PoE (802.3af)",
+        "Power Consumption": "Basic: 2.3 W (12 VDC); 3.1 W (PoE); Max.: 9.8 W (12 VDC); 11.1W (PoE) (intelligence on + WDR + illuminator on + PT rotation + speaker on)",
+        "Operating Temperature": "–30 °C to +50 °C (–22 °F to +122 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP66",
+        "Camera Button": "Reset button",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "159.4 mm × 119.1 mm × 210 mm (6.28\" × 4.69\" × 8.27\") (L × W × H)",
+        "Net Weight": "585 g (1.29 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-PTS2349B3-SW-E2-PV_S0_datasheet_20250430.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Wi-Fi Network Camera (Outdoor Pan-Tilt) User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82983/user_manual/Wi-Fi_Network_Camera_(Outdoor_Pan-Tilt)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera (Dual-lens Pan andTilt-Eur)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83449/user_manual/Dahua_Network_Camera_(Dual-lens_Pan_andTilt-Eur)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Network Camera (Dual-lens Pan and Tilt)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83449/user_manual/Network_Camera_(Dual-lens_Pan_and_Tilt)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-08 #A&E Document IPC-PTS2349B3-SW-E2-PV_A&E_20260918032939 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83449/a_e_document/1789674680893.docx"
+      },
+      {
+        "name": "2025-05-20 #Drawings IPC-PTS2349B3-SW-E2-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87833/drawings/1_0_01_04_49060_692099329.pdf"
+      },
+      {
+        "name": "2025-05-20 #Drawings IPC-PTS2349B3-SW-E2-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87833/drawings/1_0_01_04_49060_550125032.pdf"
+      },
+      {
+        "name": "2025-10-22 #Firmware DH_IPC-WPT-E2-W-Hugo_MultiLang_PN_V3.000.0000000.6.R.250925 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3422661/M/DH_IPC-WPT-E2-W-Hugo_MultiLang_PN_V3.000.0000000.6.R.250925.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/ipc-pts2349b3-sw-e2-pv"
+  }
+}

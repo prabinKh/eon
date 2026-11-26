@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "VS550L Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421221155",
+    "product_name": "VS550L Power Supply Unit",
+    "product_title": "VS550L Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-vs550l",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_95d4a9cb-918e-4bb5-89fd-8e47df728280.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-vs550l.html",
+  "detail": {
+    "title": "VS550L Power Supply Unit",
+    "model": "AESP0353",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU VS550L is a reliable 550W power supply designed for gaming PCs and everyday desktop systems. Its non-modular design provides all the essential 24-pin, CPU, PCIe, SATA, and Molex connectors, ensuring stable and efficient power delivery for compatible components. Built for dependable performance and long-lasting reliability, it's an excellent choice for budget-friendly PC builds and upgrades",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_95d4a9cb-918e-4bb5-89fd-8e47df728280.png",
+        "alt": "VS550L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_c1111726-f7b2-4266-bdb9-bc5f914efcb4.png",
+        "alt": "VS550L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_db2d0efb-2f04-406c-8b54-acf7181fb8da.png",
+        "alt": "VS550L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_54ae2521-3c30-48c1-807d-45ac49744a03.png",
+        "alt": "VS550L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_145c661e-7094-4f4b-a4bd-2c776f3b12be.png",
+        "alt": "VS550L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Series": "VS Series",
+        "Category": "Power Supply",
+        "Rated Wattage": "550",
+        "Modularity": "Non-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "1 (8-Pin)",
+        "PCIe (8-Pin)": "1",
+        "SATA": "4",
+        "Molex": "2",
+        "SERIES": "VS Series",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "550",
+        "MODULARITY": "Non-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "1",
+        "MOLEX": "2",
+        "Offer Price (INR)": "₹2,549.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AESP0353"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-vs550l"
+  }
+}

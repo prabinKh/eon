@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Core Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "series": "Core Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "tab_title": "Core Switches",
+    "tab_id": "4321",
+    "breadcrumbs": [
+      "Transmission",
+      "Core Switches",
+      "Core Switches",
+      "Core Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "142961",
+    "product_name": "S10506",
+    "product_title": null,
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s10506",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11215/ProductImage/1_0_01_20_11215_417042926_crop_thumb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s10506.html",
+  "detail": {
+    "title": "S10506",
+    "model": "S10506",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11215/ProductImage/1_0_01_20_11215_417042926_crop_thumb.jpg",
+        "alt": "S10506",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s10506"
+  }
+}

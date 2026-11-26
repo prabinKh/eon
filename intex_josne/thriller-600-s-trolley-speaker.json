@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "Trolley Speaker",
+    "subcategory_url": "https://www.intex.in/collections/trolley-speaker",
+    "series": "Trolley Speaker Series",
+    "series_url": "https://www.intex.in/collections/trolley-speaker-series",
+    "tab_title": "Trolley Speaker",
+    "tab_id": "8677855887578",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "Trolley Speaker",
+      "Thriller 600 (S) Trolley Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "8677855887578",
+    "product_name": "Thriller 600 (S) Trolley Speaker",
+    "product_title": "Thriller 600 (S) Trolley Speaker",
+    "product_url": "https://www.intex.in/products/thriller-600-s-trolley-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-600thriler.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 17499.0,
+      "display": "₹17,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/thriller-600-s-trolley-speaker.html",
+  "detail": {
+    "title": "Thriller 600 (S) Trolley Speaker",
+    "model": "600",
+    "brand": "Intex",
+    "overview": "Thriller 600 (S): Your Portable Party Machine. Experience powerful sound with its 60W output and 12-inch woofer. Take your music anywhere with its portable design and cordless microphone. Enjoy wireless freedom with Bluetooth connectivity and long-lasting battery life. Perfect for parties, outdoor events, or karaoke nights.",
+    "features": [
+      "Feel the 60W power, hear the difference",
+      "Portable and ready to move with you",
+      "Cordless mic, effortless performance",
+      "Deep, rich bass from the 12-inch woofer",
+      "TWS connectivity – double the sound, double the fun",
+      "Connect your way with versatile options"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-600thriler.jpg",
+        "alt": "Thriller 600 (S) Trolley Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-600thriler-1.jpg",
+        "alt": "Thriller 600 (S) Trolley Speaker",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Feel the 60W power, hear the difference",
+        "Feature 2": "Portable and ready to move with you",
+        "Feature 3": "Cordless mic, effortless performance",
+        "Feature 4": "Deep, rich bass from the 12-inch woofer",
+        "Feature 5": "TWS connectivity – double the sound, double the fun",
+        "Feature 6": "Connect your way with versatile options"
+      },
+      "General": {
+        "Model": "600"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/thriller-600-s-trolley-speaker"
+  }
+}

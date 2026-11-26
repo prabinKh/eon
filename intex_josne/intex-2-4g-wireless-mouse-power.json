@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "IT Accessories",
+    "subcategory_url": "https://www.intex.in/collections/it-accessories",
+    "series": "Mouse",
+    "series_url": "https://www.intex.in/collections/mouse",
+    "tab_title": "IT Accessories",
+    "tab_id": "7813489590490",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "IT Accessories",
+      "Intex 2.4G Power+ Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "7813489590490",
+    "product_name": "Intex 2.4G Power+ Mouse",
+    "product_title": "Intex 2.4G Power+ Mouse",
+    "product_url": "https://www.intex.in/products/intex-2-4g-wireless-mouse-power",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 499.0,
+      "display": "₹499.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-2-4g-wireless-mouse-power.html",
+  "detail": {
+    "title": "Intex 2.4G Power+ Mouse",
+    "model": "1156-6001-030",
+    "brand": "Intex",
+    "overview": "Intex offers a lightweight wireless mouse with a nano receiver in an ergonomic and ambidextrous design that alleviates finger stress. This device has wireless connectivity with Bluetooth and 2.4GHz versions, high-precision sensors, and long battery life for hassle-free use.",
+    "features": [
+      "Up to 1000 Resolution",
+      "Digital 2.4G RF Technology",
+      "Intelligent Sleep Mode",
+      "Long Battery Backup",
+      "Auto Power Shutdown",
+      "Up to 10 Meter Working Range",
+      "Optical Tracking Technology",
+      "Plug & Play",
+      "USB Connectivity",
+      "Optimized Scrolling Wheel",
+      "Nano Receiver"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_1.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_2.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_3.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_4.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_5.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_7.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_8.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP_Power_1_6.jpg",
+        "alt": "Intex 2.4G Power+ Mouse",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Up to 1000 Resolution",
+        "Feature 2": "Digital 2.4G RF Technology",
+        "Feature 3": "Intelligent Sleep Mode",
+        "Feature 4": "Long Battery Backup",
+        "Feature 5": "Auto Power Shutdown",
+        "Feature 6": "Up to 10 Meter Working Range",
+        "Feature 7": "Optical Tracking Technology",
+        "Feature 8": "Plug & Play",
+        "Feature 9": "USB Connectivity",
+        "Feature 10": "Optimized Scrolling Wheel",
+        "Feature 11": "Nano Receiver"
+      },
+      "General": {
+        "Model": "1156-6001-030"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Mouse_Power.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-2-4g-wireless-mouse-power"
+  }
+}

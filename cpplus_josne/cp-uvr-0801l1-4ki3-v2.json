@@ -1,0 +1,121 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "57",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "8 Ch.",
+      "CP-UVR-0801L1-4KI3-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "1802",
+    "product_name": "CP-UVR-0801L1-4KI3-V2",
+    "product_title": "CP-UVR-0801L1-4KI3-V2",
+    "product_url": "https://cpplusworld.com/cp-uvr-0801l1-4ki3-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/ae2568ac-0fc1-4f4f-85b3-72fff3bf372b.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-0801l1-4ki3-v2.html",
+  "detail": {
+    "title": "CP-UVR-0801L1-4KI3-V2",
+    "model": "CP-UVR-0801L1-4KI3-V2",
+    "brand": "CP Plus",
+    "overview": "8Ch. 5MP Digital Video Recorder",
+    "features": [
+      "Supports HDCVI/AHD/TVI/CVBS/IP video inputs",
+      "Max 16 channels IP camera inputs, each channel up to 8MP; Max 128Mbps incoming  bandwidth",
+      "Supports Full-channel AI Instastream",
+      "Support 1 SATA HDD up to 16TB Each, 3 USB Ports",
+      "Up to 8 channels video stream (analog channel) SMD Plus",
+      "Up to 8 channels video stream (analog channel) perimeter protection",
+      "Up to 2 channels video stream (analog channel) human face recognition",
+      "AI Instastream/Instastream/H.265 dual-stream video  compression",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ae2568ac-0fc1-4f4f-85b3-72fff3bf372b.jpg",
+        "alt": "CP-UVR-0801L1-4KI3-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/4acc3009-6256-453d-963e-3daa2ec775f8.jpg",
+        "alt": "CP-UVR-0801L1-4KI3-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "Up to 16 channels of IPC access 8 IP channels by default + 8 channels (analog channels are converted to IP channels) incoming bandwidth: 128 Mbps, recording bandwidth: 128 Mbps and outgoing bandwidth:  128 Mbps *After IP channels are added beyond the existing channels, the AI Function (IVS,  SMD, FACE) will be disabled.",
+        "Camera Input": "1. CVI: 4K@25/30 fps; 6MP@20 fps; 5 MP@20 fps; 5MP@25 fps; 4MP@25/30 fps;  1080p@25/30 fps; 720p@25/30 fps; 720p@50/60 fps.2. TVI: 4K@15 fps; 5MP@20fps;  4MP@25/30 fps; 3MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps.3. AHD: 4K@15 fps;  5MP@20 fps; 4MP@25/30 fps; 3MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps",
+        "Two-way Talk": "Support (share the same audio input with the first channel)",
+        "User Interface": "Web; Local GUI",
+        "SMD Plus by DVR": "8 channels: Secondary filtering for human and motor vehicle , reducing false alarms caused by  leaves, rain and lighting condition change",
+        "Perimeter Performance of AI  by DVR (Number of Channels)": "Advanced Model: 2 channels, 10 IVS for each channel General Model: 8 channels, 10 IVS for each channel",
+        "Face Attributes": "Gender; age group; glasses; expressions; face mask; beard",
+        "Face Detection Performance  of AI by DVR (Number of  Channels)": "2 channels (up to 12 face images each channel)",
+        "Video Input": "8 channel, BNC",
+        "Video Output": "1 HDMI, 1 VGA HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720 *Simultaneous/heterogeneous video sources output for VGA and HDMI is configurable",
+        "Video Compression": "H.265+; Smart H.264+; H.264",
+        "Encode Strategy": "AI Instastream; Instastream",
+        "Video Streaming": "Main stream: 4K@(1fps-7fps); 6 MP@(1fps-10fps); 5 MP@(1fps-12fps); 4K-N, 4 MP, 3 MP@ (1fps-15fps); 4M-N, 1080p, 720p, 960H, D1,CIF@(1fps–25/30fps); Sub stream: 960H@(1fps– 15fps); D1/CIF@(1 fps–25/30fps)",
+        "Video Display Split": "1/4/8/9",
+        "Audio Input": "1-channel RCA, 8-channel BNC (Coaxial Audio)",
+        "Bit Rate": "32 kbps–6144 kbps",
+        "Audio Output": "1 channel, RCA",
+        "Audio Sample Rate": "8KHz, 16 bit Per Channel",
+        "Audio Bit Rate": "64Kbps Per Channel",
+        "Audio Compression": "G.711A, G.711U, PCM",
+        "General Alarm": "Motion detection; video loss; tampering",
+        "Alarm Linkage": "Record; snapshot (panoramic); IPC external alarm output; access controller; voice prompt;  buzzer; log; preset; email",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Hard Disk": "1 SATA port, up to 16TB capacity disk. The maximum HDD capacity varies with  environment temperature.",
+        "Recording Playback": "1/4/9",
+        "Recording Mode": "General, motion detection; intelligent; alarm; POS",
+        "Playback": "Instant playback, general playback, event playback, tag playback, smart playback (face and  motion detection)",
+        "Backup Mode": "USB Device/Network",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 3.0 port), 1 RS485 Port",
+        "Browser": "Chrome, IE9 or later, Firefox",
+        "Network Mode": "Single-address mode",
+        "Ethernet": "1 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Protocol": "IPv4/IPv6, HTTP, SSL, TCP/IP, UDP, UPnP, ICMP, IGMP, SNMP, RTSP, RTP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP, IP Filter, QoS,Bonjour, ONVIF Ver. 2.0",
+        "Power Supply": "DC 12V, 2A",
+        "Power Consumption": "<10 W (without HDD)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Operating Temperature": "-10°C ~ +55°C (14°F ~ +131°F)",
+        "Dimension": "260.0 mm × 237.9 mm × 47.6 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-0801L1-4KI3-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/99f1600c-79d8-4a3a-97f8-fd8e5280b853.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-0801l1-4ki3-v2"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Power Bank",
+    "subcategory_url": "https://www.intex.in/collections/power-bank",
+    "series": "Power Bank Series",
+    "series_url": "https://www.intex.in/collections/power-bank-series",
+    "tab_title": "Power Bank",
+    "tab_id": "8650859774170",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Power Bank",
+      "Strong Blaze 20K Poly Power Bank"
+    ]
+  },
+  "card_info": {
+    "product_id": "8650859774170",
+    "product_name": "Strong Blaze 20K Poly Power Bank",
+    "product_title": "Strong Blaze 20K Poly Power Bank",
+    "product_url": "https://www.intex.in/products/strong-blaze-20k-poly",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20K-POLY-1--black.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4449.0,
+      "display": "₹4,449.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/strong-blaze-20k-poly.html",
+  "detail": {
+    "title": "Strong Blaze 20K Poly Power Bank",
+    "model": "20K",
+    "brand": "Intex",
+    "overview": "Stay powered up with the Intex Strong Blaze 20K Power Bank. Designed for high performance, it features a 20000mAh Li-Polymer battery that ensures long-lasting power. With rapid charging technology, you can juice up your devices in no time. Dual input ports (Micro & Type-C) and dual USB output allow for convenient multi-device charging. LED power indicators help track battery levels, while Smart IC Protection prevents overcharging and overheating. Sleek, stylish, and ultra-portable, it's your ideal travel companion.",
+    "features": [
+      "20000mAh high-capacity Li-Polymer battery",
+      "Rapid Charging Technology for quick power-ups",
+      "Dual Input Ports: Micro & Type-C",
+      "Dual USB Output for charging multiple devices",
+      "12W Power Output for efficient charging",
+      "LED Power Indicators to monitor battery status",
+      "Smart IC Protection for safe and stable performance",
+      "Overcharge & Over Discharge Protection",
+      "Lightweight and sleek design for portability"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20K-POLY-1--black.jpg",
+        "alt": "Strong Blaze 20K Poly Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20K-POLY-1--white1.jpg",
+        "alt": "Strong Blaze 20K Poly Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20K-POLY-2--black.jpg",
+        "alt": "Strong Blaze 20K Poly Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/20K-POLY-2--white.jpg",
+        "alt": "Strong Blaze 20K Poly Power Bank",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "20000mAh high-capacity Li-Polymer battery",
+        "Feature 2": "Rapid Charging Technology for quick power-ups",
+        "Feature 3": "Dual Input Ports: Micro & Type-C",
+        "Feature 4": "Dual USB Output for charging multiple devices",
+        "Feature 5": "12W Power Output for efficient charging",
+        "Feature 6": "LED Power Indicators to monitor battery status",
+        "Feature 7": "Smart IC Protection for safe and stable performance",
+        "Feature 8": "Overcharge & Over Discharge Protection",
+        "Feature 9": "Lightweight and sleek design for portability"
+      },
+      "General": {
+        "Model": "20K"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/strong-blaze-20k-poly"
+  }
+}

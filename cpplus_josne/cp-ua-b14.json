@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Bracket",
+    "category_url": "https://cpplusworld.com/products/bracket",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/bracket",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "90",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Bracket",
+      "CP-UA-B14"
+    ]
+  },
+  "card_info": {
+    "product_id": "469",
+    "product_name": "CP-UA-B14",
+    "product_title": "CP-UA-B14-Housing Wall Mount Bracket | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-ua-b14",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/cp-ua-b14.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-b14.html",
+  "detail": {
+    "title": "CP-UA-B14-Housing Wall Mount Bracket | Cp Plus | Cpplusworld.com",
+    "model": "CP-UA-B14",
+    "brand": "CP Plus",
+    "overview": "Housing Wall Mount Bracket",
+    "features": [
+      "Wall Mount Bracket",
+      "Material: Aluminium",
+      "Aesthetic design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cp-ua-b14.jpg",
+        "alt": "CP-UA-B14 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Material": "Aluminum",
+        "Load Bearing": "4.0Kg",
+        "Operating Temperature": "-40°C~65°C",
+        "Net Weight(g)": "0.56kg",
+        "Dimension": "100mm x 146mm x 264mm",
+        "Humidity": "0~90% RH",
+        "Certificate": "CE, FCC, RoHS, BIS"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-B14.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-b14"
+  }
+}

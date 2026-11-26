@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Air Coolers",
+    "subcategory_url": "https://antesports.com/collections/air-coolers",
+    "series": "Air Coolers Series",
+    "series_url": "https://antesports.com/collections/air-coolers",
+    "tab_title": "Air Coolers",
+    "tab_id": "508173025571",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Air Coolers",
+      "ICE-C612 Digital CPU Air Cooler with Temperature Display"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422204195",
+    "product_name": "ICE-C612 Digital CPU Air Cooler with Temperature Display",
+    "product_title": "ICE-C612 Digital CPU Air Cooler with Temperature Display",
+    "product_url": "https://antesports.com/products/ant-esports-ice-c612-digital-cpu-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_67ac76f3-8e0e-4e89-a9af-5f64931fe6cd.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-ice-c612-digital-cpu-cooler.html",
+  "detail": {
+    "title": "ICE-C612 Digital CPU Air Cooler with Temperature Display",
+    "model": "AESP0316",
+    "brand": "Ant Esports",
+    "overview": "Digital Temperature Display – Real-time CPU temperature readout on top of the cooler for instant system monitoring.High-Performance Single-Tower Design – Dense aluminum fin stack with precision-machined copper base ensures rapid heat dissipation.Powerful 120mm ARGB Fan – Vibrant addressable RGB lighting with strong airflow for both cooling and aesthetics.Universal CPU Compatibility – Supports Intel (LGA1851/1700/1200/115X) and AMD (AM4/AM5) platforms.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_67ac76f3-8e0e-4e89-a9af-5f64931fe6cd.png",
+        "alt": "ICE-C612 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ICE-C612Digital_2_f9e381f1-160e-4c2b-bfd8-5b4fd856dc1d.png",
+        "alt": "ICE-C612 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_2aa18db4-4cc3-4a36-8aa9-a28e1f482497.png",
+        "alt": "ICE-C612 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_f77593a9-960f-4193-b5c4-7a027f6fb4a7.png",
+        "alt": "ICE-C612 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_027697aa-c225-495f-965e-dbbe0d9f67b0.png",
+        "alt": "ICE-C612 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Product Type": "AIR COOLER",
+        "AMD Socket Support": "AM5, AM4",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA1200, LGA115X",
+        "Cooler Type": "Tower",
+        "No. of Heatpipes": "6",
+        "No. of Cooling Towers": "1",
+        "Fan Size (mm)": "120",
+        "Fan Speed (RPM)": "1800",
+        "Fan Noise (dBA)": "33.8",
+        "FAN Airflow (CFM)": "74.8",
+        "FAN Static Pressure (mmH₂O)": "2.12",
+        "Cooler Height (mm)": "157",
+        "Rated TDP (w)": "150",
+        "Temp. Display": "Yes",
+        "PRODUCT TYPE": "AIR COOLER",
+        "AMD SOCKET SUPPORT": "AM5, AM4",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA1200, LGA115X",
+        "COOLER TYPE": "Tower",
+        "NO. OF HEATPIPES": "6",
+        "NO. OF COOLING TOWERS": "1",
+        "FAN SIZE (MM)": "120",
+        "FAN SPEED (RPM)": "1800",
+        "FAN NOISE (DBA)": "33.8",
+        "FAN AIRFLOW (CFM)": "74.8",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.12",
+        "COOLER HEIGHT (MM)": "157",
+        "RATED TDP (W)": "150",
+        "TEMP. DISPLAY": "Yes",
+        "Offer Price (INR)": "₹2,599.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AESP0316"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-ice-c612-digital-cpu-cooler"
+  }
+}

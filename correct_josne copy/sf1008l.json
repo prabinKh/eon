@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "SOHO Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/soho-switch",
+    "tab_title": "SOHO Switch",
+    "tab_id": "16407",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "SOHO Switch",
+      "SOHO Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "146269",
+    "product_name": "SF1008L",
+    "product_title": "8-Port Unmanaged Ethernet Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/plasticswitch/sf1008l",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11359/ProductImage/1_0_01_20_11359_473145196_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sf1008l.html",
+  "detail": {
+    "title": "8-Port Unmanaged Ethernet Switch",
+    "model": "SF1008L",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11359/ProductImage/1_0_01_20_11359_473145196_crop_thumb.png",
+        "alt": "SF1008L",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/plasticswitch/sf1008l"
+  }
+}

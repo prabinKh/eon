@@ -1,0 +1,161 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series",
+    "tab_title": "NVR4 Series",
+    "tab_id": "16747",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "Lite Series",
+      "NVR4 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "134757",
+    "product_name": "NVR4108-8P-4KS3",
+    "product_title": "8CH Smart 1U 8PoE 1HDD Lite Network Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series/nvr4-series/nvr4108-8p-4ks3",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15696/ProductImage/1_0_01_23_15696_511732655_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr4108-8p-4ks3.html",
+  "detail": {
+    "title": "8CH Smart 1U 8PoE 1HDD Lite Network Video Recorder",
+    "model": "NVR4108-8P-4KS3",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR4108-8P-4KS3 8CH Smart 1U 8PoE 1HDD Lite Network Video Recorder Key Points • Max. 160/160/80 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 8 × 1080p@30 fps • IP Cameras Resolution Up to 12MP • 1 Bay. Each HDD Storage Capacity Up to 20TB • AI by Recorder: 4-ch SMD Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15696/ProductImage/1_0_01_23_15696_511732655_crop_thumb.png",
+        "alt": "NVR4108-8P-4KS3_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15696/ProductImage/1_0_01_23_15696_511732657_crop_thumb.png",
+        "alt": "NVR4108-8P-4KS3_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15696/ProductImage/1_0_01_23_15696_511732656_crop_thumb.png",
+        "alt": "NVR4108-8P-4KS3_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Operating Interface": {},
+      "AI by Recorder": {},
+      "AI by Camera": {},
+      "Perimeter Performance of AI by Camera (Number of Channels)": {},
+      "Face Attributes": {},
+      "Face Detection Performance of AI by Camera (Number of Channels)": {},
+      "Face Recognition Performance of AI by Camera (Number of Channels)": {},
+      "SMD Plus by Recorder": {},
+      "SMD by Camera": {},
+      "Access Channel": {},
+      "Network Bandwidth": {},
+      "Resolution": {},
+      "Decoding Capability": {},
+      "Video Output": {},
+      "Multi-screen Display": {},
+      "Third-party Camera Access": {},
+      "Video Compression": {},
+      "Audio Compression": {},
+      "Network Protocol": {},
+      "Mobile Phone Access": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Multi-channel Playback": {},
+      "Record Mode": {},
+      "Backup Method": {},
+      "Playback Mode": {},
+      "General Alarm": {},
+      "Anomaly Alarm": {},
+      "Intelligent Alarm": {},
+      "Alarm Linkage": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Disk Interface": {},
+      "USB": {},
+      "HDMI": {},
+      "VGA": {},
+      "Network Port": {},
+      "PoE Port": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76247/datasheet/NVR4108-8P-4KS3_S0_datasheet_20251203.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual HDD INSTALLATION GUIDE_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Dahua Network Video Recorder_User Manual_V2.4.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Dahua_Network_Video_Recorder_User_Manual_V2.4.2.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Network Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-22 #A&E Document NVR4108-8P-4KS3_A&E_20260924151639 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76247/a_e_document/1790234458266.docx"
+      },
+      {
+        "name": "2023-08-24 #Drawings NVR4108-8P-4KS3_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76247/drawings/NVR4108-8P-4KS3_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-08-24 #Drawings NVR4108-8P-4KS3_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76247/drawings/NVR4108-8P-4KS3_PORT.pdf"
+      },
+      {
+        "name": "2026-07-08 #Firmware DH_NVR4x-4KS3_MultiLang_V4.006.0000000.6.R.260612 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76177/firmware/DH_NVR4x-4KS3_MultiLang_V4.006.0000000.6.R.260612.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series/nvr4-series/nvr4108-8p-4ks3"
+  }
+}

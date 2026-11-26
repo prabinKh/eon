@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "ITS Terminal",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "ITS Terminal",
+    "tab_id": "608",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "ITS Terminal",
+      "ITS Terminal"
+    ]
+  },
+  "card_info": {
+    "product_id": "104027",
+    "product_name": "ITSE1200-TA-N04",
+    "product_title": "Dahua Edge Storage Terminal",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/its-terminal/12-ch/itse1200-ta-n04",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220323/its11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itse1200-ta-n04.html",
+  "detail": {
+    "title": "Dahua Edge Storage Terminal",
+    "model": "ITSE1200-TA-N04",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITSE1200-TA-N04 Dahua Edge Storage Terminal Key Points 12-ch ITS terminal with 4T Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220323/its11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220323/its31_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220323/its21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Operating System": "Linux",
+        "Operating Interface": "Web client",
+        "Network Protocol": "TCP/IP; HTTP; HTTPS; SFTP; FTP; DNS; RTP; RTSP; RTC; NTP; DHCP; IEEE 802.1X",
+        "Image Encoding Format": "JPEG",
+        "Main Processor": "High-performance embedded processor",
+        "Memory": "2 GB",
+        "Power Switch": "1 power switch",
+        "Indicator Light": "1 × on/off status; 1 × operation status; 1 × alarm indicator; 1 × disk read/write indicator"
+      },
+      "Function": {
+        "Storage": "Disk; FTP; SFTP",
+        "OSD Overlay": "Time, address, lane name, driving direction, violation code, violation name, vehicle speed, speeding ratio, plate, plate color and type, vehicle color and size, vehicle type, seatbelt status, call, GPS information, remote device GPS, section information and code, section distance and speed limit, entry and exit time, entry and exit lane, and more.",
+        "Positioning": "GPS; BDS",
+        "Composite Image": "Supports combining 1 to 6 source images into a composite image by using normal and related composition functions. Related channels can be set to match target images across channels, so that a composite image can be developed providing an overall impression of the target. Supports 3 strategies for matching: ID matching, plate matching, and a combination of matching the ID first, and then the plate. Supports fuzzy match by vehicle type, vehicle lane, plate color, and vehicle color. Customize the order that images are merged in and the close-up image number.",
+        "Automatic Network Replenishment (ANR)": "Platform and FTP; manual upload",
+        "Auto Registration": "Yes",
+        "Restricted List/Trusted List": "Yes. Import and export allowlist and blocklist files and perform fuzzy search of vehicles on the list by plate number.",
+        "Anti-deletion": "Yes. Videos and images cannot be directly deleted.",
+        "Vehicle Search": "Search by time, channel, plate, speed, lane, target type, plate color, vehicle color, and violation type such as not wearing seatbelt and calling while driving. Fuzzy search is supported. Export results in CSV and EXCEL format.",
+        "Alarm Event": "Storage full, external alarm, license plate blocklist, illegal access, and security fault alarm.",
+        "Built-in Software": "Edge Storage Device Software"
+      },
+      "Port": {
+        "HDD Interface": "1 × 4 TB disk (included); supports max. 4 SATA 3.5\" disks.",
+        "RS-232": "2, one of them is for debugging data from the serial port.",
+        "RS-485": "4",
+        "USB": "2 USB 3.0 Ports",
+        "Network Port": "18 (2 × RJ-45 Ethernet port 10/100/1000 M network transmission and 16 × RJ-45 Ethernet port 10/100 M network transmission)",
+        "Optical Fiber": "2, 1000 M SFP fiber port. Dual NICs G1/G2 on the same network segment.",
+        "Antenna": "1",
+        "Audio Input": "1 × 3.5 mm port",
+        "Audio Output": "1 × 3.5 mm port",
+        "Video Input": "Supports 16-ch HD video input in video access mode and 12-ch input in ANPR Composite mode.",
+        "Alarm Input": "4",
+        "Alarm Output": "4 (optocoupler)",
+        "Power Output": "1, 12 VDC"
+      },
+      "General": {
+        "Power Supply": "12 VDC",
+        "Power Consumption": "<40 W",
+        "Operating Temperature": "–30 °C to +65 °C (–22 °F to +149 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Product Dimensions": "355.0 mm × 267.5 mm × 118.5 mm (13.98\" × 10.53\" × 4.67\") (L × W × H)",
+        "Net Weight": "5.5 kg (12.13 lb)",
+        "Gross Weight": "8.5 kg (18.74 lb)",
+        "Installation": "Rack mount; desktop mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITSE1200-TA-N04_datasheet_20221024.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Edge Storage Terminal_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006211/202411/Edge_Storage_Terminal_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Edge Storage Terminal_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006211/202411/Edge_Storage_Terminal_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-02-21 #A&E Document ITSE1200-TA-N04_A&E_20260921100409 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43707/a_e_document/1789956649362.docx"
+      },
+      {
+        "name": "2024-07-19 #Drawings ITSE1200-TA-N04_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43697/drawings/ITSE1200-TA-N02_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-19 #Drawings ITSE1200-TA-N04_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43697/drawings/ITSE1200-TA-N02_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-12 #Firmware General_ITSE1200-TA_MultiLang_N_Oversea_4G_STALB_V4.004.0000000.5.R.260422 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43747/firmware/General_ITSE1200-TA_MultiLang_N_Oversea_4G_STALB_V4.004.0000000.5.R.260422.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/its-terminal/12-ch/itse1200-ta-n04"
+  }
+}

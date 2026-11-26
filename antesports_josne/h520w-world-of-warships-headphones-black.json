@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H520W World of Warships Edition Headphones - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444132131",
+    "product_name": "H520W World of Warships Edition Headphones - Black",
+    "product_title": "H520W World of Warships Edition Headphones - Black",
+    "product_url": "https://antesports.com/products/h520w-world-of-warships-headphones-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/37.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/h520w-world-of-warships-headphones-black.html",
+  "detail": {
+    "title": "H520W World of Warships Edition Headphones - Black",
+    "model": "AESP0057",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports H520W World of Warships Edition is a lightweight over-ear gaming headset built with 50mm neodymium drivers tuned for both deep bass and spatial awareness, giving a real edge in competitive titles like Valorant and Call of Duty. An omnidirectional mic picks up voice clearly even in noisy environments, and a silicone-based wire resists tangling for reliable everyday use. Optimized for Windows Sonic on Xbox One and compatible Windows 10 PCs, it's also compatible with PS4, Nintendo Switch and mobile devices via its universal 3.5mm connection. Premium synthetic leather ear cushions and an adjustable headband keep the lightweight frame comfortable through long gaming sessions across virtually any platform.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/37.jpg",
+        "alt": "H520W World of Warships Edition Headphones - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Driver Size": "50mm Neodymium",
+        "Connectivity": "Wired, 3.5mm",
+        "Microphone": "Omnidirectional, Flip-to-Mute",
+        "Compatibility": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+        "Color": "Black",
+        "DRIVER SIZE": "50mm Neodymium",
+        "CONNECTIVITY": "Wired, 3.5mm",
+        "MICROPHONE": "Omnidirectional, Flip-to-Mute",
+        "COMPATIBILITY": "PC, PS4, Xbox One, Nintendo Switch, Mobile",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹849.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AESP0057"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/h520w-world-of-warships-headphones-black"
+  }
+}

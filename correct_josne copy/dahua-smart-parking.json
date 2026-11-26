@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "146855",
+    "product_name": "Dahua Smart Parking",
+    "product_title": "Highly Available Security System for Entrance and Exit Management",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/smartparking-software/dahua-smart-parking",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/2.9.03.01.10187/ProductImage/1642320003489.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/dahua-smart-parking.html",
+  "detail": {
+    "title": "Highly Available Security System for Entrance and Exit Management",
+    "model": "Dahua Smart Parking",
+    "brand": "Dahua",
+    "overview": "Favourite Dahua Smart Parking Highly Available Security System for Entrance and Exit Management Key Points Vehicle entrance and exit management software, support manually parking fee charging, support custom self-service parking fee payment terminal. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/2.9.03.01.10187/ProductImage/1642320003489.jpg",
+        "alt": "lQjPJxVyd7uhv0sAALCjDu9NmmKiTQbT3MvE4wsA.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20241105/Datasheet_smart-parking-software-datasheet_V1.pdf"
+      },
+      {
+        "name": "2026-08-21 #User Manual Dahua Smart Parking Management Platform_User Manual_V1.3.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82452/user_manual/Dahua_Smart_Parking_Management_Platform_User_Manual_V1.3.2.pdf"
+      },
+      {
+        "name": "2026-01-30 #Firmware General_SmartParking_MultiLang_Win64-Install_IS_V1.003.0000001.3.R.251216 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82452/firmware/General_SmartParking_MultiLang_Win64-Install_IS_V1.003.0000001.3.R.251216.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/smartparking-software/dahua-smart-parking"
+  }
+}

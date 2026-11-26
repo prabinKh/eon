@@ -1,0 +1,68 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC280 Notebook Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349033029923",
+    "product_name": "NC280 Notebook Cooler",
+    "product_title": "NC280 Notebook Cooler",
+    "product_url": "https://antesports.com/products/nc280-notebook-cooler-dual-fan-mac-ps5",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_7dc98d0a-5630-46f1-83aa-7f1225a525cd.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc280-notebook-cooler-dual-fan-mac-ps5.html",
+  "detail": {
+    "title": "NC280 Notebook Cooler",
+    "model": "AEPP0042",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC280 is a notebook cooler equipped with dual 115mm RGB fans rated at up to 1200 RPM, built to cool even the hottest laptops at full load across a wide 10-17 inch size range. Its very stable design keeps the laptop firmly anchored during use, and adjustable fan speed lets you fine-tune the balance between cooling power and noise depending on workload. Broad compatibility extends beyond laptops to Mac systems and PS5/PS4 consoles, making it a flexible cooling accessory for a range of devices, not just notebooks.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_7dc98d0a-5630-46f1-83aa-7f1225a525cd.png",
+        "alt": "NC280 Notebook Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "2 x 115mm RGB, Up to 1200 RPM",
+        "Compatibility": "Laptops 10-17\", Mac, PS5, PS4",
+        "FANS": "2 x 115mm RGB, Up to 1200 RPM",
+        "COMPATIBILITY": "Laptops 10-17\", Mac, PS5, PS4",
+        "Offer Price (INR)": "₹1,899.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AEPP0042"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc280-notebook-cooler-dual-fan-mac-ps5"
+  }
+}

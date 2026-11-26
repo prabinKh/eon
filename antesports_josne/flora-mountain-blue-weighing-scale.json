@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Flora Mountain Blue Weighing Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816728355",
+    "product_name": "Flora Mountain Blue Weighing Scale",
+    "product_title": "Flora Mountain Blue Weighing Scale",
+    "product_url": "https://antesports.com/products/flora-mountain-blue-weighing-scale",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/75.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/flora-mountain-blue-weighing-scale.html",
+  "detail": {
+    "title": "Flora Mountain Blue Weighing Scale",
+    "model": "ANTR0061",
+    "brand": "Ant Esports",
+    "overview": "The Ant Flora Mountain Blue is a slim, anti-skid bathroom weighing scale with a tempered glass top and clear LCD display, built for straightforward everyday weight tracking. Auto-off functionality conserves battery life when the scale isn't in use, while its slim profile makes it easy to store upright behind a door or in a cabinet. A dependable, no-frills option for anyone who wants a simple body weight machine without app-based complexity, backed by a 40-month warranty.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/75.png",
+        "alt": "Flora Mountain Blue Weighing Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Platform": "Tempered Glass",
+        "Display": "LCD",
+        "Design": "Slim, Anti-Skid",
+        "Power": "Auto Off",
+        "Warranty Period": "40 Months",
+        "PLATFORM": "Tempered Glass",
+        "DISPLAY": "LCD",
+        "DESIGN": "Slim, Anti-Skid",
+        "POWER": "Auto Off",
+        "WARRANTY PERIOD": "40 Months",
+        "SKU": "ANTR0061"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/flora-mountain-blue-weighing-scale"
+  }
+}

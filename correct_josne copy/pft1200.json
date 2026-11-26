@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "PoE Midspan",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/poe-midspan",
+    "tab_title": "PoE Midspan",
+    "tab_id": "13697",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "PoE Midspan",
+      "PoE Midspan"
+    ]
+  },
+  "card_info": {
+    "product_id": "8961",
+    "product_name": "PFT1200",
+    "product_title": "60W Hi-PoE Midspan",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poemidspan/pft1200",
+    "card_image": "https://material.dahuasecurity.com/upfiles/PFT1200_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pft1200.html",
+  "detail": {
+    "title": "60W Hi-PoE Midspan",
+    "model": "PFT1200",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/upfiles/PFT1200_thumb.png",
+        "alt": "PFT1200",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poemidspan/pft1200"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "1080P",
+    "tab_id": "9482",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "146099",
+    "product_name": "HAC-HDW1239T-Z-A-LED",
+    "product_title": "2MP Full-color HDCVI Motorized Vari-Focal Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/1080p/full-color/hac-hdw1239t-z-a-led=s3",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25924/ProductImage/1_0_01_12_25924_1690347448_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw1239t-z-a-led-s3.html",
+  "detail": {
+    "title": "2MP Full-color HDCVI Motorized Vari-Focal Eyeball Camera",
+    "model": "HAC-HDW1239T-Z-A-LED",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW1239T-Z-A-LED 2MP Full-color HDCVI Motorized Vari-Focal Eyeball Camera Key Points • High-Quality Imaging with 1080P Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • Full-color: 24/7 color monitoring collects highly detailed information • 40 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • Smart Light+ : Clear Details with Advanced LED Processing Technology • 3DNR & 130 dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25924/ProductImage/1_0_01_12_25924_1690347448_crop_thumb.png",
+        "alt": "HAC-HDW1239T-Z-A-LED_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25924/ProductImage/1_0_01_12_25924_1690347446_crop_thumb.png",
+        "alt": "HAC-HDW1239T-Z-A-LED_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "2 MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s; NTSC: 1/30 s–1/100,000 s",
+        "Min. Illumination": "0.001 lux@F1.0 (Color, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "40 m (131.23 ft)",
+        "Illuminator On/Off Control": "Auto;Manual",
+        "Illuminator Number": "2 (Warm light)",
+        "Angle Adjustment": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Auto Focus": "Yes",
+        "Lens Mount": "φ16",
+        "Focal Length": "2.7 mm–13.5 mm",
+        "Max. Aperture": "F1.0",
+        "Field of View": "H: 103°–33°; V: 54°–18°; D: 124°–38°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "1.5 m (4.92 ft)",
+        "DORI Distance": "Lens",
+        "W": "46.6 m (152.89 ft)",
+        "T": "133.3 m (437.34 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps AHD: PAL: 1080p@25 fps NTSC: 1080p@30 fps TVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "1080p (1920 × 1080); 960H (960 × 576/960 × 480);",
+        "Day/Night": "Color",
+        "BLC": "BLC; HLC; WDR;",
+        "WDR": "130 dB",
+        "White Balance": "Auto;Area white balance",
+        "Gain Control": "Manual;Auto",
+        "Noise Reduction": "3D NR",
+        "Illumination Mode": "Smart Light",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN 62368-1; CE-EMC: EN 55032; EN 55035;"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel built-in Mic"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 30%",
+        "Power Consumption": "Max 7.2 W (12 VDC,LED on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Protection": "IP67",
+        "Anti-corrosion Level": "Basic Protection"
+      },
+      "Structure": {
+        "Casing Material": "Metal",
+        "Product Dimensions": "φ122.0 mm × 104.8 mm (φ4.80\" × 4.13\")",
+        "Net Weight": "0.57 kg (1.26 lb)",
+        "Gross Weight": "0.75 kg (1.65 lb)",
+        "Installation": "Wall mount; ceiling mount; vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-HDW1239TP-Z-A-LED_S3_datasheet_20250920.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86617/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2024-03-22 #Drawings HAC-HDW1239T-Z-A-LED_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12507/drawings/HAC-HDW1231T-Z-A-DP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-03-22 #Drawings HAC-HDW1239T-Z-A-LED_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12497/drawings/HAC-HDW1231T-Z-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/1080p/full-color/hac-hdw1239t-z-a-led=s3"
+  }
+}

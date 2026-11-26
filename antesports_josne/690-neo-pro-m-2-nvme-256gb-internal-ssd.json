@@ -1,0 +1,83 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Memory & Storage",
+    "subcategory_url": "https://antesports.com/collections/memory-storage",
+    "series": "Memory & Storage Series",
+    "series_url": "https://antesports.com/collections/memory-storage",
+    "tab_title": "Memory & Storage",
+    "tab_id": "508173746467",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Memory & Storage",
+      "690 Neo Pro M.2 NVME 256GB Internal SSD"
+    ]
+  },
+  "card_info": {
+    "product_id": "10364177711395",
+    "product_name": "690 Neo Pro M.2 NVME 256GB Internal SSD",
+    "product_title": "690 Neo Pro M.2 NVME 256GB Internal SSD",
+    "product_url": "https://antesports.com/products/690-neo-pro-m-2-nvme-256gb-internal-ssd",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_d19f37d2-da1b-4818-8294-4431f1968e1c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/690-neo-pro-m-2-nvme-256gb-internal-ssd.html",
+  "detail": {
+    "title": "690 Neo Pro M.2 NVME 256GB Internal SSD",
+    "model": "690 Neo Pro M.2 NVME 256GB Internal SSD",
+    "brand": "Ant Esports",
+    "overview": "Upgrade your system with theAnt Esports 690 Neo Pro 256GB M.2 NVMe SSD, designed to deliver fast performance, reliable storage, and responsive everyday computing. Featuring aPCIe Gen3 x4 NVMe interfaceand 3D TLC NAND, this SSD offers significantly faster data access compared to traditional hard drives, making it ideal for faster boot times, quicker application loading, and smoother file transfers.",
+    "features": [
+      "High-Speed Performance:Delivers read/write speeds of up to3100/1800 MB/s, helping reduce loading times and improve overall system responsiveness.",
+      "PCIe Gen3 x4 NVMe Interface:Built with anM.2 NVMe PCIe Gen3 x4 interfaceand supports the PCI Express 3.1 standard for high-speed data transfer.",
+      "256GB Storage Capacity:Provides ample space for your operating system, applications, games, and essential files while maintaining fast performance.",
+      "3D TLC NAND:Equipped with3D TLC NAND flash memoryfor a combination of performance, durability, and dependable everyday storage."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_d19f37d2-da1b-4818-8294-4431f1968e1c.png",
+        "alt": "690 Neo Pro M.2 NVME 256GB Internal SSD - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_2f6bfc52-e7b7-4af0-88e4-8fe069f9665e.png",
+        "alt": "690 Neo Pro M.2 NVME 256GB Internal SSD - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_68e964cb-992e-4bd3-bffc-bf85952566dd.png",
+        "alt": "690 Neo Pro M.2 NVME 256GB Internal SSD - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_590f30f3-dc3a-44eb-9ac3-8035efe36ff9.png",
+        "alt": "690 Neo Pro M.2 NVME 256GB Internal SSD - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Offer Price (INR)": "₹4,999.00",
+        "MRP (INR)": "₹6,499.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/690-neo-pro-m-2-nvme-256gb-internal-ssd"
+  }
+}

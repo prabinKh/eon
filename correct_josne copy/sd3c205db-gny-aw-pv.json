@@ -1,0 +1,184 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series",
+    "tab_title": "SD3",
+    "tab_id": "18208",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+      "SD3"
+    ]
+  },
+  "card_info": {
+    "product_id": "137357",
+    "product_name": "SD3C205DB-GNY-AW-PV",
+    "product_title": "2MP 5x Smart Dual Light WizSense Wi-Fi Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series/sd3/sd3c205db-gny-aw-pv",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231106/sd3pv1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd3c205db-gny-aw-pv.html",
+  "detail": {
+    "title": "2MP 5x Smart Dual Light WizSense Wi-Fi Network PTZ Camera",
+    "model": "SD3C205DB-GNY-AW-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD3C205DB-GNY-AW-PV 2MP 5x Smart Dual Light WizSense Wi-Fi Network PTZ Camera Key Points • High-Quality Imaging with 2MP Resolution • 5× Optical Zoom Provide Close Up Views Over Expansive Areas • Smart Dual Light: Expansive Night View with up to 50m IR Distance and 30m White Light • Deep Learning-Based Human and Vehicle Classification • Active Deterrence: Audible and Visual Alarms Can Be Triggered by Certain Events to Drive Away the Target • Built-in Mic & Speaker: Secure Real-Time Talk • Supports Wi-Fi for Wireless Connectivity and Remote Monitoring • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231106/sd3pv1_thumb.png",
+        "alt": "SD3C205DB-GNY-AW-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231106/sd3pv2_thumb.png",
+        "alt": "SD3C205DB-GNY-AW-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "512 MB",
+        "Electronic Shutter Speed": "1/1 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.05 lux@F1.6 B/W: 0.005 lux@F1.6 0 lux (IR light on)",
+        "Illumination Distance": "50 m (164.04 ft) (IR);30 m (98.43 ft) (Warm light)",
+        "Illuminator On/Off Control": "Zoom Prio; Manual; Auto; Off",
+        "Illuminator Number": "2 (IR); 2 (Warm light)",
+        "Focal Length": "2.7 mm–13.5 mm",
+        "Max. Aperture": "F1.6–F3.0",
+        "Field of View": "H: 99.6°–31.5°; V: 53°–17.8°; D: 118.8°–36.2°",
+        "Optical Zoom": "5 ×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "1.5 m (4.92 ft)",
+        "Iris Control": "Fixed",
+        "DORI Distance": "Detect",
+        "186.2 m (610.89 ft)": "73.5 m (241.14 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 355° Tilt: –15° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s–36°/s Tilt: 0.1°/s–25.8°/s",
+        "Preset Speed": "Pan: 35.7°/s; Tilt: 27.1°/s",
+        "Preset": "300",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; crossing fence detection; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; vehicle/human alarm classification",
+        "SMD": "Yes",
+        "Light Warning": "White light warning Flash duration: 5 s–30 s Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 11 types of sound alarms, and supports importing up to 10 custom sound alarms. The sound alarm can be set to play 1 to 10 times.",
+        "Video Compression": "H.264H; H.264B; Smart H.265+; H.264; H.265; MJPEG (Sub Stream); Smart H.264+",
+        "Streaming Capability": "3 streams",
+        "Resolution": "1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576); VGA (640 × 480); CIF (352 × 288)",
+        "Video Frame Rate": "Main stream: 1080p/1.3M/720p @(1–25/30 fps) Sub stream 1: D1/CIF/VGA@ (1–25/30 fps) Sub stream 2: 1080p/1.3M/720p @(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 64 kbps–8192 kbps H.265: 25 kbps–6400 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Electronic (EIS)",
+        "Defog": "Electronic",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "G.711a; G.711Mu; G.726; MPEG2-Layer2; G722.1; PCM",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "Yes",
+        "Wi-Fi Standard": "IEEE802.11b; IEEE802.11g; IEEE802.11n",
+        "Wi-Fi Frequency Range": "2.4 GHz",
+        "Wi-Fi Transmission Rate": "150 Mbps",
+        "Max Transmission Power": "≤20 dBm@2400–2483.5 MHz",
+        "Network Protocol": "FTP; RTMP; IPv6; Bonjour; IPv4; DNS; RTCP; PPPoE; NTP; RTP; 802.1x; HTTPS; SNMP; TCP/IP; DDNS; UPnP; NFS; ICMP; UDP; IGMP; SMB; HTTP; SSL; DHCP; SMTP; Qos; RTSP; ARP",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T);CGI; SDK; P2P",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP/SFTP; Micro SD card (512 GB); NAS",
+        "Browser": "IE 9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Management Software": "DMSS; DSS Pro",
+        "Mobile Client": "iOS; Android",
+        "Certifications": "CE: EN55032/EN55024/EN50130-4",
+        "Audio Input": "1 channel (built-in mic)",
+        "Audio Output": "1 channel (built-in speaker)",
+        "Alarm Linkage": "Capture; recording; send email; preset; audio; warning light",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Power Supply": "12 VDC, 1.5 A ± 25%",
+        "Power Consumption": "Basic: 3 W Max: 11 W (illuminator + PTZ + speaker)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP66; TVS 2000 V lightning proof; surge protection; voltage transient protection",
+        "Product Dimensions": "142.6 mm × 140.0 mm × 236.2 mm (5.61\" × 5.51\" × 9.30\") (L × W × H)",
+        "Net Weight": "1.1 kg (2.43 lb)",
+        "Gross Weight": "1.7 kg (3.75 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD3C205DB-GNY-AW-PV_S0_datasheet_20250115.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Speed Dome & PTZ Camera_Installation Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77527/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide_V1.0.0 (3 wifi) _V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77587/user_manual/Installation_Guide_V1.0.0_(3_wifi)__V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-23 #A&E Document SD3C205DB-GNY-AW-PV_A&E_20260918001854 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77587/a_e_document/1789662064999.docx"
+      },
+      {
+        "name": "2023-09-25 #Drawings SD3C205DB-GNY-AW-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77587/drawings/SD3C205DB-GNY-AW-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-09-25 #Drawings SD3C205DB-GNY-AW-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77587/drawings/SD3C205DB-GNY-AW-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-08-22 #Firmware DH_SD-Gauss_MultiLang_PN_Stream3-xiaobei_V3.201.0000007.4.R.260810 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64597/firmware/DH_SD-Gauss_MultiLang_PN_Stream3-xiaobei_V3.201.0000007.4.R.260810.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series/sd3/sd3c205db-gny-aw-pv"
+  }
+}

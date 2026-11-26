@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Thunder10 60% Keyboard & Mouse Combo - Carbon Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791935267",
+    "product_name": "Thunder10 60% Keyboard & Mouse Combo - Carbon Black",
+    "product_title": "Thunder10 60% Keyboard & Mouse Combo - Carbon Black",
+    "product_url": "https://antesports.com/products/thunder10-60-combo-red-switch-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13_9b4d076e-f59f-48e0-8b8b-24464652f4eb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/thunder10-60-combo-red-switch-black.html",
+  "detail": {
+    "title": "Thunder10 60% Keyboard & Mouse Combo - Carbon Black",
+    "model": "AEPP0282",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Thunder10 pairs an ultra-compact 60% mechanical keyboard with a lightweight honeycomb-shell gaming mouse, built to save desk space without sacrificing performance. Responsive linear Red switches deliver smooth keystrokes with minimal resistance and quick actuation, ideal for both gaming and fast typing, while two adjustable feet stands let you set a comfortable typing angle for extended sessions. The included mouse weighs just 95g thanks to its perforated honeycomb shell, using a high-precision 3200 DPI optical sensor rated for 5 million clicks, with 5 programmable buttons and multicolour RGB lighting adding both function and flair to any gaming setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13_9b4d076e-f59f-48e0-8b8b-24464652f4eb.png",
+        "alt": "Thunder10 60% Keyboard & Mouse Combo - Carbon Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Layout": "60% Compact",
+        "Switch Type": "Red Linear",
+        "Mouse Weight": "95g ± 5g",
+        "Mouse DPI": "3200",
+        "Mouse Buttons": "5 Programmable",
+        "Color": "Carbon Black",
+        "KEYBOARD LAYOUT": "60% Compact",
+        "SWITCH TYPE": "Red Linear",
+        "MOUSE WEIGHT": "95g ± 5g",
+        "MOUSE DPI": "3200",
+        "MOUSE BUTTONS": "5 Programmable",
+        "COLOR": "Carbon Black",
+        "Offer Price (INR)": "₹1,899.00",
+        "MRP (INR)": "₹4,499.00",
+        "SKU": "AEPP0282"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/thunder10-60-combo-red-switch-black"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "Small Appliances",
+    "category_url": "https://www.intex.in/collections/small-appliances",
+    "subcategory": "Dry Iron",
+    "subcategory_url": "https://www.intex.in/collections/dry-iron",
+    "series": "Iron",
+    "series_url": "https://www.intex.in/collections/iron",
+    "tab_title": "Dry Iron",
+    "tab_id": "9257124757722",
+    "breadcrumbs": [
+      "Home",
+      "Small Appliances",
+      "Dry Iron",
+      "Intex GlideX Pro Heavy Dry Iron 1000W"
+    ]
+  },
+  "card_info": {
+    "product_id": "9257124757722",
+    "product_name": "Intex GlideX Pro Heavy Dry Iron 1000W",
+    "product_title": "Intex GlideX Pro Heavy Dry Iron 1000W",
+    "product_url": "https://www.intex.in/products/intex-glidex-pro-heavy-dry-iron-1000w",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-08.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2499.0,
+      "display": "₹2,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-glidex-pro-heavy-dry-iron-1000w.html",
+  "detail": {
+    "title": "Intex GlideX Pro Heavy Dry Iron 1000W",
+    "model": "GlideX Pro",
+    "brand": "Intex",
+    "overview": "Upgrade your ironing experience with the Intex GlideX Pro Heavy Dry Iron (1000W) , designed for powerful performance and smooth results. Built with a durable heavy-weight body, this iron ensures effortless wrinkle removal even on tough fabrics. The advanced thermostat control maintains consistent heat, while multiple temperature settings allow you to safely iron a variety of fabrics. Equipped with auto cut-off for enhanced safety and a shock-proof body , GlideX Pro offers both performance and peace of mind. Perfect for everyday home use, this iron delivers fast heating, uniform heat distribution, and long-lasting durability.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-08.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-01.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-02.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-03.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-04.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-05.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-06.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Glidex_pro-07.jpg",
+        "alt": "Intex GlideX Pro Heavy Dry Iron 1000W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "General": {
+        "Brand": "Intex",
+        "Model Name": "GlideX Pro",
+        "Type": "Dry Iron",
+        "Power Consumption": "1000 Watts",
+        "Voltage": "220-240V",
+        "Body Type": "Shock Proof",
+        "Temperature Control": "Adjustable Thermostat",
+        "Auto Shut-Off": "Yes",
+        "Indicator Light": "Yes",
+        "Cord Type": "Flexible Swivel Cord",
+        "Model": "GlideX Pro"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Glidex_Pro_Iron_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-glidex-pro-heavy-dry-iron-1000w"
+  }
+}

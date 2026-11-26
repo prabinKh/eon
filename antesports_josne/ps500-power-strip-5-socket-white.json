@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "PS500 Power Strip - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348821807395",
+    "product_name": "PS500 Power Strip - White",
+    "product_title": "PS500 Power Strip - White",
+    "product_url": "https://antesports.com/products/ps500-power-strip-5-socket-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28_7eefc866-bc5d-4d88-afab-c1e53d2f3b4b.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps500-power-strip-5-socket-white.html",
+  "detail": {
+    "title": "PS500 Power Strip - White",
+    "model": "AEPP0161",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS500 packs 5 three-pin universal sockets into a single 2500W power strip, built to run demanding appliances like air conditioners, refrigerators and TVs alongside everyday electronics. A 3-metre heavy-duty cord with 1.25mm² pure copper wiring delivers reliable current, while intelligent chipsets provide over-voltage protection and a high-temperature fuse shuts down power completely if things overheat. Its wall-mountable design and child-safe covered plugs make it a practical, secure choice for households with young children, and safety shutters add an extra layer of protection for daily home or office use. Backed by a 1-year international warranty for genuine peace of mind.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28_7eefc866-bc5d-4d88-afab-c1e53d2f3b4b.jpg",
+        "alt": "PS500 Power Strip - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Sockets": "5 Universal",
+        "Power Rating": "2500 Watt",
+        "Cord Length": "3 Meter",
+        "Mounting": "Wall Mountable",
+        "Protection": "Overload, Overheat, Short Circuit",
+        "Color": "White",
+        "SOCKETS": "5 Universal",
+        "POWER RATING": "2500 Watt",
+        "CORD LENGTH": "3 Meter",
+        "MOUNTING": "Wall Mountable",
+        "PROTECTION": "Overload, Overheat, Short Circuit",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹409.00",
+        "MRP (INR)": "₹1,899.00",
+        "SKU": "AEPP0161"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps500-power-strip-5-socket-white"
+  }
+}

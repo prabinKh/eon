@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Mobile Accessories",
+    "subcategory_url": "https://antesports.com/collections/mobile-accessories",
+    "series": "Mobile Accessories Series",
+    "series_url": "https://antesports.com/collections/mobile-accessories",
+    "tab_title": "Mobile Accessories",
+    "tab_id": "508173648163",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Mobile Accessories",
+      "META Pencil 200 Active Stylus - Magnetic, POM Tip, White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10343745585443",
+    "product_name": "META Pencil 200 Active Stylus - Magnetic, POM Tip, White",
+    "product_title": "META Pencil 200 Active Stylus - Magnetic, POM Tip, White",
+    "product_url": "https://antesports.com/products/meta-pencil-200-active-stylus-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/meta-pencil-200-active-stylus-white.html",
+  "detail": {
+    "title": "META Pencil 200 Active Stylus - Magnetic, POM Tip, White",
+    "model": "ANTR0160",
+    "brand": "Ant Esports",
+    "overview": "The Ant META Pencil 200 is an active stylus built for iPad, Android tablets and smartphones, giving students, designers and note-takers precise, pressure-free control for writing and drawing. Its fine 1.5mm POM tip glides smoothly across the screen with high sensitivity and no perceptible lag, while a magnetic design lets it attach securely to a compatible device for storage and easy carrying. Type-C fast charging tops it up quickly, and a full charge delivers 8-10 hours of continuous writing or drawing time, making it easy to get through a full day of classes or creative work without needing a mid-session recharge.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12.png",
+        "alt": "META Pencil 200 Active Stylus - Magnetic, POM Tip, White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Tip": "1.5mm POM, Precision",
+        "Charging": "Type-C Fast Charging",
+        "Battery Life": "8-10 Hours",
+        "Attachment": "Magnetic Design",
+        "Compatibility": "iPad, Android Tablets & Smartphones",
+        "Color": "White",
+        "TIP": "1.5mm POM, Precision",
+        "CHARGING": "Type-C Fast Charging",
+        "BATTERY LIFE": "8-10 Hours",
+        "ATTACHMENT": "Magnetic Design",
+        "COMPATIBILITY": "iPad, Android Tablets & Smartphones",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹729.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0160"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/meta-pencil-200-active-stylus-white"
+  }
+}

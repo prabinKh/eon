@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "All-gigabit PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/all-gigabit-poe-switch",
+    "tab_title": "All-gigabit PoE Switch",
+    "tab_id": "8397",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "All-gigabit PoE Switch",
+      "All-gigabit PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "30127",
+    "product_name": "PFS4420-16GT-240",
+    "product_title": "16-Port PoE Gigabit Managed Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs4420-16gt-240",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20190318/PFS4420-16GT-240_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs4420-16gt-240.html",
+  "detail": {
+    "title": "16-Port PoE Gigabit Managed Switch",
+    "model": "PFS4420-16GT-240",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20190318/PFS4420-16GT-240_thumb.png",
+        "alt": "PFS4420-16GT-240",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs4420-16gt-240"
+  }
+}

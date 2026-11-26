@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8857064538330",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Washing Machine",
+      "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT"
+    ]
+  },
+  "card_info": {
+    "product_id": "8857064538330",
+    "product_name": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+    "product_title": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+    "product_url": "https://www.intex.in/products/sa14bdpt-14-kg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 25999.0,
+      "display": "₹25,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa14bdpt-14-kg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+    "model": "SA14BDPT",
+    "brand": "Intex",
+    "overview": "Intex SA14BDPT | 14 kg Semi-Automatic Washing Machine The Intex SA14BDPT 14 KG washing machine is made for heavy-duty laundry tasks with its large capacity and durable anti-corrosive body. Designed for efficient washing, it features a 5-roller pulsator, salt water compatibility, and rubber vibration pads. It offers user-friendly features like an in-built detergent box, dual waterfall, and dual magic filters. The air dry window ensures faster drying while keeping spinning noise to a minimum. Ideal for families looking for power, performance, and value.",
+    "features": [
+      "14 KG Huge Wash Capacity",
+      "Anti-Corrosive Rust-Free Body",
+      "In-built Detergent Box",
+      "5 Roller Design Pulsator for Effective Washing",
+      "Salt Water Technology for Tough Stains",
+      "Powerful Motor with TOP Technology",
+      "Rubber Pads for Vibration Control",
+      "Dual Magic Filter for Lint Removal",
+      "Dual Waterfall for Uniform Detergent Mixing",
+      "Air Dry Window for Faster Drying",
+      "Noise-Free Spinning Operation"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-1.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-2.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-3.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-4.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-5.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-6.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-7.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/14KG-PDP-8.jpg",
+        "alt": "Intex 14 KG Semi-Automatic Washing Machine (Burgundy & White) - SA14BDPT",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "14 KG Huge Wash Capacity",
+        "Feature 2": "Anti-Corrosive Rust-Free Body",
+        "Feature 3": "In-built Detergent Box",
+        "Feature 4": "5 Roller Design Pulsator for Effective Washing",
+        "Feature 5": "Salt Water Technology for Tough Stains",
+        "Feature 6": "Powerful Motor with TOP Technology",
+        "Feature 7": "Rubber Pads for Vibration Control",
+        "Feature 8": "Dual Magic Filter for Lint Removal",
+        "Feature 9": "Dual Waterfall for Uniform Detergent Mixing",
+        "Feature 10": "Air Dry Window for Faster Drying",
+        "Feature 11": "Noise-Free Spinning Operation"
+      },
+      "General": {
+        "Model": "SA14BDPT"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/SA14BDPT_-PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa14bdpt-14-kg-semi-automatic-washing-machine"
+  }
+}

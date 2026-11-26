@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Emergency Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm",
+    "series": "Accessory",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/emergency-alarm/accessory",
+    "tab_title": "Accessory",
+    "tab_id": "15707",
+    "breadcrumbs": [
+      "Alarms",
+      "Emergency Alarm",
+      "Accessory",
+      "Accessory"
+    ]
+  },
+  "card_info": {
+    "product_id": "124887",
+    "product_name": "ARA58-F-AUX",
+    "product_title": null,
+    "product_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm/accessory/ara58-f-aux=v2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230223/ARA58-F-EN-V2_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara58-f-aux-v2.html",
+  "detail": {
+    "title": "ARA58-F-AUX",
+    "model": "ARA58-F-AUX",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARA58-F-AUX Key Points > Simple installation. > Supports GSM/WCDMA/LTE-FDD/LTE-TDD. > Supports connecting the platform through wireless network. > Used with Emergency Phone Tower. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230223/ARA58-F-EN-V2_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230223/ARA58-F-EN-V2_2_thumb.png",
+        "alt": "ARA58-F-EN-V2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Port": {
+        "Network Mode": "ARA58-F-EN-V2: GSM: 900/1800MHz, WCDMA: B1/B5/B8, LTE-FDD: B1/B3/B5/B7/B8/B20, LTE-TDD: B38/B40/B41 ARA58-F-AUX-V2: GSM: 850/900/1800/1900MHz, WCDMA: B1/B2/B5/B8, LTE-FDD: B1/B2/B3/B4/B5/B7/B8/B28, LTE-TDD: B40"
+      },
+      "General": {
+        "Power Consumption": "4 W",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Storage Temperature": "–40 °C to +80 °C (–40 °F to +176 °F)",
+        "Packaging Dimensions": "83 mm × 58 mm × 258 mm (3.27\" × 2.28\" × 10.16\"); 83 mm × 58 mm × 260 mm (3.27\" × 2.28\" × 10.24\")",
+        "Net Weight": "< 90 g (0.20 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARA58-F-EN-V2_datasheet_20220915.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual 4G Module(AUX)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009926/202411/4G_Module(AUX)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-08-24 #Drawings ARA58-F-AUX-V2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65877/drawings/ARA58-F-AUX-V2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm/accessory/ara58-f-aux=v2"
+  }
+}

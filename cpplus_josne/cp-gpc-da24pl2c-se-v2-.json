@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "Analog",
+    "category_url": "https://cpplusworld.com/products/analog",
+    "subcategory": "Guard+",
+    "subcategory_url": "https://cpplusworld.com/products/guard-plus/analog",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Guard+",
+    "tab_id": "139",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Guard+",
+      "Analog",
+      "CP-GPC-DA24PL2C-SE-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2249",
+    "product_name": "CP-GPC-DA24PL2C-SE-V2",
+    "product_title": "CP-GPC-DA24PL2C-SE-V2",
+    "product_url": "https://cpplusworld.com/cp-gpc-da24pl2c-se-v2-",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/8cc5008c-57ce-4c1a-adca-ce3c6f26f76d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-gpc-da24pl2c-se-v2-.html",
+  "detail": {
+    "title": "CP-GPC-DA24PL2C-SE-V2",
+    "model": "CP-GPC-DA24PL2C-SE-V2",
+    "brand": "CP Plus",
+    "overview": "2.4MP Full-color Guard+ Dome Camera - 20Mtr.",
+    "features": [
+      "1/2.8\" 2.4MP CMOS Image Sensor (0.9071 centimetres)",
+      "Max. 2.4MP@25/30fps",
+      "DWDR, Day/Night, 3D NR, BLC, HLC, AWB, AGC",
+      "3.6mm Fixed lens (2.8mm Optional)",
+      "IR Range of 20 Mtr., IP67",
+      "Support 24/7 color Imaging",
+      "Support Built-in Mic",
+      "CVI/CVBS/AHD/TVI switchable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8cc5008c-57ce-4c1a-adca-ce3c6f26f76d.png",
+        "alt": "CP-GPC-DA24PL2C-SE-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/25190bea-aa1a-4ca4-8bd7-482e88d8a376.png",
+        "alt": "CP-GPC-DA24PL2C-SE-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Minimum Illumination": "PAL: 1/25 s–1/100000 s                                                                                                                                               NTSC: 1/30 s–1/100000 s",
+        "Shutter Speed": "PAL: 1/25~1/100000s  NTSC: 1/30~1/100000s",
+        "White Balance": "Auto, Area white balance",
+        "Lens": "3.6mm (2.8mm Optional)",
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M14",
+        "Max Aperture": "F1.6",
+        "IR Control": "Auto/Manual",
+        "IR Mode": "Smart Light",
+        "IR Number": "2 (Warm light)",
+        "IR Range": "IR Range of 20 Mtr.",
+        "Iris Control": "Fixed",
+        "S/N Ratio": ">55dB",
+        "Close Focus Distance": "3.6 mm: 1.3 m                                                                                                                                                     2.8 mm: 0.7 m",
+        "DORI Distance": "3.6mm: 59.0 m (Detect), 23.6 m  (Observe), 11.8 m (Recognize), 5.9 m (Identify)                               2.8mm: 42.2 m (Detect), 16.9 m (Observe), 8.4 m (Recognize), 4.2m (Identify)",
+        "Noise Reduction": "3D NR",
+        "Gain Control (AGC)": "Auto",
+        "Back Light Comp.": "BLC/ HLC/ DWDR",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360°",
+        "Angle of View": "3.6 mm: H: 84°; V: 43°; D: 102°",
+        "Resolution": "1080P (1920 × 1080), 960H (960 × 576/960 × 480)",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Video Streaming": "CVI: PAL: 1080p@25 fps, NTSC: 1080p@30 fps                                                                                     AHD: PAL: 1080p@25 fps, NTSC: 1080p@30 fps                                                                                           TVI: PAL: 1080p@25 fps, NTSC: 1080p@30 fps                                                                                       CVBS: PAL: 960H, NTSC: 960H",
+        "Mirror": "Support",
+        "Privacy Mask": "Off/On (8 area, rectangle)",
+        "Power Source": "12 VDC ± 30%",
+        "Power Consumption": "Max 3.3 W (12 V DC, LED on)",
+        "Operating Temperature": "–40°C to +60°C",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40°C to +60°C",
+        "Weatherproof Standard": "IP67",
+        "Dimension": "Φ97.1 mm × 93.8 mm",
+        "Weight": "170g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-GPC-DA24PL2C-SE-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-gpc-da24pl2c-se-v2-"
+  }
+}

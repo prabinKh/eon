@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "2.4 MP",
+    "category_url": "https://cpplusworld.com/products/2.4-mp",
+    "subcategory": "Analog HD Camera",
+    "subcategory_url": "https://cpplusworld.com/products/analog-hd-camera/2-4-mp",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Analog HD Camera",
+    "tab_id": "71",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Analog HD Camera",
+      "2.4 MP",
+      "CP-URC-TC24PL3"
+    ]
+  },
+  "card_info": {
+    "product_id": "2034",
+    "product_name": "CP-URC-TC24PL3",
+    "product_title": "CP-URC-TC24PL3",
+    "product_url": "https://cpplusworld.com/cp-urc-tc24pl3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/04054a3b-258b-4c9e-b09e-2d8772ea45a1.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-urc-tc24pl3.html",
+  "detail": {
+    "title": "CP-URC-TC24PL3",
+    "model": "CP-URC-TC24PL3",
+    "brand": "CP Plus",
+    "overview": "2.4MP IR Bullet Camera - 30Mtr.",
+    "features": [
+      "2.4MP PS CMOS Image Sensor",
+      "Max. 2.4MP (1920 x 1080)@25/30fps",
+      "DWDR, Day/Night (ICR), 2D DNR, AWB, AGC, BLC",
+      "3.6mm Fixed lens (2.8mm and 6mm optional)",
+      "IR Range of 30 Mtrs., IP67",
+      "OSD Menu, control over coaxial cable, 2D-DNR",
+      "CVI/CVBS/AHD/TVI switchable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/04054a3b-258b-4c9e-b09e-2d8772ea45a1.png",
+        "alt": "CP-URC-TC24PL3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/28001cff-ce24-4b8f-958e-3bfcbec7b174.png",
+        "alt": "CP-URC-TC24PL3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "2.4MP PS CMOS Image Sensor",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Minimum Illumination": "0.02 lux@F2.0 (Color, 30 IRE), 0.002 lux@F2.0 (B/W, 30 IRE), 0 lux (IR on",
+        "Shutter Speed": "PAL: 1/25 s–1/100,000 s, NTSC: 1/30 s–1/100,000 s",
+        "Lens": "3.6mm (2.8mm and 6mm optional)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–90°, Rotation: 0°–360°",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Max. Aperture": "F2.0",
+        "Angle of View": "3.6 mm: H: 80°, V: 43°, D: 94°; 2.8 mm: H: 100°, V: 54°, D: 117°; 6 mm: H: 43°, V: 24°,",
+        "Close Focus Distance": "3.6 mm: 0.8 m; 2.8 mm: 0.5 m; 6 mm: 2.4 m",
+        "DORI Distance": "3.6mm– 55.0m (Detect), 22.0m (Observe), 11.0m (Recognize), 5.5m (Identify)  2.8mm– 44.7m (Detect), 17.9m (Observe), 8.9m (Recognize), 4.5m (Identify)  6mm– 102.9m (Detect), 41.1m (Observe), 20.6m (Recognize), 10.3 (Identify)",
+        "Back Light Compensation": "BLC/DWDR",
+        "Iris Control": "Fixed",
+        "White Balance": "Auto",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Noise Reduction": "2D DN",
+        "Gain Control (AGC)": "Auto",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Resolution": "1080p (1920 × 1080), 960H (960 × 576/960 × 480)",
+        "Frame Rate": "CVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps AHD: PAL: 1080p@25 fps NTSC: 1080p@30 fps  TVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "IR Mode": "Smart IR",
+        "IR": "IR Range of 30 Mtr.,",
+        "IR Control": "Auto",
+        "Operating Temperature": "-40°C ~ +60°C (-40°F ~ +140°F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Power Source": "12V DC ±30%",
+        "Power Consumption": "Max. 2.8 W (12 VDC, IR on)",
+        "Dimension": "146.1 mm × 70.0 mm × 69.8 mm",
+        "Weight": "0.15 Kg."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-TC24PL3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-tc24pl3"
+  }
+}

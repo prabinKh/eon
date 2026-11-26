@@ -1,0 +1,241 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "Special Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/special-series",
+    "tab_title": "Positioning Systems",
+    "tab_id": "282",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "Special Series",
+      "Positioning Systems"
+    ]
+  },
+  "card_info": {
+    "product_id": "151970",
+    "product_name": "PTZ4M231-HNR-GA-GHW",
+    "product_title": "2MP 31x IR Wizmind Portable Network Positioning System (Without Battery)",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/positioning-systems/ptz4m231-hnr-ga-ghw",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678141_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ptz4m231-hnr-ga-ghw.html",
+  "detail": {
+    "title": "2MP 31x IR Wizmind Portable Network Positioning System (Without Battery)",
+    "model": "PTZ4M231-HNR-GA-GHW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PTZ4M231-HNR-GA-GHW 2MP 31x IR Wizmind Portable Network Positioning System (Without Battery) Key Points • High-Quality Imaging with 2MP Resolution • 31x Optical Zoom Provides Detailed Long-Range Surveillance • 1/1.8\" CMOS Sensor Ensures Premium Images • Expansive Night View With up to 100m IR Distance for 24/7 Monitoring • Auto Tracking 3.0：Effective Target Monitoring with Detailed Intruder Trajectories • Real-Time Communication via Built-In Two-Way Talk • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678141_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391659708_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391659706_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678147_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678149_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678150_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678151_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391659709_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15118/ProductImage/1_0_01_07_15118_1391678144_crop_thumb.png",
+        "alt": "PTZ4M231-HNR-GA-GHW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "4 GB",
+        "RAM": "1 GB",
+        "Electronic Shutter Speed": "1s–1/30,000s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.001 lux@F1.6 (Color, 30 IRE); 0.0001 lux@F1.6 (B/W, 30 IRE); 0 lux (illuminator on)",
+        "Illumination Distance": "100 m (328.08 ft) (IR)",
+        "Illuminator On/Off Control": "Zoom Prio; Manual; Auto; Off",
+        "Illuminator Number": "3 (IR light)",
+        "Focal Length": "6 mm–186 mm",
+        "Max. Aperture": "F1.6–F4.0",
+        "Field of View": "H: 59.8°–2.8°; V: 33.7°–1.9°; D: 63.3°–4°",
+        "Optical Zoom": "31 ×",
+        "Focus Control": "Auto; Semi-Auto; Manual",
+        "Iris Control": "Auto; Manual",
+        "DORI Distance": "Detect",
+        "2565.5 m (8416.99 ft)": "1013.4 m (3324.80 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 360° endless; Tilt: -90 ° to +30°",
+        "Manual Control Speed": "Pan: 0.1°/S–120°/s; Tilt: 0.1°/S–70°/s",
+        "Preset Speed": "Pan: 0.1°/S–169°/s Tilt: 0.1°/S–160°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Pattern; Preset; Scan; Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)",
+        "Video Metadata": "Supports detection of motor vehicles, non-motor vehicles, faces and human bodies, optimization, capturing pictures, and uploading high-quality face snapshots. It extracts attributes from motor vehicles, detecting up to 10 attributes for them.",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; crossing fence detection; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; human alarm classification; linkage tracking",
+        "Face Detection": "Supports face detection, optimization, capturing pictures, uploading high-quality face snapshots and enhancing face images. Attribute Extraction is also supported, where 6 attributes and 8 expressions can be detected. Face cutout is also offered, where you can cutout one face at a time and customize the size to be a one-inch photo. The supported methods for capturing snapshots are real-time capturing, quality first, and selecting a preferred image among a group of snapshots.",
+        "Construction Monitoring": "Detects 6 helmet colors: Red, orange, yellow, blue, white, and black. An alarm will be triggered when a person is not wearing a helmet or when the color of the helmet that they are wearing does not match the configured color. It also supports compliance detection for work uniforms. Up to 5 work uniform sample libraries can be uploaded, which together can contain up to 1,000 images (the images must be 1080p and in the JPG format). An alarm will be triggered when the similarity between the detected work uniform and the samples in the library is below the set threshold (that is, below the minimum compliance standard for work uniforms). The system supports detecting the attributes of work uniforms such as the color of the uniform, and whether or not the person is wearing a mask and wearing shoe covers. An alarm will be triggered when the target is detected as not meeting the set requirements. It also detects and triggers alarms when only one person is in the construction site, and when no one is present in the detection area such as when a worker leaves their post or an area is left unmanned.",
+        "Auto Tracking": "Yes",
+        "SMD": "SMD4.0",
+        "Quick Pick": "Yes",
+        "Sound Warning": "Offers 27 types of sound alarms, and supports importing custom sound alarms. The sound level is high, medium and low, and the alarm duration is 5 s–30 s.",
+        "Video Compression": "H.264H; H.264B; Smart H.265+; H.264; H.265; MJPEG (Sub Stream); Smart H.264+",
+        "Resolution": "1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Video Frame Rate": "Main stream: 1080p/1.3M/720p @(1-25/30 fps) Sub stream 1: D1/CIF@ (1-25/30 fps) Sub stream 2: 1080p/1.3M/720p/CIF @(1-25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H264: 64 Kbps–10,496 Kbps H265: 25 Kbps–6,400 Kbps",
+        "Day/Night": "Auto (ICR)",
+        "BLC": "Yes",
+        "WDR": "140 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Electronic (EIS)",
+        "Defog": "Electronic",
+        "Digital Zoom": "16 ×",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Up to 24 areas can be set, with up to 8 areas in the same view; Multiple colors available",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; MPEG2-Layer2; G722.1; G729; G723",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "Yes",
+        "Wi-Fi Standard": "IEEE802.11a; IEEE802.11b; IEEE802.11g; IEEE802.11ac; IEEE802.11n",
+        "Wi-Fi Frequency Range": "2.4 GHz;5 GHz",
+        "Wi-Fi Transmission Rate": "433.3 Mbps",
+        "Carrier Network System": "LTE-FDD/LTE-TDD/WCDMA/GSM",
+        "Wireless Carrier Frequency Band": "LTE-TDD: Tri-band Band 38/40/41 LTE-FDD: Hepta-band Band 1/3/5/7/8/20/28 WCDMA: Tri-band Band 1/5/8 GSM: Tri-band 850/900/1800",
+        "Max Transmission Power": "4G: Power class3: 23 dBm ± 2 dB 3G: Power class3: 24 dBm + 1/-3 dB 2G: Power class0: 30 dBm ± 2 dB (GSM1800) Power class5: 33 dBm ± 2 dB (GSM850/900)",
+        "Network Protocol": "FTP; RTMP; IPv6; Bonjour; IPv4; DNS; RTCP; PPPoE; NTP; RTP; 802.1x; HTTPS; SNMP; TCP/IP; DDNS; UPnP; NFS; ICMP; UDP; IGMP; HTTP; SSL; DHCP; SMTP; Qos; RTSP; ARP",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI; SDK; P2P",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "Micro SD card (512 GB); FTP/SFTP; NAS",
+        "Browser": "IE 9 and later versions; Chrome 41 and later versions; Firefox 52 and later versions; Safari 10 and later versions",
+        "Management Software": "DMSS; DSS Pro",
+        "Mobile Client": "iOS; Android",
+        "RS-485": "1 (baud rate: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire,built-in mic (mutually exclusive))",
+        "Audio Output": "1 channel (LINE OUT,bare wire;built-in speaker (mutually exclusive))",
+        "Alarm Input": "1 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "1 channel",
+        "Alarm Linkage": "Capture; recording; send email; preset; tour; pattern; alarm digital output; audio",
+        "Alarm Event": "Motion/tampering detection; network disconnection detection; IP conflict detection; audio detection; memory card state detection; memory space detection",
+        "Power Supply": "12 VDC, 5 A ± 10% (included)",
+        "Power Output": "5 V, 1 A",
+        "Battery Life on a Full Charge": "10 h, The PTZ is set to not move by default, videos can be stored on the SD card, and Bluetooth, Wi-Fi, AP, Mic, speaker and SIM1/2 are disabled by default.",
+        "Power Consumption": "Basic: 8 W; Max: 38 W (illuminator + PTZ + battery)",
+        "Operating Temperature": "–20 °C to +55 °C (–4 °F to +131 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "TVS 6000 V lightning proof; IP66; surge protection; voltage transient protection",
+        "Casing Material": "Aluminum alloy ADC12, magnesium alloy AZ91D",
+        "Product Dimensions": "Φ160 mm × 265 mm (bare machine) 480 mm × 350 mm × 220 mm (L × W × H) (aluminum trolley case)",
+        "Net Weight": "3.8 kg (8.38 lb)",
+        "Gross Weight": "12.5 kg (27.56 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-PTZ4M231-HNR-GA-GHW_S0_datasheet_20251114.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Base Charger_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81561/user_manual/Base_Charger_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81561/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Positioning System_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81561/user_manual/Positioning_System_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-10-08 #A&E Document PTZ4M231-HNR-GA-GHW_A&E_20260918001954 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81561/a_e_document/1789662061288.docx"
+      },
+      {
+        "name": "2023-10-11 #Drawings PTZ4M231-HNR-GA-GHW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13197/drawings/PTZ4M231-HNR-XA-GHW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-10-11 #Drawings PTZ4M231-HNR-GA-GHW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81561/drawings/PTZ4M231-HNR-GA-GHW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-29 #Firmware DH_SD-Taurus_MultiLang_PN_Stream3-Normal_V3.200.0000028.6.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/60047/firmware/DH_SD-Taurus_MultiLang_PN_Stream3-Normal_V3.200.0000028.6.R.260514.zip"
+      },
+      {
+        "name": "2026-03-20 #Firmware General_PTZ4MXXX-HN-GA_MCU_V2.401.0000002.99.R.260209 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81561/firmware/General_PTZ4MXXX-HN-GA_MCU_V2.401.0000002.99.R.260209.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/positioning-systems/ptz4m231-hnr-ga-ghw"
+  }
+}

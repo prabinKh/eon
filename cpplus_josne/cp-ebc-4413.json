@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Body Worn camera",
+    "category_url": "https://cpplusworld.com/products/body-worn-camera",
+    "subcategory": "Body Worn Solutions",
+    "subcategory_url": "https://cpplusworld.com/products/Body Worn Solutions/body-worn-camera",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Body Worn Solutions",
+    "tab_id": "55",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Body Worn Solutions",
+      "Body Worn camera",
+      "CP-EBC-4413"
+    ]
+  },
+  "card_info": {
+    "product_id": "1653",
+    "product_name": "CP-EBC-4413",
+    "product_title": "CP-EBC-4413",
+    "product_url": "https://cpplusworld.com/cp-ebc-4413",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f60721eb-4a0c-4081-aaa6-34e7a16abce4.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ebc-4413.html",
+  "detail": {
+    "title": "CP-EBC-4413",
+    "model": "CP-EBC-4413",
+    "brand": "CP Plus",
+    "overview": "4MP Body Worn Camera",
+    "features": [
+      "Supports 2560 x 1440P HD recording",
+      "Supports 58MP Picture Capture",
+      "Support 120 degree wide angle",
+      "Support 10 meters night vision",
+      "Support IP67",
+      "Supports 12 hours continues recording based on resolution 720P@30fps",
+      "Support overwrite automatically when SD card is Full"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f60721eb-4a0c-4081-aaa6-34e7a16abce4.jpg",
+        "alt": "CP-EBC-4413 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/c2a96208-2e9c-41c7-a4c5-c04a7cd1722e.jpg",
+        "alt": "CP-EBC-4413 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Screen": "2.0 inch color screen",
+        "Video Compression": "H.264",
+        "Pre-recording": "Supported, up to 60 seconds",
+        "Post-recording": "5s to 10mins",
+        "Resolution": "2560 x 1440, 2304 x 1296, 1920 x 1080, 1280 x 720, 848 x 480 (optional)",
+        "Storage": "Standard is 32GB, up to 512GB (Micro SD card)",
+        "Working hours": "720P continues working around 12 hours, 1080P 11 hours.",
+        "Battery": "2700mAh",
+        "Night Vision": "Support",
+        "Drop resistance": "2 meters",
+        "Charging time": "About 3.5 Hours",
+        "IR": "IR Distance Up to 10 Meters",
+        "Weatherproof Standard": "IP67",
+        "Operating Temperature": "-10°C~ +60°C",
+        "Dimension": "84mm x 56mm x 27mm",
+        "Weight": "118g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EBC-4413.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/da052990-2624-4517-997c-70f840bde483.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ebc-4413"
+  }
+}

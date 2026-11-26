@@ -1,0 +1,135 @@
+{
+  "hierarchy": {
+    "category": "Video Storage",
+    "category_url": "https://cpplusworld.com/products/video-storage",
+    "subcategory": "Storage",
+    "subcategory_url": "https://cpplusworld.com/products/storage/video_storage",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Storage",
+    "tab_id": "151",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Storage",
+      "Video Storage",
+      "CP-UVS-G24R-J"
+    ]
+  },
+  "card_info": {
+    "product_id": "1842",
+    "product_name": "CP-UVS-G24R-J",
+    "product_title": "CP-UVS-G24R-J",
+    "product_url": "https://cpplusworld.com/cp-uvs-g24r-j",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/2c56910b-7346-4432-b64b-559f49e2c0fc.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-uvs-g24r-j.html",
+  "detail": {
+    "title": "CP-UVS-G24R-J",
+    "model": "CP-UVS-G24R-J",
+    "brand": "CP Plus",
+    "overview": "24HDD Embedded Video Storage",
+    "features": [
+      "Max 256 IP Camera Inputs",
+      "24 HDDs, SAS, Hot-Swap",
+      "Max 512 Mbps incoming/recording/forwarding bandwidth.",
+      "Standard dual controller for hardware redundancy",
+      "64-bit High-performance multi-core processor",
+      "Supports video stream/ Picture direct storage mode and   IPSAN storage mode",
+      "Supports video stream/ Picture direct storage mode and  IPSAN storage mode",
+      "Supports Automatic Network Replenishment (ANR)",
+      "SAS cascade for expanded storage space",
+      "1+1 redundant 80PLUS platinum power supply",
+      "Modular and drawer-like design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2c56910b-7346-4432-b64b-559f49e2c0fc.jpg",
+        "alt": "CP-UVS-G24R-J - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d98930a3-a68d-498f-9e45-291689f3201c.jpg",
+        "alt": "CP-UVS-G24R-J - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "64-bit high-performance multi-core processor",
+        "Controller": "Dual controller",
+        "Operating System": "Embedded LINUX",
+        "Cache": "8 GB by default (extendable to 32 GB)/controller",
+        "IP Camera Input": "256 Channel",
+        "User Interface": "Web",
+        "SAS": "1 × SAS (up to 12 Gbps)/controller",
+        "Network Port": "1 x 1-GbE management port/controller; 4 × 1-GbE LAN ports/controller",
+        "Network Port Extension": "4 × 1-GbE LAN ports/controller (optional)  2×10-GbE optical fiber ports/controller (optional)",
+        "eSATA": "1 × eSATA/controller",
+        "RS-232": "1 × DB9 /controller",
+        "USB": "2 × USB3.0 and 2 × USB2.0/controller",
+        "HDMI": "1 x HDMI/controller, only for debug",
+        "HDD Interface": "24 slots, SATA; SAS Max.20 TB/HDD hot swapping CMR support enterprise-grade HDD",
+        "Disk Bay": "24",
+        "RAID": "RAID 0/1/5/6/10/50/60; (with enterprise-grade HDD)",
+        "Disk Group": "Support",
+        "iSCSI": "Supports client and Server",
+        "Network Disk": "Supports client",
+        "Record Management": "Supports record control (continuous, event-based, scheduled, scheduled & event-based)",
+        "Storage Pool": "Support",
+        "Thermal Camera Compatibility": "Works with camera for fire alarm, temperature alarm, temperature difference alarm, hot spot,  cold spot, smoking and calling",
+        "AI by Camera": "Face detection, face recognition, IVS (abandoned object, missing object, loitering, crowd gath ering, parking, fence-crossing, fast moving, tripwire and intrusion), video metadata (human,  vehicle, non-motor vehicle), vehicle recognition, people counting (fisheye or people counting  camera required), face & body detection, crowd distribution, smart thermal (call detection,  visible channel- smoking detection, thermal channel-smoking detection)",
+        "People Counting": "Works with camera for tripwire people counting, regional people counting and queue people  counting",
+        "Video Direct Storage (Private  Protocol)": "Incoming: 256-channel (bandwidth: 512 Mbps)   Recording:256-channel (bandwidth: 512 Mbps)   Outgoing: 256-channel (bandwidth: 512Mbps)   Playback: 16-channel (bandwidth: 32Mbps)",
+        "Video Direct Storage (Onvif)": "Incoming: 256-channel (bandwidth: 512 Mbps)   Recording: 256-channel (bandwidth: 512 Mbps)   Outgoing: 256-channel (bandwidth: 512 Mbps)   Playback: 16-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Auto  Connect)": "Incoming: 256channel (bandwidth: 512 Mbps)   Recording:256-channel (bandwidth: 512 Mbps)   Outgoing: 256-channel (bandwidth: 512 Mbps)   Playback: 16-channel (bandwidth:32Mbps)",
+        "Picture Direct Storage": "Incoming: 120-channel (550 KB/picture)   Recording:120-channel (550 KB/picture)   Outgoing: 120-channel (550 KB/picture)",
+        "IPSAN Performance": "180-channel × 2 Mbps video stream writing and 12-channel × 2 Mbps video playback ( I/O size  of VMS is 64 KB)",
+        "Bullet-PTZ Smart Track": "Works with camera for manual tracking, auto tracking, click positioning and select positioning",
+        "Fisheye Dewarp": "Supports dewarping for fisheye cameras",
+        "Multi-channel Playback": "Web playback, max. 16-channel playback",
+        "Record Mode": "Auto record; manual record; search video detection; IO alarm; thermal imaging; intelligent  event; all record file",
+        "Storage": "Internal HDD and network disk",
+        "Browser": "Chrome; PCAPP; IE9 or higher; Firefox",
+        "Network Mode": "NIC binding mode such as multiple-address mode, load balance, fault-tolerance, link aggrega tion, etc",
+        "Backup": "HDD, peripheral USB storage device",
+        "Playback Function": "1. Play, pause, stop, fast forward, fast backward, reverse play, frame by frame  2. Full-screen, backup (clip; file), snapshot, digital zoom, audio on; off",
+        "General Alarm": "Motion detect; tampering; IPC external alarm",
+        "Anomaly Alarm": "IPC offline alarm; storage error; HDD full; video frame loss; SSD exception; IP conflict; MAC  conflict; login lock; fan malfunction; no HDD; network security exception; power exception;  disk health exception; RAID exception; storage pool exception; temperature alarm;   share service",
+        "Alarm Linkage": "Record; snapshot (full image); alarm uploading; remote device alarm output;  camera audio; buzzer; log; preset; email, smart tracking and warning light.  Disarming alarm linkage action by period or one-click sync disarm config with channels",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; InstaOn; iSCSI; FTP ;  SMB; NFS; ONVIF (Profile S); CGI; SDK",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Audio Compression": "G.711A; G.711U; PCM; G726",
+        "Power Redundancy": "1+1",
+        "Power Supply": "100–127V/200–240V AC, 50/60Hz, 5A/2.5A",
+        "Fan": "Intelligent speed regulation fan",
+        "Power Consumption": "<120 W (without HDD, idling)  <500 W (all HDDs connected)",
+        "Operating Temperature": "0°C to 45°C (+32°F to +113°F)",
+        "Operating Humidity": "10%–80% (RH) (non-condensation)",
+        "Operating Altitude": "≤5000 m",
+        "Dimension": "Chassis: 446 mm × 175mm × 736.5 mm (17.56",
+        "Net Weight": "29kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVS-G24R-J.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvs-g24r-j"
+  }
+}

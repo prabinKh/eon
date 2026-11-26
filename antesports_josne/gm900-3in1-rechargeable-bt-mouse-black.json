@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM900 Wireless Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923391779",
+    "product_name": "GM900 Wireless Gaming Mouse - Black",
+    "product_title": "GM900 Wireless Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/gm900-3in1-rechargeable-bt-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9_7d4562e9-5bde-4ca3-ac09-86a57ca13f18.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm900-3in1-rechargeable-bt-mouse-black.html",
+  "detail": {
+    "title": "GM900 Wireless Gaming Mouse - Black",
+    "model": "AEPP0198",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM900 is a 3-in-1 gaming mouse compatible with 2.4GHz wireless, Bluetooth and wired USB connectivity, letting you choose the mode that suits your setup at any moment. A built-in rechargeable battery paired with a dedicated charging dock removes the need for disposable batteries entirely, saving money over the mouse's lifetime while keeping it always ready for action. Its matte finish contrasts with a bright RGB rim around the base, customizable in effect, colour and brightness through dedicated drivers, and anti-slip side flanks ensure perfect control across palm, claw or fingertip grip styles. Each button is tested for over 5 million clicks, and the mouse is also compatible with PS4 and PS5 alongside PC, backed by a 1-year international warranty.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9_7d4562e9-5bde-4ca3-ac09-86a57ca13f18.jpg",
+        "alt": "GM900 Wireless Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz + Bluetooth + Wired",
+        "Power": "Rechargeable with Charging Dock",
+        "Durability": "5 Million Clicks",
+        "Lighting": "Customizable RGB",
+        "Compatibility": "PC, PS4, PS5",
+        "Color": "Black",
+        "CONNECTIVITY": "2.4GHz + Bluetooth + Wired",
+        "POWER": "Rechargeable with Charging Dock",
+        "DURABILITY": "5 Million Clicks",
+        "LIGHTING": "Customizable RGB",
+        "COMPATIBILITY": "PC, PS4, PS5",
+        "COLOR": "Black",
+        "SKU": "AEPP0198"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm900-3in1-rechargeable-bt-mouse-black"
+  }
+}

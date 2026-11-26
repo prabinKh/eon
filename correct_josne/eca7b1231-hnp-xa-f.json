@@ -1,0 +1,200 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Optical Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+    "tab_title": "Optical Series",
+    "tab_id": "1501",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Optical Series",
+      "Optical Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "113357",
+    "product_name": "ECA7B1231-HNP-XA-F",
+    "product_title": "2MP 31x Starlight IR EXPLOSION-PROOF CAMERA",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/eca7b1231-hnp-xa-f",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220906/ECA7B1231-HNP-XA-F_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/eca7b1231-hnp-xa-f.html",
+  "detail": {
+    "title": "2MP 31x Starlight IR EXPLOSION-PROOF CAMERA",
+    "model": "ECA7B1231-HNP-XA-F",
+    "brand": "Dahua",
+    "overview": "Favourite ECA7B1231-HNP-XA-F 2MP 31x Starlight IR EXPLOSION-PROOF CAMERA Key Points 1.Explosion-proof design: the camera has passed international ATEX & IECEx certifications 2.High protection with IP68 3.31× optical zoom provide close up views over expansive areas 4.100m IR illumination distance to realize 24/7 monitoring of different scenes 5.Built-in innovative AI algorithm CPU, the camera support SMD 4.0, perimeter protection, construction monitoring(includes helmet detection, helmet color recognition) and face detection 6.Support wiper to keep window clean 7.Built-in optical fiber interface Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220906/ECA7B1231-HNP-XA-F_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220906/ECA7B1231-HNP-XA-F_4_thumb.png",
+        "alt": "ECA7B1231-HNP-XA-F",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220906/ECA7B1231-HNP-XA-F_3_thumb.png",
+        "alt": "ECA7B1231-HNP-XA-F",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220906/ECA7B1231-HNP-XA-F_2_thumb.png",
+        "alt": "ECA7B1231-HNP-XA-F",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "4 GB",
+        "RAM": "1 GB",
+        "Electronic Shutter Speed": "1/1 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.001 lux@F1.6 B/W: 0.0001 lux@F1.6 0 lux (IR light on)",
+        "Illumination Distance": "100 m (328.08 ft)",
+        "Illuminator On/Off Control": "Zoom Prio; Manual; Smart IR; Off",
+        "Illuminator Number": "4 (IR)",
+        "Wiper": "Wiper",
+        "Focal Length": "6 mm–186 mm",
+        "Max. Aperture": "F1.6–F4.0",
+        "Field of View": "H: 59.8°–2.8°; V: 33.7°–1.9°; D: 63.3°–4°",
+        "Optical Zoom": "31×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Iris Control": "Auto; semi-auto; manual",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset;Tour",
+        "Video Metadata": "Motor vehicle, non-motor vehicle, face, and human body detection; tracking; optimization; capturing pictures; uploading high-quality face snapshots",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; climbing fences; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; vehicle/human alarm classification",
+        "Face Detection": "Supports face detection, optimization, face bounding box, capturing pictures, uploading high-quality face snapshots, and face enhancement; Supports attributes extraction. 6 attributes and 8 expressions: Gender, age, glasses, expressions (angry, sad, hate, scary, surprise, calm, happy and confused), mask, mustache; Supports face cutout: Face, one-inch photo. Capturing strategies include real-time capturing, optimization, and quality first",
+        "Job Monitoring": "Helmet detection; helmet color recognition",
+        "SMD": "Yes",
+        "Video Compression": "H.265;H.264;H.264B;MJPEG (Sub Stream);Smart H.264;Smart H.265",
+        "Streaming Capability": "3 streams",
+        "Resolution": "1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704×576/704×480); CIF (352×288/352×240)",
+        "Video Frame Rate": "Main stream: 1080p/1.3M/720p (1–25/30 fps) Sub stream 1: D1/CIF (1–25/30 fps) Sub stream 2: 1080p/1.3M/720p (1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 2816 kbps–8192 kbps H.265: 1024 kbps–7936 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "140 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Electronic (EIS)",
+        "Defog": "Electronic",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Up to 24 areas can be set, with up to 8 areas in the same view. It also supports multiple color blocks and mosaics.",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "G.711a; G.711Mu; G726; MPEG2-Layer2; G722.1; G729; PCM; G723",
+        "Network Port": "1 (crystal head, 10/100 Base-T)",
+        "Network Protocol": "HTTP;HTTPS;TCP/IP;IPv4;RTSP;UDP;SMTP;NTP;DHCP;DNS;DDNS;IPv6;802.1x;SSL;Qos;FTP;UPnP;ICMP;SNMP;SNMPv1/v2c/v3(MIB-2);IGMP;ARP;RTCP;RTP;PPPoE;IP Filter;RTMP;Bonjour;TCP;SMB;NFS",
+        "Interoperability": "ONVIF Profile S&G&T 35114 A level; CGI",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP: Micro SD card (256 G); NAS",
+        "Browser": "IE 7 and later versions Chrome 42 and earlier versions Firefox 52 and earlier versions Safari",
+        "Management Software": "DMSS; DSS Pro",
+        "Mobile Client": "iOS;Android;iPhone;iPad",
+        "Certifications": "FCC: 47 CFR FCC Part15, Subpart B, ClassA CE: EN55032/EN55024/EN55035/EN50130-4/EN 61000-3-3/EN IEC 61000-3-2/EN 62368-1 IECEx: IEC 60079-0/IEC 60079-1/IEC 60079-31 ATEX: IEC 60079-0/IEC 60079-1/IEC 60079-31",
+        "RS-485": "1 (baud rate: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel",
+        "Audio Output": "1 channel",
+        "Alarm Linkage": "Capture; preset; tour; pattern; recordings on SD card; alarm digital input; send email",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Optical Fiber": "100 M single fiber port Specifications: 1310 nm TX/1550 nm RX Transmission Distance: 20 km (12.43 mi)",
+        "Alarm I/O": "2/1",
+        "Audio I/O": "1/1",
+        "Power Supply": "100–240 VAC",
+        "Power Consumption": "Basic: 10 W Max.: 19 W (IR on)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP68",
+        "Casing Material": "Stainless steel",
+        "Product Dimensions": "192 mm × 488 mm × 284 mm (7.56\" × 19.21\" × 11.18\")",
+        "Net Weight": "10 kg (22.05 lb)",
+        "Gross Weight": "16 kg (35.27 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ECA7B1231-HNP-XA-F_S0_datasheet_20230727.pdf"
+      },
+      {
+        "name": "2025-08-14 #User Manual Dahua Network Speed Dome and PTZ Camera Web 5.0_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006461/202508/Dahua_Network_Speed_Dome_and_PTZ_Camera_Web_5.0_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-08-14 #User Manual Installation Guide_V1.0.0_(ECA7B1) Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006461/202508/Installation_Guide_V1.0.0_(ECA7B1).pdf"
+      },
+      {
+        "name": "2025-08-14 #User Manual Dahua Explosion-Proof Camera Web 3.0 User's Manual_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006461/202508/Dahua_Explosion-Proof_Camera_Web_3.0_User_27s_Manual_V2.0.0.pdf"
+      },
+      {
+        "name": "2025-08-14 #User Manual Dahua Explosion-Proof Camera (ECA7B1)_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006461/202508/Dahua_Explosion-Proof_Camera_(ECA7B1)_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-12-31 #A&E Document ECA7B1231-HNP-XA-F_A&E_20260604131836 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50097/a_e_document/1780567252348.docx"
+      },
+      {
+        "name": "2022-07-07 #Drawings ECA7B1231-HNP-XA-F_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50097/drawings/ECA7B1231-HNP-XA-F_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-08-09 #Drawings ECA7B1231-HNP-XA-F_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50097/drawings/ECA7B1231-HNP-XA-F_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-08-12 #Firmware DH_SD-Prometheus_MultiLang_PN_Stream3_V2.812.0000047.2.R.240723 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87910/firmware/DH_SD-Prometheus_MultiLang_PN_Stream3_V2.812.0000047.2.R.240723.zip"
+      },
+      {
+        "name": "2022-06-29 #Firmware General_ECW433XA-N-P_MCU_V2.401.0000002.9.R.220615 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2056108/M/General_ECW433XA-N-P_MCU_V2.401.0000002.9.R.220615.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/eca7b1231-hnp-xa-f"
+  }
+}

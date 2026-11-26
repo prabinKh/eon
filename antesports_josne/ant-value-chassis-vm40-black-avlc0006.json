@@ -1,0 +1,121 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "VM40 Gaming Cabinet Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416502563",
+    "product_name": "VM40 Gaming Cabinet Black",
+    "product_title": "VM40 Gaming Cabinet Black",
+    "product_url": "https://antesports.com/products/ant-value-chassis-vm40-black-avlc0006",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_f0c4ba78-c092-4acc-81fb-f333ce95d351.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-value-chassis-vm40-black-avlc0006.html",
+  "detail": {
+    "title": "VM40 Gaming Cabinet Black",
+    "model": "AVLC0006",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value Chassis VM40 Black is a premium office cabinet designed to deliver excellent performance for everyday computing, work, and office use. Featuring support for ATX, M-ATX, M-ITX motherboards, 4(3x Front, 1x Rear) pre-installed fans, and support for graphics cards up to 335mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for home and office users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_f0c4ba78-c092-4acc-81fb-f333ce95d351.png",
+        "alt": "VM40 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_c24160ef-4ec0-4485-ac10-dc7b272417a0.png",
+        "alt": "VM40 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_8bb7d283-25b6-4c49-ba76-c4edb30049aa.png",
+        "alt": "VM40 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_a6f0c5f8-eb95-47dc-996b-7d0f5f1cddcb.png",
+        "alt": "VM40 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "Value Cabinets",
+        "Product Type": "Cabinet",
+        "Length (mm)": "375",
+        "Width (mm)": "200",
+        "Height (mm)": "452",
+        "Volume (liters)": "34",
+        "Motherboard Support": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") Bays": "2",
+        "SSD (2.5\") Bays": "1",
+        "Front FAN Support": "3x120mm, 2x140mm",
+        "Top FAN Support": "3x120mm, 2x140mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Front AIO Support": "360mm",
+        "Top AIO Support": "240mm",
+        "Rear AIO Support": "120mm",
+        "Pre-Installed FANs": "4 (3x Front, 1x Rear)",
+        "Max. VGA Card Length (mm)": "335",
+        "Max. CPU Cooler Height (mm)": "160",
+        "I/O Panel": "1x USB 3.0, 2x USB",
+        "Expansion Slots": "7",
+        "SERIES": "Value Cabinets",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "375",
+        "WIDTH (MM)": "200",
+        "HEIGHT (MM)": "452",
+        "VOLUME (LITERS)": "34",
+        "MOTHERBOARD SUPPORT": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") BAYS": "2",
+        "SSD (2.5\") BAYS": "1",
+        "FRONT FAN SUPPORT": "3x120mm, 2x140mm",
+        "TOP FAN SUPPORT": "3x120mm, 2x140mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "FRONT AIO SUPPORT": "360mm",
+        "TOP AIO SUPPORT": "240mm",
+        "REAR AIO SUPPORT": "120mm",
+        "PRE-INSTALLED FANS": "4 (3x Front, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "335",
+        "MAX. CPU COOLER HEIGHT (MM)": "160",
+        "I/O PANEL": "1x USB 3.0, 2x USB",
+        "EXPANSION SLOTS": "7",
+        "Offer Price (INR)": "₹2,649.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AVLC0006"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-value-chassis-vm40-black-avlc0006"
+  }
+}

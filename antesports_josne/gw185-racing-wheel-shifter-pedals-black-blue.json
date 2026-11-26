@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Racing Wheels",
+    "subcategory_url": "https://antesports.com/collections/wheels",
+    "series": "Racing Wheels Series",
+    "series_url": "https://antesports.com/collections/wheels",
+    "tab_title": "Racing Wheels",
+    "tab_id": "508173680931",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Racing Wheels",
+      "GW185 Universal 270° Racing Wheel with Shifter & Pedals"
+    ]
+  },
+  "card_info": {
+    "product_id": "10342319948067",
+    "product_name": "GW185 Universal 270° Racing Wheel with Shifter & Pedals",
+    "product_title": "GW185 Universal 270° Racing Wheel with Shifter & Pedals",
+    "product_url": "https://antesports.com/products/gw185-racing-wheel-shifter-pedals-black-blue",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/gw185-racing-wheel-shifter-pedals-black-blue.html",
+  "detail": {
+    "title": "GW185 Universal 270° Racing Wheel with Shifter & Pedals",
+    "model": "AEPP0220",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GW185 is a USB-powered racing wheel with a 270-degree rotation range and an ergonomically simulated design, built to bring realistic drag-racing feel to PC, Xbox One, PS3, PS4, Nintendo Switch and Android TV. Built-in dual vibration motors sync haptic feedback to in-game action, while linear pedals give precise, progressive throttle control and racing-style paddle shifters plus a sequential shifter add authentic gear-changing feel. Sensitivity can be switched across three stages to match your preferred play style, and programmable buttons let you set up quick shortcuts for faster in-game access. A well-rounded, wired racing wheel for casual and semi-serious sim racers alike.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15.png",
+        "alt": "GW185 Universal 270° Racing Wheel with Shifter & Pedals - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Rotation": "270 Degrees",
+        "Vibration": "Dual Motor",
+        "Included": "Wheel, Gear Shifter, Linear Pedals",
+        "Sensitivity": "3-Stage Adjustable",
+        "Compatibility": "PC, Xbox One, PS3, PS4, Nintendo Switch, Android TV",
+        "Color": "Black/Blue",
+        "ROTATION": "270 Degrees",
+        "VIBRATION": "Dual Motor",
+        "INCLUDED": "Wheel, Gear Shifter, Linear Pedals",
+        "SENSITIVITY": "3-Stage Adjustable",
+        "COMPATIBILITY": "PC, Xbox One, PS3, PS4, Nintendo Switch, Android TV",
+        "COLOR": "Black/Blue",
+        "SKU": "AEPP0220"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gw185-racing-wheel-shifter-pedals-black-blue"
+  }
+}

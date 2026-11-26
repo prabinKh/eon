@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Projectors",
+    "subcategory_url": "https://antesports.com/collections/projectors",
+    "series": "Projectors Series",
+    "series_url": "https://antesports.com/collections/projectors",
+    "tab_title": "Projectors",
+    "tab_id": "508173222179",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Projectors",
+      "View 690 AF 1080P Smart Projector"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420500259",
+    "product_name": "View 690 AF 1080P Smart Projector",
+    "product_title": "View 690 AF 1080P Smart Projector",
+    "product_url": "https://antesports.com/products/ant-esports-view-690-af",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_d52fbb37-9fa8-4841-84a4-9a24bba3ea32.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-view-690-af.html",
+  "detail": {
+    "title": "View 690 AF 1080P Smart Projector",
+    "model": "ATPRJ0014",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports View 690 AF is a premium smart projector designed to deliver bright and immersive visuals for home entertainment, office presentations, and multimedia applications. Featuring 8000 lumens brightness, 1920x1080 resolution, Android 13, Auto Focus, Auto Keystone, and Bluetooth Voice Remote, it ensures a smooth viewing experience, reliable performance, and excellent compatibility with modern devices. Backed by a 1 Year Limited Warranty, it's an excellent choice for home users, professionals, and entertainment enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_d52fbb37-9fa8-4841-84a4-9a24bba3ea32.png",
+        "alt": "View 690 AF 1080P Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_cd68bfcb-a049-4547-b5cc-2e4d75ad4d77.png",
+        "alt": "View 690 AF 1080P Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_c1b7c095-8ec8-44cd-9ce5-e423a11a55a2.png",
+        "alt": "View 690 AF 1080P Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_74cae985-57e4-48bd-88f5-940ef5dac92b.png",
+        "alt": "View 690 AF 1080P Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_4dccd5f1-0ad7-4176-bc38-030ad838b4cf.png",
+        "alt": "View 690 AF 1080P Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Category": "Projector",
+        "Type": "Angle Adjustable",
+        "Lumens": "8000",
+        "Contrast Ratio": "1200:1",
+        "Projection Size (inches)": "200",
+        "Resolution": "1920x1080",
+        "Ports": "HDMI, USB, AUX",
+        "Android Version": "13",
+        "Licensed OTT": "No",
+        "Expected Lamp Life (Hours)": "50,000",
+        "Auto Focus": "Yes",
+        "Auto Keystone": "Yes",
+        "Remote Type": "Bluetooth Voice Remote",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "Projector",
+        "TYPE": "Angle Adjustable",
+        "LUMENS": "8000",
+        "CONTRAST RATIO": "1200:1",
+        "PROJECTION SIZE (INCHES)": "200",
+        "RESOLUTION": "1920x1080",
+        "PORTS": "HDMI, USB, AUX",
+        "ANDROID VERSION": "13",
+        "LICENSED OTT": "No",
+        "EXPECTED LAMP LIFE (HOURS)": "50,000",
+        "AUTO FOCUS": "Yes",
+        "AUTO KEYSTONE": "Yes",
+        "REMOTE TYPE": "Bluetooth Voice Remote",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹12,499.00",
+        "MRP (INR)": "₹48,999.00",
+        "SKU": "ATPRJ0014"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (VIEW)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=View-811-Firmware.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-view-690-af"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315417256227",
+    "product_name": "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK",
+    "product_title": "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK",
+    "product_url": "https://antesports.com/products/ant-esports-fan-afh90-2-in-1-argb-pwm-fan-hub-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_0719ff2c-aee8-4f51-b8aa-4f68bb78eafc.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-fan-afh90-2-in-1-argb-pwm-fan-hub-black.html",
+  "detail": {
+    "title": "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK",
+    "model": "AFH90",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AFH90 2-in-1 ARGB PWM Fan Hub is an all-in-one solution for managing both PWM fan speed and ARGB lighting in your gaming PC. It supports up to 8 PWM fans and 8 ARGB devices through a single SATA power connection, helping you build a clean, cable-managed system. Compatible with leading motherboard RGB synchronization software from ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome Sync, the AFH90 also includes an IR remote for systems without ARGB headers. Designed with a magnetic backplate for easy installation, it offers convenient lighting effects and fan speed control for high-performance gaming builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_0719ff2c-aee8-4f51-b8aa-4f68bb78eafc.png",
+        "alt": "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_bc797e4d-4ffe-4bc6-a26b-c867334f731b.png",
+        "alt": "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_5a45bc51-67e4-413f-965c-4ddf55fbb65d.png",
+        "alt": "AFH90 FAN 2 IN 1 ARGB PWM FAN HUB - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Category": "Fan Controller",
+        "Model": "AFH90",
+        "Color": "Black",
+        "PWM Fan Support": "Up to 8 PWM Fans",
+        "ARGB Support": "Up to 8 ARGB Devices (5V 3-Pin)",
+        "Power Input": "SATA Power",
+        "Motherboard Sync": "ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, ASRock Polychrome Sync",
+        "Lighting Control": "Motherboard Sync & IR Remote",
+        "Installation": "Magnetic Backplate",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "Fan Controller",
+        "MODEL": "AFH90",
+        "COLOR": "Black",
+        "PWM FAN SUPPORT": "Up to 8 PWM Fans",
+        "ARGB SUPPORT": "Up to 8 ARGB Devices (5V 3-Pin)",
+        "POWER INPUT": "SATA Power",
+        "MOTHERBOARD SYNC": "ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, ASRock Polychrome Sync",
+        "LIGHTING CONTROL": "Motherboard Sync & IR Remote",
+        "INSTALLATION": "Magnetic Backplate",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹699.00",
+        "MRP (INR)": "₹1,399.00",
+        "SKU": "AESP0336"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-fan-afh90-2-in-1-argb-pwm-fan-hub-black"
+  }
+}

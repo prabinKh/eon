@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "4-in-1 USB-C Hub Port Expander, Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353570873635",
+    "product_name": "4-in-1 USB-C Hub Port Expander, Grey",
+    "product_title": "4-in-1 USB-C Hub Port Expander, Grey",
+    "product_url": "https://antesports.com/products/aec410-usb-c-hub-4in1-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aec410-usb-c-hub-4in1-grey.html",
+  "detail": {
+    "title": "4-in-1 USB-C Hub Port Expander, Grey",
+    "model": "AEPP0196",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC410 is a 4-in-1 USB-C hub that expands a single Type-C port into one USB 3.0 port and three USB 2.0 ports, making it easy to connect a keyboard, mouse, flash drive and external hard drive all at once. Its durable aluminium body adds both strength and a premium feel, while the compact, portable design suits any workspace or travel setup. A straightforward, plug-and-play port expander for anyone who needs more USB connectivity from a laptop, tablet or other USB-C multiport charger-equipped device.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7.jpg",
+        "alt": "4-in-1 USB-C Hub Port Expander, Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Ports": "1x USB 3.0 + 3x USB 2.0",
+        "Build": "Aluminium",
+        "Design": "Compact, Portable",
+        "Color": "Grey",
+        "PORTS": "1x USB 3.0 + 3x USB 2.0",
+        "BUILD": "Aluminium",
+        "DESIGN": "Compact, Portable",
+        "COLOR": "Grey",
+        "Offer Price (INR)": "₹379.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AEPP0196"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec410-usb-c-hub-4in1-grey"
+  }
+}

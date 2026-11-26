@@ -1,0 +1,77 @@
+{
+  "hierarchy": {
+    "category": "Bracket",
+    "category_url": "https://cpplusworld.com/products/bracket",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/bracket",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "90",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Bracket",
+      "CP-UA-B2P"
+    ]
+  },
+  "card_info": {
+    "product_id": "471",
+    "product_name": "CP-UA-B2P",
+    "product_title": "CP-UA-B2P-Pole Mount Bracket | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-ua-b2p",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/cp-ua-b2p.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-b2p.html",
+  "detail": {
+    "title": "CP-UA-B2P-Pole Mount Bracket | Cp Plus | Cpplusworld.com",
+    "model": "CP-UA-B2P",
+    "brand": "CP Plus",
+    "overview": "Pole Mount Bracket",
+    "features": [
+      "Material: Aluminum & SUS304",
+      "Pole Mount Bracket",
+      "Aesthetic design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cp-ua-b2p.jpg",
+        "alt": "CP-UA-B2P - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Display Size": "N/A",
+        "Material": "Aluminum",
+        "Load Bearing": "3.0Kg",
+        "Mast Diameter": "80mm~150mm",
+        "Operating Temperature": "-40°C~60°C",
+        "Net Weight(g)": "0.27kg",
+        "Dimension": "125.6mm x 114mm x 20mm",
+        "Humidity": "<90% RH"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-B2P.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-b2p"
+  }
+}

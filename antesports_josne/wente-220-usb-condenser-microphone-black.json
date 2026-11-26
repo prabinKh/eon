@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "WENTE 220 USB Condenser Microphone - Cardioid, RGB, Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353571103011",
+    "product_name": "WENTE 220 USB Condenser Microphone - Cardioid, RGB, Black",
+    "product_title": "WENTE 220 USB Condenser Microphone - Cardioid, RGB, Black",
+    "product_url": "https://antesports.com/products/wente-220-usb-condenser-microphone-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/wente-220-usb-condenser-microphone-black.html",
+  "detail": {
+    "title": "WENTE 220 USB Condenser Microphone - Cardioid, RGB, Black",
+    "model": "AEPP0017",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports WENTE 220 is a standalone USB condenser microphone built for streamers, podcasters and gamers who want impressive sound quality without a complex audio setup. Its cardioid polar pattern captures clear, focused sound from the front while suppressing background noise, and a built-in gain knob lets you fine-tune input sensitivity on the fly. A touch-mute button on top instantly mutes or unmutes with an LED indicator confirming status (blue for live, red for muted), and a built-in anti-vibration shock mount plus pop filter reduce handling noise and plosive sounds for cleaner recordings. A 3.5mm headphone jack enables zero-latency real-time monitoring, and true USB plug-and-play connectivity works across PC, Mac and even PS4 with no drivers required.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6.jpg",
+        "alt": "WENTE 220 USB Condenser Microphone - Cardioid, RGB, Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Polar Pattern": "Cardioid",
+        "Connectivity": "USB",
+        "Mute Control": "Touch-Mute with LED Indicator",
+        "Monitoring": "3.5mm Zero-Latency",
+        "Included": "Shock Mount, Pop Filter",
+        "Compatibility": "PC, Mac, PS4",
+        "Color": "Black",
+        "POLAR PATTERN": "Cardioid",
+        "CONNECTIVITY": "USB",
+        "MUTE CONTROL": "Touch-Mute with LED Indicator",
+        "MONITORING": "3.5mm Zero-Latency",
+        "INCLUDED": "Shock Mount, Pop Filter",
+        "COMPATIBILITY": "PC, Mac, PS4",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,099.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0017"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/wente-220-usb-condenser-microphone-black"
+  }
+}

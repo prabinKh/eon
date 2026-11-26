@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "154553",
+    "product_name": "ASR2115A",
+    "product_title": "Waterproof QR code reader (IC+Password+QR code)",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr2115a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/image/1_0_01_25_11510_10243916_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr2115a.html",
+  "detail": {
+    "title": "Waterproof QR code reader (IC+Password+QR code)",
+    "model": "ASR2115A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR2115A Waterproof QR code reader (IC+Password+QR code) Key Points • Water-proof QR Code, Card and Password Reader • RS-485 and Wiegand(W26/W34) Protocol • Mifare Classic 1K Card (13.56MHz) Reading • Mechnical Keypad for Operation • Prompts Using The Buzzer and Indicator Light • IP66 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/image/1_0_01_25_11510_10243916_crop_thumb.PNG",
+        "alt": "ASR2115A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/image/1_0_01_25_11510_10243915_crop_thumb.PNG",
+        "alt": "ASR2115A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing": "PC/Tempered glass"
+      },
+      "Function": {
+        "Unlock Mode": "Card swiping/password/QR code Multiple unlocking modes",
+        "Card Type": "IC card"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–5 cm (0\"–1.97\")"
+      },
+      "Port": {
+        "RS-485": "1 channel",
+        "Wiegand": "1 output channel",
+        "Lens Resolution (QR Code)": "640 (H) × 480 (V)",
+        "Illuminator (QR Code)": "White LED",
+        "Recognition Angle (QR Code)": "Rotation: 360°, pitch: 65°, skew: 65°",
+        "Scanning Angle (QR Code)": "67° (H), 53° (V)",
+        "Recognition Distance (QR Code)": "3 cm–40 cm (1.18\"–15.75\")",
+        "Read Speed (QR Code)": "120 ms",
+        "Supported Codes": "QR code, PDF417,DATA matrix,UPC-A,UPC-E,EAN-8,EAN-13,EAN-14,EAN-128,UCC128,ISBN/ISSN,CODE11,CODE32,CODE39,CODE39 FULL,ASCII,CODE93,CODE128,GS1",
+        "Code Type": "Paper; digital",
+        "Code Recognition Accuracy": "≥ 6 mil"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 0.5 A",
+        "Protection": "IP66 (silicon sealant is needed, see the manual)",
+        "Power Consumption": "Standby ≤ 0.9 W, working ≤1.7 W",
+        "Product Dimensions": "123 mm × 86 mm × 15 mm (4.84\" × 3.38\" × 0.59\") (L × W × H)",
+        "Packaging Dimensions": "185 mm × 163 mm × 71 mm (7.28\" × 6.41\" × 2.80\") (L × W × H)",
+        "Operating Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)",
+        "Operating Humidity": "5%–95%RH (non-condensing)",
+        "Operating Environment": "Indoor; outdoor",
+        "Gross Weight": "0.35 kg (0.77 lb)",
+        "Installation": "Surface mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/datasheet/ASR2115A_datasheet_20240102.pdf"
+      },
+      {
+        "name": "2026-05-28 #User Manual Dahua_Access Reader_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11647/user_manual/Dahua_Access_Reader_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-05-28 #User Manual Access Reader_User's Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/11717/user_manual/Access_Reader_User_27s_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2021-12-22 #Drawings ASR2115A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/drawings/ASR2115A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-09 #Firmware General_ASR21X5A-X_NOENC_MCU_V1.000.0000000.3.R.231227 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86475/firmware/General_ASR21X5A-X_NOENC_MCU_V1.000.0000000.3.R.231227.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr2115a"
+  }
+}

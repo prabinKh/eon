@@ -1,0 +1,84 @@
+{
+  "hierarchy": {
+    "category": "Lenses",
+    "category_url": "https://cpplusworld.com/products/lenses",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/lenses",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "87",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Lenses",
+      "CP-UML-AD2712"
+    ]
+  },
+  "card_info": {
+    "product_id": "44",
+    "product_name": "CP-UML-AD2712",
+    "product_title": "CP-UML-AD2712-4MP CS Mount Lens | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-uml-ad2712",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/24e8cfd9-c648-4c9e-8456-9a95c70e8871.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-uml-ad2712.html",
+  "detail": {
+    "title": "CP-UML-AD2712-4MP CS Mount Lens | Cp Plus | Cpplusworld.com",
+    "model": "CP-UML-AD2712",
+    "brand": "CP Plus",
+    "overview": "4MP CS Mount Lens",
+    "features": [
+      "CS Mount Lens"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/24e8cfd9-c648-4c9e-8456-9a95c70e8871.jpg",
+        "alt": "CP-UML-AD2712 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0a61cd94-d0c1-4ce3-a04c-83cc93507f95.jpg",
+        "alt": "CP-UML-AD2712 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Focal length(mm)": "2.7-12mm",
+        "Aperture(F)": "F 1.6",
+        "Mount": "CS mount",
+        "Horizontal Angle of View(°)": "W: 120.1°(D)x91.3°(H)x66.3°(V)~T: 33.9°(D)x27.1°(H)x20.3°(V)",
+        "Focus": "Manual",
+        "Zoom": "Manual",
+        "Min. object Dimension(mm)": "0.3m",
+        "Dimension(mm)": "ᶲ33.7x57.6mm",
+        "Iris": "DC-Iris",
+        "Net Weight(g)": "73.5g",
+        "Depth Field of View(°)": "W: 137.8°(D)x102.6°(H)x74.3°(V)~T: 37.2°(D)x29.9°(H)x22.6°(V)",
+        "Image Size": "1/2.7\""
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UML-AD2712.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uml-ad2712"
+  }
+}

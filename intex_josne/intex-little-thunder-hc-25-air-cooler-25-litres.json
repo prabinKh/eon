@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "25L Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/25l-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "25L Air Cooler",
+    "tab_id": "9136125116634",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "25L Air Cooler",
+      "Intex Little Thunder HC 25 Air Cooler – 25 Litres"
+    ]
+  },
+  "card_info": {
+    "product_id": "9136125116634",
+    "product_name": "Intex Little Thunder HC 25 Air Cooler – 25 Litres",
+    "product_title": "Intex Little Thunder HC 25 Air Cooler – 25 Litres",
+    "product_url": "https://www.intex.in/products/intex-little-thunder-hc-25-air-cooler-25-litres",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/little-thunder-hc-25.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 8990.0,
+      "display": "₹8,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-little-thunder-hc-25-air-cooler-25-litres.html",
+  "detail": {
+    "title": "Intex Little Thunder HC 25 Air Cooler – 25 Litres",
+    "model": "25-25",
+    "brand": "Intex",
+    "overview": "The Intex Little Thunder HC 25 is a sleek and space-saving air cooler built for effective personal and room cooling. Equipped with a 25-litre water tank and efficient fan blades, it provides strong airflow while remaining energy efficient. Its compact vertical design, rust-proof body, and honeycomb pads make it a practical choice for modern homes.",
+    "features": [
+      "Water Tank Capacity: 25 Litres",
+      "3-Speed Powerful Air Throw",
+      "Compact Vertical Design",
+      "Fan Blade Size: 22.8 cm (9\")",
+      "Shock & Rust Proof Body",
+      "360° Moving Wheels",
+      "Water Level Indicator",
+      "Honeycomb Cooling Pads"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/little-thunder-hc-25.jpg",
+        "alt": "Intex Little Thunder HC 25 Air Cooler – 25 Litres",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Water Tank Capacity: 25 Litres",
+        "Feature 2": "3-Speed Powerful Air Throw",
+        "Feature 3": "Compact Vertical Design",
+        "Feature 4": "Fan Blade Size: 22.8 cm (9\")",
+        "Feature 5": "Shock & Rust Proof Body",
+        "Feature 6": "360° Moving Wheels",
+        "Feature 7": "Water Level Indicator",
+        "Feature 8": "Honeycomb Cooling Pads"
+      },
+      "General": {
+        "Model": "25-25"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-little-thunder-hc-25-air-cooler-25-litres"
+  }
+}

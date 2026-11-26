@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "2 MP",
+    "category_url": "https://cpplusworld.com/products/2-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/2-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "40",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "2 MP",
+      "CP-UNC-TE21ZL6C-VMDS-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "1985",
+    "product_name": "CP-UNC-TE21ZL6C-VMDS-Q",
+    "product_title": "CP-UNC-TE21ZL6C-VMDS-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-te21zl6c-vmds-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/b1ee79a8-1cd5-4678-85f3-249b08d0c5b1.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-te21zl6c-vmds-q.html",
+  "detail": {
+    "title": "CP-UNC-TE21ZL6C-VMDS-Q",
+    "model": "CP-UNC-TE21ZL6C-VMDS-Q",
+    "brand": "CP Plus",
+    "overview": "2MP Network IR Bullet Camera - 60Mtr.",
+    "features": [
+      "1/2.8” 2MP PS CMOS Image Sensor (0.9071 centimeter)",
+      "Max. 2MP (1920 × 1080)@1–25/30 fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Quad Stream",
+      "WDR(120dB), Day/Night (ICR), 3D NR, ROI, Defog, AWB, AGC, BLC, HLC",
+      "2.7mm~13.5mm Motorized Lens",
+      "IR Range of 60 Mtr.",
+      "Support Starlight Technology",
+      "Built-in Mic, Digital watermarking",
+      "Micro SD Card, IP67, IK10, PoE",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b1ee79a8-1cd5-4678-85f3-249b08d0c5b1.png",
+        "alt": "CP-UNC-TE21ZL6C-VMDS-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/51b51205-a58a-447c-8e26-50a3229e338c.png",
+        "alt": "CP-UNC-TE21ZL6C-VMDS-Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 2MP PS CMOS Image Sensor (0.9071 centimeter)",
+        "Minimum Illumination": "0.006 Lux@F1.6(Color,30IRE), 0.0006 Lux@F1.6(B/W,30IRE), 0 lux (IR on)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Electronic Shutter": "Auto/Manual, 1/3s - 1/100000s",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–90°, Rotation: 0°–360°",
+        "RAM": "512 MB",
+        "ROM": "128 MB",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional Custom",
+        "Lens": "2.7 mm~13.5 mm",
+        "IR Control": "Auto, Face Priority, Number Plate Priority",
+        "Gain Control (AGC)": "Auto",
+        "Lens Type": "Motorized vari-focal",
+        "Iris Control": "Auto",
+        "Max. Aperture": "F1.6",
+        "Lens Mount": "M14",
+        "Close Focus Distance": "0.8 m",
+        "IR Number": "4 IR LED",
+        "IR": "IR Range of 60 Mtr.",
+        "DORI Distance": "Lens W: 44.1Mtr. (Detect), 17.7Mtr.(Observe), 8.8Mtr. (Recognize), 4.4Mtr(Identify) Lens T: 144.8Mtr(Detect), 57.9Mtr(Observe), 29.0Mtr(Recognize), 14.5Mtr(Identify)",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "Angle of view": "Horizontal: 109°–30°, Vertical: 56° –17°, Diagonal: 131° –35°",
+        "S/N Ratio": ">56 dB",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265: 3 kbps–8192 kbps, H.264: 3 kbps–8192 kbps",
+        "Resolution": "2MP (1920 × 1080), 1.3M (1280 × 960), 1MP (1280 × 720), D1 (704 × 576/704 × 480), VGA (640 × 480), CIF (352 × 288/352 × 240)",
+        "Stream Capability": "Triple stream",
+        "Frame Rate": "Main stream: 2MP (1920 x 1080)@1–25/30 fps, 1.3MP (1280 x 960)@1–25/30 fps, 720p@1– 25/30 fps Sub stream 1: D1 (704 × 576/ 704 × 480)@1–25/30 fps, VGA (640 × 480)@1–25/30 fps, CIF (352 × 288/ 352 × 240)@1–25/30 fps Sub stream 2: 2MP (1920 x 1080)@1–25/30 fps,1.3MP (1280 x 960)@1–25/30 fps, 720p@1– 25/30 fps, D1 (704 × 576/ 704 × 480)@1–25/30 fps Sub stream 3: D1 (704 × 576/704 × 480)@1– 25/30 fps, VGA (640 × 480)@1–25/30 fps, CIF (352 × 288/ 352 × 240)@1–25/30 fps",
+        "OTA (Over-The-Air)": "Support",
+        "ROI": "Support (4 Areas)",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2MP resolution and lower)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Video Format": "PAL/NTSC",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by the sub stream)",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, Rectangular)",
+        "Privacy Mask": "4 Areas",
+        "Protocol": "IPv4. IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, QoS, UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3, ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "IVS (Perimeter Protection)": "Intrusion, Tripwire, Abandon Object, Crowd gathering, Missing Object, Loitering Detection, IMD (support the classification and accurate detection of vehicle and human)",
+        "Alarm Event": "No SD card, SD card full, SD card error, Network disconnection, IP conflict, Motion detection, Video tampering, Tripwire, Intrusion, Abandoned object, Missing object, Loitering detection, Crowd gathering, Scene changing, Audio detection, Voltage detection, External alarm, Face detection, IMD, People counting in area, Stay detection, People counting, Abnormal Number of People, Queue people number alarm, Queue time alarm, Security exception, Defocus detection",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs, WSSE, Account lockout, Syslog, Video encryption, 802.1x, Allow list/Block list, HTTPS, Trusted upgrade, Trusted boot, Firmware encryption",
+        "Mirror Function": "Support",
+        "ISA (Intelligent Scene Adaption)": "Support",
+        "Defog": "Support",
+        "Face Detection": "Face detection, Target Box Overlay, Remove Duplicate, Faces Face Cutout (Face/ One Inch Photo/ Custom) , Snapshot Mode (Real- Time/ Optimized/ Quality Priority), Optimal face snapshot upload, Face attributes extraction including 6 attributes and 8 expressions, Snapshot strategies (real-time snapshot, quality priority and optimization snapshot), Face angle filter, Optimized Duration, Quality Threshold, Snapshot Sensitivity",
+        "People Counting": "Tripwire people counting, Generating and exporting report (Day/Week/Month/Year), People counting in area and queue management, Generating and exporting report (Day/Week/ Month), 4 rules can be set for tripwire, people counting in area and queue management",
+        "Audio Input": "1 Channel (RCA port)",
+        "Audio Output": "1 Channel (RCA port)",
+        "Audio Compression": "PCM, G.711a, G.711Mu, G.726, AAC",
+        "Audio": "Built-in Mic",
+        "Alarm IN": "1 Channels in: 5mA 3V–5V DC",
+        "Alarm Out": "1 Channel out: 300mA 12V DC",
+        "OSD": "Camera title, Date & Time",
+        "Ethernet": "RJ-45 (10/100 Enhancement Base-T)",
+        "User/ Host": "20 (Total bandwidth: 80 Mbps)",
+        "Browser": "Microsoft, Edge and Chrome",
+        "Hardware Reset Point": "Support",
+        "Certificates": "MTBF Certificate from STQC, EMI/EMC, ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Device Search Tool": "IP finder",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Weatherproof Standard": "IP67, IK10",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95% RH, non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "10%–95% RH, non-condensing",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 1.6W (12 VDC), 3.3 W (PoE) Max. (H.265 + WDR + Intelligence on + IR on : 9.6W (12 VDC), 11.9W (PoE)",
+        "Casing": "Metal + Plastic",
+        "Dimension": "269.5mm x 80.55mm x 73.8mm",
+        "Weight": "1100g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-TE21ZL6C-VMDS-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-te21zl6c-vmds-q"
+  }
+}

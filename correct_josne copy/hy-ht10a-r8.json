@@ -1,0 +1,157 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Heat Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/heat-alarms",
+    "tab_title": "Heat Alarms",
+    "tab_id": "16557",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Heat Alarms",
+      "Heat Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "130657",
+    "product_name": "HY-HT10A-R8",
+    "product_title": "Wireless Interconnected Heat Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/heat-alarms/hy-ht10a-r8",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230710/HY-HT10A4_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-ht10a-r8.html",
+  "detail": {
+    "title": "Wireless Interconnected Heat Alarm",
+    "model": "HY-HT10A-R8",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-HT10A-R8 Wireless Interconnected Heat Alarm Key Points · Class A1 fire detection (54°C to 65°C) · Silenced by a working infrared remote controller · Wireless interconnected with maximum of 24 devices · Test and silence features in the central push button · Loud sound output over 85 dB(A) at 3 meters · Surface-mount device (SMD) circuit board design · Low battery warning signal Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/HY-HT10A4_thumb.png",
+        "alt": "HY-HT10A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/HY-HT10A1_thumb.png",
+        "alt": "HY-HT10A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/HY-HT10A2_thumb.png",
+        "alt": "HY-HT10A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/HY-HT10A3_thumb.png",
+        "alt": "HY-HT10A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/HY-HT10A5_thumb.png",
+        "alt": "HY-HT10A-R8",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Temperature",
+        "Sampling Period": "10 s",
+        "Sensor Type": "Thermistor"
+      },
+      "Alarm": {
+        "Alarm Type": "Heat alarm, fault warning, low battery warning",
+        "Alarm at Temperature Range": "+54°C to +65°C (+129°F to 149°F)",
+        "Alarm Volume": "≥ 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Silence Duration": "9 min",
+        "Silence by IR Remotes": "Support"
+      },
+      "Basic Parameters": {
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes once per minute",
+        "Operating Frequency": "868 MHz",
+        "Radio Signal Range": "Up to 1000 m (3280.84 ft) in open air",
+        "Maximum Number of Interconnected Units": "24 pcs"
+      },
+      "Power Supply": {
+        "Power Source": "3V CR123A lithium battery (non-replaceable)",
+        "Battery Life": "10 years",
+        "Operating Current": "Monitoring current: ≤15uA Alarm current: ≤60mA"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "φ93.8mm × H46.9mm (φ3.69\" × H1.85\")",
+        "Weight": "115 g",
+        "Installation": "Ceiling Mount"
+      },
+      "Certification": {
+        "Certifications": "CE, UKCA",
+        "Compliance Standard": "BS 5446-2:2003"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/130657/datasheet/HY-HT10A-R8_datasheet_20230615.pdf"
+      },
+      {
+        "name": "2026-04-09 #User Manual Wireless Interconnected Heat Alarm_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71877/user_manual/Wireless_Interconnected_Heat_Alarm_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-12-01 #Drawings HY-HT10A-R8_EXPLODED_VIEW Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71867/drawings/HY-HT10A_EXPLODED_VIEW.pdf"
+      },
+      {
+        "name": "2023-12-01 #Drawings HY-HT10A-R8_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71867/drawings/HY-HT10A_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2023-12-01 #Drawings HY-HT10A-R8_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71867/drawings/HY-HT10A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-12-01 #Drawings HY-HT10A-R8_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71867/drawings/HY-HT10A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2025-10-11 #Firmware DHI_HYHT10A-R8_Eng_MCU_V1.000.0000005.0.R.250919 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3409149/M/DHI_HYHT10A-R8_Eng_MCU_V1.000.0000005.0.R.250919.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/heat-alarms/hy-ht10a-r8"
+  }
+}

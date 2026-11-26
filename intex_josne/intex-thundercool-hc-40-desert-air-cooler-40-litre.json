@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "40 litre Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/40-litre-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "40 litre Air Cooler",
+    "tab_id": "9135085420762",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "40 litre Air Cooler",
+      "Intex ThunderCool HC 40 Desert Air Cooler – 40 Liters"
+    ]
+  },
+  "card_info": {
+    "product_id": "9135085420762",
+    "product_name": "Intex ThunderCool HC 40 Desert Air Cooler – 40 Liters",
+    "product_title": "Intex ThunderCool HC 40 Desert Air Cooler – 40 Liters",
+    "product_url": "https://www.intex.in/products/intex-thundercool-hc-40-desert-air-cooler-40-litre",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/THUNDERCOOL-HC-40.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 11990.0,
+      "display": "₹11,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-thundercool-hc-40-desert-air-cooler-40-litre.html",
+  "detail": {
+    "title": "Intex ThunderCool HC 40 Desert Air Cooler – 40 Liters",
+    "model": "ThunderCool HC 40",
+    "brand": "Intex",
+    "overview": "Intex ThunderCool HC 40 is a compact desert air cooler designed for small rooms and personal spaces. It features a 40-litre water tank and delivers efficient cooling with a strong air throw. The cooler includes collapsible louvers, 3-speed airflow control, and honeycomb cooling pads for improved cooling performance. Its inverter-compatible design allows use during power cuts, while the durable shock and rust-proof body ensures long-lasting usage. The compact design makes it easy to place and move as required.",
+    "features": [
+      "Fan Blade Size: 16 inches"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/THUNDERCOOL-HC-40.jpg",
+        "alt": "Intex ThunderCool HC 40 Desert Air Cooler – 40 Liters",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "Desert Air Cooler",
+        "Model": "ThunderCool HC 40",
+        "Water Tank Capacity": "40 Litres",
+        "Room Size": "Small Rooms / Personal Use",
+        "Air Deflection": "4-Way Air Deflection",
+        "Louvers": "Fully Collapsible",
+        "Cooling Pads": "3-Side Honeycomb Pads",
+        "Speed Control": "3-Speed Control",
+        "Inverter Compatibility": "Yes",
+        "Body Type": "Shock & Rust-Proof",
+        "Additional Features": "Voltage Fluctuation Protection"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-thundercool-hc-40-desert-air-cooler-40-litre"
+  }
+}

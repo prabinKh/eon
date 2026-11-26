@@ -1,0 +1,89 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "GCB70 GPU SUPPORT BRACKET - BLACK"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315417223459",
+    "product_name": "GCB70 GPU SUPPORT BRACKET - BLACK",
+    "product_title": "GCB70 GPU SUPPORT BRACKET - BLACK",
+    "product_url": "https://antesports.com/products/ant-esports-gcb70-gpu-support-bracket-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_a2aac2c6-8974-48a9-aae7-f77d58c71562.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-gcb70-gpu-support-bracket-black.html",
+  "detail": {
+    "title": "GCB70 GPU SUPPORT BRACKET - BLACK",
+    "model": "GCB70",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS GCB70 GPU Support Bracket is designed to prevent graphics card sag while improving the stability of your gaming PC. Constructed from durable aluminum alloy, it provides reliable support for heavy graphics cards without obstructing airflow. Its adjustable height allows compatibility with a wide range of ATX and Micro-ATX PC cabinets. The sleek black finish blends seamlessly into modern gaming builds, making it an essential accessory for high-performance systems.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_a2aac2c6-8974-48a9-aae7-f77d58c71562.png",
+        "alt": "GCB70 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_8511a910-cfda-4ff6-befc-db55ad9d29bd.png",
+        "alt": "GCB70 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_8da34600-856c-4a25-bb0d-e8eb7a6263c7.png",
+        "alt": "GCB70 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_dbfc68b9-7c4f-4f62-ab4b-0398afe80f04.png",
+        "alt": "GCB70 GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Category": "GPU Holder",
+        "Color": "Black",
+        "Material": "Aluminum Alloy",
+        "Height Adjustment": "Adjustable",
+        "Model": "GCB70",
+        "CATEGORY": "GPU Holder",
+        "COLOR": "Black",
+        "MATERIAL": "Aluminum Alloy",
+        "HEIGHT ADJUSTMENT": "Adjustable",
+        "MODEL": "GCB70",
+        "Offer Price (INR)": "₹1,099.00",
+        "MRP (INR)": "₹1,699.00",
+        "SKU": "AESP0332"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-gcb70-gpu-support-bracket-black"
+  }
+}

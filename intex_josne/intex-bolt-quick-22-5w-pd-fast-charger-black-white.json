@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "22.5W",
+    "subcategory_url": "https://www.intex.in/collections/22-5w",
+    "series": "Fast Charger",
+    "series_url": "https://www.intex.in/collections/fast-charger",
+    "tab_title": "22.5W",
+    "tab_id": "9163168448730",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "22.5W",
+      "Intex Bolt Quick 22.5W PD Fast Charger - Black, White"
+    ]
+  },
+  "card_info": {
+    "product_id": "9163168448730",
+    "product_name": "Intex Bolt Quick 22.5W PD Fast Charger - Black, White",
+    "product_title": "Intex Bolt Quick 22.5W PD Fast Charger - Black, White",
+    "product_url": "https://www.intex.in/products/intex-bolt-quick-22-5w-pd-fast-charger-black-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt_Quick_22.5W_PD.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1999.0,
+      "display": "₹1,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-bolt-quick-22-5w-pd-fast-charger-black-white.html",
+  "detail": {
+    "title": "Intex Bolt Quick 22.5W PD Fast Charger - Black, White",
+    "model": "22-5W",
+    "brand": "Intex",
+    "overview": "Power your devices efficiently with the Intex Bolt Quick 22.5W PD Charger. Designed with PD 3.0 fast charging technology, it delivers optimized and stable power output for smartphones, tablets, and other compatible devices. Equipped with Smart IC protection and advanced safety features, it safeguards against voltage fluctuations and short circuits. Compact, durable, and travel-friendly, this charger is ideal for everyday fast charging needs.",
+    "features": [
+      "22.5W Fast Charging Output",
+      "Supports PD 3.0 Technology",
+      "Type-C Output Port",
+      "Smart IC Protection",
+      "Protection Against High & Low Voltage",
+      "Short Circuit Protection",
+      "High Performance Power IC",
+      "Universal Compatibility",
+      "Safe & Durable Build Quality",
+      "Available Colours: White & Black"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt_Quick_22.5W_PD.jpg",
+        "alt": "Intex Bolt Quick 22.5W PD Fast Charger - Black, White",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "22.5W Fast Charging Output",
+        "Feature 2": "Supports PD 3.0 Technology",
+        "Feature 3": "Type-C Output Port",
+        "Feature 4": "Smart IC Protection",
+        "Feature 5": "Protection Against High & Low Voltage",
+        "Feature 6": "Short Circuit Protection",
+        "Feature 7": "High Performance Power IC",
+        "Feature 8": "Universal Compatibility",
+        "Feature 9": "Safe & Durable Build Quality",
+        "Feature 10": "Available Colours: White & Black"
+      },
+      "General": {
+        "Model": "22-5W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-bolt-quick-22-5w-pd-fast-charger-black-white"
+  }
+}

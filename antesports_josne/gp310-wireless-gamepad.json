@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP310 Wireless Gamepad"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869681443",
+    "product_name": "GP310 Wireless Gamepad",
+    "product_title": "GP310 Wireless Gamepad",
+    "product_url": "https://antesports.com/products/gp310-wireless-gamepad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_1ffdcb4e-78cb-4e17-abd1-b1b4fc67c6c6.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gp310-wireless-gamepad.html",
+  "detail": {
+    "title": "GP310 Wireless Gamepad",
+    "model": "AEPP0002",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP310 is a wireless gamepad built for gamers who don't want a cable length holding them back, using a 2.4GHz USB dongle for a lag-free, plug-and-play connection with up to 10m range. A solid ABS shell houses a dual vibrator setup underneath along with joysticks that deliver great tactile feedback, while a 350mAh battery keeps you gaming for up to 12 hours on a single charge. The ergonomically constructed shell fits every hand comfortably and stays breathable to avoid sweaty palms during marathon sessions. Wide compatibility spans Windows, PS3 and Android 4.0+ (OTG adapter required, not included) for a genuinely versatile wireless gaming experience.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_1ffdcb4e-78cb-4e17-abd1-b1b4fc67c6c6.jpg",
+        "alt": "GP310 Wireless Gamepad - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless",
+        "Battery": "350mAh, Up to 12 Hours",
+        "Range": "Up to 10m",
+        "Vibration": "Dual Motor",
+        "Compatibility": "PC, PS3, Android 4.0+ (OTG Required)",
+        "CONNECTIVITY": "2.4GHz Wireless",
+        "BATTERY": "350mAh, Up to 12 Hours",
+        "RANGE": "Up to 10m",
+        "VIBRATION": "Dual Motor",
+        "COMPATIBILITY": "PC, PS3, Android 4.0+ (OTG Required)",
+        "Offer Price (INR)": "₹1,199.00",
+        "MRP (INR)": "₹3,299.00",
+        "SKU": "AEPP0002"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP310)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP310.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp310-wireless-gamepad"
+  }
+}

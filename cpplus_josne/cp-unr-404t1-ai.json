@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "Mobile Network Video Recorder(MNVR)",
+    "category_url": "https://cpplusworld.com/products/mobile-network-video-recorder(mnvr)",
+    "subcategory": "Mobile Surveillance",
+    "subcategory_url": "https://cpplusworld.com/products/mobile-surveillance/mobile-network-video-recorder-nvr",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Mobile Surveillance",
+    "tab_id": "54",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Mobile Surveillance",
+      "Mobile Network Video Recorder(MNVR)",
+      "CP-UNR-404T1-AI"
+    ]
+  },
+  "card_info": {
+    "product_id": "1574",
+    "product_name": "CP-UNR-404T1-AI",
+    "product_title": "CP-UNR-404T1-AI",
+    "product_url": "https://cpplusworld.com/cp-unr-404t1-ai",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/fcaa3cd8-484f-4a75-b2af-6c870ec18f85.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-404t1-ai.html",
+  "detail": {
+    "title": "CP-UNR-404T1-AI",
+    "model": "CP-UNR-404T1-AI",
+    "brand": "CP Plus",
+    "overview": "4 Ch. PoE H.265 AI Mobile Network Video Recorder",
+    "features": [
+      "Supports 4 Ch. 2MP PoE IP cameras input",
+      "Support Instastream/ H.265 video compression",
+      "Aviation connectors/ RJ45(Optional)",
+      "Support 1 HDD and 1 SD card, 3 USB Ports (2.0)",
+      "Support GPS, Wi-Fi and 3G/4G",
+      "VGA/TV simultaneous video output",
+      "Mobile Software: EMSS Pro, iCMOB/gCMOB (Live  view and Playback)",
+      "CMS Software: EMSS Pro, KVMS Pro (Live view and  Playback)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/fcaa3cd8-484f-4a75-b2af-6c870ec18f85.jpg",
+        "alt": "CP-UNR-404T1-AI - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/21924b57-5bd3-4290-8f12-487bca9ceb32.jpg",
+        "alt": "CP-UNR-404T1-AI - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "High-performance industrial embedded micro-controller",
+        "IP Camera Input": "4 PoE Ethernet Ports, all channels 2MP Total output power of PoE: 36 W  Max. output power of a single port: 25.4 W",
+        "Two-way Talk": "Supported",
+        "User Interface": "GUI",
+        "Video Output": "AV OUT x 1, VGA x 1 , HDMI x 1",
+        "Video Resolution": "800 × 600, 1280×1024",
+        "Video Compression": "H.265, H.264",
+        "Encode Strategy": "Instastream",
+        "Video Display Split": "1/4",
+        "Audio Compression": "G.711A/G.711U/PCM",
+        "Alarm Input": "8 channels for alarm input, 1 channel for pulse speed measuring",
+        "Audio Input": "4 (with Built-in Mic camera)",
+        "Encoding Capacity": "1080P/720P/960H/D1/CIF",
+        "Alarm Output": "1 channel of controllable 12V alarm output, digital quantity",
+        "Audio Output": "1 aviation port for audio output",
+        "Image Quality Adjustment": "Image quality adjustable across six levels",
+        "Hard Disk": "1, 2.5-inch HDDs (SATA) up to 2TB",
+        "Dual-Stream": "Supported (up to D1 encoding for sub stream)",
+        "Memory": "1 SD card, Up to 256GB",
+        "Recording Mode": "Auto, Manual, motion detection, schedule, alarm Record alarm > alarm > motion detection >  schedule",
+        "OSD": "Channel, time, GPS position, license plate",
+        "Playback": "1, 4",
+        "Backup Mode": "HDD, USB flash drive and network backup",
+        "Interface Ports": "Front panel: 2 × USB 2.0 Rear panel: 1 × USB 2.0 from EXTEND port, 3 Port RS232,  2 Port RS485, 1 TV Output, 1 Pulse Count, 1 CAN Port",
+        "Face Detection and Face  Recognition": "Face capture, face comparison",
+        "Ethernet": "1 x 10M/100M RJ45",
+        "Alarm Linkage": "Record, snapshot, local external alarm output, buzzer, log, screen prompt, tour",
+        "Heat Dissipation": "Built-in fan cooling",
+        "General Alarm": "Motion detection, video tampering and loss, local alarm, camera offline, manual alarm con\u0002trol, face blacklist and restricted number plate list alarm",
+        "Gyroscope": "Supports event detection and alarm such as rollover, collision, rapid speedup/slowdown/turn",
+        "Abnormal Alarm": "No HDD, HDD error, insufficient capacity, illegal login, ACC off, high temperature, rollover,  battery low voltage, over speed, low speed, collision, tapid turn, rapid speedup, hard braking,  low battery safety exception, network security exception",
+        "GPS": "Support",
+        "3G/4G": "Support",
+        "Wi-Fi": "Supports built-in 2.4 G Wi-Fi modules",
+        "Power Supply": "DC 6-36V with the built-in UPS (Enables system protection in normal power cut-off and in  under voltage of vehicle battery.)",
+        "Power Consumption": "10.2 W (without peripheral) Low power consumption: < 0.1W",
+        "Operating Temperature": "-30 °C to +70°C (–22 °F to +158 °F)",
+        "Operating Humidity": "10 ~ 90%",
+        "Dimension": "1 DIN Front panel: 190 mm × 60 mm (7.5’×2.4’) Rear panel: 180 mm × 50 mm (7.1’×2.0’)  Depth:190 mm (7.5’)",
+        "Net Weight": "2.93Kg (with packages)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-404T1-AI.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/c61a1054-e38a-4868-ad6b-dfb3620d08cd.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-404t1-ai"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories",
+    "series": "Junction boxes",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/junction-boxes",
+    "tab_title": "Junction boxes",
+    "tab_id": "6977",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Accessories",
+      "Junction boxes",
+      "Junction boxes"
+    ]
+  },
+  "card_info": {
+    "product_id": "57847",
+    "product_name": "PFA12C",
+    "product_title": "Plastic Junction Box",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/junction-boxes/pfa12c",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20201110/PFA12C_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/pfa12c.html",
+  "detail": {
+    "title": "Plastic Junction Box",
+    "model": "PFA12C",
+    "brand": "Dahua",
+    "overview": "Favourite PFA12C Plastic Junction Box Key Points • Flame Retardant PC Features Outdoor Weathering Resistance, High Intensity and Reliability • Dependable Waterproof Structure Design • Houses Wire Connections • Bottom and Side Outlets Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20201110/PFA12C_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DH-PFA12C",
+        "Material": "PC (UL 94 flamer-etardant and UL 746C weather- resistant)",
+        "Dimensions": "131.6 mm × 131.6 mm × 52 mm ( 5.18\" × 5.18\" × 2.05\") (L × W × H)",
+        "Weight": "0.2 kg (0.44 lb)",
+        "Operating Temperature": "–40°C to +60°C (–40°F to +140°F)",
+        "Operating Humidity": "< 90% (RH)",
+        "Color": "White",
+        "Applicable Camera": "Please see \"Accessory Selection\""
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20201110/DH-PFA12C_Datasheet_20201110.pdf"
+      },
+      {
+        "name": "2026-02-03 #User Manual Camera Mount_User Manual_20260202_Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8817/user_manual/Camera_Mount_User_Manual_20260202_Eng.pdf"
+      },
+      {
+        "name": "2026-02-03 #User Manual Camera Mount_User Manual_20260202_Pld Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8817/user_manual/Camera_Mount_User_Manual_20260202_Pld.pdf"
+      },
+      {
+        "name": "2026-01-09 #Drawings PFA12C_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8817/drawings/1_0_99_42_10017_904108356.pdf"
+      },
+      {
+        "name": "2020-11-10 #Drawings PFA12C_dimension_20201109 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8817/drawings/PFA12C_dimension_20201109.pdf"
+      },
+      {
+        "name": "2026-01-09 #Drawings PFA12C_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8817/drawings/1_0_99_42_10017_904108357.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/junction-boxes/pfa12c"
+  }
+}

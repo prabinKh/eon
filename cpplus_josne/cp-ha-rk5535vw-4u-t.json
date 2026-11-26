@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "Racks",
+    "category_url": "https://cpplusworld.com/products/racks",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/racks",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "109",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Racks",
+      "CP-HA-RK5535VW-4U-T"
+    ]
+  },
+  "card_info": {
+    "product_id": "2194",
+    "product_name": "CP-HA-RK5535VW-4U-T",
+    "product_title": "CP-HA-RK5535VW-4U-T",
+    "product_url": "https://cpplusworld.com/cp-ha-rk5535vw-4u-t",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/cf496d14-d820-4c86-b394-4e08db8e0ddb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ha-rk5535vw-4u-t.html",
+  "detail": {
+    "title": "CP-HA-RK5535VW-4U-T",
+    "model": "CP-HA-RK5535VW-4U-T",
+    "brand": "CP Plus",
+    "overview": "4U DVR/NVR Rack",
+    "features": [
+      "Easy Wall-Mounting Design",
+      "Suitable for Networking, Telecom & CCTV Applications",
+      "Built with high-quality 0.5 mm CRCA Steel",
+      "Lockable Front Door with Acrylic Glass",
+      "Top & Bottom Cable Entry Provision with Rubber Edge Protection",
+      "Powder-Coated Durable Finish (RAL 7035 Grey)",
+      "15kg Load Bearing Capacity"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cf496d14-d820-4c86-b394-4e08db8e0ddb.jpg",
+        "alt": "CP-HA-RK5535VW-4U-T - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8835a9dd-0ba5-4e3d-aa39-8b1c14c9910f.jpg",
+        "alt": "CP-HA-RK5535VW-4U-T - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-HA-RK5535VW-4U-T.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ha-rk5535vw-4u-t"
+  }
+}

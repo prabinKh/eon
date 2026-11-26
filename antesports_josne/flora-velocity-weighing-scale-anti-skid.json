@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Flora Velocity Bathroom Weighing Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348817056035",
+    "product_name": "Flora Velocity Bathroom Weighing Scale",
+    "product_title": "Flora Velocity Bathroom Weighing Scale",
+    "product_url": "https://antesports.com/products/flora-velocity-weighing-scale-anti-skid",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/57.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/flora-velocity-weighing-scale-anti-skid.html",
+  "detail": {
+    "title": "Flora Velocity Bathroom Weighing Scale",
+    "model": "ANTR0064",
+    "brand": "Ant Esports",
+    "overview": "The Ant Flora Velocity is a bathroom weighing scale built with a tempered glass platform and an anti-skid base for stable, secure footing during everyday use. A clear LCD display makes results easy to check at a glance, and auto-off functionality helps conserve the included batteries over time. A dependable, straightforward scale for tracking body weight at home, backed by an extended 40-month warranty for genuine long-term reliability.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/57.png",
+        "alt": "Flora Velocity Bathroom Weighing Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Platform": "Tempered Glass",
+        "Base": "Anti-Skid",
+        "Display": "LCD",
+        "Power": "Auto Off, Batteries Included",
+        "Warranty Period": "40 Months",
+        "PLATFORM": "Tempered Glass",
+        "BASE": "Anti-Skid",
+        "DISPLAY": "LCD",
+        "POWER": "Auto Off, Batteries Included",
+        "WARRANTY PERIOD": "40 Months",
+        "SKU": "ANTR0064"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/flora-velocity-weighing-scale-anti-skid"
+  }
+}

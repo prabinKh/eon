@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Data Collection Station",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station",
+    "tab_title": "Data Collection Station",
+    "tab_id": "118256",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Data Collection Station",
+      "Data Collection Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "153225",
+    "product_name": "EEC400-D",
+    "product_title": "Dahua Data Collection Station",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec400-d",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16622/ProductImage/1_0_01_01_16622_817443559_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/eec400-d.html",
+  "detail": {
+    "title": "Dahua Data Collection Station",
+    "model": "EEC400-D",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EEC400-D Dahua Data Collection Station Key Points • Plug-and-Play Operation via Pogo-Pin Connector Ensures Effortless Device Handling • Simultaneously Connects 8pcs MPT230 for File Download, Charging, Firmware Upgrade and Parameter Configuration • Supports up to 4x16TB High-Capacity Local Storage • Flexible File Management via External HDMI Monitor and Web Client • Seamless Integration with Dahua Platform for unified management for devices, users, and storage resources Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16622/ProductImage/1_0_01_01_16622_817443559_crop_thumb.PNG",
+        "alt": "EEC400-D_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16622/ProductImage/1_0_01_01_16622_817443560_crop_thumb.PNG",
+        "alt": "EEC400-D_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16622/ProductImage/1_0_01_01_16622_817443556_crop_thumb.PNG",
+        "alt": "EEC400-D_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16622/ProductImage/1_0_01_01_16622_817443557_crop_thumb.PNG",
+        "alt": "EEC400-D_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16622/ProductImage/1_0_01_01_16622_817443558_crop_thumb.PNG",
+        "alt": "EEC400-D_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Network Port": {},
+      "USB": {},
+      "RS-232": {},
+      "Disk Interface": {},
+      "HDMI": {},
+      "Device Access Status Indication": {},
+      "Device Update": {},
+      "Auto Acquisition": {},
+      "Priority Acquisition": {},
+      "Web Configuration": {},
+      "FTP": {},
+      "Collection Speed": {},
+      "Power Adapter": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Environment": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84353/datasheet/DH-EEC400-D_S0_datasheet_20250717.pdf"
+      },
+      {
+        "name": "2026-01-01 #User Manual Data Collection Station_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84353/user_manual/Data_Collection_Station_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-01-01 #User Manual Data Collection Station_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84353/user_manual/Data_Collection_Station_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-07-08 #Drawings EEC400-D_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84353/drawings/EEC400-D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-07-08 #Drawings EEC400-D_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84353/drawings/EEC400-D_PORT.pdf"
+      },
+      {
+        "name": "2025-07-08 #Drawings EEC400-D_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84353/drawings/EEC400-D_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-06-19 #Firmware DH_EEC400(300V2)_Internal_PN_V1.000.0000003.0.R.260601 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64357/firmware/DH_EEC400(300V2)_Internal_PN_V1.000.0000003.0.R.260601.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec400-d"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Cube Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/cube-series",
+    "tab_title": "Cube Series",
+    "tab_id": "18157",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Cube Series",
+      "Cube Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "143291",
+    "product_name": "C5A",
+    "product_title": "5MP Indoor Fixed-focal Wi-Fi Cube Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/cube-series/c5a",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240961_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/c5a.html",
+  "detail": {
+    "title": "5MP Indoor Fixed-focal Wi-Fi Cube Network Camera",
+    "model": "C5A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite C5A 5MP Indoor Fixed-focal Wi-Fi Cube Network Camera Key Points • Convenient and flexible installation with Magnetic Base • One-click Privacy Mode • Detects Abnormal Sounds and Sends Alarm Promptly • AI Human & Pet Detection • Built-in Mic & Speaker, Support Two-way Talk • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • Fast Pairing with Bluetooth Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240961_crop_thumb.png",
+        "alt": "C5A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240965_crop_thumb.png",
+        "alt": "C5A_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240966_crop_thumb.png",
+        "alt": "C5A_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240962_crop_thumb.png",
+        "alt": "C5A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240963_crop_thumb.png",
+        "alt": "C5A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43092/ProductImage/1_0_01_04_43092_543240959_crop_thumb.png",
+        "alt": "C5A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Illumination Distance": "Up to 10 m (32.81 ft) (IR)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "1 (IR LED)",
+        "Angle Adjustment": "Pan: 0° to 360°; Tilt: -10° to 70°"
+      },
+      "Lens": {
+        "Max. Aperture": "F2.0",
+        "Field of View": "H: 90°; V: 49°; D: 106°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes"
+      },
+      "Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2880 × 1620@(1-25/30 fps) sub stream: 640 × 360@(1-25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Resolution": "5M (2880 × 1620); nHD (640 × 360)",
+        "Video Bit Rate": "H.265: 80 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "0°/180°"
+      },
+      "Audio": {
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a"
+      },
+      "Network": {
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.412-2.472 GHz,2.4G",
+        "Storage": "Micro SD card (up to 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "Certification": {
+        "Certifications": "CE"
+      },
+      "Power": {
+        "Power Supply": "5 VDC, 1 A",
+        "Power Consumption": "Basic: 1.65 W; Max.: 2.75 W (H.265+ IR intensity)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +45 °C (14 °F to +113 °F)",
+        "Operating Humidity": "≤95%"
+      },
+      "Structure": {
+        "Casing Material": "Plastic",
+        "Product Dimensions": "Φ68 mm × 31.9 mm × 119.2 mm (2.68\" × 1.26\" × 4.69\")",
+        "Net Weight": "95 g (0.21 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/C5A_S0_datasheet_20240401.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Cube Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009103/202411/Dahua_Cube_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88168/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Cube Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009103/202411/Cube_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-03-08 #A&E Document C5A_A&E_20260918005604 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80531/a_e_document/1789664445352.docx"
+      },
+      {
+        "name": "2024-02-04 #Drawings C5A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80521/drawings/C3A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-02-04 #Drawings C5A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80521/drawings/C3A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-07-02 #Firmware DH_IPC-WPT-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81571/firmware/DH_IPC-WPT-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/cube-series/c5a"
+  }
+}

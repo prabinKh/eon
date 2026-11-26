@@ -1,0 +1,136 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "Crystal Neo Mini"
+    ]
+  },
+  "card_info": {
+    "product_id": "10369379467555",
+    "product_name": "Crystal Neo Mini",
+    "product_title": "Crystal Neo Mini",
+    "product_url": "https://antesports.com/products/crystal-neo-mini",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_8849c76a-cfec-4b74-89de-1f342bc56cc7.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/crystal-neo-mini.html",
+  "detail": {
+    "title": "Crystal Neo Mini",
+    "model": "Crystal Neo Mini",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Crystal Neo Mini is designed to deliver excellent airflow, reliable performance, and compatibility with modern PC builds. Featuring support for Micro-ATX and Mini-ITX motherboards, 5 pre-installed ARGB fans, and support for graphics cards up to 415mm long, it ensures efficient cooling and flexible hardware compatibility. With support for CPU air coolers up to 180mm and 360mm AIO liquid cooling on the top, it is ideal for gaming, content creation, and everyday computing. The cabinet also includes a metal frame, tempered glass, cable management support, USB Type-C connectivity, and support for up to 1 HDD and 2 SSDs. Whether you are building a new gaming PC or upgrading your existing setup, this cabinet offers stylish design, dependable performance, and essential functionality for PC enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_8849c76a-cfec-4b74-89de-1f342bc56cc7.png",
+        "alt": "Crystal Neo Mini - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_ef755194-b661-411a-88bd-4dfdce85166d.png",
+        "alt": "Crystal Neo Mini - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_71ec4d53-7370-47cf-84a7-bd49165db00c.png",
+        "alt": "Crystal Neo Mini - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_a343e182-09a3-4cd8-898a-1a36c9cbb684.png",
+        "alt": "Crystal Neo Mini - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Length (mm)": "435",
+        "Width (mm)": "225",
+        "Height (mm)": "410",
+        "Volume (liters)": "40",
+        "Material": "SPCC + Tempered Glass",
+        "Motherboard Support": "M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "2",
+        "Front FAN Support": "None",
+        "Top FAN Support": "3x120mm / 2x140mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm / 1x140mm",
+        "Side FAN Support": "2x120mm",
+        "Front AIO Support": "None",
+        "Top AIO Support": "240mm / 280mm / 360mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "120mm",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "5 (2x Side Fans, 2x Bottom Fans, 1x Rear Fan)",
+        "ARGB Fans": "5",
+        "Max. VGA Card Length (mm)": "415",
+        "Max. CPU Cooler Height (mm)": "180",
+        "I/O Panel": "1x Type-C, 1x USB 3.0, 1x USB, HD Audio + Mic (TRRS Port), Power Button, Reset Button",
+        "Expansion Slots": "5",
+        "Cable Management Support": "Yes",
+        "PSU Zone": "Dedicated PSU & Component Zone",
+        "Packing Size (mm)": "450 x 282 x 499",
+        "LENGTH (MM)": "435",
+        "WIDTH (MM)": "225",
+        "HEIGHT (MM)": "410",
+        "VOLUME (LITERS)": "40",
+        "MATERIAL": "SPCC + Tempered Glass",
+        "MOTHERBOARD SUPPORT": "M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "2",
+        "FRONT FAN SUPPORT": "None",
+        "TOP FAN SUPPORT": "3x120mm / 2x140mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm / 1x140mm",
+        "SIDE FAN SUPPORT": "2x120mm",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "240mm / 280mm / 360mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "120mm",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "5 (2x Side Fans, 2x Bottom Fans, 1x Rear Fan)",
+        "ARGB FANS": "5",
+        "MAX. VGA CARD LENGTH (MM)": "415",
+        "MAX. CPU COOLER HEIGHT (MM)": "180",
+        "I/O PANEL": "1x Type-C, 1x USB 3.0, 1x USB, HD Audio + Mic (TRRS Port), Power Button, Reset Button",
+        "EXPANSION SLOTS": "5",
+        "CABLE MANAGEMENT SUPPORT": "Yes",
+        "PSU ZONE": "Dedicated PSU & Component Zone",
+        "PACKING SIZE (MM)": "450 x 282 x 499"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (CRYSTAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/crystal-neo-mini"
+  }
+}

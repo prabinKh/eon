@@ -1,0 +1,109 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "153186",
+    "product_name": "ARA715",
+    "product_title": "Serial Converter",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara715=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10955/ProductImage/1_0_01_19_10955_850621536_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara715-v2.html",
+  "detail": {
+    "title": "Serial Converter",
+    "model": "ARA715",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARA715 Serial Converter Key Points · The Serial Port Module is specifically designed to be used with Hub 2, enabling seamless connectivity to the RS-485 I/O expansion module. This enhancement facilitates wired input and output expansion capabilities Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10955/ProductImage/1_0_01_19_10955_850621536_crop_thumb.PNG",
+        "alt": "ARA715-V2_View_Front-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10955/ProductImage/1_0_01_19_10955_850621560_crop_thumb.PNG",
+        "alt": "ARA715-V2_View_Rear-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "RS-232": {},
+      "RS-485": {},
+      "Indicator Light": {},
+      "Power Supply": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Certifications": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARA715_V2_datasheet_20250530.pdf"
+      },
+      {
+        "name": "2025-05-24 #User Manual Serial Converter_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010864/202505/Serial_Converter_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-24 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87633/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-05-21 #Drawings ARA715-V2_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83412/drawings/ARA715-V2_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings ARA715-V2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83412/drawings/ARA715-V2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-05-21 #Drawings ARA715-V2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83412/drawings/ARA715-V2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara715=v2"
+  }
+}

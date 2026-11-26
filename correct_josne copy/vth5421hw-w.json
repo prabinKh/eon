@@ -1,0 +1,192 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Indoor Monitor",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "5787",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Indoor Monitor",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "102427",
+    "product_name": "VTH5421HB-W/VTH5421HW-W",
+    "product_title": "IP & Wi-Fi Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/indoor-monitor/pro-series/vth5421hb-w/vth5421hw-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11992/ProductImage/1_0_01_15_11992_528283386_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth5421hw-w.html",
+  "detail": {
+    "title": "IP & Wi-Fi Indoor Monitor",
+    "model": "VTH5421HB-W/VTH5421HW-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH5421HB-W/VTH5421HW-W IP & Wi-Fi Indoor Monitor Key Points • 7-inch Colorful Touch Screen, Resolution: 1024 × 600 • Wi-Fi Support • Standard PoE • Device Port: 6-Channel Alarm Input, 1-Channel Alarm Output, 1-Channel RS485 • TF Card Support, Max 64GB • 2.5D Glass Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11992/ProductImage/1_0_01_15_11992_528283386_crop_thumb.png",
+        "alt": "VTH5421HW(B)-W_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11992/ProductImage/1_0_01_15_11992_2019418528_crop_thumb.png",
+        "alt": "VTH5421HW(B)-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11992/ProductImage/1_0_01_15_11992_2019418526_crop_thumb.png",
+        "alt": "VTH5421HW(B)-W_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11992/ProductImage/1_0_01_15_11992_2019418529_crop_thumb.png",
+        "alt": "VTH5421HW(B)-W_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11992/ProductImage/1_0_01_15_11992_2019418527_crop_thumb.png",
+        "alt": "VTH5421HW(B)-W_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Operating System": "Embedded Linux operating system",
+        "Interoperability": "ONVIF; SDK",
+        "Network Protocol": "RTSP; RTP; SIP; DNS; SSH"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive touchscreen",
+        "Display": "7\" TFT",
+        "Screen Resolution": "1024 × 600",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "2-way Audio",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 kHz; 16 Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Information Release": "Receive and view text information released by the management center",
+        "Leave Videos": "Yes (insert an SD card into the indoor monitor)",
+        "DND Mode": "Do not disturb period can be set; Do not disturb mode",
+        "Number of Extensions": "Villa: 9 Apartment: 4 Wi-Fi intercom: 1 main monitor, 2 extension monitors",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2,412–2,472 MHz",
+        "Storage": "Micro SD card (up to 64 GB)",
+        "Wireless Security Encryption": "WPA/WPA2; WPA-PSK/WPA2-PSK"
+      },
+      "Performance": {
+        "Casing": "PC + ABS"
+      },
+      "Port": {
+        "RS485": "1",
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Power Output": "1 (12 V/200 mA)",
+        "Door Bell": "Yes (use any alarm input port)",
+        "Network": "One 10 /100 Mbps Ethernet"
+      },
+      "General": {
+        "Appearance Color": "White/Black",
+        "Power Supply": "12 VDC 1 A Standard PoE (36–57 V, 0.35 A)",
+        "Installation": "Surface mount",
+        "Certifications": "CE; FCC",
+        "Dimensions": "189.0 mm × 130.0 mm × 26.9 mm (7.44\" × 5.12\" × 1.06\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to 131 °F)",
+        "Operating Humidity": "10%-95% RH (non-condensing)",
+        "Operating Altitude": "Beneath 3000 m (9842.52 ft)",
+        "Power Consumption": "Standby ≤ 2 W; working ≤ 6 W",
+        "Net Weight": "0.35 kg (0.78 lb)",
+        "Gross Weight": "0.56 kg (1.23 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH5421HW(B)-W_datasheet_20230914.pdf"
+      },
+      {
+        "name": "2026-08-14 #User Manual Digitale VTH (Version 4.8.1)_Benutzerhandbuch_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85424/user_manual/Digitale_VTH_(Version_4.8.1)_Benutzerhandbuch_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-14 #User Manual Digital VTH (Version 4.8.1)_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83226/user_manual/Digital_VTH_(Version_4.8.1)_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-14 #User Manual Dahua Digital Indoor Monitor_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10357/user_manual/Dahua_Digital_Indoor_Monitor_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2026-08-14 #User Manual Dahua Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10357/user_manual/Dahua_Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.PDF"
+      },
+      {
+        "name": "2026-08-14 #User Manual Dahua Digital Indoor Monitor_SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10357/user_manual/Dahua_Digital_Indoor_Monitor_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2026-08-14 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83226/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2021-12-22 #Drawings VTH5421HB-W/VTH5421HW-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42577/drawings/VTH5421HB_VTH5421HW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-12-22 #Drawings VTH5421HB-W/VTH5421HW-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42577/drawings/VTH5421HB_VTH5421HW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2021-12-22 #Drawings VTH5421HB-W/VTH5421HW-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42577/drawings/VTH5421HB_VTH5421HW_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-08-15 #Firmware DH_VTHX6XXX-SX_MultiLang_SIP_EMEA_V4.810.1132000.0.R.260813 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83226/firmware/DH_VTHX6XXX-SX_MultiLang_SIP_EMEA_V4.810.1132000.0.R.260813.zip"
+      },
+      {
+        "name": "2022-09-29 #Firmware 1368379_DH_VTHX6XXX-SX_MultiLang_SIP_CEE-Nordic_V4.600.0000000.0.R.220819 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10357/firmware/1947379685011.zip"
+      },
+      {
+        "name": "2022-09-29 #Firmware 1368373_DH_VTHX6XXX-SX_MultiLang_SIP_Asia_V4.600.0000000.0.R.220819 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10357/firmware/1947222709395.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/indoor-monitor/pro-series/vth5421hb-w/vth5421hw-w"
+  }
+}

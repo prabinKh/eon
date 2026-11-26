@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "30",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "16 Ch.",
+      "CP-UNR-4K4164-FI"
+    ]
+  },
+  "card_info": {
+    "product_id": "2031",
+    "product_name": "CP-UNR-4K4164-FI",
+    "product_title": "CP-UNR-4K4164-FI",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4164-fi",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/acb81187-e082-4ef5-8939-0818c7cb8a78.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4164-fi.html",
+  "detail": {
+    "title": "CP-UNR-4K4164-FI",
+    "model": "CP-UNR-4K4164-FI",
+    "brand": "CP Plus",
+    "overview": "16Ch. 4K AI Network Video Recorder",
+    "features": [
+      "Up to 16 channel IP camera input",
+      "Instastream, H.265, H.264+, H.264, MJPEG",
+      "AI by Recorder: 1 Channel face detection and Recognition, 2 Channel perimeter protection, up to 10 face databases and 20,000 face images, 4 Channel SMD Plus",
+      "AI by Camera: Face detection and Recognition, Perimeter protection, SMD Plus, ANPR, People counting, Stereo analysis, Heat map",
+      "AI disabled: 256 Mbps incoming, AI enabled: 180 Mbps incoming",
+      "Support 4 SATA ports, up to 16TB each, 2 USB (1 front USB 2.0 port, 1 rear USB 3.0 port), 1 RS232, 1 RS485",
+      "1 HDMI, 1 VGA Simultaneous/ Heterogeneous video output",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/acb81187-e082-4ef5-8939-0818c7cb8a78.jpg",
+        "alt": "CP-UNR-4K4164-FI - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/24d49781-a511-411f-8f37-7ad637ba700c.jpg",
+        "alt": "CP-UNR-4K4164-FI - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "16 Channels",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "Perimeter Performance AI by NVR": "2 channels, 10 IVS rules for each channel",
+        "Perimeter Performance of AI by Camera": "All channels (8 targets/s)",
+        "Face Detection AI by NVR": "1 Channel (up to 12 face images/s each channel)",
+        "Video Output": "1 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720;  1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Abnormality Alarm": "Camera disconnection, Storage error, Disk full, IP conflict, MAC conflict, Login locked, Cybersecurity exception",
+        "Face Recognition AI by NVR": "8 Channel FD (by camera) + FR (by NVR), image stream: 12 face images/s 1 Channel FD (by NVR) + FR (by NVR), video stream: 12 face images/s",
+        "Face Recognition AI by Camera": "All Channels (8 targets/s)",
+        "Network Bandwidth": "AI disabled: 256 Mbps incoming, 256 Mbps recording and 256 Mbps outgoing  AI enabled: 180 Mbps incoming, 180 Mbps recording and 180 Mbps outgoing",
+        "Video Display Split": "1st Screen: 1/4/8/9/16; 2nd Screen: 1/4/8/9",
+        "ANPR by Camera (Number of Channels)": "All Channels (4 targets/s)",
+        "License Plate Database Capacity": "1. Create up to 20,000 plate numbers; 2. Blocklist and allowlist",
+        "Audio Input": "1 Channel RCA",
+        "Audio Output": "Audio Output",
+        "Video Resolution": "8 MP, 6 MP, 5 MP, 4 MP, 3 MP, 2MP, 960p, 720p, D1, CIF",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Alarm Input": "16 Channel",
+        "Alarm Output": "4 Channels",
+        "Disk Group": "Support",
+        "Hard Disk": "4 SATA ports, up to 16 TB each. The maximum HDD capacity varies with environment temperature",
+        "Alarm Linkage": "Record, Snapshot, IPC external alarm output, Audio, Buzzer, Log, Preset, Email",
+        "Multi-channel Playback": "Up to 16 Channels",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 3.0 port), 1 HDMI, 1 VGA, 1 RS232,",
+        "Ethernet": "2 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Protocols": "HTTPS, TCP/IP, IPv4/IPv6, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter,  PPPoE, DDNS, FTP, Alarm Server, P2P, auto register, ONVIF 22.06(Profile T, Profile S, Profile G), CGI, SDK",
+        "Backup Method": "USB device and network",
+        "SMD Plus by NVR": "4 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, Rain and lighting condition change",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE9 and later, Firefox",
+        "Power Supply": "100–240 VAC, 50-60Hz",
+        "Power Consumption": "<10 W (without HDD)",
+        "Operating Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Dimension": "440.0 mm × 415.6 mm x 76.0 mm",
+        "Weight": "4.25 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4164-FI.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4164-fi"
+  }
+}

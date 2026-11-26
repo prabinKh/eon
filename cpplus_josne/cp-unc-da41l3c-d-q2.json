@@ -1,0 +1,164 @@
+{
+  "hierarchy": {
+    "category": "4 MP",
+    "category_url": "https://cpplusworld.com/products/4-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/4-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "38",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "4 MP",
+      "CP-UNC-DA41L3C-D-Q2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2273",
+    "product_name": "CP-UNC-DA41L3C-D-Q2",
+    "product_title": "CP-UNC-DA41L3C-D-Q2",
+    "product_url": "https://cpplusworld.com/cp-unc-da41l3c-d-q2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/053d370c-b2da-47d9-9cd5-8d62c46d8e8d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-da41l3c-d-q2.html",
+  "detail": {
+    "title": "CP-UNC-DA41L3C-D-Q2",
+    "model": "CP-UNC-DA41L3C-D-Q2",
+    "brand": "CP Plus",
+    "overview": "4MP Network IR Dome Camera - 30Mtr.",
+    "features": [
+      "1/2.9\" 4MP PS CMOS Image Sensor (0.8758 Centimeters)",
+      "Max. 4MP (2688 x 1520), (2560 x 1440)@1-25fps",
+      "H.265, H.264H, H.264, H.264B, MJPEG",
+      "Support Triple Stream",
+      "WDR (120dB), Day/Night (ICR), 3D NR, ROI, AWB, AGC, BLC, HLC",
+      "3.6mm Lens",
+      "IR Range of 30 Mtr., PoE, IP67",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/053d370c-b2da-47d9-9cd5-8d62c46d8e8d.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/5c2e7611-df72-4ad4-b48d-dab5fa1d1592.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/eeef22f6-8359-4d42-91f8-1160b59a29fd.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d1a5ef2e-75a0-4cfa-b04d-f2b8f13d47da.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/de16e3e2-39bb-44d2-8051-90a2e1c8f4a0.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a17a9cc6-2a1c-492e-a35d-29ca49571eef.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/75ca6b24-5f63-4c1b-ab30-1b591a7fdfad.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f49a59ab-945d-4aa0-87b4-aeddb909dc93.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/37ed2814-0b30-4b04-bab3-13a0f2e987d7.png",
+        "alt": "CP-UNC-DA41L3C-D-Q2 - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.9",
+        "Minimum Illumination": "0.03 lux @ F2.0 (Color, 30 IRE), 0.003 lux @ F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Effective Pixels": "2688 (H) × 1520 (V)",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360°",
+        "RAM": "128 MB",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "Image Setting": "Brightness, Contrast, Sharpness, Saturation, Gamma",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F2 .0",
+        "IR Control": "Auto, Manual",
+        "Smart IR": "Support",
+        "IR Number": "1 (IR LED)",
+        "IR": "IR Range of 30 Mtr.",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "DORI Distance": "76.0 m (Detect), 30.4 m (Observe), 15.2 m (Recognize), 7.6 m (Identify)",
+        "Lens": "3.6mm Lens",
+        "Video Compression": "H.265, H.264H, H.264, H.264B, MJPEG (Only supported by the sub stream)",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "S/N Ratio": ">55dB",
+        "Angle of view": "H: 78°, V: 43°, D: 92°",
+        "Stream Capability": "Triple Stream",
+        "Frame Rate": "Main Stream: 4MP (2688 x 1520)@1-25fps, (2560 x 1440)@1-25fps, 3MP (2304 x 1296)@1-<BR> 25fps, 1080P (1920 x 1080)@1-25fps, 1.3MP (1280 x 960)@1-25fps, 720P (1280 x 720)@1-<BR>  25fps<BR>  Sub stream 1: 720P (1280 x 720)@1-25fps, D1 (704 x 576)@1-25fps, VGA (640 x 480)@1-<BR> 25fps, CIF (352 x 288)@1-25fps       Sub stream 2: D1 (704 x 576)@1-25fps, VGA (640 x 480)@1-<BR> 25fps, CIF (352 x 288)@1-25fps <BR> Sub stream 2: D1 (704 x 576)@1-25fps, VGA (640 x 480)@1-25fps, CIF (352 x 288)@1-25fps",
+        "Resolution": "4MP (2688 x 1520), (2560 x 1440), 3MP (2304 x 1296), 1080P (1920 x 1080), 1.3MP (1280 x <BR>  960)@1-25fps, 720P (1280 x 720), D1 (704 x 576), VGA (640 x 480), CIF (352 x 288)",
+        "Noise Reduction": "3D NR",
+        "Privacy Mask": "8 areas",
+        "Audio Compression": "G.711a, G.711Mu, PCM, G.726",
+        "OSD": "Channel Title, Time Title, Text Overlay, Font Attribute, Custom Overlay",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265: 3 kbps–6144 kbps, H.264: 8 kbps–6144 kbps",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, ARP, UDP, RTP, RTSP, RTSPS, RTCP, RTMP, SMTP, SFTP, DHCP, <BR>  DNS, QoS, NTP, Multicast, ICMP, IGMP, SSL, PPPoE, SNMP V3, InstaOn, Auto Connect, ONVIF <BR> (Profile S, Profile T)",
+        "Video Standard": "PAL",
+        "Mirror Function": "Support",
+        "Audio Sampling Rate": "8 kHz, 16 kHz",
+        "Image Rotation": "0°/90°/180°/270°",
+        "Browser": "Edge, IE, Chrome, Firefox",
+        "User/Host": "6 (Total bandwidth: 24 M)",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Storage": "FTP",
+        "Weatherproof Standard": "IP67",
+        "Working Voltage": "12 VDC (±30%); Ethernet Port (PoE) (802.3af)",
+        "Power Source": "12 VDC/Ethernet Port (PoE) (802.3af)",
+        "Power Consumption": "Basic: 2.5 W (12 VDC), 3.3 W (Ethernet Port (PoE)), Max. (ICR + H.265 + max. resolution + main <BR> stream + IR intensity + WDR + IVS): 4.2 W (12 VDC), 5.1 W (Ethernet Port (PoE))",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Casing": "Metal",
+        "Dimensions": "85.5 mm × Φ109 mm",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE, <BR>  FCC, RoHS and BIS, STQC approved compliance report"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-DA41L3C-D-Q2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/cebe526b-55e0-4deb-9e3c-79c8e07eb202.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-da41l3c-d-q2"
+  }
+}

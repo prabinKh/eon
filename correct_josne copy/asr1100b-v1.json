@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "140941",
+    "product_name": "ASR1100B-V1",
+    "product_title": "Dahua Card Swiping Access Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1100b-v1",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11672/ProductImage/1_0_01_25_11672_41405209_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr1100b-v1.html",
+  "detail": {
+    "title": "Dahua Card Swiping Access Reader",
+    "model": "ASR1100B-V1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR1100B-V1 Dahua Card Swiping Access Reader Key Points • Water-proof Card Reader • RS-485 and Wiegand 34 Protocol • Mifare Classic 1K Card (13.56MHz) Reading • Prompts Using The Buzzer and Indicator Light • IP67 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11672/ProductImage/1_0_01_25_11672_41405209_crop_thumb.png",
+        "alt": "ASR1100B-V1_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11672/ProductImage/1_0_01_25_11672_41405208_crop_thumb.png",
+        "alt": "ASR1100B-V1_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Card",
+        "Card Type": "IC card"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")"
+      },
+      "Port": {
+        "RS-485": "Yes",
+        "Wiegand": "Yes"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "9–15 VDC, 100 mA",
+        "Protection": "IP67 (silicon surface treatment needed, see the manual)",
+        "Power Consumption": "≤0.9 W (standby), ≤1 W (working)",
+        "Product Dimensions": "102 mm × 72 mm × 18 mm (4.02\" × 2.83\" × 0.71\") (W× H × D）",
+        "Packaging Dimensions": "168 mm × 120 mm × 52 mm (6.61\" × 4.72\" × 2.05\") (W× H × D）",
+        "Operating Temperature": "-30°C to +60°C (-22°F to 140°F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor/outdoor",
+        "Gross Weight": "0.17 kg (0.37 lb)",
+        "Installation": "Surface Mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASR1100B-V1_datasheet_20240116.pdf"
+      },
+      {
+        "name": "2025-08-04 #User Manual Access Reader_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0003958/202501/Access_Reader_User_s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2022-03-24 #Drawings ASR1100B-V1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79077/drawings/ASR1100B-D-V1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-12-23 #Drawings ASR1100B-V1_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79077/drawings/ASR1100B-D-V1_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-07-11 #Firmware General_ASR1XXXB_NOENC_MCU_V4.000.0000000.3.R.230619 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2242577/M/General_ASR1XXXB_NOENC_MCU_V4.000.0000000.3.R.230619.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1100b-v1"
+  }
+}

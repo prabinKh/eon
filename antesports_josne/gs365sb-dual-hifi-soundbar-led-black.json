@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Speaker",
+    "subcategory_url": "https://antesports.com/collections/speaker",
+    "series": "Speaker Series",
+    "series_url": "https://antesports.com/collections/speaker",
+    "tab_title": "Speaker",
+    "tab_id": "508173353251",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Speaker",
+      "GS365SB Dual HiFi Soundbar Speaker with LED Lighting - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341811323171",
+    "product_name": "GS365SB Dual HiFi Soundbar Speaker with LED Lighting - Black",
+    "product_title": "GS365SB Dual HiFi Soundbar Speaker with LED Lighting - Black",
+    "product_url": "https://antesports.com/products/gs365sb-dual-hifi-soundbar-led-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/51.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gs365sb-dual-hifi-soundbar-led-black.html",
+  "detail": {
+    "title": "GS365SB Dual HiFi Soundbar Speaker with LED Lighting - Black",
+    "model": "AEPP0130",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GS365SB is a dual-driver HiFi soundbar built around two 5W speakers for a combined 10W of clear, surge-free stereo sound across highs, mids and bass. Its slim horizontal form factor sits neatly under a monitor or laptop screen, saving desk space while still delivering full, room-filling audio for games, movies, music and calls. Multi-colour LED lighting runs along the body for a subtle glow that complements any setup, and a rugged metal mesh housing keeps the unit durable for daily use. Simply plug in through the 3.5mm AUX port and power via USB to connect with a desktop, laptop, MacBook, tablet, monitor or mobile phone.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/51.png",
+        "alt": "GS365SB Dual HiFi Soundbar Speaker with LED Lighting - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Configuration": "2.0 Stereo, Dual 5W Drivers",
+        "Output Power": "10W Total",
+        "Connectivity": "3.5mm AUX Input",
+        "Lighting": "Multi-Colour LED Accent",
+        "Build": "Metal Mesh Construction",
+        "Power": "USB Powered",
+        "Compatibility": "Desktop, Laptop, MacBook, Tablet, Monitor, Mobile",
+        "Color": "Black",
+        "CONFIGURATION": "2.0 Stereo, Dual 5W Drivers",
+        "OUTPUT POWER": "10W Total",
+        "CONNECTIVITY": "3.5mm AUX Input",
+        "LIGHTING": "Multi-Colour LED Accent",
+        "BUILD": "Metal Mesh Construction",
+        "POWER": "USB Powered",
+        "COMPATIBILITY": "Desktop, Laptop, MacBook, Tablet, Monitor, Mobile",
+        "COLOR": "Black",
+        "SKU": "AEPP0130"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gs365sb-dual-hifi-soundbar-led-black"
+  }
+}

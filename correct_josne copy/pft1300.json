@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "PoE Extender",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/poe-extender",
+    "tab_title": "PoE Extender",
+    "tab_id": "13687",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "PoE Extender",
+      "PoE Extender"
+    ]
+  },
+  "card_info": {
+    "product_id": "8971",
+    "product_name": "PFT1300",
+    "product_title": "3-Port PoE Extender with 2-Port PoE Out and 1-Port PoE In",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poeextender/pft1300",
+    "card_image": "https://material.dahuasecurity.com/upfiles/PFT1300_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pft1300.html",
+  "detail": {
+    "title": "3-Port PoE Extender with 2-Port PoE Out and 1-Port PoE In",
+    "model": "PFT1300",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/upfiles/PFT1300_thumb.png",
+        "alt": "PFT1300",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poeextender/pft1300"
+  }
+}

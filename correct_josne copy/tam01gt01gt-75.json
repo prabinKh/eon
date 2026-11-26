@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "PoE Midspan",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/poe-midspan",
+    "tab_title": "PoE Midspan",
+    "tab_id": "13697",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "PoE Midspan",
+      "PoE Midspan"
+    ]
+  },
+  "card_info": {
+    "product_id": "30117",
+    "product_name": "TAM01GT01GT-75",
+    "product_title": "75W PoE Midspan",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poemidspan/tam01gt01gt-75",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20190318/TAM01GT01GT-75W_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/tam01gt01gt-75.html",
+  "detail": {
+    "title": "75W PoE Midspan",
+    "model": "TAM01GT01GT-75",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20190318/TAM01GT01GT-75W_thumb.png",
+        "alt": "TAM01GT01GT-75",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poemidspan/tam01gt01gt-75"
+  }
+}

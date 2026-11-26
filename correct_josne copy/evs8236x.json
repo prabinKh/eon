@@ -1,0 +1,165 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "EVS Series",
+    "tab_id": "569",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "EVS Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "125337",
+    "product_name": "EVS8236X",
+    "product_title": "Dahua 1024CH 36-bay 4U Embedded Video Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs8236x",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230308/EVS8236X_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/evs8236x.html",
+  "detail": {
+    "title": "Dahua 1024CH 36-bay 4U Embedded Video Storage",
+    "model": "EVS8236X",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EVS8236X Dahua 1024CH 36-bay 4U Embedded Video Storage Key Points • Max. 1024-ch IP Camera Inputs • Max. 2048 Mbps Incoming/Recording/Forwarding Bandwidth • 36 Bays, SAS/SATA, Hot-Swap • RAID 0/1/5/6/10/50/60, Hot Spare, N+M Cluster • Video Stream/Picture Direct Storage Mode and IPSAN Storage Mode • Modular and Drawer-like Design • 1+1 Redundant 80PLUS Platinum Power Supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230308/EVS8236X_11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230308/EVS8236X_3_thumb.png",
+        "alt": "EVS8236X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230308/EVS8236X_2_thumb.png",
+        "alt": "EVS8236X",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Main Processor": "Dual 64-bit high-performance multi-core processor",
+        "Operating System": "Embedded LINUX OS",
+        "Operating Interface": "Web (PCAPP)",
+        "Controller": "Single controller",
+        "Cache": "16 GB by default (extendable to 256 GB)",
+        "AI by Camera": "Face detection, face recognition, IVS (abandoned object, missing object, loitering, crowd gathering, parking, fence-crossing, fast moving, tripwire and intrusion), video metadata (human, vehicle, non-motor vehicle), vehicle recognition, people counting (fisheye or people counting camera required),face & body detection, crowd distribution, smart thermal (call detection, visible channel- smoking detection, thermal channel-smoking detection)",
+        "Thermal": "Works with camera for fire alarm, temperature alarm, temperature difference alarm, hot spot, cold spot, smoking and calling",
+        "People Counting": "Works with camera for tripwire people counting, regional people counting and queue people counting",
+        "Bullet-PTZ Smart Track": "Works with camera for manual tracking, auto tracking, click positioning and select positioning",
+        "Fisheye Dewarp": "Supports dewarping for fisheye cameras",
+        "Cluster": "N+M",
+        "Access Channel": "1024",
+        "Multi-screen Display": "Customized display, max 16-channel PCAPP live view",
+        "Third-party Camera Access": "ONVIF; RTSP; Sony; Panasonic; Axis; Arecont; Pelco; Canon; Samsung",
+        "Video Compression": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio Compression": "G.711A; G.711U; PCM; G726",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; iSCSI; FTP; SMB; NFS; UPnP; SNMP; IPv6",
+        "Interoperability": "ONVIF (Profile S); CGI; SDK",
+        "Browser": "Chrome; PCAPP; IE9 or higher; Firefox",
+        "Network Mode": "Multiple-address mode;Load balance;Fault-tolerance;Link aggregation",
+        "Multi-channel Playback": "Web playback, max. 16-channel playback",
+        "Record Mode": "Auto record; manual record; motion detection; IO alarm",
+        "Storage Method": "Internal HDD",
+        "Backup Method": "Peripheral eSATA storage device; peripheral USB storage device",
+        "Playback Function": "1. Play, pause, stop, fast forward, fast backward, reverse play, frame by frame 2. Full-screen, backup (clip; file), snapshot, digital zoom, audio on; off",
+        "Video Direct Storage (Private Protocol)": "Incoming: 1024-channel (bandwidth: 2048 Mbps) Recording: 1024-channel (bandwidth: 2048 Mbps) Outgoing: 1024-channel (bandwidth: 2048 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Onvif)": "Incoming: 1024-channel (bandwidth: 2048 Mbps) Recording: 1024-channel (bandwidth: 2048 Mbps) Outgoing: 1024-channel (bandwidth: 2048 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Auto Register)": "Incoming: 1024-channel (bandwidth: 2048 Mbps) Recording: 1024-channel (bandwidth: 2048 Mbps) Outgoing: 1024-channel (bandwidth: 2048 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Picture Direct Storage": "Incoming: 400-channel (550 KB/picture) Recording: 400-channel (550 KB/picture) Outgoing: 400-channel (550 KB/picture)",
+        "Disk Group": "Yes",
+        "RAID": "RAID0; RAID1; RAID5; RAID6; RAID10; RAID50; RAID60",
+        "Record Management": "Supports record control (continuous, event-based, scheduled, scheduled & event-based)",
+        "Storage Pool": "Yes",
+        "IPSAN Performance": "400-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback ( I/O size of VMS is 64 KB)",
+        "General Alarm": "Motion detect; tampering; IPC external alarm",
+        "Anomaly Alarm": "IPC offline alarm; storage error; HDD full; video frame loss; SSD exception; IP conflict; MAC conflict; login lock; fan malfunction; no HDD; power exception; disk health exception; RAID exception; low quota space; storage pool exception; temperature alarm; share service",
+        "Alarm Linkage": "Record; snapshot (full image); alarm uploading; remote device alarm output; camera audio; buzzer; log; preset; email, smart tracking and warning light. Disarming alarm linkage action by period or one-click sync disarm configuration with channels",
+        "HDD Interface": "36 slots, SATA; SAS Max.20 TB/HDD hot swapping CMR support enterprise-grade HDD",
+        "eSATA": "1 port",
+        "RS-232": "1 port",
+        "USB": "2 × USB3.0 and 2 × USB2.0",
+        "VGA": "1 port, only for debug",
+        "Network Port": "1 × 1-GbE management port; 4 × 1-GbE LAN ports",
+        "Power": "1+1 redundant power supply",
+        "Network Port Extension": "4×10-GbE optical fiber ports (optional)",
+        "Disk Bay": "36",
+        "Form Factor": "4U",
+        "Power Supply": "100–127 VAC/200–240 VAC, 50/60 Hz",
+        "Power Consumption": "Working(all HDDs connected): ≤ 500W(1706 BTU/hr) Working(without HDD): ≤ 200W(682 BTU/hr) Rated: ≤ 800W(2730 BTU/hr)",
+        "Fan": "Intelligent speed regulation fan",
+        "Net Weight": "30 kg (66.14 lb)",
+        "Gross Weight": "45 kg (99.21 lb)",
+        "Product Dimensions": "737 mm × 483 mm (with hanger) × 175 mm (29.02\" × 19.02\" × 6.89\") (L × W × H)",
+        "Operating Temperature": "0 °C to 45 °C (+32 °F to +113 °F)",
+        "Operating Humidity": "10%–80% (RH), non-condensing",
+        "Operating Altitude": "5000 m (16404.20 ft)",
+        "Installation": "Standard 19 inch rack",
+        "Certifications": "CE: CE-LVD: EN 60950-1/IEC 60950-1 CE-EMC: EN 61000-3-2, EN 61000-3-3, EN 55032, EN 50130, EN 55024 FCC: Part 15 Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-EVS8236X_datasheet_20251011.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual Dahua Embedded Video Storage_User Manual_V5.3.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/Dahua_Embedded_Video_Storage_User_Manual_V5.3.6.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual EVS HDD_Installation Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/EVS_HDD_Installation_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2023-02-09 #A&E Document EVS8236X_A&E_20260914184811 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/66187/a_e_document/1789383068076.docx"
+      },
+      {
+        "name": "2023-02-15 #Drawings EVS8236X_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/66187/drawings/EVS8236X_PORT.pdf"
+      },
+      {
+        "name": "2023-02-15 #Drawings EVS8236X_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/66177/drawings/EVS8224X_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-09 #Firmware DH_EVS82XX_MultiLang_V5.002.0000001.2.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/66177/firmware/DH_EVS82XX_MultiLang_V5.002.0000001.2.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs8236x"
+  }
+}

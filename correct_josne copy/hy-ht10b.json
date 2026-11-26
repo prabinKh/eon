@@ -1,0 +1,141 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Heat Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/heat-alarms",
+    "tab_title": "Heat Alarms",
+    "tab_id": "16557",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Heat Alarms",
+      "Heat Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "154195",
+    "product_name": "HY-HT10B",
+    "product_title": "Standalone Heat Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/heat-alarms/hy-ht10b",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890634_temporary_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-ht10b.html",
+  "detail": {
+    "title": "Standalone Heat Alarm",
+    "model": "HY-HT10B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-HT10B Standalone Heat Alarm Key Points · Test and silence features in the central push button · Loud sound output over 85 dB(A) at 3 meters · Low quiescent current consumption · Surface-mount device (SMD) circuit board design · Low battery warning signal · Class A1 fire detection (54°C to 65°C) · Response times from typical application temperature Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890634_temporary_thumb.png",
+        "alt": "HY-HT10B_View_45Right-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890635_temporary_thumb.png",
+        "alt": "HY-HT10B_View_Top-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890631_temporary_thumb.png",
+        "alt": "HY-HT10B_View_Front-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890632_temporary_thumb.png",
+        "alt": "HY-HT10B_Rendergraph_Left-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890633_temporary_thumb.png",
+        "alt": "HY-HT10B_View_45Left-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890636_temporary_thumb.png",
+        "alt": "HY-HT10B_Rendergraph_30Right-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_16670/ProductImage/1_0_01_36_16670_789890637_temporary_thumb.png",
+        "alt": "HY-HT10B_View_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Collection Type": "Temperature",
+        "Sampling Period": "10 s",
+        "Sensor Type": "Thermistor",
+        "Alarm Type": "Heat alarm, fault warning, low battery warning",
+        "Alarm Volume": "85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes twice per minute",
+        "Power Source": "3V CR123A lithium battery (replaceable)",
+        "Battery Life": "10 years",
+        "Detection Class": "Class A1 fire detection (54°C to 65°C)",
+        "Operating Current": "Monitoring current: ≤15uA Alarm current: ≤60mA",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)",
+        "Color": "White",
+        "Casing": "PC",
+        "Dimensions": "φ93.8mm × H58.3mm (φ3.69\" × H2.29\")",
+        "Weight": "131 g (0.29 lb)",
+        "Installation": "Ceiling Mount",
+        "Certifications": "CE",
+        "Compliance Standard": "BS 5446-2:2003"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85209/datasheet/DHI-HY-HT10B_datasheet_20250509.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Heat Alarm_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010829/3492686/Heat_Alarm_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-05-08 #Drawings HY-HT10B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85209/drawings/HY-HT10B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-05-08 #Drawings HY-HT10B_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85209/drawings/HY-HT10B_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-01-01 #Firmware DHI_HYHT10B_Eng_MCU_V1.000.0000001.0.R.251224 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85209/firmware/DHI_HYHT10B_Eng_MCU_V1.000.0000001.0.R.251224.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/heat-alarms/hy-ht10b"
+  }
+}

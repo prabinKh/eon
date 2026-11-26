@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "WBC Series Wireless Bridge",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/wbc-series-wireless-bridge",
+    "tab_title": "WBC Series Wireless Bridge",
+    "tab_id": "15797",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "WBC Series Wireless Bridge",
+      "WBC Series Wireless Bridge"
+    ]
+  },
+  "card_info": {
+    "product_id": "113407",
+    "product_name": "WBC5-30AC-05P",
+    "product_title": "5.8G 5km Wireless Bridge with 802.11ac",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/wbcseries/wbc5-30ac-05p",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_10892/ProductImage/1_0_01_20_10892_97560269_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/wbc5-30ac-05p.html",
+  "detail": {
+    "title": "5.8G 5km Wireless Bridge with 802.11ac",
+    "model": "WBC5-30AC-05P",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_10892/ProductImage/1_0_01_20_10892_97560269_crop_thumb.png",
+        "alt": "WBC5-30AC-05P",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/wbcseries/wbc5-30ac-05p"
+  }
+}

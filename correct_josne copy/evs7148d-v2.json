@@ -1,0 +1,165 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "EVS Series",
+    "tab_id": "569",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "EVS Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "112787",
+    "product_name": "EVS7148D-V2",
+    "product_title": "48-bay Embedded Video Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7148d-v2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220823/EVS7148D-V2_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/evs7148d-v2.html",
+  "detail": {
+    "title": "48-bay Embedded Video Storage",
+    "model": "EVS7148D-V2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EVS7148D-V2 48-bay Embedded Video Storage Key Points • Standard Dual Controller for Hardware Redundancy • Max. 512-ch IP Camera Inputs • Max. 1024 Mbps Incoming/Recording/Forwarding Bandwidth • 48 Bays, SAS/SATA, Hot-Swap • RAID 0/1/5/6/10/50/60, Hot Spare • Video Stream/Picture Direct Storage Mode and IPSAN Storage Mode • Modular and Drawer-like Design • 1+1 Redundant 80PLUS Platinum Power Supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220823/EVS7148D-V2_11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220823/EVS7148D-V2_31_thumb.png",
+        "alt": "EVS7148D-V2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220823/EVS7148D-V2_21_thumb.png",
+        "alt": "EVS7148D-V2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Main Processor": "64-bit high-performance multi-core processor",
+        "Operating System": "Embedded Linux OS",
+        "Operating Interface": "Web (PCAPP)",
+        "Controller": "Dual controllers",
+        "Cache": "16 GB by default (extendable to 64 GB)/controller",
+        "AI by Camera": "Face detection, face recognition, IVS (abandoned object, missing object, loitering, crowd gathering, parking, fence-crossing, fast moving, tripwire and intrusion), video metadata (human, vehicle, non-motor vehicle), vehicle recognition, people counting (fisheye or people counting camera required),face & body detection, crowd distribution, smart thermal (call detection, visible channel- smoking detection, thermal channel-smoking detection)",
+        "Thermal": "Works with camera for fire alarm, temperature alarm, temperature difference alarm, hot spot, cold spot, smoking and calling",
+        "People Counting": "Works with camera for tripwire people counting, regional people counting and queue people counting",
+        "Bullet-PTZ Smart Track": "Works with camera for manual tracking, auto tracking, click positioning and select positioning",
+        "Fisheye Dewarp": "Supports dewarping for fisheye cameras",
+        "Third-party Camera Access": "Onvif, Onvifs, RTSP, Sony, Panasonic, Axis, Arecont, Pelco, Canon, Samsung, Hikvision",
+        "Video Compression": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio Compression": "G.711A; G.711U; PCM; G726",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; iSCSI; FTP; SMB; NFS",
+        "Interoperability": "ONVIF (Profile S); CGI; SDK",
+        "Browser": "Chrome; PCAPP; IE9 or higher; Firefox",
+        "Network Mode": "NIC binding mode such as multiple-address mode, load balance, fault-tolerance, link aggregation, etc",
+        "Multi-channel Playback": "Web palyback, max. 16-channel playback",
+        "Record Mode": "Auto record; manual record; search video detection; IO alarm; thermal imaging; intelligent event; all record file",
+        "Storage Method": "Internal HDD and network disk",
+        "Backup Method": "HDD, peripheral USB storage device",
+        "Playback Function": "1. Play, pause, stop, fast forward, fast backward, reverse play, frame by frame 2. Full-screen, backup (clip; file), snapshot, digital zoom, audio on; off",
+        "Video Direct Storage (Private Protocol)": "Incoming: 512-channel (bandwidth: 1024 Mbps) Recording: 512-channel (bandwidth: 1024 Mbps) Outgoing: 512-channel (bandwidth: 1024 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Onvif)": "Incoming: 512-channel (bandwidth: 1024 Mbps) Recording: 512-channel (bandwidth: 1024 Mbps) Outgoing: 512-channel (bandwidth: 1024 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Auto Register)": "Incoming: 512-channel (bandwidth: 1024 Mbps) Recording: 512-channel (bandwidth: 1024 Mbps) Outgoing: 512-channel (bandwidth: 1024 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (International Protocol)": "Incoming: 512-channel (bandwidth: 1024 Mbps) Recording: 512-channel (bandwidth: 1024 Mbps) Outgoing: 512-channel (bandwidth: 1024 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Picture Direct Storage": "Incoming: 250-channel (550 KB/picture) Recording: 250-channel (550 KB/picture) Outgoing: 250-channel (550 KB/picture)",
+        "Disk Group": "Yes",
+        "iSCSI": "Supports client and Server",
+        "Network Disk": "Supports client",
+        "RAID": "RAID 0/1/5/6/10/50/60; (with enterprise-grade HDD)",
+        "Record Management": "Supports record control (continuous, event-based, scheduled, scheduled & event-based).",
+        "Storage Pool": "Yes",
+        "IPSAN Performance": "360-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback ( I/O size of VMS is 64 KB)",
+        "General Alarm": "Motion detect; tampering; IPC external alarm",
+        "Anomaly Alarm": "IPC offline alarm; storage error; HDD full; video frame loss; SSD exception; IP conflict; MAC conflict; login lock; fan malfunction; no HDD; network security exception; power exception; disk health exception; RAID exception; storage pool exception; temperature alarm; share service",
+        "Alarm Linkage": "Record; snapshot (full image); alarm uploading; remote device alarm output; camera audio; buzzer; log; preset; email, smart tracking and warning light. Disarming alarm linkage action by period or one-click sync disarm config with channels",
+        "HDD Interface": "48 slots, SATA; SAS Max.20 TB/HDD hot swapping CMR support enterprise-grade HDD",
+        "eSATA": "1 × eSATA/controller",
+        "SAS": "1 × SAS (up to 12 Gbps)/controller",
+        "RS-232": "1 × DB9 /controller",
+        "USB": "2 × USB3.0 and 2 × USB2.0/controller",
+        "HDMI": "1 x HDMI/controller, only for debug",
+        "Network Port": "1 x 1-GbE management port/controller; 4 × 1-GbE LAN ports/controller",
+        "Power": "1+1 redundant power",
+        "Network Port Extension": "4 × 1-GbE LAN ports/controller (optional) 2×10-GbE optical fiber ports/controller (optional)",
+        "Power Supply": "100-240 VAC 50-60 Hz",
+        "Power Consumption": "<220 W (without HDD, idling) <700 W (all HDDs connected)",
+        "Fan": "Intelligent speed regulation fan",
+        "Net Weight": "36 kg (79.36 lb)",
+        "Gross Weight": "75 kg (165.35 lb)",
+        "Product Dimensions": "Chassis: 446 mm × 261.4 mm × 736.5 mm (17.56\" × 10.33\" × 29.00\") (W × L × H) Max. size: 482.6 mm (with hanger) × 261.4 mm × 736.5 mm (19.00\" × 10.33\" × 29.00\") (W × L × H) Height: 6U",
+        "Packaging Dimensions": "With packaging: 682 mm × 957 mm × 795 mm (26.85\" × 37.68\" × 31.30\") (W × L × H)",
+        "Operating Temperature": "0 °C to 45 °C (+32 °F to +113 °F)",
+        "Operating Humidity": "10%–80% (RH), non-condensing",
+        "Operating Altitude": "≤5000 m (16404.20 ft)",
+        "Installation": "Standard 19 inch rack",
+        "Certifications": "CE: CE-LVD: EN 60950-1/IEC 60950-1 CE-EMC: EN 61000-3-2, EN 61000-3-3, EN 55032, EN 50130, EN 55024 FCC: Part 15 Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/EVS7148D-V2_datasheet_20240424.pdf"
+      },
+      {
+        "name": "2025-03-07 #User Manual Dahua Embedded Video Storage Server (Dual-Controller)_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49827/user_manual/Dahua_Embedded_Video_Storage_Server_(Dual-Controller)_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-03-07 #User Manual HDD_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004749/202503/HDD_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-08-12 #A&E Document EVS7148D-V2_A&E_20260914195411 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49817/a_e_document/1789387242249.docx"
+      },
+      {
+        "name": "2023-02-10 #Drawings EVS7148D-V2_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8667/drawings/EVS7148D_PORT.pdf"
+      },
+      {
+        "name": "2023-02-10 #Drawings EVS7148D-V2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8667/drawings/EVS7148D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-03 #Firmware DH_EVS71XXD_MultiLang_V5.002.0000000.0.R.250326 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3111165/M/DH_EVS71XXD_MultiLang_V5.002.0000000.0.R.250326.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7148d-v2"
+  }
+}

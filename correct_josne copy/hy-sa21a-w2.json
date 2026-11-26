@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "109457",
+    "product_name": "HY-SA21A-W2",
+    "product_title": "Wireless Smoke Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/hy-sa21a-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220525/hy1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/hy-sa21a-w2.html",
+  "detail": {
+    "title": "Wireless Smoke Alarm",
+    "model": "HY-SA21A-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA21A-W2 Wireless Smoke Alarm Key Points > Split-spectrum sensor technology > Test and silence features in one single button > Loud sound output over 85 dB(A) at 3 meters > Low quiescent current consumption > Surface-mount device (SMD) circuit board design > Low battery warning signal Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220525/hy1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220525/hy4_thumb.png",
+        "alt": "HY-SA21A-W2_4",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220525/hy3_thumb.png",
+        "alt": "HY-SA21A-W2_3",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220525/hy2_thumb.png",
+        "alt": "HY-SA21A-W2_2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "10 s",
+        "Sensor Type": "Photoelectric"
+      },
+      "Alarm": {
+        "Alarm Type": "Smoke alarm, fault warning, low battery warning",
+        "Alarm Volume": "85dB–90dB(A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silence Function": "Yes",
+        "Silence Duration": "About 12 min",
+        "Alarm Response Threshold": "0.2 dB/m - 0.3 dB/m"
+      },
+      "Basic Parameters": {
+        "Indicator Light": "Red and green LED indicator",
+        "Led Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes once per minute Low battery warning: Red indicator flashes once per minute",
+        "Coverage Area": "When the height of the space is less than 8 m (26.25 ft), the protection area of a device is 20 m2–40 m2"
+      },
+      "Power Supply": {
+        "Battery Life": "3 year",
+        "Operating Voltage": "3V CR123A lithium battery (replaceable)",
+        "Operating Current": "Monitoring current: ≤ 35uA Alarm current: ≤ 35mA"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤ 95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Casing": "ABS",
+        "Dimensions": "φ98 mm × H43.1 mm (φ3.85\" × H1.70\")",
+        "Weight": "140 g (0.30 lb)",
+        "Installation": "Ceiling Mount"
+      },
+      "Certifications": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 14604:2005+AC:2008"
+      },
+      "Wireless": {
+        "Carrier Frequency": "433.1 MHz–434.6 MHz",
+        "Communication Distance": "Up to 1000 m (3280.84 ft) in an open space",
+        "Communication Mechanism": "Two-way",
+        "Frequency Hopping": "Yes",
+        "Encryption Mode": "AES128"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20240507/DHI-HY-SA21A-W2_datasheet_20240507.pdf"
+      },
+      {
+        "name": "2022-06-22 #Datasheet HY-SA21A-W2_datasheet_20211221 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46757/datasheet/HY-SA21A-W2_datasheet_20211221.pdf"
+      },
+      {
+        "name": "2022-05-13 #User Manual Users Manual_DHI-HY-SA21A-W2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47077/user_manual/Users_Manual_DHI-HY-SA21A-W2(868).pdf"
+      },
+      {
+        "name": "2024-08-30 #Drawings HY-SA21A-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1_0_01_36_15117_16485798.pdf"
+      },
+      {
+        "name": "2024-08-30 #Drawings HY-SA21A-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1508072514427.pdf"
+      },
+      {
+        "name": "2025-11-28 #Firmware DHI_HYSA21A-W2_Eng_MCU_V1.000.0000005.0.R.20251107 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3468807/M/DHI_HYSA21A-W2_Eng_MCU_V1.000.0000005.0.R.20251107.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/hy-sa21a-w2"
+  }
+}

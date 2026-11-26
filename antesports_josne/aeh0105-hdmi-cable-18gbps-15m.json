@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "HDMI Cable 1.5 Meters with Ethernet - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353570349347",
+    "product_name": "HDMI Cable 1.5 Meters with Ethernet - Black",
+    "product_title": "HDMI Cable 1.5 Meters with Ethernet - Black",
+    "product_url": "https://antesports.com/products/aeh0105-hdmi-cable-18gbps-15m",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/10.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aeh0105-hdmi-cable-18gbps-15m.html",
+  "detail": {
+    "title": "HDMI Cable 1.5 Meters with Ethernet - Black",
+    "model": "AEPP0109",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEH0105 is a 1.5-metre HDMI cable supporting 18Gbps bandwidth with Ethernet channel support, delivering sharp, lag-free video and audio between a wide range of devices. It works reliably across Windows PCs, Apple TV, monitors, Xbox 360, PS5, PS4, Blu-ray players and more, making it a versatile everyday HDMI cable for home entertainment or gaming setups. Its compact length suits close-proximity connections such as console-to-monitor or set-top box-to-TV setups without excess cable clutter.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/10.jpg",
+        "alt": "HDMI Cable 1.5 Meters with Ethernet - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Bandwidth": "18Gbps",
+        "Ethernet Support": "Yes",
+        "Length": "1.5 Meters",
+        "Compatibility": "Windows, Apple TV, Monitor, Xbox 360, PS5, PS4, Blu-ray",
+        "Color": "Black",
+        "BANDWIDTH": "18Gbps",
+        "ETHERNET SUPPORT": "Yes",
+        "LENGTH": "1.5 Meters",
+        "COMPATIBILITY": "Windows, Apple TV, Monitor, Xbox 360, PS5, PS4, Blu-ray",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹99.00",
+        "MRP (INR)": "₹699.00",
+        "SKU": "AEPP0109"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aeh0105-hdmi-cable-18gbps-15m"
+  }
+}

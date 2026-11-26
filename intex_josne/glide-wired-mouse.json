@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://www.intex.in/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://www.intex.in/collections/mouse-series",
+    "tab_title": "Mouse",
+    "tab_id": "8687037219034",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Mouse",
+      "Glide Wired Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "8687037219034",
+    "product_name": "Glide Wired Mouse",
+    "product_title": "Glide Wired Mouse",
+    "product_url": "https://www.intex.in/products/glide-wired-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 249.0,
+      "display": "₹249.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/glide-wired-mouse.html",
+  "detail": {
+    "title": "Glide Wired Mouse",
+    "model": "Mouse",
+    "brand": "Intex",
+    "overview": "Experience effortless computing with our plug-and-play mouse. Its ergonomic design provides comfortable use, while the 1000 DPI accuracy ensures precise cursor control. Enjoy smooth scrolling for seamless navigation through documents and web pages. The Sleek Scroll Mouse is the perfect companion for your daily tasks.",
+    "features": [
+      "Plug and play, simplicity at its best",
+      "Ergonomic design for all-day comfort",
+      "Smooth scroll, effortless navigation",
+      "1000 DPI sensor for precision control",
+      "Optical tracking, accuracy in every move"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_2.jpg",
+        "alt": "Glide Wired Mouse",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Plug and play, simplicity at its best",
+        "Feature 2": "Ergonomic design for all-day comfort",
+        "Feature 3": "Smooth scroll, effortless navigation",
+        "Feature 4": "1000 DPI sensor for precision control",
+        "Feature 5": "Optical tracking, accuracy in every move"
+      },
+      "General": {
+        "Model": "Mouse"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/glide-wired-mouse"
+  }
+}

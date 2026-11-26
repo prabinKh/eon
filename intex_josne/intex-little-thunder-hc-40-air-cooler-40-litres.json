@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "40L Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/40l-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "40L Air Cooler",
+    "tab_id": "9136124297434",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "40L Air Cooler",
+      "Intex Little Thunder HC 40 Air Cooler – 40 Litres"
+    ]
+  },
+  "card_info": {
+    "product_id": "9136124297434",
+    "product_name": "Intex Little Thunder HC 40 Air Cooler – 40 Litres",
+    "product_title": "Intex Little Thunder HC 40 Air Cooler – 40 Litres",
+    "product_url": "https://www.intex.in/products/intex-little-thunder-hc-40-air-cooler-40-litres",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/little-thunder-40_3141e99b-8932-4467-9c7a-b05969bea3a5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 11490.0,
+      "display": "₹11,490.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-little-thunder-hc-40-air-cooler-40-litres.html",
+  "detail": {
+    "title": "Intex Little Thunder HC 40 Air Cooler – 40 Litres",
+    "model": "40-40",
+    "brand": "Intex",
+    "overview": "The Intex Little Thunder HC 40 is a compact and efficient air cooler ideal for personal and small-room cooling. Featuring a 40-litre water tank, double ball bearing motor, and powerful fan blades, it ensures smooth operation and long motor life. Its fully collapsible louvers and honeycomb pads enhance cooling performance while maintaining low power consumption.",
+    "features": [
+      "Water Tank Capacity: 40 Litres",
+      "3-Speed Powerful Air Throw",
+      "Fully Collapsible Louvers",
+      "Fan Blade Size: 30.6 cm (12\")",
+      "Double Ball Bearing Motor for longer life",
+      "Shock & Rust Proof Body",
+      "360° Moving Wheels",
+      "Water Level Indicator",
+      "Honeycomb Cooling Pads"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/little-thunder-40_3141e99b-8932-4467-9c7a-b05969bea3a5.jpg",
+        "alt": "Intex Little Thunder HC 40 Air Cooler – 40 Litres",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Water Tank Capacity: 40 Litres",
+        "Feature 2": "3-Speed Powerful Air Throw",
+        "Feature 3": "Fully Collapsible Louvers",
+        "Feature 4": "Fan Blade Size: 30.6 cm (12\")",
+        "Feature 5": "Double Ball Bearing Motor for longer life",
+        "Feature 6": "Shock & Rust Proof Body",
+        "Feature 7": "360° Moving Wheels",
+        "Feature 8": "Water Level Indicator",
+        "Feature 9": "Honeycomb Cooling Pads"
+      },
+      "General": {
+        "Model": "40-40"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-little-thunder-hc-40-air-cooler-40-litres"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "1080P",
+    "tab_id": "9482",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "146526",
+    "product_name": "HAC-HDW1239T-IL-A",
+    "product_title": "2MP Smart Dual Light HDCVI Fixed-focal Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/1080p/smart-dual-light/hac-hdw1239t-il-a=s3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26500/ProductImage/1_0_01_12_26500_545023739_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw1239t-il-a-s3.html",
+  "detail": {
+    "title": "2MP Smart Dual Light HDCVI Fixed-focal Eyeball Camera",
+    "model": "HAC-HDW1239T-IL-A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW1239T-IL-A 2MP Smart Dual Light HDCVI Fixed-focal Eyeball Camera Key Points • High-Quality Imaging with 1080P Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • 40 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • Smart Light+ : Clear Details with Advanced LED Processing Technology • 3DNR & 130 dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26500/ProductImage/1_0_01_12_26500_545023739_crop_thumb.png",
+        "alt": "HAC-HDW1239T-IL-A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26500/ProductImage/1_0_01_12_26500_545023742_crop_thumb.png",
+        "alt": "HAC-HDW1239T-IL-A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26500/ProductImage/1_0_01_12_26500_545023737_crop_thumb.png",
+        "alt": "HAC-HDW1239T-IL-A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_26500/ProductImage/1_0_01_12_26500_545023741_crop_thumb.png",
+        "alt": "HAC-HDW1239T-IL-A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "45.6 m( 149.61 ft)",
+        "3.6 mm": "55.6 m( 182.41 ft)"
+      },
+      "*DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {
+        "Lens": "Detect",
+        "2.8 mm": "45.6 m( 149.61 ft)",
+        "3.6 mm": "55.6 m( 182.41 ft)"
+      },
+      "Video Frame Rate": {},
+      "Resolution": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Illumination Mode": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Pick-up Distance": {},
+      "Certifications": {},
+      "Built-in Mic": {},
+      "Video Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82303/datasheet/DH-HAC-HDW1239TP-IL-A_S3_datasheet_20250515.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88085/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2024-07-02 #Drawings HAC-HDW1239T-IL-A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83271/drawings/HAC-HDW1500T-IL-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-02 #Drawings HAC-HDW1239T-IL-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83271/drawings/HAC-HDW1500T-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/1080p/smart-dual-light/hac-hdw1239t-il-a=s3"
+  }
+}

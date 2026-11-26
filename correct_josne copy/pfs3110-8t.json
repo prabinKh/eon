@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Access Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/access-switches",
+    "series": "Metal",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/access-switches/metal",
+    "tab_title": "Metal",
+    "tab_id": "8607",
+    "breadcrumbs": [
+      "Transmission",
+      "Access Switches",
+      "Metal",
+      "Metal"
+    ]
+  },
+  "card_info": {
+    "product_id": "6881",
+    "product_name": "PFS3110-8T",
+    "product_title": "8-Port Ethernet Switch (Unmanaged)",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/pfs3110-8t",
+    "card_image": "https://material.dahuasecurity.com/upfiles/PFS3110-8T_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs3110-8t.html",
+  "detail": {
+    "title": "8-Port Ethernet Switch (Unmanaged)",
+    "model": "PFS3110-8T",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/upfiles/PFS3110-8T_thumb.png",
+        "alt": "PFS3110-8T",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/pfs3110-8t"
+  }
+}

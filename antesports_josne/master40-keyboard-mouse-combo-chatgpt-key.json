@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "MASTER40 Wireless Keyboard & Mouse Combo - Silver White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759913763",
+    "product_name": "MASTER40 Wireless Keyboard & Mouse Combo - Silver White",
+    "product_title": "MASTER40 Wireless Keyboard & Mouse Combo - Silver White",
+    "product_url": "https://antesports.com/products/master40-keyboard-mouse-combo-chatgpt-key",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24_7bcb0557-941e-4945-8243-53adc72b6a86.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master40-keyboard-mouse-combo-chatgpt-key.html",
+  "detail": {
+    "title": "MASTER40 Wireless Keyboard & Mouse Combo - Silver White",
+    "model": "ANTR0205",
+    "brand": "Ant Esports",
+    "overview": "The Ant MASTER40 is a 2.4GHz wireless keyboard and mouse combo featuring a full-size 104-key quiet keyboard with a dedicated ChatGPT AI shortcut key for instant access to AI assistant tools. The included ergonomic mouse offers adjustable DPI up to 1600 for smooth, accurate cursor control across office tasks. A single USB receiver keeps setup simple across PC, laptop, Mac and Windows systems, and the quiet typing feel makes it well suited to shared offices or home workspaces where noise matters. Finished in a clean Silver White colour scheme for a modern desk look.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24_7bcb0557-941e-4945-8243-53adc72b6a86.png",
+        "alt": "MASTER40 Wireless Keyboard & Mouse Combo - Silver White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Single USB Receiver",
+        "Keyboard Keys": "104, Quiet Typing",
+        "Special Key": "ChatGPT AI Shortcut Key",
+        "Mouse DPI": "Up to 1600",
+        "Compatibility": "PC, Laptop, Mac, Windows",
+        "Color": "Silver White",
+        "CONNECTIVITY": "2.4GHz Single USB Receiver",
+        "KEYBOARD KEYS": "104, Quiet Typing",
+        "SPECIAL KEY": "ChatGPT AI Shortcut Key",
+        "MOUSE DPI": "Up to 1600",
+        "COMPATIBILITY": "PC, Laptop, Mac, Windows",
+        "COLOR": "Silver White",
+        "Offer Price (INR)": "₹849.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "ANTR0205"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master40-keyboard-mouse-combo-chatgpt-key"
+  }
+}

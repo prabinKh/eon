@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "Mobile",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+    "series": "Dash Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+    "tab_title": "Dash Camera",
+    "tab_id": "17317",
+    "breadcrumbs": [
+      "Others",
+      "Mobile",
+      "Dash Camera",
+      "Dash Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "154418",
+    "product_name": "M3PRO",
+    "product_title": "Dash Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/m3pro",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86317/image/1_0_99_01_13399_242222864_temporary_thumb.JPEG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/m3pro.html",
+  "detail": {
+    "title": "Dash Camera",
+    "model": "M3PRO",
+    "brand": "Dahua",
+    "overview": "Favourite M3PRO Dash Camera Key Points 2K HDR；APP Control Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86317/image/1_0_99_01_13399_242222864_temporary_thumb.JPEG",
+        "alt": "M3PRO_View_Front-ge.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "CMOS",
+        "Effective Pixel": "2K",
+        "Field of View": "105°(H)×56°（V）×123°（D）",
+        "Aperture": "F1.5",
+        "Video Compression": "H.265",
+        "OSD": "Display time,date,etc.",
+        "Image Format": "JPEG",
+        "Storage": "1 TF(MircoSD)card (up to 128GB)",
+        "Communication Module": "Wi-Fi",
+        "G-sensor": "Built-in,supports locking video after collision."
+      },
+      "Port": {
+        "Power Supply": "Type C",
+        "Audio Input": "Build-in microphone",
+        "Audio Output": "Build-in speaker"
+      },
+      "General": {
+        "Operating Temperature": "-20℃~70℃ (-4℉~158℉)",
+        "Operating Humidity": "＜95%（No condensation）",
+        "Power Supply": "DC 5V/1.5A",
+        "Power Consumption": "≤5W",
+        "Dimensions": "80mm×48mm×28.8mm[3.1\"×1.9\"×1.1\"]",
+        "Weight": "58g (0.13lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86317/datasheet/M3PRO_DashCam_datasheet_20250626.pdf"
+      },
+      {
+        "name": "2024-06-22 #User Manual Dash Camera M3PRO_Quick Start Guide_V1.0.0_20240621 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86317/user_manual/Dash_Camera_M3PRO_Quick_Start_Guide_V1.0.0_20240621.pdf"
+      },
+      {
+        "name": "2024-06-22 #Drawings M3PRO_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86317/drawings/M3PRO_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/m3pro"
+  }
+}

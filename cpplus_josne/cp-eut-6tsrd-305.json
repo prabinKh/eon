@@ -1,0 +1,93 @@
+{
+  "hierarchy": {
+    "category": "Cables",
+    "category_url": "https://cpplusworld.com/products/cables",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/cables",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "94",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Cables",
+      "CP-EUT-6TSRD-305"
+    ]
+  },
+  "card_info": {
+    "product_id": "2206",
+    "product_name": "CP-EUT-6TSRD-305",
+    "product_title": "CP-EUT-6TSRD-305",
+    "product_url": "https://cpplusworld.com/cp-eut-6tsrd-305",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/ada9a0ab-59ba-4e1b-b063-db39a1a8e297.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-eut-6tsrd-305.html",
+  "detail": {
+    "title": "CP-EUT-6TSRD-305",
+    "model": "CP-EUT-6TSRD-305",
+    "brand": "CP Plus",
+    "overview": "Cat6, 4 Pair UTP Cable",
+    "features": [
+      "Insulation Material HDPE",
+      "Insualtion Thickness 0.20mm",
+      "305 Mtr. Cable Length"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ada9a0ab-59ba-4e1b-b063-db39a1a8e297.jpg",
+        "alt": "CP-EUT-6TSRD-305 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b6b23fad-bcb5-4353-8d8a-7037f059c126.jpg",
+        "alt": "CP-EUT-6TSRD-305 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "CCA",
+        "Nominal Conductor Diameter": "0.50mm",
+        "Insulation Material": "HDPE",
+        "No. of Strands": "1 nos (nom)",
+        "Cabling Material": "Polyethylene",
+        "Jacket Material": "PVC",
+        "Color": "Blue - White/ Blue Green - White/ Green Brown - White/ Brown",
+        "Dielectric Strength": "12.50 N/sq.mm (min)",
+        "Rip Cord": "Nylone",
+        "Colour of Jacket": "Black",
+        "Insulation Dia (Nominal)": "0.90mm +/- .03",
+        "Elongation": "300% (min)",
+        "Outer Dia.": "6.60mm ± 0.03 mm",
+        "Insulation Thickness": "0.20 mm (nom) ± .03",
+        "Elongation in PVC Jacket": "150% (min)",
+        "Length": "305 Mtr.",
+        "Cable Weight": "11.200 Kg +/- 0.2kg",
+        "Tensile": "17.50 N/sq. mm (min)",
+        "Thickness of Outer Jacket": "0.60 ± 0.05 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EUT-6TSRD-305.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-eut-6tsrd-305"
+  }
+}

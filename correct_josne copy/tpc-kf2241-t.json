@@ -1,0 +1,238 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Thermography Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/thermography-series",
+    "tab_title": "Thermography",
+    "tab_id": "12147",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Thermography Series",
+      "Thermography"
+    ]
+  },
+  "card_info": {
+    "product_id": "102717",
+    "product_name": "TPC-KF2241-T",
+    "product_title": "Dahua Thermal Network Hybrid Compact Camera",
+    "product_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/thermography-series/thermography/tpc-kf2241-t",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_712381311_temporary_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-kf2241-t.html",
+  "detail": {
+    "title": "Dahua Thermal Network Hybrid Compact Camera",
+    "model": "TPC-KF2241-T",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite TPC-KF2241-T Dahua Thermal Network Hybrid Compact Camera Key Points high performance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_712381311_temporary_thumb.PNG",
+        "alt": "TPC-KF2241-T_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_712381310_temporary_thumb.PNG",
+        "alt": "TPC-KF2241-T_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_712381312_temporary_thumb.PNG",
+        "alt": "TPC-KF2241-T_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797662996_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797662997_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797663624_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797662998_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797663620_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797663621_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797663622_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/image/1_0_01_34_16358_797663623_crop_thumb.PNG",
+        "alt": "TPC-KF2241-T_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "Thermal": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "256 (H) × 192 (V)",
+        "Pixel Pitch": "12 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Sensitivity (NETD)": "≤50 mK@f/1.0",
+        "Focal Length": "2.2 mm",
+        "Field of View": "H: 120°; V: 88.4°",
+        "Thermal Focus Control": "Fixed-focal",
+        "Close Focus Distance": "0.5 m (1.64 ft)",
+        "Aperture": "F2.0",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Thermal AGC": "Auto; Manual",
+        "Thermal Noise Reduction": "2D NR; 3D NR",
+        "Image Flip": "180°",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)",
+        "Temperature Measurement Range": "Low temperature mode: –20 °C to +150 °C (–4 °F to +302 °F) High temperature mode: 0 °C to +550 °C (+32 °F to +1022 °F) Auto mode",
+        "Minimum measurement distance": "0.1 m (0.33 ft) (target sizes 0.1 m x 0.1 m)",
+        "Maximum measurement distance": "1.5 m (4.92 ft) (target sizes 0.1 m x 0.1 m)",
+        "Temperature Measurement Accuracy": "Max. (±2 °C, ±2%) Operating temperature: –20 °C to +60 °C (–4 °F to +140 °F)",
+        "Temperature Measurement Mode": "Spot: 12 Line: 12 Area: 12 Supports 12 rules simultaneously",
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2336 (H) × 1752(V)",
+        "Pixel": "4 MP",
+        "Horizontal Definition": "Center ≥150 TVL Edge ≥100 TVL",
+        "Min. Illumination": "Color: 0.01 lux B/W: 0.001 lux 0 lux (white light on)",
+        "Visible AGC": "Auto; manual",
+        "Visible Noise Reduction": "2D NR; 3D NR",
+        "S/N Ratio": ">55 dB",
+        "White Balance": "Auto; manual; indoor; outdoor; tracking; sodium lamp; street lamp; natural",
+        "Electronic Shutter Speed": "1 s–1/30,000 s (auto/manual)",
+        "BLC": "Yes",
+        "WDR": "Yes",
+        "HLC": "Yes",
+        "Day/Night": "Color; B/W",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illumination Distance": "4 m (13.12 ft)"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264; H.264H; H.264B;M-JPEG",
+        "Resolution": "Thermal: Main stream: 1280 × 960; 1280 × 768; 640 × 480; 256 × 192; 1280 × 960 (default); Sub stream: 640 × 480; 256 × 192; 256 × 192 (default) Visible: Main stream: 2336 × 1752; 1920 × 1080; 1280 × 720; 704 × 576; 2336 × 1752 (default); Sub stream: 704 × 576; 352 × 288; 352 × 288 (default)",
+        "Video Frame Rate": "Thermal (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default; Sub stream: 1 fps–25 fps, 15 fps by default; Visible (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default; Sub stream: 1 fps–25 fps, 15 fps by default; Thermal (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default; Sub stream: 1 fps–30 fps, 15 fps by default; Visible (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default; Sub stream: 1 fps–30 fps, 15 fps by default",
+        "Image Encoding Format": "JPEG"
+      },
+      "Function": {
+        "Sound and Light Alarm": "White light alarm prompts",
+        "Network Protocol": "HTTP; HTTPS; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP; Multicast; SFTP",
+        "Region of Interest (RoI)": "Yes",
+        "Regional Focus": "Yes",
+        "Interoperability": "CGI",
+        "Browser": "IE: IE8 and later (includes the browsers with IE kernel, such as 360 Explorer, Sougou Explorer) Chrome: 42 and earlier Firefox: 42 and earlier",
+        "User/Host": "Up to 6 (total bandwidth: 64 MB)",
+        "Security": "Authorized username and password; attached MAC address; encrypted HTTPS; IEEE 802.1x; controlled network access",
+        "User Management": "Up to 6 users; supports multi-level user permissions (2 levels): management group and user group",
+        "Malfunction Detection": "Network disconnection detection; IP conflict detection",
+        "Fusion Mode": "Yes. Disabled by default.",
+        "PIP": "Yes"
+      },
+      "Intelligence": {
+        "Heat Detection": "Yes",
+        "Cold/Hot Spot Trace": "Yes"
+      },
+      "Port": {
+        "Network Port": "1 × RJ-45 (10/100 Base-T)",
+        "Alarm Input": "1",
+        "Alarm Output": "1",
+        "RS-485": "1"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 20%; PoE (802.3af)",
+        "Power Consumption": "Basic: <3.6 W (12 VDC, illuminator off, ISP off); <4.5 W (PoE, illuminator off, ISP off); Max: <4.8 W (12 VDC, illuminator on, ISP on); <5.5 W (PoE, illuminator on, ISP on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)"
+      },
+      "Physical Characteristics": {
+        "Protection": "IP67",
+        "Reliability": "Surge protection: 6 kV Contact discharge of 8 kV Air discharge of 15 kV"
+      },
+      "Structure": {
+        "Product Dimensions": "113.6 mm × 62.0 mm × 40.6 mm (4.47\" × 2.44\" × 1.60\") (L × W × H)",
+        "Packaging Dimensions": "239 mm × 110 mm × 71 mm (9.41\" × 4.33\" × 2.80\") (L × W × H)",
+        "Net Weight": "≤0.5 kg (1.10 lb)",
+        "Gross Weight": "≤0.6 kg (1.32 lb)",
+        "Lens": "Included",
+        "Bracket": "Included: RKN010-02-magnetic bracket assembly Optional: DH-PFB110W-small wall mount-DH816W2"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/datasheet/DHI-TPC-KF2241-T-V1_datasheet_20260730.pdf"
+      },
+      {
+        "name": "2026-05-15 #User Manual Thermal Network Hybrid Thermography Cube Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/user_manual/Thermal_Network_Hybrid_Thermography_Cube_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-05-15 #User Manual Thermal Network Hybrid Thermography Cube Camera_Web5.0 Operation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/user_manual/Thermal_Network_Hybrid_Thermography_Cube_Camera_Web5.0_Operation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-04-13 #A&E Document TPC-KF2241-T_A&E_20260922195903 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/a_e_document/1790078441093.docx"
+      },
+      {
+        "name": "2026-03-20 #Drawings TPC-KF2241-T_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/drawings/1_0_01_34_16358_715917924.pdf"
+      },
+      {
+        "name": "2026-03-20 #Drawings TPC-KF2241-T_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/drawings/1_0_01_34_16358_715939474.pdf"
+      },
+      {
+        "name": "2026-09-22 #Firmware DH_TPC-KF2X41-TB-S1_MultiLang_PN_V2.660.0000000.0.R.260819 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/firmware/DH_TPC-KF2X41-TB-S1_MultiLang_PN_V2.660.0000000.0.R.260819.zip"
+      },
+      {
+        "name": "2026-08-14 #Firmware General_TPC-NYX2200-MS-ETGW_V1.000.0000000.4.R.20260713 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29317/firmware/General_TPC-NYX2200-MS-ETGW_V1.000.0000000.4.R.20260713.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/thermography-series/thermography/tpc-kf2241-t"
+  }
+}

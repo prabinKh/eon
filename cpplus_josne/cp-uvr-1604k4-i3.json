@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "58",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "16 Ch.",
+      "CP-UVR-1604K4-I3"
+    ]
+  },
+  "card_info": {
+    "product_id": "2270",
+    "product_name": "CP-UVR-1604K4-I3",
+    "product_title": "CP-UVR-1604K4-I3",
+    "product_url": "https://cpplusworld.com/cp-uvr-1604k4-i3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/0b56a46b-14c5-4c6b-a0e0-4c5ace91801d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-1604k4-i3.html",
+  "detail": {
+    "title": "CP-UVR-1604K4-I3",
+    "model": "CP-UVR-1604K4-I3",
+    "brand": "CP Plus",
+    "overview": "16Ch. 5M-N Digital Video Recorder",
+    "features": [
+      "Supports HDCVI/AHD/TVI/CVBS/IP video inputs.",
+      "Supports up to 24 channels of IPC access, including 8 additional IP channels +                   16 analog channels, with the option to convert all analog channels to IP",
+      "Instastream, H.265, H.264+, H.264, Dual stream video compression.",
+      "Support 4 SATA HDDs up to 16TB Each, 3 USB Ports, 1 HDMI, 1 VGA, 1 RS232,                     1 RS485.",
+      "16 Channel IMD+ for analog channels or 24 Channel IMD by camera which allows  the device to trigger accurate alarms for humans and vehicles.",
+      "4 Channel perimeter protection for analog channels which              supports tripwire and intrusion detection powered by AI.",
+      "2 Channel face recognition for analog channels which supports  face comparison.",
+      "Mobile Software: iCMOB, gCMOB"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0b56a46b-14c5-4c6b-a0e0-4c5ace91801d.png",
+        "alt": "CP-UVR-1604K4-I3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/132119ab-f535-43ab-a7c8-84bfe0be2449.png",
+        "alt": "CP-UVR-1604K4-I3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "User Interface": "Web, Local GUI",
+        "IntelliSearch  2.0 AI by DVR  (Number of Channels)": "2 Channels",
+        "Perimeter Performance AI by  DVR (Number of Channels)": "Advanced Mode: 2 channels, 10 IVS rules for each Channel                                                                         General Mode: 4 channels, 10 IVS rules for each Channel",
+        "Face Attributes": "Gender, Age group, Glasses, Expressions, Face mask,",
+        "Face Detection Performance of AI by DVR (Number of Channels)": "2 Channels (up to 12 face images/s each channel)",
+        "Face Database Capacity": "Up to 10 face databases with 10,000 images",
+        "IMD+ by DVR": "16 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by  leaves, rain and lighting condition change",
+        "IMD+ by Camera": "24 Channels (8 IP Channels + 16 Analog Channels)",
+        "AI Video Quality Analytics  by DVR": "16 channels: Supports detecting brightness levels, color cast, defocus, overexposure, contrast  levels, black and white",
+        "Scene Changing by DVR": "1 Channel",
+        "Camera Input": "1. CVI: 5MP@25 fps, 5MP@20 fps, 5MP@10/12.5 fps, 4MP@25/30 fps, 1080p@25/30 fps,  720p@50/60 fps, 720p@25/30fps                                                                                                                       2. TVI: 5MP(2560 x 1944)@20 fps, 5MP(2960 x 1665)@20 fps, 4MP@25/30 fps, 1080p@25/30  fps, 720p@25/30 fps                                                                                                                                             3. AHD: 5MP@20 fps, 4MP@25/30 fps, 1080p@25/30 fps, 720p@25/30 fps",
+        "IP Camera Input": "Up to 24 channels of IPC access                                                                                                                                8 IP channels by default + 16 channels (analog channels are converted to IP channels)                        incoming bandwidth: 128 Mbps, recording bandwidth: 128 Mbps and outgoing bandwidth:  128 Mbps                                                                                                                                                           *After IP extension is enabled, Video Quality Analytics, Scene Changing, Face Recognition,  Face Detection, IMD, Perimeter Protection and IntelliSearch 2.0 cannot be used.",
+        "Video Streaming": "Main stream: 5MP Mode: 4 Channels 5MP@(1 fps-6 fps), others 5M-N@(1 fps-12 fps)                                5M-N Mode: 5M-N@(1 fps –12 fps), 4M-N/1080p@(1 fps–15 fps), 1080N/720p/960H/D1/ CIF@(1 fps–25/30 fps)                                                                                                                                       Sub stream: D1/CIF@(1 fps–15 fps)",
+        "Stream Capability": "Dual stream",
+        "Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sample Rate": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 Kbps",
+        "Video Output": "2 HDMI, 1 VGA                                                                                                             HDMI1: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720                                                                      VGA/HDMI2: 1920 × 1080, 1280 × 1024, 1280 × 720                                                                                                          It changes to 1920 × 1080, 1280 × 1024, 1280 × 720 when Face, IVS & IMD or IntelliSearch is                 selected in AI Mode.                                                                                                                         *Heterogeneous video sources output for HDMI2 is configurable.",
+        "Video Display Split": "When IP extension mode not enabled: 1/4/8/9                                                                            When IP extension mode enabled: 1/4/8/9/16/25",
+        "Video Compression": "Instastream, H.265, H.264+, H.264",
+        "Audio Compression": "G.711a, G.711u, PCM",
+        "Protocols": "HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP,  DDNS, SNMP, Alarm Server, InstaOn, Auto Connect, IP Search, ONVIF (Profile T, Profile S,                Profile G), CGI, SDK",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Network Mode": "Multi-address mode, Fault Tolerance, Load Balance",
+        "Record Mode": "General, Motion detection, Intelligent, Alarm, POS",
+        "Recording Playback": "1/4/9                                                                                                                                              It changes to 1/4/9 split when Face or IVS & IMD is selected in AI Mode",
+        "Backup Mode": "USB Device/Network",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Alarm Linkage": "Record, Snapshot (panoramic), Local alarm output, IPC external alarm output, Audio, Buzzer,  Log, Preset, Email",
+        "CVBS Output": "1 Channel",
+        "Audio Input": "4 Channels BNC                                                                                                                                           16 Channels BNC (Coaxial Audio)",
+        "Alarm Input": "16 Channels",
+        "Hard Disk": "4 SATA ports. Each disk can contain up to 16 TB. This limit varies depending on the                                environment temperature.",
+        "Interface Ports": "3 (1 front USB 2.0 port, 2 rear USB 3.0 ports), 1 RS485 Port, 1 RS232, 1 eSATA Port",
+        "Ethernet": "2 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "100–240 VAC, 50±2% Hz",
+        "Power Consumption": "<15 W (without HDD)",
+        "Operating Temperature": "-10°C ~ +55°C (14°F ~ +131°F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "-10°C ~ +55°C (14°F ~ +131°F)",
+        "Dimension": "440.0 mm × 420.2 mm × 76.0 mm",
+        "Weight": "4450g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-1604K4-I3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/e0e92063-1a59-4a74-8432-b8d58e6ff036.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-1604k4-i3"
+  }
+}

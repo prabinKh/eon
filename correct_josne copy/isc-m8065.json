@@ -1,0 +1,197 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Security Screening Machine",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine",
+    "series": "Scanner",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner",
+    "tab_title": "Scanner",
+    "tab_id": "16317",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Security Screening Machine",
+      "Scanner",
+      "Scanner"
+    ]
+  },
+  "card_info": {
+    "product_id": "137807",
+    "product_name": "ISC-M8065",
+    "product_title": "Intelligent Security Screening Machine",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner/isc-m8065",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231116/1_0_01_46_10146_398170829_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-m8065.html",
+  "detail": {
+    "title": "Intelligent Security Screening Machine",
+    "model": "ISC-M8065",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-M8065 Intelligent Security Screening Machine Key Points > Uses X-ray to generator images of packaged items passing on the conveyor belt, and checks the shape and size of packaged items. > Displays images of the packages with enhanced effects, such as high energy enhancement, super enhancement, high density alert and image scanning. > Supports security screening mode and video surveillance mode. > Recognizes dangerous items such as knives, bottled liquid, spray cans, guns and lighters from scanned images. > Set danger levels for suspect items and link alarms such as voice prompt, sound and light alarm and conveyor belt stopping. > Displays AI overlay on suspected objects. The AI overlay box moves with the package. > All detection results can be stored and generated as reports, which can be searched and exported according to danger level and time. > 2 built-in cameras that respectively monitor the entry and exit of baggage and the package inspection process. > Add IP camera and PoE camera for live video, storage and playback. The cameras monitors the entire security inspection. > Supports HDD storage space management and advanced management such as RAID configuration (RAID0/1/5); ensures data security. > Supports system operation and maintenance management, such as self diagnosis, log and online user search, and device updating. > Dust, moth, and mold protection for key components. > Enhanced reliability through submodule isolation design. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231116/1_0_01_46_10146_398170829_thumb.png",
+        "alt": "ISC-M8065_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10146/ProductImage/1_0_01_46_10146_398170827_thumb.png",
+        "alt": "ISC-M8065_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10146/ProductImage/1_0_01_46_10146_398170828_thumb.png",
+        "alt": "ISC-M8065_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10146/ProductImage/1_0_01_46_10146_398174080_thumb.png",
+        "alt": "ISC-M8065_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10146/ProductImage/1_0_01_46_10146_398170830_thumb.png",
+        "alt": "ISC-M8065_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10146/ProductImage/1_0_01_46_10146_398174082_thumb.png",
+        "alt": "ISC-M8065_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10146/ProductImage/1_0_01_46_10146_398174081_thumb.png",
+        "alt": "ISC-M8065_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "System": {
+        "CPU": "Intel dual-core processor",
+        "RAM": "8 G",
+        "Operating System": "Embedded Linux OS",
+        "User Interface": "Local GUI (full functions); Web interface"
+      },
+      "Basic": {
+        "Tunnel size": "810 mm × 650 mm",
+        "X-ray Tube Anode Voltage": "160 KV",
+        "X-ray Tube Cooling": "Sealed oil bath with forced air",
+        "Wire Resolution": "Typical: 38AWG(0.1mm); standard: 34AWG(0.16mm) *",
+        "Penetration(steel)": "Typical: 39 mm; standard: 35 mm *",
+        "Leakage Dose-rate": "≤ 0.9 μSv/h (μGy/h)",
+        "Noise Level": "≤ 63 dB",
+        "Conveyor Speed": "0.2 m/s",
+        "Conveyor Hight": "290 mm - 370 mm adjustable",
+        "Maximum Belt Load": "200 kg",
+        "Current Leakage": "≤ 0.25 mA",
+        "Film Safety": "ISO 1600 (33 DIN)",
+        "Graphics Output": "2-channel DVI outputs; resolution: Up to 1920 (H) × 1080 (V) @60 Hz",
+        "Monitor": "1 × 21.5\" monitor",
+        "Video Input (Network)": "12-channel input (max 4K); 8-channel IPC + 4 PoE (2 PoE by default); supports H.265, H.264, PCM and MPEG4",
+        "Video Output (Network)": "Real-time Baggage Monitoring, Input cameras",
+        "Recording Mode": "Offers manual recording and recording plan. Recording plan features continuous recording, alarm event linked recording and no recording",
+        "Built-in Disks": "Supports up to 4 × 10 T SATA disks and configures 1 × 4T disk by default",
+        "Storage Management": "Single; RAID 0/1/5 (Enterprise-level disks are recommended); global hot standby",
+        "Ethernet Ports": "1 RJ-45 10M/100M/1000M self-adaptive Ethernet ports; 4 RJ-45 PoE 10M/100M Ethernet ports",
+        "Internet Protocols": "HTTP, HTTPS, TCP/IP, UDP, RTSP, IPv4, NTP, DHCP, DNS, IP Filter, IP Search (Support Dahua IP camera, DVR and more)",
+        "Interoperability": "ONVIF, SDK and more",
+        "Biometrics": "User Fingerprint Login (Optional)"
+      },
+      "Intelligent Analysis": {
+        "Preview": "Real-time display of X-ray package image and camera image; real-time item intelligent analysis",
+        "Item Recognition": "Recognizes items and displays AI overlay; the AI overlay box moves with packages",
+        "Recognition Types": "Recognizes 23 types of objects: Guns, fireworks, spray cans, knives, axes, scissors, lighter fluid, nail polish, bottled liquids, glass bottles, thermos bottles, plastic bottles, handcuffs, nightsticks, brass knuckles, lighters, tools, electronic products, mobile phones, powerbanks, laptops, umbrellas and high density object",
+        "Danger Levels": "High risk, warning, and safe (supports custom configuration according to types of objects)",
+        "Event Linkage": "I/O alarm, voice prompt, platform alarm and screen notification can be triggered according to danger levels",
+        "Image Storage": "Stores as much as 1 million images with information on their danger levels and the types of objects detected. Original and analyzed images can both be viewed",
+        "Baggage Search": "Search, play back, and export baggage images and linked videos according to time, objects type and more",
+        "Report Search": "Generate and export reports according to time and object types",
+        "Backup": "USB/Network"
+      },
+      "Performance": {
+        "Self-inspection": "Automatically detects system failures and prompts error codes",
+        "Image Processing": "Enhancement functions include color/black and white, local enhancement, super enhancement, edge enhancement, image scanning, organic stripping, metal stripping , mixture stripping, inverse, high-energy enhancement, low-energy enhancement, light, dark, density threat alert Z7/Z8/Z9, high density alert, AI overlay, vertical flip, pseudo color and more",
+        "Image playback": "Supports playback of 30 images",
+        "Image Zooming": "Zoom in X-ray images up to 64x. Drag the focus position using a mouse or direction- keys",
+        "Device Diagnosis": "Supports diagnosis of key components such as the detector, motor, IR sensor and special keyboard",
+        "Detection Configuration": "Key function configuration; image display configuration (vertical flip and max zoom times), scan mode configuration (double direction, forward scan, reverse scan, compulsory scan and power saving mode, baggage counter configuration and personpackage linkage configuration"
+      },
+      "Ports": {
+        "RS 232 Port": "1-channel RS 232 port for controlling the operating keyboard",
+        "Power port": "1-channel port for monitor power supply",
+        "USB Port": "2-channel USB3.0, 2-channel USB2.0",
+        "Display Port": "2-channel DVI outputs",
+        "Emergency Stop Button": "5 (4 buttons on the machine body and 1 button on the operating keyboard)",
+        "Power Button": "1 (on the operating keyboard)",
+        "Key Switch": "1 (on the operating keyboard)",
+        "Indicator light": "On the machine: Power indicator: Turns solid green when the machine is working and flashes during updates and when an error occurs X-ray indicators: Turn solid red when X-ray is triggered and turns off when X-ray is turned off On the operating keyboard: Key switch indicator: Turns solid green when the switch is turned on and turns off when the switch is turned off Power button indicator: Turns solid green when the power button on the operating keyboard is pressed on. Light turns off when the machine is powered off Press button indicators: Flashes green when one button is pressed on"
+      },
+      "Regular": {
+        "Power Supply": "AC 220 V–240 V, 50/60 Hz; AC 100 V–130 V, 50/60 Hz (optional)",
+        "Typical Power Consumption": "700W",
+        "Maximum Power Consumption": "1.2 KW",
+        "Intelligent Temperature Control": "Detects the temperature of main board and HDD and automatically adjusts fan speed to make it work stably and quietly",
+        "Operating Temperature": "0 °C to +45 °C (32 °F to +113 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "0%–95% (RH), non-condensing",
+        "Dimensions": "3863 mm × 1122 mm × 1486 mm",
+        "Package Size": "2050 mm × 1220 mm × 1950 mm",
+        "Net Weight": "700 kg",
+        "Gross Weight": "850 kg",
+        "Installation Mode": "Ground mount"
+      },
+      "*Measured by Dahua Imaging Test Kit.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/137807/datasheet/ISC-M8065_datasheet_20230720.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua AI Dual-energy Security Screening Machine_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006119/202411/Dahua_AI_Dual-energy_Security_Screening_Machine_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-05-19 #Drawings ISC-M8065_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77837/drawings/ISC-M8065_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-05-19 #Drawings ISC-M8065_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77837/drawings/ISC-M8065_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-02-17 #Firmware General_ISC-MXXXXFC_MainBoard_B_V1.008.0000000.0.R.250107 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3018388/General_ISC-MXXXXFC_MainBoard_B_V1.008.0000000.0.R.250107.zip"
+      },
+      {
+        "name": "2025-02-17 #Firmware DH_ISC-MXXXXFC_Server_Eng_V1.008.0000000.0.R.250107 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3018392/DH_ISC-MXXXXFC_Server_Eng_V1.008.0000000.0.R.250107.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner/isc-m8065"
+  }
+}

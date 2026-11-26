@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Online Deals",
+    "subcategory_url": "https://www.intex.in/collections/online-deals",
+    "series": "Semi-Automatic Machine",
+    "series_url": "https://www.intex.in/collections/semi-automatic-machine",
+    "tab_title": "Online Deals",
+    "tab_id": "8790540910810",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Online Deals",
+      "SA65BWHG | 6.5KG Semi-Automatic Washing Machine (Black & White)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8790540910810",
+    "product_name": "SA65BWHG | 6.5KG Semi-Automatic Washing Machine (Black & White)",
+    "product_title": "SA65BWHG | 6.5KG Semi-Automatic Washing Machine (Black & White)",
+    "product_url": "https://www.intex.in/products/sa65bwhg-6-5kg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA65BWHG--6.5-KG.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 14999.0,
+      "display": "₹14,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa65bwhg-6-5kg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "SA65BWHG | 6.5KG Semi-Automatic Washing Machine (Black & White)",
+    "model": "SA65BWHG-6-5KG",
+    "brand": "Intex",
+    "overview": "The SA65BWHG 6.5KG Semi-Automatic Washing Machine is built for efficiency and durability. Its rust-free body, spiral pulsator design, and collar scrubber ensure a powerful and thorough clean. Equipped with a toughened glass lid, water level indicator, and noise-free spinning, it delivers hassle-free washing. The powerful motor and lint filter enhance performance, while the end-cycle buzzer adds convenience. Designed to make laundry effortless, this washing machine is the perfect companion for your home.",
+    "features": [
+      "Anti-corrosive rust-free body for long-lasting durability",
+      "2 wash programs for efficient and customized cleaning",
+      "Spiral pulsator design for deep and powerful wash action",
+      "Water level indicator for precise water usage control",
+      "Toughened glass lid for enhanced durability and style",
+      "Lint filter to trap dirt and ensure cleaner clothes",
+      "Collar scrubber technology for tough stain removal",
+      "Powerful motor with TOP technology for superior performance",
+      "Noise-free spinning for faster and hassle-free drying",
+      "End-cycle buzzer for added convenience and time-saving"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA65BWHG--6.5-KG.jpg",
+        "alt": "SA65BWHG | 6.5KG Semi-Automatic Washing Machine (Black & White)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Anti-corrosive rust-free body for long-lasting durability",
+        "Feature 2": "2 wash programs for efficient and customized cleaning",
+        "Feature 3": "Spiral pulsator design for deep and powerful wash action",
+        "Feature 4": "Water level indicator for precise water usage control",
+        "Feature 5": "Toughened glass lid for enhanced durability and style",
+        "Feature 6": "Lint filter to trap dirt and ensure cleaner clothes",
+        "Feature 7": "Collar scrubber technology for tough stain removal",
+        "Feature 8": "Powerful motor with TOP technology for superior performance",
+        "Feature 9": "Noise-free spinning for faster and hassle-free drying",
+        "Feature 10": "End-cycle buzzer for added convenience and time-saving"
+      },
+      "General": {
+        "Model": "SA65BWHG-6-5KG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa65bwhg-6-5kg-semi-automatic-washing-machine"
+  }
+}

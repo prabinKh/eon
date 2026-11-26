@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP110 Wired Gamepad"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869452067",
+    "product_name": "GP110 Wired Gamepad",
+    "product_title": "GP110 Wired Gamepad",
+    "product_url": "https://antesports.com/products/gp110-wired-gamepad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_6bb7e43d-8c07-4434-b45d-d5eae668bcef.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/gp110-wired-gamepad.html",
+  "detail": {
+    "title": "GP110 Wired Gamepad",
+    "model": "AEPP0001",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP110 is a wired gamepad with a vibrant dual-color design that combines great functionality with cool looks, built for PC, laptop and PS3 use. Its 360-degree joysticks rotate smoothly with soft rubber tops for quick flick movements, while a dual motor setup underneath the grips delivers precise, timely tactile feedback across 3 adjustable vibration levels. The ergonomically shaped shell fits all palm sizes with strategically placed textured grip areas that keep hands aerated and comfortable during marathon sessions. Wide compatibility with Windows, PS3 and Android (OTG adapter included) means you can take this gamepad wherever you game, with no drivers needed except on Windows XP.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_6bb7e43d-8c07-4434-b45d-d5eae668bcef.jpg",
+        "alt": "GP110 Wired Gamepad - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Vibration": "Dual Motor, 3 Levels",
+        "Joysticks": "360° Rotation",
+        "Compatibility": "PC (Win 10/8/7), PS3, Android",
+        "CONNECTIVITY": "Wired USB",
+        "VIBRATION": "Dual Motor, 3 Levels",
+        "JOYSTICKS": "360° Rotation",
+        "COMPATIBILITY": "PC (Win 10/8/7), PS3, Android",
+        "Offer Price (INR)": "₹957.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0001"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP110)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP110.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp110-wired-gamepad"
+  }
+}

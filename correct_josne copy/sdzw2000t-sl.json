@@ -1,0 +1,171 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "Special Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/special-series",
+    "tab_title": "Anti-Corrosion Cameras",
+    "tab_id": "1281",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "Special Series",
+      "Anti-Corrosion Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "24347",
+    "product_name": "SDZW2000T-SL",
+    "product_title": "2MP Anti-corrosion IR Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/anti-corrosion-cameras/sdzw2000t-sl",
+    "card_image": "https://material.dahuasecurity.com/product/20180718/SDZW2000T-SL_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sdzw2000t-sl.html",
+  "detail": {
+    "title": "2MP Anti-corrosion IR Network Camera",
+    "model": "SDZW2000T-SL",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SDZW2000T-SL 2MP Anti-corrosion IR Network Camera Key Points • High-Quality Imaging with 2MP Resolution • Efficient H.265 Compression for Reduced Bandwidth and Storage • Deep Learning-Based Human and Vehicle Classification • IP68 and IK10 Protection, Suitable for Outdoor Environments • Supports 316L Stainless Steel, Anti-Corrosion Design for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” STARVIS™ CMOS",
+        "Effective Pixels": "1920(H) x 1080(V), 2 Megapixels",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "1/3s~1/100,000s",
+        "Minimum Illumination": "Color: 0.005Lux@F2.1; B/W: 0.0005Lux@F2.1; 0Lux@F2.1 (IR on)",
+        "S/N Ratio": "More than 50dB",
+        "IR Distance": "30m (98ft)",
+        "IR On/Off Control": "Auto/Manual",
+        "IR LEDs": "18",
+        "Focal Length": "3.6mm / 6mm",
+        "Max. Aperture": "F2.1 / F2.0",
+        "Angle of View": "3.6mm: H: 87°, V: 48° 6mm: H: 51°, V: 30°",
+        "Lens": "Detect",
+        "3.6mm": "55m(180ft)",
+        "6mm": "81m(266ft)",
+        "Event Trigger": "Motion detection, Video tampering, Network disconnection, IP address conflict, Illegal Access,",
+        "Auto Tracking": "N/A",
+        "IVS": "Tripwire, Intrusion, Abandoned/Missing",
+        "Compression": "N/A",
+        "Streaming Capability": "3 Streams",
+        "Resolution": "1080P(1920×1080)/1.3M(1280×960)/720P(1280× 720)/D1(704×576/704×480)/CIF(352×288/352×240)",
+        "Frame Rate": "Main stream: 1080P/1.3M/720P(1 ~ 50/60fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265/H.264: 448K ~ 8192Kbps",
+        "Day/Night": "Auto(ICR) / Color / B/W",
+        "Backlight Compensation": "BLC / HLC / WDR (120dB)",
+        "White Balance": "Auto, ATW, Indoor, Outdoor, Manual",
+        "Gain Control": "Auto / Manual",
+        "Noise Reduction": "Ultra DNR (2D/3D)",
+        "Motion Detection": "Support",
+        "Region of Interest": "Support",
+        "Electronic Image Stabilization (EIS)": "N/A",
+        "Defog": "N/A",
+        "Digital Zoom": "16x",
+        "Flip": "180°",
+        "Privacy Masking": "Support",
+        "Ethernet": "RJ-45 (10Base-T/100Base-TX)",
+        "Protocol": "IPv4/IPv6, HTTP, HTTPS, SSL, TCP/IP, UDP, UPnP, ICMP, IGMP, SNMP, RTSP, RTP, SMTP, NTP, DHCP, DNS,PPPOE,DDNS,FTP, IP Filter,QoS,Bonjour,802.1x",
+        "Interoperability": "ONVIF Profile S&G, API",
+        "Streaming Method": "Unicast / Multicast",
+        "Max. User Access": "20 users",
+        "Edge Storage": "NAS (Network Attached Storage), Local PC for instant recording",
+        "Web Viewer": "IE, Chrome, Firefox, Safari",
+        "Management Software": "Smart PSS, DSS, DMSS",
+        "Smart Phone": "IOS, Android",
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpartB,ANSI C63.4- 2014",
+        "Video Interface": "N/A",
+        "Audio Interface": "N/A",
+        "RS485": "N/A",
+        "Alarm I/O": "N/A",
+        "Power Supply": "DC12V/1.5A, PoE(802.3af)",
+        "Power Consumption": "5W (IR on)",
+        "Operating Conditions": "-40°C ~ 60°C (-40°F ~ +140°F) / Less than 95% RH",
+        "Ingress Protection": "IP68",
+        "Vandal Resistance": "IK10",
+        "Casing": "316L stainless steel",
+        "Dimensions": "Φ152mm × 101mm × 107.5mm",
+        "Net Weight": "2kg(4.41lb)",
+        "Gross Weight": "2.27Kg(5.01lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180718/SDZW2000T-SL_Datasheet_20180717.pdf"
+      },
+      {
+        "name": "2025-08-22 #User Manual Dahua Network Speed Dome Web3.0 Operation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3327/user_manual/Dahua_Network_Speed_Dome_Web3.0_Operation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-07-12 #A&E Document SDZW2000T-SL_A&E_20260907202954 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16657/a_e_document/1788829879084.docx"
+      },
+      {
+        "name": "2021-01-16 #Drawings SDZW2000T-SL_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16657/drawings/SDZW2000T-SL_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings SDZW2000T-SL_Dimension Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42097/drawings/SDZW2000T-SL_Dimension.pdf"
+      },
+      {
+        "name": "2025-09-25 #Firmware DH_IPC-HX5X3X-Rhea_MultiLang_PN_Stream3_V2.800.9992002.0.R.250916 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42097/firmware/DH_IPC-HX5X3X-Rhea_MultiLang_PN_Stream3_V2.800.9992002.0.R.250916.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/anti-corrosion-cameras/sdzw2000t-sl"
+  }
+}

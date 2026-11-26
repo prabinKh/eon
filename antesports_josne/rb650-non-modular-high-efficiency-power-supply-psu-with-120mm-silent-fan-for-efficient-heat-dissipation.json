@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "RB650 Non Modular High Efficiency Power Supply"
+    ]
+  },
+  "card_info": {
+    "product_id": "10371097624867",
+    "product_name": "RB650 Non Modular High Efficiency Power Supply",
+    "product_title": "RB650 Non Modular High Efficiency Power Supply",
+    "product_url": "https://antesports.com/products/rb650-non-modular-high-efficiency-power-supply-psu-with-120mm-silent-fan-for-efficient-heat-dissipation",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_ff910f3d-094c-450d-a642-fb14e0a9d0fa.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/rb650-non-modular-high-efficiency-power-supply-psu-with-120mm-silent-fan-for-efficient-heat-dissipation.html",
+  "detail": {
+    "title": "RB650 Non Modular High Efficiency Power Supply",
+    "model": "RB650",
+    "brand": "Ant Esports",
+    "overview": "650W Continuous Power : The Ant Esports RB650 offers 650W continuous power for reliable operation and consistent power delivery. 80 PLUS Bronze Certified : Delivers up to 85% efficiency to help reduce electricity consumption during PC operation. 120mm Silent Fan : Equipped with a smooth and silent 120mm fan for efficie",
+    "features": [
+      "650W Continuous Power : The Ant Esports RB650 offers 650W continuous power for reliable operation and consistent power delivery.",
+      "80 PLUS Bronze Certified : Delivers up to 85% efficiency to help reduce electricity consumption during PC operation.",
+      "120mm Silent Fan : Equipped with a smooth and silent 120mm fan for efficient cooling and heat dissipation.",
+      "Active PFC and Protection : Features Active PFC with OCP, UVP, OPP, OTP and SCP protection for safer PSU operation.",
+      "Multiple PC Connectors : Includes 20+4 Pin motherboard, 4+4 Pin CPU, 6+2 Pin PCI-E, 3 SATA and 1 Molex connectors."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_ff910f3d-094c-450d-a642-fb14e0a9d0fa.png",
+        "alt": "RB650 Non Modular High Efficiency Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_92318096-51c2-4f0c-a6c3-dcaa817fd0b4.png",
+        "alt": "RB650 Non Modular High Efficiency Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_864c5e9f-8a08-4ea1-9672-eadb6313da5d.png",
+        "alt": "RB650 Non Modular High Efficiency Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_5952aefd-135e-4b7a-a7ba-e14bdf491085.png",
+        "alt": "RB650 Non Modular High Efficiency Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Power Supply",
+        "Model": "RB650",
+        "Brand": "Ant Esports",
+        "Output Wattage": "650W",
+        "Efficiency": "80 PLUS Bronze",
+        "Cooling Fan": "120mm Silent Fan",
+        "PFC": "Active PFC",
+        "Motherboard Connector": "1x 20+4 Pin",
+        "CPU Connector": "1x 4+4 Pin",
+        "PCIe Connector": "1x 6+2 Pin",
+        "SATA Connectors": "3",
+        "Molex Connector": "1",
+        "Protection": "OCP, UVP, OPP, OTP, SCP",
+        "Compatible Devices": "Desktop PC / Mon",
+        "PRODUCT TYPE": "Power Supply",
+        "MODEL": "RB650",
+        "BRAND": "Ant Esports",
+        "OUTPUT WATTAGE": "650W",
+        "EFFICIENCY": "80 PLUS Bronze",
+        "COOLING FAN": "120mm Silent Fan",
+        "MOTHERBOARD CONNECTOR": "1x 20+4 Pin",
+        "CPU CONNECTOR": "1x 4+4 Pin",
+        "PCIE CONNECTOR": "1x 6+2 Pin",
+        "SATA CONNECTORS": "3",
+        "MOLEX CONNECTOR": "1",
+        "PROTECTION": "OCP, UVP, OPP, OTP, SCP",
+        "COMPATIBLE DEVICES": "Desktop PC / Mon",
+        "Offer Price (INR)": "₹6,199.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/rb650-non-modular-high-efficiency-power-supply-psu-with-120mm-silent-fan-for-efficient-heat-dissipation"
+  }
+}

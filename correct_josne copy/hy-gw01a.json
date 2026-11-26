@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Gateways",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/gateways",
+    "tab_title": "Gateways",
+    "tab_id": "17841",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Gateways",
+      "Gateways"
+    ]
+  },
+  "card_info": {
+    "product_id": "144271",
+    "product_name": "HY-GW01A",
+    "product_title": "Wireless Gateway",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gateways/hy-gw01a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240401/14_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-gw01a.html",
+  "detail": {
+    "title": "Wireless Gateway",
+    "model": "HY-GW01A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-GW01A Wireless Gateway Key Points · Compatible with WisuLink wireless interconnected products · Dual communication based on Ethernet and Wi-Fi · Support wall mounting or free-standing on the table · Support OTA software upgrades · Support 4 LED indicators to illustrate the status of Power, Fault, Alarm and Internet Connectivity Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240401/14_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058644_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058645_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058646_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058647_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058648_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058649_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058650_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541058651_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15399/ProductImage/1_0_01_36_15399_541068123_thumb.png",
+        "alt": "HY-GW01A_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "General": {
+        "Power Supply": "5.0V/1.0A",
+        "Alarm Volume": "70 dB",
+        "Alarm Mode": "Visual and audible alarm",
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator stays on continuously Pairing: Green indicator flashes quickly (once per 0.5 seconds) Unpairing: All indicators stay on continuously for 3 seconds Alarm: Red indicator stays on continuously Fault: Yellow indicator stays on continuously Distributed the network successfully: Blue indicator stays on continuously AP distribution mode: Blue indicator flashes quickly (once per 0.5 seconds) Reset: Red indicator flashes quickly (once per 0.5 seconds)",
+        "Wi-Fi Frequency": "2.4 GHz (Incompatible with 5 GHz Wi-Fi network)",
+        "Wi-Fi Transmission Range": "50 m (164 ft)",
+        "Wi-Fi Protocol": "IEEE 802.11b/g/n",
+        "Operating Frequency": "868 MHz",
+        "Maximum Number of Connected Devices": "24 WisuLink wireless interconnected products",
+        "Color": "White",
+        "Casing": "ABS",
+        "Dimensions": "L78.2mm × W78.2mm × H22.9mm (L3.08\" × W3.08\" × H0.90\")",
+        "Weight": "60 g (0.13 lb)",
+        "Installation": "Free-standing/Wall mounting",
+        "Operating Temperature": "-10°C to +55S°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)",
+        "Certifications": "CE, UKCA"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81381/datasheet/HY-GW01A_datasheet_20230805.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Wireless Gateway_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81381/user_manual/Wireless_Gateway_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-04-01 #Drawings Installation_HY-GW01A_2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81381/drawings/Installation_HY-GW01A_2.pdf"
+      },
+      {
+        "name": "2024-04-01 #Drawings Installation_HY-GW01A_1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81381/drawings/Installation_HY-GW01A_1.pdf"
+      },
+      {
+        "name": "2024-04-01 #Drawings Dimensions_HY-GW01A Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81381/drawings/Dimensions_HY-GW01A.pdf"
+      },
+      {
+        "name": "2026-07-22 #Firmware DHI_HYGW01A_Eng_MCU_V1.000.0000010.0.R.260702 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81381/firmware/DHI_HYGW01A_Eng_MCU_V1.000.0000010.0.R.260702.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gateways/hy-gw01a"
+  }
+}

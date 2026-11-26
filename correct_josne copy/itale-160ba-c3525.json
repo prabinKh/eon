@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Supplement Lights",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Supplement Lights",
+    "tab_id": "606",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Supplement Lights",
+      "Supplement Lights"
+    ]
+  },
+  "card_info": {
+    "product_id": "103677",
+    "product_name": "ITALE-160BA-C3525",
+    "product_title": "Warm Light Continuous LED Illuminator",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/continuous-light/itale-160ba-c3525",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220317/1_0_01_09_13049_19030261261_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itale-160ba-c3525.html",
+  "detail": {
+    "title": "Warm Light Continuous LED Illuminator",
+    "model": "ITALE-160BA-C3525",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITALE-160BA-C3525 Warm Light Continuous LED Illuminator Key Points • Adjustable Pulse Width Meets the Brightness Requirements of Different Scenarios • Illumination Distance 16 m–26 m • Infrared LED Chips with Long Lifespan, Good Stability and High Luminous Efficiency • Easy Installation and Easy Configuration • Light Uniformity and Distinct Target Spot • Covers up to 3 Lanes • Water and Dust Resistant(lP66) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220317/1_0_01_09_13049_19030261261_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220317/1_0_01_09_13049_1903026127_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Illuminator Type": "LED",
+        "Light Source": "Visible light",
+        "Color Temperature": "3500 K",
+        "Center Illuminance": "< 40 lx (20 m away from the illuminator)",
+        "Trigger Mode": "Pulse width trigger/edge trigger",
+        "Spot Coverage": "3 standard lane (installation height: 6 m (19.69 ft), capture distance: 26 m (85.30 ft)",
+        "Illumination Distance": "16 m–26 m (52.49 ft–85.30 ft)",
+        "Flash Interval": "≤ 60 ms, meeting the time requirements of taking 3 snapshots consecutively by the camera"
+      },
+      "LED": {
+        "Number of LED": "42 (imported white LED)",
+        "Luminous Flux": "1800 lm",
+        "Color Rendering Index (CRI)": "﹥ 65",
+        "Angle of LED Lens": "10° × 30°"
+      },
+      "Function": {
+        "Day/Night": "Supports day/night switch. Sensitivity levels 1–6 can be set",
+        "Working Mode": "Continuous light",
+        "Status Display": "Supports remotely displaying the running or fault status of the illuminator on the the camera (Dahua traffic cameras only) web interface",
+        "Power Detection": "Displays real-time power of the illuminator",
+        "Temperature Detection": "Displays real-time temperature of the illuminator",
+        "Photosensitivity Value": "Display real-time photosensitivity value of the illuminator",
+        "Remote Fault Display": "Supports current and voltage exception detection",
+        "Brightness Adjustment": "Brightness levels 1–20 can be set",
+        "Capture and Flash Synchronization": "Yes",
+        "Video and Flash Synchronization": "Yes",
+        "False Trigger Shielding": "Yes",
+        "Anti-interference": "Yes"
+      },
+      "External Port": {
+        "I/O": "1",
+        "Flash": "1",
+        "Strobe Input": "1",
+        "RS-485": "1"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC",
+        "Power Consumption": "≤ 60 W",
+        "Operating Temperature": "–40°C to +70°C (–40°F to +158°F)",
+        "Operating Humidity": "10%–90% (RH, non-condensing)",
+        "Protection Grade": "IP66",
+        "Dimensions": "258.0 mm × 250.9 mm × 127.0 mm (10.16\" × 9.88\" × 5.00\") (L × W × H)",
+        "Net Weight": "3.6 kg (7.94 lb)",
+        "Gross Weight": "4.1 kg (9.04 lb)",
+        "Installation": "Universal bracket mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITALE-160BA-C3525_datasheet_20210802.pdf"
+      },
+      {
+        "name": "2025-01-07 #User Manual Dahua LED Multifunction Illuminator_User's Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004979/202501/Dahua_LED_Multifunction_Illuminator_User_s_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-01-07 #User Manual LED Multifunction Illuminator_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004979/202501/LED_Multifunction_Illuminator_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document ITALE-160BA-C3525_A&E_20260901195232 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43307/a_e_document/1788268901226.docx"
+      },
+      {
+        "name": "2021-07-21 #Drawings ITALE-160BA-C3525_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28317/drawings/ITALE-160BA-P3525_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-11-06 #Firmware General_ITALE-160BA-P_GD32_MCU_V1.000.0000000.0.R.20210802 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/1739236/M/General_ITALE-160BA-P_GD32_MCU_V1.000.0000000.0.R.20210802.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/continuous-light/itale-160ba-c3525"
+  }
+}

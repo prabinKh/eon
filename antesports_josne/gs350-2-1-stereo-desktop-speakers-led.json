@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Speaker",
+    "subcategory_url": "https://antesports.com/collections/speaker",
+    "series": "Speaker Series",
+    "series_url": "https://antesports.com/collections/speaker",
+    "tab_title": "Speaker",
+    "tab_id": "508173353251",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Speaker",
+      "GS350 2.1 Stereo Desktop Speakers with LED Lights"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341811290403",
+    "product_name": "GS350 2.1 Stereo Desktop Speakers with LED Lights",
+    "product_title": "GS350 2.1 Stereo Desktop Speakers with LED Lights",
+    "product_url": "https://antesports.com/products/gs350-2-1-stereo-desktop-speakers-led",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/52.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gs350-2-1-stereo-desktop-speakers-led.html",
+  "detail": {
+    "title": "GS350 2.1 Stereo Desktop Speakers with LED Lights",
+    "model": "AEPP0081",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GS350 is a 2.1 channel powered desktop speaker system that combines a dedicated subwoofer with stereo satellites for deep bass and clear vocals across games, movies and music. A simple 3.5mm AUX input connects instantly to a PC, laptop, tablet or phone, while USB powers the whole set without extra adapters. An in-line volume control lets you adjust loudness on the fly without reaching behind the unit, and built-in LED lighting adds a colourful accent to any desk setup. Compact and easy to place, it's a straightforward multimedia speaker upgrade for everyday computing and casual entertainment.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/52.png",
+        "alt": "GS350 2.1 Stereo Desktop Speakers with LED Lights - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Channel": "2.1 Stereo with Dedicated Subwoofer",
+        "Connectivity": "3.5mm AUX Input",
+        "Controls": "In-line Volume Control",
+        "Lighting": "Multi-Colour LED",
+        "Power": "USB Powered",
+        "Compatibility": "PC, Laptop, Tablet, Cellphone",
+        "Color": "Black",
+        "CHANNEL": "2.1 Stereo with Dedicated Subwoofer",
+        "CONNECTIVITY": "3.5mm AUX Input",
+        "CONTROLS": "In-line Volume Control",
+        "LIGHTING": "Multi-Colour LED",
+        "POWER": "USB Powered",
+        "COMPATIBILITY": "PC, Laptop, Tablet, Cellphone",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,699.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0081"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gs350-2-1-stereo-desktop-speakers-led"
+  }
+}

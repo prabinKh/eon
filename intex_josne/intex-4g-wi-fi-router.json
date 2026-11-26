@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "Security & Surveillance",
+    "category_url": "https://www.intex.in/collections/security-surveillance",
+    "subcategory": "4G Wi-Fi Router",
+    "subcategory_url": "https://www.intex.in/collections/4g-wi-fi-router",
+    "series": "Intex 4G Wi-Fi Router",
+    "series_url": "https://www.intex.in/collections/intex-4g-wi-fi-router",
+    "tab_title": "4G Wi-Fi Router",
+    "tab_id": "9379080011994",
+    "breadcrumbs": [
+      "Home",
+      "Security & Surveillance",
+      "4G Wi-Fi Router",
+      "Intex 4G Wi-Fi Router"
+    ]
+  },
+  "card_info": {
+    "product_id": "9379080011994",
+    "product_name": "Intex 4G Wi-Fi Router",
+    "product_title": "Intex 4G Wi-Fi Router",
+    "product_url": "https://www.intex.in/products/intex-4g-wi-fi-router",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_756d564a-207f-445c-b325-e610dea1013d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4550.0,
+      "display": "₹4,550.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-4g-wi-fi-router.html",
+  "detail": {
+    "title": "Intex 4G Wi-Fi Router",
+    "model": "4G",
+    "brand": "Intex",
+    "overview": "Experience high-speed and reliable internet connectivity with the Intex 4G Wi-Fi Router, designed to deliver seamless wireless performance for homes, offices, and small businesses. Equipped with advanced Wi-Fi 6 technology, this router provides faster speeds, improved network efficiency, and stable connections for multiple devices. Supporting 5G/4G SIM cards, it offers flexible internet access without the need for wired broadband connections. With an external high-speed triple antenna design, Ethernet port support, and connectivity for up to 32 users, it ensures smooth browsing, streaming, gaming, and professional usage.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_756d564a-207f-445c-b325-e610dea1013d.jpg",
+        "alt": "Intex 4G Wi-Fi Router",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "4G Wi-Fi Router",
+        "Wireless Technology": "Wi-Fi 6",
+        "SIM Compatibility": "5G / 4G SIM Cards",
+        "User Capacity": "Up to 32 Users",
+        "Antenna": "External High-Speed Triple Antenna",
+        "Network Support": "GSM / GPRS / EDGE / LTE",
+        "Frequency Support": "850MHz / 900MHz / 1800MHz / 2100MHz / 2400MHz",
+        "Connectivity": "Wi-Fi + Ethernet Port",
+        "Application": "Home, Office & Business Internet Connectivity",
+        "Model": "4G"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Security_Surveillance_Brochure.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-4g-wi-fi-router"
+  }
+}

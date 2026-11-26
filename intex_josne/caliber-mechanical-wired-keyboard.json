@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/gaming-keyboard",
+    "series": "Keyboard",
+    "series_url": "https://www.intex.in/collections/keyboard",
+    "tab_title": "Gaming Keyboard",
+    "tab_id": "8463926034650",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Keyboard",
+      "Caliber Mechanical Wired Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "8463926034650",
+    "product_name": "Caliber Mechanical Wired Keyboard",
+    "product_title": "Caliber Mechanical Wired Keyboard",
+    "product_url": "https://www.intex.in/products/caliber-mechanical-wired-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/CALIBRE.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4399.0,
+      "display": "₹4,399.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/caliber-mechanical-wired-keyboard.html",
+  "detail": {
+    "title": "Caliber Mechanical Wired Keyboard",
+    "model": "Keyboard",
+    "brand": "Intex",
+    "overview": "Unlock a new realm of precision and performance with our revolutionary Mechanical Keyboard. A meticulously crafted keyboard sets a new standard for typing encounters by seamlessly blending tactile feedback, speed, and durability. Elevate your expectations and embrace the future of typing excellence.",
+    "features": [
+      "Mechanical Clicky Switch",
+      "Double Injection Technology",
+      "12 Modes RGB Lights",
+      "Floating Keycaps",
+      "50 Million Clicks Key Life",
+      "3 Level Brightness",
+      "Multiple Device Connectivity",
+      "Premium Plug & Play Keyboard"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/CALIBRE.png",
+        "alt": "Caliber Mechanical Wired Keyboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Mechanical Clicky Switch",
+        "Feature 2": "Double Injection Technology",
+        "Feature 3": "12 Modes RGB Lights",
+        "Feature 4": "Floating Keycaps",
+        "Feature 5": "50 Million Clicks Key Life",
+        "Feature 6": "3 Level Brightness",
+        "Feature 7": "Multiple Device Connectivity",
+        "Feature 8": "Premium Plug & Play Keyboard"
+      },
+      "General": {
+        "Model": "Keyboard"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Caliber_Keyboard_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/caliber-mechanical-wired-keyboard"
+  }
+}

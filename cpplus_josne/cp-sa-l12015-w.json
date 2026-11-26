@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Illuminators",
+    "category_url": "https://cpplusworld.com/products/illuminators",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/illuminators",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "88",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Illuminators",
+      "CP-SA-L12015-W"
+    ]
+  },
+  "card_info": {
+    "product_id": "1523",
+    "product_name": "CP-SA-L12015-W",
+    "product_title": "CP-SA-L12015-W-IR Illuminator - 120 Meter | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-sa-l12015-w",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/b2fdb58d-3223-445c-8607-84006ade871c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-sa-l12015-w.html",
+  "detail": {
+    "title": "CP-SA-L12015-W-IR Illuminator - 120 Meter | Cp Plus | Cpplusworld.com",
+    "model": "CP-SA-L12015-W",
+    "brand": "CP Plus",
+    "overview": "IR Illuminator - 120 Meter",
+    "features": [
+      "To improve performance of the weak light camera, thereby enhancing the picture effects at night.",
+      "The function of video analysis at night.",
+      "Conventional night monitoring.",
+      "Reduce signal noise and other image distortion.",
+      "Reduce the network bandwidth requirements.",
+      "Energy saving by power factor correction",
+      "Reduce the equipment cost",
+      "Lower cost of installing and wiring."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b2fdb58d-3223-445c-8607-84006ade871c.jpg",
+        "alt": "CP-SA-L12015-W - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/df7b0775-abe5-43f3-abf9-d2909d943183.jpg",
+        "alt": "CP-SA-L12015-W - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display Size": "N/A",
+        "Material": "Aluminum",
+        "Mount": "Wall mounting “U” bracket",
+        "LED Type": "9pcs 2W dot-matrix IR LED",
+        "Panel": "High light transmittance toughened glass",
+        "BeamAngle": "15°",
+        "Day and night switch": "Auto (build in photocell)",
+        "IR": "120 Mtr.",
+        "Cable Length": "1.3Mtr.",
+        "Power Source": "AC 85-265V/DC12V",
+        "Power Consumption": "24W (850nm)",
+        "Weatherproof Standard": "IP67",
+        "Operating Temperature": "-40°C to 50°C",
+        "Dimension": "130mm x 105mm x 85mm",
+        "Net Weight(g)": "1.4kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-SA-L12015-W.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-sa-l12015-w"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "RF Tags",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/rf-tags",
+    "tab_title": "RF Tags",
+    "tab_id": "13917",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "RF Tags",
+      "RF Tags"
+    ]
+  },
+  "card_info": {
+    "product_id": "101947",
+    "product_name": "ISC-ETR5-T171",
+    "product_title": "RF Ink Tag T171",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/rf-tags/isc-etr5-t171",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211223/1_9_03_09_10234_15586674_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-etr5-t171.html",
+  "detail": {
+    "title": "RF Ink Tag T171",
+    "model": "ISC-ETR5-T171",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-ETR5-T171 RF Ink Tag T171 Key Points > Environmentally friendly and economical, can be reused after unlocking. > Small and light design, high detection performance. > High detection rate, excellent anti-theft effect. > Lower labor operating costs, widely applicable in merchandising shops. > Powerful locking mechanism, effectively preventing man-made damage. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211223/1_9_03_09_10234_15586674_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Performance": {
+        "Technology": "Radio-Frequency (RF)",
+        "Detection Frequency": "8.2 MHz ± 0.4 MHz",
+        "AM Antenna Detection Distance": "≤ 0.8 m (Based on system performance)",
+        "Shell Material": "Acrylonitrile Butadiene Styrene",
+        "Lock Strength": "Standard",
+        "Certifications": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "General": {
+        "Color": "White",
+        "Length": "50 mm (1.97'') ± 0.5 mm (0.02'')",
+        "Width": "50 mm (1.97'') ± 0.5 mm (0.02'')",
+        "Label Thickness": "20 mm (0.79'') ± 0.5 mm (0.02'')",
+        "Ink Color": "Red Yellow",
+        "Packaging": "500 RF Tags per carton",
+        "Carton Dimension": "590 mm × 400 mm × 210 mm ( 23.23'' × 15.75'' × 8.27'')",
+        "Carton Weight": "12.5 kg (27.6 lb)",
+        "Minimum Order Quantity": "500 pcs"
+      },
+      "Environmental Constraints": {
+        "Temperature": "Maximum storage temperature not to exceed 60 °C for 96 hours at 80% RH.",
+        "Humidity": "Maximum storage humidity not to exceed 80% RH for 96 hours at 60 °C."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-ETR5-T171_datasheet_20211130.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/rf-tags/isc-etr5-t171"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H580 Pro RGB Wired Gaming Headset"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421384995",
+    "product_name": "H580 Pro RGB Wired Gaming Headset",
+    "product_title": "H580 Pro RGB Wired Gaming Headset",
+    "product_url": "https://antesports.com/products/ant-esports-h580-pro-rgb-wired-gaming-headset-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_f7253bae-f67c-4527-9323-e8383316c455.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-h580-pro-rgb-wired-gaming-headset-black.html",
+  "detail": {
+    "title": "H580 Pro RGB Wired Gaming Headset",
+    "model": "H580 Pro",
+    "brand": "Ant Esports",
+    "overview": "Experience powerful, immersive sound with the Ant Esports H580 Pro RGB Wired Gaming Headset. Built for gamers who demand exceptional audio quality and all-day comfort, the H580 Pro features 50mm high-performance drivers, a flexible condenser microphone, vibrant multi-colour RGB lighting, and broad compatibility across PCs and gaming consoles.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_f7253bae-f67c-4527-9323-e8383316c455.png",
+        "alt": "H580 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_494ad6e6-3bd8-430f-81ef-cb7675efeee2.png",
+        "alt": "H580 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_b32ea9ec-4cfc-4bb6-86bf-1bf2f345f1fd.png",
+        "alt": "H580 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_bf358773-5999-454d-b68d-b02b5c4b77d5.png",
+        "alt": "H580 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Model": "H580 Pro",
+        "Colour": "Black",
+        "Connectivity": "Wired",
+        "Driver Size": "50mm",
+        "Microphone": "Flexible Condenser",
+        "Cable Length": "1.8 Metres",
+        "Lighting": "Multi-Colour RGB",
+        "Connector": "3.5mm Audio + USB-A (RGB Power)",
+        "Compatibility": "Windows, Xbox One, PS5, Nintendo Wii",
+        "MODEL": "H580 Pro",
+        "COLOUR": "Black",
+        "CONNECTIVITY": "Wired",
+        "DRIVER SIZE": "50mm",
+        "MICROPHONE": "Flexible Condenser",
+        "CABLE LENGTH": "1.8 Metres",
+        "LIGHTING": "Multi-Colour RGB",
+        "CONNECTOR": "3.5mm Audio + USB-A (RGB Power)",
+        "COMPATIBILITY": "Windows, Xbox One, PS5, Nintendo Wii",
+        "Offer Price (INR)": "₹849.00",
+        "MRP (INR)": "₹2,099.00",
+        "SKU": "AEPP0007"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-h580-pro-rgb-wired-gaming-headset-black"
+  }
+}

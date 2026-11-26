@@ -1,0 +1,203 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizMind Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizmind-series",
+    "tab_title": "SD6",
+    "tab_id": "8962",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizMind Series",
+      "SD6"
+    ]
+  },
+  "card_info": {
+    "product_id": "153031",
+    "product_name": "SD6E432MB-HNR-A-PV1",
+    "product_title": "4MP 32x Smart Dual Illumination Active Deterrence Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizmind-series/sd6/sd6e432mb-hnr-a-pv1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16145/ProductImage/1_0_01_07_16145_797459259_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd6e432mb-hnr-a-pv1.html",
+  "detail": {
+    "title": "4MP 32x Smart Dual Illumination Active Deterrence Network PTZ Camera",
+    "model": "SD6E432MB-HNR-A-PV1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD6E432MB-HNR-A-PV1 4MP 32x Smart Dual Illumination Active Deterrence Network PTZ Camera Key Points • High-Quality Imaging with 4MP Resolution • 32× Optical Zoom Provide Close Up Views Over Expansive Areas • Smart Dual Light: Expansive Night View with up to 250m IR Distance and 100m Warm Light • Red & Blue Warning Lights and Alarm Sounds for Active Deterrence • Auto Tracking 3.0：Effective Target Monitoring with Detailed Intruder Trajectories • AcuPick Enables Fast and Precise Human&Vehicle Search • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16145/ProductImage/1_0_01_07_16145_797459259_crop_thumb.PNG",
+        "alt": "SD6E432MB-HNR-A-PV1_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16145/ProductImage/1_0_01_07_16145_797459257_crop_thumb.PNG",
+        "alt": "SD6E432MB-HNR-A-PV1_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16145/ProductImage/1_0_01_07_16145_797459258_crop_thumb.PNG",
+        "alt": "SD6E432MB-HNR-A-PV1_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "Iris Control Type": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "96.0 m( 314.96 ft)",
+        "T": "3080.0 m( 10104.99 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "Video Metadata": {},
+      "IVS (Perimeter Protection)": {},
+      "Face Detection": {},
+      "Smart Tracking": {},
+      "SMD": {},
+      "AcuPick": {},
+      "Auto Patrol": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Built-in Speaker": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84222/datasheet/DH-SD6E432MB-HNR-A-PV1_S0_datasheet_20260826_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide (Vodka)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84222/user_manual/Installation_Guide_(Vodka)_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-06-17 #A&E Document SD6E432MB-HNR-A-PV1_A&E_20260918040136 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84222/a_e_document/1789675855860.docx"
+      },
+      {
+        "name": "2025-06-10 #Drawings SD6E432MB-HNR-A-PV1_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84219/drawings/SD6E232MB-HNR-A-PV1_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-06-10 #Drawings SD6E432MB-HNR-A-PV1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84219/drawings/SD6E232MB-HNR-A-PV1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-10 #Firmware DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-Normal_V3.211.0000012.1.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84219/firmware/DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-Normal_V3.211.0000012.1.R.260527.zip"
+      },
+      {
+        "name": "2026-01-14 #Firmware General_SD6C3XXX-HN-A-PV2_MCU_V2.401.0000003.16.R.251117 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84222/firmware/General_SD6C3XXX-HN-A-PV2_MCU_V2.401.0000003.16.R.251117.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizmind-series/sd6/sd6e432mb-hnr-a-pv1"
+  }
+}

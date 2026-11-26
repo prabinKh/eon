@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "27",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "8 Ch.",
+      "CP-UNR-4K2082-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "172",
+    "product_name": "CP-UNR-4K2082-V2",
+    "product_title": "CP-UNR-4K2082-V2-8 Ch. 4K Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-unr-4k2082-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/693072eb-a098-4322-8e73-c452101d0168.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unr-4k2082-v2.html",
+  "detail": {
+    "title": "CP-UNR-4K2082-V2-8 Ch. 4K Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-UNR-4K2082-V2",
+    "brand": "CP Plus",
+    "overview": "8 Ch. 4K Network Video Recorder",
+    "features": [
+      "Support up to 1ch@8MP/4ch@1080P decoding",
+      "Instastream/H.265/H.264 /H.264 codec decoding",
+      "Up to 8MP Resolution Preview and Playback",
+      "Max 80Mbps incoming bandwidth",
+      "Support 2 SATA HDDs up to 10TB, 2 USB ports (2.0)",
+      "HDMI / VGA simultaneous video output",
+      "ONVIF Version 2.4 conformance",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS, KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/693072eb-a098-4322-8e73-c452101d0168.jpg",
+        "alt": "CP-UNR-4K2082-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8e4b5db9-4922-44ec-bcd0-0123ae3315b2.jpg",
+        "alt": "CP-UNR-4K2082-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Dual-core embedded processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "8 channel",
+        "Two-way Talk": "1 channel Input, 1 channel Output, RCA",
+        "User Interface": "GUI",
+        "Video Output": "1 HDMI, 1 VGA",
+        "Video Resolution": "HDMI: 3840×2160, 1920×1080, 1280×1024, 1280×720 VGA: 1920×1080, 1280×1024, 1280×720",
+        "Video Recording": "Max 80 Mbps, 8MP/6MP/5MP/4MP/3MP/1080P/ 720P/ D1&etc.",
+        "Video Display Split": "1/4/8/9",
+        "Channel": "8",
+        "Bandwidth Incoming": "80",
+        "Motion Detection": "MD Zones: 396(22×18).",
+        "Video Loss": "Supports",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Hard Disk": "2 SATA III ports, up to 10TB Each. The maximum HDD capacity varies with environment temperature",
+        "Trigger Events": "Recording, PTZ, Tour, Video Push, Snapshot, and Screen Tips",
+        "Recording Mode": "Manual, Schedule (Continuous, MD (Motion Detection), Alarm, IVS)",
+        "Search Mode": "Time/Date, MD & Exact search (accurate to second)",
+        "Backup Mode": "USB Device / Network",
+        "Playback": "Play, Pause, Stop, Rewind, Fast play, Slow play, Next file, Previous file, Next camera, Previous camera, Full screen, Repeat, Shuffle, Backup selection,Digital zoom",
+        "Max User Account": "128 users",
+        "Record Interval": "1~120 min (default: 60 min), Pre-record: 1~30 sec, Post-record: 10~300 sec",
+        "Ethernet": "1 RJ-45 port (10/100Mbps)",
+        "Interface Ports": "2 USB Ports(1 Rear USB2.0, 1 Front USB2.0)",
+        "Protocols": "HTTP/HTTPS, TCP/IP, IPv4/IPv6, RTSP, UDP, NTP, DHCP, DNS, IP Filter, DDNS, RTSP, IP Search, P2P, ONVIF 2.4, SDK, CGI",
+        "Power Supply": "DC12V/4A",
+        "Power Consumption": "<3W (without HDD)",
+        "Working Temp": "-10 ~+55°C / 10~90%RH / 86~106kpa",
+        "Dimension": "375mm x 275mm x 53mm",
+        "Weight": "1.5kg (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K2082-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ed72db23-780d-4f61-8edc-3635c0b2fb7e.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k2082-v2"
+  }
+}

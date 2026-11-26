@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "MP320S Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924407587",
+    "product_name": "MP320S Mouse Pad - Black",
+    "product_title": "MP320S Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/mp320s-speed-mousepad-xl-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29_855e0716-e654-4b89-af06-1a9ed201d68b.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/mp320s-speed-mousepad-xl-black.html",
+  "detail": {
+    "title": "MP320S Mouse Pad - Black",
+    "model": "AEPP0010",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MP320S is a speed-type extended mouse pad designed for fast, low-friction gliding across a generous XL surface that comfortably fits a full keyboard and mouse together. Stitched edges resist fraying over time, while a non-slip base keeps the pad securely anchored during rapid gaming movements or everyday office use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29_855e0716-e654-4b89-af06-1a9ed201d68b.png",
+        "alt": "MP320S Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Size": "XL Extended",
+        "Type": "Speed Surface",
+        "Base": "Non-Slip",
+        "Edges": "Stitched",
+        "Color": "Black",
+        "SIZE": "XL Extended",
+        "TYPE": "Speed Surface",
+        "BASE": "Non-Slip",
+        "EDGES": "Stitched",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹309.00",
+        "MRP (INR)": "₹1,499.00",
+        "SKU": "AEPP0010"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mp320s-speed-mousepad-xl-black"
+  }
+}

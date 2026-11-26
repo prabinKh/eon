@@ -1,0 +1,147 @@
+{
+  "hierarchy": {
+    "category": "EV Charger",
+    "category_url": "https://www.dahuasecurity.com/products/ev-charger",
+    "subcategory": "D-Volt Lite",
+    "subcategory_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-lite",
+    "series": "D-Volt Lite",
+    "series_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-lite",
+    "tab_title": "D-Volt Lite",
+    "tab_id": "118210",
+    "breadcrumbs": [
+      "EV Charger",
+      "D-Volt Lite",
+      "D-Volt Lite",
+      "D-Volt Lite"
+    ]
+  },
+  "card_info": {
+    "product_id": "153820",
+    "product_name": "ICS-A070G-H6A",
+    "product_title": "Intelligent EV Charger",
+    "product_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-lite/ics-a070g-h6a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10082/ProductImage/1_0_01_47_10082_769910889_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "ev-charger/products/ics-a070g-h6a.html",
+  "detail": {
+    "title": "Intelligent EV Charger",
+    "model": "ICS-A070G-H6A",
+    "brand": "Dahua",
+    "overview": "Favourite ICS-A070G-H6A Intelligent EV Charger Key Points ·GB/T connector with 5m charging cable ·Designed for home use ·Current Adjustment ·Schedule Charge ·Shared Charging Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10082/ProductImage/1_0_01_47_10082_769910889_crop_thumb.PNG",
+        "alt": "ICS-A070G-H6A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10082/ProductImage/1_0_01_47_10082_769910888_crop_thumb.PNG",
+        "alt": "ICS-A070G-H6A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10082/ProductImage/1_0_01_47_10082_769910887_crop_thumb.PNG",
+        "alt": "ICS-A070G-H6A_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10082/ProductImage/1_0_01_47_10082_769910890_crop_thumb.PNG",
+        "alt": "ICS-A070G-H6A_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Rated Power": {},
+      "Input Voltage": {},
+      "Input Frequency": {},
+      "Output Voltage": {},
+      "Output Currency": {},
+      "Overcurrent Protection": {},
+      "Standby Power Consumption": {},
+      "Charging Mode": {},
+      "Leakage Protection": {},
+      "Types of Protection": {},
+      "Cooling Method": {},
+      "Connection Mode": {},
+      "ROHS": {},
+      "Measurement Accuracy": {},
+      "Charging Method": {},
+      "Indicator Light": {},
+      "Bluetooth": {},
+      "Auto Timing": {},
+      "Update": {},
+      "Casing Material": {},
+      "Installation": {},
+      "Wiring Method": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Cable Length": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Protection": {},
+      "Vandal-proof Rating": {},
+      "Noise Level": {},
+      "Power Input Port": {},
+      "Power Output Port": {},
+      "Charging Port": {},
+      "Current Adjustment": {},
+      "Schedule Charge": {},
+      "Shared Charging": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84973/datasheet/DHI-ICS-A070G-H6A_S0_datasheet_20250616.pdf"
+      },
+      {
+        "name": "2025-04-11 #User Manual Dahua Intelligent EV Charger D-Volt Lite_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010714/202504/Dahua_Intelligent_EV_Charger_D-Volt_Lite_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-04-11 #User Manual Dahua Intelligent EV Charger D-Volt Lite_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010714/202504/Dahua_Intelligent_EV_Charger_D-Volt_Lite_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-04-11 #User Manual Dahua Intelligent EV Charger D-Volt Lite_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010714/202504/Dahua_Intelligent_EV_Charger_D-Volt_Lite_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-16 #Drawings ICS-A070G-H6A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84973/drawings/ICS-A070G-H6A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-16 #Drawings ICS-A070G-H6A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84973/drawings/ICS-A070G-H6A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-lite/ics-a070g-h6a"
+  }
+}

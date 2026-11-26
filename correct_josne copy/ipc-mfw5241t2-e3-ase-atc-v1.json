@@ -1,0 +1,186 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 5 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series",
+    "tab_title": "Perimeter Protection Camera",
+    "tab_id": "18053",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 5 Series",
+      "Perimeter Protection Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "155846",
+    "product_name": "IPC-MFW5241T2-E3-ASE-ATC",
+    "product_title": "3 x 2MP Anti-Corrosion Triple-Sight Perimeter Protection Bullet WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/perimeter-protection-camera/ipc-mfw5241t2-e3-ase-atc=v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/image/1_0_01_04_50456_986030148_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-mfw5241t2-e3-ase-atc-v1.html",
+  "detail": {
+    "title": "3 x 2MP Anti-Corrosion Triple-Sight Perimeter Protection Bullet WizMind Network Camera",
+    "model": "IPC-MFW5241T2-E3-ASE-ATC",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite IPC-MFW5241T2-E3-ASE-ATC 3 x 2MP Anti-Corrosion Triple-Sight Perimeter Protection Bullet WizMind Network Camera Key Points • High-Quality Imaging with 3x2MP Resolution • 140m Long Detection Distance with Xinghan Vision Models • Micro-PTZ, Remotely Adjust Lenses Angles • IP67 and IK10 Ratings for Protection Against Harsh Environments • Anti-Corrosion Design (NEMA 4X) for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/image/1_0_01_04_50456_986030148_thumb.PNG",
+        "alt": "IPC-MFW5241T2-E3-ASE-ATC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/image/1_0_01_04_50456_986030851_crop_thumb.PNG",
+        "alt": "IPC-MFW5241T2-E3-ASE-ATC_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/image/1_0_01_04_50456_986030852_crop_thumb.PNG",
+        "alt": "IPC-MFW5241T2-E3-ASE-ATC_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Gradienter": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "Channel 1": "53.7 m( 176.18 ft)",
+        "Channel 2": "172.4 m( 565.62 ft)"
+      },
+      "Intelligence Notes": {},
+      "IVS (Perimeter Protection)": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Illumination By Area": {},
+      "Smart Illumination": {},
+      "Defog": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Security": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Output": {},
+      "Power Supply": {},
+      "Dual Power Backup": {},
+      "Power Consumption": {},
+      "ePoE": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-Corrosion Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/datasheet/DH-IPC-MFW5241T2-E3-ASE-ATC_V1_datasheet_20260921_English.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88441/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-02 #A&E Document IPC-MFW5241T2-E3-ASE-ATC_A&E_20260921114457 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/a_e_document/1789962660784.docx"
+      },
+      {
+        "name": "2026-08-29 #Drawings IPC-MFW5241T2-E3-ASE-ATC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/drawings/IPC-MFW5241T2-E3-ASE-ATC_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-08-29 #Drawings IPC-MFW5241T2-E3-ASE-ATC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88337/drawings/IPC-MFW5241T2-E3-ASE-ATC_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-12 #Firmware DH_IPC-HX5XXX-E3-single-Riemann_MultiLang_PN_Stream2_V3.142.0000000.11.R.260428 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84574/firmware/DH_IPC-HX5XXX-E3-single-Riemann_MultiLang_PN_Stream2_V3.142.0000000.11.R.260428.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/perimeter-protection-camera/ipc-mfw5241t2-e3-ase-atc=v1"
+  }
+}

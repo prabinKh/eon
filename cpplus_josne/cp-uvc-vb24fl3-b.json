@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "2.4 MP",
+    "category_url": "https://cpplusworld.com/products/2.4-mp",
+    "subcategory": "Analog HD Camera",
+    "subcategory_url": "https://cpplusworld.com/products/analog-hd-camera/2-4-mp",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Analog HD Camera",
+    "tab_id": "71",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Analog HD Camera",
+      "2.4 MP",
+      "CP-UVC-VB24FL3-B"
+    ]
+  },
+  "card_info": {
+    "product_id": "1973",
+    "product_name": "CP-UVC-VB24FL3-B",
+    "product_title": "CP-UVC-VB24FL3-B",
+    "product_url": "https://cpplusworld.com/cp-uvc-vb24fl3-b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/25805078-b431-412e-aef7-93688a7675cb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-uvc-vb24fl3-b.html",
+  "detail": {
+    "title": "CP-UVC-VB24FL3-B",
+    "model": "CP-UVC-VB24FL3-B",
+    "brand": "CP Plus",
+    "overview": "2.4MP Full HD HDCVI IR Vandal Dome Camera - 30Mtr.",
+    "features": [
+      "1/2.8” 2.4MP CMOS Image Sensor (0.9071 centimetres)",
+      "Max 30fps@2.4MP",
+      "HD and SD output switchable",
+      "WDR(120dB), Day/Night(ICR), 2D/3D-DNR, AWB, AGC, BLC, HLC",
+      "2.7-13.5mm Varifocal Lens",
+      "IR Range of 30 Mtrs., IP67, IK10",
+      "Support Starlight Technology"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/25805078-b431-412e-aef7-93688a7675cb.jpg",
+        "alt": "CP-UVC-VB24FL3-B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/23010f9a-61c1-48b1-b014-3aa3ad9cb438.jpg",
+        "alt": "CP-UVC-VB24FL3-B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 2.4MP CMOS Image Sensor (0.9071 centimetres)",
+        "Minimum Illumination": "0.005Lux/F1.3, 30IRE, 0Lux IR on",
+        "Shutter Speed": "PAL: 1/4s~1/100000s NTSC: 1/3s~1/100000s",
+        "White Balance": "Auto / Manual",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Lens": "2.7-13.5mm Varifocal Lens",
+        "Back Light Compensation": "BLC / HLC / WDR(120dB)",
+        "Angle of View": "H: 102°~29°",
+        "Video Streaming": "25/30fps@2.4MP, 25/30fps@720P",
+        "Video Output": "1-channel BNC high definition video output / CVBS video output (Can switch)",
+        "ICR": "Auto (ICR) / Manual",
+        "OSD Menu": "Multi-language",
+        "IR": "IR Range of 30 Mtr., Smart IR",
+        "Operating Temperature": "-40°C ~ +60°C (-40°F ~ +140°F)",
+        "Operating Humidity": "Less than 90% RH",
+        "Power Source": "12V DC ±25%",
+        "Power Consumption": "Max 5.4W (12V DC, IR on)",
+        "Weatherproof Standard": "IP67",
+        "Dimension": "122mm×88.9mm",
+        "Weight": "0.47kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVC-VB24FL3-B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvc-vb24fl3-b"
+  }
+}

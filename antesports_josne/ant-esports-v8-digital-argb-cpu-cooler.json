@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Air Coolers",
+    "subcategory_url": "https://antesports.com/collections/air-coolers",
+    "series": "Air Coolers Series",
+    "series_url": "https://antesports.com/collections/air-coolers",
+    "tab_title": "Air Coolers",
+    "tab_id": "508173025571",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Air Coolers",
+      "V8 Digital CPU Air Cooler with Temperature Display"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422073123",
+    "product_name": "V8 Digital CPU Air Cooler with Temperature Display",
+    "product_title": "V8 Digital CPU Air Cooler with Temperature Display",
+    "product_url": "https://antesports.com/products/ant-esports-v8-digital-argb-cpu-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_b8939199-893b-48d5-b72d-6f48fd07fb0c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-v8-digital-argb-cpu-cooler.html",
+  "detail": {
+    "title": "V8 Digital CPU Air Cooler with Temperature Display",
+    "model": "AESP0378",
+    "brand": "Ant Esports",
+    "overview": "Dual-Fan High-Performance Cooling – Equipped with two 120mm fans delivering up to 89.4 CFM airflow for exceptional heat dissipation.Intelligent Digital Display – Real-time CPU temperature display on the top for instant thermal monitoring.Six 6mm Heat Pipes – High-efficiency copper heat pipes with oil-injection fin treatment for superior cooling conductivity.ARGB & SRGB Lighting – 28-LED illumination with support for motherboard sync (5V 3-Pin + 4-Pin PWM).Wide CPU Socket Compatibility – Supports Intel LGA 1851 / 1700 / 1200 / 115X & AMD AM4 / AM5 platforms.Quiet Hydro Bearing Fans – Noise levels as low as 33.5 dBA, ensuring powerful cooling without distraction.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_b8939199-893b-48d5-b72d-6f48fd07fb0c.png",
+        "alt": "V8 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_389dace7-e949-4ebb-a679-103111889d63.png",
+        "alt": "V8 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_42e96fc6-7637-44ea-a5f1-b733f6fe15a6.png",
+        "alt": "V8 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_d5907328-4759-4965-a222-3ec9ad91bb06.png",
+        "alt": "V8 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "AIR COOLER",
+        "AMD Socket Support": "AM5, AM4",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA1200, LGA115X",
+        "Cooler Type": "Tower",
+        "No. of Heatpipes": "6",
+        "No. of Cooling Towers": "2",
+        "Fan Size (mm)": "120",
+        "Fan Speed (RPM)": "2000",
+        "Fan Noise (dBA)": "33.5",
+        "FAN Airflow (CFM)": "89.4",
+        "FAN Static Pressure (mmH₂O)": "2.64",
+        "Cooler Height (mm)": "162.5",
+        "Rated TDP (w)": "250",
+        "Temp. Display": "Yes",
+        "PRODUCT TYPE": "AIR COOLER",
+        "AMD SOCKET SUPPORT": "AM5, AM4",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA1200, LGA115X",
+        "COOLER TYPE": "Tower",
+        "NO. OF HEATPIPES": "6",
+        "NO. OF COOLING TOWERS": "2",
+        "FAN SIZE (MM)": "120",
+        "FAN SPEED (RPM)": "2000",
+        "FAN NOISE (DBA)": "33.5",
+        "FAN AIRFLOW (CFM)": "89.4",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.64",
+        "COOLER HEIGHT (MM)": "162.5",
+        "RATED TDP (W)": "250",
+        "TEMP. DISPLAY": "Yes",
+        "Offer Price (INR)": "₹4,499.00",
+        "MRP (INR)": "₹5,899.00",
+        "SKU": "AESP0378"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-v8-digital-argb-cpu-cooler"
+  }
+}

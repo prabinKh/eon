@@ -1,0 +1,131 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "4-Wire Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series",
+    "series": "Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station",
+    "tab_title": "KIT",
+    "tab_id": "12962",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "4-Wire Series",
+      "Door Station",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "147049",
+    "product_name": "KTA02M",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/kit/analog-kit/kta02m=s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20241128/1_0_01_15_12544_5747144945_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/kta02m-s2.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTA02M",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTA02M Video Intercom KIT Key Points • 7-inch TFT Screen • Metal VTO • Video Intercom Function: Unlock, Voice Call, Video Call, Volume • System Capacity: 2 Door Stations + 3 Indoor Monitors • Multiple Bell Sounds • Supports Digital Wide Dynamic Range (DWDR) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241128/1_0_01_15_12544_5747144945_thumb.png",
+        "alt": "KTA02M_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12544/ProductImage/1_0_01_15_12544_574744946_crop_thumb.png",
+        "alt": "KTA02M_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "DHI-VTH1020J": {},
+      "System": {
+        "Button Type": "Mechanical"
+      },
+      "Basic": {
+        "Display": "7.0\" TFT",
+        "Resolution": "1024 × 600",
+        "Indicator Light": "1 indicator light; Green: Power on",
+        "Camera": "1/4\" 1.3 MP CMOS",
+        "Field of View": "Horizontal: 70° Vertical: 40°",
+        "WDR": "DWDR",
+        "Illuminator Type": "Auto IR",
+        "Day/Night": "ICR auto switch",
+        "Audio Input": "1 channel to the microphone; pickup distance 0.5 m",
+        "Audio Output": "1 channel to the speaker"
+      },
+      "Function": {
+        "Communication Method": "Analog",
+        "Unlock Mode": "Remote unlock"
+      },
+      "Performance": {
+        "Casing": "ADC12"
+      },
+      "General": {
+        "Color": "Black",
+        "Power Supply": "Powered by indoor monitor",
+        "Power Adapter": "Included",
+        "Installation": "Surface mount",
+        "Certifications": "CE/FCC",
+        "Accessory": "Bracket (included) 5 m (16.40 ft) cable (included)",
+        "Dimensions": "133.90 mm × 182.70 mm × 17.70 mm (5.27\" × 7.19\" × 0.70\")",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "10%RH–95%RH",
+        "Power Consumption": "≤ 2W (standby) ≤ 5W (working)",
+        "Net Weight": "0.25 kg (0.55 lb)",
+        "Gross Weight": "0.48 kg (1.05 lb)"
+      },
+      "DHI-VTO1000JM": {
+        "Accessory": "Rain cover (included) 5 m cable (included in kit)",
+        "Dimensions": "131.45 mm × 46.00 mm × 33.80 mm (5.18\" × 1.81\" × 1.33\")",
+        "Protection Grade": "IK07;IP66 (Apply silicon sealant to gaps between the device and the wall. Liquid sodium silicate is recommended. For details, see the quick start guide.)",
+        "Operating Temperature": "-30°C to +60°C (-22°F to +140°F)",
+        "Operating Humidity": "10%RH–95%RH",
+        "Power Consumption": "≤ 1W (standby) ≤ 3W (working)",
+        "Net Weight": "0.18 kg (0.40 lb)",
+        "Gross Weight": "0.40 kg (0.84 lb)"
+      },
+      "Port": {
+        "Unlock Button": "1",
+        "Door Status Detection": "1"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/KTA02M_S2_datasheet_20240926.pdf"
+      },
+      {
+        "name": "2026-01-16 #User Manual Analog 4-Wire Intercom_User Manual_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6997/user_manual/Analog_4-Wire_Intercom_User_Manual_V2.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/kit/analog-kit/kta02m=s2"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Smoke Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/smoke-alarms",
+    "tab_title": "Smoke Alarms",
+    "tab_id": "14227",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Smoke Alarms",
+      "Smoke Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "115587",
+    "product_name": "HY-SA30A-R8",
+    "product_title": "Wireless Interconnected Smoke Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa30a-r8",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_6_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-sa30a-r8.html",
+  "detail": {
+    "title": "Wireless Interconnected Smoke Alarm",
+    "model": "HY-SA30A-R8",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA30A-R8 Wireless Interconnected Smoke Alarm Key Points · Split-spectrum sensor technology · Test and silence features in one single button, silenced by a working infrared remote controller · Loud sound output over 85 dB(A) at 3 meters · Low quiescent current consumption · Surface-mount device (SMD) circuit board design · Low battery warning signal · Sealed lithium battery, easy installation · Wireless interconnected with maximum of 24 devices Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_6_thumb.png",
+        "alt": "HY-SA30A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_5_thumb.png",
+        "alt": "HY-SA30A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_4_thumb.png",
+        "alt": "HY-SA30A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_3_thumb.png",
+        "alt": "HY-SA30A-R8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221031/HY-SA30A-R8_2_thumb.png",
+        "alt": "HY-SA30A-R8",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "9 s",
+        "Working Principle": "Photoelectric"
+      },
+      "Alarm": {
+        "Alarm Type": "Smoke alarm, fault alarm, low battery warning",
+        "Alarm Volume": "85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Silence Duration": "12 min",
+        "Infrared Silence": "Yes",
+        "Pre-Set Alarm Value": "0.2dB/m-0.3dB/m"
+      },
+      "Basic Parameters": {
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes once per minute Low battery warning: Red indicator flashes once per minute",
+        "Operating Frequency": "868 MHz",
+        "Maximum Number of Interconnected Units": "24pcs",
+        "Coverage Area": "When the height of the space is less than 8 m (3.28 ft), the protection area of a device is 20 m2–40 m2"
+      },
+      "Power Supply": {
+        "Battery Life": "10 years",
+        "Power Source": "3V CR123A lithium battery (non-replaceable)",
+        "Operating Current": "Monitoring current: ≤ 15uA (avg.) Alarm current: ≤ 25mA (avg.)"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤ 95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "φ98 mm × H43.1 mm (φ3.85\" × H1.70\")",
+        "Weight": "138 g (0.30 lb)",
+        "Installation": "Ceiling Mount"
+      },
+      "Certification": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 14604:2005+AC:2008"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/115587/datasheet/HY-SA30A-R8_datasheet_20220815.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Wireless Interconnected Smoke Alarm (DHI-HY-SA30A-R8)_User's Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/user_manual/Wireless_Interconnected_Smoke_Alarm_(DHI-HY-SA30A-R8)_User_s_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2023-11-22 #Drawings HY-SA30A-R8_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1508072514427.pdf"
+      },
+      {
+        "name": "2023-11-22 #Drawings HY-SA30A-R8_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1508011030351.pdf"
+      },
+      {
+        "name": "2025-10-11 #Firmware DHI_HYSA30A-R8-B_Eng_MCU_V1.000.0000006.0.R.250813 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3359444/M/DHI_HYSA30A-R8-B_Eng_MCU_V1.000.0000006.0.R.250813.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa30a-r8"
+  }
+}

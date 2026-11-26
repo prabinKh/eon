@@ -1,0 +1,115 @@
+{
+  "hierarchy": {
+    "category": "Analog",
+    "category_url": "https://cpplusworld.com/products/analog",
+    "subcategory": "illumax",
+    "subcategory_url": "https://cpplusworld.com/products/illumax/analog",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "illumax",
+    "tab_id": "170",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "illumax",
+      "Analog",
+      "CP-URC-DC51PL3C-L-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "1929",
+    "product_name": "CP-URC-DC51PL3C-L-V2",
+    "product_title": "CP-URC-DC51PL3C-L-V2",
+    "product_url": "https://cpplusworld.com/cp-urc-dc51pl3c-l-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/48390a03-9510-48a4-b159-11202232adfc.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-urc-dc51pl3c-l-v2.html",
+  "detail": {
+    "title": "CP-URC-DC51PL3C-L-V2",
+    "model": "CP-URC-DC51PL3C-L-V2",
+    "brand": "CP Plus",
+    "overview": "5MP Dual Light Dome Camera - 30Mtr.",
+    "features": [
+      "5 MP PS CMOS Image Sensor",
+      "Max 25 fps@5MP",
+      "DWDR, Day/Night (ICR), 2D DNR, BLC, HLC",
+      "3.6mm fixed lens (2.8mm optional)",
+      "Support Built-in Mic",
+      "IR Range of 30 Mtrs., Warm Light Range of 20 Mtrs.",
+      "4 Signals over 1 Coaxial Cable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/48390a03-9510-48a4-b159-11202232adfc.jpg",
+        "alt": "CP-URC-DC51PL3C-L-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/624a030e-a36c-4f55-aa52-a1387dbe674e.jpg",
+        "alt": "CP-URC-DC51PL3C-L-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "5MP PS CMOS Image Sensor",
+        "Minimum Illumination": "0.02 lux F2.0 (Color, 30 IRE), 0.002 lux F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Shutter Speed": "1/25 s–1/100000 s/ NTSC: 1/30 s–1/100000 s",
+        "White Balance": "Auto, Area white balance",
+        "Lens": "3.6mm (2.8mm optional)",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F2.0",
+        "DORI Distance": "3.6 mm: Detect: 76.0 Mtr., Observe: 30.4 Mtr., Recognize: 15.2 Mtr., Identify : 7.6 Mtr.  2.8 mm: Detect:66.0 mtr., Observe: 26.4 Mtr., Recognize: 13.2 Mtr., Identify: 13.2 Mtr.",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "3.6 mm: 1.3 m, 2.8 mm:1.0 m",
+        "Gain Control (AGC)": "Auto",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360°",
+        "S/N Ratio": "> 55dB",
+        "Angle of view": "3.6 mm: H: 92°, V: 48°, D: 10° 2.8 mm: H: 106°, V: 56°, D: 125°",
+        "Back Light Compensation": "BLC/HLC/DWDR",
+        "Video Streaming": "CVI: PAL: 5M@25 fps, 4M@25 fps, 2M@25 fps, NTSC: 5M@25 fps, 4M@30 fps, 2M@30 fps  AHD: PAL: 4M@25 fps, NTSC: 4M@30 fps, TVI: PAL: 4M@25 fps, NTSC: 4M@30 fps, CVBS:  PAL: 960H, NTSC: 960H",
+        "Resolution": "4M (2560 × 1440), 2M (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Noise Reduction": "2D DNR",
+        "Privacy Mask": "Off/On (4 areas, rectangle)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Mirror Function": "Support",
+        "IR": "IR Range of 30 Mtr.",
+        "IR Control": "Auto/Manual",
+        "Dual LED Number": "Dual LED Number",
+        "Iris Control": "Fixed",
+        "Anti-corrosion Level": "Basic Protection",
+        "Operating Temperature": "–40 °C to +55 °C (–40 °F to +131 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +55 °C (–40 °F to +131 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Power Source": "12 VDC ± 30%",
+        "Power Consumption": "Max 2.6W (12V DC, WLED on)",
+        "Casing": "Metal",
+        "Dimension": "85mm × 771mm",
+        "Weight": "0.11 kg."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-DC51PL3C-L-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-dc51pl3c-l-v2"
+  }
+}

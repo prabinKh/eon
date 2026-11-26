@@ -1,0 +1,220 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 7 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/ir-series",
+    "tab_title": "Anti-Corrosion",
+    "tab_id": "118222",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 7 Series",
+      "Anti-Corrosion"
+    ]
+  },
+  "card_info": {
+    "product_id": "154659",
+    "product_name": "IPC-HDBW7859Z-Z-PV-X-ATC",
+    "product_title": "8MP Anti-Corrosion PTRZ Dome WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/anti-corrosion/ipc-hdbw7859z-z-pv-x-atc",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/image/1_0_01_04_48196_911403118_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdbw7859z-z-pv-x-atc.html",
+  "detail": {
+    "title": "8MP Anti-Corrosion PTRZ Dome WizMind Network Camera",
+    "model": "IPC-HDBW7859Z-Z-PV-X-ATC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDBW7859Z-Z-PV-X-ATC 8MP Anti-Corrosion PTRZ Dome WizMind Network Camera Key Points • 8 MP@60fps and 2MP@120fps Enhances Image Smoothness and Detail • PTRZ Tech Delivers Enhanced Efficiency and Easy Operation • 5 Streams for Diverse Application Needs • 140dB WDR Ensures Clear Details in Strong Backlight Conditions • Enhancing Image Quality with AI-ISP Technology • Supports Over 10 AI Functions, Applicable for Multi-scenario Targets Detection and Analysis. • Privacy Protection Supports Auto-masks Faces/Bodies/Vehicles with Mosaic for Privacy • G-sensor Supports Image Stabilization and Tampering Detection • Built-in Dual Mic & Speaker: Secure Real-Time Talk • Xinghan Vision Models: Comprehensive Enhancement of Target Detection, Imaging • Anti-Corrosion Design for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/image/1_0_01_04_48196_911403118_crop_thumb.PNG",
+        "alt": "IPC-HDBW7859Z-Z-PV-X-ATC_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/image/1_0_01_04_48196_911403449_crop_thumb.PNG",
+        "alt": "IPC-HDBW7859Z-Z-PV-X-ATC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/image/1_0_01_04_48196_911403451_crop_thumb.PNG",
+        "alt": "IPC-HDBW7859Z-Z-PV-X-ATC_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/image/1_0_01_04_48196_911403120_crop_thumb.PNG",
+        "alt": "IPC-HDBW7859Z-Z-PV-X-ATC_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/image/1_0_01_04_48196_911403122_crop_thumb.PNG",
+        "alt": "IPC-HDBW7859Z-Z-PV-X-ATC_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Iris Control Type": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "96.4 m( 316.27 ft)",
+        "T": "186.6 m( 612.20 ft)"
+      },
+      "IVS": {},
+      "Intelligence Notes": {},
+      "IVS (Perimeter Protection)": {},
+      "AcuPick": {},
+      "Face Detection": {},
+      "Face Recognition": {},
+      "PPE Detection": {},
+      "People Counting": {},
+      "Heat Map": {},
+      "ANPR": {},
+      "Parking Space Management": {},
+      "Video Metadata": {},
+      "Privacy Protection": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "LDC": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Heater (Window Heating)": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Analog Output": {},
+      "Power Output": {},
+      "Power Supply": {},
+      "Dual Power Backup": {},
+      "Power Consumption": {},
+      "ePoE": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/datasheet/DH-IPC-HDBW7859Z-Z-PV-X-ATC_S0_datasheet_20260414.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dome Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88010/user_manual/Dome_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Dome Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88010/user_manual/Dahua_Dome_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-02-02 #A&E Document IPC-HDBW7859Z-Z-PV-X-ATC_A&E_20260920153703 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86566/a_e_document/1789890047664.docx"
+      },
+      {
+        "name": "2026-02-11 #Drawings IPC-HDBW7859Z-Z-PV-X-ATC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88010/drawings/1_0_01_04_49915_913745230.pdf"
+      },
+      {
+        "name": "2026-02-11 #Drawings IPC-HDBW7859Z-Z-PV-X-ATC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88010/drawings/1_0_01_04_49915_913301364.pdf"
+      },
+      {
+        "name": "2026-06-27 #Firmware DH_IPC-HX7XXX-HW-PV-Faraday_MultiLang_PN_V3.146.0000000.57.R.260516 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85584/firmware/DH_IPC-HX7XXX-HW-PV-Faraday_MultiLang_PN_V3.146.0000000.57.R.260516.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/anti-corrosion/ipc-hdbw7859z-z-pv-x-atc"
+  }
+}

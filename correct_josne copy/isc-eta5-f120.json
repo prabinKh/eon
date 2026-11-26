@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "AM Tags",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/am-tags",
+    "tab_title": "AM Tags",
+    "tab_id": "13907",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "AM Tags",
+      "AM Tags"
+    ]
+  },
+  "card_info": {
+    "product_id": "111287",
+    "product_name": "ISC-ETA5-F120",
+    "product_title": "AM Safer F120",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/am-tags/isc-eta5-f120",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220721/DHI-ISC-ETA5-F120_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-eta5-f120.html",
+  "detail": {
+    "title": "AM Safer F120",
+    "model": "ISC-ETA5-F120",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-ETA5-F120 AM Safer F120 Key Points > Environmentally friendly and economical, can be reused after unlocking. > High detection rate, excellent anti-theft effect. > Transparent design, high detection performance. > Powerful locking mechanism, effectively preventing man-made damage. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220721/DHI-ISC-ETA5-F120_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Performance": {
+        "Technology": "Acousto-Magnetic (AM)",
+        "Detection Frequency": "58 kHz ± 0.5 kHz",
+        "Antenna Detection Distance": "≤ 1.0 m (Based on system performance)",
+        "Shell Material": "Polycarbonate (PC)",
+        "Lock Strength": "Standard",
+        "Certifications": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "General": {
+        "Color": "Black and Transparent",
+        "Inner Length": "120 mm (4.72\") ± 0.5 mm (0.02\")",
+        "Inner Width": "110 mm (4.33\") ± 0.5mm (0.02\")",
+        "Inner Height": "28 mm (1.10\") ± 0.5 mm (0.02\")",
+        "Packaging": "100 pcs per carton",
+        "Carton Dimension": "530 mm × 300 mm × 435 mm (20.87\" × 11.81\" × 17.13\")",
+        "Carton Weight": "14 kg (30.86 lb)",
+        "Minimum Order Quantity": "1 carton"
+      },
+      "Environmental Constraints": {
+        "Temperature": "0 °C to 50 °C (32 °F to 122 °F)",
+        "Humidity": "10 %–90 % (RH)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-ETA5-F120_datasheet_20220712.pdf"
+      },
+      {
+        "name": "2025-12-27 #User Manual Supermarket anti-theft product_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85215/user_manual/Supermarket_anti-theft_product_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/am-tags/isc-eta5-f120"
+  }
+}

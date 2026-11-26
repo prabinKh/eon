@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP400 Wireless Gamepad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315419353379",
+    "product_name": "GP400 Wireless Gamepad - Black",
+    "product_title": "GP400 Wireless Gamepad - Black",
+    "product_url": "https://antesports.com/products/ant-esports-gp400-wireless-gamepad-black-eta-sd-20240201555",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_2ea59a46-bbcd-4a99-a042-c0ae31d1a73a.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-gp400-wireless-gamepad-black-eta-sd-20240201555.html",
+  "detail": {
+    "title": "GP400 Wireless Gamepad - Black",
+    "model": "AEPP0176",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP400 Wireless Gamepad - Black is a premium gaming gamepad designed to deliver excellent performance for gaming, entertainment, and everyday play. Featuring Tri-Mode (2.4G, BT, Wired) connectivity, Hall-Effect (Magnetic) joysticks, and Dual Vibration feedback, it ensures reliability, durability, and compatibility with modern platforms. Whether you are upgrading your controller or building a new gaming setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and console or PC enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_2ea59a46-bbcd-4a99-a042-c0ae31d1a73a.png",
+        "alt": "GP400 Wireless Gamepad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_f70285fb-2728-4fca-a122-8ddc639e3693.png",
+        "alt": "GP400 Wireless Gamepad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_185cc456-396f-41f7-a2af-227db2388061.png",
+        "alt": "GP400 Wireless Gamepad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Layout": "Asymmetrical (XBOX)",
+        "Joystick Type": "Hall-Effect (Magnetic)",
+        "Connectivity": "Tri-Mode (2.4G, BT, Wired)",
+        "Vibrations": "Yes, Dual Vibration",
+        "Triggers": "Hall-Effect (Magnetic)",
+        "Lighting Type": "Multi-Colour",
+        "Connector Type": "USB-A",
+        "Software Support": "No",
+        "Compatibility": "Windows, Ps3, Ps4, Android, iOS, Nintendo Switch",
+        "LAYOUT": "Asymmetrical (XBOX)",
+        "JOYSTICK TYPE": "Hall-Effect (Magnetic)",
+        "CONNECTIVITY": "Tri-Mode (2.4G, BT, Wired)",
+        "VIBRATIONS": "Yes, Dual Vibration",
+        "TRIGGERS": "Hall-Effect (Magnetic)",
+        "LIGHTING TYPE": "Multi-Colour",
+        "CONNECTOR TYPE": "USB-A",
+        "SOFTWARE SUPPORT": "No",
+        "COMPATIBILITY": "Windows, Ps3, Ps4, Android, iOS, Nintendo Switch",
+        "Offer Price (INR)": "₹2,999.00",
+        "SKU": "AEPP0176"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP400)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP400.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-gp400-wireless-gamepad-black-eta-sd-20240201555"
+  }
+}

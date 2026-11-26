@@ -1,0 +1,193 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind Panoramic Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series",
+    "tab_title": "Fisheye Series",
+    "tab_id": "8732",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind Panoramic Series",
+      "Fisheye Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "155752",
+    "product_name": "IPC-EBW5641-AS",
+    "product_title": "6MP IR Fisheye WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series/fisheye-series/ipc-ebw5641-as",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/image/1_0_01_04_49515_778070472_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-ebw5641-as.html",
+  "detail": {
+    "title": "6MP IR Fisheye WizMind Network Camera",
+    "model": "IPC-EBW5641-AS",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite IPC-EBW5641-AS 6MP IR Fisheye WizMind Network Camera Key Points • Panoramic Fisheye View, Outputs Max. 6 MP@30 fps • Supports Front-dewarp and Back-dewarp for Intuitive Viewing • Built-in IR LED, the Max. Illumination Distance is 15 m • Built-in Dual Mic & Speaker: Secure Real-Time Talk • 120dB WDR Ensures Clear Details in Strong Backlight Conditions • IP67 and IK10 Ratings for Protection Against Harsh Environments • People Counting and Heat Map for Customer Traffic Analytics • 30%-50% Storage Saving with Super AI Coding(-QH model) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/image/1_0_01_04_49515_778070472_crop_thumb.PNG",
+        "alt": "IPC-EBW5641-AS_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/image/1_0_01_04_49515_778070475_crop_thumb.PNG",
+        "alt": "IPC-EBW5641-AS_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/image/1_0_01_04_49515_778070478_crop_thumb.PNG",
+        "alt": "IPC-EBW5641-AS_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/image/1_0_01_04_49515_778070513_crop_thumb.PNG",
+        "alt": "IPC-EBW5641-AS_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "1.68 mm": "33.6 m( 110.24 ft)"
+      },
+      "EPTZ": {},
+      "IVS (Perimeter Protection)": {},
+      "People Counting": {},
+      "Heat Map": {},
+      "Installation": {},
+      "Decoding Mode": {},
+      "Display mode": {},
+      "Video Compression": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Security": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Dual Power Backup": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/datasheet/DH-IPC-EBW5641-AS_datasheet_20260708_English.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Fisheye Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/user_manual/Dahua_Fisheye_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Fisheye Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/user_manual/Fisheye_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-06-15 #A&E Document IPC-EBW5641-AS_A&E_20260918070558 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/a_e_document/1789686653968.docx"
+      },
+      {
+        "name": "2026-05-14 #Drawings IPC-EBW5641-AS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/drawings/1_0_01_04_49515_581742942.pdf"
+      },
+      {
+        "name": "2026-05-14 #Drawings IPC-EBW5641-AS_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/drawings/1_0_01_04_49515_581742399.pdf"
+      },
+      {
+        "name": "2026-08-31 #Firmware DH_IPC-EX5XXX-Si-Goethe_MultiLang_PN_Stream3_V3.140.0000000.35.R.260814 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88259/firmware/DH_IPC-EX5XXX-Si-Goethe_MultiLang_PN_Stream3_V3.140.0000000.35.R.260814.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series/fisheye-series/ipc-ebw5641-as"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "PoC Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series",
+    "tab_title": "5MP",
+    "tab_id": "7177",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "PoC Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "143781",
+    "product_name": "HAC-HDW1509T-IL-A-POC",
+    "product_title": "5MP Smart Dual Light HDCVI Fixed-focal Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/5mp/lite/hac-hdw1509t-il-a-poc=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240328/HAC-HDW1509T-IL-A-POC_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw1509t-il-a-poc-s2.html",
+  "detail": {
+    "title": "5MP Smart Dual Light HDCVI Fixed-focal Eyeball Camera",
+    "model": "HAC-HDW1509T-IL-A-POC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW1509T-IL-A-POC 5MP Smart Dual Light HDCVI Fixed-focal Eyeball Camera Key Points 1、POC 2、Smart Dual Light Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240328/HAC-HDW1509T-IL-A-POC_1_thumb.png",
+        "alt": "HAC-HDW1509T-IL-A-POC",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240328/HAC-HDW1509T-IL-A-POC_2_thumb.png",
+        "alt": "HAC-HDW1509T-IL-A-POC",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25753/ProductImage/1_0_01_12_25753_1777837817_crop_thumb.png",
+        "alt": "HAC-HDW1509T-IL-A-POC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25753/ProductImage/1_0_01_12_25753_1777837819_crop_thumb.png",
+        "alt": "HAC-HDW1509T-IL-A-POC_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "5 MP CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/3 s–1/100,000 s; NTSC: 1/4 s–1/100,000 s",
+        "Min. Illumination": "0.001 lux@F1.0 (Color, 30 IRE); 0.0001 lux@F1.0 (B/W, 30 IRE); 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "IR: 40 m (131.23 ft); Warm Light: 40 m (131.23 ft)",
+        "Illuminator On/Off Control": "Auto;Manual",
+        "Illuminator Number": "2 (Warm light);2 (IR light)",
+        "Angle Adjustment": "Pan: 0°–360°; Tilt: 0°–78°; Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F1.2",
+        "Field of View": "2.8 mm: H: 111°; V: 58.5°; D: 136.3° 3.6 mm: H: 91.1°; V: 48.7°; D: 107.9°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 1.4 m (4.59 ft) 3.6 mm: 2.0 m (6.56 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "64.0 m ( 209.97 ft)",
+        "3.6 mm": "78.0 m ( 255.91 ft)"
+      },
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 5M@25 fps; 4M@25 fps NTSC: 5M@25 fps; 4M@30 fps AHD: PAL: 4M@25 fps NTSC: 4M@30 fps TVI: PAL: 4M@25 fps NTSC: 4M@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "5M (2880 × 1620); 4M (2560 × 1440); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "BLC; HLC; WDR; HLC-Pro",
+        "WDR": "120 dB",
+        "White Balance": "Auto;Area white balance",
+        "Gain Control": "Manual;Auto",
+        "Noise Reduction": "3D NR",
+        "Illumination Mode": "Smart IR&WL WL Mode; IR Mode",
+        "Defog": "Electronic defog",
+        "Digital Zoom": "4×",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN 62368-1; CE-EMC: EN 55032; EN 55035;"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel built-in Mic"
+      },
+      "Power": {
+        "Power Supply": "PoC (only CVI)/12 VDC ± 30%",
+        "Power Consumption": "Max 5.1W (12 VDC, WLED on) PoC (AF)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Protection": "IP67",
+        "Anti-corrosion Level": "Basic Protection"
+      },
+      "Structure": {
+        "Casing Material": "Metal",
+        "Product Dimensions": "Φ106.0 mm × 93.6 mm (Φ4.17\" × 3.69\")",
+        "Net Weight": "0.49 kg (1.08 lb)",
+        "Gross Weight": "0.66 kg (1.46 lb)",
+        "Installation": "Wall mount; ceiling mount; vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HDW1509T-IL-A-POC_S2_datasheet_20240620.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85548/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2023-11-29 #Drawings HAC-HDW1509T-IL-A-POC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28247/drawings/HAC-HDW2509T-A-LED_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-29 #Drawings HAC-HDW1509T-IL-A-POC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28247/drawings/HAC-HDW2509T-A-LED_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/5mp/lite/hac-hdw1509t-il-a-poc=s2"
+  }
+}

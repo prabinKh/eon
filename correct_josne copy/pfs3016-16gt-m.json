@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Access Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/access-switches",
+    "series": "Metal",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/access-switches/metal",
+    "tab_title": "Metal",
+    "tab_id": "8607",
+    "breadcrumbs": [
+      "Transmission",
+      "Access Switches",
+      "Metal",
+      "Metal"
+    ]
+  },
+  "card_info": {
+    "product_id": "102727",
+    "product_name": "PFS3016-16GT-M",
+    "product_title": "16-Port Unmanaged Gigabit Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/pfs3016-16gt-m",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220120/pfs3_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs3016-16gt-m.html",
+  "detail": {
+    "title": "16-Port Unmanaged Gigabit Switch",
+    "model": "PFS3016-16GT-M",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220120/pfs3_thumb.png",
+        "alt": "PFS3016-16GT-M",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/pfs3016-16gt-m"
+  }
+}

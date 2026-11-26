@@ -1,0 +1,77 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 15 Wireless Mouse 2.4GHz - Black/Silver"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341843566883",
+    "product_name": "Globe 15 Wireless Mouse 2.4GHz - Black/Silver",
+    "product_title": "Globe 15 Wireless Mouse 2.4GHz - Black/Silver",
+    "product_url": "https://antesports.com/products/globe-15-wireless-mouse-black-silver",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/23_f2f658f2-5593-4d71-8b4d-2d1a8fdd7aa3.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-15-wireless-mouse-black-silver.html",
+  "detail": {
+    "title": "Globe 15 Wireless Mouse 2.4GHz - Black/Silver",
+    "model": "ANTR0126",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 15 is a lightweight 2.4GHz wireless mouse designed for everyday productivity, weighing under 49g for a genuinely fatigue-free grip. Its 1200 DPI optical sensor tracks smoothly across wood, cloth and laminate surfaces alike, giving pixel-precise cursor movement for spreadsheets, browsing or presentations. A stable 10-metre wireless range keeps the connection lag-free even with the receiver placed across a desk, and true plug-and-play USB setup means it works instantly with no drivers on Windows, Mac or Linux. Its compact, travel-friendly build makes it an easy everyday carry for laptop bags.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/23_f2f658f2-5593-4d71-8b4d-2d1a8fdd7aa3.jpg",
+        "alt": "Globe 15 Wireless Mouse 2.4GHz - Black/Silver - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless",
+        "DPI": "1200 Optical",
+        "Range": "Up to 10m",
+        "Weight": "~48.6g",
+        "Power": "Battery Powered",
+        "Compatibility": "Laptop, PC, Mac, Windows",
+        "Color": "Black/Silver",
+        "CONNECTIVITY": "2.4GHz Wireless",
+        "RANGE": "Up to 10m",
+        "WEIGHT": "~48.6g",
+        "POWER": "Battery Powered",
+        "COMPATIBILITY": "Laptop, PC, Mac, Windows",
+        "COLOR": "Black/Silver",
+        "Offer Price (INR)": "₹269.00",
+        "MRP (INR)": "₹899.00",
+        "SKU": "ANTR0126"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-15-wireless-mouse-black-silver"
+  }
+}

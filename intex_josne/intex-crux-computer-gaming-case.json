@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://www.intex.in/collections/gaming-cabinet-series",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "9008884252890",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Cabinet",
+      "Intex Crux Computer Gaming Case"
+    ]
+  },
+  "card_info": {
+    "product_id": "9008884252890",
+    "product_name": "Intex Crux Computer Gaming Case",
+    "product_title": "Intex Crux Computer Gaming Case",
+    "product_url": "https://www.intex.in/products/intex-crux-computer-gaming-case",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_5199ecc7-f8fa-4269-b734-c6e762edf752.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 5499.0,
+      "display": "₹5,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-crux-computer-gaming-case.html",
+  "detail": {
+    "title": "Intex Crux Computer Gaming Case",
+    "model": "Crux Computer Gaming Case",
+    "brand": "Intex",
+    "overview": "The Intex Crux Computer Gaming Case is engineered for performance and style, making it the ideal choice for gaming enthusiasts. With support for Micro-ATX and ITX motherboards, tempered glass side and front panels, and high-density dust-proof mesh, it ensures durability and superior airflow. It supports a CPU radiator up to 166mm, graphics cards up to 260mm, and offers space for 1 × 3.5” HDD and 2 × 2.5” SSDs. Multiple fan mounts provide excellent cooling, keeping your system optimized for gaming.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_5199ecc7-f8fa-4269-b734-c6e762edf752.jpg",
+        "alt": "Intex Crux Computer Gaming Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_99577027-03a3-4dd3-8b00-36187e9af08a.jpg",
+        "alt": "Intex Crux Computer Gaming Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_a4179f17-2bf7-43b2-9da1-38088ef0f327.jpg",
+        "alt": "Intex Crux Computer Gaming Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_4777fbac-6d4f-4cf8-976b-1c00ab616aa4.jpg",
+        "alt": "Intex Crux Computer Gaming Case",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_4a4efa5a-b137-46a0-ab02-1332008c5760.jpg",
+        "alt": "Intex Crux Computer Gaming Case",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Model": "Crux Computer Gaming Case",
+        "Motherboard Support": "Micro-ATX / ITX",
+        "Panels": "Tempered Glass Left Side & Front Panel",
+        "I/O Panel": "1 × USB 2.0, 1 × USB 3.0",
+        "Power Supply": "PCU ATX PSU (Assembled on the Right Side of Split Body)",
+        "CPU Radiator": "Max. Length 166 mm",
+        "Graphics Card": "Max. Length 260 mm",
+        "HDD/SSD Support": "1 × 3.5” HDD, 2 × 2.5” SSD",
+        "Mesh": "Standard High-Density Dust-Proof Mesh",
+        "Fan Space": "Top, Back, Bottom (12 cm × 2)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/CRUX-PPT_5c040ae8-bd9b-4d9d-9c85-ccf7dbbc6a71.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-crux-computer-gaming-case"
+  }
+}

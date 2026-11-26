@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "152256",
+    "product_name": "ISC-EAA7-D108-P",
+    "product_title": "Mate Network EAS AM Concealed Antenna",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-eaa7-d108-p",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10449/ProductImage/1_0_01_46_10449_692123021_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-eaa7-d108-p.html",
+  "detail": {
+    "title": "Mate Network EAS AM Concealed Antenna",
+    "model": "ISC-EAA7-D108-P",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAA7-D108-P Mate Network EAS AM Concealed Antenna Key Points EAS AM Antenna is an AM tag detection equipment with superior performance and unmatched features. It can detect and recognize AM tags within its coverage. Its high performance contributes to reducing business loss and theft. The equipment has ultra-high detection distance and excellent anti-interference ability, which has proven its high cost performance in its multiple applications in different scenarios. This device has network communication function and can connect to a network platform to remotely view the device's operation status at any time. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10449/ProductImage/1_0_01_46_10449_692123021_crop_thumb.png",
+        "alt": "ISC-EAA7-D108-P_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10449/ProductImage/1_0_01_46_10449_692123022_crop_thumb.png",
+        "alt": "ISC-EAA7-D108-P_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10449/ProductImage/1_0_01_46_10449_692123023_crop_thumb.png",
+        "alt": "ISC-EAA7-D108-P_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAA7-D108-P",
+        "Technology": "Acousto-Magnetic Antenna",
+        "Detection Frequency": "58 kHz",
+        "Max. Detection Distance of Tags(High Signal Side)": "1.4 m (4.59 ft) (53 mm × 15 mm AM tags) (two antennas) depending on the site environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "Primary antenna",
+        "Sound & Light Alarm": "Primary antenna"
+      },
+      "Certifications": {
+        "Certifications": "CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "Ports": {
+        "Network Port": "RJ45",
+        "Network Protocol": "HTTP, TCP/IP",
+        "Open Protocol": "SDK",
+        "Supporting Software": "DSS Pro, Configtool, WISS"
+      },
+      "Regular": {
+        "Shell Material": "Metal",
+        "Shell Color": "White",
+        "Input Voltage": "220 VAC @ 50 Hz / 60 Hz",
+        "Maximum Power Consumption": "44 W",
+        "Typical Power Consumption": "55 W",
+        "Overall Exterior Dimensions": "390 mm × 207 mm × 62 mm (15.35\" × 8.15\" × 2.44\")",
+        "Packing Dimensions of Antenna": "565 mm × 280 mm × 130 mm (22.24\" × 11.02\" × 5.12\")",
+        "Net Weight": "4.5 kg (9.93 lb)",
+        "Total Weight": "5.2 kg (11.46 lb)",
+        "Operating Temperature": "0 °C – 45 °C ( 32 °F – 113 °F)",
+        "Operating Humidity": "5 % – 95 % (RH)",
+        "Installation": "Buried underground"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAA7F-D101_S0_datasheet_20250208.pdf"
+      },
+      {
+        "name": "2024-10-23 #User Manual 7-Series AM Network Concealed Antenna _User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010027/7-Series_AM_Network_Concealed_Antenna__User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-10-27 #Drawings ISC-EAA7-D108-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83072/drawings/ISC-EAA7F-D101_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-10-27 #Drawings ISC-EAA7-D108-P_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83073/drawings/ISC-EAA7-D108-P_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-04-07 #Firmware General_ISCEAA7D1xx_V1.000.0000000.0.R.241202 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3132570/M/General_ISCEAA7D1xx_V1.000.0000000.0.R.241202.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-eaa7-d108-p"
+  }
+}

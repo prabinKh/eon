@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "Display & Control",
+    "category_url": "https://www.dahuasecurity.com/products/display-&-control",
+    "subcategory": "Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/display-&-control/control",
+    "series": "Matrix",
+    "series_url": "https://www.dahuasecurity.com/products/display-&-control/control/matrix",
+    "tab_title": "Matrix",
+    "tab_id": "304",
+    "breadcrumbs": [
+      "Display & Control",
+      "Control",
+      "Matrix",
+      "Matrix"
+    ]
+  },
+  "card_info": {
+    "product_id": "155863",
+    "product_name": "M80-S12",
+    "product_title": "VIDEO MATRIX PLATFORM HOST",
+    "product_url": "https://www.dahuasecurity.com/products/display-&-control/control/matrix/m80-s12",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/image/1_0_01_01_17225_952302805_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "display-&-control/products/m80-s12.html",
+  "detail": {
+    "title": "VIDEO MATRIX PLATFORM HOST",
+    "model": "M80-S12",
+    "brand": "Dahua",
+    "overview": "New Favourite M80-S12 VIDEO MATRIX PLATFORM HOST Key Points VIDEO MATRIX PLATFORM HOST M80-S12 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/image/1_0_01_01_17225_952302805_crop_thumb.PNG",
+        "alt": "M80-S12_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/image/1_0_01_01_17225_952302806_crop_thumb.PNG",
+        "alt": "M80-S12_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/image/1_0_01_01_17225_952302807_crop_thumb.PNG",
+        "alt": "M80-S12_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Bus": {},
+      "Slot": {},
+      "Cabinet": {},
+      "Touch Screen": {},
+      "USB": {},
+      "Network Port": {},
+      "RS-232": {},
+      "RS-485": {},
+      "HDMI": {},
+      "Alarm Input Port": {},
+      "Alarm Output Port": {},
+      "Audio Input Port": {},
+      "Audio Output Port": {},
+      "Type-C Port": {},
+      "Video Input": {},
+      "Audio Input": {},
+      "Encoding Format": {},
+      "Encoding Capability": {},
+      "Audio Encoding Format": {},
+      "Video Output (LCD)": {},
+      "Video Output (LED)": {},
+      "Video Format": {},
+      "Decoding Capability": {},
+      "Decoding Resolution": {},
+      "Video Output Resolution": {},
+      "Multi-screen Display": {},
+      "Interoperability": {},
+      "Transmission Protocol": {},
+      "Max System Configuration": {},
+      "Network Signal Access": {},
+      "Screen Splicing": {},
+      "Spliced Screen Function": {},
+      "Video Wall": {},
+      "Subtitle": {},
+      "Scene": {},
+      "Scenario Tour": {},
+      "Background Capability": {},
+      "Output Setting": {},
+      "Smart Display": {},
+      "Fan Control": {},
+      "Equipment Management": {},
+      "SDK": {},
+      "Control Mode": {},
+      "Power Supply": {},
+      "Power Redundancy": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Gross Weight": {},
+      "Net Weight": {},
+      "Series": {},
+      "Type": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/datasheet/DHI-M80-S12_S0_datasheet_20260920_English.pdf"
+      },
+      {
+        "name": "2026-07-30 #User Manual Video Matrix Platform_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/user_manual/Video_Matrix_Platform_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-30 #User Manual Video Matrix Platform_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/user_manual/Video_Matrix_Platform_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-06-16 #A&E Document M80-S12_A&E_20260908101720 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/a_e_document/1788837644880.docx"
+      },
+      {
+        "name": "2026-06-25 #Drawings M80-S12_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/drawings/1_0_01_01_17225_962756931.pdf"
+      },
+      {
+        "name": "2026-06-25 #Drawings M80-S12_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/drawings/1_0_01_01_17225_962756935.pdf"
+      },
+      {
+        "name": "2026-07-04 #Firmware General_VideoNexus_M80-8U-5U_ALL_MCU_V4.007.0000001.0.R.260620 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88430/firmware/General_VideoNexus_M80-8U-5U_ALL_MCU_V4.007.0000001.0.R.260620.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/display-&-control/control/matrix/m80-s12"
+  }
+}

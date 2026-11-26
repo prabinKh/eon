@@ -1,0 +1,133 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "CRYSTAL Z2 Gaming Chassis White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315418206499",
+    "product_name": "CRYSTAL Z2 Gaming Chassis White",
+    "product_title": "CRYSTAL Z2 Gaming Chassis White",
+    "product_url": "https://antesports.com/products/ant-esports-chassis-crystal-z2-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_0bed9ab4-ed38-4195-8fa2-2f271965df2f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-chassis-crystal-z2-white.html",
+  "detail": {
+    "title": "CRYSTAL Z2 Gaming Chassis White",
+    "model": "AESP0302",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Chassis CRYSTAL Z2 White is a premium gaming cabinet designed to deliver excellent performance for gaming, content creation, and high-performance PC builds. Featuring support for M-ATX, M-ITX motherboards, 3(2x Side, 1x Rear) pre-installed fans, and support for graphics cards up to 330mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and PC builders.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_0bed9ab4-ed38-4195-8fa2-2f271965df2f.png",
+        "alt": "CRYSTAL Z2 Gaming Chassis White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_W_d1605e0d-d07c-4157-b342-4880ab195cf0.png",
+        "alt": "CRYSTAL Z2 Gaming Chassis White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_W_8d7028c5-30e3-42bc-8269-c36bbe644c44.png",
+        "alt": "CRYSTAL Z2 Gaming Chassis White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_W_f32d2ebd-8694-46dc-9c0d-367609245977.png",
+        "alt": "CRYSTAL Z2 Gaming Chassis White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "CRYSTAL",
+        "Product Type": "Cabinet",
+        "Length (mm)": "340",
+        "Width (mm)": "270",
+        "Height (mm)": "350",
+        "Volume (liters)": "32",
+        "Motherboard Support": "M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "2",
+        "SSD (2.5\") Bays": "2",
+        "Front FAN Support": "None",
+        "Top FAN Support": "2x120mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Side FAN Support": "2x120mm",
+        "Front AIO Support": "None",
+        "Top AIO Support": "240mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "120mm",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "3(2x Side, 1x Rear)",
+        "Max. VGA Card Length (mm)": "330",
+        "Max. CPU Cooler Height (mm)": "155",
+        "I/O Panel": "1xUSB 3.0, 2xUSB",
+        "Expansion Slots": "4",
+        "SERIES": "CRYSTAL",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "340",
+        "WIDTH (MM)": "270",
+        "HEIGHT (MM)": "350",
+        "VOLUME (LITERS)": "32",
+        "MOTHERBOARD SUPPORT": "M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "2",
+        "SSD (2.5\") BAYS": "2",
+        "FRONT FAN SUPPORT": "None",
+        "TOP FAN SUPPORT": "2x120mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "SIDE FAN SUPPORT": "2x120mm",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "240mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "120mm",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "3(2x Side, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "330",
+        "MAX. CPU COOLER HEIGHT (MM)": "155",
+        "I/O PANEL": "1xUSB 3.0, 2xUSB",
+        "EXPANSION SLOTS": "4",
+        "Offer Price (INR)": "₹3,299.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AESP0302"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (CRYSTAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-chassis-crystal-z2-white"
+  }
+}

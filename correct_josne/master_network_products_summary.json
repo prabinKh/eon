@@ -1,0 +1,727 @@
+{
+  "category": "Network Products",
+  "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+  "subcategories": [
+    {
+      "subcategory_name": "Network Cameras",
+      "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+      "series_count": 8,
+      "series": [
+        {
+          "series_name": "WizMind 7 Series",
+          "series_slug": "wizmind-7-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/ir-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260824/__1_.jpg",
+          "tabs": [
+            {
+              "tab_id": "118226",
+              "tab_title": "Smart Dual Light",
+              "products_count": 10
+            },
+            {
+              "tab_id": "18114",
+              "tab_title": "IR Series",
+              "products_count": 15
+            },
+            {
+              "tab_id": "14057",
+              "tab_title": "Dual-Sight",
+              "products_count": 10
+            },
+            {
+              "tab_id": "118222",
+              "tab_title": "Anti-Corrosion",
+              "products_count": 12
+            }
+          ],
+          "total_products": 47
+        },
+        {
+          "series_name": "WizMind 5 Series",
+          "series_slug": "wizmind-5-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260409/Frame_1321322692__2_.png",
+          "tabs": [
+            {
+              "tab_id": "18246",
+              "tab_title": "Pro",
+              "products_count": 41
+            },
+            {
+              "tab_id": "18242",
+              "tab_title": "Smart Dual Light",
+              "products_count": 73
+            },
+            {
+              "tab_id": "118221",
+              "tab_title": "Anti-Corrosion",
+              "products_count": 80
+            },
+            {
+              "tab_id": "7157",
+              "tab_title": "Full-color",
+              "products_count": 2
+            },
+            {
+              "tab_id": "18053",
+              "tab_title": "Perimeter Protection Camera",
+              "products_count": 2
+            },
+            {
+              "tab_id": "17995",
+              "tab_title": "HDMI Camera",
+              "products_count": 2
+            },
+            {
+              "tab_id": "17287",
+              "tab_title": "5G",
+              "products_count": 2
+            },
+            {
+              "tab_id": "18265",
+              "tab_title": "Elevator Camera",
+              "products_count": 1
+            }
+          ],
+          "total_products": 203
+        },
+        {
+          "series_name": "WizMind 4 Series",
+          "series_slug": "wizmind-4-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-4-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260917/Wizmind4.png",
+          "tabs": [
+            {
+              "tab_id": "118264",
+              "tab_title": "Smart Dual Lght",
+              "products_count": 12
+            },
+            {
+              "tab_id": "118265",
+              "tab_title": "WizColor",
+              "products_count": 6
+            },
+            {
+              "tab_id": "118266",
+              "tab_title": "IR",
+              "products_count": 25
+            }
+          ],
+          "total_products": 43
+        },
+        {
+          "series_name": "WizMind 8 Series",
+          "series_slug": "wizmind-8-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/8.png",
+          "tabs": [
+            {
+              "tab_id": "8772",
+              "tab_title": "Dual-Lens Series",
+              "products_count": 2
+            },
+            {
+              "tab_id": "8782",
+              "tab_title": "Corner Series",
+              "products_count": 1
+            },
+            {
+              "tab_id": "14657",
+              "tab_title": "Classroom Series",
+              "products_count": 2
+            },
+            {
+              "tab_id": "14847",
+              "tab_title": "High Temperature Tolerance Series",
+              "products_count": 2
+            },
+            {
+              "tab_id": "118225",
+              "tab_title": "Self-Cleaning Series",
+              "products_count": 1
+            }
+          ],
+          "total_products": 8
+        },
+        {
+          "series_name": "WizMind Panoramic Series",
+          "series_slug": "wizmind-panoramic-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260325/Frame_1321321333.png",
+          "tabs": [
+            {
+              "tab_id": "15127",
+              "tab_title": "Multi-Sensor 180° Series",
+              "products_count": 2
+            },
+            {
+              "tab_id": "15137",
+              "tab_title": "Multi-Directional Series",
+              "products_count": 2
+            },
+            {
+              "tab_id": "8732",
+              "tab_title": "Fisheye Series",
+              "products_count": 6
+            }
+          ],
+          "total_products": 10
+        },
+        {
+          "series_name": "Special Series",
+          "series_slug": "special-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/special-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/special.png",
+          "tabs": [],
+          "total_products": 0
+        },
+        {
+          "series_name": "WizSense 3 Series",
+          "series_slug": "wizsense-3-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20260302/WizSense_3_Series.png",
+          "tabs": [
+            {
+              "tab_id": "18166",
+              "tab_title": "TiOC PRO-WizColor",
+              "products_count": 15
+            },
+            {
+              "tab_id": "18059",
+              "tab_title": "Smart Dual Light",
+              "products_count": 44
+            },
+            {
+              "tab_id": "18063",
+              "tab_title": "TiOC",
+              "products_count": 4
+            },
+            {
+              "tab_id": "18065",
+              "tab_title": "IR",
+              "products_count": 2
+            },
+            {
+              "tab_id": "118224",
+              "tab_title": "Anti-Corrosion",
+              "products_count": 19
+            },
+            {
+              "tab_id": "118235",
+              "tab_title": "4G Camera",
+              "products_count": 4
+            }
+          ],
+          "total_products": 88
+        },
+        {
+          "series_name": "WizSense 2 Series",
+          "series_slug": "wizsense-2-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260319/Frame-1321322401.png",
+          "tabs": [
+            {
+              "tab_id": "18060",
+              "tab_title": "WizColor",
+              "products_count": 17
+            },
+            {
+              "tab_id": "14427",
+              "tab_title": "Smart Dual Light",
+              "products_count": 42
+            },
+            {
+              "tab_id": "18062",
+              "tab_title": "IR",
+              "products_count": 40
+            },
+            {
+              "tab_id": "18090",
+              "tab_title": "Others",
+              "products_count": 0
+            },
+            {
+              "tab_id": "118245",
+              "tab_title": "4G Camera",
+              "products_count": 2
+            }
+          ],
+          "total_products": 101
+        }
+      ],
+      "total_products": 500
+    },
+    {
+      "subcategory_name": "PTZ Cameras",
+      "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+      "series_count": 5,
+      "series": [
+        {
+          "series_name": "X-Spans Series",
+          "series_slug": "x-spans-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/x-spans-series",
+          "series_image": "https://material.dahuasecurity.com/uploads/image/20240322/x-spans.png",
+          "tabs": [
+            {
+              "tab_id": "8722",
+              "tab_title": "Hubble Series",
+              "products_count": 9
+            },
+            {
+              "tab_id": "18224",
+              "tab_title": "Distribution",
+              "products_count": 7
+            },
+            {
+              "tab_id": "18225",
+              "tab_title": "Project",
+              "products_count": 12
+            }
+          ],
+          "total_products": 28
+        },
+        {
+          "series_name": "WizMind Series",
+          "series_slug": "wizmind-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizmind-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20250915/9.png",
+          "tabs": [
+            {
+              "tab_id": "8952",
+              "tab_title": "SD8",
+              "products_count": 19
+            },
+            {
+              "tab_id": "118238",
+              "tab_title": "SD7",
+              "products_count": 4
+            },
+            {
+              "tab_id": "8962",
+              "tab_title": "SD6",
+              "products_count": 10
+            },
+            {
+              "tab_id": "18214",
+              "tab_title": "SD5",
+              "products_count": 1
+            }
+          ],
+          "total_products": 34
+        },
+        {
+          "series_name": "WizSense Series",
+          "series_slug": "wizsense-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizsense-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20250915/Wizsense.png",
+          "tabs": [
+            {
+              "tab_id": "8512",
+              "tab_title": "SD5",
+              "products_count": 17
+            },
+            {
+              "tab_id": "8522",
+              "tab_title": "SD4",
+              "products_count": 13
+            },
+            {
+              "tab_id": "18216",
+              "tab_title": "SD3",
+              "products_count": 2
+            },
+            {
+              "tab_id": "14337",
+              "tab_title": "SDZ",
+              "products_count": 1
+            }
+          ],
+          "total_products": 33
+        },
+        {
+          "series_name": "Wireless Series",
+          "series_slug": "wireless-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wireless-series",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/image/20240926/wireless380.png",
+          "tabs": [
+            {
+              "tab_id": "16537",
+              "tab_title": "5G camera",
+              "products_count": 2
+            },
+            {
+              "tab_id": "118202",
+              "tab_title": "4G camera",
+              "products_count": 7
+            }
+          ],
+          "total_products": 9
+        },
+        {
+          "series_name": "Special Series",
+          "series_slug": "special-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/special-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260324/positioning.png",
+          "tabs": [
+            {
+              "tab_id": "282",
+              "tab_title": "Positioning Systems",
+              "products_count": 13
+            },
+            {
+              "tab_id": "1281",
+              "tab_title": "Anti-Corrosion Cameras",
+              "products_count": 8
+            }
+          ],
+          "total_products": 21
+        }
+      ],
+      "total_products": 125
+    },
+    {
+      "subcategory_name": "PT Cameras",
+      "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+      "series_count": 4,
+      "series": [
+        {
+          "series_name": "View All",
+          "series_slug": "ip-pt-1-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-1-series",
+          "series_image": null,
+          "tabs": [
+            {
+              "tab_id": "18204",
+              "tab_title": "Single Lens",
+              "products_count": 4
+            },
+            {
+              "tab_id": "18205",
+              "tab_title": "MultiVision",
+              "products_count": 2
+            }
+          ],
+          "total_products": 6
+        },
+        {
+          "series_name": "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+          "series_slug": "ip-pt-2-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88188/image/1_0_01_04_49230_954934293_crop_thumb.PNG",
+          "tabs": [
+            {
+              "tab_id": "18206",
+              "tab_title": "Single Lens",
+              "products_count": 6
+            },
+            {
+              "tab_id": "18207",
+              "tab_title": "MultiVision",
+              "products_count": 2
+            }
+          ],
+          "total_products": 8
+        },
+        {
+          "series_name": "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+          "series_slug": "ip-pt-3-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series",
+          "series_image": "https://material.dahuasecurity.com/uploads/image/20221111/SD22204DB-GNY-W_1_thumb.png",
+          "tabs": [
+            {
+              "tab_id": "18208",
+              "tab_title": "SD3",
+              "products_count": 7
+            },
+            {
+              "tab_id": "18209",
+              "tab_title": "SD2",
+              "products_count": 8
+            },
+            {
+              "tab_id": "18210",
+              "tab_title": "SD1",
+              "products_count": 5
+            },
+            {
+              "tab_id": "18211",
+              "tab_title": "MultiVision",
+              "products_count": 1
+            }
+          ],
+          "total_products": 21
+        },
+        {
+          "series_name": "View All",
+          "series_slug": "hac-pt-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/hac-pt-series",
+          "series_image": null,
+          "tabs": [
+            {
+              "tab_id": "18212",
+              "tab_title": "Single Lens",
+              "products_count": 5
+            },
+            {
+              "tab_id": "18213",
+              "tab_title": "MultiVision",
+              "products_count": 2
+            }
+          ],
+          "total_products": 7
+        }
+      ],
+      "total_products": 42
+    },
+    {
+      "subcategory_name": "Network Recorders",
+      "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+      "series_count": 5,
+      "series": [
+        {
+          "series_name": "WizMind Series",
+          "series_slug": "wizmind-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizmind-series",
+          "series_image": "https://material.dahuasecurity.com/uploads/image/20230625/NVR608RH-128-XI_1_thumb.png",
+          "tabs": [],
+          "total_products": 0
+        },
+        {
+          "series_name": "WizSense Series",
+          "series_slug": "wizsense-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20250915/wizsense_1.png",
+          "tabs": [
+            {
+              "tab_id": "18220",
+              "tab_title": "NVR-5-EI2 Series",
+              "products_count": 23
+            },
+            {
+              "tab_id": "15297",
+              "tab_title": "NVR 5-EI Series",
+              "products_count": 21
+            },
+            {
+              "tab_id": "15457",
+              "tab_title": "NVR 4-EI Series",
+              "products_count": 30
+            },
+            {
+              "tab_id": "14167",
+              "tab_title": "NVR2-I2 Series",
+              "products_count": 16
+            }
+          ],
+          "total_products": 90
+        },
+        {
+          "series_name": "Lite Series",
+          "series_slug": "lite-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads/image/20250915/lite_1.png",
+          "tabs": [
+            {
+              "tab_id": "16747",
+              "tab_title": "NVR4 Series",
+              "products_count": 42
+            },
+            {
+              "tab_id": "14207",
+              "tab_title": "WIFI NVR Series",
+              "products_count": 2
+            },
+            {
+              "tab_id": "16977",
+              "tab_title": "NVR2 Series",
+              "products_count": 16
+            }
+          ],
+          "total_products": 60
+        },
+        {
+          "series_name": "Special Series",
+          "series_slug": "special-series",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/special-series",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/image/20250508/DHI-NVR4104-WT_View_45left-logo5.png",
+          "tabs": [
+            {
+              "tab_id": "18195",
+              "tab_title": "Special Series",
+              "products_count": 5
+            }
+          ],
+          "total_products": 5
+        },
+        {
+          "series_name": "WIFI KIT",
+          "series_slug": "wifi-kit",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wifi-kit",
+          "series_image": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260512/WIFI-KIT1.png",
+          "tabs": [
+            {
+              "tab_id": "18262",
+              "tab_title": "WIFI KIT",
+              "products_count": 4
+            }
+          ],
+          "total_products": 4
+        }
+      ],
+      "total_products": 159
+    },
+    {
+      "subcategory_name": "Explosion-Proof",
+      "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+      "series_count": 3,
+      "series": [
+        {
+          "series_name": "Optical Series",
+          "series_slug": "optical-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+          "series_image": null,
+          "tabs": [
+            {
+              "tab_id": "1501",
+              "tab_title": "Optical Series",
+              "products_count": 18
+            }
+          ],
+          "total_products": 18
+        },
+        {
+          "series_name": "Thermal Series",
+          "series_slug": "thermal-series",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/thermal-series",
+          "series_image": null,
+          "tabs": [
+            {
+              "tab_id": "118241",
+              "tab_title": "Thermal Series",
+              "products_count": 5
+            }
+          ],
+          "total_products": 5
+        },
+        {
+          "series_name": "Accessories",
+          "series_slug": "accessories",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/accessories",
+          "series_image": null,
+          "tabs": [
+            {
+              "tab_id": "118234",
+              "tab_title": "Accessories",
+              "products_count": 14
+            }
+          ],
+          "total_products": 14
+        }
+      ],
+      "total_products": 37
+    },
+    {
+      "subcategory_name": "Intelligent Computing",
+      "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/intelligent-computing",
+      "series_count": 3,
+      "series": [
+        {
+          "series_name": "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+          "series_slug": "intelligent-video-server",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86434/image/1_0_01_18_11089_690370498_crop_thumb.PNG",
+          "tabs": [
+            {
+              "tab_id": "8317",
+              "tab_title": "Event Detection Server",
+              "products_count": 6
+            },
+            {
+              "tab_id": "17711",
+              "tab_title": "Intelligent Management Server",
+              "products_count": 1
+            },
+            {
+              "tab_id": "18170",
+              "tab_title": "Comprehensive Analysis Server",
+              "products_count": 1
+            }
+          ],
+          "total_products": 8
+        },
+        {
+          "series_name": "128CH 2U Intelligent Video Surveillance Server IVSS7108/H-V2",
+          "series_slug": "intelligent-video-surveillance-server",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-surveillance-server",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_16702/ProductImage/1_0_01_23_16702_754404062_crop_thumb.png",
+          "tabs": [
+            {
+              "tab_id": "18074",
+              "tab_title": "IVSS51 Series",
+              "products_count": 4
+            },
+            {
+              "tab_id": "17791",
+              "tab_title": "IVSS71 Series",
+              "products_count": 22
+            }
+          ],
+          "total_products": 26
+        },
+        {
+          "series_name": "48CH 1U INTELLIGENT VIDEO DEVICE IVD5348-1I",
+          "series_slug": "intelligent-video-device",
+          "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-device",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87816/image/1_0_01_23_17172_855845328_crop_thumb.PNG",
+          "tabs": [
+            {
+              "tab_id": "118249",
+              "tab_title": "IVD53 Series",
+              "products_count": 4
+            },
+            {
+              "tab_id": "17871",
+              "tab_title": "IVD51 Series",
+              "products_count": 4
+            },
+            {
+              "tab_id": "17861",
+              "tab_title": "IVD31 Series",
+              "products_count": 1
+            }
+          ],
+          "total_products": 9
+        }
+      ],
+      "total_products": 43
+    },
+    {
+      "subcategory_name": "Storage",
+      "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+      "series_count": 1,
+      "series": [
+        {
+          "series_name": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+          "series_slug": "ip-storage",
+          "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+          "series_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/image/1_0_01_05_10623_933322751_crop_thumb.PNG",
+          "tabs": [
+            {
+              "tab_id": "569",
+              "tab_title": "EVS Series",
+              "products_count": 17
+            },
+            {
+              "tab_id": "58",
+              "tab_title": "eSATA",
+              "products_count": 1
+            }
+          ],
+          "total_products": 18
+        }
+      ],
+      "total_products": 18
+    }
+  ],
+  "total_products_extracted": 924
+}

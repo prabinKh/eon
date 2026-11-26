@@ -1,0 +1,186 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Hero Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series",
+    "tab_title": "Hero Series",
+    "tab_id": "18148",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Hero Series",
+      "Hero Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "155317",
+    "product_name": "HERO H3I",
+    "product_title": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/hero-h3i",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809714834_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/hero-h3i.html",
+  "detail": {
+    "title": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "model": "HERO H3I",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite HERO H3I 3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Key Points • One-click Privacy Mode • One Camera for 360° View Without Blind Spots • Detects Abnormal Sounds and Sends Alarm Promptly • Automatic Tracking of Targets • AI Human & Pet Detection • Built-in Mic & Speaker, Support Two-way Talk Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809714834_crop_thumb.PNG",
+        "alt": "HERO H3I_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809685833_crop_thumb.PNG",
+        "alt": "HERO H3I_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809685834_crop_thumb.PNG",
+        "alt": "HERO H3I_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809714832_crop_thumb.PNG",
+        "alt": "HERO H3I_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809685835_crop_thumb.PNG",
+        "alt": "HERO H3I_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/image/1_0_01_04_47032_809714833_crop_thumb.PNG",
+        "alt": "HERO H3I_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3.2\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Illumination Distance": "Up to 10 m (32.81 ft) (IR)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "1 (IR LED)",
+        "Angle Adjustment": "Pan: 0° to 355°; Tilt: –5° to 80°"
+      },
+      "Lens": {
+        "Max. Aperture": "F2.0",
+        "Field of View": "2.8mm H: 81°; V: 44°; D: 95° 3.6mm H: 69°; V: 36°; D: 81°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes"
+      },
+      "Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2304 × 1296@15 fps sub stream: 640 × 360@15 fps *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Resolution": "3M (2304 × 1296); HD (640 × 360)",
+        "Video Bit Rate": "H.265: 80 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "0°/180°"
+      },
+      "Audio": {
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a"
+      },
+      "Network": {
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.412-2.472 GHz,2.4G",
+        "Storage": "Micro SD card (up to 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "Power": {
+        "Power Supply": "5 VDC",
+        "Power Consumption": "Basic: 1.9 W; Max.: 4.5 W (live + IR + PT rotation)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing"
+      },
+      "Structure": {
+        "Casing Material": "Plastic",
+        "Product Dimensions": "φ90.9mm × 120.8 mm (φ3.58\" × 4.76\")",
+        "Net Weight": "370 g (0.81lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/datasheet/DH-H3I_S0_datasheet_20260609.pdf"
+      },
+      {
+        "name": "2026-08-04 #User Manual Pan and Tilt Wi-Fi Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88168/user_manual/Pan_and_Tilt_Wi-Fi_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-04 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2026-08-04 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88168/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2026-08-04 #User Manual Dahua Pan and Tilt Wi-Fi Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/user_manual/Dahua_Pan_and_Tilt_Wi-Fi_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-04 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2026-08-04 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-07-14 #A&E Document HERO H3I_A&E_20260918043729 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/a_e_document/1789677678460.docx"
+      },
+      {
+        "name": "2025-06-27 #Drawings HERO H3I_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/drawings/1_0_01_04_47032_556478457.pdf"
+      },
+      {
+        "name": "2025-06-27 #Drawings HERO H3I_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87911/drawings/1_0_01_04_47032_556478023.pdf"
+      },
+      {
+        "name": "2026-05-15 #Firmware DH_IPC-WPT-Dickens_Eng_PN_V2.860.0000000.26.R.260402 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88169/firmware/DH_IPC-WPT-Dickens_Eng_PN_V2.860.0000000.26.R.260402.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/hero-h3i"
+  }
+}

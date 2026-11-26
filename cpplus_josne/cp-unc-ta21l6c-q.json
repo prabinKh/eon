@@ -1,0 +1,169 @@
+{
+  "hierarchy": {
+    "category": "2 MP",
+    "category_url": "https://cpplusworld.com/products/2-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/2-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "40",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "2 MP",
+      "CP-UNC-TA21L6C-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2082",
+    "product_name": "CP-UNC-TA21L6C-Q",
+    "product_title": "CP-UNC-TA21L6C-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-ta21l6c-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f7242c2b-8025-4ce2-91e4-7fb3fddd70f0.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-ta21l6c-q.html",
+  "detail": {
+    "title": "CP-UNC-TA21L6C-Q",
+    "model": "CP-UNC-TA21L6C-Q",
+    "brand": "CP Plus",
+    "overview": "2MP Network IR Bullet Camera - 60Mtr.",
+    "features": [
+      "1/2.7\" 2MP PS CMOS Image Sensor (0.9407 Centimeters)",
+      "Max. 2MP (1920 x 1080)@25/30fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Triple stream",
+      "DWDR, Day/Night(ICR), 3D NR, AWB, AGC, BLC, HLC",
+      "6mm Fixed Lens",
+      "Support Built-in Mic",
+      "IR Range of 60 Mtr., IP67, PoE"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f7242c2b-8025-4ce2-91e4-7fb3fddd70f0.png",
+        "alt": "CP-UNC-TA21L6C-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/7dc87045-fdcc-44db-9348-db9a84831caa.png",
+        "alt": "CP-UNC-TA21L6C-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d229f7cd-fce2-4d0d-b97c-49c048f95030.png",
+        "alt": "CP-UNC-TA21L6C-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/c17af815-f08a-4f8f-a5c5-9ca761cd78c4.png",
+        "alt": "CP-UNC-TA21L6C-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/66b6e6fb-952b-4f5a-8d17-85c3c69bf367.png",
+        "alt": "CP-UNC-TA21L6C-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f1fa4c28-8986-449f-8ac4-f81e9293988f.png",
+        "alt": "CP-UNC-TA21L6C-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0d4f09a1-8414-4ab3-be40-f8f2d84af5fd.png",
+        "alt": "CP-UNC-TA21L6C-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ecd6daa7-aa71-4b87-b60e-541bf58d1732.png",
+        "alt": "CP-UNC-TA21L6C-Q - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" 2MP PS CMOS Image Sensor (0.9407 Centimeters)",
+        "Minimum Illumination": "0.001 lux@F1.4 (Color, 30 IRE), 0.0001 lux@F1.4 (B/W, 30 IRE), 0 lux (IR on)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–90°, Rotation: 0°–360°",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "RAM": "128 MB",
+        "ROM": "128 MB",
+        "Close Focus Distance": "2.6 m",
+        "Gain Control(AGC)": "Auto, Manual",
+        "Max. Aperture": "F1.4",
+        "Iris Control": "Fixed",
+        "Lens Type": "Fixed-focal",
+        "Lens": "6mm Fixed Lens",
+        "Lens Mount": "M12",
+        "DORI Distance": "85.5 m (Detect), 34.2 m (Observe), 17.1 m (Recognize), 8.6 m (Identify)",
+        "IR Number": "4 IR LED",
+        "IR": "IR Range of 60 Mtr.",
+        "Back Light Compensation": "BLC/ HLC/ DWDR",
+        "IR Control": "Auto, Manual",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Angle of view": "H: 54°, V: 29°, D: 63°",
+        "S/N Ratio": ">58dB",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (only supported by the sub stream)",
+        "Resolution": "2MP (1920 ×1080), 1.3MP (1280 × 960), 720p (1280 × 720), D1 (704 × 576/704 × 480), VGA  (640 × 480), CIF (352 × 288/352 × 240)",
+        "stream Capability": "Triple stream",
+        "Frame Rate": "Main stream: 2MP (1920 ×1080)/1.3MP (1280 × 960)/ 720P@25/30fps  Sub stream 1: 720p/D1/VAG/CIF@25/30Fps  Sub stream 2: D1/VGA/CIF/@25/30fps",
+        "Video Format": "PAL/NTSC",
+        "Smart IR": "Support",
+        "Smart search": "Work together with Smart NVR to perform refine intelligent search, event extraction and  merging to event videos",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Privacy Mask": "4 areas",
+        "ROI": "Support (4 Areas)",
+        "Audio": "Built-In Mic",
+        "Audio Compression": "G.711a, G.711Mu, PCM, G.726, AAC",
+        "Bit Rate": "H.265: 3 kbps-6144 kbps, H.264: 8 kbps-6144 kbps",
+        "Bit Rate Control": "CBR/VBR",
+        "Human body Detection": "Support the classification and accurate detection of human",
+        "Protocol": "SFTP, IPv6, IPv4, DNS,RTCP, NTP, RTP, HTTP, HTTPS, SNMP V3, TLS Version 1.2, TCP/IP, PPPoE,  NFS, UDP, ICMP, IGMP, SSL, DHCP, SMTP, RTSPS, ONVIF (Profile S, Profile G, Profile T), unicast,  multicast",
+        "OSD": "Camera title, Date & Time",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Support",
+        "Alarm Event": "Network disconnection, IP conflict, illegal access, Motion detection, Video tampering,  Audio detection, IMD (Intelligent motion detection), Security exception",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs,  WSSE, account lockout, syslog, video encryption, IP/MAC filtering, HTTPS, trusted upgrade, trusted boot",
+        "Mirror Function": "Support",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 1080p resolution and lower)",
+        "Browser": "IE, Chrome, Firefox",
+        "User/Host": "6 (Total bandwidth: 36 M)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Weatherproof Standard": "IP67",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 1.7 W (12 VDC); 2.5 W (PoE)  Max. (H.265 + intelligence on+ DWDR + illuminator intensity): 5 W (12 VDC); 6.2W (PoE)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95%",
+        "Casing": "Metal + Plastic",
+        "Dimension": "197.9 mm × 80.2 mm × 76.2 mm",
+        "Weight": "310g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-TA21L6C-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/cebe526b-55e0-4deb-9e3c-79c8e07eb202.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-ta21l6c-q"
+  }
+}

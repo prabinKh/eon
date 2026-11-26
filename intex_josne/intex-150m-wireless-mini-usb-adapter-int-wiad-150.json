@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "USB Adapter",
+    "subcategory_url": "https://www.intex.in/collections/usb-adapter",
+    "series": "Wireless USB Adapter",
+    "series_url": "https://www.intex.in/collections/wireless-usb-adapter",
+    "tab_title": "USB Adapter",
+    "tab_id": "8981215248602",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "USB Adapter",
+      "Intex 150m Wireless Mini USB Adapter - Int WiAd 150"
+    ]
+  },
+  "card_info": {
+    "product_id": "8981215248602",
+    "product_name": "Intex 150m Wireless Mini USB Adapter - Int WiAd 150",
+    "product_title": "Intex 150m Wireless Mini USB Adapter - Int WiAd 150",
+    "product_url": "https://www.intex.in/products/intex-150m-wireless-mini-usb-adapter-int-wiad-150",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Int-WiAd-150_26ec4ded-4a96-4a8e-87cb-317fe51c2d42.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 999.0,
+      "display": "₹999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-150m-wireless-mini-usb-adapter-int-wiad-150.html",
+  "detail": {
+    "title": "Intex 150m Wireless Mini USB Adapter - Int WiAd 150",
+    "model": "150M-150",
+    "brand": "Intex",
+    "overview": "Stay connected with the compact and efficient 150 Mbps Wireless Mini USB Adapter, powered by the trusted Realtek RTL8188FTV chipset. Supporting 802.11 b/g/n wireless technology, this adapter delivers stable wireless connectivity for desktops, laptops, and DVR systems. Compatible with both Windows and macOS, it's the ideal plug-and-play solution for wireless internet access with added security and DVR support.",
+    "features": [
+      "150 Mbps high-speed wireless transmission",
+      "802.11 b/g/n Wi-Fi support",
+      "Realtek RTL8188FTV chipset for reliable performance",
+      "Compact mini USB design for portability",
+      "DVR compatible – perfect for CCTV systems",
+      "Advanced wireless security – WPA/WPA2 encryption",
+      "Plug & Play – quick installation on Windows & macOS"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Int-WiAd-150_26ec4ded-4a96-4a8e-87cb-317fe51c2d42.jpg",
+        "alt": "Intex 150m Wireless Mini USB Adapter - Int WiAd 150",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "150 Mbps high-speed wireless transmission",
+        "Feature 2": "802.11 b/g/n Wi-Fi support",
+        "Feature 3": "Realtek RTL8188FTV chipset for reliable performance",
+        "Feature 4": "Compact mini USB design for portability",
+        "Feature 5": "DVR compatible – perfect for CCTV systems",
+        "Feature 6": "Advanced wireless security – WPA/WPA2 encryption",
+        "Feature 7": "Plug & Play – quick installation on Windows & macOS"
+      },
+      "General": {
+        "Model": "150M-150"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-150m-wireless-mini-usb-adapter-int-wiad-150"
+  }
+}

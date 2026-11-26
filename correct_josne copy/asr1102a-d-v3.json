@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "140527",
+    "product_name": "ASR1102A-D(V3)",
+    "product_title": "Indoor Fingerprint ID Card Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1102a-d(v3)",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11708/ProductImage/1_0_01_25_11708_41408675_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr1102a-d-v3.html",
+  "detail": {
+    "title": "Indoor Fingerprint ID Card Reader",
+    "model": "ASR1102A-D(V3)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR1102A-D(V3) Indoor Fingerprint ID Card Reader Key Points • Indoor Use Fingeprint and Card Reader • Fingerprint Recognition Time≤1.5S • ID Card (125KHz) Reading • RS-485 Communication • Prompts Using The Buzzer and Indicator Light Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11708/ProductImage/1_0_01_25_11708_41408675_crop_thumb.png",
+        "alt": "ASR1102A-D(V3)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11708/ProductImage/1_0_01_25_11708_41408676_crop_thumb.png",
+        "alt": "ASR1102A-D(V3)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes"
+      },
+      "Function": {
+        "Unlock Mode": "Card; fingerprint",
+        "Card Type": "ID card"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–5 cm (0\"–1.97\")",
+        "Fingerprint Sensor Type": "Optical fingerprint",
+        "Fingerprint Capacity": "3000",
+        "Fingerprint Verification Mode": "1:N",
+        "Fingerprint recognition time": "1.5s"
+      },
+      "Port": {
+        "RS-485": "Yes",
+        "Wiegand": "Yes"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "9–15 VDC, 100 mA",
+        "Power Consumption": "≤ 0.9 W (standby), ≤ 1 W (working)",
+        "Product Dimensions": "165.5 mm × 56.6 mm × 29 mm (6.52\" × 2.23\" × 1.14\") (L × W × H)",
+        "Packaging Dimensions": "192 mm × 130 mm × 56 mm (7.56\" × 5.12\" × 2.2\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Net Weight": "0.25 kg (0.55 lb)",
+        "Gross Weight": "0.28 kg (0.62 lb)",
+        "Installation": "Surface mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASR1102A-D(V3)_datasheet_20220316.pdf"
+      },
+      {
+        "name": "2025-08-03 #User Manual Access Reader_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002392/202501/Access_Reader_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-03-30 #Drawings ASR1102A-D(V3)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79127/drawings/ASR1102A-D(V3)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-07-11 #Firmware General_ASR1XX2A_NOENC_MCU_V4.000.0000000.3.R.230619 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2242581/M/General_ASR1XX2A_NOENC_MCU_V4.000.0000000.3.R.230619.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1102a-d(v3)"
+  }
+}

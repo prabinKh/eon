@@ -1,0 +1,149 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "USB Camera",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/usb-camera",
+    "tab_title": "USB Camera",
+    "tab_id": "15987",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "USB Camera",
+      "USB Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "153002",
+    "product_name": "PKP-UC10A",
+    "product_title": "USB Camera",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/usb-camera/pkp-uc10a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_01_13444/ProductImage/1_0_99_01_13444_665320240_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkp-uc10a.html",
+  "detail": {
+    "title": "USB Camera",
+    "model": "PKP-UC10A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKP-UC10A USB Camera Key Points • MP CMOS Sensor • 1920 × 1080 HD Resolution • 10× Optical Zoom + 10× EPTZ • Advanced Auto-Focus Technology • 3D Noise Reduction, Auto-White Balance and BLC, High Video Quality in Any Situation • Supports Up to 255 Preset Positions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_01_13444/ProductImage/1_0_99_01_13444_665320240_thumb.png",
+        "alt": "PKP-UC10A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_01_13444/ProductImage/1_0_99_01_13444_665320238_thumb.png",
+        "alt": "PKP-UC10A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_01_13444/ProductImage/1_0_99_01_13444_666602543_thumb.png",
+        "alt": "PKP-UC10A_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Device Lens": {
+        "Image Sensor": "2 MP CMOS sensor",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Video Frame Rate": "H264/MJPG: 1920×1080p@30/25/20/15/10/5 fps; 1280×720p@30/25/20/15/10/5 fps; 960×540@30/25/20/15/10/5 fps; 800×600@30/25/20/15/10/5 fps; 720×576@30/25/20/15/10/5 fps; 720×480@30/25/20/15/10/5 fps; 640×480@30/25/20/15/10/5 fps; 640×360@30/25/20/15/10/5 fps; 352×288@30/25/20/15/10/5 fps; 320×240@30/25/20/15/10/5 fps; YUY2: 1920×1080P@5 fps; 1280×720@10/5 fps; 1024×576@15/10/5 fps; 800×600@20/15/10/5 fps; 800×448@25/20/15/10/5 fps; 640×480@30/25/20/15/10/5 fps; 640×360@30/25/20/15/10/5 fps; 480×270@30/25/20/15/10/5 fps; 320×180@30/25/20/15/10/5 fps; NV12: 1280×720@10/5 fps; 1024×576@15/10/5 fps; 800×600@20/15/10/5 fps; 800×448@25/20/15/10/5 fps; 640×480@30/25/20/15/10/5 fps; 640×360@30/25/20/15/10/5 fps; 480×270@30/25/20/15/10/5 fps; 320×180@30/25/20/15/10/5 fps;",
+        "Field of View": "Horizontal angle: 8.8° (narrow angle)–66°(wide angle) Vertical angle: 8.8° (narrow angle)–66°(wide angle)",
+        "Focal Length": "f=4.34mm–41.66mm",
+        "Digital Zoom": "10X",
+        "Min. Illumination": "0.5 lux (F1.8, AGC ON)",
+        "Aperture": "F1.85–F2.43",
+        "Lens Type": "Automatic/manual/one-click focus"
+      },
+      "Function": {
+        "Noise Reduction": "2D and 3D digital noise reduction",
+        "White Balance": "Automatic/manual/one-click WB/specified color temperature (2400K–7100K)",
+        "Exposure": "Automatic and manual",
+        "BLC": "On/off",
+        "Image Adjustment": "Brightness, hue, saturation, contrast, sharpness, black-white mode, gamma ray curve",
+        "S/N Ratio": "> 50 dB",
+        "Video Compression": "YUY2/NV12/MJPG/H.264",
+        "USB Video Communication Protocol": "UVC"
+      },
+      "Port": {
+        "Video Output Port": "1-channel USB 2.0 port: Type A",
+        "Control Port": "RS 232",
+        "Protocol": "VISCA/Pelco-D/Pelco-P",
+        "Power": "HEC3800 power socket (VDC 12)"
+      },
+      "PTZ": {
+        "PTZ Pan/Tilt": "Horizontal angle: –170°–+170° Pitch angle: –30°–+30°",
+        "PTZ Speed": "Horizontal angle speed control: 0.1°–60° per second Pitch angle speed control: 0.1°–40° per second",
+        "PTZ Presets": "The user can set up to 255 preset positions (with 10 preset positions accessible via the remote control)"
+      },
+      "General": {
+        "Operating Voltage": "12 V",
+        "Operating Current": "0.42 A (max)",
+        "Power Consumption": "5 W (max)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +50 °C (–14 °F to +122 °F)",
+        "Operating Humidity": "20%–80% (RH)",
+        "Storage Temperature": "–10 °C to +60 °C (–14 °F to +140 °F)",
+        "Storage Humidity": "20%–80% (RH)",
+        "Operating Environment": "Indoor"
+      },
+      "Size and Weight": {
+        "Product Dimensions": "156.8 mm × 112.6 mm × 139.0 mm (6.17\" × 4.43\" × 5.47\") (L × W × H)",
+        "Packaging Dimensions": "320.0 mm × 240.0 mm × 180.0 mm (12.60\" × 9.45\" × 7.09\") (L × W × H)",
+        "Weight": "1.0 kg (2.20 lb)"
+      },
+      "Packing List": {
+        "Packing List": "1 camera, power adapter, remote control, USB 2.0 video cable, users' manual, warranty card, packing list."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/PKP-UC10A_datasheet_20241016.pdf"
+      },
+      {
+        "name": "2025-08-01 #User Manual Dahua PTZ Camera_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009802/202507/Dahua_PTZ_Camera_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-09-14 #Drawings PKP-UC10A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84203/drawings/PKP-UC10A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-09-14 #Drawings PKP-UC10A_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84203/drawings/PKP-UC10A_PORT.pdf"
+      },
+      {
+        "name": "2024-10-27 #Drawings PKP-UC10A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84203/drawings/PKP-UC10A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/usb-camera/pkp-uc10a"
+  }
+}

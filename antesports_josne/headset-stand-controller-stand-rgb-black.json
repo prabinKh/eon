@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "Headset Stand & Controller Stand - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870631715",
+    "product_name": "Headset Stand & Controller Stand - Black",
+    "product_title": "Headset Stand & Controller Stand - Black",
+    "product_url": "https://antesports.com/products/headset-stand-controller-stand-rgb-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/headset-stand-controller-stand-rgb-black.html",
+  "detail": {
+    "title": "Headset Stand & Controller Stand - Black",
+    "model": "AEPP0287",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GHGCS is an RGB gaming headset and controller stand designed to store up to two headsets and two controllers, keeping accessories organized while adding vibrant lighting to any gaming desk. It features 10 light modes with touch controls, plus both USB and Type-C connectivity for charging controllers directly through the stand. A sturdy desktop design keeps everything stable and within easy reach, while the 2 built-in charging ports mean you can charge accessories without extra cables cluttering the desk. Suitable for all headset types and compatible with PC, PS5 and Xbox accessories, it's a practical, stylish way to organize a busy gaming setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18.jpg",
+        "alt": "Headset Stand & Controller Stand - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Capacity": "2 Headsets + 2 Controllers",
+        "Charging Ports": "2 (USB + Type-C)",
+        "Lighting": "10 Modes, Touch Control",
+        "Compatibility": "PC, PS5, Xbox",
+        "Color": "Black",
+        "CAPACITY": "2 Headsets + 2 Controllers",
+        "CHARGING PORTS": "2 (USB + Type-C)",
+        "LIGHTING": "10 Modes, Touch Control",
+        "COMPATIBILITY": "PC, PS5, Xbox",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,199.00",
+        "MRP (INR)": "₹2,199.00",
+        "SKU": "AEPP0287"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/headset-stand-controller-stand-rgb-black"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "MP280S Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924243747",
+    "product_name": "MP280S Mouse Pad - Black",
+    "product_title": "MP280S Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/mp280s-speed-mousepad-large-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/30_a6fe0c92-2bf5-471f-a993-71ae9dfa9d2d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/mp280s-speed-mousepad-large-black.html",
+  "detail": {
+    "title": "MP280S Mouse Pad - Black",
+    "model": "AEPP0012",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MP280S is a large speed-type mouse pad designed for fast, low-friction mouse glide, well suited to quick-flick gaming and everyday office use alike. Stitched edges resist fraying over time, while a non-slip base keeps the pad securely in place on the desk. A dependable, budget-friendly large mouse mat for gaming or office setups.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/30_a6fe0c92-2bf5-471f-a993-71ae9dfa9d2d.png",
+        "alt": "MP280S Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Size": "Large",
+        "Type": "Speed Surface",
+        "Base": "Non-Slip",
+        "Edges": "Stitched",
+        "Color": "Black",
+        "SIZE": "Large",
+        "TYPE": "Speed Surface",
+        "BASE": "Non-Slip",
+        "EDGES": "Stitched",
+        "COLOR": "Black",
+        "SKU": "AEPP0012"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mp280s-speed-mousepad-large-black"
+  }
+}

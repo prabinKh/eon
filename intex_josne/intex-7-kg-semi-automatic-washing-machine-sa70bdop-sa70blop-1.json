@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Washing Machine",
+    "category_url": "https://www.intex.in/collections/washing-machine",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "9076579729626",
+    "breadcrumbs": [
+      "Home",
+      "Washing Machine",
+      "Washing Machine",
+      "Intex 7 Kg Semi-Automatic Washing Machine Blue & White - SA70BLPT"
+    ]
+  },
+  "card_info": {
+    "product_id": "9076579729626",
+    "product_name": "Intex 7 Kg Semi-Automatic Washing Machine Blue & White - SA70BLPT",
+    "product_title": "Intex 7 Kg Semi-Automatic Washing Machine Blue & White - SA70BLPT",
+    "product_url": "https://www.intex.in/products/intex-7-kg-semi-automatic-washing-machine-sa70bdop-sa70blop-1",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WhatsApp_Image_2025-11-05_at_1.12.17_PM_2.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 14999.0,
+      "display": "₹14,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-7-kg-semi-automatic-washing-machine-sa70bdop-sa70blop-1.html",
+  "detail": {
+    "title": "Intex 7 Kg Semi-Automatic Washing Machine Blue & White - SA70BLPT",
+    "model": "SA70BLPT",
+    "brand": "Intex",
+    "overview": "The Intex 7 Kg Semi-Automatic Washing Machine (Models: SA70BDOP & SA70BLPT) combines superior wash performance with durable build quality. Featuring a rust-free body, salt water technology, and powerful motor with T.O.P. technology, it’s designed for hassle-free washing in Indian households. The double water inlet and 3 knob functions ensure convenient operation, while the air dry window helps speed up drying. With its sturdy castor wheels, moving it around your home is effortless.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WhatsApp_Image_2025-11-05_at_1.12.17_PM_2.png",
+        "alt": "Intex 7 Kg Semi-Automatic Washing Machine Blue & White - SA70BLPT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WhatsApp_Image_2025-11-05_at_1.12.17_PM_2.jpg",
+        "alt": "Intex 7 Kg Semi-Automatic Washing Machine Blue & White - SA70BLPT",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Model Name": "SA70BLPT",
+        "Type": "Semi-Automatic Washing Machine",
+        "Wash Capacity": "7 Kg",
+        "Body Type": "Anti-Corrosive, Rust-Free",
+        "Technology": "Salt Water Compatible",
+        "Motor": "Powerful Motor with T.O.P. Technology",
+        "Spin Function": "Noise-Free Spinning for Drying Clothes",
+        "Drying System": "Air Dry Window",
+        "Wash Features": "Magic Filter, Double Water Inlet, 3 Knob Functions",
+        "Mobility": "Castor Wheels for Easy Movement",
+        "Colors Available": "Blue and Maroon",
+        "Warranty": "2 Years on Product | 5 Years on Wash Motor",
+        "Made In": "India",
+        "Model": "SA70BLPT"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/SA70BDOP_SA70BLOP-ppt.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-7-kg-semi-automatic-washing-machine-sa70bdop-sa70blop-1"
+  }
+}

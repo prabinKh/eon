@@ -1,0 +1,224 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "2-Wire IP",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station",
+    "tab_title": "Apartment Door Station",
+    "tab_id": "4732",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "2-Wire IP",
+      "Apartment Door Station",
+      "Apartment Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "152986",
+    "product_name": "VTO4202F-PI1",
+    "product_title": "2-wire IP Modular Apartment Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station/pro-series/vto4202f-pi1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/image/1_0_01_15_12794_913802950_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto4202f-pi1.html",
+  "detail": {
+    "title": "2-wire IP Modular Apartment Door Station",
+    "model": "VTO4202F-PI1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO4202F-PI1 2-wire IP Modular Apartment Door Station Key Points • 2MP HD Colorful 160° Fisheye Camera • Provides 12 VDC, 600 mA Power • IP65 • Support Surface and Flush Mount • Standard PoE • One Call Physical Button for Easier Calling • Embedded with Induction Loop Module Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/image/1_0_01_15_12794_913802950_crop_thumb.PNG",
+        "alt": "VTO4202F-PI1_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/image/1_0_01_15_12794_913802952_crop_thumb.PNG",
+        "alt": "VTO4202F-PI1_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/image/1_0_01_15_12794_913802951_crop_thumb.PNG",
+        "alt": "VTO4202F-PI1_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/image/1_0_01_15_12794_913802949_crop_thumb.PNG",
+        "alt": "VTO4202F-PI1_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 204,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux Operation System",
+        "Button Type": "Mechanical",
+        "Number of Buttons": "1",
+        "Interoperability": "CGI; ONVIF",
+        "Network Protocol": "UDP; TCP; IPv4; DNS; RTSP; UPnP; SIP; P2P; RTP"
+      },
+      "Basic": {
+        "Camera": "1/2.9\" 2 MP CMOS",
+        "Field of View": "H: 168.6°; V: 87.1°; D: 176.7°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.265; H.264",
+        "Video Resolution": "Main stream:720p; WVGA; D1; CIF Sub stream:1080p; WVGA; D1; QVGA; CIF",
+        "Video Frame Rate": "25 fps",
+        "Video Bit Rate": "256 Kbps to 8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bits"
+      },
+      "Function": {
+        "Communication Mode": "Digital 2-wire",
+        "Unlock Mode": "Remote",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Supports Micro SD card (up to 256 GB)",
+        "Web Configuration": "Yes"
+      },
+      "Performance": {
+        "Casing Material": "PC + 10% GF"
+      },
+      "Capacity": {
+        "Card Capacity": "3000",
+        "Fingerprint Capacity": "3000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Output": "1",
+        "Power Output": "1 port, 12 V/600 mA",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45 port, 10/100 Mbps network port"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance Color": "Silver",
+        "Power Supply": "Dahua 2-wire switch (max. power supply distance is 50 m) 48 VDC, 1 A; PoE (802.3af/at)",
+        "Power Adapter": "Optional",
+        "Installation": "Flush Mount; Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Surface mount box (optional); flush mount box (optional); rain cover (optional)",
+        "Product Dimensions": "100.0 mm × 100.0 mm × 49.9 mm (3.94\" × 3.94\" × 1.96\") (H × W × D)",
+        "Protection": "IP65",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Environment": "Outdoor",
+        "Operating Altitude": "0 m–3000 m (0 ft–9842.52 ft)",
+        "Power Consumption": "≤ 4 W (standby), ≤ 12 W (working)",
+        "Gross Weight": "0.45 kg (0.99 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75% (RH), non-condensing"
+      },
+      "Ordering Information": {
+        "Type": "Model",
+        "Modules": "DHI-VTO4202F-PI1",
+        "DHI-VTO4202F-MB1": "One-button module",
+        "DHI-VTO4202F-MB2": "Two-button module",
+        "DHI-VTO4202F-MB5": "Five-button module",
+        "DHI-VTO4202F-MS": "Display module",
+        "DHI-VTO4202F-ML": "Indicator module",
+        "DHI-VTO4202F-MK": "Keyboard module",
+        "DHI-VTO4202F-MF": "Fingerprint module",
+        "DHI-VTO4202F-MR": "Card swiping module(IC)",
+        "DHI-VTO4202F-MR1": "Card swiping module(ID)",
+        "DHI-VTO4202F-MN": "Blank Module",
+        "DHI-VTO4202F-MI": "Info module",
+        "DHI-VTO4202FB-MB2": "Two-button module(Black)",
+        "DHI-VTO4202FB-MB5": "Five-button module(Black)",
+        "DHI-VTO4202FB-MS": "Display module(Black)",
+        "DHI-VTO4202FB-ML": "Indicator module(Black)",
+        "DHI-VTO4202FB-MK": "Keyboard module(Black)",
+        "DHI-VTO4202FB-MF": "Fingerprint module(Black)",
+        "DHI-VTO4202FB-MR": "Card swiping module(IC)(Black)",
+        "DHI-VTO4202FB-MR1": "Card swiping module(ID)(Black)",
+        "DHI-VTO4202FB-MN": "Module(Black)",
+        "DHI-VTO4202FB-MI": "Info module(Black)",
+        "Accessories": "VTM75",
+        "VTM52R2": "Vertical two modules, surface mounted rain cover",
+        "VTM53R3": "Vertical three module, surface mounted rain cover",
+        "VTM54R4": "Vertical two*2 modules in parallel, surface mounted rain cover",
+        "VTM56R6": "Vertical two*3 modules in parallel, surface mounted rain cover",
+        "VTM51R2": "Vertical two modules with vertical rod, the cable goes out,It has the function of receiving the cable",
+        "VTM61R2": "Vertical two modules with vertical extended rod, the cable goes out,It has the function of receiving the cable",
+        "VTM79": "Mounting box for 1 module",
+        "VTM127": "Mounting box for 2 modules",
+        "VTM128": "Mounting box for 3 modules",
+        "VTM77": "Front panel for 1 module",
+        "VTM125": "Front panel for 2 modules",
+        "VTM126": "Front panel for 3 modules",
+        "Power Supply": "DHI-VTNS2003B-2-A",
+        "DHI-VTNS1001B-2-A": "2-wire Switch"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO4202F-PI1_S0_datasheet_20250624.pdf"
+      },
+      {
+        "name": "2025-12-02 #User Manual Modular Door Station_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010928/3480510/Modular_Door_Station_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-12-02 #User Manual Video Door Phone (Version 4.8)_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010928/3480508/Video_Door_Phone_(Version_4.8)_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-07-28 #Drawings VTO4202F-PI1_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82155/drawings/1_0_01_15_11719_973853442.pdf"
+      },
+      {
+        "name": "2025-06-26 #Drawings VTO4202F-PI1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/drawings/VTO4202F-PI1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-09 #Firmware DH_VTOPMR-A-Vale_MultiLang_PN_128M_SIP_EMEA_V4.800.0000002.3.R.260518 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/firmware/DH_VTOPMR-A-Vale_MultiLang_PN_128M_SIP_EMEA_V4.800.0000002.3.R.260518.zip"
+      },
+      {
+        "name": "2026-06-09 #Firmware DH_VTOPMR-A-Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.800.0000002.3.R.260518 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/firmware/DH_VTOPMR-A-Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.800.0000002.3.R.260518.zip"
+      },
+      {
+        "name": "2026-06-09 #Firmware DH_VTOPMR-A-Vale_MultiLang_PN_128M_SIP_Asia_V4.800.0000002.3.R.260518 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84164/firmware/DH_VTOPMR-A-Vale_MultiLang_PN_128M_SIP_Asia_V4.800.0000002.3.R.260518.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station/pro-series/vto4202f-pi1"
+  }
+}

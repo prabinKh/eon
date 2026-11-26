@@ -1,0 +1,115 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "CV100 Gaming Cabinet Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416633635",
+    "product_name": "CV100 Gaming Cabinet Black",
+    "product_title": "CV100 Gaming Cabinet Black",
+    "product_url": "https://antesports.com/products/ant-value-chassis-cv100-black-avlc0003",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1B_4b30202f-3e43-4fc9-bd1f-6afeb3d9751c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-value-chassis-cv100-black-avlc0003.html",
+  "detail": {
+    "title": "CV100 Gaming Cabinet Black",
+    "model": "AVLC0003",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value Chassis CV100 Black is a premium office cabinet designed to deliver excellent performance for everyday computing, work, and office use. Featuring support for ATX, M-ATX, M-ITX motherboards, 3(2x Top, 1x Rear) pre-installed fans, and support for graphics cards up to 320mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for home and office users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1B_4b30202f-3e43-4fc9-bd1f-6afeb3d9751c.png",
+        "alt": "CV100 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4W_25f9d8c7-783b-49b4-b253-e555ec36d98d.png",
+        "alt": "CV100 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2B_f7a2d9dc-8c75-4c5a-8244-cdd0922baa71.png",
+        "alt": "CV100 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3B_c9102d37-e51a-494b-a8d1-09d6b344cffc.png",
+        "alt": "CV100 Gaming Cabinet Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "Value Cabinets",
+        "Product Type": "Cabinet",
+        "Length (mm)": "338",
+        "Width (mm)": "200",
+        "Height (mm)": "453",
+        "Volume (liters)": "31",
+        "Motherboard Support": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "1",
+        "Top FAN Support": "2x120mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Top AIO Support": "240mm",
+        "Pre-Installed FANs": "3 (2x Top, 1x Rear)",
+        "Max. VGA Card Length (mm)": "320",
+        "Max. CPU Cooler Height (mm)": "165",
+        "I/O Panel": "1x USB 3.0, 2x USB",
+        "Expansion Slots": "6",
+        "SERIES": "Value Cabinets",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "338",
+        "WIDTH (MM)": "200",
+        "HEIGHT (MM)": "453",
+        "VOLUME (LITERS)": "31",
+        "MOTHERBOARD SUPPORT": "ATX, M-ATX, M-ITX",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "1",
+        "TOP FAN SUPPORT": "2x120mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "TOP AIO SUPPORT": "240mm",
+        "PRE-INSTALLED FANS": "3 (2x Top, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "320",
+        "MAX. CPU COOLER HEIGHT (MM)": "165",
+        "I/O PANEL": "1x USB 3.0, 2x USB",
+        "EXPANSION SLOTS": "6",
+        "Offer Price (INR)": "₹2,549.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AVLC0003"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-value-chassis-cv100-black-avlc0003"
+  }
+}

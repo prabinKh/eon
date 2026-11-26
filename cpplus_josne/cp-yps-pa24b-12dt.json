@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-YPS-PA24B-12DT"
+    ]
+  },
+  "card_info": {
+    "product_id": "2236",
+    "product_name": "CP-YPS-PA24B-12DT",
+    "product_title": "CP-YPS-PA24B-12DT",
+    "product_url": "https://cpplusworld.com/cp-yps-pa24b-12dt",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/ce0ac30c-b785-4283-887f-9182e2d8751a.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-yps-pa24b-12dt.html",
+  "detail": {
+    "title": "CP-YPS-PA24B-12DT",
+    "model": "CP-YPS-PA24B-12DT",
+    "brand": "CP Plus",
+    "overview": "12V 2Amp-2 Pin Power Adapter",
+    "features": [
+      "Wide 110–265VAC input with stable 12V/2A, 24W output.",
+      "Low ripple performance ensuring clean and reliable power  delivery.",
+      "Built-in OCP, 2kV Hi-Pot isolation & surge protection",
+      "±5% line and load regulation for consistent output stability.",
+      "High operational efficiency up to 75% for energy-optimized performance."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ce0ac30c-b785-4283-887f-9182e2d8751a.png",
+        "alt": "CP-YPS-PA24B-12DT - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/274d3d37-bc24-4f0a-b79b-907dfe703058.png",
+        "alt": "CP-YPS-PA24B-12DT - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Output": "Voltage: 12VDC, Range: 11.40 -12.60V, Min. Load: 0.1A, Rated Load: 2A, Output Power: 24W",
+        "Input Voltage Range": "110-265VAC",
+        "Rated Frequency": "50/60Hz Variation Frequency : 47 – 63Hz",
+        "Rated Input Voltage": "140-240VAC",
+        "Input Current": "0.75A Max.",
+        "Combined Load/ Line Regulation": "Voltage: 12VDC, Min. Load: 0.1A, Rated Load: 2A, Line Regulation: ± 5%, Load Regulation: ± 5%",
+        "Ripple and Noise": "250mVp-p; Under normal voltage & nominal load",
+        "Turn on Delay Time": "3S Max. @ 115V AC input and output Max. Load",
+        "Rise Time": "100mS Max. @ 115V AC input and output Max. Load",
+        "Hold Up Time": "8mS Min. @ 115V AC input and output Max. Load",
+        "Fall Time": "50mS @ Max. Load",
+        "Surge Immunity": "2kV L-N",
+        "Hi-Pot Test": "2kV@ 10mA",
+        "Output voltage": "11.4V – 12.6V",
+        "No Load Power Consumption": "<0.3W",
+        "OCP Power": "2.2A min @ 230VAC",
+        "Efficiency": "Average efficiency 75% minimum @ 25%, 50%, 75% & 100% of full-loading  and 230V AC input  (After warm up 30 minutes)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, ISO 14001: 2015, ISO 45001: 2018, ISO 50001: 2018, CE,  FCC and RoHS, BIS",
+        "Overshoot": "10% Max. When power supply @ turns on or turn off",
+        "Operating Temperature": "0°C to 40°C (Full load, Normal Operation)",
+        "Storage Temperature": "-40°C to 70°C"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-YPS-PA24B-12DT.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-yps-pa24b-12dt"
+  }
+}

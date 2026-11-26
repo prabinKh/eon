@@ -1,0 +1,146 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "4K",
+    "tab_id": "9452",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "4K"
+    ]
+  },
+  "card_info": {
+    "product_id": "39907",
+    "product_name": "HAC-HFW1800T(-A)",
+    "product_title": "4K Real-time HDCVI IR Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/4k/real-time/hac-hfw1800t(-a)",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20191128/HAC-HFW1800T(-A)1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hfw1800t--a.html",
+  "detail": {
+    "title": "4K Real-time HDCVI IR Bullet Camera",
+    "model": "HAC-HFW1800T(-A)",
+    "brand": "Dahua",
+    "overview": "Favourite HAC-HFW1800T(-A) 4K Real-time HDCVI IR Bullet Camera Key Points > Max. 4K resolution, real-time video transmission > CVI/CVBS/AHD/TVI switchable > Built-in mic (-A) > Fixed lens (2.8mm; 3.6mm;6mm optional) > Max. IR length 30m, Smart IR > IP67, 12V±30%DC Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20191128/HAC-HFW1800T(-A)1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7 inch CMOS",
+        "Effective Pixels": "3840 (H)× 2160 (V), 4K",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25s–1/100000s NTSC: 1/30s–1/100000s",
+        "S/N Ratio": ">65dB",
+        "Minimum Illumination": "0.03Lux/F2.0, 30IRE, 0Lux IR on",
+        "Fill Light Working Distance": "30 m (98.4 ft)",
+        "IR On/Off Control": "Auto; manual",
+        "IR LED Number": "1",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M12",
+        "Focal Length": "2.8mm; 3.6mm;6mm",
+        "Max. Aperture": "F2.0",
+        "Angle of View": "2.8mm: 125° x 105° x 56° (diagonal x horizontal x vertical) 3.6mm: 104° x 87° x 47° (diagonal x horizontal x vertical) 6mm:62.4° x54.7° x31.3°(diagonal x horizontal x vertical)",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "2.8mm: 1.0 m (3.3 ft) 3.6mm: 1.9 m (6.2 ft) 6mm:3.6m(11.8ft)",
+        "DORI Distance": "Lens",
+        "2.8mm": "74.7 m (245.1 ft)",
+        "3.6mm": "106.7 m (350.1 ft)"
+      },
+      "Video": {
+        "Frame Rate": "CVI: 4K@25/30fps; 4K@15fps; 5M@20fps; 4M@25fps/30fps; AHD: 4K@15fps; TVI: 4K@15fps; CVBS: 960H",
+        "Resolution": "4K (3840 × 2160); 5M (2592 × 1944); 4M (2560 × 1440); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/HLC/WDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto; manual",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR",
+        "Smart IR": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4,EN60950-1) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel, built-in mic (-A)"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 4.3W (12V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "-40°C to +60°C (-40°F to 140°F);<95% (non-condensation)",
+        "Storage Temperature": "-40°C to +60°C (-40°F to 140°F);<95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "174.5mm×70.6mm×72.3mm (6.87”×2.78”×2.85”)",
+        "Net Weight": "0.35Kg (0.77lb)",
+        "Gross Weight": "0.45Kg (0.99lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20191128/DH-HAC-HFW1800T-T-A_Datasheet.pdf"
+      },
+      {
+        "name": "2020-10-12 #User Manual HDCVI Camera User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20201012/HDCVI-Camera-Users-Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2020-10-12 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20201012/HDCVI-Bullet-Camera-Installation-Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2019-11-28 #Drawings DH-HAC-HFW1800T_Dimension Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20191128/DH-HAC-HFW1800T_Dimension.pdf"
+      },
+      {
+        "name": "2019-11-28 #Drawings DH-HAC-HFW1800T_Installation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20191128/DH-HAC-HFW1800T_Installation.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/4k/real-time/hac-hfw1800t(-a)"
+  }
+}

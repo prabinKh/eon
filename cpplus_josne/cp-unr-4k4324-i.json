@@ -1,0 +1,121 @@
+{
+  "hierarchy": {
+    "category": "32 Ch.",
+    "category_url": "https://cpplusworld.com/products/32-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/32-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "31",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "32 Ch.",
+      "CP-UNR-4K4324-I"
+    ]
+  },
+  "card_info": {
+    "product_id": "1558",
+    "product_name": "CP-UNR-4K4324-I",
+    "product_title": "CP-UNR-4K4324-I-32 Ch. 4K Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4324-i",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/62c89eaf-980d-48c7-bb0e-cb4ccc819770.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4324-i.html",
+  "detail": {
+    "title": "CP-UNR-4K4324-I-32 Ch. 4K Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-UNR-4K4324-I",
+    "brand": "CP Plus",
+    "overview": "32 Ch. 4K Network Video Recorder",
+    "features": [
+      "32 Channel IP video access",
+      "Access, storage or forwarding at 256 Mbps (160 Mbps when AI function enabled)",
+      "Support 4 SATA HDDs up to 10TB Each, 2 USB Ports",
+      "AI by NVR: 1-channel face detection and recognition; 2-channel perimeter protection; up to 10 face databases and 20,000 face images; 4-channel SMD Plus",
+      "1 HDMI / 1 VGA simultaneous video output",
+      "Support Multi-brand network cameras",
+      "AI by Camera: Face detection and recognition, perimeter protection; SMD Plus; ANPR; people counting; stereo analysis; heat map",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/62c89eaf-980d-48c7-bb0e-cb4ccc819770.jpg",
+        "alt": "CP-UNR-4K4324-I - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/c57d9e5f-f049-4693-9546-3a91851adc1b.jpg",
+        "alt": "CP-UNR-4K4324-I - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade embedded processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "32 channel",
+        "User Interface": "Web; local GUI",
+        "Video Output": "1-ch VGA output and 1-ch HDMI output; simultaneous/heterogeneous video sources output for VGA and HDMI is configurable",
+        "Resolution": "16MP; 12MP; 8MP; 5MP; 4MP; 3MP; 2MP; 720P; D1",
+        "Video Compression": "H.265/Smart H.264+/H.264/MJPEG",
+        "Encode Strategy": "Instastream",
+        "Video Display Split": "1st Screen: 1/4/8/9/16/25/36 ; 2nd Screen: 1/4/8/9",
+        "Audio Compression": "PCM; G.711A; G.711U; G.726",
+        "Decoding Capability": "AI off: 1 channel × 16MP@20fps; 1 channel × 12MP@20fps; 2 channels × 8MP@30fps; 4 channels × 5MP@30fps; 5 channels × 4MP@30fps; 10 channels × 1080p@30fps AI on: 1 channel × 16MP@20fps; 1 channel × 12MP@20fps; 2 channels × 8MP@30fps; 3 channel × 5MP@30fps; 4 channels × 4MP@30fps ; 8 channels × 1080p@30fps",
+        "Audio Output": "1 channel",
+        "Audio Input": "1 channel",
+        "Alarm Input": "16 Channel",
+        "Alarm Output": "6 Channel",
+        "Camera Blank": "Supports",
+        "Motion Detection": "Supports",
+        "Video Loss": "Supports",
+        "Alarm Linkage": "Record; snapshot; IPC external alarm output; audio; buzzer; log; preset; email",
+        "AI by Camera": "Face detection; face recognition; perimeter protection; SMD Plus; ANPR; people counting; stereo analysis; heat map",
+        "General Alarm": "Motion detection; privacy masking; video loss; scene changing; PIR alarm; IPC external alarm",
+        "AI by Device": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Anomaly Alarm": "Camera disconnection; storage error; disk full; IP conflict; MAC conflict; login locked; and cybersecurity exception",
+        "Face": "6 attributes: Gender; age group (6); glasses; expressions (8); mouth mask; beard",
+        "Hard Disk": "4 SATA ports, up to 10 TB. The maximum HDD capacity varies with environment temperature",
+        "Recording Mode": "Manual; schedule (general; MD; alarm; MD & alarm; intelligent)",
+        "Backup Mode": "USB device",
+        "Playback": "Play, pause, stop, fast forward, fast backward, rewind, play by frame, Full screen, backup (cut/file), partially enlarge, audio on/off",
+        "Ethernet": "2 RJ-45 10/100/1000 Mbps self-adaptive Ethernet ports",
+        "Interface Ports": "1 front USB 2.0 port, 1 rear USB 3.0 port , 1 RS485, 1 RS232",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4/IPv6; UPnP; SNMP; RTSP; UDP; SMTP; NTP; DHCP; DNS; IP Filter; PPPoE; DDNS; FTP; Alarm Server; IP Search; InstaOn; auto register; ONVIF (profile T/S/G); CGI; SDK",
+        "Power Supply": "Single, 100 V–240 V AC, 50 Hz–60 Hz",
+        "Power Consumption": "Total output of NVR is ≤ 8 W (without HDD)",
+        "Working Temp": "-10 °C to +55 °C (+10 °F to +131 °F)",
+        "Working Humidity": "10%–93%",
+        "Storage Temperature": "0 °C to +40 °C (32 °F to 104 °F)",
+        "Storage Humidity": "30%–85%",
+        "Operating Altitude": "3000 m",
+        "Dimension": "440.0 mm × 415.6 mm x 76.0 mm (W × L × H)",
+        "Weight": "4.25 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4324-I.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/57bbc2f5-ed46-46b8-bc19-9ddaf3899a35.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4324-i"
+  }
+}

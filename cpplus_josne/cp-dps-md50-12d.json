@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-MD50-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "2",
+    "product_name": "CP-DPS-MD50-12D",
+    "product_title": "CP-DPS-MD50-12D-Metal Case Power Supply - 5 Amp | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-dps-md50-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/httpwww.cpplusworld.comuploadsproductmedium1030-cp-dps-md50-12d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-dps-md50-12d.html",
+  "detail": {
+    "title": "CP-DPS-MD50-12D-Metal Case Power Supply - 5 Amp | Cp Plus | Cpplusworld.com",
+    "model": "CP-DPS-MD50-12D",
+    "brand": "CP Plus",
+    "overview": "Metal Case Power Supply - 5 Amp",
+    "features": [
+      "Input voltage: 180~264VAC",
+      "Output voltage: 12V DC",
+      "Current Range: 0~5A",
+      "Ripple & Noise (max.): 100mVp-p",
+      "Rated Power: 60W",
+      "Voltage Adj. Range: 11.4~13.2V",
+      "Voltage Tolerance: ±2.0%",
+      "Line Regulation: ±1.0%"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/httpwww.cpplusworld.comuploadsproductmedium1030-cp-dps-md50-12d.jpg",
+        "alt": "CP-DPS-MD50-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Display Size": "N/A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-MD50-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-md50-12d"
+  }
+}

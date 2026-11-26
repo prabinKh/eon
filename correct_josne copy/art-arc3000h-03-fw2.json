@@ -1,0 +1,126 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Kits",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/kits",
+    "tab_title": "Kits",
+    "tab_id": "12437",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Kits",
+      "Kits"
+    ]
+  },
+  "card_info": {
+    "product_id": "96047",
+    "product_name": "ART-ARC3000H-03-FW2",
+    "product_title": "Dahua Wireless Alarm KIT",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/kits/art-arc3000h-03-fw2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210707/15391733533765_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/art-arc3000h-03-fw2.html",
+  "detail": {
+    "title": "Dahua Wireless Alarm KIT",
+    "model": "ART-ARC3000H-03-FW2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ART-ARC3000H-03-FW2 Dahua Wireless Alarm KIT Key Points · Supports 150 wireless peripherals (6 sirens, 64 wireless keyfobs). · Dual SIM and Single Standby, auto switching. · Supports SOS emergency calls. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210707/15391733533765_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Wireless Zone": {},
+      "Network Mode": {},
+      "Network Port": {},
+      "Storage Battery": {},
+      "Indicator Light": {},
+      "Button": {},
+      "Buzzer": {},
+      "SMS": {},
+      "Phone Call": {},
+      "Video Linkage": {},
+      "Offline Cache": {},
+      "Arm and Disarm": {},
+      "Remote Update": {},
+      "Network Protocol": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "User Management": {},
+      "Sensor": {},
+      "Detection Mode": {},
+      "Sensitivity": {},
+      "Detection Range": {},
+      "Detection Speed": {},
+      "Movement Distance": {},
+      "Pet Immunity Level": {},
+      "White Light Resistance Level": {},
+      "Two-way Digital Temperature Compensation": {},
+      "Test Mode": {},
+      "Scenario": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Power Supply Type": {},
+      "Battery Life": {},
+      "Low Battery Threshold": {},
+      "Battery Restore Threshold": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Packaging Dimensions": {},
+      "Wi-Fi Standard": {},
+      "Wi-Fi Frequency Range": {},
+      "Wi-Fi Power Transmission": {},
+      "Cellular Network Standard": {},
+      "Frequency Range": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13087/datasheet/DHI-ART-ARC3000H-03-FW2_datasheet_20241230.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/kits/art-arc3000h-03-fw2"
+  }
+}

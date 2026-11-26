@@ -1,0 +1,103 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-F28B"
+    ]
+  },
+  "card_info": {
+    "product_id": "2242",
+    "product_name": "CP-F28B",
+    "product_title": "CP-F28B",
+    "product_url": "https://cpplusworld.com/cp-f28b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/528861e8-7fa3-4e2c-b4c5-2790c71a0c43.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-f28b.html",
+  "detail": {
+    "title": "CP-F28B",
+    "model": "CP-F28B",
+    "brand": "CP Plus",
+    "overview": "CarKam 2MP with Rear Camera",
+    "features": [
+      "Full HD Resolution",
+      "Built-in Display",
+      "Built-in G-Sensor (Emergency Recording)",
+      "Regular Recording",
+      "24/7 Parking Monitoring*",
+      "Support AP Mode",
+      "GPS Enabled",
+      "Support SD Card upto 1TB (Class 10 U3)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/528861e8-7fa3-4e2c-b4c5-2790c71a0c43.png",
+        "alt": "CP-F28B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e9df5102-0ad4-4521-9cec-46a169adf0fd.png",
+        "alt": "CP-F28B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "Front Camera: H=116°, D=137°, V=62° <br/>Rear Camera: H=102°, D=124°, V=53°",
+        "Image Sensor": "Front Camera: 1/2.8” Image sensor (0.9071 centimeters), <BR> Rear Camera: 1/2.9” Image sensor (0.8758 centimeters)",
+        "Lens": "Front Camera: 3.0mm, <BR> Rear Camera: 3.35 mm",
+        "Aperture": "Front Camera:  F1.9, <BR> Rear Camera: F2.0",
+        "Compression": "Front Camera: H.265",
+        "Resolution": "Front Camera: 2MP , <BR> Rear Camera: 2MP",
+        "Screen type": "IPS (In-Plane Switching)",
+        "Screen size": "1.9\" (4.826 centimeters)",
+        "Screen Resolution": "172 x 320 (RGB)",
+        "Video Format": "MP4",
+        "Video resolution": "2MP (1080P + 1080P)@25fps",
+        "Record Type": "Audio Recording, Regular Recording, Emergency Recording, Time-Lapse*",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Mobile App": "CarKam (Available for iOS and Android)",
+        "Microphone": "Support",
+        "Photo Format": "JPG",
+        "Battery": "1mAh Bu on Battery",
+        "Casing": "PC+ABS",
+        "Power Source": "5V/1.5A Type C",
+        "Operating Temperature": "-10°C~60°C",
+        "Storage temperature": "-20°C~70°C",
+        "Dimensions": "92.9 mm x 36.9 mm x 33.6 mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS",
+        "Note:": "*Please note time lapse and parking mode is supported with hardwire kit only."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-F28B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/1b090b80-ef8b-46f9-9f6d-9339e3a90060.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-f28b"
+  }
+}

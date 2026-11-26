@@ -1,0 +1,201 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series",
+    "tab_title": "Single Lens",
+    "tab_id": "18206",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+      "Single Lens"
+    ]
+  },
+  "card_info": {
+    "product_id": "155657",
+    "product_name": "IPC-PT2449Z-Z5-A1S-PV",
+    "product_title": "4MP 5x Smart Dual Light Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series/single-lens/ipc-pt2449z-z5-a1s-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/image/1_0_01_04_49229_954934293_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-pt2449z-z5-a1s-pv.html",
+  "detail": {
+    "title": "4MP 5x Smart Dual Light Pan & Tilt Network Camera",
+    "model": "IPC-PT2449Z-Z5-A1S-PV",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite IPC-PT2449Z-Z5-A1S-PV 4MP 5x Smart Dual Light Pan & Tilt Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • 5x Optical Zoom • Built-in Dual Mic for Real-Time Audio Security • Auto Tracking Lite • 30%-50% Storage Saving with Super AI Coding • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/image/1_0_01_04_49229_954934293_crop_thumb.PNG",
+        "alt": "IPC-PT2449Z-Z5-A1S-PV_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/image/1_0_01_04_49229_954934294_crop_thumb.PNG",
+        "alt": "IPC-PT2449Z-Z5-A1S-PV_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.005 lux@F1.8 (Color, 30 IRE) 0.0005 lux@F1.8 (B/W, 30 IRE) 0 lux (illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator On/Off Control": "Auto;Manual",
+        "Illuminator Number": "4 (IR LED); 4 (Warm light)",
+        "Optical Zoom": "5×",
+        "Lens Type": "Module",
+        "Lens Mount": "Module",
+        "Focal Length": "2.7 mm–13.5 mm",
+        "Max. Aperture": "F1.8",
+        "Field of View": "H: 28°–90°; V: 16°–48°; D: 32°–107°",
+        "Close Focus Distance": "1 m (3.28 ft)",
+        "DORI Distance": "Lens Detect Observe Recognize Identify 2.7 mm–13.5 mm 210.0 m ( 688.98 ft) 83.0 m ( 272.31 ft) 42.0 m ( 137.80 ft) 21.0 m ( 68.90 ft) *DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.",
+        "Lens": "Detect",
+        "2.7 mm–13.5 mm": "210.0 m ( 688.98 ft)",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of vehicle and human)",
+        "SMD": "SMD Plus",
+        "Smart Tracking": "Auto Tracking Lite",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by sub stream)",
+        "AI Coding": "AI H.265; AI H.264 (Super AI Coding) *Includes smart codec technology, Smart H.265+ and Smart H.264+",
+        "Video Frame Rate": "Main stream: 2560 × 1440@(1–25/30 fps) Sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) Third stream: 352 × 288@1 fps/352 × 240@1 fps *The values above are the max frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Streaming Capability": "3 streams",
+        "Resolution": "4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "VBR;CBR",
+        "Video Bit Rate": "H.264: 32 kbps–6144 kbps H.265: 12 kbps–6144 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Smart Illumination": "Yes",
+        "Smart Dual Light": "Yes",
+        "Defog": "Electronic",
+        "Digital Zoom": "16x",
+        "Image Rotation": "0°/180°",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "LDC": "Yes",
+        "Built-in MIC": "Yes, built-in dual Mic",
+        "Built-in Speaker": "Yes, built-in speaker;Max power consumption: 2 W; max sound level at 10 cm: 110 dB * Test results from laboratory",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; audio detection; voltage detection; SMD; security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; NTP; Multicast; ICMP; IGMP; NFS; P2P; Auto Registration",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI",
+        "User/Host": "6 (Total bandwidth: 36 M)",
+        "Storage": "FTP; SFTP; Micro SD card (supports max 512 GB)",
+        "Browser": "IE; Chrome; Firefox",
+        "Management Software": "SmartPSS Lite; DSS; DMSS; DoLynk Care",
+        "Mobile Client": "iOS;Android",
+        "Security": "Digest;WSSE;Account lockout;Security logs;IP/MAC filtering;Generation and importing of X.509 certification;syslog;HTTPS;802.1x;Trusted boot;Trusted execution;Trusted upgrade;Session security;Security warning;SSL/TLS1.2;AES 256",
+        "Light Warning": "Warm light warning Flash duration: 5 s–180 s Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 3 sound alarms and supports importing custom sound alarms. Sound: 0–100. Play times can be set from 1 to 10.",
+        "Pan/Tilt Range": "Pan: 0° to 355° Tilt: 0° to 90°",
+        "Manual Control Speed": "Pan: 0.1°/s–60°/s; Tilt: 0.1°/s–50°/s",
+        "Preset": "80",
+        "Preset Speed": "Pan: 60°/s; Tilt: 50°/s",
+        "Tour": "8 (up to 6 presets per tour)",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset;Tour",
+        "PTZ Locked": "YES",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU",
+        "Audio Input": "1 channel (Bare wire)",
+        "Audio Output": "1 channel (Bare wire)",
+        "Power Supply": "12 VDC (±25%); PoE (802.af)",
+        "Dual Power Backup": "When the power adapter and PoE provide power at the same time, disconnect one of them. The device will continue to work, but will not restart.",
+        "Power Consumption": "Basic: 2.10 W (12 VDC); 2.87 W (PoE) Max (PT rotation + illuminator intensity): 11.65 W (12 VDC); 12.95 W (PoE)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP66; IK10; TVS 4000V lightning proof; surge protection; voltage transient protection",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use and are applicable even in areas with no specific requirements for anti-corrosion protection.",
+        "Casing Material": "Metal",
+        "Product Dimensions": "107.1 mm × Φ130.0 mm (4.22\" × Φ5.12\")",
+        "Net Weight": "0.68 kg (1.50 lb)",
+        "Gross Weight": "0.89 kg (1.96 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/datasheet/DH-IPC-PT2449Z-Z5-A1S-PV_datasheet_20260806_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88339/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/user_manual/Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network Camera_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88339/user_manual/Dahua_Network_Camera_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Camera_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/user_manual/Network_Camera_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/user_manual/Dahua_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-06-01 #A&E Document IPC-PT2449Z-Z5-A1S-PV_A&E_20260923141218 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/a_e_document/1790144439486.docx"
+      },
+      {
+        "name": "2026-08-05 #Drawings IPC-PT2449Z-Z5-A1S-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/drawings/1_0_01_04_49229_979003717.pdf"
+      },
+      {
+        "name": "2026-06-02 #Drawings IPC-PT2449Z-Z5-A1S-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/drawings/1_0_01_04_49229_954776483.pdf"
+      },
+      {
+        "name": "2026-08-24 #Firmware DH_IPC-PT2XXX-HB-Monet_MultiLang_PN_V3.120.0000000.11.R.260811 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88187/firmware/DH_IPC-PT2XXX-HB-Monet_MultiLang_PN_V3.120.0000000.11.R.260811.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series/single-lens/ipc-pt2449z-z5-a1s-pv"
+  }
+}

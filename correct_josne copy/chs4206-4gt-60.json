@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Cloud Managed Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "series": "Cloud Managed Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "tab_title": "Cloud Managed Switches",
+    "tab_id": "15717",
+    "breadcrumbs": [
+      "Transmission",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "152642",
+    "product_name": "CHS4206-4GT-60",
+    "product_title": "6-Port Cloud Managed Hardened Gigabit Switch with 4-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/chs4206-4gt-60",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11908/ProductImage/1_0_01_20_11908_732801724_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/chs4206-4gt-60.html",
+  "detail": {
+    "title": "6-Port Cloud Managed Hardened Gigabit Switch with 4-Port PoE",
+    "model": "CHS4206-4GT-60",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11908/ProductImage/1_0_01_20_11908_732801724_crop_thumb.png",
+        "alt": "CHS4206-4GT-60",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/chs4206-4gt-60"
+  }
+}

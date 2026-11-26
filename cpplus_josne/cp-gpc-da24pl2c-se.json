@@ -1,0 +1,103 @@
+{
+  "hierarchy": {
+    "category": "Analog",
+    "category_url": "https://cpplusworld.com/products/analog",
+    "subcategory": "Guard+",
+    "subcategory_url": "https://cpplusworld.com/products/guard-plus/analog",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Guard+",
+    "tab_id": "139",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Guard+",
+      "Analog",
+      "CP-GPC-DA24PL2C-SE"
+    ]
+  },
+  "card_info": {
+    "product_id": "1613",
+    "product_name": "CP-GPC-DA24PL2C-SE",
+    "product_title": "CP-GPC-DA24PL2C-SE",
+    "product_url": "https://cpplusworld.com/cp-gpc-da24pl2c-se",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/6ce59a2f-dd81-4b8d-9cf9-595ff54502a2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-gpc-da24pl2c-se.html",
+  "detail": {
+    "title": "CP-GPC-DA24PL2C-SE",
+    "model": "CP-GPC-DA24PL2C-SE",
+    "brand": "CP Plus",
+    "overview": "2.4MP Full-color Guard+ Dome Camera - 20Mtr.",
+    "features": [
+      "1/2.8\" 2.4MP CMOS Image Sensor (0.9071 centimetres)",
+      "Max 25/30fps@2.4MP",
+      "DWDR, 2D-DNR, AWB, AGC, BLC",
+      "3.6mm Fixed lens (2.8mm Optional)",
+      "Illumination Distance of 20 Mtrs, IP67",
+      "Support 24/7 color Imaging",
+      "Support Built-in Mic",
+      "CVI/CVBS/AHD/TVI switchable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6ce59a2f-dd81-4b8d-9cf9-595ff54502a2.jpg",
+        "alt": "CP-GPC-DA24PL2C-SE - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/df045e2b-affe-42db-8ced-d5d90cc92d01.jpg",
+        "alt": "CP-GPC-DA24PL2C-SE - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" 2.4MP CMOS (0.9071 centimetres)",
+        "Minimum Illumination": "0.01Lux/F1.6, 0 Lux white light on",
+        "BodyType": "Dome",
+        "Shutter Speed": "PAL: 1/25~1/100000s NTSC: 1/30~1/100000s",
+        "Max Aperture": "F1.6",
+        "White Balance": "Auto/Manual",
+        "Lens Type": "Fixed",
+        "Lens": "3.6mm (2.8mm Optional)",
+        "Gain Control (AGC)": "Auto/Manual",
+        "DORI Distance": "2.8mm: 43.9m (Detect) 17.5m (Observe) 8.8m (Recognize) 4.4mm (Identify) 3.6mm: 55.2m (Detect) 22.1m (Observe) 11.0m (Recognize) 5.5mm (Identify)",
+        "Angle of View": "2.8mm: 126.2° × 106° × 56.5° (diagonal × horizontal × vertical) 3.6mm: 103.6° × 86.9° × 46.3° (diagonal × horizontal × vertical)",
+        "S/N Ratio": ">65dB",
+        "Back Light Comp.": "BLC/ DWDR",
+        "Video Streaming": "CVI: PAL: 1080P@25fps; 720P@25fps; NTSC: 1080P@30fps; 720P@30fps;  AHD: PAL: 1080P@25fps; NTSC: 1080P@30fps TVI: PAL: 1080P@25fps;  NTSC: 1080P@30fps; CVBS: PAL: 960H; NTSC: 960H",
+        "Privacy Mask": "Off/On (8 area, rectangle)",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "Built-in Mic",
+        "Illumination Distance": "IR Distance of 20 Mtr., Smart Light",
+        "Operating Temperature": "-40°C ~ +55°C; Less than <95% RH (non-condensation)",
+        "Power Source": "12V DC ±30%",
+        "Power Consumption": "Max 3.1W (12V DC, White Light on)",
+        "Weatherproof Standard": "IP67",
+        "Dimension": "φ97 mm × 86.6 mm",
+        "Casing": "Plastic"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-GPC-DA24PL2C-SE.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-gpc-da24pl2c-se"
+  }
+}

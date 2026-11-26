@@ -1,0 +1,103 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "InfinityFlow 3x120MM ARGB Fan Kit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421581603",
+    "product_name": "InfinityFlow 3x120MM ARGB Fan Kit",
+    "product_title": "InfinityFlow 3x120MM ARGB Fan Kit",
+    "product_url": "https://antesports.com/products/ant-esports-infinityflow-120mm-argb-case-fan-kit",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/InfinityFlow120MM3in1ARGBFanKit_01_509ecfe1-e9c1-4f2f-a470-0560ffb94302.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-infinityflow-120mm-argb-case-fan-kit.html",
+  "detail": {
+    "title": "InfinityFlow 3x120MM ARGB Fan Kit",
+    "model": "AESP0232",
+    "brand": "Ant Esports",
+    "overview": "Take your PC's aesthetic to the next dimension with theAnt Esports InfinityFlow 120mm ARGB Fan Kit. Combining a stunning futuristic look with reliable, high-performance thermal management, this 3-fan pack is the ultimate choice for a high-end gaming or productivity setup.",
+    "features": [
+      "Take your PC's aesthetic to the next dimension with theAnt Esports InfinityFlow 120mm ARGB Fan Kit. Combining a stunning futuristic look with reliable, high-performance thermal management, this 3-fan pack is the ultimate choice for a high-end gaming or productivity setup."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/InfinityFlow120MM3in1ARGBFanKit_01_509ecfe1-e9c1-4f2f-a470-0560ffb94302.png",
+        "alt": "InfinityFlow 3x120MM ARGB Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_1c7206c0-554c-4209-8e44-197652c1bc47.png",
+        "alt": "InfinityFlow 3x120MM ARGB Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_0bf92d8c-ee2c-47fc-bccf-399ab56eacfc.png",
+        "alt": "InfinityFlow 3x120MM ARGB Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_515d98cc-e68a-4230-b12f-c049c6423555.png",
+        "alt": "InfinityFlow 3x120MM ARGB Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "2000",
+        "FAN Airflow (CFM)": "68.8",
+        "FAN Static Pressure (mmH₂O)": "2.05",
+        "FAN Noise (dBA)": "29.2",
+        "FAN Direction": "Forward",
+        "Connection": "PWM + ARGB",
+        "Stackable": "Yes",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "68.8",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.05",
+        "FAN NOISE (DBA)": "29.2",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM + ARGB",
+        "STACKABLE": "Yes",
+        "Offer Price (INR)": "₹3,749.00",
+        "MRP (INR)": "₹5,999.00",
+        "SKU": "AESP0232"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-infinityflow-120mm-argb-case-fan-kit"
+  }
+}

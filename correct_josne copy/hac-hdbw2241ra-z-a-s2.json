@@ -1,0 +1,158 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series",
+    "tab_title": "1080P",
+    "tab_id": "9442",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Pro Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "97927",
+    "product_name": "HAC-HDBW2241RA-Z-A",
+    "product_title": "2MP Starlight HDCVI Motorized Vari-focal IR Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/1080p/starlight/hac-hdbw2241ra-z-a=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210820/12.1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdbw2241ra-z-a-s2.html",
+  "detail": {
+    "title": "2MP Starlight HDCVI Motorized Vari-focal IR Dome Camera",
+    "model": "HAC-HDBW2241RA-Z-A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDBW2241RA-Z-A 2MP Starlight HDCVI Motorized Vari-focal IR Dome Camera Key Points • High-Quality Imaging with 1080P Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 60 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & 130dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • Effortless Signal Selection with DIP Switch • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210820/12.1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210820/12_thumb.png",
+        "alt": "HAC-HDBW2241RA-Z-A",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "2MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Pixel": "2MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "S/N Ratio": "> 65 dB",
+        "Min. Illumination": "0.001 Lux/F1.5, 30 IRE, 0 Lux IR on",
+        "Illumination Distance": "60 m (196.9 ft)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "3 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–355° Tilt: 0°–80° Rotation: 0°–355°"
+      },
+      "Lens": {
+        "Lens Type": "Motorized Vari-focal",
+        "Auto Focus": "Yes",
+        "Mount Type": "φ14",
+        "Focal Length": "2.7 mm-13.5mm",
+        "Max. Aperture": "F1.5",
+        "Field of View": "Diagonal: 131°~35° Horizontal: 108°~30° Vertical: 56°~17°",
+        "Iris Type": "Fixed",
+        "Close Focus Distance": "0.8 m (2.6 ft )",
+        "DORI Distance": "Lens",
+        "2.7 mm": "44.1 m (144.7 ft)",
+        "13.5 mm": "144.8 m (475.1 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Frame Rate": "CVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; AHD: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; TVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; CVBS: PAL: 960 × 576H; NTSC: 960 × 480H",
+        "Resolution": "1080p (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/WDR/HLC",
+        "WDR": "130 dB",
+        "White Balance": "Auto/Area WB",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "3D NR",
+        "Smart IR": "Yes",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port (DIP Switch)",
+        "Audio Input": "One channel built-in mic"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 6.9W (12V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C~+60 °C (-22 °F to 140 °F); ﹤ 95% (non-condensation)",
+        "Storage Temperature": "–30 °C~+60 °C (-22 °F to 140 °F); ﹤ 95% (non-condensation)",
+        "Protection Grade": "IP67; IK10"
+      },
+      "Structure": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "φ126 mm × 100 mm (φ5\" × 3.9\")",
+        "Net Weight": "0.63 kg (1.4 lb)",
+        "Gross Weight": "0.81 kg (1.8 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HDBW2241RA-Z-A_S2_datasheet_20240520.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Dome Camera Installation Guide V1.0.3-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/user_manual/HDCVI_Dome_Camera_Installation_Guide_V1.0.3-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-11-13 #Drawings HAC-HDBW2241RA-Z-A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/drawings/HAC-HDBW2241RA-Z-A-DP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-26 #Drawings HAC-HDBW2241RA-Z-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87611/drawings/HAC-HDBW1200RA-Z-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/1080p/starlight/hac-hdbw2241ra-z-a=s2"
+  }
+}

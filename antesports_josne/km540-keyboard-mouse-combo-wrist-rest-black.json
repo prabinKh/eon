@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM540 Gaming Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923653923",
+    "product_name": "KM540 Gaming Keyboard & Mouse Combo - Black",
+    "product_title": "KM540 Gaming Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/km540-keyboard-mouse-combo-wrist-rest-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/34.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km540-keyboard-mouse-combo-wrist-rest-black.html",
+  "detail": {
+    "title": "KM540 Gaming Keyboard & Mouse Combo - Black",
+    "model": "AEPP0190",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM540 pairs a rainbow backlit LED keyboard with a programmable optical mouse in a combo built from premium-grade plastic, with a textured metallic top plate that resists warping over time. Double-shot ABS keycaps sit on membrane switches with 7 pre-set lighting patterns and 3 brightness levels, evenly diffused through a polymer layer for comfortable use in dark rooms. A built-in wrist rest and rubberized feet add comfort and stability during long gaming or typing sessions, while the mouse offers 4 adjustable DPI levels (800-3200) for smooth, accurate tracking across different tasks. Broad compatibility spans Windows 2000 through Windows 10 and Mac OS, making it a dependable everyday combo for PC, laptop and Mac users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/34.png",
+        "alt": "KM540 Gaming Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Lighting": "Rainbow LED, 7 Patterns",
+        "Mouse DPI": "800 / 1600 / 2400 / 3200",
+        "Extras": "Wrist Rest",
+        "Compatibility": "Windows 2000-10, Mac OS",
+        "Color": "Black",
+        "KEYBOARD LIGHTING": "Rainbow LED, 7 Patterns",
+        "MOUSE DPI": "800 / 1600 / 2400 / 3200",
+        "EXTRAS": "Wrist Rest",
+        "COMPATIBILITY": "Windows 2000-10, Mac OS",
+        "COLOR": "Black",
+        "SKU": "AEPP0190"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km540-keyboard-mouse-combo-wrist-rest-black"
+  }
+}

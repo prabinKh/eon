@@ -1,0 +1,87 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Wifi Adapter",
+    "subcategory_url": "https://antesports.com/collections/dongles",
+    "series": "Wifi Adapter Series",
+    "series_url": "https://antesports.com/collections/dongles",
+    "tab_title": "Wifi Adapter",
+    "tab_id": "508173320483",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Wifi Adapter",
+      "AE900X WIRELESS USB DONGLE"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315417321763",
+    "product_name": "AE900X WIRELESS USB DONGLE",
+    "product_title": "AE900X WIRELESS USB DONGLE",
+    "product_url": "https://antesports.com/products/ant-esports-wireless-usb-dongle-ae900x-eta-sd-20230807261-aepp0348",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/AE900X_6.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-wireless-usb-dongle-ae900x-eta-sd-20230807261-aepp0348.html",
+  "detail": {
+    "title": "AE900X WIRELESS USB DONGLE",
+    "model": "AEPP0348",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS WIRELESS USB DONGLE is a premium wireless USB dongle designed to deliver excellent performance for fast, stable wireless connectivity on PCs and laptops. Featuring IEEE 802.11B/G/N/E/AX wireless standard support, speeds of up to 900 Mbps, and built-in Bluetooth 5.4, it ensures reliability, durability, and compatibility with modern devices. Whether you are upgrading your PC's wireless connectivity or replacing a faulty adapter, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and everyday PC users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/AE900X_6.png",
+        "alt": "AE900X WIRELESS USB DONGLE - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_da1e1951-40d6-4683-9418-617ad29921da.png",
+        "alt": "AE900X WIRELESS USB DONGLE - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Wireless Standard": "IEEE 802.11B/G/N/E/AX",
+        "Max. Bandwidth": "900 Mbps",
+        "Bluetooth": "Bluetooth 5.4",
+        "WiFi Band": "Dual Band (5G & 2.4G)",
+        "Interface": "USB 3.0",
+        "WiFi Security": "WPA3, WPA2, WPA, 64/128-bit WEP",
+        "Size": "Mini",
+        "WIRELESS STANDARD": "IEEE 802.11B/G/N/E/AX",
+        "MAX. BANDWIDTH": "900 Mbps",
+        "BLUETOOTH": "Bluetooth 5.4",
+        "WIFI BAND": "Dual Band (5G & 2.4G)",
+        "INTERFACE": "USB 3.0",
+        "WIFI SECURITY": "WPA3, WPA2, WPA, 64/128-bit WEP",
+        "SIZE": "Mini",
+        "Offer Price (INR)": "₹649.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0348"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (AE900X)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Wifi-AE900X.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-wireless-usb-dongle-ae900x-eta-sd-20230807261-aepp0348"
+  }
+}

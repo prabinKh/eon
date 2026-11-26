@@ -1,0 +1,132 @@
+{
+  "hierarchy": {
+    "category": "Body Temperature Detection",
+    "category_url": "https://cpplusworld.com/products/body-temperature-detection",
+    "subcategory": "Software",
+    "subcategory_url": "https://cpplusworld.com/products/",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Software",
+    "tab_id": "125",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Software",
+      "Connector",
+      "Body Temperature Detection",
+      "CP-NNR-4K332R4-16P"
+    ]
+  },
+  "card_info": {
+    "product_id": "1112",
+    "product_name": "CP-NNR-4K332R4-16P",
+    "product_title": "CP-NNR-4K332R4-16P-32 Ch. H.265+ 4K AI Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-nnr-4k332r4-16p",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/870cd157-0575-45a5-928f-428c438eedba.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-nnr-4k332r4-16p.html",
+  "detail": {
+    "title": "CP-NNR-4K332R4-16P-32 Ch. H.265+ 4K AI Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-NNR-4K332R4-16P",
+    "brand": "CP Plus",
+    "overview": "32 Ch. 4K AI Network Video Recorder",
+    "features": [
+      "Up to 32 channel IP camera input",
+      "Instastream/H.265/H.264+/H.264 codec decoding",
+      "Max 320 Mbps bandwidth",
+      "Up to 16 face databases with 10,000 face images in total",
+      "Up to 32ch picture stream face recognition",
+      "Up to 20 Face pictures/sec processing",
+      "Simultaneous HDMI and VGA up to 4K output",
+      "Support 4 SATA Ports, up to 12TB Each, 3 USB Ports, 1 eSATA Port, 16 PoE Ports",
+      "Support RAID 5/6/10",
+      "Support Multi-brand network cameras",
+      "ONVIF Version 2.4 conformance",
+      "Mobile Software: Android, iOS"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/870cd157-0575-45a5-928f-428c438eedba.png",
+        "alt": "CP-NNR-4K332R4-16P - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/99009e05-ed62-4e12-923f-8702498163ed.png",
+        "alt": "CP-NNR-4K332R4-16P - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Operating System": "Embedded LINUX",
+        "Processor": "Dual-core embedded processor",
+        "Video Compression": "Instastream/ H.265/H.264+/H.264",
+        "User Interface": "GUI",
+        "IP Camera Input": "32 channel",
+        "Two-way Talk": "Yes",
+        "Video Output": "1 HDMI, 1 VGA",
+        "Resolution": "HDMI: 3840x2160, 1920×1080,1440×900, 1280×1024, VGA: 1920×1080, 1440×900, 1280×1024",
+        "Video Display Split": "1/4/8/9/16/32/36",
+        "Video Loss": "Support",
+        "Motion Detection": "Support",
+        "Video Recording": "320Mbps",
+        "Playback": "Play, Pause, Stop, Rewind, Fast play, Slow play, Next file, Previous file, Next camera, Previous camera, Full screen, Repeat, Shuffle, Backup selection, Digital zoom",
+        "Performance": "Max 20 face pictures /sec processing 32ch picture stream face recognition",
+        "Record Interval": "Post-record: 30 ~ 60 sec",
+        "Stranger Mode": "Detect strangers' faces (not in device's face database) Similarity threshold can be set manually",
+        "Recording Mode": "Manual, Schedule (Regular, Continuous, Motion Detection, Video Loss, Camera Tamper, Alarm in, IVS",
+        "Bit Rate": "128Kbps ~ 8192Kbps Per Channel",
+        "Search Mode": "Time /Date, Alarm, Picture grid, Event",
+        "Database Management": "Up to 16 face databases with 10,000 face images in total",
+        "Database Application": "Every data can be applied to any channel",
+        "Trigger Events Face Recognition": "Buzzer, Alarm push, Alarm prompt, Email, Alarm Out, Compare the result simultaneously, etc.",
+        "AI Search": "Search for image by image Search image by properties",
+        "Face": "Face comparison results (registrant (name and ID), stranger, channel, similarity)",
+        "Human Body": "Recently captured image display",
+        "Vehicle": "Recently captured image display",
+        "Interface Ports": "1 HDMI, 1 VGA, 3 ports (USB 2.0 x2, USB3.0 x1), 1 RS485, 1 RS232",
+        "Trigger Events": "Recording, Buzzer, Push message, Pop up message.",
+        "Non-motor Vehicle": "Recently captured image display",
+        "Audio Input": "1 Channel",
+        "Audio Output": "1 Channel",
+        "Alarm Input": "2 Channel",
+        "Alarm Output": "1 Channel",
+        "RAID": "RAID 5, RAID 6, RAID 10",
+        "Hard Disk": "4 SATA Ports, up to 12TB for each HDD, 1 eSATA Port",
+        "User Account": "10 users",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, UPnP, UDP, RTSP, SMTP, NTP, DNS, DHCP, P2P, IP Filter, DDNS, 802.1X, SNMP, 3G/4G, PPPoE, ONVIF, SDK, CGI",
+        "Camera Blank": "Supports",
+        "Backup Mode": "USB Device",
+        "Ethernet": "1 RJ-45 port (10/100/1000Mbps)",
+        "PoE": "16ch 100Mbps, IEEE 802.3af",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Power Supply": "AC100~240V",
+        "Power Consumption": "<15W (without HDD), PoE Max Power: 160W",
+        "Working Temperature": "-10 °C ~ 50 °C (14 °F ~ 122 °F)",
+        "Working Humidity": "Less than 90% RH",
+        "Dimension": "440 x 368.3 x 70mm",
+        "Net Weight": "4.2kg (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-NNR-4K332R4-16P.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-nnr-4k332r4-16p"
+  }
+}

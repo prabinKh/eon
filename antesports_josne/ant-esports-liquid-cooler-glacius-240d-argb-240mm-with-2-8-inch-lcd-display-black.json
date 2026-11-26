@@ -1,0 +1,127 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Liquid Coolers",
+    "subcategory_url": "https://antesports.com/collections/liquid-coolers",
+    "series": "Liquid Coolers Series",
+    "series_url": "https://antesports.com/collections/liquid-coolers",
+    "tab_title": "Liquid Coolers",
+    "tab_id": "508173189411",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Liquid Coolers",
+      "Glacius 240D ARGB Liquid Cooler With LCD Display - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420631331",
+    "product_name": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black",
+    "product_title": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black",
+    "product_url": "https://antesports.com/products/ant-esports-liquid-cooler-glacius-240d-argb-240mm-with-2-8-inch-lcd-display-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_c960ecae-3023-4014-9a99-012eb9fdf60c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-liquid-cooler-glacius-240d-argb-240mm-with-2-8-inch-lcd-display-black.html",
+  "detail": {
+    "title": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black",
+    "model": "AESP0377",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Liquid Cooler Glacius 240D ARGB 240MM With 2.8 Inch LCD Display - Black is a high-performance liquid CPU cooler built for gamers, creators, and PC enthusiasts. Featuring a 240mm radiator with 2.8-inch LCD display, it delivers efficient heat dissipation for processors up to 300W TDP while maintaining reliable and quiet operation. Compatible with the latest Intel and AMD platforms, it offers excellent cooling performance, vibrant aesthetics, and dependable durability for modern PC builds. Backed by a 3 Year Limited, it is an ideal choice for new builds and system upgrades.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_c960ecae-3023-4014-9a99-012eb9fdf60c.png",
+        "alt": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_97a022fa-9d8c-4694-9171-cfe82e851dc1.png",
+        "alt": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_230282b3-05c9-4e7e-97b3-73db06356868.png",
+        "alt": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_33435006-6dc2-4102-b0c0-cc1b29571980.png",
+        "alt": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_e51d203b-17cf-45ae-a6ed-10e2a5b73e69.png",
+        "alt": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_adc2509e-4063-48b7-a616-8659096ea4d2.png",
+        "alt": "Glacius 240D ARGB Liquid Cooler With LCD Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "General": {
+        "Product Type": "Liquid Cooler",
+        "Radiator Size": "240mm",
+        "Radiator Thickness": "27mm",
+        "Display": "2.8 Inch LCD Display",
+        "Pump Speed (RPM)": "2600",
+        "Pump Noise (dBA)": "25",
+        "Fans Included": "2 x 120mm",
+        "Fan Size (mm)": "120 x 120 x 25",
+        "Fan Speed (RPM)": "2200",
+        "Fan Airflow (CFM)": "86.16",
+        "Fan Static Pressure (mmH₂O)": "3.84",
+        "Fan Noise (dBA)": "37",
+        "Rated TDP (Watts)": "300",
+        "Tube Length (mm)": "400",
+        "AMD Socket Support": "AM3, AM4, AM5",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA115X, LGA1366, LGA20XX",
+        "Warranty": "3 Year Limited",
+        "PRODUCT TYPE": "Liquid Cooler",
+        "RADIATOR SIZE": "240mm",
+        "RADIATOR THICKNESS": "27mm",
+        "DISPLAY": "2.8 Inch LCD Display",
+        "PUMP SPEED (RPM)": "2600",
+        "PUMP NOISE (DBA)": "25",
+        "FANS INCLUDED": "2 x 120mm",
+        "FAN SIZE (MM)": "120 x 120 x 25",
+        "FAN SPEED (RPM)": "2200",
+        "FAN AIRFLOW (CFM)": "86.16",
+        "FAN STATIC PRESSURE (MMH₂O)": "3.84",
+        "FAN NOISE (DBA)": "37",
+        "RATED TDP (WATTS)": "300",
+        "TUBE LENGTH (MM)": "400",
+        "AMD SOCKET SUPPORT": "AM3, AM4, AM5",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA115X, LGA1366, LGA20XX",
+        "WARRANTY": "3 Year Limited",
+        "Offer Price (INR)": "₹7,099.00",
+        "MRP (INR)": "₹13,899.00",
+        "SKU": "AESP0377"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GLACIUS)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Glacius-Series.msi"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-liquid-cooler-glacius-240d-argb-240mm-with-2-8-inch-lcd-display-black"
+  }
+}

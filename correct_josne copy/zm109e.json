@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "RFID",
+    "tab_id": "118203",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "RFID"
+    ]
+  },
+  "card_info": {
+    "product_id": "155270",
+    "product_name": "ZM109E",
+    "product_title": "RFID Card Issuer",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/zm109e",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/image/1_0_01_09_16301_811287463_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/zm109e.html",
+  "detail": {
+    "title": "RFID Card Issuer",
+    "model": "ZM109E",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite ZM109E RFID Card Issuer Key Points • Working frequency: 868MHz • Compliant with ISO 18000-6C • Read/Write Performance——Static: Recognition ≤10cm; Read Distance ≤10cm; ·Write Distance ≤10cm • Supporting RS232 and 10/100Base-T Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/image/1_0_01_09_16301_811287463_crop_thumb.PNG",
+        "alt": "ZM109E_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/image/1_0_01_09_16301_811287460_crop_thumb.PNG",
+        "alt": "ZM109E_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/image/1_0_01_09_16301_811287462_crop_thumb.PNG",
+        "alt": "ZM109E_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/image/1_0_01_09_16301_811287461_crop_thumb.PNG",
+        "alt": "ZM109E_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Air Interface Protocol": {},
+      "Antenna Polarization": {},
+      "Operating Frequency": {},
+      "Operating Frequency Accuracy": {},
+      "Read/Write Performance": {},
+      "Operating Voltage": {},
+      "Rated Power": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Atmospheric Pressure": {},
+      "Protection": {},
+      "MTBF": {},
+      "Communication Port": {},
+      "Power Consumption": {},
+      "Material": {},
+      "Certification": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/datasheet/DHI-ZM109E_datasheet_20260605.pdf"
+      },
+      {
+        "name": "2026-08-06 #User Manual Dahua RFID Card Issuer_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87894/user_manual/Dahua_RFID_Card_Issuer_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/zm109e"
+  }
+}

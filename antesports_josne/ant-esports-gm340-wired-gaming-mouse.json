@@ -1,0 +1,83 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM340 Wired Gaming Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315419713827",
+    "product_name": "GM340 Wired Gaming Mouse",
+    "product_title": "GM340 Wired Gaming Mouse",
+    "product_url": "https://antesports.com/products/ant-esports-gm340-wired-gaming-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_54fe019c-4b01-41e6-877c-823bd6d0c95d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-gm340-wired-gaming-mouse.html",
+  "detail": {
+    "title": "GM340 Wired Gaming Mouse",
+    "model": "AEPP0076",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM340 Wired Gaming Mouse is a premium gaming mouse designed to deliver excellent performance for gaming, work, and everyday use. Featuring Wired connectivity, up to 12800 DPI, and Multi-Colour lighting, it ensures reliability, durability, and compatibility with modern hardware. Whether you are upgrading your setup or building a new system, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers, creators, and professionals.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_54fe019c-4b01-41e6-877c-823bd6d0c95d.png",
+        "alt": "GM340 Wired Gaming Mouse - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Shape": "Right Handed",
+        "Total Buttons": "8 Buttons",
+        "Connectivity": "Wired",
+        "DPI": "12800",
+        "Tracking": "35 IPS",
+        "Lighting Type": "Multi-Colour",
+        "Connector Type": "USB-A",
+        "Software Support": "Yes (Windows Only)",
+        "Compatibility": "Windows, Linux, Mac",
+        "Switch Lifetime": "5M Clicks",
+        "SHAPE": "Right Handed",
+        "TOTAL BUTTONS": "8 Buttons",
+        "CONNECTIVITY": "Wired",
+        "TRACKING": "35 IPS",
+        "LIGHTING TYPE": "Multi-Colour",
+        "CONNECTOR TYPE": "USB-A",
+        "SOFTWARE SUPPORT": "Yes (Windows Only)",
+        "COMPATIBILITY": "Windows, Linux, Mac",
+        "SWITCH LIFETIME": "5M Clicks",
+        "Offer Price (INR)": "₹799.00",
+        "MRP (INR)": "₹2,799.00",
+        "SKU": "AEPP0076"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-gm340-wired-gaming-mouse"
+  }
+}

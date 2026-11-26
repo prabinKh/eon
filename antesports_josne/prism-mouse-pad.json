@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Prism Mouse Pad - 260x210mm"
+    ]
+  },
+  "card_info": {
+    "product_id": "10342289309987",
+    "product_name": "Prism Mouse Pad - 260x210mm",
+    "product_title": "Prism Mouse Pad - 260x210mm",
+    "product_url": "https://antesports.com/products/prism-mouse-pad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24_f90ec403-0eb6-47b5-8943-7021c7b094e8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/prism-mouse-pad.html",
+  "detail": {
+    "title": "Prism Mouse Pad - 260x210mm",
+    "model": "AEPP0248",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Prism Mouse Pad is built with a superfine fibre braided surface that lets a mouse glide smoothly and precisely, making it a good fit for both everyday office tasks and gaming sessions. Sized at 260 x 210 x 3mm, it's compact enough for any desk while still offering ample tracking room for laser and optical mice alike. A dense, slip-resistant rubber base holds the pad firmly in place during fast movements, and flat, comfortable stitched edges protect against fraying while resting easily under the wrist. Its waterproof coating means spills wipe away easily, keeping the surface looking fresh over time.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24_f90ec403-0eb6-47b5-8943-7021c7b094e8.png",
+        "alt": "Prism Mouse Pad - 260x210mm - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "260 x 210 x 3mm",
+        "Surface Material": "Superfine Fibre Braided",
+        "Base": "Non-Slip Rubber",
+        "Edges": "Stitched, Flat Finish",
+        "Compatibility": "Laser & Optical Mice",
+        "Color": "Black",
+        "DIMENSIONS": "260 x 210 x 3mm",
+        "SURFACE MATERIAL": "Superfine Fibre Braided",
+        "BASE": "Non-Slip Rubber",
+        "EDGES": "Stitched, Flat Finish",
+        "COMPATIBILITY": "Laser & Optical Mice",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹109.00",
+        "MRP (INR)": "₹499.00",
+        "SKU": "AEPP0248"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/prism-mouse-pad"
+  }
+}

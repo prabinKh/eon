@@ -1,0 +1,197 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Apartment Door Station",
+    "tab_id": "5777",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Apartment Door Station",
+      "Apartment Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "153000",
+    "product_name": "VTO9631Q",
+    "product_title": "IP Face Recognition Apartment Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/apartment-door-station/ultra-series/vto9631q",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/image/1_0_01_15_12799_774107398_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto9631q.html",
+  "detail": {
+    "title": "IP Face Recognition Apartment Door Station",
+    "model": "VTO9631Q",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO9631Q IP Face Recognition Apartment Door Station Key Points • 10.1-inch Touch Screen; Resolution: 800 (H) × 1280 (V) • Support Face, Password, and Card Unlock • 2 MP Low Illuminance Wide Dynamic Dual Camera • Card: 100,000; Face: 100,000 • Device Port: 2-Channel Alarm Input, 2-Channel Alarm Output, 1-Channel Wiegand, 1-Channel RS485, 2-Channel Locks (1 with Secure Mode) • Support Liveness Detection • IP65 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/image/1_0_01_15_12799_774107398_crop_thumb.png",
+        "alt": "VTO9631Q_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/image/1_0_01_15_12799_774107399_crop_thumb.png",
+        "alt": "VTO9631Q_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/image/1_0_01_15_12799_774107397_crop_thumb.png",
+        "alt": "VTO9631Q_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "RTP; SIP; DNS; SSH; RTSP; RTMP; FTP; HTTP/HTTPS; ONVIF"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "10.1-inch display screen",
+        "Screen Resolution": "800 (H) × 1280 (V)",
+        "Camera": "1/2.8\" 2 MP CMOS high-definition, low illumination, dual cameras",
+        "Field of View": "H: 65°; V: 40°; D: 73°",
+        "WDR": "DWDR",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720P/D1/WVGA; Sub stream: 1080P/720P/D1/WVGA/CIF/QVGA",
+        "Video Frame Rate": "PAL: 25 fps; NTSC: 30 fps",
+        "Video Bit Rate": "256 kbps–4,096 kbps",
+        "Light Compensation": "Auto IR",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Includes the built-in speaker and can be connected to active external speakers.",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Verification Method": "Remote; Face Recognition; Password; Card",
+        "Auto Snapshot": "Yes",
+        "Information Release": "Receive and view text information released by the management center.",
+        "Elevator Control": "Residents and visitors can call elevators. Permissions can also be granted to access floors through access control.",
+        "Leave Videos": "Yes (SD card inserted in VTO is needed)",
+        "Storage": "Supports Micro SD card (up to 128 GB)",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID": {
+        "Card Type": "IC card",
+        "Modulation Type": "ASK",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42 dBuA/m @10 m"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–4 cm (IC card)",
+        "Face Recognition Height Range": "1.2 m–2.0 m (3.94 ft–6.56 ft)",
+        "Face Recognition Distance": "0.3 m–1.5 m (0.98 ft–4.92 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s",
+        "Casing Material": "Tempered glass; Aluminum alloy"
+      },
+      "Capacity": {
+        "Card Capacity": "100,000",
+        "Face Image Capacity": "100,000",
+        "User Capacity": "200,000"
+      },
+      "Port": {
+        "RS-485": "1 channel",
+        "Wiegand": "1 channel",
+        "Alarm Input": "2 channels",
+        "Alarm Output": "2 channels",
+        "Power Output": "1 port (12 V, 700 mA)",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel, open by default",
+        "Network Port": "1 × 10 Mbps/100 Mbps Ethernet port"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance Color": "Black",
+        "Power Supply": "12 VDC, 3 A",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount; Flush Mount",
+        "Certifications": "CE",
+        "Accessory": "Power supply (optional); Flush mount box (optional); Surface Mounted (optional)",
+        "Product Dimensions": "294.9 mm × 162.5 mm × 25.0 mm (11.61\" × 6.40\" × 0.98\") (H × W × D)",
+        "Protection": "IP65 rated (Silicone sealant is required.)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Environment": "Outdoor",
+        "Operating Altitude": "0 m–1,300 m (0 ft–4,265.09 ft)",
+        "Power Consumption": "≤ 8 W (standby), ≤ 10 W (working). These two values of power consumption do not contain the output power.",
+        "Gross Weight": "1.61 kg (3.55 lb)",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "30%–75%"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-VTO9631Q_S0_datasheet_20250718.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Unit VTO_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82578/user_manual/Unit_VTO_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84192/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-04-16 #Drawings VTO9631Q_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84192/drawings/VTO7631Q_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2025-04-15 #Drawings VTO9631Q_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/drawings/VTO9631Q_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2025-04-15 #Drawings VTO9631Q_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/drawings/VTO9631Q_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-04-12 #Drawings VTO9631Q_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84193/drawings/VTO9631Q_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-18 #Firmware DH_VTO7-9-Freyja-A3_MultiLang_PN_V4.820.0000000.2.R.260707 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82577/firmware/DH_VTO7-9-Freyja-A3_MultiLang_PN_V4.820.0000000.2.R.260707.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/apartment-door-station/ultra-series/vto9631q"
+  }
+}

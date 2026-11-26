@@ -1,0 +1,169 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 7 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/ir-series",
+    "tab_title": "Dual-Sight",
+    "tab_id": "14057",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 7 Series",
+      "Dual-Sight"
+    ]
+  },
+  "card_info": {
+    "product_id": "103097",
+    "product_name": "IPC-MFW7442K1-Z7-T40",
+    "product_title": "4+4MP Dual-Sight Bullet WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/dual-sight/ipc-mfw7442k1-z7-t40",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_37359/ProductImage/1_0_01_04_37359_1347963838_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-mfw7442k1-z7-t40.html",
+  "detail": {
+    "title": "4+4MP Dual-Sight Bullet WizMind Network Camera",
+    "model": "IPC-MFW7442K1-Z7-T40",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-MFW7442K1-Z7-T40 4+4MP Dual-Sight Bullet WizMind Network Camera Key Points • Dual-Lens, Dual-Channel Design Simultaneously Captures Detail and Panoramic Views • CH 1: 4 MP@30fps; CH 2: 4 MP@30fps • CH 1: 8-56mm Motorized Vari-focal Lens; CH 2: 3.6mm Fixed Lens • Built-in Dual Mic & Speaker: Secure Real-Time Talk • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • Instant Sound and Light Alerts Deter Intruders & Reduce Incidents • Supports 5 AI Functions, Applicable for Multi-scenario Targets Detection and Analysis • Rich Interface: Alarm In/Out 3/2; Audio In/Out 2/1; RS-485; BNC; SD card Max. 256GB Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_37359/ProductImage/1_0_01_04_37359_1347963838_crop_thumb.png",
+        "alt": "IPC-MFW7442K1-Z7-T40_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_37359/ProductImage/1_0_01_04_37359_1347966921_crop_thumb.png",
+        "alt": "IPC-MFW7442K1-Z7-T40_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "General": {
+        "Image Sensor": "Channel 1: 1/1.7\" CMOS Channel 2: 1/2.7\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "Channel 1: 0.001 lux @F1.2(Color,30IRE) 0.0002 lux@F1.2(B/W,30IRE) 0 lux (Illuminator on) Channel 2: 0.002 lux @F1.0(Color,30IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": "> 56 dB",
+        "Illumination Distance": "Channel 1: 120 m (393.70 ft) (IR)80 m (262.47 ft) (warm light) Channel 2: 20 m (65.62 ft) (warm light)",
+        "Illuminator Number": "Channel 1: 4 (Mixed (IR + warm) light) Channel 2: 2 (warm LED)",
+        "Lens Type": "Channel 1: Motorized vari-focal Channel 2: Fixed-focal",
+        "Lens Mount": "Channel 1: Module Channel 2: M12",
+        "Focal Length": "Channel 1: 8 mm–56 mm Channel 2: 3.6 mm",
+        "Max. Aperture": "Channel 1: F1.2 Channel 2: F1.0",
+        "Field of View": "Channel 1: Horizontal: 40° (W)–9° (T) Vertical: 22° (W)–5° (T) Diagonal: 46° (W)–10° (T) Channel 2: Horizontal: 81° Vertical: 43° Diagonal: 95°",
+        "Close Focus Distance": "Channel 1: W: 1 m (3.28 ft); T: 2 m (6.56 ft) Channel 2: 2 m (6.56 ft)",
+        "DORI Distance": "Lens",
+        "W": "Channel 1: 8 mm–56 mm 151 m (495.41 ft) Channel 2: 3.6 mm 80 m (262.47 ft)",
+        "T": "Channel 1: 8 mm–56 mm 640 m (2,099.74 ft)",
+        "IVS": "Abandoned object; missing object",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire, fast moving (the three functions support the classification and accurate detection of vehicle and human); loitering detection, people gathering, and parking detection",
+        "Face Detection": "Face detection; track; snapshot; snapshot optimization; optimal face snapshot upload; face enhancement; face exposure; face attributes extraction including 6 attributes (gender, age, glasses, expressions, face mask, and beard) and 8 expressions (angry, sad, disgusted, scared, surprised, calm, happy, confused); face snapshot set as face or one-inch photo; snapshot strategies (real-time snapshot, quality priority and optimization snapshot); optimization time setting",
+        "Face Recognition": "Face detection; track; snapshot; snapshot optimization; optimal face snapshot upload; face enhancement; face exposure; face attributes extraction including 6 attributes (gender, age, glasses, expressions, face mask, and beard) and 8 expressions (angry, sad, disgusted, scared, surprised, calm, happy, confused); face snapshot set as face or one-inch photo; snapshot strategies (real-time snapshot, quality priority and optimization snapshot); optimization time setting. Dahua Face Recognition Technology extracts attributes from the captured face, compares it against the attributes in the face library, and then identifies the person. Management of 5 group face libraries,Max supports face contrast in face library with 25,000 faces",
+        "People Counting": "Tripwire people counting, people counting in area and queue management, generating and exporting report (day/month/year); 4 rules can be set for tripwire, people counting in area and queue management",
+        "Video Metadata": "Motor vehicle, non-motor vehicle, face, human detection; track; snapshot; snapshot optimization; optimal face snapshot upload. Motor vehicle attributes: license plate, vehicle type, vehicle color, vehicle logo, seatbelt, smoking, calling,etc. Non-motor vehicle attributes: type, color, number of people, top type and color ,helmet. Human body attributes: top/bottom type and color, bag, hat, gender, and umbrella. Face attributes: gender, age, expressions, glasses, face mask and beard.",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Channel 1: 50 Hz Main Stream: 2688 × 1520@25 fps Sub stream: 704 × 576@25 fps Third stream: 1920 × 1080@25 fps 60 Hz Main Stream: 2688 × 1520@30 fps Sub stream: 704 × 480@30 fps Third stream: 1920 × 1080@30 fps Channel 2: 50 Hz Main Stream: 2688 × 1520@25 fps Sub stream: 704 × 576@25 fps Third stream: 1920 × 1080@25 fps 60 Hz Main Stream: 2688 × 1520@30 fps Sub stream: 704 × 480@30 fps Third stream: 1920 × 1080@30 fps",
+        "Resolution": "Main Stream: 2688 × 1520 (default); 2560 × 1440; 2304 × 1296; 1920 × 1080; 1280 × 960; 1280 × 720 Sub Stream 1: 704 × 576 (default); 640 × 480; 352 × 288 Sub Stream 2: 1920 × 1080; 1280 × 720; 704 × 576 (default); 640 × 480",
+        "Video Bit Rate": "H.264: 32 kbps–8192 kbps H.265: 32 kbps–8192 kbps",
+        "Day/Night": "Channel 1: Auto(ICR)/Color/B/W Channel 2: Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Noise Reduction": "3D NR",
+        "Region of Interest (RoI)": "4 areas",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Defog": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688 × 1520 resolution and lower.)",
+        "Privacy Masking": "8 areas",
+        "Audio Compression": "PCM; G.711A; G.711Mu; G.726; MPEG2-Layer2; G.722.1; G.729; G.723",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; license plate recognition, people number error; tripwire; input error; intrusion; intensity change; fast moving; people counting; people gathering; motion detection; missing object; parking detection; loitering detection; defocus detection; face detection; abandoned object; stay detection; human detection; queuing stay time; people number error detection; face recognition; video tampering; scene changing",
+        "Network Port": "RJ-45 (10/100/1000 Base-T)",
+        "Network Protocol": "IPv4; IPv6; HTTP; HTTPS; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; 802.1x; SNMP; Bonjour",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T); CGI",
+        "User/Host": "20 (Total bandwidth: 160 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "Plug-in: IE: IE 9 and later Chrome: Chrome 86 and earlier Firefox: Firefox 86 and earlier Without Plug-in: Edge Chrome: Chrome 86 and later Firefox: Firefox 86 and later",
+        "Certifications": "CE-LVD: EN62368-1 CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU FCC: 47 CFR FCC Part 15, Subpart B",
+        "RS-485": "1 (baud rate range: 1200 bps–115200 bps)",
+        "Audio Input": "2 channels (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "3 channels in: 5 mA 3 V–5 VDC",
+        "Alarm Output": "2 channels out: 300 mA 12 VDC",
+        "Power Supply": "12 VDC/PoE",
+        "Power Consumption": "Basic: 5.5 W (12 VDC); 6.4 W (PoE) Max. (ICR + vari-focal + IR intensity): 19.2 W (12 VDC); 24.6 W (PoE)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to 140 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Protection": "IP67",
+        "Casing": "Metal + plastic",
+        "Product Dimensions": "283.1 mm × 123.2 mm × 109.5 mm (11.14\" × 4.85\" × 4.31\") (L × W × H)",
+        "Net Weight": "1,905 g (4.20 lb)",
+        "Gross Weight": "2,185 g (4.82 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-MFW7442K1-Z7-T40_S0_datasheet_20240423.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54247/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29827/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-11-08 #A&E Document IPC-MFW7442K1-Z7-T40_A&E_20260917185937 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29837/a_e_document/1789644098630.docx"
+      },
+      {
+        "name": "2021-09-27 #Drawings IPC-MFW7442K1-Z7-T40_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29827/drawings/IPC-MFW7442K1-Z4-T40_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-09-27 #Drawings IPC-MFW7442K1-Z7-T40_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29827/drawings/IPC-MFW7442K1-Z4-T40_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-03-28 #Firmware DH_IPC-HX5XXX-EMMC2-Volt_MultiLang_PN_Stream3_V2.840.0000000.30.R.250227 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3057937/M/DH_IPC-HX5XXX-EMMC2-Volt_MultiLang_PN_Stream3_V2.840.0000000.30.R.250227.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-7-series/dual-sight/ipc-mfw7442k1-z7-t40"
+  }
+}

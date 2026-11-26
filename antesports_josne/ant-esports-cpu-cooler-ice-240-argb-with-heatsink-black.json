@@ -1,0 +1,113 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Liquid Coolers",
+    "subcategory_url": "https://antesports.com/collections/liquid-coolers",
+    "series": "Liquid Coolers Series",
+    "series_url": "https://antesports.com/collections/liquid-coolers",
+    "tab_title": "Liquid Coolers",
+    "tab_id": "508173189411",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Liquid Coolers",
+      "ICE-240 Liquid Cooler ARGB - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420762403",
+    "product_name": "ICE-240 Liquid Cooler ARGB - Black",
+    "product_title": "ICE-240 Liquid Cooler ARGB - Black",
+    "product_url": "https://antesports.com/products/ant-esports-cpu-cooler-ice-240-argb-with-heatsink-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_efadecb3-33c2-4469-82cc-04085bf9140a.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-cpu-cooler-ice-240-argb-with-heatsink-black.html",
+  "detail": {
+    "title": "ICE-240 Liquid Cooler ARGB - Black",
+    "model": "AESP0220",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports  CPU Cooler ICE-240 ARGB With Heatsink - Black is a high-performance liquid CPU cooler built for gamers, creators, and PC enthusiasts. Featuring a 240mm radiator with dual ARGB fans, it delivers efficient heat dissipation for processors up to 250W TDP while maintaining reliable and quiet operation. Compatible with the latest Intel and AMD platforms, it offers excellent cooling performance, vibrant aesthetics, and dependable durability for modern PC builds. Backed by a 3 Year Limited, it is an ideal choice for new builds and system upgrades.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_efadecb3-33c2-4469-82cc-04085bf9140a.png",
+        "alt": "ICE-240 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_5c51d1f9-f7f9-4b66-99a2-415aff46802f.png",
+        "alt": "ICE-240 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_01eddb87-2739-4628-8378-a3a1aa2cd27a.png",
+        "alt": "ICE-240 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_862a8af1-1af9-4ed4-9f9c-301331a92bb7.png",
+        "alt": "ICE-240 Liquid Cooler ARGB - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Liquid Cooler",
+        "Radiator Size": "240mm",
+        "Radiator Thickness": "27mm",
+        "Display": "None",
+        "Pump Speed (RPM)": "2600",
+        "Pump Noise (dBA)": "23",
+        "Fans Included": "2 x 120mm",
+        "Fan Size (mm)": "120 x 120 x 25",
+        "Fan Speed (RPM)": "2000",
+        "Fan Airflow (CFM)": "72",
+        "Fan Static Pressure (mmH₂O)": "2.9",
+        "Fan Noise (dBA)": "32",
+        "Rated TDP (Watts)": "250",
+        "Tube Length (mm)": "425",
+        "AMD Socket Support": "FM1, FM2, AM2, AM2+, AM3, AM3+, AM4, AM5",
+        "Intel Socket Support": "LGA115X, LGA1200, LGA17XX, LGA18XX, LGA1366, LGA2066",
+        "Warranty": "3 Year Limited",
+        "PRODUCT TYPE": "Liquid Cooler",
+        "RADIATOR SIZE": "240mm",
+        "RADIATOR THICKNESS": "27mm",
+        "DISPLAY": "None",
+        "PUMP SPEED (RPM)": "2600",
+        "PUMP NOISE (DBA)": "23",
+        "FANS INCLUDED": "2 x 120mm",
+        "FAN SIZE (MM)": "120 x 120 x 25",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "72",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.9",
+        "FAN NOISE (DBA)": "32",
+        "RATED TDP (WATTS)": "250",
+        "TUBE LENGTH (MM)": "425",
+        "AMD SOCKET SUPPORT": "FM1, FM2, AM2, AM2+, AM3, AM3+, AM4, AM5",
+        "INTEL SOCKET SUPPORT": "LGA115X, LGA1200, LGA17XX, LGA18XX, LGA1366, LGA2066",
+        "WARRANTY": "3 Year Limited",
+        "Offer Price (INR)": "₹4,199.00",
+        "MRP (INR)": "₹6,499.00",
+        "SKU": "AESP0220"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-cpu-cooler-ice-240-argb-with-heatsink-black"
+  }
+}

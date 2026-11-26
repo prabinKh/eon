@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Managed Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/managed-switch",
+    "tab_title": "Managed Switch",
+    "tab_id": "16417",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Managed Switch",
+      "Managed Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "130427",
+    "product_name": "SG4010-2F",
+    "product_title": "10-Port Managed Desktop Gigabit Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/sg4010-2f",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11172/ProductImage/1_0_01_20_11172_396812671_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sg4010-2f.html",
+  "detail": {
+    "title": "10-Port Managed Desktop Gigabit Switch",
+    "model": "SG4010-2F",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11172/ProductImage/1_0_01_20_11172_396812671_crop_thumb.png",
+        "alt": "SG4010-2F",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/sg4010-2f"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Modules",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules",
+    "series": "Modules",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules",
+    "tab_title": "Modules",
+    "tab_id": "603",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Modules",
+      "Modules",
+      "Modules"
+    ]
+  },
+  "card_info": {
+    "product_id": "61917",
+    "product_name": "ASM101A",
+    "product_title": "Fingerprint Enrollment Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules/asm101a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210326/1_0_01_25_11209_1488406367_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asm101a.html",
+  "detail": {
+    "title": "Fingerprint Enrollment Reader",
+    "model": "ASM101A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASM101A Fingerprint Enrollment Reader Key Points • Fingerprint and Card Enrollment Reader • USB Communication • Plug and Play • Collect IC card (13.56MHz), ID card(125KHz) and Fingerprint Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210326/1_0_01_25_11209_1488406367_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210326/1_0_01_25_11209_1488406366_thumb.png",
+        "alt": "ASM101A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210326/1_0_01_25_11209_1488406365_thumb.png",
+        "alt": "ASM101A",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Product Type": "Capacitive fingerprint enrollment reader",
+        "Buzzer": "Yes",
+        "Casing": "PC/acrylic panel"
+      },
+      "Function": {
+        "Communication Mode": "ID card; IC card (Mifare card)",
+        "Prompt of Succeeded in Issuing Card": "Card issuer flashes green"
+      },
+      "Performance": {
+        "IC Card Encryption": "Yes",
+        "Card Reading Frequency": "13.56MHz/125KHz",
+        "Card Issuing Distance": "0 cm–5 cm (0\"–0.20\")",
+        "Fingerprint Sensor Type": "Capacitive fingerprint sensor",
+        "Fingerprint Recording Time": "1800 ms"
+      },
+      "General": {
+        "Power Supply": "5V 0.5A DC",
+        "Power Consumption": "Standby ≤ 1.0W, working ≤ 1.7W",
+        "Product Dimensions": "70 mm × 70 mm × 26 mm (2.76\" × 2.76\" × 1.02\") (L × W × H)",
+        "Packaging Dimensions": "110 mm × 97 mm × 90 mm (4.33\" × 3.82\" × 3.54\") (L × W × H, 1 in inner carton) 578 mm × 313 mm × 204 mm (22.76\" × 12.32\" × 8.03\") (L × W × H, carton)",
+        "Operating Temperature": "–20°C to +65°C (–4°F to +149°F)",
+        "Operating Humidity": "5%RH–95% (non-condensing)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.17 kg (0.37 lb)",
+        "Installation": "Desk mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASM101A_datasheet_20201216.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Fingerprint Enrollment Reader_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004913/202501/Fingerprint_Enrollment_Reader_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Fingerprint Enrollment Reader_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004913/202501/Fingerprint_Enrollment_Reader_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-01-30 #Drawings ASM101A_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/11737/Drawings/ASM101A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2021-01-30 #Drawings ASM101A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35877/drawings/ASM101A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules/asm101a"
+  }
+}

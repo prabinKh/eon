@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Display & Control",
+    "category_url": "https://www.dahuasecurity.com/products/display-&-control",
+    "subcategory": "LED Displays",
+    "subcategory_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays",
+    "series": "Rental LED Display",
+    "series_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays/rental-led-display",
+    "tab_title": "Rental LED Display",
+    "tab_id": "18167",
+    "breadcrumbs": [
+      "Display & Control",
+      "LED Displays",
+      "Rental LED Display",
+      "Rental LED Display"
+    ]
+  },
+  "card_info": {
+    "product_id": "155661",
+    "product_name": "PHRIA3.91-RH",
+    "product_title": "Ultimate Lightweight Indoor Rental LED Display",
+    "product_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays/rental-led-display/phria3.91-rh",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20260824/RH-Series_Front_H_Indoor-Curve-Cabinet4_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "display-&-control/products/phria3-91-rh.html",
+  "detail": {
+    "title": "Ultimate Lightweight Indoor Rental LED Display",
+    "model": "PHRIA3.91-RH",
+    "brand": "Dahua",
+    "overview": "New Favourite PHRIA3.91-RH Ultimate Lightweight Indoor Rental LED Display Key Points > Die-cast magnesium cabinet,Ultimate lightweight design: 6.4kg/panel. > Turn on the power box with one click, One step to achieve one-hand operated. > 500x500mm and 500x1000mm cabinet size design,Flexibly adapt to multiple scenarios. > Optional curve lock design, enable -10° ~10° at every 2.5° step, Support ±10°,±7.5°,±5°,±2.5°,0°. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20260824/RH-Series_Front_H_Indoor-Curve-Cabinet4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "Model": {
+        "Model": "DHI-PHRIA3.91-RH"
+      },
+      "Parameters": {
+        "Pixel Pitch": "3.906mm",
+        "Pixel Configuration": "1R1G1B",
+        "LED Type": "SMD2020",
+        "Brightness (Max)": "1000 nit",
+        "Color Temperature": "6500K-9300K (adjustable)",
+        "Viewing Angle": "H160° / V160°",
+        "Pixel Density": "65,536 dots/m²",
+        "Module Size": "W250mm×H250mm",
+        "Module Resolution": "64x64 dots",
+        "Cabinet Size": "W500mm×H500mm×D75mm",
+        "Cabinet Resolution": "128×128 dots",
+        "Cabinet Weight": "6.4 kg ± 0.5kg",
+        "Cabinet Material": "Die-cast Magnesium",
+        "Operating Temperature/Humidity": "-10℃~+40℃/10~80%RH",
+        "Storage Temperature/Humidity": "-20℃~+60℃/10~80%RH",
+        "IP Rating": "Front IP20/Rear IP20",
+        "Aspect Ratio": "1:1",
+        "Gray Scale": "16 bits",
+        "Contrast Ratio": "5000:1",
+        "Refresh Rate": "7680Hz",
+        "Input Voltage": "AC 110~220V (+/-10%)",
+        "Input Power (max)": "510 W/m2",
+        "Input Power (Avg)": "210 W/m2",
+        "Installation Mode": "Hanging/Stacking",
+        "Module Maintenance": "Front/Rear Maintenance",
+        "PSU & Others Maintenance": "Rear Maintenance",
+        "Signal Transmission Distance": "CAT5 Cable ( L≤100m ), Multi-mode fiber ( L≤300m ), Single-mode fiber (L≤10km)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20260824/DHI-PHRIA3.91-RH_500mm500mmDatasheet20260707.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays/rental-led-display/phria3.91-rh"
+  }
+}

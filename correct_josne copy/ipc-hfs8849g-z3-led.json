@@ -1,0 +1,187 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 8 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series",
+    "tab_title": "High Temperature Tolerance Series",
+    "tab_id": "14847",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 8 Series",
+      "High Temperature Tolerance Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "114607",
+    "product_name": "IPC-HFS8849G-Z3-LED",
+    "product_title": "8MP High Temperature Tolerance WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/high-temperature-tolerance-series/ipc-hfs8849g-z3-led",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39389/ProductImage/1_0_01_04_39389_97234394_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfs8849g-z3-led.html",
+  "detail": {
+    "title": "8MP High Temperature Tolerance WizMind Network Camera",
+    "model": "IPC-HFS8849G-Z3-LED",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFS8849G-Z3-LED 8MP High Temperature Tolerance WizMind Network Camera Key Points • 8MP 1/1.2\" CMOS Sensor Ensures Premium Images • 12-36mm Motorized Vari-focal Lens • Intelligent Temperature Control System Automates Operation in High-temperature Zones • Works 24/7 in a 75°C (167°F) environment and for 12-hour periods in 85°C (185°F) • 5 Streams for Diverse Application Needs • Supports 5 AI Functions, Applicable for Multi-scenario Targets Detection and Analysis • Advanced Technologies: Time-Division Exposure and Hyper DoF, Ensure Superior Image Quality • IP67 Protection, Suitable for Outdoor Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39389/ProductImage/1_0_01_04_39389_97234394_crop_thumb.png",
+        "alt": "IPC-HFS8849G-Z3-LED_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39389/ProductImage/1_0_01_04_39389_97234810_crop_thumb.png",
+        "alt": "IPC-HFS8849G-Z3-LED_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39389/ProductImage/1_0_01_04_39389_115909391_crop_thumb.png",
+        "alt": "IPC-HFS8849G-Z3-LED_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.2\" CMOS",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "ROM": "8 GB",
+        "RAM": "4 GB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.0003 lux@F1.2(Color, 30 IRE) 0.0001 lux@F1.2 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "80 m (262.47 ft) (warm light)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "6 (warm light)",
+        "Lens Type": "Motorized vari-focal",
+        "Lens Mount": "CS",
+        "Focal Length": "12 mm–36 mm",
+        "Max. Aperture": "F1.2",
+        "Field of View": "H: 50°–17°; V: 28°–9°; D: 58°–19°",
+        "Iris Control": "Auto",
+        "Close Focus Distance": "1 m (3.28 ft)",
+        "DORI Distance": "Lens",
+        "W": "176.5 m (579.07 ft)",
+        "T": "503.4 m (1651.57 ft)",
+        "IVS": "Abandoned object; missing object",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire, fast moving (the three functions support the classification and accurate detection of vehicle and human); loitering detection, people gathering, and parking detection",
+        "Face Detection": "Face detection; track; snapshot; snapshot optimization; optimal face snapshot upload; face enhancement; face exposure; face attributes extraction including 6 attributes (gender, age, glasses, expressions, mask, and beard) and 8 expressions (angry, sad, disgusted, scared, surprised, calm, happy, confused); face snapshot set as face or one-inch photo; snapshot strategies (real-time snapshot, quality priority and optimization snapshot); face angle filter; optimization time setting.",
+        "Face Recognition": "Face detection; track; snapshot; snapshot optimization; optimal face snapshot upload; face enhancement; face exposure; face attributes extraction including 6 attributes (gender, age, glasses, expressions, mask, and beard) and 8 expressions (angry, sad, disgusted, scared, surprised, calm, happy, confused); face snapshot set as face or one-inch photo; snapshot strategies (recognition priority and optimization snapshot); face angle filter; optimization time setting. Supports adding 5 group face databases; registering person one by one or in batches; setting face similarity; and supports face comparison with the face database containing up to 100,000 face pictures.",
+        "People Counting": "Tripwire people counting and people counting in area, generating and exporting report (day/month/year); queue management, generating and exporting report (day/month); 4 rules can be set for tripwire, people counting in area and queue management",
+        "Video Metadata": "Motor vehicle, non-motor vehicle, face, and human body detection; snapshot; snapshot optimization; optimal face snapshot upload. Motor vehicle attributes: License plate, plate color, vehicle color, vehicle logo, vehicle year, sun visor, seatbelt, smoking, calling, ornament, and annual inspection sticker and more. Non-motor vehicle attributes: Type, vehicle color, number of people, top type and color, and hat. Human body attributes: Top and bottom type and color, bag, hat, and gender. Face attributes: Gender, age, expressions, glasses, face mask, and bread.",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Main Stream: 3840 × 2160@(1–25/30 fps) sub stream: 1920 × 1080@(1–25/30 fps) third stream: 1920 × 1080@(1–25/30 fps) fourth stream: 1920 × 1080@(1–25/30 fps) fifth stream: 704 × 576@(1–25 fps); 704 × 480@(1–30 fps)",
+        "Stream Capability": "5 streams",
+        "Resolution": "8M (3840 × 2160); 6M (3072 × 2048/3072 ×1728); 5M (2592 × 1944); 4M (2688 × 1520); 3M (2048 × 1536/2304 × 1296); 1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–16384 kbps; H.265: 12 kbps–14050 kbps",
+        "Day/Night": "Color",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto; Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Smart Illumination": "Yes",
+        "Defog": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 4M resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Time-Division Exposure": "Yes",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; MPEG2-Layer2; G.722.1; G.729",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; fast moving; abandoned object; missing object; loitering detection; people gathering; parking detection; scene changing; audio detection; voltage detection; defocus detection; external alarm; face detection; face recognition; people counting in area; people counting; people number error detection; security exception",
+        "Network Port": "RJ-45 (10/100/1000 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; SNMP",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T); CGI; Milestone",
+        "User/Host": "20",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE: IE 11 and earlier; Chrome: 88.0.4324.190 and earlier; Firefox: 47.0.2 and earlier",
+        "Management Software": "Smart PSS; DSS; PMS",
+        "Mobile Client": "iOS; Android",
+        "Cyber Security": "Configuration encryption; trusted execution; Digest; security logs; WSSE; account lockout; syslog; video encryption; 802.1x; IP/MAC filtering; HTTPS; trusted upgrade; trusted boot; firmware encryption; generation and importing of X.509 certification",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU FCC: 47 CFR FCC Part 15, Subpart B",
+        "RS-485": "1 (baud rate range:1200 bps–115200 bps)",
+        "Audio Input": "2 channels (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "3 channels in: 5 mA 3–5VDC",
+        "Alarm Output": "2 channels out: 1,000 mA 30VDC/500 mA 50VAC",
+        "Power Supply": "100–240 VAC 0.6 A",
+        "Power Consumption": "Basic: 22.5 W (220 V) Max. (Basic+ WDR+ Intelligence on + Illuminator on + Lens switching): 26 W (220 V)",
+        "Operating Temperature": "–30 °C to +75 °C (–22 °F to +167 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +75 °C (–22 °F to +167 °F)",
+        "Protection": "IP67",
+        "Casing Material": "Metal + plastic",
+        "Product Dimensions": "513.14 mm × 177.09 mm × 190.7 mm (20.20\" × 6.97\" × 7.50\") (L × W × H)",
+        "Net Weight": "4.8 kg (10.58 lb)",
+        "Gross Weight": "6.45 kg (14.22 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HFS8849G-Z3-LED_datasheet_20220928.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54257/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61167/user_manual/Dahua_Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-07-30 #A&E Document IPC-HFS8849G-Z3-LED_A&E_20260917210220 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50577/a_e_document/1789650675896.docx"
+      },
+      {
+        "name": "2022-08-08 #Drawings IPC-HFS8849G-Z3-LED_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61167/drawings/1_0_01_04_39387_118556978.pdf"
+      },
+      {
+        "name": "2022-08-01 #Drawings IPC-HFS8849G-Z3-LED_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61167/drawings/1_0_01_04_39387_112061077.pdf"
+      },
+      {
+        "name": "2026-09-14 #Firmware DH_IPC-HX8(7)XXX-TJ-Faraday_MultiLang_PN_V3.146.0000000.66.R.260829 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50567/firmware/DH_IPC-HX8(7)XXX-TJ-Faraday_MultiLang_PN_V3.146.0000000.66.R.260829.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/high-temperature-tolerance-series/ipc-hfs8849g-z3-led"
+  }
+}

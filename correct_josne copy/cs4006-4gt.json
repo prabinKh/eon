@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Cloud Managed Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "series": "Cloud Managed Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "tab_title": "Cloud Managed Switches",
+    "tab_id": "15717",
+    "breadcrumbs": [
+      "Transmission",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "146082",
+    "product_name": "CS4006-4GT",
+    "product_title": "6-Port Cloud Managed Desktop Gigabit Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/cs4006-4gt",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11471/ProductImage/1_0_01_20_11471_542477865_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/cs4006-4gt.html",
+  "detail": {
+    "title": "6-Port Cloud Managed Desktop Gigabit Switch",
+    "model": "CS4006-4GT",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11471/ProductImage/1_0_01_20_11471_542477865_crop_thumb.png",
+        "alt": "CS4006-4GT",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/cs4006-4gt"
+  }
+}

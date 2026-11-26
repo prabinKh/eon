@@ -1,0 +1,174 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Active Deterrence Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series",
+    "tab_title": "TiOC",
+    "tab_id": "10457",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Active Deterrence Series",
+      "TiOC"
+    ]
+  },
+  "card_info": {
+    "product_id": "105927",
+    "product_name": "HAC-ME1239TH-A-PV",
+    "product_title": "2MP Smart Dual Light Active Deterrence HDCVI Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/tioc/1080p/hac-me1239th-a-pv=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230421/HAC-ME1509TH-A-PV_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-me1239th-a-pv-s2.html",
+  "detail": {
+    "title": "2MP Smart Dual Light Active Deterrence HDCVI Bullet Camera",
+    "model": "HAC-ME1239TH-A-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-ME1239TH-A-PV 2MP Smart Dual Light Active Deterrence HDCVI Bullet Camera Key Points • High-Quality Imaging with 1080P Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • 40m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • Built-in Red & Blue Warning Lights and Multiple Alarm Sounds for Active Deterrence • 3DNR & 130dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230421/HAC-ME1509TH-A-PV_11_thumb.png",
+        "alt": "HAC-ME1239TH-A-PV_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220428/m1_thumb.png",
+        "alt": "HAC-ME1239TH-A-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220428/m3_thumb.png",
+        "alt": "HAC-ME1239TH-A-PV_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220428/m2_thumb.png",
+        "alt": "HAC-ME1239TH-A-PV_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Pixel": "2 MP",
+        "Image Sensor": "2 MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "Min. Illumination": "0.001 lux@F1.6 (Color, 30 IRE) 0.0001 lux@F1.6 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "IR: 40 m (131.23 ft) Warm light: 40 m (131.23 ft)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "2 (IR light) 2 (Warm light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm 3.6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "2.8 mm: H: 108°; V: 58°; D: 127° 3.6 mm: H: 86°; V: 46°; D: 101°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 0.7 m (2.29 ft) 3.6 mm: 1.1 m (3.61 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "42.2 m (138.45 ft)",
+        "3.6 mm": "53.7 m (176.18 ft)"
+      },
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; AHD: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; TVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; CVBS: PAL: 960 × 576H; NTSC: 960 × 480H",
+        "Resolution": "1080p (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "BLC; HLC; WDR",
+        "WDR": "130 dB",
+        "White Balance": "Auto; Area white balance",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Smart Illumination": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 areas, rectangle)",
+        "Illuminator": "Smart IR&WL WL Mode; IR Mode"
+      },
+      "Active Deterrence": {
+        "Sound Warning": "Audio1: alarm Audio2: No parking here Audio3: Private land no entry. Audio4: Warning zone keep off Audio5: Welcome Volume: high/medium/low; duration: 5 s–60 s; 110 dB",
+        "Red/Blue Light Warning": "Flash: 5 s–60 s; frequency: high/medium/low"
+      },
+      "Certification": {
+        "Certifications": "CE (EN55032:2015, EN61000-3-2:2014, EN61000-3-3:2013, EN55024:2010+A1:2015, EN55035:2017, EN50130-4:2011+A1:2014, EN62368-1:2014+A11:2017) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL62368-1+CAN/CSA C22.2 No.62368-1-14)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel built-in MIC (-A)"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 30% (It is recommended to use a power adapter to supply the power for one camera)",
+        "Power Consumption": "Max 7.6 W (12 VDC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Protection": "IP67"
+      },
+      "Structure": {
+        "Casing Material": "Metal front cover + plastic rear barrel + metal bracket",
+        "Product Dimensions": "240.7 mm × Φ90.7 mm (9.48\" × Φ3.57\")",
+        "Packaging Dimensions": "299 mm × 119 mm × 111 mm (11.77\" × 4.69\" × 4.37\")",
+        "Net Weight": "0.44 kg (0.97 lb)",
+        "Gross Weight": "0.70 kg (1.54 lb)",
+        "Installation": "Wall mount; ceiling mount; vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-ME1239TH-A-PV_S2_datasheet_20230722.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2022-01-14 #Drawings HAC-ME1239TH-A-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31617/drawings/HAC-HFW1231TM-I8-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-01-14 #Drawings HAC-ME1239TH-A-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31617/drawings/HAC-HFW1231TM-I8-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/tioc/1080p/hac-me1239th-a-pv=s2"
+  }
+}

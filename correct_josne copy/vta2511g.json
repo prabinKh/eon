@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Emergency Phone Terminals",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/emergency-phone-terminals",
+    "series": "Emergency Phone Terminals",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/emergency-phone-terminals/emergency-phone-terminals",
+    "tab_title": "Emergency Phone Terminals",
+    "tab_id": "13047",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Emergency Phone Terminals",
+      "Emergency Phone Terminals",
+      "Emergency Phone Terminals"
+    ]
+  },
+  "card_info": {
+    "product_id": "138367",
+    "product_name": "VTA2511G",
+    "product_title": null,
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/emergency-phone-terminals/emergency-phone-terminals/vta2511g",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231129/VTA2511G_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vta2511g.html",
+  "detail": {
+    "title": "VTA2511G",
+    "model": "VTA2511G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTA2511G Key Points • One-Click Help • Built-In High-Sensitivity Microphone with Clear Sound and 2 Speakers • Supports Audio Broadcast and Group Broadcast • PoE Power Supply • Supports 12V/1A Power Output • IP65 & IK10 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231129/VTA2511G_thumb.png",
+        "alt": "VTA2511G_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Button Type": "Mechanical",
+        "Network Protocol": "UDP; TCP; IPv4; RTSP; SIP; P2P; RTP"
+      },
+      "Basic": {
+        "Audio Compression": "G.711a; G.711Mu; G.711u; PCM; MP3; G726",
+        "Audio Input": "Built-in dual-way silicon microphone, external 3.5 mm audio input",
+        "Audio Output": "Built-in dual speaker, external active speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz, 16 Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital"
+      },
+      "Performance": {
+        "Casing Material": "Aluminum alloy"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "2",
+        "Alarm Output": "2",
+        "Power Output": "2 (12 V/1 A;12 V/200 mA)",
+        "Network Port": "2 × 10 M/100 M ports"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance Color": "Silver",
+        "Power Supply": "12 VDC, 3 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Surface mount box (optional)",
+        "Product Dimensions": "190.0 mm × 120.0 mm × 42.0 mm (7.5\" × 4.7\" × 1.7\")",
+        "Protection": "IP65; IK10",
+        "Operating Temperature": "–30 °C to +60 °C (-22 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Environment": "Outdoor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTA2511G_datasheet_20231116.pdf"
+      },
+      {
+        "name": "2026-06-09 #User Manual Emergency Call Terminal_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78257/user_manual/Emergency_Call_Terminal_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-11-03 #Drawings VTA2511G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78277/drawings/VTA2511G_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-08-31 #Drawings VTA2511G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78257/drawings/VTA2501G_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-11-10 #Drawings VTA2511G_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78257/drawings/VTA2501G_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2026-03-31 #Firmware DH_VTAX5XXG_Eng_NP_V4.300.0000000.6.R.260321 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78257/firmware/DH_VTAX5XXG_Eng_NP_V4.300.0000000.6.R.260321.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/emergency-phone-terminals/emergency-phone-terminals/vta2511g"
+  }
+}

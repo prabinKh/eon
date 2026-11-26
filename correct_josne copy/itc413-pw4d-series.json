@@ -1,0 +1,227 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "118127",
+    "product_name": "ITC413-PW4D Series",
+    "product_title": "Dahua Access ANPR Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/access-anpr-cameras/itc413-pw4d-series",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221208/ITC413-PW4D-Series_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc413-pw4d-series.html",
+  "detail": {
+    "title": "Dahua Access ANPR Camera",
+    "model": "ITC413-PW4D Series",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC413-PW4D Series Dahua Access ANPR Camera Key Points • 120+ countries license plate recognition with high accuracy ≥ 98% (EU) & 96% (others) • See better: 4MP, F1.4/F1.6 mega-aperture captures 99%+ of vehicles in any light conditions • Safer & Secure: Instantly spot unauthorized vehicles and identify critical details like vehicle brand, color, license status. • Auto-Sync Parking Access: Remote controller for easier operation, unified I/O control for barriers & electric gates, wiegand interface for access control integration. • Auto-Threat Alert: Tri-Sensor defense (light+siren+speaker) for site-wide security. • Deployment-Ready: camera, bracket, junction box in one. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221208/ITC413-PW4D-Series_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221208/ITC413-PW4D-Series_2_thumb.png",
+        "alt": "ITC413-PW4D Series",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Image Resolution": "2688 × 1520",
+        "Electronic Shutter Speed": "Auto/Manual 1/25 s–1/100,000 s",
+        "Max. Detection Speed": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1:80 km/h DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3:120 km/h",
+        "Min. Illumination": "DHI-ITC413-PW4D-Z1,DHI-ITC413-PW4D-IZ1: 0.0004 Lux@F1.4 (Color, 30 IRE); 0.0001 Lux@F1.4 (B/W, 30 IRE); 0 Lux (Illuminator on) DHI-ITC413-PW4D-Z3,DHI-ITC413-PW4D-IZ3: 0.001 Lux@F1.6 (Color, 30 IRE); 0.0002 Lux@F1.6 (B/W, 30 IRE); 0 Lux (Illuminator on)",
+        "ROM": "4 GB",
+        "RAM": "1 GB",
+        "S/N Ratio": ">56 dB",
+        "Scanning System": "progressive scanning",
+        "Focal Length": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1: 2.7 mm–12 mm DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3: 8 mm–32 mm",
+        "Field of View": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1: H: 92° (W)—46.1° (T) V: 49° (W)—26.0° (T) D: 109° (W)—52.8° (T) DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3: H: 39.9° (W)—15.1° (T) V: 21.8° (W)—8.5° (T) D: 46.6° (W)—17.4° (T)",
+        "Focus Control": "Auto, area focus, manual",
+        "Number of Lens": "1",
+        "Lens Type": "Motorized Vari-focal",
+        "Max. Aperture": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1:1.4 DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3:1.6",
+        "Iris Control": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1:DC-Iris DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3:P-Iris",
+        "DORI Distance": "Lens",
+        "W: (DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1)": "60.4 m (198.16 ft)",
+        "T: (DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1)": "128.7 m (422.24 ft)",
+        "W: (DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3)": "160.0 m (524.93 ft)",
+        "T: (DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3)": "406.9 m (1334.97 ft)"
+      },
+      "Illuminator": {
+        "Illuminator Number": "4",
+        "Illuminator On/Off Control": "Auto, manual",
+        "Illuminator Type": "DHI-ITC413-PW4D-IZ1, DHI-ITC413-PW4D-IZ3:IR (850 nm) DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-Z3:Dual Illuminators (730 nm IR/warm light)",
+        "Illumination Distance": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1: ANPR: 10 m (32.81 ft) Video monitoring: 30 m (98.43 ft) DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3: ANPR: 30 m (98.43 ft) Video monitoring: 60 m (196.85 ft)",
+        "Smart Illumination": "According to the brightness of the environment, the camera automatically adjusts the intensity of its light to reveal the details of moving targets. Devices with warm light can automatically adjust the light intensity according to the time.",
+        "Infrared Wavelength": "DHI-ITC413-PW4D-IZ1, DHI-ITC413-PW4D-IZ3:850 nm DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-Z3:730 nm"
+      },
+      "Video": {
+        "Video Resolution": "Main stream: 4M (2688 × 1520)/1080p (1920 × 1080)/720p (1280 × 720) Sub stream: 720p (1280 × 720)/960H (960 × 576, 960 × 480)/D1 (704 × 576, 704 × 480)/CIF (352 × 288, 352 × 240)",
+        "Stream": "PAL: Main stream (2688 × 1520@25 fps, 1920 × 1080@25 fps, 1280 × 720@25 fps), sub stream (1280 × 720@25 fps, 960 × 576@25 fps, 704 × 576@25 fps, 352 × 288@25 fps); NTSC: Main stream (2688 × 1520@30 fps, 1920 × 1080@30 fps, 1280 × 720@30 fps), sub stream (1280 × 720@30 fps, 960 × 480@30 fps, 704 × 408@30 fps, 352 × 240@30 fps)",
+        "Video Compression": "H.264H; H.264B; H.264M by default; H.265; MJPEG; H.264M",
+        "Video Bit Rate": "H.264B: 2,179 kbps–13,074 kbps H.264M: 2,179 kbps–13,074 kbps H.264H: 2,179 kbps–13,074 kbps H.265: 2,179 kbps–13,074 kbps MJPEG: 6,537 kbps–39,223 kbps",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "Gain Control": "Manual; Auto",
+        "Noise Reduction": "3D NR",
+        "Region of Interest (RoI)": "Yes, 3",
+        "Image Tampering Prevention": "Yes. Watermarks can be added to videos and images. The watermark can also be verified.",
+        "Bit Rate Control": "CBR; VBR",
+        "Storage": "Bult-in TF card port. Supports Kingston 16 G, 32 G, 128 G, 256 G; Dahua card 16 G, 32 G, 128 G, 256 G; SanDisk 16 G, 32 G, 128 G, 256 G",
+        "Restricted List/Trusted List": "Allowlist: 110,000 Blocklist: 110,000",
+        "IVS": "Intrusion detection, loitering detection, up to 4 areas can be set.",
+        "Basic Event": "Alarms for events of defocus, no storage card, storage card no space, storage card error, network disconnection, IP conflict, and illegal access.",
+        "Sound and Light Alarm": "Yes, blue & red indicator, and supports broadcasting custom audio.",
+        "Alarm Linkage": "Upload to FTP/Memory card, notify monitoring center, send e-mail, trigger alert output, snapshot and active deterrence",
+        "Automatic Network Replenishment (ANR)": "Yes, platform/FTP",
+        "Capture Distance": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1: 3 m–8 m (9.84 ft–26.25 ft) DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3: 8 m–30 m (26.25 ft–98.43 ft)",
+        "Detected Width": "DHI-ITC413-PW4D-Z1, DHI-ITC413-PW4D-IZ1: 3 m–4 m (9.84 ft–13.12 ft) DHI-ITC413-PW4D-Z3, DHI-ITC413-PW4D-IZ3: 6 m–8 m (19.69 ft–26.25 ft)",
+        "Network Protocol": "HTTP; Https; 802.1x; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; IPv4/v6; NTP; SFTP;DDNS; SNMP; PPPoE",
+        "API": "Yes",
+        "SDK": "Yes",
+        "Interoperability": "ONVIF (Profile S/Profile T/Profile M); CGI; ITSAPI; P2P",
+        "Management Software": "DSS Pro; DSS Express; Cybercity; Smart PSS;DMSS",
+        "Security": "Username and password; MAC address; HTTPS; IEEE 802.1x; network access control",
+        "Browser": "Plug in: IE 9, 10, 11. Chrome 52 and earlier versions Firefox 42 and earlier versions No plug in: Chrome 92 and later versions",
+        "Image Encoding Format": "JPEG",
+        "Image Setting": "Brightness; contrast; saturation; gamma; sharpness; gain; white balance",
+        "Day/Night": "IR filter, support three modes: color/B/W/auto",
+        "WDR": "140 dB",
+        "HLC": "Yes",
+        "BLC": "Yes",
+        "White Balance": "Auto; Regional Custom; Manual; Outdoor; Natural; Street Lamp",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "OSD Overlay": "Supports overlay of time; address (position of channel), lane (number/direction), plate (number and color), vehicle (color, type)",
+        "Audio Port": "Yes",
+        "Built-in MIC": "Yes; Pick-up distance: 3 m (9.84 ft), Sampling Rate: 48 k.",
+        "Built-in Speaker": "Yes; Power: 2 W",
+        "Audio Output": "1 channel (RCA port)",
+        "Network Port": "RJ-45 (10/100 Mbps Ethernet port)",
+        "Alarm Input": "2, optocoupler input (wet node on-off value: 5 V)",
+        "Alarm Output": "2, relay output (2A 30 VDC/0.5A 125 VAC), which can connect to devices such as barriers",
+        "RS-485": "2 (half duplex,Transparent,DHRS,Push Data through Serial Port)",
+        "Reset Button": "Yes",
+        "Wiegand": "1 channel, SHA-1 26 bit",
+        "Maximum Number of Passed Vehicles": "10,000",
+        "Max. Number of Connections": "10",
+        "AI Recognition": "Recognizes vehicle types, vehicle signs, vehicle color, vehicle plate, plate, vehicle without plate.",
+        "Video Metadata": "Displays the intelligent frame, plate and vehicle paths.",
+        "Vehicle Brand": "Recognizes 147 vehicle logos.",
+        "Vehicle Color": "Recognizes 12 colors: Grey, black, white, silver, blue, green, purple, red, orange, pink, brown, and yellow.",
+        "Vehicle Type Recognition": "Recognizes 10 vehicle types: Large Bus, Heavy Truck, Medium Truck, Sedan, Van, Light Truck, Medium Bus, SUV, MPV, Pickup",
+        "Country and Region Supported by ANPR": "Baseline support: 10 options (85 countries) General: Supports universal characters GCC (U.A.E., Saudi Arabia, Morocco, Oman, Iraq, Egypt, Jordan, Qatar, Kuwait, Bahrain, Lebanon) South Africa: South Africa, Tanzania, Mozambique, Zambia, Uganda, Equatorial Guinea, Mauritius, Kenya South Asia Region (India Region) : India, Maldives Europe (Netherlands, France, Germany, Britain, Italy, Poland, Belgium, Bulgaria, Serbia, Slovakia, Spain, Denmark, Turkey, Israel, Czech Republic, Bosnia and Herzegovina, Switzerland, Austria, Hungary, Romania, Lithuania, Latvia, Sweden, Estonia, Portugal, Greece, Slovenia, Luxembourg, Palestine, Lebanon, Ireland, Finland, Norway, Croatia, North Macedonia) South American Economies Collection (Uruguay, Paraguay, Brazil, Argentina, Chile, Colombia, Peru, Ecuador, Guyana, Bolivia ) Mexico and other countries: Mexico, Costa Rica, Curacao, Guatemala Eurasian Collection (Russia, Ukraine, Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan, Moldova, Georgia, Azerbaijan, Turkmenistan) North America (United States, Canada) North Africa Region Collection: Tunisia, Morocco, Algeria, Libya The baseline algorithm is supported for the following 19 countries: Republic of Korea, Indonesia, Singapore, Cambodia, Australia, Thailand, Bassett, Nigeria, Pakistan, Viet Nam, Mongolia, Bangladesh, Myanmar, Philippines, Laos, Iraq, Japan, Maldives, Nepal",
+        "Capture Rate": "In the recommended installation and lighting condition, the vehicle capture rate ≥ 99%",
+        "Recognition Rate": "In the recommended installation and lighting condition, the recognition rate for positive and departing vehicles≥ 96%; the recognition rate for European vehicle plates ≥ 98%",
+        "Sub 1G Modulation Type": "FSK",
+        "Sub 1G Frequency Range": "433.82–434.02 MHz; 868.2–868.4 MHz",
+        "Sub 1G Power Transmission": "433.82–434.02 MHz@10 dBm; 868.2–868.4 MHz@10 dBm",
+        "Remote control": "Yes",
+        "Communication Band": "433 MHz; 868 MHz",
+        "Remote Control Distance": "15 m (49.21 ft) (In an open, undisturbed environment)",
+        "Power Supply": "12 VDC, 2 A and POE:802.3at,Type 2,Class 4,(44V to 57V), 0.455A to 0.351A,max.20W",
+        "Power Consumption": "Power consumption in different conditions: No lighting < 6 W Lighting <12 W Speaker and Red/Blue Light Warning on < 17 W",
+        "Protection": "IK10; IP67",
+        "Material": "Aluminum alloy body+Plastic",
+        "Product Dimensions": "395.0 mm × 120.8 mm × 127.8 mm (15.55\" × 4.76\" × 5.03\") (L × W × H)",
+        "Packaging Dimensions": "447.0 mm × 240.0 mm × 233.0 mm (17.60\" × 9.45\" × 9.17\")",
+        "Net Weight": "2.3 kg (5.07 lb)",
+        "Gross Weight": "3.2 kg (7.05 lb)",
+        "Storage Humidity": "≤ 95% (non-condensing)",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Temperature": "–30 °C to +65 °C (–22 °F to +149 °F)",
+        "Operating Humidity": "10%–90% (non-condensing)",
+        "Certifications": "CE-EMC; CE-LVD; CE-RED; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/datasheet/ITC413-PW4D_Series_datasheet_20260424.pdf"
+      },
+      {
+        "name": "2026-09-07 #User Manual Smart ANPR Camera_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-09-07 #User Manual Smart ANPR Camera_Installation Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_Installation_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-09-07 #User Manual Outdoor Parking Space Detector_Web 5.0 Operation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Outdoor_Parking_Space_Detector_Web_5.0_Operation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-07 #User Manual Smart ANPR Camera_Web 5.0 Operation Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_Web_5.0_Operation_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-09-07 #User Manual Smart ANPR Camera_Web 3.0 Operation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_Web_3.0_Operation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-06-02 #User Manual Smart ANPR Camera Installation and Configuration Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_Installation_and_Configuration_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-10-29 #A&E Document ITC413-PW4D Series_A&E_20260901205135 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/a_e_document/1788267161057.docx"
+      },
+      {
+        "name": "2025-08-21 #Drawings ITC413-PW4D Series_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/drawings/ITC413-PW4D_Series_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-08-21 #Drawings ITC413-PW4D Series_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/drawings/ITC413-PW4D_Series_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-08-28 #Firmware Outdoor Parking Spaces Detection-DH_ITC4XX-PX4D(PS)_MultiLang_PN_V5.001.0000000.0.R.260122 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/firmware/1231420607998.zip"
+      },
+      {
+        "name": "2025-10-17 #Firmware DH_ITC4XX-PX4D(PL8I)(PW9H)_MultiLang_PN_V5.004.0000000.1.R.250917 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/firmware/DH_ITC4XX-PX4D(PL8I)(PW9H)_MultiLang_PN_V5.004.0000000.1.R.250917.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/access-anpr-cameras/itc413-pw4d-series"
+  }
+}

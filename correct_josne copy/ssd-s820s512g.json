@@ -1,0 +1,135 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "S820",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/s820",
+    "tab_title": "S820",
+    "tab_id": "14687",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "S820",
+      "S820"
+    ]
+  },
+  "card_info": {
+    "product_id": "151940",
+    "product_name": "SSD-S820S512G",
+    "product_title": "2.5\" SATA Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/s820/ssd-s820s512g",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988860_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-s820s512g.html",
+  "detail": {
+    "title": "2.5\" SATA Solid State Drive",
+    "model": "SSD-S820S512G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-S820S512G 2.5\" SATA Solid State Drive Key Points · 2.5 inch SATA SSD for MNVR/MXVR · Operating Temperature 0~70°C, Storage Temperature -40~85°C · PLP · 3-year limited warranty Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988860_crop_thumb.png",
+        "alt": "SSD-S820S512G_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988862_crop_thumb.png",
+        "alt": "SSD-S820S512G_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988863_crop_thumb.png",
+        "alt": "SSD-S820S512G_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988864_crop_thumb.png",
+        "alt": "SSD-S820S512G_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988865_crop_thumb.png",
+        "alt": "SSD-S820S512G_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10692/ProductImage/1_0_01_06_10692_115988861_crop_thumb.png",
+        "alt": "SSD-S820S512G_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-SSD-S820S512G",
+        "Capacity1": "512GB",
+        "Form Factor": "2.5 inch",
+        "Port": "SATA III 6Gb/s",
+        "Net Weight": "Max 40 g (0.09 lb)",
+        "Product Dimensions": "99.68 mm × 69.68 mm × 6.80 mm (3.92\" × 2.74\" × 0.27\")",
+        "Packaging Dimensions": "140.50 mm × 105.50 mm × 15.50 mm (5.53\" × 4.15\" × 0.61\")",
+        "Memory Component": "3D NAND",
+        "Power Consumption": "2200 mW (max) 480 mW (idle)",
+        "S.M.A.R.T": "Support",
+        "TRIM": "Support",
+        "Garbage Collection": "Support",
+        "Sequential Read2": "Up to 550 MB/s",
+        "Sequential Write2": "Up to 420 MB/s",
+        "4K Random Read2": "Up to 74,240",
+        "4K Random Write2": "Up to 60,160",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0°C to +70°C (+32°F to +158°F)",
+        "Storage Temperature": "–40°C to +85°C (–40°F to +185°F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10–1000 Hz, 2.78G",
+        "Shock Resistance": "1500G/0.5 ms (half sine wave)",
+        "TBW": "1000TB",
+        "Warranty3": "3-year limited warranty",
+        "Reference Information": "1. Capacity calculaton: 1GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatng, partton, operatng system applicatons, or other necessary usage). 2. The speed data comes from Zhejiang Huayixin Technology Co., Ltd Lab. System confguraton of performance test: Intel Z390 Chipset, Intel Core i9-9900KF@3.6GHz, 16GB DDR4; operatng systemWindows 10 x64; testng tool-CrystalDiskMark 6.0.0. 3. Warranty period or maximum write amount (TBW), whichever comes frst. 4. High performance SLC cache has been enabled."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-S820S512G_Datasheet_20250207.pdf"
+      },
+      {
+        "name": "2025-07-09 #User Manual SSD-2.5 inch-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010080/202507/SSD-2.5_inch-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "2024-04-24 #Drawings SSD-S820S512G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48397/drawings/SSD-S820GS1TB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-04-24 #Drawings SSD-S820S512G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49837/drawings/SSD-C800AS2000G_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/s820/ssd-s820s512g"
+  }
+}

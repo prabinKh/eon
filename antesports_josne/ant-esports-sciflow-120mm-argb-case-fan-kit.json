@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Sciflow 3x120mm ARGB Case Fan Kit (Black)"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421843747",
+    "product_name": "Sciflow 3x120mm ARGB Case Fan Kit (Black)",
+    "product_title": "Sciflow 3x120mm ARGB Case Fan Kit (Black)",
+    "product_url": "https://antesports.com/products/ant-esports-sciflow-120mm-argb-case-fan-kit",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SCIFLOW120mm3-in-1CaseFanKitARGB_01_80929c59-2b37-4d2c-b3fe-964af75315b4.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-sciflow-120mm-argb-case-fan-kit.html",
+  "detail": {
+    "title": "Sciflow 3x120mm ARGB Case Fan Kit (Black)",
+    "model": "AESP0266",
+    "brand": "Ant Esports",
+    "overview": "Maximize your PC’s thermal performance and aesthetic appeal with the Ant Esports Sciflow 120mm ARGB Fan Kit. This comprehensive 4-fan solution is engineered for enthusiasts who demand seamless cable management, silent operation, and stunning visuals.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SCIFLOW120mm3-in-1CaseFanKitARGB_01_80929c59-2b37-4d2c-b3fe-964af75315b4.png",
+        "alt": "Sciflow 3x120mm ARGB Case Fan Kit (Black) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_B_bf3cd5c2-97fc-4fca-b9f5-ef29146378c9.png",
+        "alt": "Sciflow 3x120mm ARGB Case Fan Kit (Black) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_B_7c41c757-159d-4d41-8e9f-ac16431ee55c.png",
+        "alt": "Sciflow 3x120mm ARGB Case Fan Kit (Black) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_B_66a46690-aa04-47f8-b7dc-79f325ab073b.png",
+        "alt": "Sciflow 3x120mm ARGB Case Fan Kit (Black) - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "1500",
+        "FAN Airflow (CFM)": "65.4",
+        "FAN Static Pressure (mmH₂O)": "1.8",
+        "FAN Noise (dBA)": "30.8",
+        "FAN Direction": "Forward",
+        "Connection": "PWM + ARGB",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "1500",
+        "FAN AIRFLOW (CFM)": "65.4",
+        "FAN STATIC PRESSURE (MMH₂O)": "1.8",
+        "FAN NOISE (DBA)": "30.8",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM + ARGB",
+        "Offer Price (INR)": "₹2,299.00",
+        "MRP (INR)": "₹4,799.00",
+        "SKU": "AESP0266"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-sciflow-120mm-argb-case-fan-kit"
+  }
+}

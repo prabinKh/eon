@@ -1,0 +1,176 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Standalone",
+    "tab_id": "545",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "151905",
+    "product_name": "ASI1201A-ME",
+    "product_title": "Dahua Card Swiping,Password Access Standalone",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/lite/asi1201a-me",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12364/ProductImage/1_0_01_25_12364_663730102_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi1201a-me.html",
+  "detail": {
+    "title": "Dahua Card Swiping,Password Access Standalone",
+    "model": "ASI1201A-ME",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI1201A-ME Dahua Card Swiping,Password Access Standalone Key Points • Card and Password Networked Access Standalone • 30,000 Cards and 30,000 Passwords • 2.46-inch Display Screen with Resolution of 123 × 32 • Dual-frequency (125kHz and 13.56MHz) RFID technology • DC12V1A Power Output for Lock and Card Reader • Touch Keypad with Backlighting Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12364/ProductImage/1_0_01_25_12364_663730102_crop_thumb.png",
+        "alt": "ASI1201A-ME_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12364/ProductImage/1_0_01_25_12364_663730104_crop_thumb.png",
+        "alt": "ASI1201A-ME_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Touch button",
+        "Network Protocol": "TCP/IP",
+        "OSDP Protocol": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "STN display screen",
+        "Screen Type": "Non-touchscreen",
+        "Screen Resolution": "123 (H) × 32 (V)",
+        "Buzzer": "Yes",
+        "Backlight": "Yes",
+        "Casing Material": "PC and ABS"
+      },
+      "Function": {
+        "Verification Method": "Card;Password;Remote",
+        "Period List": "128 groups",
+        "Holiday Period": "128 groups",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Peripheral Card Reader": "Includes 1-channel RS-485 card reader and 1-channel Wiegand card reader",
+        "Issuing Card by Master Card": "Yes",
+        "Multi-user Authentication": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID": {
+        "Card Type": "IC card;ID card"
+      },
+      "Performance": {
+        "Card Reading Distance": "IC card: 0 mm–60 mm (0\"–2.36\") ID card: 0 mm–30 mm (0\"–1.18\")"
+      },
+      "User": {
+        "User (Card) Type": "Normal user"
+      },
+      "Capacity": {
+        "User Capacity": "30,000",
+        "Card Capacity": "30000",
+        "Password Capacity": "30,500 (Includes 30,000 user passwords and 500 public passwords)",
+        "Record Capacity": "150000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1 (Wiegand input is 26, 34 or 66 bits self-adaptive; Wiegand output is 34 bits by default, and can be configured to 26 or 66 bits.)",
+        "Network Port": "1-channel 10/100 Mbps Ethernet port",
+        "Alarm Input": "1 channel",
+        "Alarm Output": "1 channel",
+        "Alarm Linkage": "Yes",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel",
+        "Power Output Port": "1 channel"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Optional",
+        "Power Supply": "DC 12 V 1 A (The access standalone does not supply power to the lock.) DC 12 V 2 A (The access standalone supplies power to the lock. The current of the lock can only reach up to 1 A. If it exceeds, the current will be distributed based on the actual amount of current.)",
+        "Power Consumption": "≤12 W (When the access standalone does not supply power to the lock, the power is ≤12W. When it does supply power to the lock, it is calculated based on the actual amount of power of the lock.)",
+        "Product Dimensions": "150.6 mm × 96.6 mm × 16.5 mm (5.93\" × 3.80\" × 0.65\") (H× W × D)",
+        "Packaging Dimensions": "195 mm × 135 mm × 56 mm (7.68\" × 5.31\" × 2.20\") (H × W × D)",
+        "Transport Package Dimensions": "604 mm × 290 mm × 314 mm (23.78\" × 11.42\" × 12.36\") (H× W × D)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–1,300 m (0 ft–4265.09 ft)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "346 g (0.76 lb)",
+        "Accessory": "The bracket is included.",
+        "Installation": "Surface Mount;86 mm Junction Box Mount",
+        "Certifications": "CE",
+        "Storage Temperature": "–30 °C to +80 °C (–22 °F to +176 °F)",
+        "Storage Humidity": "30%–75% (RH), non-condensing"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASI1201A-ME_datasheet_20240912.pdf"
+      },
+      {
+        "name": "2026-02-05 #User Manual Access Standalone_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82834/user_manual/Access_Standalone_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2024-07-04 #Drawings ASI1201A-ME_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82834/drawings/ASI1201A-ME_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-04 #Drawings ASI1201A-ME_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82834/drawings/ASI1201A-ME_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-07-04 #Drawings ASI1201A-ME_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82834/drawings/ASI1201A-ME_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-04 #Firmware General_ASI1201A-V1_Eng_MCU_V1.000.0000000.3.R.250519 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3213702/M/General_ASI1201A-V1_Eng_MCU_V1.000.0000000.3.R.250519.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/lite/asi1201a-me"
+  }
+}

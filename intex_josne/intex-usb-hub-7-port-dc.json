@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "USB Hub",
+    "subcategory_url": "https://www.intex.in/collections/usb-hub",
+    "series": "USB Hub 7 Port",
+    "series_url": "https://www.intex.in/collections/usb-hub-7-port",
+    "tab_title": "USB Hub",
+    "tab_id": "9171272564954",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "USB Hub",
+      "INTEX USB Hub 7 Port DC"
+    ]
+  },
+  "card_info": {
+    "product_id": "9171272564954",
+    "product_name": "INTEX USB Hub 7 Port DC",
+    "product_title": "INTEX USB Hub 7 Port DC",
+    "product_url": "https://www.intex.in/products/intex-usb-hub-7-port-dc",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ChatGPT_Image_Feb_17_2026_04_23_59_PM.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 649.0,
+      "display": "₹649.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-usb-hub-7-port-dc.html",
+  "detail": {
+    "title": "INTEX USB Hub 7 Port DC",
+    "model": "USB Hub 7 Port DC",
+    "brand": "Intex",
+    "overview": "Expand your connectivity with the powerful and compact INTEX USB Hub 7 Port DC. Designed for modern laptops and desktops, this hub features dual connector support (USB 3.0 & Type-C) for maximum compatibility. With 7 high-speed ports, you can connect multiple devices like pen drives, keyboards, mouse, printers, and external hard drives simultaneously. Built with a durable aluminium body and smart IC protection, it ensures stable data transfer and safe power distribution. The slim and lightweight design makes it perfect for office, home, and travel use. Plug & Play functionality allows instant use without installing any drivers.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ChatGPT_Image_Feb_17_2026_04_23_59_PM.png",
+        "alt": "INTEX USB Hub 7 Port DC",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Brand": "INTEX",
+        "Model Name": "USB Hub 7 Port DC",
+        "Total Ports": "7 Ports",
+        "USB 3.0 Ports": "1",
+        "USB 2.0 Ports": "6",
+        "Connector Type": "USB 3.0 + Type-C",
+        "Data Transfer Speed": "Up to 5Gbps (USB 3.0)",
+        "Working Voltage": "5V",
+        "Material": "Aluminium Alloy",
+        "Installation": "Plug & Play",
+        "Compatibility": "Windows / macOS / Linux",
+        "Model": "USB Hub 7 Port DC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_USB_HUB_7_Port_DC.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-usb-hub-7-port-dc"
+  }
+}

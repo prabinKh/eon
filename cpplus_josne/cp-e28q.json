@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "ezyKam+",
+    "category_url": "https://cpplusworld.com/products/ezykam+",
+    "subcategory": "EzyHome",
+    "subcategory_url": "https://cpplusworld.com/products/ezyhome/ezykam",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "EzyHome",
+    "tab_id": "34",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "EzyHome",
+      "ezyKam+",
+      "CP-E28Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2105",
+    "product_name": "CP-E28Q",
+    "product_title": "CP-E28Q",
+    "product_url": "https://cpplusworld.com/cp-e28q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/e2c311b3-d885-402c-a86b-0eba84729368.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-e28q.html",
+  "detail": {
+    "title": "CP-E28Q",
+    "model": "CP-E28Q",
+    "brand": "CP Plus",
+    "overview": "2MP Wi-Fi PT Camera",
+    "features": [
+      "1/3.2” 2MP PS CMOS Image Sensor (0.7937 centimeters)",
+      "4mm Lens",
+      "H.265 Video compression",
+      "Wi-Fi Support",
+      "Max. 20fps@2MP",
+      "IR Distance of 15 Mtr.",
+      "Works with Google Home"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e2c311b3-d885-402c-a86b-0eba84729368.jpg",
+        "alt": "CP-E28Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a38f8442-071a-421f-bfee-7fe8f7a6d30a.jpg",
+        "alt": "CP-E28Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3.2” 2MP PS CMOS Image Sensor (0.7937 centimeters)",
+        "Minimum Illumination": "Color: 0. 1Lux, B/W: 0.01Lux",
+        "FPS": "20fps",
+        "Lens": "4mm",
+        "Max. Aperture": "F2.0",
+        "Video Compression": "H.265",
+        "Angle of View": "Diagonal: 107°, Horizontal: 89°, Vertical: 48°",
+        "Back Light Compensation": "DWDR",
+        "S/N Ratio": "≥38.5dB",
+        "Exposure Conditions": "Auto-adjust AWB, AGC, BLC",
+        "Picture Adjustment": "Auto-adjust Contrast, Brightness, Saturation",
+        "Resolution": "2MP (1920 x 1080)",
+        "Electronic Shutter": "1/50s(1/60s)-1/100,000s",
+        "Noise Reduction": "3D DNR",
+        "Motion Detection": "Support",
+        "Motion Tracking": "Support",
+        "Audio Compression": "G.711A",
+        "Sound Detection": "Support",
+        "Built-in Siren": "Support",
+        "Echo Cancellation": "Support",
+        "Human body Detection": "Support",
+        "Alarm Notification Push": "Support",
+        "Wireless Standard": "Wi-Fi 802.11 b/g/n",
+        "IR Distance": "IR Distance of 15 Mtr.",
+        "IR Number": "6pcs IR LEDs",
+        "Wi-Fi": "Support",
+        "Work with Alexa": "Support",
+        "Work With Google Home": "Support",
+        "IR Cut Filter": "Auto",
+        "Smart Phone": "Android, iOS",
+        "Pan/Tilt Angle": "Pan:355°, Tilt:75°",
+        "Audio": "Built-in Mic",
+        "Built-in Speaker": "Support",
+        "Two-way talk": "Support",
+        "Wireless Frequency": "2.4GHz",
+        "Application Environment": "Indoor",
+        "Storage": "Micro SD card (up to 256GB)",
+        "Mobile App": "ezyKam+",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, CE, FCC, RoHS, BIS, WPC",
+        "Power Consumption": "Max. 5W",
+        "Power Supply": "DC 5V, 1A (USB Type C)",
+        "Operating Temperature": "-20°℃~60℃",
+        "Operating Humidity": "<95%(no condensation)",
+        "Dimension": "76mm x 76mm x 111mm",
+        "Casing": "ABS Plastic",
+        "Weight": "186g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-E28Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/92efa62d-c17c-4940-aa5c-75c06db60062.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-e28q"
+  }
+}

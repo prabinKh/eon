@@ -1,0 +1,149 @@
+{
+  "hierarchy": {
+    "category": "Display & Control",
+    "category_url": "https://www.dahuasecurity.com/products/display-&-control",
+    "subcategory": "Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/display-&-control/control",
+    "series": "Decoders",
+    "series_url": "https://www.dahuasecurity.com/products/display-&-control/control/decoders",
+    "tab_title": "Decoders",
+    "tab_id": "43",
+    "breadcrumbs": [
+      "Display & Control",
+      "Control",
+      "Decoders",
+      "Decoders"
+    ]
+  },
+  "card_info": {
+    "product_id": "155862",
+    "product_name": "N70(04H20H)",
+    "product_title": "Dahua 3U VIDEO MATRIX PLATFORM",
+    "product_url": "https://www.dahuasecurity.com/products/display-&-control/control/decoders/n70(04h20h)=v3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88346/image/1_0_01_01_17047_890640697_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "display-&-control/products/n70-04h20h-v3.html",
+  "detail": {
+    "title": "Dahua 3U VIDEO MATRIX PLATFORM",
+    "model": "N70(04H20H)",
+    "brand": "Dahua",
+    "overview": "New Favourite N70(04H20H) Dahua 3U VIDEO MATRIX PLATFORM Key Points Dahua 3U VIDEO MATRIX PLATFORM Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88346/image/1_0_01_01_17047_890640697_crop_thumb.PNG",
+        "alt": "N70(04H20H)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88346/image/1_0_01_01_17047_890640698_crop_thumb.PNG",
+        "alt": "N70(04H20H)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88346/image/1_0_01_01_17047_890640699_crop_thumb.PNG",
+        "alt": "N70(04H20H)_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Bus": {},
+      "Cabinet": {},
+      "USB": {},
+      "Network Port": {},
+      "RS-232": {},
+      "RS-485": {},
+      "HDMI": {},
+      "Alarm Input Port": {},
+      "Alarm Output Port": {},
+      "Audio Output Port": {},
+      "Type-C Port": {},
+      "Interoperability": {},
+      "Transmission Protocol": {},
+      "Max System Configuration": {},
+      "Network Signal Access": {},
+      "Screen Splicing": {},
+      "Spliced Screen Function": {},
+      "Equipment Management": {},
+      "SDK": {},
+      "Control Mode": {},
+      "Multi-screen Display": {},
+      "Power Supply": {},
+      "Power Redundancy": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Gross Weight": {},
+      "Net Weight": {},
+      "Series": {},
+      "Type": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88346/datasheet/DHI-N70_V3_datasheet_20260715_English.pdf"
+      },
+      {
+        "name": "2025-12-16 #User Manual Video Matrix Platform (N70)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/user_manual/Video_Matrix_Platform_(N70)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-12-16 #User Manual Video Matrix Platform (N70)_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/user_manual/Video_Matrix_Platform_(N70)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-18 #A&E Document N70(04H20H)_A&E_20260901213039 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88346/a_e_document/1788270109604.docx"
+      },
+      {
+        "name": "2025-12-16 #Drawings N70(04H20H)_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/drawings/1_0_01_01_17045_807531325.pdf"
+      },
+      {
+        "name": "2025-12-16 #Drawings N70(04H20H)_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/drawings/1_0_01_01_17045_807524850.pdf"
+      },
+      {
+        "name": "2025-12-16 #Drawings N70(04H20H)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/drawings/1_0_01_01_17045_819620866.pdf"
+      },
+      {
+        "name": "2025-12-16 #Drawings N70(04H20H)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/drawings/1_0_01_01_17045_819620865.pdf"
+      },
+      {
+        "name": "2026-07-28 #Firmware General_VideoNexus-N70_ALL_Eng_SDA_V4.005.0000000.0.R.260721 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88344/firmware/General_VideoNexus-N70_ALL_Eng_SDA_V4.005.0000000.0.R.260721.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/display-&-control/control/decoders/n70(04h20h)=v3"
+  }
+}

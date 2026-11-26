@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "PS421 Power Strip - Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348821971235",
+    "product_name": "PS421 Power Strip - Grey",
+    "product_title": "PS421 Power Strip - Grey",
+    "product_url": "https://antesports.com/products/ps421-power-strip-4-outlet-flat-plug-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/34_4f7b5fb9-768b-4d5d-a50b-1bb0d07b61e9.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ps421-power-strip-4-outlet-flat-plug-grey.html",
+  "detail": {
+    "title": "PS421 Power Strip - Grey",
+    "model": "ANTP0042",
+    "brand": "Ant Esports",
+    "overview": "The Ant PS421 is a 10ft universal extension cord with 4 widely-spaced AC outlets, 2 USB-A ports and 1 Type-C PD port, capable of charging up to 7 devices simultaneously without one plug blocking another. Its flat plug design and mounting holes on the back make it easy to install along walls, floors or under counters for a clean, low-profile setup, while the 10-foot pure copper cord delivers reliable 10A current carrying capacity. Compact and portable, it works equally well in an office, home, classroom, hotel room or dorm, supporting up to 2500W across the standard 220-250V range for dependable everyday power distribution.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/34_4f7b5fb9-768b-4d5d-a50b-1bb0d07b61e9.jpg",
+        "alt": "PS421 Power Strip - Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "AC Outlets": "4",
+        "USB Ports": "2 x USB-A + 1 x Type-C PD",
+        "Cord Length": "10 ft (Flat Plug)",
+        "Max Power": "2500W, 220-250V",
+        "Color": "Grey",
+        "AC OUTLETS": "4",
+        "USB PORTS": "2 x USB-A + 1 x Type-C PD",
+        "CORD LENGTH": "10 ft (Flat Plug)",
+        "MAX POWER": "2500W, 220-250V",
+        "COLOR": "Grey",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "ANTP0042"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps421-power-strip-4-outlet-flat-plug-grey"
+  }
+}

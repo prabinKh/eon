@@ -1,0 +1,146 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "127697",
+    "product_name": "ARM320-W2",
+    "product_title": "Dahua Wireless Input Expander",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm320-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10785/ProductImage/1_0_01_19_10785_383201021_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/arm320-w2.html",
+  "detail": {
+    "title": "Dahua Wireless Input Expander",
+    "model": "ARM320-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARM320-W2 Dahua Wireless Input Expander Key Points · Support six types of alarms: Intrusion, medical, fire, emergency, gas, and tamper. · Grant high security and stability of communication via a two-way wireless encrypted communication mechanism. · Triggers alarms when the device is moved. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10785/ProductImage/1_0_01_19_10785_383201021_crop_thumb.png",
+        "alt": "ARM320-W2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10785/ProductImage/1_0_01_19_10785_383201023_crop_thumb.png",
+        "alt": "ARM320-W2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10785/ProductImage/1_0_01_19_10785_383201022_crop_thumb.png",
+        "alt": "ARM320-W2_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Port": {
+        "Alarm Input": "2 (1 for alarm and 1 for anti-tampering)",
+        "Auxiliary Power Output": "3.3 V, up to 10 mA"
+      },
+      "Function": {
+        "Button": "1 × power button",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Yes",
+        "Measuring Range (Temperature)": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)"
+      },
+      "Technical": {
+        "Sensor": "Triaxial accelerometer",
+        "Test Mode": "Yes",
+        "LED Indicator": "1 × green alarm indicator",
+        "Scenario": "Indoor",
+        "Operating Current": "45 uA (with 1 min heartbeat, normally open mode, charge not being provided for other devices and device moved alarm not enabled)",
+        "Alarm Current": "50 mA"
+      },
+      "Wireless": {
+        "Carrier Frequency": "433.1 MHz–434.6 MHz",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "Up to 1300 m (4265.10 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "3 × CR123A battery",
+        "Battery Model": "CR123A",
+        "Battery Life": "5 years (4 years if the external input type is pulse)",
+        "Power Consumption": "Max. 150 mW (without providing charge for other devices)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "102 mm × 39 mm × 21.5 mm (4.02\" × 1.54\" × 0.85\")",
+        "Net Weight": "77 g (0.17 lb)",
+        "Gross Weight": "135 g (0.30 lb)",
+        "Installation": "Surface mount, or mount inside a third-party device",
+        "Certifications": "CE",
+        "Anti-corrosion Level": "Basic Protection",
+        "Packaging Dimensions": "95 mm × 43 mm × 139 mm (3.74\" × 1.69\" × 5.47\")"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARM320-W2_datasheet_20230708.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Wireless Input Expander_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007913/202507/Dahua_Wireless_Input_Expander_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Wireless Input Expander_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007913/202507/Wireless_Input_Expander_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-05-11 #Drawings ARM320-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69067/drawings/ARM320-W2(868)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-05-11 #Drawings ARM320-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69057/drawings/ARM320-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-05-21 #Firmware General_ARM320-W2_433_V1.000.0000002.0.R.20240509 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2636621/M/General_ARM320-W2_433_V1.000.0000002.0.R.20240509.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm320-w2"
+  }
+}

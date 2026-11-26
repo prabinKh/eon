@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "77 Liter Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/77-liter-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "77 Liter Air Cooler",
+    "tab_id": "9133939622106",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "77 Liter Air Cooler",
+      "INTEX THUNDERCOOL HC 77 Air Cooler – 77 Litres"
+    ]
+  },
+  "card_info": {
+    "product_id": "9133939622106",
+    "product_name": "INTEX THUNDERCOOL HC 77 Air Cooler – 77 Litres",
+    "product_title": "INTEX THUNDERCOOL HC 77 Air Cooler – 77 Litres",
+    "product_url": "https://www.intex.in/products/intex-thundercool-hc-77-air-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/11-THUNDERCOOL-HC-77.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 17990.0,
+      "display": "₹17,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-thundercool-hc-77-air-cooler.html",
+  "detail": {
+    "title": "INTEX THUNDERCOOL HC 77 Air Cooler – 77 Litres",
+    "model": "77",
+    "brand": "Intex",
+    "overview": "The INTEX THUNDERCOOL HC 77 is a 77-litre high-performance desert air cooler, designed to beat extreme heat with powerful airflow and efficient cooling. Ideal for homes, offices, and medium-sized commercial spaces, it delivers consistent cooling while consuming low power. Equipped with 3-speed powerful air throw, 4-way air deflection, and a double ball bearing motor, this cooler ensures uniform cooling and long-lasting performance. Its shock & rust-proof body, 360° moving wheels, and fully collapsible louvers provide durability and ease of use. With inverter compatibility and protection against voltage fluctuations, THUNDERCOOL HC 77 keeps you cool even during power cuts.",
+    "features": [
+      "3-Speed Powerful Air Throw",
+      "4-Way Air Deflection",
+      "Fully Collapsible Louvers",
+      "Fan Blade Size: 16 inches",
+      "360° Degree Moving Wheels",
+      "Double Ball Bearing Motor",
+      "Shock & Rust-Proof Body",
+      "Water Level Indicator",
+      "Inverter Compatible",
+      "Handles Voltage Fluctuations",
+      "T.O.P. Cover Motor Protection",
+      "25% Extra Cooling Performance",
+      "45% Higher Water Retention",
+      "High-Efficiency 3-Side Honeycomb Cooling Pads"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/11-THUNDERCOOL-HC-77.jpg",
+        "alt": "INTEX THUNDERCOOL HC 77 Air Cooler – 77 Litres",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "77 Litres": "77 Litres",
+        "Model": "77"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-thundercool-hc-77-air-cooler"
+  }
+}

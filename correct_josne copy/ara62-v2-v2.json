@@ -1,0 +1,115 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "151086",
+    "product_name": "ARA62-V2",
+    "product_title": "9-15V PSU Module",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara62-v2=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10881/ProductImage/1_0_01_19_10881_714774496_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara62-v2-v2.html",
+  "detail": {
+    "title": "9-15V PSU Module",
+    "model": "ARA62-V2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARA62-V2 9-15V PSU Module Key Points · Enables the hub2 to be powered directly from a DC power supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10881/ProductImage/1_0_01_19_10881_714774496_crop_thumb.png",
+        "alt": "ARA62-V2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10881/ProductImage/1_0_01_19_10881_714774497_crop_thumb.png",
+        "alt": "ARA62-V2_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10881/ProductImage/1_0_01_19_10881_729822627_crop_thumb.png",
+        "alt": "ARA62-V2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical": {
+        "Output Voltage": "9-15 VDC",
+        "Maximum Load Output": "1.2 A"
+      },
+      "General": {
+        "Power Supply": "9–15 VDC power input",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "89 mm × 79 mm × 12 mm (3.50\" × 3.11\" × 0.47\")",
+        "Net Weight": "20.00 g (0.04 lb)",
+        "Gross Weight": "66.35 g (0.15 lb)",
+        "Anti-corrosion Level": "Basic Protection",
+        "Packaging Dimensions": "Single Device in inner box: 106 mm × 90 mm × 45 mm (4.17\" × 3.54\" × 1.77\") Protective case: 339 mm × 291 mm × 261 mm (13.35\" × 11.46\" × 10.28\")"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARA62_V2_datasheet_20241216.pdf"
+      },
+      {
+        "name": "2025-04-30 #User Manual DC PSU Module_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009372/202504/DC_PSU_Module_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-04-30 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87642/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2024-12-06 #Drawings ARA62-V2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82767/drawings/ARA62-V2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-12-06 #Drawings ARA62-V2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82767/drawings/ARA62-V2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-12-06 #Drawings ARA62-V2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82767/drawings/ARA62-V2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara62-v2=v2"
+  }
+}

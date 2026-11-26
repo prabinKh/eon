@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM500W World of Warships Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923588387",
+    "product_name": "KM500W World of Warships Keyboard & Mouse Combo - Black",
+    "product_title": "KM500W World of Warships Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/km500w-wow-edition-keyboard-mouse-combo-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/33.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km500w-wow-edition-keyboard-mouse-combo-black.html",
+  "detail": {
+    "title": "KM500W World of Warships Keyboard & Mouse Combo - Black",
+    "model": "AESP0049",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM500W is a licensed World of Warships edition keyboard and mouse combo with a brushed aluminium-finish top plate and rainbow LED backlighting diffused evenly for comfortable use in dim rooms. Double-shot ABS keycaps sit atop a durable key structure rated for up to 50 million keystrokes, twice the lifespan of a typical wired keyboard, while a dedicated wrist rest adds comfort during long gaming or work sessions. The included 6D mouse offers 4 adjustable DPI levels (800/1600/2400/3200) via an anti-slip rubberized coating and a highly sensitive optical sensor, and slip-resistant keyboard construction guards against accidental spills. Broad compatibility spans Windows 2000 through Windows 10 and Mac OS.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/33.png",
+        "alt": "KM500W World of Warships Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Durability": "50 Million Keystrokes",
+        "Mouse DPI": "800 / 1600 / 2400 / 3200",
+        "Extras": "Wrist Rest, Rainbow LED",
+        "Edition": "World of Warships Licensed",
+        "Compatibility": "Windows 2000-10, Mac OS",
+        "Color": "Black",
+        "KEYBOARD DURABILITY": "50 Million Keystrokes",
+        "MOUSE DPI": "800 / 1600 / 2400 / 3200",
+        "EXTRAS": "Wrist Rest, Rainbow LED",
+        "EDITION": "World of Warships Licensed",
+        "COMPATIBILITY": "Windows 2000-10, Mac OS",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,349.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AESP0049"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km500w-wow-edition-keyboard-mouse-combo-black"
+  }
+}

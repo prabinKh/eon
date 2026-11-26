@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "2.4 MP",
+    "category_url": "https://cpplusworld.com/products/2.4-mp",
+    "subcategory": "Analog HD Camera",
+    "subcategory_url": "https://cpplusworld.com/products/analog-hd-camera/2-4-mp",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Analog HD Camera",
+    "tab_id": "71",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Analog HD Camera",
+      "2.4 MP",
+      "CP-URC-TC24PL3C"
+    ]
+  },
+  "card_info": {
+    "product_id": "2004",
+    "product_name": "CP-URC-TC24PL3C",
+    "product_title": "CP-URC-TC24PL3C",
+    "product_url": "https://cpplusworld.com/cp-urc-tc24pl3c",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/b9594ab7-58ec-4381-ad8c-20ffaa02305a.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-urc-tc24pl3c.html",
+  "detail": {
+    "title": "CP-URC-TC24PL3C",
+    "model": "CP-URC-TC24PL3C",
+    "brand": "CP Plus",
+    "overview": "2.4MP IR Bullet Camera - 30Mtr.",
+    "features": [
+      "2.4MP PS CMOS Image Sensor",
+      "Max. Outputs 2.4MP(1920x 1080)@30fps",
+      "DWDR, Day/Night (ICR), 2D DNR, BLC",
+      "3.6mm Lens (2.8mm, 6mm Optional)",
+      "IR Range of 30 Mtrs., Smart IR, IP67",
+      "Support Built-in Mic",
+      "4 Signals over 1 Coaxial Cable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b9594ab7-58ec-4381-ad8c-20ffaa02305a.jpg",
+        "alt": "CP-URC-TC24PL3C - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9893dba8-7c90-4c50-aea2-20367326c8fb.png",
+        "alt": "CP-URC-TC24PL3C - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3",
+        "Minimum Illumination": "Color : 0.01 lux@F2.0, AGC ON, B/W : 0 lux with IR",
+        "Effective Pixels": "2.4MP (1920 x 1080)",
+        "White Balance": "Auto / Manual",
+        "Lens Type": "Fixed Lens",
+        "Gain Control (AGC)": "Auto",
+        "Lens": "3.6mm Fixed Lens",
+        "Back Light Compensation": "DWDR",
+        "Noise Reduction": "3D DNR",
+        "Day/Night": "Support",
+        "IR Number": "IR LED: 42µ x 2PCS",
+        "Power Source": "DC12V±10%, 500mA",
+        "Weatherproof Standard": "IP66",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "-20°C~ +60°C",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Dimension": "169 mm x 67.5 mm x 70 mm",
+        "Casing": "Metal",
+        "Weight": "0.500 Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-TC24PL3C.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-tc24pl3c"
+  }
+}

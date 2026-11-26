@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Docking Station",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/docking-station",
+    "tab_title": "Docking Station",
+    "tab_id": "16447",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Docking Station",
+      "Docking Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "129887",
+    "product_name": "TC31H",
+    "product_title": "USB 3.1 Type-C to HDMI Adapter",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/dockingstations/tc31h",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10578/ProductImage/1_9_10_01_10578_296722661_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/tc31h.html",
+  "detail": {
+    "title": "USB 3.1 Type-C to HDMI Adapter",
+    "model": "TC31H",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10578/ProductImage/1_9_10_01_10578_296722661_crop_thumb.png",
+        "alt": "TC31H",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/dockingstations/tc31h"
+  }
+}

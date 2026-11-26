@@ -1,0 +1,182 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras",
+    "series": "SD4",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd4",
+    "tab_title": "SD4",
+    "tab_id": "9302",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI PTZ Cameras",
+      "SD4",
+      "SD4"
+    ]
+  },
+  "card_info": {
+    "product_id": "135757",
+    "product_name": "SD42C216DB-HC",
+    "product_title": "2MP 16x Starlight HDCVI PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd4/sd42c216db-hc",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15339/ProductImage/1_0_01_07_15339_1193606341_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/sd42c216db-hc.html",
+  "detail": {
+    "title": "2MP 16x Starlight HDCVI PTZ Camera",
+    "model": "SD42C216DB-HC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD42C216DB-HC 2MP 16x Starlight HDCVI PTZ Camera Key Points • High-Quality Imaging with 2MP Resolution • 16× Optical Zoom Provide Close Up Views Over Expansive Areas • Optional Smoked Dome Cover & In-Ceiling Mount for Enhanced Concealment • Transmits 3 Signals, Video, Audio and Data over 1 Coaxial Cable. • Clear Imaging Against Strong Back Light Due to 120 dB True WDR Technology • IK10 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15339/ProductImage/1_0_01_07_15339_1193606341_crop_thumb.png",
+        "alt": "SD42C216DB-HC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Electronic Shutter Speed": "1/3 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE); 0.0005 lux@F1.6 (B/W, 30 IRE)"
+      },
+      "Lens": {
+        "Focal Length": "5 mm–80 mm",
+        "Max. Aperture": "F1.6–F2.8",
+        "Field of View": "H: 59.6°–5.4°; V: 34.6°–3.0°; D: 67.3°–6.2°",
+        "Optical Zoom": "16x",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "1 m–1.5 m (3.28 ft–4.92 ft)",
+        "Iris Control": "Auto; manual",
+        "DORI Distance": "Detect",
+        "1103.4 m (3620.24 ft)": "435.9 m (1429.99 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless; Tilt: 0° to +90°, auto flip 180°",
+        "Manual Control Speed": "Pan: 0.1°–300°/s; Tilt: 0.1°–200°/s",
+        "Preset Speed": "Pan: 0.1°–300°/s; Tilt: 0.1°–200°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Pattern; Preset; Scan; Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)"
+      },
+      "Video": {
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480)",
+        "Video Frame Rate": "1080p (25/30 fps); 720p (25/30/50/60 fps)",
+        "Day/Night": "Yes",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Defog": "Electronic",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Yes",
+        "S/N Ratio": "≥ 50 dB"
+      },
+      "Function": {
+        "CVI Product Output Mode": "TVI; CVI; CVBS; AHD (CVBS is only used for debugging)"
+      },
+      "Certification": {
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpart B, ANSI C63.4-2014 UL: UL60950-1+CAN/CSA C22.2, No.60950-1"
+      },
+      "Port": {
+        "Analog Output": "1 channel (CVBS/CVI output, BNC)",
+        "RS-485": "1 (baud rate range: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Alarm Input": "2 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "1",
+        "Alarm Linkage": "Scan; tour; pattern; preset; alarm digital output",
+        "Alarm Event": "Alarm input"
+      },
+      "Power": {
+        "Power Supply": "12 VDC, 3 A ± 10%",
+        "Power Consumption": "Basic: 8 W Max: 12 W (PTZ)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22°F to +140 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Protection": "IK10; TVS 6000 V lightning proof; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "158.4 mm × Φ198.0 mm (6.24\" × Φ7.80\")",
+        "Net Weight": "2.3 kg (5.07 lb)",
+        "Gross Weight": "3.3 kg (7.28 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD42C216DB-HC_S0_datasheet_20250115.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82244/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual HDCVI_Speed_Dome&PTZ_Camera_User's_Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007330/202411/HDCVI_Speed_Dome_26PTZ_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004390/202411/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-23 #A&E Document SD42C216DB-HC_A&E_20260918000234 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76577/a_e_document/1789662064959.docx"
+      },
+      {
+        "name": "2023-09-25 #Drawings SD42C216DB-HC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/1517/drawings/SD42C215-HC-LA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-07-14 #Drawings SD42C216DB-HC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/53997/drawings/SD42C212T-HN(-S2)_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-07-13 #Firmware General_SD40XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212404/M/General_SD40XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "2023-09-26 #Firmware General_SD40XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212402/M/General_SD40XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd4/sd42c216db-hc"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "Sigma 30 Digital Pocket Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10340634263843",
+    "product_name": "Sigma 30 Digital Pocket Scale",
+    "product_title": "Sigma 30 Digital Pocket Scale",
+    "product_url": "https://antesports.com/products/sigma-30-digital-pocket-scale",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13_f996823e-2bc0-4b83-a524-55639a194bed.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/sigma-30-digital-pocket-scale.html",
+  "detail": {
+    "title": "Sigma 30 Digital Pocket Scale",
+    "model": "Sigma 30",
+    "brand": "Ant Esports",
+    "overview": "TheAnt Sigma 30 Digital Pocket Scaleis a compact and high-precision weighing solution designed for jewellery, gold, gemstones, spices, herbs, small components and other lightweight items. With a maximum weighing capacity of500gand0.1g readability, it provides accurate measurements while remaining easy to carry and store.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13_f996823e-2bc0-4b83-a524-55639a194bed.png",
+        "alt": "Sigma 30 Digital Pocket Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Brand": "Ant",
+        "Series": "MH Series",
+        "Model": "Sigma 30",
+        "Colour": "White",
+        "Maximum Capacity (g)": "500",
+        "Readability (g)": "0.1",
+        "Display Type": "LCD",
+        "Weighing Units": "g, oz, ct, gn, dwt, ozt",
+        "Tare Function": "Yes",
+        "Tare Capacity": "Full Capacity",
+        "PCS Counting": "Yes",
+        "Auto Calibration": "Yes",
+        "Auto-Off": "30 Seconds",
+        "Overload Indicator": "0-Ld",
+        "Backlit Display": "Yes",
+        "Power Supply": "2×AA 1.5V Batteries",
+        "Portable Design": "Yes",
+        "Protective Cover": "Yes",
+        "Recommended Uses": "Gold, Gemstones, Herbs, Spices, Small Parts, Kitchen, Jewellery, Laboratory",
+        "BRAND": "Ant",
+        "SERIES": "MH Series",
+        "MODEL": "Sigma 30",
+        "COLOUR": "White",
+        "MAXIMUM CAPACITY (G)": "500",
+        "READABILITY (G)": "0.1",
+        "DISPLAY TYPE": "LCD",
+        "WEIGHING UNITS": "g, oz, ct, gn, dwt, ozt",
+        "TARE FUNCTION": "Yes",
+        "TARE CAPACITY": "Full Capacity",
+        "PCS COUNTING": "Yes",
+        "AUTO CALIBRATION": "Yes",
+        "AUTO-OFF": "30 Seconds",
+        "OVERLOAD INDICATOR": "0-Ld",
+        "BACKLIT DISPLAY": "Yes",
+        "POWER SUPPLY": "2×AA 1.5V Batteries",
+        "PORTABLE DESIGN": "Yes",
+        "PROTECTIVE COVER": "Yes",
+        "RECOMMENDED USES": "Gold, Gemstones, Herbs, Spices, Small Parts, Kitchen, Jewellery, Laboratory",
+        "Offer Price (INR)": "₹335.00",
+        "MRP (INR)": "₹1,199.00",
+        "SKU": "ANTR0068"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/sigma-30-digital-pocket-scale"
+  }
+}

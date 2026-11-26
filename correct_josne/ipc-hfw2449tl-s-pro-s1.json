@@ -1,0 +1,199 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 2 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series",
+    "tab_title": "WizColor",
+    "tab_id": "18060",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 2 Series",
+      "WizColor"
+    ]
+  },
+  "card_info": {
+    "product_id": "153548",
+    "product_name": "IPC-HFW2449TL-S-PRO",
+    "product_title": "4MP WizColor Fixed-focal Bullet WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/wizcolor/ipc-hfw2449tl-s-pro=s1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47130/ProductImage/1_0_01_04_47130_778082120_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw2449tl-s-pro-s1.html",
+  "detail": {
+    "title": "4MP WizColor Fixed-focal Bullet WizSense Network Camera",
+    "model": "IPC-HFW2449TL-S-PRO",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW2449TL-S-PRO 4MP WizColor Fixed-focal Bullet WizSense Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • Exceptional Image Quality in Low-Light Environments by WizColor Technology • Deep Learning-Based Human and Vehicle Classification • Built-in Mic for Real-Time Audio Security • Supports Max. 256G Micro SD card • Efficient H.264+/H.265+ Compression Technology • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47130/ProductImage/1_0_01_04_47130_778082120_crop_thumb.PNG",
+        "alt": "IPC-HFW2449TL-S-PRO_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47130/ProductImage/1_0_01_04_47130_778082123_crop_thumb.PNG",
+        "alt": "IPC-HFW2449TL-S-PRO_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47130/ProductImage/1_0_01_04_47130_778082121_crop_thumb.PNG",
+        "alt": "IPC-HFW2449TL-S-PRO_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47130/ProductImage/1_0_01_04_47130_778082127_crop_thumb.PNG",
+        "alt": "IPC-HFW2449TL-S-PRO_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47130/ProductImage/1_0_01_04_47130_778082128_crop_thumb.PNG",
+        "alt": "IPC-HFW2449TL-S-PRO_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "57.9 m( 189.96 ft)",
+        "3.6 mm": "70.3 m( 230.64 ft)",
+        "6 mm": "116.6 m( 382.55 ft)"
+      },
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "Smart Codec": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Smart Illumination": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "LDC": {},
+      "Built-in MIC": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84675/datasheet/DH-IPC-HFW2449TL-S-PRO_S1_datasheet_20250912.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78807/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Bullet Network Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78797/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2025-07-11 #A&E Document IPC-HFW2449TL-S-PRO_A&E_20260922103931 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84675/a_e_document/1790045442425.docx"
+      },
+      {
+        "name": "2025-06-21 #Drawings IPC-HFW2449TL-S-PRO_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84675/drawings/IPC-HFW2449TL-S-PRO_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-21 #Drawings IPC-HFW2449TL-S-PRO_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84675/drawings/IPC-HFW2449TL-S-PRO_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-07-06 #Firmware DH_IPC-HX2XXX-Hugo_MultiLang_PN_V3.120.0000000.38.R.260623 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84676/firmware/DH_IPC-HX2XXX-Hugo_MultiLang_PN_V3.120.0000000.38.R.260623.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/wizcolor/ipc-hfw2449tl-s-pro=s1"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8790539075802",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Washing Machine",
+      "SA70BGHG | 7 KG Semi-Automatic Washing Machine (Black & Grey)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8790539075802",
+    "product_name": "SA70BGHG | 7 KG Semi-Automatic Washing Machine (Black & Grey)",
+    "product_title": "SA70BGHG | 7 KG Semi-Automatic Washing Machine (Black & Grey)",
+    "product_url": "https://www.intex.in/products/sa70bghg-7-kg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA70BGHG--7-KG.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 15999.0,
+      "display": "₹15,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa70bghg-7-kg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "SA70BGHG | 7 KG Semi-Automatic Washing Machine (Black & Grey)",
+    "model": "SA70BGHG-7",
+    "brand": "Intex",
+    "overview": "The SA70BGHG 7 KG Semi-Automatic Washing Machine delivers high-performance cleaning with smart features designed for efficiency. Its rust-free body ensures durability, while the 3-fins pulsator and Collar Scrubber Technology remove stubborn stains effortlessly. A powerful motor provides superior washing, and noise-free spinning guarantees fast drying. The toughened glass lid adds a premium touch, and the water level indicator optimizes water usage. Built for smart and powerful washing, this machine is a must-have for modern homes.",
+    "features": [
+      "Anti-corrosive rust-free body for long-lasting durability",
+      "2 wash programs for customized cleaning",
+      "3 fins pulsator design for powerful water flow",
+      "Collar scrubber technology for tough stains",
+      "Powerful motor with TOP technology",
+      "Noise-free spinning for a smooth drying experience",
+      "Lint filter for cleaner clothes",
+      "Water level indicator for precise water usage",
+      "Toughened glass lid for enhanced durability"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA70BGHG--7-KG.jpg",
+        "alt": "SA70BGHG | 7 KG Semi-Automatic Washing Machine (Black & Grey)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Anti-corrosive rust-free body for long-lasting durability",
+        "Feature 2": "2 wash programs for customized cleaning",
+        "Feature 3": "3 fins pulsator design for powerful water flow",
+        "Feature 4": "Collar scrubber technology for tough stains",
+        "Feature 5": "Powerful motor with TOP technology",
+        "Feature 6": "Noise-free spinning for a smooth drying experience",
+        "Feature 7": "Lint filter for cleaner clothes",
+        "Feature 8": "Water level indicator for precise water usage",
+        "Feature 9": "Toughened glass lid for enhanced durability"
+      },
+      "General": {
+        "Model": "SA70BGHG-7"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa70bghg-7-kg-semi-automatic-washing-machine"
+  }
+}

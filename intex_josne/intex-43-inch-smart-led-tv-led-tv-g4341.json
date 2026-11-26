@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "LED TV",
+    "category_url": "https://www.intex.in/collections/led-tv",
+    "subcategory": "43 Inch Smart LED TV",
+    "subcategory_url": "https://www.intex.in/collections/43-inch-smart-led-tv",
+    "series": "FHD Smart TV",
+    "series_url": "https://www.intex.in/collections/fhd-smart-tv",
+    "tab_title": "43 Inch Smart LED TV",
+    "tab_id": "9107032965338",
+    "breadcrumbs": [
+      "Home",
+      "LED TV",
+      "43 Inch Smart LED TV",
+      "Intex 43\" Smart LED TV - LED TV G4341"
+    ]
+  },
+  "card_info": {
+    "product_id": "9107032965338",
+    "product_name": "Intex 43\" Smart LED TV - LED TV G4341",
+    "product_title": "Intex 43\" Smart LED TV - LED TV G4341",
+    "product_url": "https://www.intex.in/products/intex-43-inch-smart-led-tv-led-tv-g4341",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-SFV4307-PDP_3e8864b4-fa9c-4ce9-bdaa-0bdc780307fc.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 43499.0,
+      "display": "₹43,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-43-inch-smart-led-tv-led-tv-g4341.html",
+  "detail": {
+    "title": "Intex 43\" Smart LED TV - LED TV G4341",
+    "model": "43-G4341",
+    "brand": "Intex",
+    "overview": "The Intex LED TV G4341 delivers bright, clear images and powerful audio in a sleek, modern design. Built for streaming, gaming and TV viewing, it offers multiple connectivity options and an intuitive user experience. Whether you're watching movies, sports or playing games, the G4341 brings your content to life.",
+    "features": [
+      "2 HDMI Ports, 2 USB Ports, Mini AV, RF IN, Satellite Tuner, Bluetooth Audio Out, Optical Audio Out, Built-in Wi-Fi, Ethernet Port",
+      "Frameless Design, Google TV, Hey Google, ADS Panel, Dolby Audio, HDR10, Smart Voice Remote",
+      "1 Year Warranty on TV + 1 Year Additional Warranty on Panel"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-SFV4307-PDP_3e8864b4-fa9c-4ce9-bdaa-0bdc780307fc.jpg",
+        "alt": "Intex 43\" Smart LED TV - LED TV G4341",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-SFV4307-PDP-1.jpg",
+        "alt": "Intex 43\" Smart LED TV - LED TV G4341",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display": "Full HD, 1920 × 1080 Resolution",
+        "Sound": "Dolby Audio with Supreme Sound Effect, 10W × 2 Box Speakers",
+        "Smart OS": "Android TV 14.0 with Google TV Interface",
+        "Voice Control": "Built-in Google Assistant + Voice Remote",
+        "Screen Mirroring": "Built-in Chromecast",
+        "Processor": "A55 Quad Core CPU (1.5GHz)",
+        "Graphics": "Mali G31MP2 GPU",
+        "Memory": "1GB RAM, 8GB Storage",
+        "Brightness": "Typical brightness (±10%)",
+        "Model": "43-G4341"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_LED_TV_G4341_Launch_PPT_Dec_2025.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-43-inch-smart-led-tv-led-tv-g4341"
+  }
+}

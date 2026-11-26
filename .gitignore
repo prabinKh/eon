@@ -1,0 +1,53 @@
+# Secrets & SSH Keys
+private
+private.pub
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+
+# Environment Variables
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.production.example
+
+# Node & Frontend Dependencies / Build Outputs
+**/node_modules/
+**/.pnpm-store/
+**/dist/
+**/build/
+**/coverage/
+**/.deploy/
+
+# Python & Django
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/venv/
+**/.venv/
+**/env/
+**/*.sqlite3*
+**/db.sqlite3*
+algoflowdocke/backend/staticfiles/
+algoflowdocke/backend/media/
+
+# Test Artifacts & Scratch
+playwright-report/
+test-results/
+**/scratch/
+
+# Logs & Debug Output
+**/*.log
+**/test_output.txt
+**/test_err.txt
+
+# OS & Editor Files
+**/.DS_Store
+**/Thumbs.db
+**/.idea/
+**/.vscode/
+**/*.swp
+**/*.swo

@@ -1,0 +1,146 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "illumax",
+    "subcategory_url": "https://cpplusworld.com/products/illumax/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "illumax",
+    "tab_id": "169",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "illumax",
+      "Network",
+      "CP-UNC-TC21L5C-VMD-LQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2163",
+    "product_name": "CP-UNC-TC21L5C-VMD-LQ",
+    "product_title": "CP-UNC-TC21L5C-VMD-LQ",
+    "product_url": "https://cpplusworld.com/cp-unc-tc21l5c-vmd-lq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/80ae69ec-03f9-4d44-8b3b-f552f0918916.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-tc21l5c-vmd-lq.html",
+  "detail": {
+    "title": "CP-UNC-TC21L5C-VMD-LQ",
+    "model": "CP-UNC-TC21L5C-VMD-LQ",
+    "brand": "CP Plus",
+    "overview": "2MP Dual Light Bullet Camera - 50Mtr.",
+    "features": [
+      "1/2.7\" 2MP PS CMOS Image Sensor (0.9407 Centimeters)",
+      "Max. 2MP (1920 × 1080)@1–25/30fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Quad stream",
+      "WDR(120dB), Day/Night(ICR), 3D NR, ROI, AWB, AGC, BLC, HLC, Digital  watermarking",
+      "IR Range of 50 Mtr., Warm Light Range of 50 Mtr.",
+      "3.6mm Lens (6mm Optional)",
+      "Support Starlight Technology",
+      "Micro SD Card, PoE, IP67, IK10 (optional)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/80ae69ec-03f9-4d44-8b3b-f552f0918916.png",
+        "alt": "CP-UNC-TC21L5C-VMD-LQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e210bb97-3d7a-4a27-a2f1-d8effc9b6d66.png",
+        "alt": "CP-UNC-TC21L5C-VMD-LQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" 2MP PS CMOS Image Sensor (0.9407 Centimeters)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Minimum Illumination": "0.001 lux@F1.4 (Color, 30 IRE), 0.0001 lux@F1.4 (B/W, 30 IRE), 0 lux (IR on)",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–90°, Rotation: 0°–360°",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "RAM": "128 MB",
+        "ROM": "128 MB",
+        "DORI Distance": "3.6mm: 58.9 m (Detect), 23.6 m (Observe), 11.8 m (Recognize), 5.9 m (Identify)   6mm: 124.0 m (Detect), 49.6 m (Observe), 24.8 m (Recognize), 12.4 m (Identify)",
+        "Gain Control(AGC)": "Auto/ Manual",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F1.4",
+        "Close Focus Distance": "3.6mm: 1.3 m; 6mm: 2.6 m",
+        "Lens": "3.6mm fixed Lens",
+        "Lens Mount": "M12",
+        "S/N Ratio": ">56 dB",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "Angle of view": "3.6mm: H: 84°; V: 42°; D: 101°  6mm: H: 52°; V: 28°; D: 61°",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by sub stream)",
+        "IR Number": "2 IR LED, 2 Warm Light",
+        "IR": "IR Range of 50 Mtr.",
+        "Warm Light": "Warm Light Range of 50 Mtr.",
+        "Smart IR": "Support",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "IR Control": "Auto, Manual",
+        "Stream Capability": "Quad Stream",
+        "Frame Rate": "Main stream: 2MP (1920 × 1080)@1–25/30 fps   Sub stream 1: 720P@1–25/30 fps       Sub stream 2: D1@1–25/30 fps       Sub stream 3: D1@1fps",
+        "Video Format": "PAL/NTSC",
+        "Privacy Mask": "4 areas",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of   vehicle and human)",
+        "ROI": "Support (4 areas)",
+        "Audio Input": "1 Channel (RCA port)",
+        "Audio Output": "1 Channel (RCA port)",
+        "OSD": "Camera title, Date & Time",
+        "Audio Compression": "G.711a, G.711Mu, G.726, PCM, AAC",
+        "Alarm IN": "1 Channel in: 5 mA 3–5 VDC",
+        "Alarm Out": "1 Channel out: 300 mA 12 VDC",
+        "Bit Rate": "H.265: 3 kbps-6144 kbps, H.264: 8 kbps-6144 kbps",
+        "Bit Rate Control": "CBR/ VBR",
+        "Protocol": "SFTP, IPv6, IPv4, DNS, RTCP, NTP, RTP, RTMP, HTTP, HTTPS, SNMP V3, TLS Version 1.2, TCP/IP, PPPoE, NFS, UDP, ICMP, IGMP, SSL, DHCP, SMTP, RTSPS, ONVIF (Profile S, Profile G, Profile T),  unicast, multicast",
+        "SDK and API": "Support",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Browser": "IE, Chrome, Firefox",
+        "Mirror Function": "Support",
+        "Resolution": "2M (1920 × 1080), 1.3M (1280 × 960), 720p (1280 × 720), D1 (704 × 576/704 × 480), VGA (640  × 480), CIF (352 × 288/352 × 240)",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Audio": "Built-in Mic",
+        "Smart search": "Work together with Smart NVR to perform refine  intelligent search, event extraction and  merging to event videos",
+        "Storage": "SFTP, Mirco SD card (Max. 512GB)",
+        "Alarm Event": "No SD card, SD card full, SD card error, Network disconnection, IP conflict, illegal access,      Motion detection, Video tampering, Tripwire, Intrusion, Audio detection, Voltage detection,  IMD (Intelligent motion detection), Security exception, External alarm",
+        "Iris Control": "Fixed",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs,  WSSE, account lockout, syslog, video encryption, IP/MAC filtering, HTTPS, trusted upgrade,  trusted boot",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2M resolution and lower)",
+        "User/Host": "6 (Total bandwidth: 36 M)",
+        "Hardware Reset Point": "Support",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 1.6 W (12 VDC), 2.1 W (PoE)       Max. (H.265+ intelligence on + WDR + illuminator on): 5.8 W (12 VDC), 6.9 W (PoE)",
+        "Weatherproof Standard": "IP67 & IK10 (optional)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95%",
+        "Dimensions": "238.5 mm × 90.7 mm × 90.7 mm",
+        "Weight": "720g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-TC21L5C-VMD-LQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/cebe526b-55e0-4deb-9e3c-79c8e07eb202.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-tc21l5c-vmd-lq"
+  }
+}

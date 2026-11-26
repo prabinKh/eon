@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Access Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/access-switches",
+    "series": "Metal",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/access-switches/metal",
+    "tab_title": "Metal",
+    "tab_id": "8607",
+    "breadcrumbs": [
+      "Transmission",
+      "Access Switches",
+      "Metal",
+      "Metal"
+    ]
+  },
+  "card_info": {
+    "product_id": "146201",
+    "product_name": "S3016-16GT",
+    "product_title": "16-Port Unmanaged Gigabit Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/metalswitch/s3016-16gt",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240704/S3016-16GT_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s3016-16gt.html",
+  "detail": {
+    "title": "16-Port Unmanaged Gigabit Switch",
+    "model": "S3016-16GT",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240704/S3016-16GT_1_thumb.png",
+        "alt": "S3016-16GT",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/metalswitch/s3016-16gt"
+  }
+}

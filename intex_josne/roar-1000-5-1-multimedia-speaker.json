@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "5.1 Channel",
+    "subcategory_url": "https://www.intex.in/collections/5-1-channel",
+    "series": "Home Theatre",
+    "series_url": "https://www.intex.in/collections/home-theatre",
+    "tab_title": "5.1 Channel",
+    "tab_id": "8908024086746",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "5.1 Channel",
+      "Intex ROAR 1000 |  5.1 Multimedia Speaker (100W)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8908024086746",
+    "product_name": "Intex ROAR 1000 |  5.1 Multimedia Speaker (100W)",
+    "product_title": "Intex ROAR 1000 |  5.1 Multimedia Speaker (100W)",
+    "product_url": "https://www.intex.in/products/roar-1000-5-1-multimedia-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_f5ab3520-77a8-46f3-8ce6-b6c45d7e4cee.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 13999.0,
+      "display": "₹13,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/roar-1000-5-1-multimedia-speaker.html",
+  "detail": {
+    "title": "Intex ROAR 1000 |  5.1 Multimedia Speaker (100W)",
+    "model": "1000-5-1",
+    "brand": "Intex",
+    "overview": "Bring the party home with the Intex ROAR 1000, a powerhouse 5.1 speaker system crafted to deliver immersive surround sound and deep bass. With 100W of explosive audio output, RGB lights on the volume knob, and seamless multimode playability (USB, AUX, FM, BT), this speaker is your all-in-one entertainment hub. Whether it's karaoke night or a casual movie marathon, ROAR 1000’s LED display, IR remote, and powerful subwoofer ensure every beat is felt and every moment is louder!",
+    "features": [
+      "Power Output: 100W Powerful Sound",
+      "Playability: USB, AUX, FM, BT",
+      "Woofer Size: 16.51 cm (6.5 in)",
+      "Display: Informative LED Display",
+      "Remote: Fully Functional IR Remote",
+      "Recording Feature: AUX, BT & FM to USB",
+      "Lighting: RGB Light with Glowing Volume Knob",
+      "Connectivity: Portable Bluetooth v5.0 with 10 Meter Range",
+      "Sound: Powerful Bass & Volume Effect"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_f5ab3520-77a8-46f3-8ce6-b6c45d7e4cee.jpg",
+        "alt": "Intex ROAR 1000 |  5.1 Multimedia Speaker (100W)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Power Output: 100W Powerful Sound",
+        "Feature 2": "Playability: USB, AUX, FM, BT",
+        "Feature 3": "Woofer Size: 16.51 cm (6.5 in)",
+        "Feature 4": "Display: Informative LED Display",
+        "Feature 5": "Remote: Fully Functional IR Remote",
+        "Feature 6": "Recording Feature: AUX, BT & FM to USB",
+        "Feature 7": "Lighting: RGB Light with Glowing Volume Knob",
+        "Feature 8": "Connectivity: Portable Bluetooth v5.0 with 10 Meter Range",
+        "Feature 9": "Sound: Powerful Bass & Volume Effect"
+      },
+      "General": {
+        "Model": "1000-5-1"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/roar-1000-5-1-multimedia-speaker"
+  }
+}

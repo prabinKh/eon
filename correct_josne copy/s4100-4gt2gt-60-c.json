@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "All-gigabit PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/all-gigabit-poe-switch",
+    "tab_title": "All-gigabit PoE Switch",
+    "tab_id": "8397",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "All-gigabit PoE Switch",
+      "All-gigabit PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "125157",
+    "product_name": "S4100-4GT2GT-60-C",
+    "product_title": "6-Port Cloud Managed Gigabit Switch with 4-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/s4100-4gt2gt-60-c",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230228/S4100-4GT2GT-60-C_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s4100-4gt2gt-60-c.html",
+  "detail": {
+    "title": "6-Port Cloud Managed Gigabit Switch with 4-Port PoE",
+    "model": "S4100-4GT2GT-60-C",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230228/S4100-4GT2GT-60-C_1_thumb.png",
+        "alt": "S4100-4GT2GT-60-C",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/s4100-4gt2gt-60-c"
+  }
+}

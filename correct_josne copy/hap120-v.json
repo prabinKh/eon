@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "Audio & Sensing",
+    "category_url": "https://www.dahuasecurity.com/products/audio-&-sensing",
+    "subcategory": "General Audio",
+    "subcategory_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "series": "Outdoor Pickups",
+    "series_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "tab_title": "Outdoor Pickups",
+    "tab_id": "18104",
+    "breadcrumbs": [
+      "Audio & Sensing",
+      "General Audio",
+      "Outdoor Pickups",
+      "Outdoor Pickups"
+    ]
+  },
+  "card_info": {
+    "product_id": "20697",
+    "product_name": "HAP120-V",
+    "product_title": "Hi-fidelity Pickup",
+    "product_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/outdoor-pickups/hap120-v",
+    "card_image": "https://material.dahuasecurity.com/product/20180316/DH-HAP120-V_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "audio-&-sensing/products/hap120-v.html",
+  "detail": {
+    "title": "Hi-fidelity Pickup",
+    "model": "HAP120-V",
+    "brand": "Dahua",
+    "overview": "Favourite HAP120-V Hi-fidelity Pickup Key Points Hi-fidelity Pickup(Water-proof & Vandal-proof ), Embedded,pick up distance 5m. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Model": "DH-HAP120-V",
+        "Scope": "5m",
+        "Frequency response": "20Hz～20kHz",
+        "Sensitivity(re 0dB=1V/Pa@1kHz)": "-43dB",
+        "Default gain": "44dB",
+        "Gain adjustment range": "Non adjustment",
+        "SNR(re 94dBSPL=1Pa@1KHz)": "58dB(A)",
+        "Dynamic range": "74dB(A)",
+        "Directional characteristic": "Omni-directional",
+        "Max. sustainable sound pressure": "110dB SPL(1KHz, THD1%)",
+        "Output impedance": "100Ω(non-equilibrium)",
+        "Output signal amplitude": "2.5Vpp/101dBSPL",
+        "Working voltage": "DC 12V",
+        "Working current": "60mA",
+        "Working temperature": "-30℃～+70℃(-22℉~+158℉)",
+        "Color": "Silver",
+        "Outer shell": "Aluminum",
+        "Protection": "IP66, IK10",
+        "Dimension": "Φ35mmx50mm (Φ1.38”x1.97”)",
+        "Weight": "60g(0.13lb)",
+        "Carried standard": "CE/FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180408/DH-HAP120-V_datasheet.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/outdoor-pickups/hap120-v"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Elavator Controller",
+    "tab_id": "18075",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Elavator Controller"
+    ]
+  },
+  "card_info": {
+    "product_id": "146731",
+    "product_name": "ECC02",
+    "product_title": "Elevator Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/elavator-controller/ecc02",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12389/ProductImage/1_0_01_25_12389_630471322_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/ecc02.html",
+  "detail": {
+    "title": "Elevator Controller",
+    "model": "ECC02",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ECC02 Elevator Controller Key Points Elevator controller, Control 128 floors' permissions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12389/ProductImage/1_0_01_25_12389_630471322_crop_thumb.png",
+        "alt": "ECC02_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12389/ProductImage/1_0_01_25_12389_630471323_crop_thumb.png",
+        "alt": "ECC02_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Internet Protocol": "IPv4;UDP;DNS;DDNS;TCP"
+      },
+      "Basic": {
+        "Product Type": "Elevator Controller",
+        "Buzzer": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Function": {
+        "Verification Method": "Card, password, fingerprint, QR code (platform mode)",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods (standalone mode)",
+        "Network Update": "Yes",
+        "Peripheral Card Reader": "Supports 2 × RS-485 card readers; 2 × Wiegand card readers",
+        "Web Configuration": "Yes"
+      },
+      "User": {
+        "User (Card) Type": "General user, VIP user, patrol user, guest user, blocklist user, other users, custom user 1 and custom user 2"
+      },
+      "Capacity": {
+        "User Capacity": "10,000 (Standalone mode);30,000 (Platform mode)",
+        "Fingerprint Capacity": "10,000",
+        "Card Capacity": "10,000 (standalone mode), 30,000 (platform mode)",
+        "Record Capacity": "300,000",
+        "Password Capacity": "10,000 (standalone mode), 30,000 (platform mode)"
+      },
+      "Port": {
+        "RS-485": "3",
+        "Wiegand": "2 × input",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port",
+        "Alarm Input": "2 digital input",
+        "Alarm Output": "2 digital input",
+        "Alarm Linkage": "Yes"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes",
+        "Blocklist Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Duress Card": "Yes",
+        "Duress Password": "Yes",
+        "Duress Fingerprint": "Yes"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 2.5 A; PoE (802.3at)",
+        "Protection": "IK06",
+        "Power Consumption": "Standby Power (no peripheral devices) ≤2 W Working Power: Total power budget if powered by DC: 1700 mA at 12 V for peripheral devices ( readers etc.) Total power budget if powered by PoE: 1200 mA at 12 V for peripheral devices ( readers etc.)",
+        "Product Dimensions": "186.4 mm × 185.8 mm × 58.3mm (7.34\" × 7.31\" × 2.30\") (L × W × H)",
+        "Packaging Dimensions": "254 mm × 243 mm × 86 mm (10.00\" × 9.57\" × 3.39\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to 131 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.99 kg (2.18 lb)",
+        "Installation": "Surface Mount; Guide Rail Mount",
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ECC02_datasheet_20240805.pdf"
+      },
+      {
+        "name": "2025-02-14 #User Manual Elevator Controller_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009547/202502/Elevator_Controller_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-02-14 #User Manual Elevator Controller_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009547/202502/Elevator_Controller_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-07-17 #Drawings ECC02_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82408/drawings/ECC02_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-17 #Drawings ECC02_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51437/drawings/ASC3202B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-10 #Firmware Customer_ASC320XB_MultiLang_NP_V1.000.10NX000.0.R.260525 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82408/firmware/Customer_ASC320XB_MultiLang_NP_V1.000.10NX000.0.R.260525.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/elavator-controller/ecc02"
+  }
+}

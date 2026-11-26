@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Tables And Stand",
+    "subcategory_url": "https://antesports.com/collections/tables-and-stand",
+    "series": "Tables And Stand Series",
+    "series_url": "https://antesports.com/collections/tables-and-stand",
+    "tab_title": "Tables And Stand",
+    "tab_id": "510062723363",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Tables And Stand",
+      "CS110 CPU Tower Stand - Choco Walnut"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346757685539",
+    "product_name": "CS110 CPU Tower Stand - Choco Walnut",
+    "product_title": "CS110 CPU Tower Stand - Choco Walnut",
+    "product_url": "https://antesports.com/products/cs110-computer-tower-stand-choco-walnut",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/112.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/cs110-computer-tower-stand-choco-walnut.html",
+  "detail": {
+    "title": "CS110 CPU Tower Stand - Choco Walnut",
+    "model": "AEPP0132",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports CS110 is a rolling CPU tower stand built to keep a PC case off the floor, improving airflow and cutting down on dust buildup around the tower. Its 18mm thick wooden top board holds up to 70kg, giving it enough strength for even heavier full-tower builds, while four caster wheels with a bayonet locking mechanism let it move freely or lock firmly in place once positioned. The wheels rotate a full 360 degrees for easy repositioning under or beside a desk, making it simple to access the case for cleaning or upgrades. Finished in a rich Choco Walnut tone, it adds a sleek, muted look to any home office or gaming setup while keeping the PC organised and protected.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/112.jpg",
+        "alt": "CS110 CPU Tower Stand - Choco Walnut - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Top Material": "18mm Wood",
+        "Weight Capacity": "70 KG",
+        "Wheels": "4 Caster Wheels, Bayonet Lock, 360° Rotation",
+        "Finish": "Choco Walnut",
+        "Use Case": "Home & Office CPU Mobility",
+        "TOP MATERIAL": "18mm Wood",
+        "WEIGHT CAPACITY": "70 KG",
+        "WHEELS": "4 Caster Wheels, Bayonet Lock, 360° Rotation",
+        "FINISH": "Choco Walnut",
+        "USE CASE": "Home & Office CPU Mobility",
+        "Offer Price (INR)": "₹699.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0132"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/cs110-computer-tower-stand-choco-walnut"
+  }
+}

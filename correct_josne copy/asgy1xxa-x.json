@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Turnstiles",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles",
+    "series": "Swing Barrier",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier",
+    "tab_title": "Flap Barrier",
+    "tab_id": "16347",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Turnstiles",
+      "Swing Barrier",
+      "Flap Barrier"
+    ]
+  },
+  "card_info": {
+    "product_id": "129317",
+    "product_name": "ASGY1XXA-X",
+    "product_title": "Dahua Flap Barrier",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/flap-barrier/lite/asgy1xxa-x",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230616/ASGY1XXA-X_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asgy1xxa-x.html",
+  "detail": {
+    "title": "Dahua Flap Barrier",
+    "model": "ASGY1XXA-X",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASGY1XXA-X Dahua Flap Barrier Key Points • Cabinet Material: SUS304 0.8mm • DC Brushless Servo Motor, MCBF ≥ 3 Million Times • 4 pairs of IR Detectors • 600mm Standard Passage Width • Adjustable Volume, Speed and Passing Time • 3 Security Levels and 9 Combination of Passage Modes • Remaining Open During Fire Emergencies • Water-proof with IPX4 Rating Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230616/ASGY1XXA-X_11_thumb.png",
+        "alt": "ASGY1XXA-X_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230616/ASGY1XXA-X_21_thumb.png",
+        "alt": "ASGY1XXA-X_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230616/ASGY1XXA-X_31_thumb.png",
+        "alt": "ASGY1XXA-X_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230616/ASGY1XXA-X_41_thumb.png",
+        "alt": "ASGY1XXA-X_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Basic": {
+        "Product Type": "Flap barrier",
+        "Motor": "Brushless DC motor",
+        "Status Indicator Light": "Solid blue: Working Solid green: Normally on Strobing red: Abnormal Strobing green: Authorizing",
+        "Voice Prompt": "Yes",
+        "Casing Material": "SUS304"
+      },
+      "Function": {
+        "Online Update": "Yes"
+      },
+      "Performance": {
+        "MCBF": "≥3 million",
+        "Product Life Span": "≥3 million",
+        "Passage Width": "Acrylic: 600 mm (23.62\")",
+        "Max Custom Passage Width": "Acrylic: 600 mm (23.62\")",
+        "Passing Speed": "20–60 people/min (subject to the people status and passing mode)",
+        "Unlock/Lock Speed": "≥0.7 s",
+        "Pairs of IR Detectors": "4",
+        "Cabinet Thickness": "0.8 mm (0.03\")",
+        "Top Cover Thickness": "1.2 mm (0.05\")",
+        "Frame Thickness": "0.8 mm (0.03\")",
+        "Barrier Material": "Acrylic",
+        "Barrier Thickness": "12 mm (0.47\")"
+      },
+      "General": {
+        "Power Supply": "Right turnstile: 100–240 VAC, 47 Hz–63 Hz Left turnstile: 24 VDC, 6 A",
+        "Vandal-proof Rating": "IK06/IK08",
+        "Protection": "IPX4",
+        "Power Consumption": "Single turnstile: 10 W (standby), 35 W (working) Double turnstiles: 20 W (standby), 70 W (working)",
+        "Product Dimensions": "1,200 mm × 280 mm × 980 mm (47.24\" × 11.02\" × 38.58\") (L × W × H)",
+        "Packaging Dimensions": "1,296 mm × 369 mm × 1,150 mm (51.02” × 14.3” × 45.28”) (L × W × H)",
+        "Gross Weight": "Single turnstile: 65 kg (143.30 lb) Double turnstiles: 72 kg (158.73 lb)",
+        "Operating Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Operating Humidity": "5%–93% (RH), non-condensing",
+        "Operating Environment": "Indoor; Outdoor",
+        "Storage Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Storage Humidity": "5%–90% (RH), non-condensing"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASGY1XXA-X_datasheet_20240907.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Flap Barrier_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007918/202501/Flap_Barrier_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-03-22 #A&E Document ASGY1XXA-X_A&E_20260901195252 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70717/a_e_document/1788264060363.docx"
+      },
+      {
+        "name": "2023-12-06 #Drawings ASGY1XXA-X_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70717/drawings/ASGY1XXA-X_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/flap-barrier/lite/asgy1xxa-x"
+  }
+}

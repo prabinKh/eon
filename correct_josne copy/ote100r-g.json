@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "Ethernet Optical Transceiver",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/ethernet-optical-transceiver",
+    "tab_title": "Ethernet Optical Transceiver",
+    "tab_id": "13727",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "Ethernet Optical Transceiver",
+      "Ethernet Optical Transceiver"
+    ]
+  },
+  "card_info": {
+    "product_id": "129027",
+    "product_name": "OTE100R-G",
+    "product_title": "Ethernet Optical Transceiver",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/ethernetopticaltransceiver/ote100r-g",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_85_10149/ProductImage/1_0_99_85_10149_363384917_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/ote100r-g.html",
+  "detail": {
+    "title": "Ethernet Optical Transceiver",
+    "model": "OTE100R-G",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_85_10149/ProductImage/1_0_99_85_10149_363384917_crop_thumb.png",
+        "alt": "OTE100R-G",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/ethernetopticaltransceiver/ote100r-g"
+  }
+}

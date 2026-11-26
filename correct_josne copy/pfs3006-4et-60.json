@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Desktop PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/desktop-poe-switch",
+    "tab_title": "Desktop PoE Switch",
+    "tab_id": "8367",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Desktop PoE Switch",
+      "Desktop PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "15551",
+    "product_name": "PFS3006-4ET-60",
+    "product_title": "6-Port 10/100Mbps Unmanaged Desktop Switch with 4 PoE Ports",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs3006-4et-60",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210412/456879691_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs3006-4et-60.html",
+  "detail": {
+    "title": "6-Port 10/100Mbps Unmanaged Desktop Switch with 4 PoE Ports",
+    "model": "PFS3006-4ET-60",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210412/456879691_thumb.png",
+        "alt": "PFS3006-4ET-60",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs3006-4et-60"
+  }
+}

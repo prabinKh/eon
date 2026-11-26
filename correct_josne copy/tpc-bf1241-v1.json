@@ -1,0 +1,218 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Eureka Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/eureka-series",
+    "tab_title": "TPC 1 Series",
+    "tab_id": "12207",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Eureka Series",
+      "TPC 1 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "154689",
+    "product_name": "TPC-BF1241-V1",
+    "product_title": "Thermal Network Mini Hybrid Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/eureka-series/tpc-1-series/tpc-bf1241-v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/image/1_0_01_34_16094_898394862_temporary_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-bf1241-v1.html",
+  "detail": {
+    "title": "Thermal Network Mini Hybrid Bullet Camera",
+    "model": "TPC-BF1241-V1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-BF1241-V1 Thermal Network Mini Hybrid Bullet Camera Key Points • Thermal and Visible Dual Channels for 7×24h Monitoring • Support Tioc • Wide Voltage: 12~24VDC • Smoking & Call Detection • Built-in White Light & Audio Alarm Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/image/1_0_01_34_16094_898394862_temporary_thumb.PNG",
+        "alt": "TPC-BF1241-V1_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/image/1_0_01_34_16094_898394863_temporary_thumb.PNG",
+        "alt": "TPC-BF1241-V1_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "Thermal": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Max. Resolution": "256 (H) × 192 (V)",
+        "Pixel Pitch": "12 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Thermal Sensitivity (NETD)": "≤25 mK@f/1.0",
+        "Field of View": "3.5 mm: H: 50.6°; V: 37.8° 7 mm: H: 24.0°; V: 18.0° 10 mm: H: 17.3°; V: 13.1°",
+        "Close Focus Distance": "3.5 mm: 0.5 m (1.64 ft) 7 mm: 1 m (3.28 ft) 10 mm: 2 m (6.56 ft)",
+        "Aperture": "F1.0",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Digital Zoom": "16 levels",
+        "AGC": "Auto; Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Image Flip": "0°; 90°; 180°; 270°",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)",
+        "Fusion Mode": "Yes (disabled by default)"
+      },
+      "Visible": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "Pixel": "4 MP",
+        "Electronic Shutter Speed": "1/30,000 s–1 s",
+        "Min. Illumination": "Color: 0.05 lux Black & white: 0.005 lux 0 lux (IR on)",
+        "Illumination Distance": "IR: 3.5 mm: 30 m (98.43 ft); 7 mm: 50 m (164.04 ft); 10 mm: 50 m (164.04 ft) Warm light: 30 m (98.43 ft)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Aperture": "4 mm: F1.6 6 mm: F1.6 12 mm: F1.7",
+        "Field of View": "4 mm: H: 88.0°; V: 49.9° 6 mm: H: 59.9°; V: 34.7° 12 mm: H: 37.3°; V: 21.4°",
+        "Focus Control": "Fixed",
+        "Close Focus Distance": "4 mm: 1 m (3.28 ft) 6 mm: 1.7 m (5.58 ft) 12 mm: 2.5 m (8.2 ft)",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; Manual; Indoor; Outdoor; Tracking; Street lamp; Natural",
+        "AGC": "Auto; Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "S/N Ratio": "≥55 dB",
+        "Region of Interest (RoI)": "RoI cannot be deleted",
+        "Image Flip": "0°; 90°; 180°; 270°"
+      },
+      "Intelligence": {
+        "General Intelligence": "Tripwire, Intrusion with Entry/Exit/Appear for human/vehicle, 10 rules total, up to 5 groups (2 rules per group)",
+        "Advanced Intelligence": "Heat (fire) Detection & Alarm Cold & Hot Spot Trace Human & Vehicle Classification Smoking Detection Call Detection Smoke Detection"
+      },
+      "Temperature Measurement": {
+        "Temperature Range": "Low temperature mode: –20 °C to +150 °C(–4 °F to +302 °F)",
+        "Temperature Accuracy": "Max (±8°C, ±8%）",
+        "Operating Temperature": "–20 °C to +50 °C (–4 °F to +122 °F)"
+      },
+      "Video and Audio": {
+        "Video Compression": "H.265; H.264; H.264H; MJPEG",
+        "Resolution": "Thermal: Main stream: 1280 × 960; 1024 × 768; 640 × 480; 256 × 192; 1280 × 960 (default); Sub stream: 640 × 480; 256 × 192; 256 × 192 (default) Visible: Main stream: 2688 × 1520; 1920 × 1080; 1280 × 720; 704 × 576; 2688 × 1520 (default); Sub stream: 1280 × 720; 704 × 576; 352 × 288; 352 × 288 (default)",
+        "Frame Rate": "Thermal (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default; Sub stream: 1 fps–25 fps, 15 fps by default; Visible (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default; Sub stream: 1 fps–25 fps, 15 fps by default; Thermal (60 Hz): Main stream: 1 fps–30 fps, 25 fps by default; Sub stream: 1 fps–30 fps, 15 fps by default; Visible (60 Hz): Main stream: 1 fps–30 fps, 25 fps by default; Sub stream: 1 fps–30 fps, 15 fps by default",
+        "Audio Compression": "G.711a; G.711mu; PCM; AAC"
+      },
+      "Network": {
+        "Protocol": "HTTP; HTTPS; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP; Multicast; SFTP; 802.1x",
+        "Edge Storage": "Micro SD card (256 G)",
+        "Interoperability": "ONVIF; CGI; DaHua SDK",
+        "Browser": "IE: IE11 and later (including the browsers with IE kernel, such as 360 Explorer, Sougou Explorer) Chrome: 65 and later Firefox: 65 and later",
+        "User/Host": "12",
+        "Security": "Authorized username and password; attached MAC address; HTTPS; IEEE 802.1x; controlled network access"
+      },
+      "Port": {
+        "Network": "1 × RJ-45 (10/100 Base-T)",
+        "Audio Input": "1",
+        "Audio Output": "1",
+        "Alarm Input": "2",
+        "Alarm Output": "2",
+        "RS-485": "1 pair",
+        "Local Audio": "White light alarm prompts, red and blue light alarm prompts"
+      },
+      "Power": {
+        "Power Supply": "12 (±20%)–24 VDC; PoE (802.3af)",
+        "Power Consumption": "Basic: <5.3 W (12 VDC; illuminator off; speaker off; red and blue light off; power output off); 6.5 W (PoE, without power output function) Max: <12 W (12 VDC; illuminator on; speaker on; red and blue light on; power output on); 11.5 W (PoE, without power output function)",
+        "Power Output": "12 VDC; ≤0.15 A (supported when the device is powered by DC, not supported when powered by POE)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +65 °C (–40 °F to +149 °F)",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP67; IK10-rated housing",
+        "Anticorrosive Coating": "Neutral salt spray test 240 h",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use in areas that have no specific requirements for anti-corrosion protection."
+      },
+      "Structure": {
+        "Product Dimensions": "233 mm × 97.6 mm × 99.8 mm (9.18\" × 3.84\" × 3.93\") (L × W × H)",
+        "Packaging Dimensions": "337 mm × 146 mm × 136 mm (13.27\" × 5.75\" × 5.35\") (L × W × H)",
+        "Net Weight": "≤1.1 kg (2.43 lb)",
+        "Gross Weight": "≤1.4 kg (3.09 lb)"
+      },
+      "Heat (Fire) Detection Distance": {
+        "Focal Length": "Max. Distance",
+        "3.5 mm": "45 m (147.64 ft)",
+        "7 mm": "86 m (282.15 ft)",
+        "10 mm": "123 m (403.54 ft)"
+      },
+      "Note: The table displays the measured distances obtained from using the target size 0.2 m × 0.2 m for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. Supports up to 16 fire points detectable.": {},
+      "Perimeter Protection Distance (IVS Distance)": {
+        "Focal Length": "Distance (Human)",
+        "3.5 mm": "105 m (344.49 ft)",
+        "7 mm": "210 m (688.98 ft)",
+        "10 mm": "300 m (984.25 ft)"
+      },
+      "Note: The table displays the optimal distance obtained from using the target sizes 1.8 m × 0.5 m (human) and 4 m × 1.4 m (vehicle) for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. General: For the short range scene, select general mode, which is better for the classification of human, vehicles, and small targets. High Sensitivity: In scene of perimeter detection, when the scene needs to be detected at a distance of 10 times, select the high sensitivity mode.": {},
+      "DRI Dsitance": {
+        "Focal Length": "Detection Distance①",
+        "3.5 mm": "Vehicle: 447 m (1,466.54 ft); Human: 146 m (479.00 ft)",
+        "7 mm": "Vehicle: 894 m (2,933.07 ft); Human: 292 m (958.01 ft)",
+        "10 mm": "Vehicle: 1,278 m (4,192.91 ft); Human: 417 m (1,368.11 ft)"
+      },
+      "①Detection Distance: Detects objects, but cannot recognize their characteristics (objects must cover more than 1.5 pixels of the image). ②Recognition Distance: Classifies objects into general categories, such as human, vehicle (the object must cover more than 6 pixels of the image). ③Identification Distance: Classifies objects into specific categories based on their characteristics, such as engineering truck, car (the object must cover more than 12 pixels of the image).": {},
+      "Note: The table is the standard theoretical calculation and is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. For the intelligent detection distance, refer to the table of Perimeter Protection Distance (IVS Distance) above.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/datasheet/DHI-TPC-BF1241-V1_datasheet_20260730.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network Bullet Camera_Web5.0 Operation Manual_V2.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82472/user_manual/Thermal_Network_Bullet_Camera_Web5.0_Operation_Manual_V2.0.4.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network Mini Hybrid Bullet Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/user_manual/Thermal_Network_Mini_Hybrid_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network Mini Hybrid Bullet Camera_Quick Start Guide V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/user_manual/Thermal_Network_Mini_Hybrid_Bullet_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-09 #A&E Document TPC-BF1241-V1_A&E_20260413212656 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86611/a_e_document/1779453766760.docx"
+      },
+      {
+        "name": "2026-01-06 #Drawings TPC-BF1241-V1_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86613/drawings/1_0_01_34_16098_900158886.pdf"
+      },
+      {
+        "name": "2026-01-06 #Drawings TPC-BF1241-V1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86613/drawings/1_0_01_34_16098_895242911.pdf"
+      },
+      {
+        "name": "2026-09-17 #Firmware DH_TPC-BF1241-B-S8-V1_MultiLang_PN_V2.680.0000000.1.R.260828 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86612/firmware/DH_TPC-BF1241-B-S8-V1_MultiLang_PN_V2.680.0000000.1.R.260828.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/eureka-series/tpc-1-series/tpc-bf1241-v1"
+  }
+}

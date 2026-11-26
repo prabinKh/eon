@@ -1,0 +1,101 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Air Coolers",
+    "subcategory_url": "https://antesports.com/collections/air-coolers",
+    "series": "Air Coolers Series",
+    "series_url": "https://antesports.com/collections/air-coolers",
+    "tab_title": "Air Coolers",
+    "tab_id": "508173025571",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Air Coolers",
+      "ICE-C120 CPU Air Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422400803",
+    "product_name": "ICE-C120 CPU Air Cooler",
+    "product_title": "ICE-C120 CPU Air Cooler",
+    "product_url": "https://antesports.com/products/ant-esports-ice-c120-low-profile-cpu-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ICE-C120_02_1c1d0aa0-66e4-48f4-b9b5-9a3635497200.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-ice-c120-low-profile-cpu-cooler.html",
+  "detail": {
+    "title": "ICE-C120 CPU Air Cooler",
+    "model": "AESP0288",
+    "brand": "Ant Esports",
+    "overview": "Low Profile Design for Small Form Factor Builds: The Ant Esports ICE-C120 is specifically designed for small form factor builds where space is limited. With a total height of only 66mm, this low-profile CPU air cooler ensures compatibility with compact cabinets, making it an ideal choice for users seeking high cooling performance in constrained spaces.Efficient Cooling with High Static Pressure Fan: The ICE-C120 is equipped with a non-RGB 120mm high static pressure fan in a distinctive yellow color. The fan's hydro bearing technology not only ensures high durability but also contributes to quiet operating noise levels. With a capacity to produce up to 48 CFM of air, this high-static-pressure fan provides an optimum cooling experience for the CPU.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ICE-C120_02_1c1d0aa0-66e4-48f4-b9b5-9a3635497200.png",
+        "alt": "ICE-C120 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_22050432-63d1-4ad1-9c1c-84a54c760fdf.png",
+        "alt": "ICE-C120 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_5fc91ea1-f454-4558-aa65-6e3eab4b3f36.png",
+        "alt": "ICE-C120 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_fe76699f-0d57-413a-9dbf-b544d9d671ae.png",
+        "alt": "ICE-C120 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "AIR COOLER",
+        "AMD Socket Support": "AM5, AM4, AM3+, AM3, AM2+, FM2, FM1",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA115X, LGA1200, LGA1366, LGA775",
+        "Cooler Type": "Downdraft",
+        "Fan Size (mm)": "120",
+        "Fan Speed (RPM)": "1500",
+        "Fan Noise (dBA)": "18",
+        "FAN Airflow (CFM)": "48",
+        "FAN Static Pressure (mmH₂O)": "0.9",
+        "Cooler Height (mm)": "66",
+        "Rated TDP (w)": "65",
+        "PRODUCT TYPE": "AIR COOLER",
+        "AMD SOCKET SUPPORT": "AM5, AM4, AM3+, AM3, AM2+, FM2, FM1",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA115X, LGA1200, LGA1366, LGA775",
+        "COOLER TYPE": "Downdraft",
+        "FAN SIZE (MM)": "120",
+        "FAN SPEED (RPM)": "1500",
+        "FAN NOISE (DBA)": "18",
+        "FAN AIRFLOW (CFM)": "48",
+        "FAN STATIC PRESSURE (MMH₂O)": "0.9",
+        "COOLER HEIGHT (MM)": "66",
+        "RATED TDP (W)": "65",
+        "Offer Price (INR)": "₹499.00",
+        "MRP (INR)": "₹549.00",
+        "SKU": "AESP0288"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-ice-c120-low-profile-cpu-cooler"
+  }
+}

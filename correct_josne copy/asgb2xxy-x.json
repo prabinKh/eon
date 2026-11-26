@@ -1,0 +1,145 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Turnstiles",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles",
+    "series": "Swing Barrier",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier",
+    "tab_title": "Swing Barrier",
+    "tab_id": "16337",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Turnstiles",
+      "Swing Barrier",
+      "Swing Barrier"
+    ]
+  },
+  "card_info": {
+    "product_id": "128557",
+    "product_name": "ASGB2XXY-X",
+    "product_title": "Dahua Swing Barrier",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier/lite/asgb2xxy-x",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12081_306158067_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asgb2xxy-x.html",
+  "detail": {
+    "title": "Dahua Swing Barrier",
+    "model": "ASGB2XXY-X",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASGB2XXY-X Dahua Swing Barrier Key Points • Cabinet Material: SUS304 1.2mm • DC Brushless Servo Motor, MCBF ≥ 3 Million Times • 8 Pairs of IR Detectors • 600mm Standard Passage Width, Level Up Width to 1100mm • 3 Security Levels and 9 Combinations of Passage Modes • Remaining Open During Fire Emergencies • Built-in Controller and IC Card Reader • Water-proof with IPX4 Rating Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12081_306158067_thumb.png",
+        "alt": "ASGB2XXY-X_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12081_306158066_thumb.png",
+        "alt": "ASGB2XXY-X_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12081_306158065_thumb.png",
+        "alt": "ASGB2XXY-X_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Basic": {
+        "Product Type": "Swing turnstile",
+        "Motor": "Brushless DC motor",
+        "Status Indicator Light": "Yes",
+        "Voice Prompt": "Yes",
+        "Casing Material": "SUS 304"
+      },
+      "Function": {
+        "Online Update": "Yes"
+      },
+      "Performance": {
+        "MCBF": "3 million",
+        "Passage Width": "600 mm (23.62\")",
+        "Max Custom Passage Width": "1,100 mm (43.31\")",
+        "Input Port": "1 × RS-485 input port",
+        "Passing Speed": "20–60 people/min",
+        "Unlock/Lock Speed": "0.8 s",
+        "Pairs of IR Detectors": "8",
+        "Cabinet Thickness": "1.2 mm (0.05\")",
+        "Top Cover Thickness": "1.2 mm (0.05\")",
+        "Barrier Material": "Acrylic",
+        "Barrier Thickness": "10.0 mm (0.39\")"
+      },
+      "Port": {
+        "Network Port": "1 × 10 Mbps/100 Mbps self-adaptive Ethernet port"
+      },
+      "Capacity": {
+        "User Capacity": "100000",
+        "Record Capacity": "100000"
+      },
+      "General": {
+        "Vandal-proof Rating": "Glass panel: IK06 Stainless steel cabinet: IK08",
+        "Protection": "IPX4",
+        "Power Consumption": "Single turnstile: ≤30 W (standby), ≤120 W (working)",
+        "Product Dimensions": "1,200 mm × 140 mm × 980 mm (47.24\" × 5.51\" × 38.58\") (L × W × H)",
+        "Packaging Dimensions": "1299 mm × 332 mm × 1,173 mm (51.14\" × 13.07\" × 42.24\") (L × W × H)",
+        "Gross Weight": "48 kg ± 2.5 kg (105.82 lb ± 5.51 lb)",
+        "Operating Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Operating Humidity": "5%–90% (RH), non-condensing",
+        "Operating environment": "Indoor; Outdoor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASGB2XXY-X_datasheet_20230315.pdf"
+      },
+      {
+        "name": "2026-05-21 #User Manual Swing Barrier_User Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70147/user_manual/Swing_Barrier_User_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-04-17 #A&E Document ASGB2XXY-X_A&E_20260901153800 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70147/a_e_document/ASGB2XXY-X_A_E_20260901153800.docx"
+      },
+      {
+        "name": "2023-03-12 #Drawings ASGB2XXY-X_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70147/drawings/ASGB2XXY-X_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-03-12 #Drawings ASGB2XXY-X_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70147/drawings/ASGB2XXY-X_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2025-09-25 #Firmware General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3396077/M/General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier/lite/asgb2xxy-x"
+  }
+}

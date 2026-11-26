@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "Other Wireless Bridge",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/other-wireless-bridge",
+    "tab_title": "Other Wireless Bridge",
+    "tab_id": "8627",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "Other Wireless Bridge",
+      "Other Wireless Bridge"
+    ]
+  },
+  "card_info": {
+    "product_id": "12921",
+    "product_name": "PFM885-I",
+    "product_title": "Indoor 2.4G Wireless Elevator AP",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/otherwirelessbridge/pfm885-i",
+    "card_image": "https://material.dahuasecurity.com/upfiles/PFM885-I_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfm885-i.html",
+  "detail": {
+    "title": "Indoor 2.4G Wireless Elevator AP",
+    "model": "PFM885-I",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/upfiles/PFM885-I_thumb.png",
+        "alt": "PFM885-I",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/otherwirelessbridge/pfm885-i"
+  }
+}

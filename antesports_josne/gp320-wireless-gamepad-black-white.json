@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP320 Wireless Gamepad - Black/White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869746979",
+    "product_name": "GP320 Wireless Gamepad - Black/White",
+    "product_title": "GP320 Wireless Gamepad - Black/White",
+    "product_url": "https://antesports.com/products/gp320-wireless-gamepad-black-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_88ebb19f-98c9-4203-a7d9-46f4584805a5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gp320-wireless-gamepad-black-white.html",
+  "detail": {
+    "title": "GP320 Wireless Gamepad - Black/White",
+    "model": "AEPP0175",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP320 is a wireless gaming controller built for broad platform compatibility, working across Android, Windows PC, iOS, Nintendo Switch, PS4 and PS3. Dual analog sticks with precision control and tactile buttons ensure accurate movement and aiming across genres, while dual vibration motors add immersive feedback during key gameplay moments. A dedicated turbo function enables rapid-fire inputs for action and arcade-style games, and the ergonomically designed layout with textured grips keeps sessions comfortable even during extended play. Its cross-platform versatility makes the GP320 a flexible pick for gamers who switch between devices regularly.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_88ebb19f-98c9-4203-a7d9-46f4584805a5.jpg",
+        "alt": "GP320 Wireless Gamepad - Black/White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wireless",
+        "Vibration": "Dual Motor",
+        "Function": "Turbo",
+        "Compatibility": "Android, Windows PC, iOS, Nintendo Switch, PS4, PS3",
+        "Color": "Black/White",
+        "CONNECTIVITY": "Wireless",
+        "VIBRATION": "Dual Motor",
+        "FUNCTION": "Turbo",
+        "COMPATIBILITY": "Android, Windows PC, iOS, Nintendo Switch, PS4, PS3",
+        "COLOR": "Black/White",
+        "Offer Price (INR)": "₹1,299.00",
+        "MRP (INR)": "₹3,399.00",
+        "SKU": "AEPP0175"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP320)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP320.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp320-wireless-gamepad-black-white"
+  }
+}

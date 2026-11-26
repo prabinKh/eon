@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "All-gigabit PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/all-gigabit-poe-switch",
+    "tab_title": "All-gigabit PoE Switch",
+    "tab_id": "8397",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "All-gigabit PoE Switch",
+      "All-gigabit PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "124187",
+    "product_name": "S4220-16GT-240",
+    "product_title": "20-Port Managed Desktop Gigabit Switch with 16-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s4220-16gt-240",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/65487/image/1_0_01_20_11031_340666881_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s4220-16gt-240.html",
+  "detail": {
+    "title": "20-Port Managed Desktop Gigabit Switch with 16-Port PoE",
+    "model": "S4220-16GT-240",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65487/image/1_0_01_20_11031_340666881_crop_thumb.png",
+        "alt": "S4220-16GT-240",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s4220-16gt-240"
+  }
+}

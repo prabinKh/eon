@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "Analog",
+    "category_url": "https://cpplusworld.com/products/analog",
+    "subcategory": "illumax",
+    "subcategory_url": "https://cpplusworld.com/products/illumax/analog",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "illumax",
+    "tab_id": "170",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "illumax",
+      "Analog",
+      "CP-URC-TC51PL3C-L"
+    ]
+  },
+  "card_info": {
+    "product_id": "1928",
+    "product_name": "CP-URC-TC51PL3C-L",
+    "product_title": "CP-URC-TC51PL3C-L",
+    "product_url": "https://cpplusworld.com/cp-urc-tc51pl3c-l",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f7de37d3-e3f0-405e-847a-d5d05527ddb7.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-urc-tc51pl3c-l.html",
+  "detail": {
+    "title": "CP-URC-TC51PL3C-L",
+    "model": "CP-URC-TC51PL3C-L",
+    "brand": "CP Plus",
+    "overview": "5MP Dual Light Bullet Camera - 30Mtr.",
+    "features": [
+      "1/2.7” 5MP PS CMOS Image Sensor (0.9407 centimetres)",
+      "DWDR, Day/Night (ICR), 2D DNR,BLC, HLC",
+      "3.6mm fixed lens (2.8 mm, 6mm optional)",
+      "IR Range of 30 Mtrs., Warm Light Range of 20 Mtrs., IP67",
+      "4 Signals over 1 Coaxial Cable",
+      "Support Built-in Mic"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f7de37d3-e3f0-405e-847a-d5d05527ddb7.jpg",
+        "alt": "CP-URC-TC51PL3C-L - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2861afe2-264a-43c9-b9c1-4eb256a06b33.jpg",
+        "alt": "CP-URC-TC51PL3C-L - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7” 5MP PS CMOS Image Sensor (0.9407 centimetres)",
+        "Minimum Illumination": "0.02 lux@F2.0 (Color, 30 IRE), 0.002 lux@F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Shutter Speed": "PAL: 1/25~1/100000s  NTSC: 1/30~1/100000s",
+        "White Balance": "Auto, Area white balance",
+        "Gain Control (AGC)": "Auto",
+        "DORI Distance": "3.6 mm: Detect: 76.0 Mtr., Observe-30.4 Mtr., Recognize: 15.2 Mtr., Identify: 7.6 Mtr. 2.8 mm: Detect: 66.0 Mtr., Observe: 26.4 Mtr., Recognize: 13.2 Mtr., Identify: 6.6 Mtr. 6 mm: Detect: 120.0 Mtr. , Observe: 48.0 Mtr. , Recognize: 24.0 Mtr., Identify : 12.0 Mtr.",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F2.0",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "3.6mm: 1.3Mtr., 2.8mm: 1.0Mtr., 6mm: 2.8Mtr.",
+        "Lens": "3.6mm, 6mm(2.8mm optional)",
+        "Back Light Compensation": "BLC/HLC/DWDR",
+        "Angle Adjustment": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°",
+        "Angle of view": "2.8 mm: H: 106°, V: 56°, D: 125°  3.6 mm: H: 92°, V: 48°, D: 109°  6 mm: H: 54°, V: 29°, D: 62°",
+        "S/N Ratio": ">65 dB",
+        "Resolution": "5M (2880 × 1620), 4M (2560 × 1440), 2MP (1920 × 1080), 960H (960 × 576/960 × 480)",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Video Streaming": "CVI: PAL: 5M@25 fps, 4M@25 fps, 2M@25 fps, NTSC: 5M@25 fps, 4M@30 fps, 2M@30 fps  AHD: PAL: 4M@25 fps, NTSC: 4M@30 fps, TVI: PAL: 4M@25 fps, NTSC: 4M@30 fps, CVBS:  PAL: 960H, NTSC: 960H",
+        "Noise Reduction": "2D NR",
+        "Privacy Mask": "Off/On (8 areas, rectangle)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Mirror Function": "Support",
+        "IR": "IR Range of 30 Mtr.,",
+        "IR Control": "Auto, Manual",
+        "Warm Light Range": "Warm Light Range of 20 Mtr.",
+        "IR Mode": "Smart IR&WL, WL Mode, IR Mode",
+        "Dual LED Number": "2 (Warm light) + 2 (IR light)",
+        "Iris Control": "Fixed",
+        "Anti-corrosion Level": "Basic Protection",
+        "Audio": "Built-in Mic",
+        "Weatherproof Standard": "IP67",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Power Source": "12VDC ±30%",
+        "Power Consumption": "Max 4.0 W (12V DC, WLED on)",
+        "Casing": "Plastic",
+        "Dimension": "146.1mm × 70.0mm × 69.8mm",
+        "Weight": "0.17kg."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-TC51PL3C-L.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-tc51pl3c-l"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Intelligent Computing",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/intelligent-computing",
+    "series": "128CH 2U Intelligent Video Surveillance Server IVSS7108/H-V2",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-surveillance-server",
+    "tab_title": "IVSS71 Series",
+    "tab_id": "17791",
+    "breadcrumbs": [
+      "Network Products",
+      "Intelligent Computing",
+      "128CH 2U Intelligent Video Surveillance Server IVSS7108/H-V2",
+      "IVSS71 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "144061",
+    "product_name": "IVSS7112",
+    "product_title": "128CH 2U Intelligent Video Surveillance Server",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-surveillance-server/ivss71-series/ivss7112",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15790/ProductImage/1_0_01_23_15790_524548178_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ivss7112.html",
+  "detail": {
+    "title": "128CH 2U Intelligent Video Surveillance Server",
+    "model": "IVSS7112",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IVSS7112 128CH 2U Intelligent Video Surveillance Server Key Points • Max. 128-ch IP Camera Inputs • Max. 768/768/768 Mbps Incoming/Recording/Outgoing Bandwidth • 12 Bays, RAID 0/1/5/6/10/50/60 • 4 HDMI/1 VGA Video Output Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15790/ProductImage/1_0_01_23_15790_524548178_crop_thumb.png",
+        "alt": "IVSS7112_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15790/ProductImage/1_0_01_23_15790_524548179_crop_thumb.png",
+        "alt": "IVSS7112_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15790/ProductImage/1_0_01_23_15790_524548180_crop_thumb.png",
+        "alt": "IVSS7112_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Operating Interface": {},
+      "AI by Camera": {},
+      "Face Detection": {},
+      "Face Recognition": {},
+      "Video Metadata": {},
+      "Vehicle License Plate Comparison": {},
+      "IVS": {},
+      "Video Diagnosis": {},
+      "Access Channel": {},
+      "Network Bandwidth": {},
+      "Resolution": {},
+      "Decoding Capability": {},
+      "Video Output": {},
+      "Multi-screen Display": {},
+      "Third-party Camera Access": {},
+      "Video Compression": {},
+      "Audio Compression": {},
+      "Network Protocol": {},
+      "Mobile Phone Access": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Network Mode": {},
+      "Multi-channel Playback": {},
+      "Record Mode": {},
+      "Storage Method": {},
+      "Backup Method": {},
+      "Playback Function": {},
+      "Disk Group": {},
+      "Network Disk": {},
+      "RAID": {},
+      "Record Management": {},
+      "General Alarm": {},
+      "Anomaly Alarm": {},
+      "Alarm Linkage": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Disk Interface": {},
+      "eSATA": {},
+      "RS-232": {},
+      "RS-485": {},
+      "USB": {},
+      "HDMI": {},
+      "VGA": {},
+      "Network Port": {},
+      "Power": {},
+      "Network Port Extension": {},
+      "Disk Bay": {},
+      "Form Factor": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Fan": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Installation": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81131/datasheet/DHI-IVSS7112_datasheet_20260921_English.pdf"
+      },
+      {
+        "name": "2026-06-23 #User Manual Dahua IVSS_User Manual_V7.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14537/user_manual/Dahua_IVSS_User_Manual_V7.1.0.pdf"
+      },
+      {
+        "name": "2026-06-23 #User Manual Dahua IVSS_User Manual_V6.2.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14537/user_manual/Dahua_IVSS_User_Manual_V6.2.5.pdf"
+      },
+      {
+        "name": "2026-06-23 #User Manual HDD_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/2927/user_manual/HDD_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-28 #A&E Document IVSS7112_A&E_20260923161833 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81131/a_e_document/1790151643869.docx"
+      },
+      {
+        "name": "2023-10-10 #Drawings IVSS7112_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81131/drawings/IVSS7112_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings IVSS7112_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81131/drawings/IVSS7112_PORT.pdf"
+      },
+      {
+        "name": "2026-08-31 #Firmware DHI_IVSS71XXAI-I_MultiLang_V3.005.0000004.1.R.260819 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83135/firmware/DHI_IVSS71XXAI-I_MultiLang_V3.005.0000004.1.R.260819.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-surveillance-server/ivss71-series/ivss7112"
+  }
+}

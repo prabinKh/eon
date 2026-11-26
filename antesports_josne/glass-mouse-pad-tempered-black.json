@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Glass Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923981603",
+    "product_name": "Glass Mouse Pad - Black",
+    "product_title": "Glass Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/glass-mouse-pad-tempered-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/27_5515942d-e51c-457a-8ba9-4c32d6d48025.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/glass-mouse-pad-tempered-black.html",
+  "detail": {
+    "title": "Glass Mouse Pad - Black",
+    "model": "AEPP0373",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Glass Mouse Pad uses a tempered glass surface to deliver exceptionally smooth, low-friction gliding for precision tracking with both optical and laser mice. Its hard, scratch-resistant top stays consistent over years of use, unlike cloth pads that wear down and slow over time, while an anti-skid base keeps the pad firmly planted during fast, competitive movements. A sleek, minimal aesthetic in black suits modern gaming desks that want a premium, durable surface built for accuracy.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/27_5515942d-e51c-457a-8ba9-4c32d6d48025.png",
+        "alt": "Glass Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Surface Material": "Tempered Glass",
+        "Tracking": "Smooth Precision",
+        "Base": "Anti-Skid",
+        "Compatibility": "Laser & Optical Mice",
+        "Color": "Black",
+        "SURFACE MATERIAL": "Tempered Glass",
+        "TRACKING": "Smooth Precision",
+        "BASE": "Anti-Skid",
+        "COMPATIBILITY": "Laser & Optical Mice",
+        "COLOR": "Black",
+        "SKU": "AEPP0373"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/glass-mouse-pad-tempered-black"
+  }
+}

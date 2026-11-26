@@ -1,0 +1,155 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Panorama Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/panorama-series",
+    "tab_title": "Panorama Series",
+    "tab_id": "6232",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Panorama Series",
+      "Panorama Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "27037",
+    "product_name": "HAC-EW2501",
+    "product_title": "5MP HDCVI IR-Fisheye Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/panorama-series/hac-ew2501",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20181106/EW2501_image_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-ew2501.html",
+  "detail": {
+    "title": "5MP HDCVI IR-Fisheye Camera",
+    "model": "HAC-EW2501",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-EW2501 5MP HDCVI IR-Fisheye Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 10m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & 120dB WDR Ensures Clear Details in Strong Backlight Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20181106/EW2501_image_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" 5MP CMOS",
+        "Effective Pixels": "2592(H)×1944(V),5MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL:1/4s~1/100,000s NTSC:1/3s~1/100,000s",
+        "Minimum Illumination": "0.005Lux/F2.0 (Color), 30IRE,0lux IR on",
+        "S/N Ratio": "More than 65dB",
+        "IR Distance": "10m",
+        "IR On/Off Control": "Auto (ICR)/Color/B/W",
+        "IR LEDs": "3"
+      },
+      "Lens": {
+        "Lens Type": "Fixed lens / Fixed iris",
+        "Mount Type": "Board-in",
+        "Focal Length": "1.4mm",
+        "Max Aperture": "F2.0",
+        "Angle of View": "H: 180°, V:180°",
+        "Focus Control": "N/A",
+        "Close Focus Distance": "0.2m(7.87'')"
+      },
+      "DORI Distance": {},
+      "Note: The DORI distance is a “general proximity” of distance which makes it easy to pinpoint the right camera for your needs. The DORI distance is calculated based on sensor specification and lab test result according to EN 62676-4 which defines the criteria for Detect, Observe, Recognize and Identify respectively.": {
+        "Detect": "25px/m (8px/ft)",
+        "Observe": "63px/m (19px/ft)",
+        "Recognize": "125px/m (38px/ft)",
+        "Identify": "250ppm (76px/ft)"
+      },
+      "Pan / Tilt / Rotation": {
+        "Pan/Tilt/Rotation": "Pan: NA Tilt: NA Rotation: NA"
+      },
+      "Video": {
+        "Resolution": "5MP (2592×1944)",
+        "Frame Rate": "20fps@5MP,25/30fps@4MP",
+        "Video Output": "1-channel BNC high definition video output",
+        "Day/Night": "Auto (Electronic) / Manual",
+        "OSD Menu": "Multi-language",
+        "BLC Mode": "BLC / HLC / WDR",
+        "WDR": "120dB",
+        "Gain Control": "AGC",
+        "Noise Reduction": "2D/3D",
+        "White Balance": "Auto / Manual",
+        "Smart IR": "Auto / Manual"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Interface": {
+        "Audio": "Built-in mic"
+      },
+      "Eelectrical": {
+        "Power Supply": "DC12V ±30%",
+        "Power Consumption": "7.3W (IR ON)"
+      },
+      "Environmental": {
+        "Operating Conditions": "-30°C ~ +60°C (-22°F ~ +140°F) / Less than 95% RH * Start up should be done at above -30°C (-22°F)",
+        "Storage Conditions": "-30°C ~ +60°C (-22°F ~ +140°F) / Less than 95% RH",
+        "Ingress Protection & Vandal Resistance": "N/A"
+      },
+      "Construction": {
+        "Casing": "Aluminium + Plastic",
+        "Dimensions": "Φ126.2mm x 40.6mm(Φ4.97\"x 1.6\")",
+        "Net Weight": "0.24kg (0.53lb)",
+        "Gross Weight": "0.42kg (0.93lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20181106/DH-HAC-EW2501_Datasheet_201810251.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Special Camera_Installation Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30457/user_manual/HDCVI_Special_Camera_Installation_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2024-01-30 #Drawings HAC-EW2501_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/4557/drawings/IPC-EW5541-AS_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-30 #Drawings HAC-EW2501_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/4557/drawings/IPC-EW5541-AS_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/panorama-series/hac-ew2501"
+  }
+}

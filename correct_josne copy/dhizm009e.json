@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "RFID",
+    "tab_id": "118203",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "RFID"
+    ]
+  },
+  "card_info": {
+    "product_id": "153540",
+    "product_name": "DHIZM009E",
+    "product_title": "Desktop Card Issuer",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/dhizm009e",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15794/ProductImage/1_0_01_09_15794_811287463_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/dhizm009e.html",
+  "detail": {
+    "title": "Desktop Card Issuer",
+    "model": "DHIZM009E",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DHIZM009E Desktop Card Issuer Key Points • Compliant with ISO 18000-6C • Supporting RS232 and 10/100Base-T Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15794/ProductImage/1_0_01_09_15794_811287463_crop_thumb.PNG",
+        "alt": "DHIZM009E_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15794/ProductImage/1_0_01_09_15794_811287460_crop_thumb.PNG",
+        "alt": "DHIZM009E_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15794/ProductImage/1_0_01_09_15794_811287461_crop_thumb.PNG",
+        "alt": "DHIZM009E_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15794/ProductImage/1_0_01_09_15794_811287462_crop_thumb.PNG",
+        "alt": "DHIZM009E_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Air Interface Protocol": {},
+      "Antenna Polarization": {},
+      "Operating Frequency": {},
+      "Operating Frequency Accuracy": {},
+      "Read/Write Performance": {},
+      "Wired Mode": {},
+      "Operating Voltage": {},
+      "Rated Power": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Atmospheric Pressure": {},
+      "Protection": {},
+      "MTBF": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84657/datasheet/DHIZM009E_datasheet_20250904.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua RFID Card Issuer_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84657/user_manual/Dahua_RFID_Card_Issuer_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-06-24 #Firmware ERI-IssueCard-Client_6C_x64 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84657/firmware/1426336838497.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/dhizm009e"
+  }
+}

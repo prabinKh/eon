@@ -1,0 +1,167 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Smoke Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/smoke-alarms",
+    "tab_title": "Smoke Alarms",
+    "tab_id": "14227",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Smoke Alarms",
+      "Smoke Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "130667",
+    "product_name": "HY-SA40A",
+    "product_title": "Standalone Smoke Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa40a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230710/Image_HY-SA40A3_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-sa40a.html",
+  "detail": {
+    "title": "Standalone Smoke Alarm",
+    "model": "HY-SA40A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA40A Standalone Smoke Alarm Key Points · Split-spectrum sensor technology · Test and silence features in one single button, silenced by a working infrared remote controller · Loud sound output over 85 dB(A) at 3 meters · Low quiescent current consumption · Surface-mount device (SMD) circuit board design · Low battery warning signal · Sealed lithium battery, easy installation Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/Image_HY-SA40A3_thumb.png",
+        "alt": "HY-SA40A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/Image_HY-SA40A1_thumb.png",
+        "alt": "HY-SA40A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/Image_HY-SA40A5_thumb.png",
+        "alt": "HY-SA40A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/Image_HY-SA40A4_thumb.png",
+        "alt": "HY-SA40A",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230710/Image_HY-SA40A2_thumb.png",
+        "alt": "HY-SA40A",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "9 s",
+        "Sensor Type": "Photoelectric"
+      },
+      "Alarm": {
+        "Alarm Type": "Smoke alarm, fault warning, low battery warning",
+        "Alarm Volume": "85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Silence Duration": "9 min",
+        "Infrared Silence": "Yes",
+        "Alarm Response Threshold": "0.2dB/m-0.3dB/m"
+      },
+      "Basic Parameters": {
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes twice per minute",
+        "Coverage Area": "When the height of the space is less than 8 m (26.25 ft), the protection area of a device is 20 m2–40 m2"
+      },
+      "Power Supply": {
+        "Battery Life": "10 years",
+        "Power Source": "3V CR123A lithium battery (non-replaceable)",
+        "Operating Current": "Monitoring current: ≤ 15uA (avg.) Alarm current: ≤ 35mA (avg.)"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤ 95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "φ81.5 mm × H51.6 mm (φ3.21\" × H2.03\")",
+        "Weight": "110 g (0.24 lb)",
+        "Installation": "Ceiling Mount"
+      },
+      "Certification": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 14604:2005+AC:2008"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/datasheet/HY-SA40A_datasheet_20230523.pdf"
+      },
+      {
+        "name": "2026-01-21 #User Manual Smoke Alarm(DHI-HY-SA40A)_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/user_manual/Smoke_Alarm(DHI-HY-SA40A)_User_s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2023-07-10 #User Manual User manual_DHI-HY-SA40A Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/user_manual/User_manual_DHI-HY-SA40A.pdf"
+      },
+      {
+        "name": "2023-11-23 #Drawings HY-SA40A_COMPONENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/drawings/HY-SA40A_COMPONENT.pdf"
+      },
+      {
+        "name": "2023-11-23 #Drawings HY-SA40A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/drawings/HY-SA40A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-23 #Drawings HY-SA40A_SOURCE_FILE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/drawings/HY-SA40A_SOURCE_FILE.pdf"
+      },
+      {
+        "name": "2023-11-23 #Drawings HY-SA40A_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/drawings/HY-SA40A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-07-10 #Drawings Installation_HY-SA40A Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/drawings/Installation_HY-SA40A.pdf"
+      },
+      {
+        "name": "2023-07-10 #Drawings Dimensions_HY-SA40A Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71847/drawings/Dimensions_HY-SA40A.pdf"
+      },
+      {
+        "name": "2025-07-14 #Firmware DHI_HYSA40A_Eng_MCU_V1.000.0000003.0.R.250519 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3275753/M/DHI_HYSA40A_Eng_MCU_V1.000.0000003.0.R.250519.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa40a"
+  }
+}

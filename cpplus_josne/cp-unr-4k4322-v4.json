@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "32 Ch.",
+    "category_url": "https://cpplusworld.com/products/32-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/32-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "31",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "32 Ch.",
+      "CP-UNR-4K4322-V4"
+    ]
+  },
+  "card_info": {
+    "product_id": "2030",
+    "product_name": "CP-UNR-4K4322-V4",
+    "product_title": "CP-UNR-4K4322-V4",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4322-v4",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/6b43549a-cfe2-4f37-a089-785112573162.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4322-v4.html",
+  "detail": {
+    "title": "CP-UNR-4K4322-V4",
+    "model": "CP-UNR-4K4322-V4",
+    "brand": "CP Plus",
+    "overview": "32 Ch. 4K Network Video Recorder",
+    "features": [
+      "Up to 32 channel IP camera input",
+      "Instastream, H.265, H.264 , H.264, MJPEG Decoding",
+      "Max. decoding capability: 8 × 1080p@30 fps or 2 × 8 MP@30 fps",
+      "Max. 160/128/60 Mbps Incoming/ Recording/ Outgoing Bandwidth",
+      "Support 2 SATA HDDs up to 20TB Each, 2 USB Ports",
+      "HDMI / VGA simultaneous video output",
+      "AI by Camera: Face detection and recognition, Perimeter protection, SMD Plus,  People counting, Stereo analysis and heat map",
+      "Support Multi-brand network cameras",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6b43549a-cfe2-4f37-a089-785112573162.jpg",
+        "alt": "CP-UNR-4K4322-V4 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/dd6484c0-5c7a-49be-8c93-8103d785baf8.jpg",
+        "alt": "CP-UNR-4K4322-V4 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "32 channel",
+        "User Interface": "Web, Local GUI",
+        "AI by NVR": "SMD Plus",
+        "Perimeter Performance of AI by Camera": "6 Channels",
+        "Video Output": "1 HDMI, 1 VGA  Simultaneous: HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720  VGA: 1920 × 1080, 1280 × 1024, 1280 × 720  Heterogeneous: HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720  VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Face Attributes": "Gender, Age group, Glasses, Expressions, Face mask, Beard",
+        "Abnormality Alarm": "Camera disconnection, Storage error, Disk full, IP conflict, MAC conflict, Login locked, Cyberse\u0002curity exceptio",
+        "SMD Plus by NVR": "2 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by  leaves, rain and lighting condition change",
+        "Face Detection AI by Camera": "6 Channels",
+        "Resolution": "4 MP, 3 MP, 2MP, 960p, 720p, D1, CIF, QCIF",
+        "Video Compression": "Instastream; H.265, H.264+, H.264",
+        "Network Bandwidth": "AI disabled: 160 Mbps incoming, 128 Mbps recording and 60 Mbps outgoing  AI enabled: 80 Mbps incoming, 80 Mbps recording and 60 Mbps outgoing",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Disk Group": "Support",
+        "Video Display Split": "AI disabled: Main Screen: 1/4/8/9/16/25/36, Sub Screen: 1/4/8/9/16  AI enabled: Main Screen: 1/4/8/9/16, Sub Screen: 1/4/8/9/16",
+        "Audio Input": "1 Channel RCA",
+        "Audio Output": "2 Channel RCA",
+        "Audio Compression": "G.711a, G.711u, PCM,",
+        "Hard Disk": "2 SATA ports. Each disk can contain up to 20 TB. This limit varies depending on the environ\u0002ment temperatur",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Multi-channel Playback": "Up to 16 Channels",
+        "Playback": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Backup Mode": "USB device and Network",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port), 1 HDMI, 1 VGA",
+        "Ethernet": "1 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Protocols": "HTTPS, TCP/IP, IPv4, IPv6, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP, DDNS,  SNMP, Alarm Server, InstaOn, Auto Registration, ONVIF 22.12(Profile T, Profile S, Profile G),  CGI, SDK",
+        "Power Supply": "12 VDC, 2 A",
+        "Power Consumption": "Total output of NVR is <10 W(without HDD)",
+        "Operating Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Storage Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Dimensions": "375.0 mm × 282.9 mm × 53.0 mm",
+        "Weight": "1.49 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4322-V4.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4322-v4"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-CPS-PD08-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "2142",
+    "product_name": "CP-CPS-PD08-12D",
+    "product_title": "CP-CPS-PD08-12D",
+    "product_url": "https://cpplusworld.com/cp-cps-pd08-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d97a31d8-892c-456d-957c-9e2edd086a40.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-cps-pd08-12d.html",
+  "detail": {
+    "title": "CP-CPS-PD08-12D",
+    "model": "CP-CPS-PD08-12D",
+    "brand": "CP Plus",
+    "overview": "8 Ch. Power Supply",
+    "features": [
+      "Universal AC Input/ Full Range",
+      "LED Indicator For Power on For Output",
+      "Long Distance Voltage Drop Adjustment with Cable Compensation Switch",
+      "Low Ripple Voltage, Low Energy Consumption with High Efficiency",
+      "Stabilize Output with Low Interference"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d97a31d8-892c-456d-957c-9e2edd086a40.png",
+        "alt": "CP-CPS-PD08-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f4f85653-1a67-4083-b444-a3802884b250.png",
+        "alt": "CP-CPS-PD08-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input AC Voltage Range": "170V~250V AC",
+        "Input AC Voltage Rated": "220-240V AC",
+        "AC Current (Typ.)": "2A@90VAC",
+        "Rated Power": "72W",
+        "Inrush Current (Typ.)": "COLD START 40A@230V AC",
+        "Leakage Current": "< 2mA@230VAC",
+        "Efficiency (Typ.)": "≥ 85%",
+        "Frequency Range": "50Hz",
+        "Output DC No Load Rated Voltage": "12-12.5V, 14V-14.5V, 15-15.5V",
+        "Output DC On Load Rated Voltage": "11.2-12.6V, 13.2-14.2V, 14.2-15.2V",
+        "Output DC Current Range": "0-5A, 0-4.25A, 0-4A",
+        "DC Power (Pout) Max": "60W, 60W, 60W",
+        "Ripple & Noise (max.)": "<240mV, <270mV, <300mV",
+        "Load Efficiency": "85%, 86%, 86%",
+        "Setup Start up Time": "< 2S@230VAC",
+        "Line Regulation": "±2%",
+        "Load Regulation": "±2%",
+        "Lead Cable Compensation": "<3% OF DC NO LOAD VOLTAGE",
+        "Over Voltage Protection": "Support",
+        "Over Current Protection": "YES, 110%-150%OF RATED CURRENT",
+        "DC Short Circuit": "YES With Auto Restart Function",
+        "Over Temperature": "Hiccup Mode, recovers automatically after faults removed",
+        "Safety Standard": "IEC-60950-1-2005/IS-13252(PART-1):2010",
+        "Withstand Voltage": "I/P-O/P:3KVAC, I/P-FG:1.5KVAC, O/P-FG:1.5KVAC",
+        "Isolation Resistance": "I/P-O/P, I/P-FG,O/P-FG:100Mohm/500VDC",
+        "Production Isolation": "CLASS-II",
+        "IP Protection": "IP20",
+        "EMC Immunity": "SURGE SUSCEPTIBILITY IEC-61000-4-5 L TO N AND N TO L, LEVEL-3 , 3KV/ 2 ohm, (0°/90°/270°)  ±5 TIMES ESD, IEC-61000-4-2 LEVEL3 8KV AIR, LEVEL 2 4KV CONTACT",
+        "Working temperature": "0 to +40°C",
+        "Working Humidity": "10% ~ 95%RH",
+        "Case Temperature": "≤70°C",
+        "Dimension": "165mm x 115mm x 35mm",
+        "Body Type": "PC-FR-4",
+        "Weight": "245gm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-CPS-PD08-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-cps-pd08-12d"
+  }
+}

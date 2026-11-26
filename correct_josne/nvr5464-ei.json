@@ -1,0 +1,179 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series",
+    "tab_title": "NVR 5-EI Series",
+    "tab_id": "15297",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "WizSense Series",
+      "NVR 5-EI Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "122057",
+    "product_name": "NVR5464-EI",
+    "product_title": "Dahua 64CH 4HDD 1.5U NETWORK VIDEO RECORDER",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr-5-ei-series/nvr5464-ei",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5464-EI_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr5464-ei.html",
+  "detail": {
+    "title": "Dahua 64CH 4HDD 1.5U NETWORK VIDEO RECORDER",
+    "model": "NVR5464-EI",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR5464-EI Dahua 64CH 4HDD 1.5U NETWORK VIDEO RECORDER Key Points • Max. 384/384/384 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 32 × 1080p@30 fps • IP Cameras Resolution Up to 32MP • 4K HDMI Output • 4 Bays. Each HDD Storage Capacity Up to 20TB • AI by Recorder: 2-ch Face Detection and Recognition, 8-ch SMD, 4-ch Perimeter Protection • N+M Cluster, iSCSI Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5464-EI_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5464-EI_3_thumb.png",
+        "alt": "NVR5464-EI",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5464-EI_2_thumb.png",
+        "alt": "NVR5464-EI",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "General": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web, Local GUI",
+        "AI by Recorder": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "AI by Camera": "Face detection; face recognition; video metadata (human, motor vehicles, and non-motor vehicles); perimeter protection; SMD Plus; stereo analysis; crowd distribution; people counting; ANPR; vehicle density; heat map",
+        "AcuPick AI by Camera + Recorder": "Max. 32-channel, 1 combined event per channel/s",
+        "Perimeter Performance AI by Recorder (Number of Channels)": "4 channels, 10 IVS rules for each channel",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "All channels (16 targets/s)",
+        "Face Attributes": "Gender; age group; glasses; expressions; face mask; beard",
+        "Face Detection Performance of AI by Recorder (Number of Channels)": "2 channels (up to 12 face images/s each channel)",
+        "Face Detection Performance of AI by Camera (Number of Channels)": "16 channels",
+        "Face Database Capacity": "Up to 20 face databases with 20,000 images, with a total capacity of 2.5 G. Name, gender, birthday, address, credential type, credential No., countries & regions and state can be added to each face image.",
+        "Face Recognition Performance of AI by Recorder (Number of Channels)": "1. 16-channel FD (by camera) + FR (by recorder), image stream: 16 face images/s 2. 2-channe FD (by recorder) + FR (by recorder), video stream: 12 face images/s",
+        "Face Recognition Performance of AI by Camera (Number of Channels)": "16 channels",
+        "SMD Plus by Recorder": "8 channels: Secondary filtering for human and motor vehicle , reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "All channels (32 targets/s)",
+        "Metadata Performance of AI by Camera (Number of Channels)": "8 channels",
+        "Human Attributes": "Top color, top type, bottom color, bottom type, hat, bag, age, gender and umbrella",
+        "Motor Vehicle Attributes": "License plate, plate color, vehicle body, vehicle model, vehicle logo, calling, seatbelt, vehicle interior, vehicle registration location.",
+        "Non-motor Vehicle Attributes": "Vehicle model, vehicle color, number of persons, helmet.",
+        "ANPR by Camera (Number of Channels)": "All channels (8 targets/s)",
+        "License Plate Database Capacity": "1. Create up to 20,000 plate numbers. 2. Blocklist and allowlist",
+        "Access Channel": "64 channels",
+        "Network Bandwidth": "AI disabled: 384 Mbps incoming, 384 Mbps recording and 384 Mbps outgoing AI enabled: 200 Mbps incoming, 200 Mbps recording and 200 Mbps outgoing",
+        "Resolution": "32 MP;24 MP;16 MP;12 MP;8 MP;6 MP;5 MP;4 MP;3 MP;1080p;720p;960p;D1;CIF;QCIF",
+        "Decoding Capability": "AI disabled: 2-channel 32 MP@25 fps; 2-channel 24 MP@25 fps; 4-channel 16 MP@30 fps; 5-channel 12 MP@30 fps; 8-channel 8 MP@30 fps; 10-channel 6 MP@30 fps; 12-channel 5 MP@30 fps; 16-channel 4 MP@30 fps; 32-channel 1080p@30 fps AI enabled: 1-channel 32 MP@25 fps; 1-channel 24 MP@25 fps; 2-channel 16 MP@30 fps; 4-channel 12 MP@30 fps; 6-channel 8 MP@30 fps; 8-channel 6 MP@30 fps; 8-channel 5 MP@30 fps; 12-channel 4 MP@30 fps; 24-channel 1080p@30 fps",
+        "Video Output": "2 VGA, 2 HDMI VGA:1920 × 1080, 1280 × 1024, 1280 × 720 HDMI:3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 Heterogeneous video source output for HDMI1 and HDMI2 Simultaneous video source output for VGA1 and HDMI1 Simultaneous video source output for VGA2 and HDMI2",
+        "Multi-screen Display": "Main screen: 1/4/8/9/16/25/36/64 Sub screen: 1/4/8/9/16",
+        "Third-party Camera Access": "ONVIF; Panasonic; Sony; Axis; Arecont; Pelco; Canon; Hanwha",
+        "Video Compression": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio Compression": "G.711a; G.711u; PCM; G726",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; UDP; NTP; DHCP; DNS; SMTP; UPnP; DDNS; Alarm Server; IP Search (Supports Dahua IP camera, DVR, NVS, etc.); Multicast; P2P; Auto Registration; iSCSI",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 23.12(Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox",
+        "Network Mode": "Multi-address mode, load balance, fault tolerance and other network port binding modes",
+        "Multi-channel Playback": "Up to 16 channels",
+        "Record Mode": "General, motion detection; intelligent; alarm; POS",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback, general playback, event playback, tag playback, smart playback (face and motion detection)",
+        "Disk Group": "YES",
+        "General Alarm": "Motion detection; local alarm; alarm box; camera external alarm; network alarm; scene changing; PIR alarm; thermal alarm",
+        "Anomaly Alarm": "Camera offline; storage error; disk full; IP conflict; MAC conflict; login lock; abnormal behavior of fan; cybersecurity exception",
+        "Intelligent Alarm": "Face detection; perimeter protection; face recognition; video metadata (human, motor vehicles, and non-motor vehicles); SMD Plus; stereo analysis; crowd distribution; people counting; ANPR; vehicle density; heat map",
+        "Alarm Linkage": "Record; snapshot (panoramic); local alarm output; IPC external alarm output; access controller; audio; buzzer; log, preset; email",
+        "Audio Input": "1-channel RCA",
+        "Audio Output": "2-channel RCA",
+        "Alarm Input": "16 channels",
+        "Alarm Output": "6 channels (1-channel 12 V 1 A output）",
+        "Disk Interface": "4 SATA ports, each disk can contain up to 20 TB. This limit varies depending on the environment temperature.",
+        "eSATA": "1",
+        "RS-232": "1",
+        "RS-485": "1 (half-duplex serial communication)",
+        "USB": "3 (1 front USB 2.0 port, 2 rear USB 3.0 ports)",
+        "HDMI": "2",
+        "VGA": "2",
+        "Network Port": "2 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "100–240 VAC, 50-60 Hz",
+        "Power Consumption": "Total output of NVR is ≤ 13 W (without HDD)",
+        "Net Weight": "4.74 kg (10.45 lb)",
+        "Gross Weight": "6.11 kg (13.47 lb)",
+        "Product Dimensions": "440.0 mm × 415.1 mm x 70.0 mm (17.32\" × 16.34\" × 2.76\") (W ×D × H)",
+        "Packaging Dimensions": "530.0 mm × 500.0 mm × 210.0 mm (20.87\" × 19.69\" × 8.27\")(W × D × H)",
+        "Operating Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Installation": "Rack or desktop",
+        "Certifications": "FCC: 47 CFR FCC Part15, SubpartB, Class A CE-EMC: EN 55032:2015+A1:2020; EN IEC 61000-3-2:2019+A1:2021; EN 61000-3-3:2013+A1:2019+A2:2021; EN 55035:2017+A11:2020; EN 50130-4:2011+A1:2014 CE-LVD: EN 62368-1:2014"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/NVR5464-EI_S0_datasheet_20240625.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual HDD INSTALLATION GUIDE_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Dahua Network Video Recorder_User Manual_V2.4.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Dahua_Network_Video_Recorder_User_Manual_V2.4.2.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Network Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-01-06 #A&E Document NVR5464-EI_A&E_20260924151419 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64487/a_e_document/1790234466436.docx"
+      },
+      {
+        "name": "2023-03-28 #Drawings NVR5464-EI_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64487/drawings/NVR5464-EI_PORT.pdf"
+      },
+      {
+        "name": "2023-03-28 #Drawings NVR5464-EI_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83532/drawings/NVR5464-EI2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-04-19 #Firmware DH_NVR5XXX-EI_MultiLang_V5.001.0000000.2.R.260331 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64757/firmware/DH_NVR5XXX-EI_MultiLang_V5.001.0000000.2.R.260331.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr-5-ei-series/nvr5464-ei"
+  }
+}

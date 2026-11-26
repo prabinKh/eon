@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 10 Wired Optical Mouse - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341843796259",
+    "product_name": "Globe 10 Wired Optical Mouse - White",
+    "product_title": "Globe 10 Wired Optical Mouse - White",
+    "product_url": "https://antesports.com/products/globe-10-wired-mouse-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/20_a004fc94-a7d3-4be1-8454-103d8aaadd73.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-10-wired-mouse-white.html",
+  "detail": {
+    "title": "Globe 10 Wired Optical Mouse - White",
+    "model": "ANTR0057",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 10 is a straightforward wired optical mouse built for everyday tasks, office work and casual browsing. Its 1200 DPI sensor gives smooth, accurate cursor control, while true USB plug-and-play connectivity means it works instantly with no software or batteries required. Premium ABS plastic construction and switches tested for over 1,000,000 clicks make it a long-lasting choice for home or office use, and its compact, lightweight shape with responsive left/right buttons and scroll wheel keeps hands comfortable through extended sessions. A dependable, no-fuss mouse for Windows, Mac and Linux systems.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/20_a004fc94-a7d3-4be1-8454-103d8aaadd73.jpg",
+        "alt": "Globe 10 Wired Optical Mouse - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "DPI": "1200 Optical",
+        "Buttons": "3",
+        "Build": "ABS Plastic, 1M+ Click Rated",
+        "Compatibility": "Windows, Mac, Linux",
+        "Color": "White",
+        "CONNECTIVITY": "Wired USB",
+        "BUTTONS": "3",
+        "BUILD": "ABS Plastic, 1M+ Click Rated",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹199.00",
+        "MRP (INR)": "₹749.00",
+        "SKU": "ANTR0057"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-10-wired-mouse-white"
+  }
+}

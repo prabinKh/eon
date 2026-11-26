@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "EV Charger",
+    "category_url": "https://www.dahuasecurity.com/products/ev-charger",
+    "subcategory": "D-Volt Gemini",
+    "subcategory_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-gemini",
+    "series": "D-Volt Gemini",
+    "series_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-gemini",
+    "tab_title": "D-Volt Gemini",
+    "tab_id": "118260",
+    "breadcrumbs": [
+      "EV Charger",
+      "D-Volt Gemini",
+      "D-Volt Gemini",
+      "D-Volt Gemini"
+    ]
+  },
+  "card_info": {
+    "product_id": "155580",
+    "product_name": "ICS-A440E-B1H-Z",
+    "product_title": "Intelligent EV Charger",
+    "product_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-gemini/ics-a440e-b1h-z",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88134/image/1_0_01_47_10258_968893607_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "ev-charger/products/ics-a440e-b1h-z.html",
+  "detail": {
+    "title": "Intelligent EV Charger",
+    "model": "ICS-A440E-B1H-Z",
+    "brand": "Dahua",
+    "overview": "New Favourite ICS-A440E-B1H-Z Intelligent EV Charger Key Points Delivers 2×22 kW AC charging (44 kW total), enabling two EVs to charge simultaneously. OCPP 1.6J compliant, ensuring seamless integration with third-party charging management platforms. Compact and elegant design recognized by the 2026 Red Dot Design Award and the French Design Award (FDA). IP55 ingress protection and IK10 impact resistance (IK08 for the display and socket). C5 anti-corrosion protection, featuring highly corrosion-resistant composite materials and protective coatings. Equipped with a 7-inch LCD touchscreen and two physical buttons. Ensures reliable operation even while wearing gloves or in cold-weather conditions. Supports dynamic load balancing across multiple chargers. AFIR ready for Europe's 2026 requirements Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88134/image/1_0_01_47_10258_968893607_crop_thumb.PNG",
+        "alt": "ICS-A440E-B1H-Z_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88134/image/1_0_01_47_10258_968893608_crop_thumb.PNG",
+        "alt": "ICS-A440E-B1H-Z_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88134/image/1_0_01_47_10258_968893610_crop_thumb.PNG",
+        "alt": "ICS-A440E-B1H-Z_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88134/image/1_0_01_47_10258_968893609_crop_thumb.PNG",
+        "alt": "ICS-A440E-B1H-Z_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Rated Power": {},
+      "Input Voltage": {},
+      "Rated Input Frequency": {},
+      "Output Voltage": {},
+      "Output Current": {},
+      "Standby Power Consumption": {},
+      "Power System Type": {},
+      "Input Cable Connection Method": {},
+      "Input Current": {},
+      "Charging Mode": {},
+      "Leakage Protection": {},
+      "Upstream Circuit Breaker Type": {},
+      "Security Protection": {},
+      "Protocol Type": {},
+      "Network Connection Method": {},
+      "Connection Mode": {},
+      "ROHS": {},
+      "Measurement Accuracy": {},
+      "Warranty": {},
+      "Display Screen": {},
+      "Startup Method": {},
+      "MID Meter": {},
+      "Mood Light": {},
+      "Charging Socket Indicator": {},
+      "Upgrade Method": {},
+      "PLC": {},
+      "Material": {},
+      "Installation": {},
+      "Wiring Method": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Protection": {},
+      "Vandal-proof Rating": {},
+      "Working Noise": {},
+      "Power Input Port": {},
+      "Power Output Port": {},
+      "Network Port": {},
+      "Charging Port": {},
+      "Input Wiring Specification": {},
+      "Others": {},
+      "Current Adjustment": {},
+      "Intelligent Power Saving": {},
+      "Certifications & Regulations": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88134/datasheet/DHI-ICS-A440E-B1H-Z_datasheet_20260810_English.pdf"
+      },
+      {
+        "name": "2026-07-17 #User Manual Dahua Intelligent EV Charging Station D-Volt Gemini_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/user_manual/Dahua_Intelligent_EV_Charging_Station_D-Volt_Gemini_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-17 #User Manual Dahua Charging Station_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/user_manual/Dahua_Charging_Station_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-07-17 #User Manual Dahua Charging Station_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/user_manual/Dahua_Charging_Station_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2026-07-17 #User Manual Dahua Intelligent EV Charging Station D-Volt Gemini_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/user_manual/Dahua_Intelligent_EV_Charging_Station_D-Volt_Gemini_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-11 #Drawings ICS-A440E-B1H-Z_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/drawings/1_0_01_47_10361_969349043.pdf"
+      },
+      {
+        "name": "2026-07-11 #Drawings ICS-A440E-B1H-Z_EXPLODED_VIEW Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/drawings/1_0_01_47_10361_969349038.pdf"
+      },
+      {
+        "name": "2026-07-11 #Drawings ICS-A440E-B1H-Z_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88159/drawings/1_0_01_47_10361_969349037.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-gemini/ics-a440e-b1h-z"
+  }
+}

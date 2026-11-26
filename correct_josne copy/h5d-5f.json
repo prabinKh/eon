@@ -1,0 +1,186 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Hero Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series",
+    "tab_title": "Hero Series",
+    "tab_id": "18148",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Hero Series",
+      "Hero Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "146416",
+    "product_name": "H5D-5F",
+    "product_title": "5+5MP Indoor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/h5d-5f",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20240815/hdf1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/h5d-5f.html",
+  "detail": {
+    "title": "5+5MP Indoor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "model": "H5D-5F",
+    "brand": "Dahua",
+    "overview": "Compare Favourite H5D-5F 5+5MP Indoor Wi-Fi Dual-Lens Pan & Tilt Camera Key Points • Coordinated Fixed Lens and PT Lens Monitoring Ensures Complete Vigilance in Security • One Camera for 360° View Without Blind Spots • AI Human & Pet Detection • Tap Anywhere on the Close-up View in the App, and the PT Lens Will Instantly Rotate • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • One-click Proactive Call • Fast Pairing with Bluetooth • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/hdf1_thumb.png",
+        "alt": "H5D-5F_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/hdf2_thumb.png",
+        "alt": "H5D-5F_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/hdf3_thumb.png",
+        "alt": "H5D-5F_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20240815/hdf4_thumb.png",
+        "alt": "H5D-5F_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera（2.8 mm +6 mm）": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Illumination Distance": "Up to 50 m (164.04 ft) (IR) Up to 40 m (131.23 ft) (Warm light)",
+        "Illuminator Number": "2 (IR LED); 1 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 349° Tilt: –5° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "6mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "PT lens: H: 49°; V: 26°; D: 57°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Pet Detection": "Yes"
+      },
+      "Camera (3.6 mm+3.6 mm)": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator Number": "2 (IR LED); 1 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 349° Tilt: –5° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "3.6 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "H: 86°; V: 46°; D: 104°"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2880 × 1620@15 fps sub stream: 640 × 360@15 fps *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.265: 768 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11a/b/g/n/ac/ax 2.4–2.4835 GHz, 2.4 G, EIRP≤20 dBm & 5.15–5.25 GHz, 5 G, EIRP≤23 dBm@5150–5250 MHz",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "Function": {
+        "Abnormal Sound Alarm": "Yes",
+        "Privacy Mode": "Yes"
+      },
+      "General": {
+        "Certifications": "CE",
+        "Power Supply": "5 VDC",
+        "Power Consumption": "Basic: 2.5 W; Max.: 5.4 W (pulling stream+ IR + PT rotation)",
+        "Operating Temperature": "–10 °C to +45 °C (–4 °F to +113 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "Φ80.9 mm × 125.7mm (3.19\" × Φ4.95\")",
+        "Net Weight": "233 g (0.51 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-H5D-5F_S0_datasheet_20251028.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Network Camera (Dual-lens Pan and Tilt)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/user_manual/Network_Camera_(Dual-lens_Pan_and_Tilt)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua Dual-lens Pan and Tilt Wi-Fi Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/user_manual/Dahua_Dual-lens_Pan_and_Tilt_Wi-Fi_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88168/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2025-10-11 #A&E Document H5D-5F_A&E_20260918050833 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82238/a_e_document/1789680067049.docx"
+      },
+      {
+        "name": "2025-09-10 #Drawings H5D-5F_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/drawings/1_0_01_04_49064_604210169.pdf"
+      },
+      {
+        "name": "2025-09-10 #Drawings H5D-5F_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/drawings/1_0_01_04_49064_604210168.pdf"
+      },
+      {
+        "name": "2026-07-28 #Firmware DH_IPC-WPT-E2-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88172/firmware/DH_IPC-WPT-E2-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/h5d-5f"
+  }
+}

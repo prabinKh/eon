@@ -1,0 +1,196 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizsense-series",
+    "tab_title": "SD5",
+    "tab_id": "8512",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizSense Series",
+      "SD5"
+    ]
+  },
+  "card_info": {
+    "product_id": "154444",
+    "product_name": "SD5A425MB-HNR",
+    "product_title": "4MP 25× Starlight IR WizSense Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd5/sd5a425mb-hnr",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86383/image/1_0_01_07_16417_871372052_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd5a425mb-hnr.html",
+  "detail": {
+    "title": "4MP 25× Starlight IR WizSense Network PTZ Camera",
+    "model": "SD5A425MB-HNR",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD5A425MB-HNR 4MP 25× Starlight IR WizSense Network PTZ Camera Key Points • High-Quality Imaging with 4MP Resolution • 25× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 150m IR Distance for 24/7 Monitoring • Face Detection：Leveraging Facial Data to Enhance Analytics Accuracy • Auto Tracking 3.0：Effective Target Monitoring with Detailed Intruder Trajectories • IP67 and IK10 Ratings for Protection Against Harsh Environments • Supports PoE+ Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86383/image/1_0_01_07_16417_871372052_crop_thumb.PNG",
+        "alt": "SD5A425MB-HNR_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86383/image/1_0_01_07_16417_871345739_crop_thumb.PNG",
+        "alt": "SD5A425MB-HNR_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "100.0 m( 328.08 ft)",
+        "T": "2500.0 m( 8202.00 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "Video Metadata": {},
+      "IVS (Perimeter Protection)": {},
+      "Face Detection": {},
+      "People Counting": {},
+      "Smart Tracking": {},
+      "SMD": {},
+      "AcuPick": {},
+      "Auto Patrol": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Alarm I/O": {},
+      "Audio I/O": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86383/datasheet/DH-SD5A425MB-HNR_S0_datasheet_20260629_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Speed Dome & PTZ Camera_Installation Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81091/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49667/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-27 #A&E Document SD5A425MB-HNR_A&E_20260918051450 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86383/a_e_document/1789680068158.docx"
+      },
+      {
+        "name": "2025-11-03 #Drawings SD5A425MB-HNR_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87901/drawings/1_0_01_07_16554_425478096.pdf"
+      },
+      {
+        "name": "2025-11-03 #Drawings SD5A425MB-HNR_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87901/drawings/1_0_01_07_16554_425478095.pdf"
+      },
+      {
+        "name": "2026-06-10 #Firmware DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-Normal_V3.211.0000012.1.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84219/firmware/DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-Normal_V3.211.0000012.1.R.260527.zip"
+      },
+      {
+        "name": "2026-01-23 #Firmware General_SD5AXXXG-HN-V_MCU_V2.401.0000003.16.R.251117 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86383/firmware/General_SD5AXXXG-HN-V_MCU_V2.401.0000003.16.R.251117.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd5/sd5a425mb-hnr"
+  }
+}

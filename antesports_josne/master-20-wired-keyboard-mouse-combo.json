@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Master 20 Wired Keyboard & Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759979299",
+    "product_name": "Master 20 Wired Keyboard & Mouse Combo",
+    "product_title": "Master 20 Wired Keyboard & Mouse Combo",
+    "product_url": "https://antesports.com/products/master-20-wired-keyboard-mouse-combo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/25_51fd550b-93fd-4841-8534-8da3bf35c93c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master-20-wired-keyboard-mouse-combo.html",
+  "detail": {
+    "title": "Master 20 Wired Keyboard & Mouse Combo",
+    "model": "ANTR0089",
+    "brand": "Ant Esports",
+    "overview": "The Ant Master 20 is a wired keyboard and mouse combo built for everyday office and home computing, pairing a 104-key membrane keyboard rated for 5 million keystrokes with an adjustable DPI mouse rated for 1 million clicks up to 2400 DPI. USB plug-and-play connectivity means both devices work instantly with no drivers needed, and the combo is compatible across Windows, Mac and Linux systems. A dependable, budget-friendly setup for anyone who needs reliable everyday performance without extra frills, finished in a retro White Grey Orange colour scheme.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/25_51fd550b-93fd-4841-8534-8da3bf35c93c.png",
+        "alt": "Master 20 Wired Keyboard & Mouse Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Keyboard Keys": "104",
+        "Keyboard Durability": "5 Million Keystrokes",
+        "Mouse DPI": "Up to 2400",
+        "Mouse Durability": "1 Million Clicks",
+        "Color": "White/Grey/Orange",
+        "CONNECTIVITY": "Wired USB",
+        "KEYBOARD KEYS": "104",
+        "KEYBOARD DURABILITY": "5 Million Keystrokes",
+        "MOUSE DPI": "Up to 2400",
+        "MOUSE DURABILITY": "1 Million Clicks",
+        "COLOR": "White/Grey/Orange",
+        "Offer Price (INR)": "₹599.00",
+        "MRP (INR)": "₹1,299.00",
+        "SKU": "ANTR0089"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master-20-wired-keyboard-mouse-combo"
+  }
+}

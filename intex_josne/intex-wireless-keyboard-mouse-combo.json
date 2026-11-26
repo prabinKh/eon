@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Intex Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/intex-keyboard",
+    "series": "IT Keyboard",
+    "series_url": "https://www.intex.in/collections/it-keyboard",
+    "tab_title": "Intex Keyboard",
+    "tab_id": "9404135702746",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Intex Keyboard",
+      "Intex Work Smart Wireless Keyboard & Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "9404135702746",
+    "product_name": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+    "product_title": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+    "product_url": "https://www.intex.in/products/intex-wireless-keyboard-mouse-combo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_a98b1078-12df-4c52-a4f2-71d960fadcf1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1749.0,
+      "display": "₹1,749.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-wireless-keyboard-mouse-combo.html",
+  "detail": {
+    "title": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+    "model": "Combo",
+    "brand": "Intex",
+    "overview": "Boost your productivity with the Intex Work Smart Wireless Keyboard & Mouse Combo, designed for seamless performance at home, in the office, or for study. Featuring a reliable 2.4GHz wireless connection, this combo ensures a stable, lag-free experience with the convenience of plug-and-play connectivity. The 104-key full-size keyboard comes with integrated multimedia keys for quick access to essential functions, while the ergonomic mouse offers up to 1600 DPI for precise tracking and smooth navigation. Built for durability, the keyboard supports up to 5 million keystrokes, and the mouse buttons are rated for 1 million clicks, making this combo a dependable choice for everyday computing.",
+    "features": [
+      "Full-Size 104 Premium Keys",
+      "Integrated Multimedia Shortcut Keys",
+      "Ergonomic & Comfortable Design",
+      "Adjustable Tilt Legs for Comfortable Typing",
+      "5 Million Keystroke Life",
+      "Responsive & Quiet Key Operation",
+      "1600 DPI Optical Sensor",
+      "Advanced Optical Tracking Technology",
+      "1 Million Click Button Life",
+      "Ergonomic Grip for Comfortable Use",
+      "Smooth & Precise Cursor Control",
+      "Maximum Tracking Speed: 15 inches/second",
+      "Frame Rate: Up to 3300 Frames/Second"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_a98b1078-12df-4c52-a4f2-71d960fadcf1.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_50e72544-e5a3-4378-9b2b-0301f19b8b17.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_821262e3-c27c-4968-9614-d57fd00b254c.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_15fe4b7a-cf23-4c40-a3d1-f741cdf97446.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_00ed648f-1f99-44ae-add5-9711143a290e.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_f63221d0-148a-40b6-8606-5ba818ab6a3f.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_50df30b4-38a0-4b21-9b13-a690ea0f35ce.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/8_4df02534-3793-48da-b8c0-f7762084fd1d.jpg",
+        "alt": "Intex Work Smart Wireless Keyboard & Mouse Combo",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "General": {
+        "Brand": "Intex",
+        "Product Type": "Wireless Keyboard & Mouse Combo",
+        "Connectivity": "2.4GHz Wireless USB Receiver",
+        "Interface": "USB Plug & Play",
+        "Colour": "Black",
+        "Compatibility": "Windows, macOS & Linux (USB Supported Devices)",
+        "Model": "Combo"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Work_Smart_Combo_Launch_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-wireless-keyboard-mouse-combo"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "Master 60 Dual-Mode Wireless Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759520547",
+    "product_name": "Master 60 Dual-Mode Wireless Keyboard",
+    "product_title": "Master 60 Dual-Mode Wireless Keyboard",
+    "product_url": "https://antesports.com/products/master-60-dual-mode-wireless-keyboard-scissor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_8caa0c80-c900-42e9-b4d3-8237703968d1.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master-60-dual-mode-wireless-keyboard-scissor.html",
+  "detail": {
+    "title": "Master 60 Dual-Mode Wireless Keyboard",
+    "model": "ANTR0139",
+    "brand": "Ant Esports",
+    "overview": "The Ant Master 60 is a dual-mode wireless keyboard combining Bluetooth 3.0 and 2.4GHz connectivity, giving it easy multi-device pairing across Windows, Mac, Android and iOS. Silent scissor-switch typing keys deliver a low-profile, quiet feel suited to shared offices or late-night use, while a rechargeable battery cuts down on the need for disposable batteries. Its compact black and grey design fits neatly on any desk, making it a solid choice for anyone who wants a quiet, multi-device keyboard for everyday productivity across several platforms.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_8caa0c80-c900-42e9-b4d3-8237703968d1.png",
+        "alt": "Master 60 Dual-Mode Wireless Keyboard - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth 3.0 + 2.4GHz",
+        "Switch Type": "Scissor, Silent",
+        "Power": "Rechargeable Battery",
+        "Compatibility": "Windows, Mac, Android, iOS",
+        "Color": "Black/Grey",
+        "CONNECTIVITY": "Bluetooth 3.0 + 2.4GHz",
+        "SWITCH TYPE": "Scissor, Silent",
+        "POWER": "Rechargeable Battery",
+        "COMPATIBILITY": "Windows, Mac, Android, iOS",
+        "COLOR": "Black/Grey",
+        "Offer Price (INR)": "₹1,499.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "ANTR0139"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master-60-dual-mode-wireless-keyboard-scissor"
+  }
+}

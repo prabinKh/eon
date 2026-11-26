@@ -1,0 +1,194 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders",
+    "series": "5MP Value/1080p Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/5mp-value-1080p-series",
+    "tab_title": "5MP Value/1080p Series",
+    "tab_id": "11837",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Recorders",
+      "5MP Value/1080p Series",
+      "5MP Value/1080p Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "131727",
+    "product_name": "XVR5108HE-I3",
+    "product_title": "8CH Penta-brid 5MP Value/1080P Mini 1U 1HDD WizSense Digital Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/5mp-value-1080p-series/xvr5108he-i3=v3",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230728/1_0_01_01_16113_1084789439_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/xvr5108he-i3-v3.html",
+  "detail": {
+    "title": "8CH Penta-brid 5MP Value/1080P Mini 1U 1HDD WizSense Digital Video Recorder",
+    "model": "XVR5108HE-I3",
+    "brand": "Dahua",
+    "overview": "Compare Favourite XVR5108HE-I3 8CH Penta-brid 5MP Value/1080P Mini 1U 1HDD WizSense Digital Video Recorder Key Points • 8-ch Analog Video Input, Max. 5M-N@20fps/1080p@25fps Encoding Capability • Max. 12-ch IP Video Input (Up to 6MP) • AI Functions: 2-ch QuickPick 2.0, 2-ch FR, 4-ch Perimeter Protection, 8-ch SMD, 8-ch AI Coding • 1 Bay. Up to 16TB for Each HDD Storage Capacity Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230728/1_0_01_01_16113_1084789439_crop_thumb.png",
+        "alt": "XVR5108HE-I3_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16113/ProductImage/1_0_01_01_16113_1084789461_crop_thumb.png",
+        "alt": "XVR5108HE-I3_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230728/1_0_01_01_16113_1264186138_thumb.png",
+        "alt": "XVR5108HE-I3_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web; Local GUI"
+      },
+      "QuickPick 2.0": {
+        "QuickPick 2.0 AI by Recorder (Number of Channels)": "2 channels"
+      },
+      "Perimeter Protection": {
+        "Perimeter Performance AI by Recorder (Number of Channels)": "Advanced Mode: 2 channels, 10 IVS rules for each channel General Mode: 4 channels, 10 IVS rules for each channel"
+      },
+      "Face Detection": {
+        "Face Attributes": "6 attributes",
+        "Face Detection Performance of AI by Recorder (Number of Channels)": "2 channels (up to 8 face images/s each channel)"
+      },
+      "Face Recognition": {
+        "Face Database Capacity": "Up to 10 face databases with 10,000 images.",
+        "Face Recognition Performance of AI by Recorder (Number of Channels)": "2 channels"
+      },
+      "SMD Plus": {
+        "SMD Plus by Recorder": "8 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "12 channels"
+      },
+      "AI Video Quality Analytics": {
+        "AI Video Quality Analytics by Recorder": "8 channels: Supports detecting brightness levels, color cast, defocus, overexposure, contrast levels, black and white"
+      },
+      "Scene Changing": {
+        "Scene Changing by Recorder": "1 channel"
+      },
+      "Irregular Black Block Masking": {
+        "Irregular Black Block Masking by Recorder": "1 channel"
+      },
+      "Audio and Video": {
+        "Analog Camera Input": "8 BNC ports, supports HDCVI/AHD/TVI/CVBS auto-detect",
+        "Camera Input": "1. CVI: 5 MP@25 fps; 5 MP@20 fps; 5 MP@10/12.5 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@50/60 fps; 720p@25/30fps. 2. TVI: 5 MP(2560 x 1944)@20 fps; 5 MP(2960 x 1665)@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps. 3. AHD: 5 MP@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps.",
+        "IP Camera Input": "Up to 12 channels of IPC access 4 IP channels by default +8 channels (analog channels are converted to IP channels) incoming bandwidth: 64 Mbps, recording bandwidth: 64 Mbps and outgoing bandwidth: 64 Mbps *After IP extension is enabled, Video Quality Analytics, Scene Changing, Face Recognition, Face Detection, SMD, Perimeter Protection and QuickPick 2.0 cannot be used.",
+        "Encoding Capacity": "Encode Enhancement disabled： Main stream: Channels 1-2 5M-N@(1 fps–25 fps), others 5M-N@(1 fps–12 fps); Channels 1-2 4M-N/1080p@(1 fps–25/30 fps), others 4M-N/1080p@(1 fps–15 fps); 1080N/720p/960H/D1/CIF@(1 fps–25/30 fps); Sub stream: D1/CIF@(1 fps–15 fps); Encode Enhancement enabled： Main stream: Channels 1-4 5M-N@(1 fps–20 fps), others 5M-N@(1 fps-12 fps); (4 channels can be transformed to 5MP@6 fps) Channels 1-4 4M-N/1080p@(1 fps–25 fps), others 4M-N@(1 fps–15 fps)/1080p@(1 fps–12 fps); 1080N/720p/960H/D1/CIF@(1 fps–25/30 fps); Sub stream: D1/CIF@(1 fps–15 fps); *When Encode Enhancement is enabled,Video Quality Analytics, Scene Changing, Face Recognition, Face Detection, Perimeter Protection and QuickPick 2.0 cannot be used.",
+        "Dual-stream": "Yes",
+        "Video Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sampling": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 kbps",
+        "Video Output": "1 HDMI, 1 VGA HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Multi-screen Display": "When IP extension mode not enabled: 1/4/8/9 When IP extension mode enabled: 1/4/8/9/16",
+        "Third-party Camera Access": "Panasonic; Sony; Hanwha; Axis; Arecont; ONVIF"
+      },
+      "Compression Standard": {
+        "Video Compression": "AI Coding; Smart H.265+; H.265; Smart H.264+; H.264",
+        "Audio Compression": "G.711a; G.711u; PCM"
+      },
+      "Network": {
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; FTP; DDNS; SNMP; Alarm Server; P2P; Auto Registration; IP Search (Supports IP camera, DVR, NVS, etc.)",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 24.06 (Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox"
+      },
+      "Recording Playback": {
+        "Record Mode": "General; alarm; motion detection; intelligent; POS",
+        "Recording Playback": "1/4/9 It changes to 1/4 split when Face or IVS&SMD is selected in AI Mode.",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback; general playback; event playback; tag playback; smart playback"
+      },
+      "Alarm": {
+        "General Alarm": "Motion detection; local alarm; alarm box; HDCVI alarm; camera external alarm; network alarm; PIR alarm",
+        "Anomaly Alarm": "Error (no disk, disk error, low space, low quota space; network disconnection; IP conflict; MAC conflict); video loss; video tampering; camera offline",
+        "Intelligent Alarm": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "Alarm Linkage": "Record; snapshot (panoramic); local alarm output; IPC external alarm output; audio; buzzer; log; preset; email"
+      },
+      "Ports": {
+        "Audio Input": "8-channel RCA 8-channel BNC (Coaxial Audio)",
+        "Audio Output": "1-channel RCA",
+        "Two-way Talk": "Yes (share the same audio input with the first channel)",
+        "Alarm Input": "8 channels",
+        "Alarm Output": "3 channels",
+        "Disk Interface": "1 SATA port, up to 16 TB. This limit varies depending on the environment temperature.",
+        "RS-485": "1",
+        "USB": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port)",
+        "HDMI": "1",
+        "VGA": "1",
+        "Network Port": "1 (10/100 Mbps Ethernet port, RJ-45)"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 2A",
+        "Power Consumption": "<7 W(without HDD)",
+        "Net Weight": "1.21 kg (2.67 lb)",
+        "Gross Weight": "1.83 kg (4.04 lb)",
+        "Product Dimensions": "325.0 mm × 257.1 mm × 55.0 mm (12.80\" × 10.12\" × 2.17\") (W × D × H)",
+        "Packaging Dimensions": "372.0 mm × 117.0 mm × 308.0 mm (14.65\" × 4.61\" × 12.13\") (W × D × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Installation": "Desktop",
+        "Certifications": "CE: CE-LVD: IEC 62368-1 CE-EMC: EN 61000-3-2, EN 61000-3-3, EN 55032, EN 50130, EN 55024, EN 55035"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/XVR5108HE-I3_V3_datasheet_20241112.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Dahua AI Digital Video Recorder_User Manual_V2.7.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10047/user_manual/Dahua_AI_Digital_Video_Recorder_User_Manual_V2.7.0.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Digital Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/7517/user_manual/Digital_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-02-01 #Drawings XVR5108HE-I3_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/72357/drawings/XVR5108HE-I3_PORT.pdf"
+      },
+      {
+        "name": "2023-02-01 #Drawings XVR5108HE-I3_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/72357/drawings/XVR5108HE-I3_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-02-12 #Firmware DH_XVR5x08-AstonDB11_MultiLang_V4.000.0000004.2.R.250123 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3027942/M/DH_XVR5x08-AstonDB11_MultiLang_V4.000.0000004.2.R.250123.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/5mp-value-1080p-series/xvr5108he-i3=v3"
+  }
+}

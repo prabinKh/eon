@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM380 RGB Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923064099",
+    "product_name": "GM380 RGB Gaming Mouse - Black",
+    "product_title": "GM380 RGB Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/gm380-6-macros-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15_a1684f7c-f5ce-4f06-a7d7-81f4d8e3c80f.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm380-6-macros-mouse-black.html",
+  "detail": {
+    "title": "GM380 RGB Gaming Mouse - Black",
+    "model": "AEPP0151",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM380 is designed to be used comfortably by both left and right-handed gamers, thanks to its symmetrical ambidextrous shape. A dedicated DPI button toggles sensitivity from 800 all the way to 12800, giving pinpoint accuracy across different gameplay styles, and a customizable single-button RGB lighting system lets you switch between colours and effects to match your mood. With intuitive customization software, all 6 programmable buttons support macro assignment, custom key configuration and full profile setup for Windows 7, 8, 10, XP, Vista and Linux systems. A dedicated rapid-fire button gives an extra edge in fast-paced FPS titles.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15_a1684f7c-f5ce-4f06-a7d7-81f4d8e3c80f.jpg",
+        "alt": "GM380 RGB Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI Range": "800-12800",
+        "Buttons": "6 Programmable Macros",
+        "Design": "Ambidextrous",
+        "Lighting": "RGB, Single-Button Switch",
+        "Compatibility": "Windows 7/8/10/XP/Vista, Linux",
+        "Color": "Black",
+        "DPI RANGE": "800-12800",
+        "BUTTONS": "6 Programmable Macros",
+        "DESIGN": "Ambidextrous",
+        "LIGHTING": "RGB, Single-Button Switch",
+        "COMPATIBILITY": "Windows 7/8/10/XP/Vista, Linux",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹589.00",
+        "MRP (INR)": "₹1,186.00",
+        "SKU": "AEPP0151"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GM380)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=GM380.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm380-6-macros-mouse-black"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Aggregation Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "series": "Aggregation Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "tab_title": "Aggregation Switches",
+    "tab_id": "691",
+    "breadcrumbs": [
+      "Transmission",
+      "Aggregation Switches",
+      "Aggregation Switches",
+      "Aggregation Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "57457",
+    "product_name": "S6500-48XF2QF",
+    "product_title": "L3 Managed S65 Series Switch with 48-Port SFP+ and 2-Port QSFP",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s6500-48xf2qf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20201027/S6500-48XF2QF-45_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s6500-48xf2qf.html",
+  "detail": {
+    "title": "L3 Managed S65 Series Switch with 48-Port SFP+ and 2-Port QSFP",
+    "model": "S6500-48XF2QF",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20201027/S6500-48XF2QF-45_thumb.png",
+        "alt": "S6500-48XF2QF",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s6500-48xf2qf"
+  }
+}

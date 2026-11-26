@@ -1,0 +1,157 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Controllers",
+    "tab_id": "546",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Controllers"
+    ]
+  },
+  "card_info": {
+    "product_id": "115867",
+    "product_name": "ASC3202B",
+    "product_title": "Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/controllers/asc3202b",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221109/ASC3202B_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asc3202b.html",
+  "detail": {
+    "title": "Access Controller",
+    "model": "ASC3202B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASC3202B Access Controller Key Points • Web-Based 1 Door 2 Way or 2 Door 1 Way Networked Access Controller • Features Main and Sub Control Modes • Main Control Mode Offers Access Control Platform Functions and manage Up to 19 Sub Controllers • Main Control Mode Supports 1000 Users, 3000 Fingerprints, 5000 Bluetooth Cards and 300,000 Records • Sub Control Mode Plays as Normal Access Controller • Supports Configuring Hardware I/O Ports and Exporting Configuration Diagrams • Features Fire Alarm Linkage • PoE and Power to Lock Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221109/ASC3202B_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221109/ASC3202B_2_thumb.png",
+        "alt": "ASC3202B",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Internet Protocol": "P2P; IPv4; DNS; DDNS; TCP; UDP",
+        "Interoperability": "ONVIF; CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Controller",
+        "Buzzer": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Card; remote; password; fingerprint; Bluetooth; combination unlock",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "Blocklist/Allowlist": "Yes",
+        "Peripheral Card Reader": "Supports 2 × RS-485 card readers; 2 × Wiegand card readers",
+        "Multi-user Authentication": "Yes (Use with platform)",
+        "Real-time Monitoring": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Web Configuration": "Yes"
+      },
+      "User": {
+        "User (Card) Type": "General user, VIP user, guest user, patrol user, blocklist user, and other users"
+      },
+      "Capacity": {
+        "User Capacity": "1,000 (main control mode), 10,000 (sub control mode)",
+        "Fingerprint Capacity": "3,000",
+        "Card Capacity": "5,000 (main control mode), 50,000 (sub control mode)",
+        "Bluetooth Card Capacity": "5,000",
+        "Record Capacity": "300,000"
+      },
+      "Port": {
+        "RS-485": "3",
+        "Wiegand": "2 × input",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port",
+        "Alarm Input": "2 (digital quantity)",
+        "Alarm Output": "2 (digital quantity)",
+        "Alarm Linkage": "Yes",
+        "Exit Button": "2",
+        "Door Status Detection": "2",
+        "Lock Control": "2"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes",
+        "Duress Fingerprint": "Yes"
+      },
+      "General": {
+        "Power Supply": "Power in: 12V DC or Power over Ethernet IEEE 802.3at Type 2 Class 4",
+        "Protection": "IK06",
+        "Power Consumption": "Standby Power (no peripheral devices): ≤2 W Working Power: Total power budget if powered by DC: 1700 mA at 12 V for peripheral devices (locks, readers etc.) Total power budget if powered by PoE: 1200 mA at 12 V for peripheral devices (locks, readers etc.)",
+        "Product Dimensions": "186.4 mm × 185.8 mm × 58.3mm (7.34\" × 7.31\" × 2.30\") (L × W × H)",
+        "Packaging Dimensions": "254 mm × 243 mm × 86 mm (10.00\" × 9.57\" × 3.39\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to 131 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.99 kg (2.18 lb)",
+        "Installation": "Surface Mount; Guide Rail Mount",
+        "Certifications": "CE; FCC; UL"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASC3202B_datasheet_20231108.pdf"
+      },
+      {
+        "name": "2025-12-18 #User Manual Access Controller_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006873/3503276/Access_Controller_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-12-18 #User Manual Access Controller_Quick Start Guide_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006873/3503270/Access_Controller_Quick_Start_Guide_V1.0.4.pdf"
+      },
+      {
+        "name": "2022-09-20 #Drawings ASC3202B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51437/drawings/ASC3202B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-05-09 #Firmware DH_ASC320XB_MultiLang_NP_V1.002.0000000.5.R.240417 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2616612/M/DH_ASC320XB_MultiLang_NP_V1.002.0000000.5.R.240417.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/controllers/asc3202b"
+  }
+}

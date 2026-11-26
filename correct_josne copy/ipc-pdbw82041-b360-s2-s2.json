@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind Panoramic Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series",
+    "tab_title": "Multi-Directional Series",
+    "tab_id": "15137",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind Panoramic Series",
+      "Multi-Directional Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "113107",
+    "product_name": "IPC-PDBW82041-B360-S2",
+    "product_title": "4 × 5 MP 4-Directional Panoramic Dome Wizmind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series/multi-directional-series/ipc-pdbw82041-b360-s2=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39213/ProductImage/1_0_01_04_39213_313735083_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-pdbw82041-b360-s2-s2.html",
+  "detail": {
+    "title": "4 × 5 MP 4-Directional Panoramic Dome Wizmind Network Camera",
+    "model": "IPC-PDBW82041-B360-S2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PDBW82041-B360-S2 4 × 5 MP 4-Directional Panoramic Dome Wizmind Network Camera Key Points • 4 Motorized Vari-Focal Lenses Cover up to 360° Field Of View • 4 Channels, Each Channel can Output Max. 5 MP@30 fps • AI functions of 4 channels can be enabled at the same time • Built-in IR LED Illuminator, The Max. Illumination Distance is 30 m • IP67, IK10 and Anti-Corrosion Design (optional) for Reliable Protection • FlexStream: Display 4 Channels in 1. Saving License Costs Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39213/ProductImage/1_0_01_04_39213_313735083_crop_thumb.png",
+        "alt": "IPC-PDBW82041-B360-S2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39213/ProductImage/1_0_01_04_39213_313735084_crop_thumb.png",
+        "alt": "IPC-PDBW82041-B360-S2_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_39213/ProductImage/1_0_01_04_39213_313735081_crop_thumb.png",
+        "alt": "IPC-PDBW82041-B360-S2_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "2592 (H) × 1944 (V)",
+        "ROM": "8 GB",
+        "RAM": "4 GB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.005 lux@F1.7 (Color,30 IRE); 0.0005 lux@F1.7 (B/W,30 IRE); 0 lux (Illuminator on)",
+        "S/N Ratio": ">56dB",
+        "Illumination Distance": "30 m (98.43 ft) (IR LED)",
+        "Illuminator On/Off Control": "Auto;Manual",
+        "Illuminator Number": "8 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–75° Rotation: 0°–355°",
+        "Lens Type": "Motorized vari-focal",
+        "Lens Mount": "φ14",
+        "Focal Length": "2.8 mm–12 mm",
+        "Max. Aperture": "F1.7",
+        "Field of View": "H: 100°–42°; V: 74°–32°; D: 133°–53°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "0.8 m (2.62 ft)",
+        "DORI Distance": "Detect",
+        "66 m–140.4 m (216.54 ft–460.63 ft)": "26.4 m–56.1 m (86.61 ft–184.06 ft)",
+        "IVS": "Abandoned object; missing object",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; fast moving (the three functions support the classification and accurate detection of vehicle and human); loitering detection; people gathering; parking detection",
+        "Face Detection": "Face detection; track; snapshot; snapshot optimization; optimal face snapshot upload; face enhancement; face exposure; face attributes extraction including 6 attributes (gender, age, glasses, expressions, mask, and beard) and 8 expressions (angry, sad, disgusted, scared, surprised, calm, happy, confused); face snapshot set as face or one-inch photo; snapshot strategies (real-time snapshot, quality priority and optimization snapshot); face angle filter; optimization time setting.",
+        "People Counting": "Tripwire people counting and people counting in area; generating and exporting report (day/month/year); queue management and exporting report (day/month); 4 rules can be set for tripwire, people counting in area and queue management.",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos.",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Single Stream: Main stream: 2592 × 1944@(1–25/30 fps) Sub stream: 704 × 576@(1–25 fps)/704 × 480 (1–30fps) Third stream: 1920 × 1080@(1–25/30 fps) Flex Stream: Main stream: 1600 × 1200@(1–25/30 fps) Sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) Third stream: 3296 × 2472@(1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "3 streams",
+        "Resolution": "Single Stream: 5M (2592 × 1944); 2560 × 1440; 3M (2048 × 1536); 2304 × 1296; 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240); Flex Stream: 8M (3296 × 2472); 5M (2592 × 1944); UXGA (1600 × 1200); 1080p (1920 × 1080); 1.3M (1280 × 960); D1 (704 × 576/704 × 480); VGA (640 × 480; CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–17152kbps H.265: 12 kbps–10240 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "DWDR",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto;Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Defog": "Yes",
+        "Image Rotation": "Yes",
+        "Mirror": "Yes",
+        "Privacy Masking": "8 areas",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; G.723",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; intrusion; tripwire; fast moving; abandoned object; missing object; loitering detection; people gathering; parking detection; scene changing; audio detection; voltage detection; defocus detection; external alarm; face detection; people counting in area; stay detection; abnormal number of people detection; people counting; people stay detection; security exception",
+        "Network Port": "RJ-45 (10/100/1000 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; SNMP",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T); CGI; Milestone; P2P",
+        "User/Host": "20",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE: IE9 and later Chrome: Chrome 42 and later Firefox: Firefox 48.0.2 and later",
+        "Management Software": "Smart PSS; DSS; DMSS",
+        "Security": "Trusted execution; Digest; security logs; WSSE; Account lockout; syslog; 802.1x; IP/MAC filtering; HTTPS; trusted upgrade; trusted boot; generation and importing of X.509 certification",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; FCC:47 CFR FCC Part 15, Subpart B; UL/CUL: UL62368-1 & CAN/CSA C22.2 No. 62368-1-14",
+        "RS-485": "1 (baud rate range:1200 bps–115200 bps)",
+        "Audio Input": "1 channel (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "3 channels in: 5 mA 3–5 VDC",
+        "Alarm Output": "2 channels out: 300 mA 12 VDC",
+        "Power Supply": "12 VDC/PoE+( 802.3at )",
+        "Power Consumption": "Basic power consumption: 7.4 W (12 VDC); 9.3W (PoE) Max. power consumption (basic + WDR + IR intensity+ lens switch+ power output): 21.3W (12 VDC); 24.7 W (PoE+)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Protection": "IP67; IK10; anti-corrosion protection (optional)",
+        "Anti-corrosion Level": "Moderate Protection(Only supported by -ATC model) *The products feature high-grade anti-corrosion protection, making them well-suited for environments with standard corrosion resistance requirements. They perform reliably from 2 km (1.24 mi) and above in coastal areas and in locations prone to acid rain exposure.",
+        "Casing Material": "Metal + plastic",
+        "Product Dimensions": "111.3 mm × Φ286.1 mm (4.38\"× Φ11.26\")",
+        "Net Weight": "2.75 kg (6.06 lb)",
+        "Gross Weight": "4.5 kg (9.92 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-IPC-PDBW82041-B360-S2_S2_datasheet_20251216.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54257/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54257/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Multi-sensor Panoramic Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54637/user_manual/Multi-sensor_Panoramic_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-01-22 #User Manual Dahua Multi-sensor Panoramic Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54637/user_manual/Dahua_Multi-sensor_Panoramic_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-08-08 #A&E Document IPC-PDBW82041-B360-S2_A&E_20260917210257 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54637/a_e_document/1789650669265.docx"
+      },
+      {
+        "name": "2022-11-12 #Drawings IPC-PDBW82041-B360-S2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49987/drawings/DH-IPC-PDBW82041P-B360-E4-2812-S2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-08-02 #Drawings IPC-PDBW82041-B360-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/7827/drawings/IPC-PDBW82041-B360_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-09-17 #Firmware DH_IPC-PDBW820XX-Faraday_MultiLang_PN_Stream3_V3.100.0000000.63.R.260902 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54637/firmware/DH_IPC-PDBW820XX-Faraday_MultiLang_PN_Stream3_V3.100.0000000.63.R.260902.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-panoramic-series/multi-directional-series/ipc-pdbw82041-b360-s2=s2"
+  }
+}

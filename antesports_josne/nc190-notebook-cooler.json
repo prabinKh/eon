@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC190 Notebook Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032735011",
+    "product_name": "NC190 Notebook Cooler",
+    "product_title": "NC190 Notebook Cooler",
+    "product_url": "https://antesports.com/products/nc190-notebook-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_cfb6d30c-bd30-45a6-892d-d1cdd74dbc0f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc190-notebook-cooler.html",
+  "detail": {
+    "title": "NC190 Notebook Cooler",
+    "model": "AEPP0230",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC190 is a 5-fan notebook cooler combining one central 125mm fan with four supporting 60mm red LED fans for comprehensive airflow across the underside of a laptop. Fan speeds range from 1000-1200 RPM for the smaller fans up to 2400-3200 RPM for the central fan, giving a strong balance of cooling power and quiet operation depending on workload. A built-in LED display shows current fan settings at a glance, while 5 adjustable height levels let you set a comfortable typing and viewing angle. Two USB ports add convenient pass-through connectivity, making the NC190 a well-rounded cooling solution for laptops up to 15.6 inches.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_cfb6d30c-bd30-45a6-892d-d1cdd74dbc0f.png",
+        "alt": "NC190 Notebook Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "1 x 125mm + 4 x 60mm LED",
+        "Fan Speed": "1000-3200 RPM",
+        "Display": "LED",
+        "Height Adjustment": "5 Levels",
+        "USB Ports": "2",
+        "Compatibility": "Laptops up to 15.6 Inches",
+        "FANS": "1 x 125mm + 4 x 60mm LED",
+        "FAN SPEED": "1000-3200 RPM",
+        "DISPLAY": "LED",
+        "HEIGHT ADJUSTMENT": "5 Levels",
+        "USB PORTS": "2",
+        "COMPATIBILITY": "Laptops up to 15.6 Inches",
+        "Offer Price (INR)": "₹839.00",
+        "MRP (INR)": "₹2,199.00",
+        "SKU": "AEPP0230"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc190-notebook-cooler"
+  }
+}

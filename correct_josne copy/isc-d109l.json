@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "111317",
+    "product_name": "ISC-D109L",
+    "product_title": "Walk-through Metal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d109l",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676568_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-d109l.html",
+  "detail": {
+    "title": "Walk-through Metal Detector",
+    "model": "ISC-D109L",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-D109L Walk-through Metal Detector Key Points ● 9 Zone Metal Detect ● 99 Built-In Security Programs ●Sensitivity Adjustable From 0 To 399 ●Support Networking Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676568_crop_thumb.png",
+        "alt": "ISC-D109L_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676572_crop_thumb.png",
+        "alt": "ISC-D109L_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676570_crop_thumb.png",
+        "alt": "ISC-D109L_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676571_crop_thumb.png",
+        "alt": "ISC-D109L_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676567_crop_thumb.png",
+        "alt": "ISC-D109L_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10006/ProductImage/1_0_01_46_10006_76676569_crop_thumb.png",
+        "alt": "ISC-D109L_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.46.10006/ProductImage/1705264343571_crop_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Technical": {
+        "Precise Positioning": "9 overlapping mesh-like detection zones, bilateral transmission and receipt of detection signals; 1-panel indicator light",
+        "Zone Indication": "9 independent zones selectable, and multiple metal items can be located simultaneously.",
+        "IR Sensor": "Infrared sensor with fewer false or missed alarms; automatic alarm statistics and pass/return statistics.",
+        "Adjustable Sensitivity": "400 adjustable sensitivity levels in each detection zone (sensitivity increases by levels).",
+        "Environmental Noise": "Monitors and displays real-time signal strength of environmental interferences."
+      },
+      "Regular": {
+        "Operating Voltage": "12 VDC, power adapter (included): 100 V–240 VAC, 50/60 Hz",
+        "Maximum Power Consumption": "7.2 W",
+        "Typical Power Consumption": "5.76 W",
+        "Gross Weight": "28.5 kg (62.83 lb)",
+        "Net Weight": "23 kg (50.71 lb)",
+        "Tunnel Size": "2000 mm × 720 mm × 340 mm (78.74\" × 28.35\" × 13.39\")",
+        "Exterior Size": "Bare: 2208 mm × 824 mm × 340 mm (86.93\" × 32.44\" × 13.39\")",
+        "Packaging Size": "2265 mm × 425 mm × 220 mm (89.17\" × 16.73\" × 8.66\")",
+        "Operating Temperature": "–20 °C to 65 °C (–4 °F to 149 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to 158 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Power Switch": "On the front panel",
+        "Indicator Light": "One green indicator",
+        "Installation": "Ground mount"
+      },
+      "Ports": {
+        "RS-485": "1",
+        "Alarm In/Out": "1-channel output",
+        "Network Port": "1 RJ-45, 100 Mbps",
+        "Power Output": "12 VDC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-D109L_S0_datasheet_20241125.pdf"
+      },
+      {
+        "name": "2023-07-06 #User Manual Walk-through_Metal_Detector_User's Manual_V1.0.0 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/DOR/PUM0006336/Walk-through_Metal_Detector_User_s-Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-04-19 #Drawings ISC-D109L_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49067/drawings/ISC-D109L_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-04-19 #Drawings ISC-D109L_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49067/drawings/ISC-D109L_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d109l"
+  }
+}

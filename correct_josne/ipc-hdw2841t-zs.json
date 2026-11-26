@@ -1,0 +1,194 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 2 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series",
+    "tab_title": "IR",
+    "tab_id": "18062",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 2 Series",
+      "IR"
+    ]
+  },
+  "card_info": {
+    "product_id": "121067",
+    "product_name": "IPC-HDW2841T-ZS",
+    "product_title": "8MP IR Vari-focal Eyeball WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/ir/ipc-hdw2841t-zs",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40042/ProductImage/1_0_01_04_40042_393363417-Black_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdw2841t-zs.html",
+  "detail": {
+    "title": "8MP IR Vari-focal Eyeball WizSense Network Camera",
+    "model": "IPC-HDW2841T-ZS",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDW2841T-ZS 8MP IR Vari-focal Eyeball WizSense Network Camera Key Points • High-Quality Imaging with 8MP Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • Deep Learning-Based Human and Vehicle Classification • Built-in Mic for Real-Time Audio Security • Supports Max. 256G Micro SD card • Efficient H.264+/H.265+ Compression Technology Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40042/ProductImage/1_0_01_04_40042_393363417-Black_crop_thumb.png",
+        "alt": "IPC-HDW2841T-ZS_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40042/ProductImage/1_0_01_04_40042_313470566_crop_thumb.png",
+        "alt": "IPC-HDW2841T-ZS_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40042/ProductImage/1_0_01_04_40042_313470565_crop_thumb.png",
+        "alt": "IPC-HDW2841T-ZS_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40042/ProductImage/1_0_01_04_40042_393363414-Black_crop_thumb.png",
+        "alt": "IPC-HDW2841T-ZS_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40042/ProductImage/1_0_01_04_40042_393363416-Black_crop_thumb.png",
+        "alt": "IPC-HDW2841T-ZS_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.008 lux@F1.5 (Color, 30 IRE) 0.0008 lux@F1.5 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "40 m (131.23 ft) (IR)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "2 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°",
+        "Lens Type": "Motorized vari-focal",
+        "Lens Mount": "φ14",
+        "Focal Length": "2.7 mm–13.5 mm",
+        "Max. Aperture": "F1.5",
+        "Field of View": "H: 113°–31°; V: 58°–18°; D: 138°–36°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "0.8 m (2.62 ft)",
+        "DORI Distance": "Lens",
+        "W": "85.3 m (279.86 ft)",
+        "T": "280.0 m (918.64 ft)",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of vehicle and human)",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Main stream: 3840 × 2160@(1–20 fps)/2688 × 1520@(1–25/30 fps) sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "2 streams",
+        "Resolution": "3840 × 2160 (3840 × 2160); 3072 × 2048 (3072 × 2048); 3072 × 1728 (3072 × 1728); 2880 × 1620 (2880 × 1620); 2688 × 1520 (2688 × 1520); 3M (2048 × 1536); 2304 × 1296 (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–8192 kbps H.265: 12 kbps–8192 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto;Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688 × 1520 resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; audio detection; voltage detection; defocus detection; SMD; security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; Boujour",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T); CGI; P2P; Milestone",
+        "User/Host": "20 (Total bandwidth: 48 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE; Chrome; Firefox",
+        "Management Software": "Smart PSS; DSS; DMSS",
+        "Mobile Client": "iOS; Android",
+        "Cyber Security": "Configuration encryption; trusted execution; Digest; security logs; WSSE; account lockout; syslog; video encryption; 802.1x; IP/MAC filtering; HTTPS; trusted upgrade; trusted boot; firmware encryption; generation and importing of X.509 certification",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; FCC: 47 CFR FCC Part 15, Subpart B; UL/CUL: UL62368-1 & CAN/CSA C22.2 No. 62368-1-14",
+        "Power Supply": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 2.8 W (12 VDC); 3.6 W (PoE) Max. (H.265+ max. resolution + max. stream+ WDR + IR intensity + IVS): 6.4 W (12 VDC); 7.6 W (PoE)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95%",
+        "Protection": "IP67",
+        "Casing Material": "Metal",
+        "Product Dimensions": "108.3 mm × Φ122 mm (4.26\" × Φ4.80\")",
+        "Net Weight": "0.70 kg (1.54 lb)",
+        "Gross Weight": "0.88 kg (1.94 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDW2841T-ZS_S0_datasheet_20250220.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Eyeball Network Camera_Quick Start Guide_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54247/user_manual/Dahua_Eyeball_Network_Camera_Quick_Start_Guide_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54257/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54257/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Eyeball Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Eyeball_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-10-22 #A&E Document IPC-HDW2841T-ZS_A&E_20260917211721 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63787/a_e_document/1789651910971.docx"
+      },
+      {
+        "name": "2023-05-19 #Drawings IPC-HDW2841T-ZS_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88210/drawings/1_0_01_04_37096_1942960422.pdf"
+      },
+      {
+        "name": "2022-07-22 #Drawings IPC-HDW2841T-ZS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88210/drawings/1_0_01_04_37096_1942960424.pdf"
+      },
+      {
+        "name": "2026-05-30 #Firmware DH_IPC-HX2XXX-Kant_MultiLang_PN_V2.880.0000000.22.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63747/firmware/DH_IPC-HX2XXX-Kant_MultiLang_PN_V2.880.0000000.22.R.260514.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/ir/ipc-hdw2841t-zs"
+  }
+}

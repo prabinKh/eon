@@ -1,0 +1,195 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Aggregation Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "series": "Aggregation Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "tab_title": "Aggregation Switches",
+    "tab_id": "691",
+    "breadcrumbs": [
+      "Transmission",
+      "Aggregation Switches",
+      "Aggregation Switches",
+      "Aggregation Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "155871",
+    "product_name": "S6436-24GT8GF4XF",
+    "product_title": "36-Port L3 Managed Switch with 4-Port 10G SFP+",
+    "product_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches/s6436-24gt8gf4xf",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/image/1_0_01_20_12058_822737043_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s6436-24gt8gf4xf.html",
+  "detail": {
+    "title": "36-Port L3 Managed Switch with 4-Port 10G SFP+",
+    "model": "S6436-24GT8GF4XF",
+    "brand": "Dahua",
+    "overview": "New Favourite S6436-24GT8GF4XF 36-Port L3 Managed Switch with 4-Port 10G SFP+ Key Points project Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/image/1_0_01_20_12058_822737043_crop_thumb.PNG",
+        "alt": "S6436-24GT8GF4XF_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/image/1_0_01_20_12058_822737044_crop_thumb.PNG",
+        "alt": "S6436-24GT8GF4XF_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/image/1_0_01_20_12058_822737045_crop_thumb.PNG",
+        "alt": "S6436-24GT8GF4XF_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 194,
+    "specifications": {
+      "Layer": {},
+      "Switching Capacity": {},
+      "Packet Forwarding Rate": {},
+      "Description of Function Slots": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Power Supply": {},
+      "Included Power Adapter": {},
+      "Power Consumption": {},
+      "Fan": {},
+      "Statics Protection": {},
+      "Lightning Protection (Ethernet Port)": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Casing Material": {},
+      "Installation": {},
+      "Debugging": {},
+      "Packet Buffer Size": {},
+      "Jumbo Frame": {},
+      "MAC Table Size": {},
+      "Total Static MAC Addresses": {},
+      "Flash": {},
+      "RAM": {},
+      "Communication Standard": {},
+      "Aggregation Group": {},
+      "VLAN Number": {},
+      "VLAN Interface": {},
+      "IPv4 Routes": {},
+      "Dynamic ARP": {},
+      "Static ARP": {},
+      "QoS Queue": {},
+      "Number of IPv4 ACL": {},
+      "Traffic Limit Granularity": {},
+      "ACL Traffic Limit Granularity": {},
+      "LLDP": {},
+      "Ethernet Loop Protection": {},
+      "VLAN Function": {},
+      "Link Aggregation": {},
+      "Port Feature": {},
+      "Mirror": {},
+      "Multicast": {},
+      "Reliability": {},
+      "Routing": {},
+      "ARP": {},
+      "DHCP Function": {},
+      "Security": {},
+      "QoS/ACL": {},
+      "IPv6": {},
+      "Equipment Management": {},
+      "Packing List": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/datasheet/DH-S6436-24GT8GF4XF_S0_datasheet_20260722_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Ethernet Switch_Hardware Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_Hardware_Installation_Guide_V1.0.0.zip"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Managed Aggregation Switch_Command Reference Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Command_Reference_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Managed Aggregation Switch_Web Operation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Web_Operation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Ethernet Switch (Aggregation Switch)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88431/user_manual/Dahua_Ethernet_Switch_(Aggregation_Switch)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Managed Aggregation Switch_Web Operation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Web_Operation_Manual_V1.0.1.zip"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua DoLynk Care (Ethernet Switch)_Quick Configuration Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_DoLynk_Care_(Ethernet_Switch)_Quick_Configuration_Manual_V1.1.0.zip"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Managed Aggregation Switch_Command Reference Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Command_Reference_Manual_V1.0.0.zip"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Ethernet Switch (Aggregation Switch)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88431/user_manual/Dahua_Ethernet_Switch_(Aggregation_Switch)_Quick_Start_Guide_V1.0.0.zip"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua DoLynk Care (Ethernet Switch)_Quick Configuration Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_DoLynk_Care_(Ethernet_Switch)_Quick_Configuration_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Ethernet Switch_Hardware Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_Hardware_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-30 #A&E Document S6436-24GT8GF4XF_A&E_20260923152632 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/a_e_document/1790149848464.docx"
+      },
+      {
+        "name": "2025-08-27 #Drawings S6436-24GT8GF4XF_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/drawings/1_0_01_20_12058_836958554.pdf"
+      },
+      {
+        "name": "2025-08-27 #Drawings S6436-24GT8GF4XF_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88432/drawings/1_0_01_20_12058_836958553.pdf"
+      },
+      {
+        "name": "2025-08-27 #Drawings S6436-24GT8GF4XF_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/drawings/1_0_01_20_12182_919581255.pdf"
+      },
+      {
+        "name": "2026-07-04 #Firmware DH_TS-SXXXX-CronusA_Eng_Local_V1.000.0000002.3.R.260618 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88431/firmware/DH_TS-SXXXX-CronusA_Eng_Local_V1.000.0000002.3.R.260618.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches/s6436-24gt8gf4xf"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders",
+    "series": "Cooper-I Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/cooper-i-series",
+    "tab_title": "Cooper-I Series",
+    "tab_id": "11857",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Recorders",
+      "Cooper-I Series",
+      "Cooper-I Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "142861",
+    "product_name": "XVR1B08H-I",
+    "product_title": "8CH Penta-brid 5MP Value/1080P Cooper 1U 1HDD WizSense Digital Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/cooper-i-series/xvr1b08h-i=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_15619/ProductImage/1_0_01_01_15619_750978433_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/xvr1b08h-i-v2.html",
+  "detail": {
+    "title": "8CH Penta-brid 5MP Value/1080P Cooper 1U 1HDD WizSense Digital Video Recorder",
+    "model": "XVR1B08H-I",
+    "brand": "Dahua",
+    "overview": "Compare Favourite XVR1B08H-I 8CH Penta-brid 5MP Value/1080P Cooper 1U 1HDD WizSense Digital Video Recorder Key Points • 8-ch Analog Video Input, Max. 5M-N@12fps/1080p@15fps Encoding Capability • Max. 12-ch IP Video Input (Up to 6MP) • AI Functions: 8-ch SMD, 8-ch AI Coding • 1 Bay. Up to 16TB for Each HDD Storage Capacity Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_15619/ProductImage/1_0_01_01_15619_750978433_crop_thumb.png",
+        "alt": "XVR1B08H-I_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_15619/ProductImage/1_0_01_01_15619_750978434_crop_thumb.png",
+        "alt": "XVR1B08H-I_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_15619/ProductImage/1_0_01_01_15619_750978441_crop_thumb.png",
+        "alt": "XVR1B08H-I_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web; Local GUI"
+      },
+      "SMD Plus": {
+        "SMD Plus by Recorder": "8 channels: Secondary filtering for human and vehicle, reducing false alarms caused by leaves, rain and lighting condition change"
+      },
+      "Audio and Video": {
+        "Analog Camera Input": "8 BNC ports, supports HDCVI/AHD/TVI/CVBS auto-detect",
+        "Camera Input": "1. CVI: 5 MP@25 fps; 5 MP@20 fps; 5 MP@10/12.5 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@50/60 fps; 720p@25/30fps. 2. TVI: 5 MP@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps. 3. AHD: 5 MP@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps.",
+        "IP Camera Input": "Up to 12 channels of IPC access 4 IP channels by default + 8 channels (analog channels are converted to IP channels) Incoming bandwidth: 64 Mbps, recording bandwidth: 64 Mbps and outgoing bandwidth: 64 Mbps *After IP extension is enabled, the AI Function (SMD) will be disabled.",
+        "Encoding Capacity": "Main stream: 5 MP Mode: 4-ch 5 MP@(1 fps-6 fps); others 5M-N@(1 fps-12 fps) 5M-N Mode: 5M-N@(1 fps –12 fps); 4M-N/1080p@(1 fps–15 fps); 1080N/720p/960H/D1/CIF@(1 fps–25/30 fps) Sub stream: D1/CIF@(1 fps–15 fps)",
+        "Dual-stream": "Yes",
+        "Video Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sampling": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 kbps",
+        "Video Output": "1 HDMI, 1 VGA HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Multi-screen Display": "When IP extension mode not enabled: 1/4/8/9 When IP extension mode enabled: 1/4/8/9/16",
+        "Third-party Camera Access": "Panasonic; Sony; Hanwha; Axis; Arecont; ONVIF"
+      },
+      "Compression Standard": {
+        "Video Compression": "AI Coding; Smart H.265+; H.265; Smart H.264+; H.264",
+        "Audio Compression": "G.711a; G.711u; PCM"
+      },
+      "Network": {
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; FTP; DDNS; SNMP; Alarm Server; P2P; Auto Registration; IP Search (Supports IP camera, DVR, NVS, etc.)",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 22.12 (Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox"
+      },
+      "Recording Playback": {
+        "Record Mode": "General; alarm; motion detection",
+        "Recording Playback": "1/4/9",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback; general playback; event playback; tag playback; smart playback"
+      },
+      "Alarm": {
+        "General Alarm": "Motion detection; HDCVI alarm; camera external alarm; network alarm; PIR alarm",
+        "Anomaly Alarm": "Error (no disk, disk error, low space, low quota space; network disconnection; IP conflict; MAC conflict); video loss; video tampering; camera offline",
+        "Intelligent Alarm": "SMD Plus",
+        "Alarm Linkage": "Record; snapshot (panoramic); IPC external alarm output; audio; buzzer; log; preset; email"
+      },
+      "Ports": {
+        "Audio Input": "1-channel RCA 8-channel BNC (Coaxial Audio)",
+        "Audio Output": "1-channel RCA",
+        "Two-way Talk": "Yes (share the same audio input with the first channel)",
+        "Disk Interface": "1 SATA port, up to 16 TB. This limit varies depending on the environment temperature.",
+        "USB": "2 (2 rear USB 2.0 ports)",
+        "HDMI": "1",
+        "VGA": "1",
+        "Network Port": "1 (10/100 Mbps Ethernet port, RJ-45)"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "<7 W (without HDD)",
+        "Net Weight": "0.57 kg (1.26 lb)",
+        "Gross Weight": "1.05 kg (2.31 lb)",
+        "Product Dimensions": "197.0 mm × 202.9 mm × 41.5 mm (7.76\" × 7.99\" × 1.63\") (W × D × H)",
+        "Packaging Dimensions": "332.0 mm × 240.0 mm × 64.0 mm (13.07\" × 9.45\" × 2.52\") (W × D × H)",
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Installation": "Desktop",
+        "Certifications": "CE-LVD: IEC 62368-1:2014 CE-EMC: EN IEC 61000-3-2:2019, EN 61000-3-3:2013+A1:2019, EN 55032:2015+A11:2020, EN 55035:2017+A11:2020, EN 55024:2010+A1:2015, EN 50130-4:2011+A1:2014 FCC: 47 CFR Part 15, Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/XVR1B08H-I_V2_datasheet_20240229.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Dahua AI Digital Video Recorder_User Manual_V2.7.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10047/user_manual/Dahua_AI_Digital_Video_Recorder_User_Manual_V2.7.0.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Digital Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/7517/user_manual/Digital_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Cooper_HDD INSTALLATION GUIDE_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10047/user_manual/Cooper_HDD_INSTALLATION_GUIDE_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-02-29 #Drawings XVR1B08H-I_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80351/drawings/XVR1B08H-I_PORT.pdf"
+      },
+      {
+        "name": "2024-01-18 #Drawings XVR1B08H-I_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80351/drawings/XVR1B08H-I_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-03-15 #Firmware DH_XVR4x16-I3(V2.0)_MultiLang_V4.004.0000001.1.R.260304 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78197/firmware/DH_XVR4x16-I3(V2.0)_MultiLang_V4.004.0000001.1.R.260304.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/cooper-i-series/xvr1b08h-i=v2"
+  }
+}

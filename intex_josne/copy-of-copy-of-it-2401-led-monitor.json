@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "24 Inch",
+    "subcategory_url": "https://www.intex.in/collections/24-inch",
+    "series": "32 Inch",
+    "series_url": "https://www.intex.in/collections/32-inch",
+    "tab_title": "24 Inch",
+    "tab_id": "7820465799386",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "24 Inch",
+      "IT-2401 LED Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "7820465799386",
+    "product_name": "IT-2401 LED Monitor",
+    "product_title": "IT-2401 LED Monitor",
+    "product_url": "https://www.intex.in/products/copy-of-copy-of-it-2401-led-monitor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/IT-2401.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 13999.0,
+      "display": "₹13,999.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/copy-of-copy-of-it-2401-led-monitor.html",
+  "detail": {
+    "title": "IT-2401 LED Monitor",
+    "model": "1114-1000-031",
+    "brand": "Intex",
+    "overview": "The IT-2401 LED Monitor features a 54.6 cm anti glare screen featuring high brightness and realistic colors so you can access all your favorite effortlessly.",
+    "features": [
+      "IPS Display",
+      "Realistic Color",
+      "High Brightness",
+      "Anti Glare Screen"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/IT-2401.jpg",
+        "alt": "IT-2401 LED Monitor",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "IPS Display",
+        "Feature 2": "Realistic Color",
+        "Feature 3": "High Brightness",
+        "Feature 4": "Anti Glare Screen"
+      },
+      "General": {
+        "Model": "1114-1000-031"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/copy-of-copy-of-it-2401-led-monitor"
+  }
+}

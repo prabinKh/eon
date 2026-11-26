@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Gas Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/gas-alarms",
+    "tab_title": "Gas Alarms",
+    "tab_id": "12767",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Gas Alarms",
+      "Gas Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "101447",
+    "product_name": "HY-GA40A",
+    "product_title": "Natural Gas Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gas-alarms/hy-ga40a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211207/0925324334834_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-ga40a.html",
+  "detail": {
+    "title": "Natural Gas Alarm",
+    "model": "HY-GA40A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-GA40A Natural Gas Alarm Key Points > High-performance sensor, intelligent and accurate detection of gas leakage, and send out alarm signal timely > Operate stably and identify gas type effectively > Intelligent linkage to close pipeline valve and start exhausting fan > A built-in high-volume buzzer, 70dB (A) at 1m (3.28 feet) > Three indicator lights for displaying device status clearly Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211207/0925324334834_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211207/0925200099026_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211207/0925269421293_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211207/0925370035870_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DHI-HY-GA40A",
+        "Gas Type": "Methane (CH₄)",
+        "Alarm Threshold": "10% LEL",
+        "Response Time": "≤30 s",
+        "Supply Voltage": "DC12V",
+        "Power Consumption": "≤0.8W",
+        "Output": "1 valve output, 1 relay output",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Relative Humidity": "≤95% RH (non condensing)",
+        "Warm-up Period": "180 s",
+        "Alarm Method": "Visual and audible alarm",
+        "Alarm Sound Output": "70dB (A) at 1m (3.28 feet)",
+        "Silence": "Support",
+        "Dimensions": "86.6 mm × 86.6 mm × 29.2 mm (3.41\" × 3.41\" × 1.15\")",
+        "Installation": "Wall mount",
+        "Certification": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/101447/datasheet/HY-GA40A_Datasheet_20200927.pdf"
+      },
+      {
+        "name": "2021-12-07 #User Manual Standalone Natural Gas Alarm_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28237/user_manual/1350340348879.pdf"
+      },
+      {
+        "name": "2024-08-30 #Drawings HY-GA40A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28237/drawings/0924570377033.pdf"
+      },
+      {
+        "name": "2021-12-07 #Drawings HY-GA40A_Installation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28237/drawings/HY-GA40A_Installation.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gas-alarms/hy-ga40a"
+  }
+}

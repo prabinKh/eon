@@ -1,0 +1,79 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM320 RGB Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353922670883",
+    "product_name": "GM320 RGB Gaming Mouse - Black",
+    "product_title": "GM320 RGB Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/gm320-8-button-mouse-braided-cable-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/PNG_1_bb769bf4-56b8-4907-bd34-43b9dfff9af4.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm320-8-button-mouse-braided-cable-black.html",
+  "detail": {
+    "title": "GM320 RGB Gaming Mouse - Black",
+    "model": "AESP0120",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM320 is an optical gaming mouse offering 8 programmable buttons plus a dedicated rapid-fire button, giving competitive FPS, MOBA and RTS players quick access to macros and combos. Its DPI is adjustable across default levels up to 12800, with a switchable 500Hz-1000Hz polling rate for smooth, high-speed cursor movement. A symmetrical, streamlined claw-grip design keeps it comfortable through long sessions, while multicolour RGB lighting can be toggled or changed via a bottom-mounted switch. Buttons are rated for 20 million clicks, and a durable 1.5m braided cable rounds out a reliable, long-lasting gaming mouse for casual and competitive PC gamers alike.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/PNG_1_bb769bf4-56b8-4907-bd34-43b9dfff9af4.png",
+        "alt": "GM320 RGB Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "Up to 12800",
+        "Buttons": "8, Programmable + Fire Button",
+        "Polling Rate": "500-1000Hz",
+        "Durability": "20 Million Clicks",
+        "Cable": "1.5m Braided",
+        "Color": "Black",
+        "BUTTONS": "8, Programmable + Fire Button",
+        "POLLING RATE": "500-1000Hz",
+        "DURABILITY": "20 Million Clicks",
+        "CABLE": "1.5m Braided",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹549.00",
+        "MRP (INR)": "₹2,799.00",
+        "SKU": "AESP0120"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GM320)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-GM320-RGB.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm320-8-button-mouse-braided-cable-black"
+  }
+}

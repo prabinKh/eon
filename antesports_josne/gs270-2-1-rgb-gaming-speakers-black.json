@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Speaker",
+    "subcategory_url": "https://antesports.com/collections/speaker",
+    "series": "Speaker Series",
+    "series_url": "https://antesports.com/collections/speaker",
+    "tab_title": "Speaker",
+    "tab_id": "508173353251",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Speaker",
+      "GS270 2.1 RGB Gaming Speakers with Subwoofer - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341811192099",
+    "product_name": "GS270 2.1 RGB Gaming Speakers with Subwoofer - Black",
+    "product_title": "GS270 2.1 RGB Gaming Speakers with Subwoofer - Black",
+    "product_url": "https://antesports.com/products/gs270-2-1-rgb-gaming-speakers-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/54.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gs270-2-1-rgb-gaming-speakers-black.html",
+  "detail": {
+    "title": "GS270 2.1 RGB Gaming Speakers with Subwoofer - Black",
+    "model": "AEPP0080",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GS270 is a 2.1 channel stereo gaming speaker system built around a dedicated subwoofer and twin satellite speakers, delivering a rated 11W of clear, room-filling sound. Deep, punchy bass from the subwoofer pairs with crisp, distortion-free highs and mids from the satellites, making it equally suited to gaming, movies and music. Eye-catching RGB lighting wraps the subwoofer and satellites, adding a dynamic visual layer to any gaming desk. Setup is plug-and-play: connect any PC, laptop, tablet or phone through the 3.5mm AUX cable and power via USB, then fine-tune loudness instantly with the front-mounted metallic volume knob. Sturdy metallic mesh construction keeps the set durable through long gaming sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/54.png",
+        "alt": "GS270 2.1 RGB Gaming Speakers with Subwoofer - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Channel": "2.1 Stereo (Dual Satellites + Subwoofer)",
+        "Output Power": "11W Rated",
+        "Lighting": "Multi-Colour RGB on Subwoofer & Satellites",
+        "Connectivity": "3.5mm AUX Input",
+        "Power": "USB Powered",
+        "Controls": "Front Volume Control Knob",
+        "Build": "Metallic Mesh Finish",
+        "Color": "Black",
+        "CHANNEL": "2.1 Stereo (Dual Satellites + Subwoofer)",
+        "OUTPUT POWER": "11W Rated",
+        "LIGHTING": "Multi-Colour RGB on Subwoofer & Satellites",
+        "CONNECTIVITY": "3.5mm AUX Input",
+        "POWER": "USB Powered",
+        "CONTROLS": "Front Volume Control Knob",
+        "BUILD": "Metallic Mesh Finish",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,499.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0080"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gs270-2-1-rgb-gaming-speakers-black"
+  }
+}

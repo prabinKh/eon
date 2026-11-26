@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "8-in-1 USB-C Hub - Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353569628451",
+    "product_name": "8-in-1 USB-C Hub - Grey",
+    "product_title": "8-in-1 USB-C Hub - Grey",
+    "product_url": "https://antesports.com/products/aec810-8in1-usb-c-hub-ethernet-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aec810-8in1-usb-c-hub-ethernet-grey.html",
+  "detail": {
+    "title": "8-in-1 USB-C Hub - Grey",
+    "model": "AEPP0059",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC810 is an 8-in-1 USB-C docking station that turns a single port into a full workstation hub, combining HDMI 2.0 output, an RJ-45 Ethernet port, USB 3.0 and USB 2.0 ports, SD/TF card slots and a PD 3.0 charging port. The HDMI port delivers 4K@30Hz output for monitors, HDTVs or projectors, while the built-in Ethernet port adds a stable, fast wired internet connection where Wi-Fi isn't reliable. A PD 3.0 charging pass-through keeps your laptop, phone or tablet powered while docked, and the compact, sleek design suits any workspace. Universal compatibility spans Windows, Mac, Linux and Android, making the AEC810 a genuinely complete connectivity hub for daily productivity.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12.jpg",
+        "alt": "8-in-1 USB-C Hub - Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Ports": "HDMI + Ethernet + USB 3.0 + USB 2.0 + SD/TF + PD",
+        "HDMI Output": "Up to 4K @ 30Hz",
+        "Ethernet": "RJ-45, 100M",
+        "Compatibility": "Windows, Apple, Linux, Android",
+        "Color": "Grey",
+        "PORTS": "HDMI + Ethernet + USB 3.0 + USB 2.0 + SD/TF + PD",
+        "HDMI OUTPUT": "Up to 4K @ 30Hz",
+        "ETHERNET": "RJ-45, 100M",
+        "COMPATIBILITY": "Windows, Apple, Linux, Android",
+        "COLOR": "Grey",
+        "SKU": "AEPP0059"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec810-8in1-usb-c-hub-ethernet-grey"
+  }
+}

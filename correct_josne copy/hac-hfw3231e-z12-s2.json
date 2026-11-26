@@ -1,0 +1,172 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series",
+    "tab_title": "1080P",
+    "tab_id": "9442",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Pro Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "111527",
+    "product_name": "HAC-HFW3231E-Z12",
+    "product_title": "2MP 12x Optical Zoom Starlight HDCVI IR Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/1080p/starlight/hac-hfw3231e-z12=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220726/HAC-HFW3231E-Z12-DP-VP1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hfw3231e-z12-s2.html",
+  "detail": {
+    "title": "2MP 12x Optical Zoom Starlight HDCVI IR Bullet Camera",
+    "model": "HAC-HFW3231E-Z12",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HFW3231E-Z12 2MP 12x Optical Zoom Starlight HDCVI IR Bullet Camera Key Points · Max 30 fps@1080P · Starlight, 120 dB true WDR, 3D NR · Auto focus,5.3 mm–64 mm motorized lens · CVI/CVBS/AHD/TVI switchable . Super Adpat and SMD Plus · Max. IR length 100 m, Smart IR · IP67,IK10,AC 24V /DC 12V Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220726/HAC-HFW3231E-Z12-DP-VP1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220726/HAC-HFW3231E-Z12-DP-VP3_thumb.png",
+        "alt": "HAC-HFW3231E-Z12-DP-VP",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220726/HAC-HFW3231E-Z12-DP-VP2_thumb.png",
+        "alt": "HAC-HFW3231E-Z12-DP-VP",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Pixel": "2 MP",
+        "Image Sensor": "2 MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "Min. Illumination": "0.001 lux@F1.5 (Color, 30 IRE) 0.0001 lux@F1.5 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "100 m (328.08 ft)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "4 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Module",
+        "Auto Focus": "Yes",
+        "Lens Mount": "Module",
+        "Focal Length": "5.3-64 mm",
+        "Max. Aperture": "F1.5",
+        "Field of View": "H: 59°–5°; V: 33°–3°; D: 66°–6°",
+        "Iris Control": "Auto",
+        "Close Focus Distance": "1 m (3.28 ft)",
+        "DORI Distance": "Lens",
+        "W": "73.1 m (239.83 ft)",
+        "T": "882.8 m (2,896.33 ft)"
+      },
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; AHD: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; TVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; CVBS: PAL: 960 × 576H; NTSC: 960 × 480H",
+        "Resolution": "1080p (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "BLC; HLC; WDR; Auto",
+        "WDR": "120 dB",
+        "White Balance": "Auto; Area white balance",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Smart Motion Detection": "Yes",
+        "Smart Illumination": "Yes",
+        "Defog": "Electronic defog",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certification": {
+        "Certifications": "CE (EN55032: 2015, EN61000-3-2: 2014, EN61000-3-3: 2013, EN55024: 2010+A1: 2015, EN55035: 2017, EN50130-4: 2011+A1: 2014, EN62368-1: 2014+A11: 2017) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS",
+        "Audio Input": "1-channel audio in (RCA)",
+        "Alarm Input": "1 channel",
+        "Alarm Output": "1 channel",
+        "Menu Settings": "1 Five-direction button",
+        "Test Port": "1-channel 2-pin CVBS video output",
+        "Upgrade Port": "1-channel 4-pin Ethernet input"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 10%; 24 VAC ± 25%",
+        "Power Consumption": "Max. 14 W (12 VDC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Protection": "IP67; IK10"
+      },
+      "Structure": {
+        "Casing": "Metal",
+        "Product Dimensions": "273.2 mm × 95.0 mm × 95.0 mm (10.76\" × 3.74\" × 3.74\")",
+        "Packaging Dimensions": "340 mm × 144 mm × 124 mm (13.39\" × 5.67\" × 4.88\" )",
+        "Net Weight": "1.15 kg (2.54 lb)",
+        "Gross Weight": "1.45 kg (3.20 lb)",
+        "Installation": "Wall mount; ceiling mount; horizontal pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HFW3231E-Z12_datasheet_20220507.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2024-01-06 #Drawings HAC-HFW3231E-Z12_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5107/drawings/IPC-HFW5241E-Z12E_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-06 #Drawings HAC-HFW3231E-Z12_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5217/drawings/IPC-HFW5241E-ZHE_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/1080p/starlight/hac-hfw3231e-z12=s2"
+  }
+}

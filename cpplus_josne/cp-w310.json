@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-W310"
+    ]
+  },
+  "card_info": {
+    "product_id": "2263",
+    "product_name": "CP-W310",
+    "product_title": "CP-W310",
+    "product_url": "https://cpplusworld.com/cp-w310",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f7519ae2-412f-4426-b58a-e0d83dbc7a2e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-w310.html",
+  "detail": {
+    "title": "CP-W310",
+    "model": "CP-W310",
+    "brand": "CP Plus",
+    "overview": "CarKam 3MP",
+    "features": [
+      "3MP Resolution",
+      "Support SD Card upto 1TB (Class 10 U3)",
+      "G-Sensor (Emergency Recording)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f7519ae2-412f-4426-b58a-e0d83dbc7a2e.png",
+        "alt": "CP-W310 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2a7dc258-77ae-4b6a-89cb-3a118598fab5.png",
+        "alt": "CP-W310 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "H=116°, D=137°, V=62°",
+        "Image Sensor": "1/2.8” Image sensor (0.9071 centimeters)",
+        "Lens": "3.0 mm",
+        "Max. Aperture": "F1.9",
+        "Compression": "H.265",
+        "Resolution": "3MP",
+        "Video Format": "MP4",
+        "Video resolution": "3MP(2304 x 1296P)@25fps",
+        "Smart Features": "Voice Prompt, G-Sensor (Emergency Recording),  Parking Mode*, WDR",
+        "Record Type": "Audio Recording, Regular Recording, Emergency Recording, Time-Lapse*",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Microphone": "Support",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Mobile App": "CarKam (Available for iOS and Android)",
+        "Photo Format": "JPG",
+        "Casing": "PC+ABS",
+        "Operating Temperature": "-10°C~60°C",
+        "Storage temperature": "-20°C~70°C",
+        "Dimensions": "71mm x 39.9mm x 30.9mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-W310.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/a99538b8-1360-42b7-b66c-b8a76e14ba93.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-w310"
+  }
+}

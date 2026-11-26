@@ -1,0 +1,125 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Data Collection Station",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station",
+    "tab_title": "Data Collection Station",
+    "tab_id": "118256",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Data Collection Station",
+      "Data Collection Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "154972",
+    "product_name": "EEC400",
+    "product_title": "Dahua Data Collection Station with Type-C interface",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec400=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/image/1_0_01_01_16582_388024044_temporary_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/eec400-v2.html",
+  "detail": {
+    "title": "Dahua Data Collection Station with Type-C interface",
+    "model": "EEC400",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EEC400 Dahua Data Collection Station with Type-C interface Key Points • Simultaneously Connects 8pcs Body Camera for File Download, Charging, Firmware Upgrade and Parameter Configuration • Supports up to 4x16TB High-Capacity Local Storage • Flexible File Management via External HDMI Monitor and Web Client • Seamless Integration with Dahua Platform for unified management for devices, users, and storage resources Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/image/1_0_01_01_16582_388024044_temporary_thumb.PNG",
+        "alt": "EEC400_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/image/1_0_01_01_16582_388024046_temporary_thumb.PNG",
+        "alt": "EEC400_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/image/1_0_01_01_16582_388024048_temporary_thumb.PNG",
+        "alt": "EEC400_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Network Port": {},
+      "USB": {},
+      "RS-232": {},
+      "Disk Interface": {},
+      "HDMI": {},
+      "Device Access Status Indication": {},
+      "Device Update": {},
+      "Auto Acquisition": {},
+      "Priority Acquisition": {},
+      "Web Configuration": {},
+      "FTP": {},
+      "Collection Speed": {},
+      "Power Adapter": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Environment": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/datasheet/DH-EEC400_V2_datasheet_20250217.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Data Collection Station_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/user_manual/Data_Collection_Station_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Data Collection Station_User Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/user_manual/Data_Collection_Station_User_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2024-11-15 #Drawings EEC400_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/drawings/1_0_01_01_16582_386039868.pdf"
+      },
+      {
+        "name": "2024-11-15 #Drawings EEC400_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87747/drawings/1_0_01_01_16582_385936464.pdf"
+      },
+      {
+        "name": "2026-06-19 #Firmware DH_EEC400(300V2)_Internal_PN_V1.000.0000003.0.R.260601 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64357/firmware/DH_EEC400(300V2)_Internal_PN_V1.000.0000003.0.R.260601.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec400=v2"
+  }
+}

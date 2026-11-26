@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK1000 TKL Mechanical Keyboard Blue Switch - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356790722851",
+    "product_name": "MK1000 TKL Mechanical Keyboard Blue Switch - Black",
+    "product_title": "MK1000 TKL Mechanical Keyboard Blue Switch - Black",
+    "product_url": "https://antesports.com/products/mk1000-tkl-mechanical-keyboard-blue-switch-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_0db98d06-4db9-4cc4-9a1f-273a8c956a7c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1000-tkl-mechanical-keyboard-blue-switch-black.html",
+  "detail": {
+    "title": "MK1000 TKL Mechanical Keyboard Blue Switch - Black",
+    "model": "AESP0007",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1000 TKL is built with a premium-grade plastic body that stays rigid and stable even during the most intense gaming sessions. Its compact 87-key TKL design frees up extra desk space for mouse movement, and 9 dynamic lighting effects including breathing waves and colour cycling modes bring the keyboard to life, with 8 backlight game presets highlighting keys for FPS, RPG, MOBA and other genres. Individual Outemu Blue switches deliver accurate, responsive key commands with an audible click for both typing and gaming, and full N-key rollover ensures every command registers correctly during intense play. A 1.5-metre cable offers flexible placement on any desk, making the MK1000 a compact, robust companion for everyday PC gaming.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_0db98d06-4db9-4cc4-9a1f-273a8c956a7c.jpg",
+        "alt": "MK1000 TKL Mechanical Keyboard Blue Switch - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "TKL, 87 Keys",
+        "Switch Type": "Outemu Blue Mechanical",
+        "Lighting": "Multicolour RGB, 9 Effects",
+        "Cable Length": "1.5m",
+        "Color": "Black",
+        "LAYOUT": "TKL, 87 Keys",
+        "SWITCH TYPE": "Outemu Blue Mechanical",
+        "LIGHTING": "Multicolour RGB, 9 Effects",
+        "CABLE LENGTH": "1.5m",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,400.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AESP0007"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1000-tkl-mechanical-keyboard-blue-switch-black"
+  }
+}

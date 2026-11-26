@@ -1,0 +1,101 @@
+{
+  "hierarchy": {
+    "category": "LED TV",
+    "category_url": "https://www.intex.in/collections/led-tv",
+    "subcategory": "HD Smart TV",
+    "subcategory_url": "https://www.intex.in/collections/hd-smart-tv",
+    "series": "HD TV",
+    "series_url": "https://www.intex.in/collections/hd-tv",
+    "tab_title": "HD Smart TV",
+    "tab_id": "8581258739930",
+    "breadcrumbs": [
+      "Home",
+      "LED TV",
+      "HD Smart TV",
+      "Intex 32\" HD Smart LED TV |  LED-SHV3293 (Frameless Design & 24W Speakers)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8581258739930",
+    "product_name": "Intex 32\" HD Smart LED TV |  LED-SHV3293 (Frameless Design & 24W Speakers)",
+    "product_title": "Intex 32\" HD Smart LED TV |  LED-SHV3293 (Frameless Design & 24W Speakers)",
+    "product_url": "https://www.intex.in/products/1m-32-hd-smart-led-tv-led-shv3293",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-SHV3293.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 24999.0,
+      "display": "₹24,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/1m-32-hd-smart-led-tv-led-shv3293.html",
+  "detail": {
+    "title": "Intex 32\" HD Smart LED TV |  LED-SHV3293 (Frameless Design & 24W Speakers)",
+    "model": "LED-SHV3293",
+    "brand": "Intex",
+    "overview": "Ditch the bezels, embrace the brilliance. This 32\" HD Smart TV boasts a frameless screen that maximizes your view and minimizes distraction. Dive into 16.7 million colors, brought to life by a powerful 24W front-firing speaker system. The smart remote puts a universe of entertainment at your fingertips, all housed in a sleek design that elevates your space as much as your viewing experience.",
+    "features": [
+      "Enjoy Immersive Sound with Built-In 24W Front-Firing Speakers",
+      "32\" Frameless Screen for a Seamless Viewing Experience",
+      "Bring HD Brilliance to Your Smart TV",
+      "Experience 16.7 Million of Vivid Color Spectrum",
+      "Navigate Effortlessly with the Smart Remote",
+      "Android 9.0 with Cloud TV OS for Seamless Integration",
+      "Share with Ease: Effortless Screen Sharing Made Simple"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LED-SHV3293.jpg",
+        "alt": "Intex 32\" HD Smart LED TV |  LED-SHV3293 (Frameless Design & 24W Speakers)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/image-1.png",
+        "alt": "Intex 32\" HD Smart LED TV |  LED-SHV3293 (Frameless Design & 24W Speakers)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Enjoy Immersive Sound with Built-In 24W Front-Firing Speakers",
+        "Feature 2": "32\" Frameless Screen for a Seamless Viewing Experience",
+        "Feature 3": "Bring HD Brilliance to Your Smart TV",
+        "Feature 4": "Experience 16.7 Million of Vivid Color Spectrum",
+        "Feature 5": "Navigate Effortlessly with the Smart Remote",
+        "Feature 6": "Android 9.0 with Cloud TV OS for Seamless Integration",
+        "Feature 7": "Share with Ease: Effortless Screen Sharing Made Simple"
+      },
+      "General": {
+        "Model": "LED-SHV3293"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/LED-SHV3293_Product_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/1m-32-hd-smart-led-tv-led-shv3293"
+  }
+}

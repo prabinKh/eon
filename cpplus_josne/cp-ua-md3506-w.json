@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "Metal Detector",
+    "category_url": "https://cpplusworld.com/products/metal-detector",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/metaldetector",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "162",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Metal Detector",
+      "CP-UA-MD3506-W"
+    ]
+  },
+  "card_info": {
+    "product_id": "1714",
+    "product_name": "CP-UA-MD3506-W",
+    "product_title": "CP-UA-MD3506-W",
+    "product_url": "https://cpplusworld.com/cp-ua-md3506-w",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/1542be0b-f7ee-4ba0-aa2f-c88380ffa540.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-ua-md3506-w.html",
+  "detail": {
+    "title": "CP-UA-MD3506-W",
+    "model": "CP-UA-MD3506-W",
+    "brand": "CP Plus",
+    "overview": "Walk-through Metal Detector",
+    "features": [
+      "3.5 inch LCD with an interactive, user-friendly interface.",
+      "Minimum detect target: One coin.",
+      "Monitor and display the real-time signal strength of environmental interference.",
+      "Automatically searches operating frequency (20 levels available).",
+      "Counting passing number, pass/return numbers, and alarm number.",
+      "Pass/Return statistics, alarm statistics, and searching by day.",
+      "Safe low-voltage design.",
+      "Reliable and stable aviation connector.",
+      "9 alarm tones with 10 adjustable volume levels, mute mode and alarm duration:  0–10 s.",
+      "255 adjustable sensitivity levels",
+      "Separate parameter configuration for 12 supported scenarios.",
+      "IR remote controller",
+      "Multiple IR detection modes.",
+      "Supports lead-acid batteries (optional).",
+      "Easy-to-install modular design."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1542be0b-f7ee-4ba0-aa2f-c88380ffa540.jpg",
+        "alt": "CP-UA-MD3506-W - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/25ce5d7a-3460-415c-b667-095f944e54c9.jpg",
+        "alt": "CP-UA-MD3506-W - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Precise Positioning": "6 overlapping detection zones, bilateral transmission and receipt of detection signals, 1 panel  indicator lights",
+        "Zone Indication": "6 independent zones, and multiple metal items can be located simultaneously",
+        "IR Sensor": "Infrared sensor can reduce false alarms; automatic alarm statistics and pass/return statistics",
+        "Adjustable Sensitivity": "255 adjustable sensitivity levels in each detection zone (sensitivity increases by levels)",
+        "Remote Control": "Comes with a infrared remote controller with the maximum remote control range of 2m  (6.56ft)",
+        "Leakage Current": "< 0.5 mA, complying with safety requirements for electronic devices",
+        "Operating Voltage": "12 V DC, power adapter (included): 100 V–240 V AC, 50/60 Hz",
+        "Maximum Power Consumption": "11 W",
+        "Typical Power Consumption": "7.8W",
+        "Power Output": "12V DC",
+        "Operating Temperature": "-20 °C to +65 °C (–4 °F to +149 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Storage Temperature": "-20 °C to +65 °C (–4 °F to +149 °F)",
+        "Storage Humidity": "0%–95% (RH), non-condensing",
+        "Power Button": "Power switch on both door panels, and metal detection power switch on the front panel",
+        "Indicator Light": "One green indicator",
+        "Environmental Noise": "Monitors and displays real-time signal strength of environmental interferences",
+        "Installation": "Vertical mounting",
+        "Passageway Interior Size": "2003 mm x 720 mm x 393 mm (87.0",
+        "Overall Exterior Size": "Bare: 2208 mm × 866 mm × 488 mm (86.93",
+        "Packing Size": "2271 mm × 695 mm × 215 mm (89.41",
+        "Gross Weight": "47Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-MD3506-W.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/8de19611-82ea-49e7-a87c-c3c44f0c6c95.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-md3506-w"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "BT Speakers",
+    "subcategory_url": "https://www.intex.in/collections/bt-speakers",
+    "series": "Sound Bar",
+    "series_url": "https://www.intex.in/collections/sound-bar",
+    "tab_title": "BT Speakers",
+    "tab_id": "8173208142042",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "BT Speakers",
+      "Beast 2410 Wireless Soundbar"
+    ]
+  },
+  "card_info": {
+    "product_id": "8173208142042",
+    "product_name": "Beast 2410 Wireless Soundbar",
+    "product_title": "Beast 2410 Wireless Soundbar",
+    "product_url": "https://www.intex.in/products/beast-2410-wireless-soundbar",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3999.0,
+      "display": "₹3,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/beast-2410-wireless-soundbar.html",
+  "detail": {
+    "title": "Beast 2410 Wireless Soundbar",
+    "model": "2410",
+    "brand": "Intex",
+    "overview": "Experience a new dimension of audio excellence with our 24W Powerful Sound Output Bluetooth Speaker. Boasting 8 hours of playtime, seamless BT pairing, and 52mm*2 Drivers for immersive sound, this speaker delivers a premium sonic experience. Elevate your sound and style effortlessly with this powerful, stylish speaker.",
+    "features": [
+      "24W Powerful Sound Output",
+      "8 hrs Playtime",
+      "52mm*2 Drivers",
+      "TWS Connectivity",
+      "High Sensitive MIC for Calling",
+      "Premium Design with Sleek Finish"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-1.jpg",
+        "alt": "Beast 2410 Wireless Soundbar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-2.jpg",
+        "alt": "Beast 2410 Wireless Soundbar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-3.jpg",
+        "alt": "Beast 2410 Wireless Soundbar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-7.jpg",
+        "alt": "Beast 2410 Wireless Soundbar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-8.jpg",
+        "alt": "Beast 2410 Wireless Soundbar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Beast-2410_PDP-6.jpg",
+        "alt": "Beast 2410 Wireless Soundbar",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "24W Powerful Sound Output",
+        "Feature 2": "8 hrs Playtime",
+        "Feature 3": "52mm*2 Drivers",
+        "Feature 4": "TWS Connectivity",
+        "Feature 5": "High Sensitive MIC for Calling",
+        "Feature 6": "Premium Design with Sleek Finish"
+      },
+      "General": {
+        "Model": "2410"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Beast_2410_PPT_d66d8d9d-573f-43cf-bb31-beb28e85f0a5.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/beast-2410-wireless-soundbar"
+  }
+}

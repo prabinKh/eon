@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-YPS-PA36B-12DN"
+    ]
+  },
+  "card_info": {
+    "product_id": "2237",
+    "product_name": "CP-YPS-PA36B-12DN",
+    "product_title": "CP-YPS-PA36B-12DN",
+    "product_url": "https://cpplusworld.com/cp-yps-pa36b-12dn-",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f04e66fe-7e0f-4003-beb6-db44e7224163.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-yps-pa36b-12dn-.html",
+  "detail": {
+    "title": "CP-YPS-PA36B-12DN",
+    "model": "CP-YPS-PA36B-12DN",
+    "brand": "CP Plus",
+    "overview": "12V 3Amp-3 Pin Power Adapter",
+    "features": [
+      "Wide 100-285VAC input with stable 12V/3A, 36W output.",
+      "Low ripple performance ensuring clean and reliable power delivery.",
+      "Built-in OCP, 3kV Hi-Pot isolation and surge protection",
+      "±5 line and load regulation for consistent output stability.",
+      "High operational efficiency up to 77 for energy-optimized performance"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f04e66fe-7e0f-4003-beb6-db44e7224163.png",
+        "alt": "CP-YPS-PA36B-12DN - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/98e6f173-930a-455c-8742-af3f9c2c68b9.png",
+        "alt": "CP-YPS-PA36B-12DN - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Output": "Voltage: 12VDC, Min. Load: 0.1A, Rated Load: 3A, Output Power: 36W",
+        "Input Voltage Range": "100-285V AC",
+        "Rated Frequency": "50/60Hz Variation Frequency : 47 – 63Hz",
+        "Rated Input Voltage": "140-240V AC",
+        "Input Current": "0.8A Max.@ Any input AC voltage & output full load",
+        "Combined Load/ Line Regulation": "Voltage: 12VDC, Min. Load: 0.1A, Rated Load: 3A, Line Regulation: ± 5%, Load Regulation: ±5%",
+        "Turn on Delay Time": "3S Max. @ 115V AC input and output Max. Load",
+        "Hold Up Time": "10mS Min. @ 115V AC input and output Max. Load",
+        "Fall Time": "50mS @ Max. Load",
+        "Surge Immunity": "2kV L-N",
+        "Hi-Pot Test": "3kV@ 10mA",
+        "Output voltage": "11.4V-12.6V",
+        "No Load Power Consumption": "<0.3W",
+        "OCP Power": "3.6A min @ 230VAC",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, ISO 14001: 2015, ISO 45001: 2018, ISO 50001: 2018, CE, FCC and RoHS, BIS",
+        "Overshoot": "10% Max. When power supply @ turns on or turn off",
+        "Operating Temperature": "0°C to 40°C (Full load, Normal Operation)",
+        "Storage Temperature": "-40°C to 85°C"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-YPS-PA36B-12DN.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-yps-pa36b-12dn-"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK1300 V2 Brown Switch – White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346757783843",
+    "product_name": "MK1300 V2 Brown Switch – White",
+    "product_title": "MK1300 V2 Brown Switch – White",
+    "product_url": "https://antesports.com/products/mk1300-v2-brown-switch-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_90d703ff-7508-4dd6-ba80-452c92d01fcc.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1300-v2-brown-switch-white.html",
+  "detail": {
+    "title": "MK1300 V2 Brown Switch – White",
+    "model": "AEPP0278",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1300 V2 is a 60% compact mechanical keyboard with 61 keys, built for gamers and typists who want a clutter-free desk without giving up performance. Its hot-swappable Outemu Brown switches deliver tactile feedback with reduced noise, and can be swapped out without soldering for full customization down the line. Per-key RGB backlighting lights up every keycap individually, giving complete control over lighting effects and colours, while full anti-ghosting and N-key rollover ensure every keystroke registers cleanly during fast-paced play. A detachable 1.5m braided USB-C cable adds durability and portability, and the keyboard is rated for 50 million keystrokes for years of reliable use, finished in a clean white shell with premium white keycaps.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_90d703ff-7508-4dd6-ba80-452c92d01fcc.png",
+        "alt": "MK1300 V2 Brown Switch – White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_W_730ebf46-a4f9-4a8f-8e35-4e1b51bb5312.png",
+        "alt": "MK1300 V2 Brown Switch – White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_W_4fd497ac-f04e-4060-855f-5fdf027c14d7.png",
+        "alt": "MK1300 V2 Brown Switch – White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_W_b9d19688-6b80-4a0e-9bb5-78424be3ac1d.png",
+        "alt": "MK1300 V2 Brown Switch – White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_2126bb81-6965-4312-81f4-1ed8cd9874bb.png",
+        "alt": "MK1300 V2 Brown Switch – White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_509e468e-18e0-4203-9dbd-b4b40fcd75a9.png",
+        "alt": "MK1300 V2 Brown Switch – White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "General": {
+        "Layout": "60%, 61 Keys",
+        "Switch Type": "Outemu Brown, Hot-Swappable",
+        "Lighting": "Per-Key RGB",
+        "Cable": "Detachable 1.5m Braided USB-C",
+        "Durability": "50 Million Keystrokes",
+        "Color": "White",
+        "LAYOUT": "60%, 61 Keys",
+        "SWITCH TYPE": "Outemu Brown, Hot-Swappable",
+        "LIGHTING": "Per-Key RGB",
+        "CABLE": "Detachable 1.5m Braided USB-C",
+        "DURABILITY": "50 Million Keystrokes",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,799.00",
+        "MRP (INR)": "₹4,199.00",
+        "SKU": "AEPP0278"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (MK1300)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1300-V21-0-0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1300-v2-brown-switch-white"
+  }
+}

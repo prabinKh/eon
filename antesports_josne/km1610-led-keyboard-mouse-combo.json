@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM1610 LED Gaming Keyboard & Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346758799651",
+    "product_name": "KM1610 LED Gaming Keyboard & Mouse Combo",
+    "product_title": "KM1610 LED Gaming Keyboard & Mouse Combo",
+    "product_url": "https://antesports.com/products/km1610-led-keyboard-mouse-combo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/21_fb879373-091c-4bea-b5e8-ddfe1a2409ec.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km1610-led-keyboard-mouse-combo.html",
+  "detail": {
+    "title": "KM1610 LED Gaming Keyboard & Mouse Combo",
+    "model": "AEPP0126",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM1610 pairs a full-size 104-key membrane keyboard with a precision gaming mouse for a complete rainbow-lit desktop setup. The keyboard's 19 anti-ghosting keys ensure accurate multi-key input during intense gaming, while rainbow LED backlighting with translucent white keycaps switches between static and breathing light modes with adjustable brightness. Twelve dedicated multimedia keys add quick access to volume and playback controls without leaving a game. The included mouse features a high-precision sensor with four adjustable DPI levels from 1200 to 3600, low-friction PTFE feet for smooth gliding, six buttons including two customizable side buttons, and a 7-colour breathing or static red light mode, all rated for a 5 million click lifespan.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/21_fb879373-091c-4bea-b5e8-ddfe1a2409ec.png",
+        "alt": "KM1610 LED Gaming Keyboard & Mouse Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Keys": "104, 19 Anti-Ghosting",
+        "Keyboard Lighting": "Rainbow LED, Static/Breathing",
+        "Multimedia Keys": "12",
+        "Mouse DPI": "1200 / 1800 / 2400 / 3600",
+        "Mouse Buttons": "6, Including 2 Side Buttons",
+        "Mouse Lifespan": "5 Million Clicks",
+        "KEYBOARD KEYS": "104, 19 Anti-Ghosting",
+        "KEYBOARD LIGHTING": "Rainbow LED, Static/Breathing",
+        "MULTIMEDIA KEYS": "12",
+        "MOUSE DPI": "1200 / 1800 / 2400 / 3600",
+        "MOUSE BUTTONS": "6, Including 2 Side Buttons",
+        "MOUSE LIFESPAN": "5 Million Clicks",
+        "Offer Price (INR)": "₹739.00",
+        "MRP (INR)": "₹2,199.00",
+        "SKU": "AEPP0126"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km1610-led-keyboard-mouse-combo"
+  }
+}

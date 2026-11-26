@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "85 Litres Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/85-litres-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "85 Litres Air Cooler",
+    "tab_id": "9094573129946",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "85 Litres Air Cooler",
+      "Intex Cool Star HC 85 Air Cooler – 85 Litres"
+    ]
+  },
+  "card_info": {
+    "product_id": "9094573129946",
+    "product_name": "Intex Cool Star HC 85 Air Cooler – 85 Litres",
+    "product_title": "Intex Cool Star HC 85 Air Cooler – 85 Litres",
+    "product_url": "https://www.intex.in/products/intex-cool-star-hc-85-85-litres-air-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2-COOL-STAR-HC-85.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 18990.0,
+      "display": "₹18,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-cool-star-hc-85-85-litres-air-cooler.html",
+  "detail": {
+    "title": "Intex Cool Star HC 85 Air Cooler – 85 Litres",
+    "model": "85-85",
+    "brand": "Intex",
+    "overview": "The Intex Cool Star HC 85 combines durability and powerful cooling in a compact design. Its double ball-bearing motor ensures smooth operation and long lifespan, while inverter compatibility provides uninterrupted cooling during voltage drops. With 4-way air deflection and honeycomb cooling pads, this model is ideal for medium to large rooms and semi-commercial spaces.",
+    "features": [
+      "Double ball bearing motor for enhanced durability",
+      "4-way air deflection",
+      "Water level indicator",
+      "Inverter compatible for continuous cooling",
+      "16-inch fan blade for strong airflow",
+      "Honeycomb cooling pads",
+      "Capacity: 85 Litres",
+      "Fan Blade Size: 16 inches",
+      "Cooling Pads: Honeycomb",
+      "Ideal For: Homes, offices, semi-commercial areas"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2-COOL-STAR-HC-85.jpg",
+        "alt": "Intex Cool Star HC 85 Air Cooler – 85 Litres",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Double ball bearing motor for enhanced durability",
+        "Feature 2": "4-way air deflection",
+        "Feature 3": "Water level indicator",
+        "Feature 4": "Inverter compatible for continuous cooling",
+        "Feature 5": "16-inch fan blade for strong airflow",
+        "Feature 6": "Honeycomb cooling pads",
+        "Feature 7": "Capacity: 85 Litres",
+        "Feature 8": "Fan Blade Size: 16 inches",
+        "Feature 9": "Cooling Pads: Honeycomb",
+        "Feature 10": "Ideal For: Homes, offices, semi-commercial areas"
+      },
+      "General": {
+        "Model": "85-85"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-cool-star-hc-85-85-litres-air-cooler"
+  }
+}

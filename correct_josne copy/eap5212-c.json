@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Wireless Access Point",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/wireless-access-point",
+    "tab_title": "Wireless Access Point",
+    "tab_id": "16437",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Wireless Access Point",
+      "Wireless Access Point"
+    ]
+  },
+  "card_info": {
+    "product_id": "130107",
+    "product_name": "EAP5212-C",
+    "product_title": "Wireless Access Point",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accesspoints/eapseries/eap5212-c",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230308/EAP5212-C_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/eap5212-c.html",
+  "detail": {
+    "title": "Wireless Access Point",
+    "model": "EAP5212-C",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230308/EAP5212-C_1_thumb.png",
+        "alt": "EAP5212-C",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accesspoints/eapseries/eap5212-c"
+  }
+}

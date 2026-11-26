@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-PD16V2-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "1705",
+    "product_name": "CP-DPS-PD16V2-12D",
+    "product_title": "CP-DPS-PD16V2-12D",
+    "product_url": "https://cpplusworld.com/cp-dps-pd16v2-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/c3b67f6d-35f6-4f3c-bab0-ed84ae9796d0.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-dps-pd16v2-12d.html",
+  "detail": {
+    "title": "CP-DPS-PD16V2-12D",
+    "model": "CP-DPS-PD16V2-12D",
+    "brand": "CP Plus",
+    "overview": "16 Channel Power Supply",
+    "features": [
+      "16 Channel Output",
+      "With Cable Compensation Switch",
+      "LED Indicator for Each Channel",
+      "Built-in EMI Filter to Nullify Interference",
+      "Cooling by Free Air Convection",
+      "Built-in Constant Current Limiting Circuit",
+      "100% Full Load Built-in test",
+      "Plastic Housing"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/c3b67f6d-35f6-4f3c-bab0-ed84ae9796d0.jpg",
+        "alt": "CP-DPS-PD16V2-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a3a34842-61c7-4495-91a5-da3944190118.jpg",
+        "alt": "CP-DPS-PD16V2-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input voltage": "200~240V AC",
+        "Output voltage": "12V DC",
+        "Current Range": "0~8A",
+        "Rated Power": "96W",
+        "Ripple & Noise (max.)": "120mVp-p",
+        "Voltage Adj. Range": "11.4~12.6V",
+        "Line Regulation": "±1.0%",
+        "Voltage Tolerance": "n/a",
+        "Setup Rise time": "2500ms, 15ms at full load",
+        "Hold Up Time (Typ.)": "35ms at full load",
+        "Load Regulation": "±5.0%",
+        "Temperature coefficient": "±0.03%/°C (0~50°C)",
+        "Frequency Range": "47~63HZ",
+        "Efficiency (Typ.)": "86%",
+        "AC Current (Typ.)": "2A/220VAC",
+        "Inrush Current (Typ.)": "Cold Start: 50A/220V AC",
+        "Leakage Current": "<2mA / 240VAC",
+        "Over Load": "110~200% rated output power, Protection type: Shut down O/P, recovers automatically",
+        "Isolation Resistance": "I/P-O/P, I/P-FG, O/P-FG:100M Ohms / 500V DC / 25°C/ 70% RH",
+        "Working Humidity": "20 ~ 90% RH Non-condensing",
+        "Vibration": "10 ~ 500Hz, 3G 10min./1 cycle, 60min. each along X, Y, Z",
+        "Dimension": "186(L) x 130.5(W) x 39mm(H)",
+        "Store temperature": "-20 ~ +85°C",
+        "Working temperature": "-20 ~ +45°C",
+        "Withstand Voltage": "I/P-O/P: 1.5KVAC I/ P-FG: 1.5KVAC O/ P-FG: 0.5KVAC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-PD16V2-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ba88058f-69b2-4659-aa00-b63479b7b469.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-pd16v2-12d"
+  }
+}

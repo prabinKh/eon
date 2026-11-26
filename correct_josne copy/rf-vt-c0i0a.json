@@ -1,0 +1,87 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "RFID",
+    "tab_id": "118203",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "RFID"
+    ]
+  },
+  "card_info": {
+    "product_id": "153566",
+    "product_name": "RF-VT-C0I0A",
+    "product_title": "6C Tag",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/rf-vt-c0i0a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_63_10027/ProductImage/1_0_99_63_10027_847720678_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/rf-vt-c0i0a.html",
+  "detail": {
+    "title": "6C Tag",
+    "model": "RF-VT-C0I0A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite RF-VT-C0I0A 6C Tag Key Points • Peel-and-stick installation for quick and easy deployment • Ultra-long reading distance with stability performance • Compliant with ISO 18000-6C • Frequency:·915MHz & 868MHz • PET material Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_63_10027/ProductImage/1_0_99_63_10027_847720678_crop_thumb.PNG",
+        "alt": "RF-VT-C0I0A_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_63_10027/ProductImage/1_0_99_63_10027_847727441_crop_thumb.PNG",
+        "alt": "RF-VT-C0I0A_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_63_10027/ProductImage/1_0_99_63_10027_847720677_crop_thumb.PNG",
+        "alt": "RF-VT-C0I0A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Material": {},
+      "Storage": {},
+      "Protocol": {},
+      "Frequency Band": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84670/datasheet/DHI-RF-VT-C0I0A_datasheet_20260605.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/rf-vt-c0i0a"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Mountain Red Gaming Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924571427",
+    "product_name": "Mountain Red Gaming Mouse Pad - Black",
+    "product_title": "Mountain Red Gaming Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/mountain-red-mousepad-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/37_c4db4d9b-e0f5-4099-8851-63f6a11c6e16.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mountain-red-mousepad-black.html",
+  "detail": {
+    "title": "Mountain Red Gaming Mouse Pad - Black",
+    "model": "AEPP0305",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Mountain Red mouse pad features a striking mountain-themed design printed on a smooth, consistent tracking surface suited to everyday gaming and office use. A non-slip base keeps it firmly anchored during fast movements, while stitched edges add durability that resists fraying over time.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/37_c4db4d9b-e0f5-4099-8851-63f6a11c6e16.png",
+        "alt": "Mountain Red Gaming Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Design": "Mountain Red Print",
+        "Base": "Non-Slip",
+        "Edges": "Stitched",
+        "Color": "Black",
+        "DESIGN": "Mountain Red Print",
+        "BASE": "Non-Slip",
+        "EDGES": "Stitched",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹449.00",
+        "MRP (INR)": "₹1,199.00",
+        "SKU": "AEPP0305"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mountain-red-mousepad-black"
+  }
+}

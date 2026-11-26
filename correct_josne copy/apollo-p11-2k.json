@@ -1,0 +1,176 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Wire-free Cameras",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/wire-free-cameras",
+    "tab_title": "Wire-free Cameras",
+    "tab_id": "118236",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Wire-free Cameras",
+      "Wire-free Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "155626",
+    "product_name": "Apollo P11 2K",
+    "product_title": "Wi-Fi Solar Security System",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/wire-free-cameras/apollo-p11-2k",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88178/image/1_0_01_04_50499_972852877_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/apollo-p11-2k.html",
+  "detail": {
+    "title": "Wi-Fi Solar Security System",
+    "model": "Apollo P11 2K",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite Apollo P11 2K Wi-Fi Solar Security System Key Points • AOV Mode Enables 24/7 Recording with Ultra-low Power Consumption • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • Uninterrupted Operations through Battery and Solar Charging • One Camera for 360° View Without Blind Spots • Cold-Weather Charging, Down to -10°C Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88178/image/1_0_01_04_50499_972852877_crop_thumb.PNG",
+        "alt": "APOLLO P11 2K_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88178/image/1_0_01_04_50499_972852875_thumb.PNG",
+        "alt": "APOLLO P11 2K_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88178/image/1_0_01_04_50499_972852876_crop_thumb.PNG",
+        "alt": "APOLLO P11 2K_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Illumination Distance": "3.6 mm: Up to 30 m (98.43 ft) (IR) Up to 20 m (65.62 ft) (Warm light)",
+        "Illuminator Number": "2 (IR LED); 2 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 350° Tilt: 0° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "3.6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "3.6 mm: H: 78.4°; V: 42.4°; D: 92.4°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2304 × 1296@(1–15 fps)",
+        "Video Bit Rate": "H.265: 32 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "Yes",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n/a/ac/ax 2.4 G & 5 G, EIRP≤20 dBm@2400–2483.5 MHz (CE), EIRP≤23 dBm@5150–5250 MHz (CE), EIRP≤20 dBm@5250–5350 MHz (CE), EIRP≤27 dBm@5470–5725 MHz (CE), EIRP≤14 dBm@5725–5875 MHz (CE)",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max 512 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "General": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU",
+        "Power Supply": "USB (5 VDC±5%, 2 A)",
+        "Power Consumption": "Performance Mode: 1.22 W AOV Mode (0.5 fps): 0.1 W Ultra Power Saving Mode: 0.02 W",
+        "Operating Temperature": "–20 °C to +50 °C (–4 °F to +122 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP66",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use and are applicable even in areas with no specific requirements for anti-corrosion protection.",
+        "Camera Button": "Reset Button;Power On/SYNC Button",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "162.4 mm × 141.2 mm × 248.8 mm (6.39\" × 5.56\" × 9.80\") (L × W × H)",
+        "Net Weight": "0.73 kg (1.61 lb)"
+      },
+      "Battery": {
+        "Battery Capacity": "10000 mAh / 36 Wh",
+        "Operating Temperature": "Charge: –10 °C to +50 °C (+14 °F to +122 °F) Discharge: –20 °C to +60 °C (–4 °F to +140 °F)"
+      },
+      "Solar Module": {
+        "Max. Power": "8W",
+        "Cell Type": "Monocrystalline silicon"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88178/datasheet/P11_2K_S0_datasheet_20260805_English.pdf"
+      },
+      {
+        "name": "2026-07-26 #User Manual Dahua Network Camera (Solar-Powered Pan and Tilt)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88254/user_manual/Dahua_Network_Camera_(Solar-Powered_Pan_and_Tilt)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-26 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2026-07-26 #User Manual Network Camera (Battery PTZ Wi-Fi)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88254/user_manual/Network_Camera_(Battery_PTZ_Wi-Fi)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-26 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2026-07-26 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-07-26 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2026-07-19 #A&E Document APOLLO P11 2K_A&E_20260918075853 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88178/a_e_document/1789690864107.docx"
+      },
+      {
+        "name": "2026-07-26 #Drawings APOLLO P11 2K_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88254/drawings/1_0_01_04_47906_888407908.pdf"
+      },
+      {
+        "name": "2026-07-26 #Drawings APOLLO P11 2K_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88254/drawings/1_0_01_04_47906_888407905.pdf"
+      },
+      {
+        "name": "2026-03-01 #Firmware DH_IPC-PT-WIFI-AOV-Cauchy_Eng_PN_V2.820.0000000.11.R.260204 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88254/firmware/DH_IPC-PT-WIFI-AOV-Cauchy_Eng_PN_V2.820.0000000.11.R.260204.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/wire-free-cameras/apollo-p11-2k"
+  }
+}

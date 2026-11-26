@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Cooper Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series",
+    "tab_title": "1080P",
+    "tab_id": "6422",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Cooper Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "143841",
+    "product_name": "HAC-B1A21-U",
+    "product_title": "2MP IR HDCVI Fixed-focal Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-b1a21-u",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25280/ProductImage/1_0_01_12_25280_519956983_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-b1a21-u.html",
+  "detail": {
+    "title": "2MP IR HDCVI Fixed-focal Bullet Camera",
+    "model": "HAC-B1A21-U",
+    "brand": "Dahua",
+    "overview": "Favourite HAC-B1A21-U 2MP IR HDCVI Fixed-focal Bullet Camera Key Points > Max. 30 fps@1080p. > Smart IR Illumination. > 30 m illumination distance. > 3.6 mm fixed lens (2.8 mm, 6 mm optional). > CVI/CVBS/AHD/TVI switchable. > IP67, 12 VDC. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25280/ProductImage/1_0_01_12_25280_519956983_crop_thumb.png",
+        "alt": "HAC-B1A21-U(-A)_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25280/ProductImage/1_0_01_12_25280_519956985_crop_thumb.png",
+        "alt": "HAC-B1A21-U(-A)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_25280/ProductImage/1_0_01_12_25280_519956980_crop_thumb.png",
+        "alt": "HAC-B1A21-U(-A)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "2 MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s; NTSC: 1/30 s–1/100,000 s",
+        "Min. Illumination": "0.02 lux@F2.0 (Color, 30 IRE) 0.002 lux@F2.0 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "30 m (98.43 ft)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "2 (IR light)",
+        "Angle Adjustment": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm; 6 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "2.8 mm: H: 100°; V: 54°; D: 117° 3.6 mm: H: 80°; V: 43°; D: 94° 6 mm: H: 43°; V: 24°; D: 50°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 0.5 m (1.64 ft) 3.6 mm: 0.8 m (2.62 ft) 6 mm: 2.4 m (7.87 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "44.7 m (146.65 ft)",
+        "3.6 mm": "55.0 m (180.45 ft)",
+        "6 mm": "102.9 m (337.6 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps AHD: PAL: 1080p@25 fps NTSC: 1080p@30 fps TVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "1080p (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "BLC; DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto",
+        "Gain Control": "Auto",
+        "Noise Reduction": "2D NR",
+        "Illumination Mode": "Smart IR"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN 62368-1; CE-EMC: EN 55032; EN 55035"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 30%",
+        "Power Consumption": "Max 2.8 W (12 VDC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Protection": "IP67",
+        "Anti-corrosion Level": "Basic Protection"
+      },
+      "Structure": {
+        "Casing Material": "Plastic",
+        "Product Dimensions": "146.1mm × 70.0 mm × 69.8mm (5.75\" × 2.76\" × 2.75\")",
+        "Net Weight": "0.15 kg (0.33 lb)",
+        "Gross Weight": "0.23 kg (0.51 lb)",
+        "Installation": "Wall mount; ceiling mount; vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-B1A21P-U_S0_datasheet_20240520.pdf"
+      },
+      {
+        "name": "2025-01-08 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004594/3429085/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-01-08 #User Manual HDCVI Camera_User's Manual_V1.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004596/202412/HDCVI_Camera_User_s_Manual_V1.0.5.pdf"
+      },
+      {
+        "name": "2025-01-08 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004594/3429063/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2023-10-10 #Drawings HAC-B1A21-U_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80861/drawings/HAC-B1A21-U_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-10-15 #Drawings HAC-B1A21-U_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80861/drawings/HAC-B1A21-U_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-b1a21-u"
+  }
+}

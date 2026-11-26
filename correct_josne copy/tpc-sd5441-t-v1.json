@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Thermography Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/thermography-series",
+    "tab_title": "Thermography",
+    "tab_id": "12147",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Thermography Series",
+      "Thermography"
+    ]
+  },
+  "card_info": {
+    "product_id": "154686",
+    "product_name": "TPC-SD5441-T",
+    "product_title": "Thermal Hybrid Speed Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/thermography-series/thermography/tpc-sd5441-t=v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/image/1_0_01_34_14819_886831358_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-sd5441-t-v1.html",
+  "detail": {
+    "title": "Thermal Hybrid Speed Dome Camera",
+    "model": "TPC-SD5441-T",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-SD5441-T Thermal Hybrid Speed Dome Camera Key Points • Thermal and Visible Dual Channels for 7×24h Monitoring • Abnormal Temperature Detection and Heat Detection to Identify Potential Fire Hazards • 45X Optical Zoom in 4MP Resolution and 100m IR Distance • Wide Temperature Measurement Range of –20 °C to +550 °C by Max. (±2 °C, ±2%) Accuracy • Max. 40W Lower Power Consumption, More Energy Saving Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/image/1_0_01_34_14819_886831358_crop_thumb.PNG",
+        "alt": "TPC-SD5441-T_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/image/1_0_01_34_14819_886831357_crop_thumb.PNG",
+        "alt": "TPC-SD5441-T_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/datasheet/DHI-TPC-SD5441-T_V1_datasheet_20260227.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Hybrid Speed Dome Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/user_manual/Thermal_Hybrid_Speed_Dome_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-01-12 #A&E Document TPC-SD5441-T_A&E_20260902011850 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/a_e_document/1788283252324.docx"
+      },
+      {
+        "name": "2025-06-28 #Drawings TPC-SD5441-T_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/drawings/TPC-SD5641-AC-V1_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-04-13 #Drawings TPC-SD5441-T_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/drawings/TPC-SD5641-AC-V1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-17 #Firmware General_TPC-NYX5402-TBCXA_V1.000.0000000.1.R.20260605 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87817/firmware/General_TPC-NYX5402-TBCXA_V1.000.0000000.1.R.20260605.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_TPC-SD5X41-TB-S2_MultiLang_NP_V2.654.0000000.2.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/firmware/DH_TPC-SD5X41-TB-S2_MultiLang_NP_V2.654.0000000.2.R.260527.zip"
+      },
+      {
+        "name": "2025-09-10 #Firmware General_TPC-SD6A9XXX-HN_MCU_V2.401.0000000.9.R.250625 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/firmware/General_TPC-SD6A9XXX-HN_MCU_V2.401.0000000.9.R.250625.zip"
+      },
+      {
+        "name": "2025-09-10 #Firmware DH_TPC-SD-Prometheus-V1_Stream3_PART_V2.800.0000000.4.R.250905 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87622/firmware/DH_TPC-SD-Prometheus-V1_Stream3_PART_V2.800.0000000.4.R.250905.zip"
+      },
+      {
+        "name": "2025-01-24 #Firmware General_TPC-SD5X41-F_MCU_V2.401.0000000.0.R.240910 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86591/firmware/General_TPC-SD5X41-F_MCU_V2.401.0000000.0.R.240910.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/thermography-series/thermography/tpc-sd5441-t=v1"
+  }
+}

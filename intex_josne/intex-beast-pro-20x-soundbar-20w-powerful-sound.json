@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "Beast Pro 20X Soundbar",
+    "subcategory_url": "https://www.intex.in/collections/beast-pro-20x-soundbar",
+    "series": "Beast Pro 20X Soundbar 20W Powerful Sound",
+    "series_url": "https://www.intex.in/collections/beast-pro-20x-soundbar-20w-powerful-sound",
+    "tab_title": "Beast Pro 20X Soundbar",
+    "tab_id": "9247442600154",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "Beast Pro 20X Soundbar",
+      "Intex Beast Pro 20X Soundbar 20W Powerful Sound"
+    ]
+  },
+  "card_info": {
+    "product_id": "9247442600154",
+    "product_name": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+    "product_title": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+    "product_url": "https://www.intex.in/products/intex-beast-pro-20x-soundbar-20w-powerful-sound",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-09.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4999.0,
+      "display": "₹4,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-beast-pro-20x-soundbar-20w-powerful-sound.html",
+  "detail": {
+    "title": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+    "model": "20X-20W",
+    "brand": "Intex",
+    "overview": "Experience powerful and immersive audio with the Intex Beast Pro 20X Soundbar , designed to elevate your entertainment anytime, anywhere. With 20W powerful output and 360° surround sound , enjoy rich, room-filling audio for music, movies, and gaming. The soundbar features dual 52mm drivers that deliver enhanced bass and crystal-clear sound. Add a vibrant touch to your setup with multimode RGB LED lights , creating a dynamic party atmosphere. Stay connected effortlessly with Bluetooth v5.4 , ensuring stable and fast pairing. With multiple playback options including USB, AUX, TF card, and Bluetooth , you have complete flexibility to enjoy your favorite content. The TWS pairing feature allows you to connect two speakers for a more powerful stereo experience. Designed for convenience, it comes with a Type-C charging port and offers up to 5 hours of playback , making it perfect for both indoor and outdoor use.",
+    "features": [
+      "20W Powerful Sound Output",
+      "360° Surround Sound Experience",
+      "Dual Drivers: 2 x 52 mm for enhanced audio performance",
+      "Bluetooth Version v5.4 for stable connectivity",
+      "TWS Pairing for stereo sound experience",
+      "Multimode RGB LED Lights for dynamic visuals",
+      "Multiple Playback Options: USB / AUX / TF Card / Bluetooth",
+      "Type-C Charging Port for fast and convenient charging",
+      "Up to 5 Hours Playback Time",
+      "Portable and stylish soundbar design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-09.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-01.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-02.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-03.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-04.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-05.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-06.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-07.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_PRO_20x-08.jpg",
+        "alt": "Intex Beast Pro 20X Soundbar 20W Powerful Sound",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "20W Powerful Sound Output",
+        "Feature 2": "360° Surround Sound Experience",
+        "Feature 3": "Dual Drivers: 2 x 52 mm for enhanced audio performance",
+        "Feature 4": "Bluetooth Version v5.4 for stable connectivity",
+        "Feature 5": "TWS Pairing for stereo sound experience",
+        "Feature 6": "Multimode RGB LED Lights for dynamic visuals",
+        "Feature 7": "Multiple Playback Options: USB / AUX / TF Card / Bluetooth",
+        "Feature 8": "Type-C Charging Port for fast and convenient charging",
+        "Feature 9": "Up to 5 Hours Playback Time",
+        "Feature 10": "Portable and stylish soundbar design"
+      },
+      "General": {
+        "Model": "20X-20W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Beast_Pro_20x_Soundbar_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-beast-pro-20x-soundbar-20w-powerful-sound"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-KW310"
+    ]
+  },
+  "card_info": {
+    "product_id": "2262",
+    "product_name": "CP-KW310",
+    "product_title": "CP-KW310",
+    "product_url": "https://cpplusworld.com/cp-kw310",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/153f6623-c951-460d-bf67-a1b2bf8b263e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-kw310.html",
+  "detail": {
+    "title": "CP-KW310",
+    "model": "CP-KW310",
+    "brand": "CP Plus",
+    "overview": "CarKam 3MP with Hardwire kit",
+    "features": [
+      "3MP Resolution",
+      "Support SD Card upto 1TB (Class 10 U3)",
+      "Time Lapse",
+      "G-Sensor (Emergency Recording)",
+      "24/7 Parking Monitoring"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/153f6623-c951-460d-bf67-a1b2bf8b263e.png",
+        "alt": "CP-KW310 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6c31bd62-1c24-46a8-b1ba-d9bfec8d5599.png",
+        "alt": "CP-KW310 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "H=116°, D=137°, V=62°",
+        "Image Sensor": "1/2.8” Image sensor (0.9071 cenmeters)",
+        "Lens": "3.0 mm",
+        "Max. Aperture": "F1.9",
+        "Compression": "H.265",
+        "Resolution": "3MP",
+        "Video Format": "MP4",
+        "Video resolution": "3MP(2304 x 1296P)@25fps",
+        "Smart Features": "Voice Prompt, G-Sensor (Emergency Recording),  Parking Mode, WDR",
+        "Record Type": "Audio Recording, Regular Recording, Emergency Recording, Time-Lapse",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Microphone": "Support",
+        "Speaker": "Support",
+        "Connectivity": "AP Mode (Dashcam creates its own  Wi-Fi hotspot/ Direct Wi-Fi to phone)",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Mobile App": "CarKam (Available for iOS and Android)",
+        "Photo Format": "JPG",
+        "Casing": "PC+ABS",
+        "Power Source": "5V/1.5A Type C",
+        "Operating Temperature": "-10°C~60°C",
+        "Storage temperature": "-20°C~70°C",
+        "Dimensions": "71mm x 39.9mm x 30.9mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS",
+        "Input voltage": "12V-24V",
+        "Input Voltage Range": "11.60V-25V",
+        "Input Current Max.": "2.5A",
+        "Input Low Voltage Protection": "11.60V±0.2V,  23.60V±0.2V",
+        "Input Wire connection": "Yellow (B+), Black (GND), Red (ACC)",
+        "Output voltage": "5V",
+        "Output Voltage Range": "4.75-5.40V",
+        "Output Rated Load": "12.5W",
+        "Output Power": "12.5W",
+        "Output Connector Type": "Type-C-",
+        "Protections": "SCP, OCP, Input Low voltage cut-of",
+        "Ripple and Noise": "≤250mV",
+        "Line Regulation": "5%",
+        "Load Regulation": "5%",
+        "Efficiency": "≥80%",
+        "Overshoot": "±10%",
+        "OCP": "≥4.5A",
+        "Working Ambient                           Temperature": "-20°C to 50°C",
+        "Storage Ambient Temperature": "-30°C to 80°C"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-KW310.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/04940e83-109c-48c6-8c01-05707e398433.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-kw310"
+  }
+}

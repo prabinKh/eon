@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "111537",
+    "product_name": "ARD1731-W2",
+    "product_title": "Dahua Wireless PIR-Camera",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard1731-w2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_835749979_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard1731-w2.html",
+  "detail": {
+    "title": "Dahua Wireless PIR-Camera",
+    "model": "ARD1731-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD1731-W2 Dahua Wireless PIR-Camera Key Points · Transmits images of high resolution and speed based on the RF-HD transmission technology. · Protects users' privacy by only taking snapshots when an intrusion occurs. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_835749979_crop_thumb.PNG",
+        "alt": "ARD1731-W2_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_835753748_thumb.PNG",
+        "alt": "ARD1731-W2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_835749982_thumb.PNG",
+        "alt": "ARD1731-W2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_835753749_thumb.PNG",
+        "alt": "ARD1731-W2_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_767200988-Black_crop_thumb.PNG",
+        "alt": "ARD1731-W2_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_767200989-Black_crop_thumb.PNG",
+        "alt": "ARD1731-W2_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/image/1_0_01_19_10665_767200990-Black_crop_thumb.PNG",
+        "alt": "ARD1731-W2_Rendergraph_45Right-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Video & Audio": {
+        "Field of View": "88° (H); 68° (V",
+        "Image Type": "JPEG",
+        "Resolution": "1600 × 1200; 1280 × 960; 640 × 480; 320 × 240",
+        "Frame Rate": "2",
+        "Illumination Mode": "Infrared Light",
+        "Illumination Range": "12 m (39.37 ft)",
+        "Day/Night Switch": "Color/Black & White"
+      },
+      "Function": {
+        "Indicator Light": "1 × green alarm indicator",
+        "Button": "1 × power switch",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Tamper alarm"
+      },
+      "Technical": {
+        "Detection Mode": "PIR",
+        "Sensitivity": "3 levels adjustable",
+        "Detection Range": "12 m (39.37 ft) (86°) with installation height of 2.2 m (7.22 ft)",
+        "Detection Speed": "0.3 m/s–3 m/s (0.98 ft/s–9.84 ft/s)",
+        "Pet Immunity Level": "≤18 kg (39.68 lb)",
+        "White Light Resistance Level": "2000 lux",
+        "Two-way Digital Temperature Compensation": "Yes",
+        "Scenario": "Indoor",
+        "Operating Current": "2 A (Max), 65 uA (Standby) (Battery 3V)"
+      },
+      "Wireless": {
+        "Carrier Frequency": "RF: 433.1 MHz–434.6 MHz RF-HD: 2.4 GHz (Upload images at high speed) 434.100 MHz (Upload images at normal speed)",
+        "Transmitter Power (EIRP)": "Limit 10 Mw",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "RF: Up to 1,200 m (3,937.01 ft) in an open space RF-HD: Upload images at high speed: Up to 300 m (984.25 ft) in an open space Upload images at normal speed: Up to 1,200 m (3,937.01 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "CR123A*3",
+        "Battery Life": "4 years (if triggered twice a week with a battery efficiency of 70%)",
+        "Power Consumption": "6 W (Max), 0.2 mW (Standby)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "71.0 mm × 53.2 mm × 127.6 mm (2.80\" × 2.09\" × 5.02\")",
+        "Net Weight": "202 g (0.45 lb)",
+        "Gross Weight": "333 g (0.73 lb)",
+        "Installation": "Wall mount",
+        "Protection": "PC + ABS",
+        "Certifications": "CE; FCC",
+        "Anti-corrosion Level": "Basic Protection",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Packaging Dimensions": "121.0 mm × 65.0 mm × 170.0 mm (4.76\" × 2.56\" × 6.69\") (L × W × H)"
+      },
+      "Wi-Fi": {
+        "Wi-Fi Standard": "802.11b/g/n",
+        "Wi-Fi Frequency Range": "2400-2483.5MHz",
+        "Wi-Fi Power Transmission": "CE EIRP: ≤20dBm@2400-2483.5MHz FCC output power: ≤30dBm@2400-2483.5MHz"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARD1731-W2_datasheet_20241106.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Wireless PIR_Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/user_manual/Wireless_PIR_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Wireless PIR-Camera_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/user_manual/Dahua_Wireless_PIR-Camera_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-09-09 #Drawings ARD1731-W2_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49177/drawings/ARD1731-W2(868)_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2024-03-05 #Drawings ARD1731-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/drawings/ARD1731-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-03-05 #Drawings ARD1731-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/drawings/ARD1731-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-03-05 #Drawings ARD1731-W2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47867/drawings/ARD1731-W2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2025-07-02 #Firmware General_ARD1731-W2_433_V1.000.0000007.0.R.250606 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3233092/M/General_ARD1731-W2_433_V1.000.0000007.0.R.250606.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard1731-w2"
+  }
+}

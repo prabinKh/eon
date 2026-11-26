@@ -1,0 +1,149 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "ITS Terminal",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "ITS Terminal",
+    "tab_id": "608",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "ITS Terminal",
+      "ITS Terminal"
+    ]
+  },
+  "card_info": {
+    "product_id": "135897",
+    "product_name": "ITSE0400-TA-N04",
+    "product_title": "Dahua Edge Storage Terminal",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/its-terminal/4-ch/itse0400-ta-n04",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14955/ProductImage/1_0_01_09_14955_514110334_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itse0400-ta-n04.html",
+  "detail": {
+    "title": "Dahua Edge Storage Terminal",
+    "model": "ITSE0400-TA-N04",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITSE0400-TA-N04 Dahua Edge Storage Terminal Key Points • Supports 4-ch and 12-ch HD Image and Video Input, and Combines Multiple Images into One Composite Image • The Speed Limit Can Be Set For Small And Large Vehicles • Speeds That Exceed or Fall Below Set Limits Can Be Filtered Out to Reduce False Alarms • Images Can Be Searched for By Event and Status • Offers GPS and 4G • Storage Can Be Allocated for Images and Videos, And The System Can Be Configured to Cverwrite Data When Storage is Full Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14955/ProductImage/1_0_01_09_14955_514110334_crop_thumb.png",
+        "alt": "ITSE0400-TA-N04_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14955/ProductImage/1_0_01_09_14955_514110333_crop_thumb.png",
+        "alt": "ITSE0400-TA-N04_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14955/ProductImage/1_0_01_09_14955_514110335_crop_thumb.png",
+        "alt": "ITSE0400-TA-N04_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Operating System": "Linux",
+        "Operating Interface": "Web client",
+        "Network Protocol": "TCP/IP; HTTP; HTTPS; SFTP; FTP; DNS; RTP; RTSP; RTC; NTP; DHCP; IEEE 802.1X",
+        "Image Encoding Format": "JPEG",
+        "Main Processor": "High-performance embedded processor",
+        "Memory": "2 GB",
+        "Indicator Light": "1 × on/off status indicator; 1 × operation status indicator"
+      },
+      "Function": {
+        "Storage": "Disk; FTP; SFTP",
+        "OSD Overlay": "Time, location, lane name, driving direction, violation code, violation behavior, vehicle speed, speeding ratio, license plate, plate color and type, vehicle color and size, vehicle type, logo, seatbelt status, calling status, GPS information, remote device GPS information, section information and code, section distance and speed limit, entry and exit time, entry and exit lane, and more.",
+        "Positioning": "GPS;BDS",
+        "Composite Image": "Supports creating composite images using 6 pictures from 1 camera or multiple cameras. The images can also be grouped and re-numbered based on their image type. It also offers 3 matching modes for verification: ID matching, plate matching and ID first and then plate matching. It supports fuzzy match using the type, lane, color and plate color of the vehicle. You can customize the order that images appear in the composite image and the close-up images within it.",
+        "Automatic Network Replenishment (ANR)": "Automatic network replenishment on the platform and FTP; manual upload",
+        "Auto Registration": "Yes",
+        "Restricted List/Trusted List": "Yes. Allowlist and blocklist files can be imported and exported, and fuzzy search can be used to find vehicles on the list based on their plate number.",
+        "Anti-deletion": "Yes. Videos and images cannot be directly deleted.",
+        "Vehicle Search": "Search by time, channel, license plate, speed, lane, target type, plate color, vehicle color and violation type (such as not wearing the seatbelt and calling while driving). Fuzzy search is supported and results can be exported to Excel or in CSV format.",
+        "Alarm Event": "Storage full, external alarm, license plate blocklist, illegal access, and security issue alarm.",
+        "Built-in Software": "Edge Storage Terminal Software"
+      },
+      "Port": {
+        "Disk Interface": "Up to 1 SATA disk.",
+        "RS-232": "1, for debugging data from the serial port.",
+        "RS-485": "2",
+        "USB": "1 USB 3.0 Port",
+        "Network Port": "10 (2 × RJ-45 10 M/100 M/1000 M self-adaptive Ethernet ports and 8 × RJ-45 10 M/100 M self-adaptive Ethernet ports",
+        "Antenna": "1 (1 × GPS antenna port)",
+        "Video Input": "Supports 12-ch network compression HD video input while in video access mode, and 4-ch network compression HD video input while in ANPR Composite mode.",
+        "Alarm Input": "3",
+        "Alarm Output": "3 (opto-isolated output)"
+      },
+      "General": {
+        "Power Supply": "12 VDC",
+        "Power Consumption": "< 20 W",
+        "Operating Temperature": "–30 °C to +65 °C (–22 °F to +149 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Product Dimensions": "240.0 mm × 198.0 mm × 71.0 mm (9.45\" × 7.80\" × 2.80\") (L × W × H)",
+        "Net Weight": "1.6 kg (3.53 lb)",
+        "Gross Weight": "2.0 kg (4.41 lb)",
+        "Installation": "Desktop mount",
+        "Certifications": "CE-EMC; CE-LVD; CE-RED"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITSE0400-TA-N04_datasheet_20240912.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Edge Storage Terminal_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008218/202411/Edge_Storage_Terminal_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Edge Storage Terminal_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008218/202411/Edge_Storage_Terminal_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-22 #A&E Document ITSE0400-TA-N04_A&E_20260901205322 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76657/a_e_document/1788267652738.docx"
+      },
+      {
+        "name": "2026-02-03 #Drawings ITSE0400-TA-N04_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76647/drawings/1_0_01_09_14954_910804137.pdf"
+      },
+      {
+        "name": "2026-02-03 #Drawings ITSE0400-TA-N04_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76647/drawings/1_0_01_09_14954_910804136.pdf"
+      },
+      {
+        "name": "2026-05-12 #Firmware General_ITSE0400-TA_MultiLang_N_Oversea_4G_V4.003.0000030.4.R.260414 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76677/firmware/General_ITSE0400-TA_MultiLang_N_Oversea_4G_V4.003.0000030.4.R.260414.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/its-terminal/4-ch/itse0400-ta-n04"
+  }
+}

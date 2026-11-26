@@ -1,0 +1,79 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM610 Crystal Gaming Mouse - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923227939",
+    "product_name": "GM610 Crystal Gaming Mouse - White",
+    "product_title": "GM610 Crystal Gaming Mouse - White",
+    "product_url": "https://antesports.com/products/gm610-7d-crystal-mouse-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_c2bb3dc4-b09d-46b9-aef6-74332b3127d5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm610-7d-crystal-mouse-white.html",
+  "detail": {
+    "title": "GM610 Crystal Gaming Mouse - White",
+    "model": "AEPP0049",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM610 is a crystal-styled wired gaming mouse built around an Instant 825 chip capable of tracking up to 12800 DPI across 7 adjustable levels, giving precise control for both detailed work and fast-paced gaming. Its 7-button ambidextrous layout suits a wide range of grip styles and playstyles, while vibrant RGB lighting through its distinctive crystal shell adds a striking visual centerpiece to any setup. Lightweight construction keeps it agile and comfortable during extended sessions, and broad compatibility spans Windows, Laptop, PC and Mac OS systems, working reliably straight out of the box.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_c2bb3dc4-b09d-46b9-aef6-74332b3127d5.jpg",
+        "alt": "GM610 Crystal Gaming Mouse - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "Up to 12800, 7 Levels",
+        "Chip": "Instant 825",
+        "Buttons": "7",
+        "Lighting": "RGB, Crystal Shell",
+        "Compatibility": "Windows, PC, Laptop, Mac OS",
+        "Color": "White",
+        "CHIP": "Instant 825",
+        "BUTTONS": "7",
+        "LIGHTING": "RGB, Crystal Shell",
+        "COMPATIBILITY": "Windows, PC, Laptop, Mac OS",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹999.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0049"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (CRYSTAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm610-7d-crystal-mouse-white"
+  }
+}

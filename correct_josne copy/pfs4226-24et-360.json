@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Desktop PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/desktop-poe-switch",
+    "tab_title": "Desktop PoE Switch",
+    "tab_id": "8367",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Desktop PoE Switch",
+      "Desktop PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "12981",
+    "product_name": "PFS4226-24ET-360",
+    "product_title": "24-port 100 Mbps + 2-port Gigabit Managed PoE Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs4226-24et-360",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210412/DH-PFS4226-24ET-240_View_Front-logo1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs4226-24et-360.html",
+  "detail": {
+    "title": "24-port 100 Mbps + 2-port Gigabit Managed PoE Switch",
+    "model": "PFS4226-24ET-360",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210412/DH-PFS4226-24ET-240_View_Front-logo1_thumb.png",
+        "alt": "PFS4226-24ET-360",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/pfs4226-24et-360"
+  }
+}

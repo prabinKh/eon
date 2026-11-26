@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "PS722 Power Strip - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348821840163",
+    "product_name": "PS722 Power Strip - White",
+    "product_title": "PS722 Power Strip - White",
+    "product_url": "https://antesports.com/products/ps722-power-strip-7-socket-usb-typec-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29_c1e18700-0c45-444b-b5bc-63cb37d6a46d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps722-power-strip-7-socket-usb-typec-white.html",
+  "detail": {
+    "title": "PS722 Power Strip - White",
+    "model": "AEPP0159",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS722 combines 7 universal three-pin sockets with 2 USB-A and 2 USB Type-C ports, giving it enough capacity to power AC units, refrigerators and TVs while simultaneously charging phones, tablets and other USB gadgets. Its 2500W rating supports heavy electrical loads, and built-in overheat, over-voltage, over-current and short-circuit protection keep both the strip and connected devices safe during daily use. High-gauge copper wiring inside the 3-metre cord ensures durable, stable power delivery, while a wall-mountable design and child-safe covered plugs round out a genuinely versatile, secure power solution for home or office setups.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29_c1e18700-0c45-444b-b5bc-63cb37d6a46d.jpg",
+        "alt": "PS722 Power Strip - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Sockets": "7 Universal",
+        "USB Ports": "2 x USB-A + 2 x Type-C",
+        "Power Rating": "2500 Watt",
+        "Cord Length": "3 Meter",
+        "Mounting": "Wall Mountable",
+        "Color": "White",
+        "SOCKETS": "7 Universal",
+        "USB PORTS": "2 x USB-A + 2 x Type-C",
+        "POWER RATING": "2500 Watt",
+        "CORD LENGTH": "3 Meter",
+        "MOUNTING": "Wall Mountable",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,044.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0159"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps722-power-strip-7-socket-usb-typec-white"
+  }
+}

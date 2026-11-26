@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "USB Camera",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/usb-camera",
+    "tab_title": "USB Camera",
+    "tab_id": "15987",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "USB Camera",
+      "USB Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "127947",
+    "product_name": "PKC-UC0A",
+    "product_title": "2MP USB Camera",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/usb-camera/pkc-uc0a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230516/PKC-UC0A_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkc-uc0a.html",
+  "detail": {
+    "title": "2MP USB Camera",
+    "model": "PKC-UC0A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKC-UC0A 2MP USB Camera Key Points • 2 MP CMOS Sensor • 1920 × 1080 HD Resolution • Multiple Video Encoding Formats Including MJPEG, YUY2, H.264 and NV12 • Plug-and-Play USB 2.0 Port with Charging and Device Updating Functions • Easy Installation with an Attached Clamp or on a Tripod Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230516/PKC-UC0A_1_thumb.png",
+        "alt": "PKC-UC0A_Rendergraph_45Left-logo",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230516/PKC-UC0A_2_thumb.png",
+        "alt": "PKC-UC0A_Rendergraph_Front-logo",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Function": {
+        "Image Sensor": "2MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Video Frame Rate": "USB port: 1920 × 1080@30fps/25fps;1600 × 896@30fps/25fps; 1280 × 720@30fps/25fps; 1024 × 576@30fps/25fps; 960 × 540@30fps/25fps; 800 × 600@30fps/25fps; 800 × 448@30fps/25fps; 720 × 576@30fps/25fps; 720 × 480@30fps/25fps; 640 × 480@30fps/25fps; 640 × 360@30fps/25fps; 480 × 270@30fps/25fps; 320 × 240@30fps/25fps; 352 × 288@30fps/25fps; 320 × 180@30fps/25fps and more",
+        "Field of View": "H: 85° V: 52° D: 92°",
+        "Focal Length": "3.24 mm",
+        "Digital Zoom": "3×",
+        "Min. Illumination": "0.5 lux (F1.8, AGC on)",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F2.1",
+        "Exposure": "Supports auto exposure and adjusting the parameters.",
+        "Image Setting": "Brightness, definition, saturation, contrast, white balance, gain, anti-flicker, brightness compensation and more",
+        "S/N Ratio": ">50 dB",
+        "USB": "USB 2.0 (for charging and updating)",
+        "Video Compression": "MJPEG, YUY2, H264, NV12",
+        "Built-in MIC": "1",
+        "Audio Input": "Yes",
+        "USB Video Communication Protocol": "UVC, UAC"
+      },
+      "General": {
+        "Operating Voltage": "5 V",
+        "Operating Current": "Max. 500 mA",
+        "Power Consumption": "Max. 2.5 W",
+        "Operating Temperature": "–10 °C to +50 °C (+14 °F to +122 °F)",
+        "Operating Humidity": "20%–80% (RH)",
+        "Storage Temperature": "–10 °C to +60 °C (+14 °F to +140 °F)",
+        "Storage Humidity": "20%–95% (RH)",
+        "Product Dimensions": "102 mm × 47 mm × 30 mm (4.02\" × 1.85\" × 1.18\") (L × W × H)",
+        "Packaging Dimensions": "170 mm × 110 mm × 70 mm (6.69\" × 4.33\" × 2.76\") (L × W × H)",
+        "Weight": "0.15 kg (0.33 lb)",
+        "Packing List": "1 × camera, 1 × user's manual"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/PKC-UC0A_datasheet_20230504.pdf"
+      },
+      {
+        "name": "2025-10-14 #User Manual Desktop HD Video Camera_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010208/202508/Desktop_HD_Video_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-01-09 #Drawings PKC-UC0A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69737/drawings/PKC-UC0A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/usb-camera/pkc-uc0a"
+  }
+}

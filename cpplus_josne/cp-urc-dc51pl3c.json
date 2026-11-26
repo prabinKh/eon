@@ -1,0 +1,109 @@
+{
+  "hierarchy": {
+    "category": "5 MP",
+    "category_url": "https://cpplusworld.com/products/5-mp",
+    "subcategory": "Analog HD Camera",
+    "subcategory_url": "https://cpplusworld.com/products/analog-hd-camera/5-mp",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Analog HD Camera",
+    "tab_id": "79",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Analog HD Camera",
+      "5 MP",
+      "CP-URC-DC51PL3C"
+    ]
+  },
+  "card_info": {
+    "product_id": "2038",
+    "product_name": "CP-URC-DC51PL3C",
+    "product_title": "CP-URC-DC51PL3C",
+    "product_url": "https://cpplusworld.com/cp-urc-dc51pl3c",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/ff956c92-88d6-4df9-993f-63a8cde6f39e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-urc-dc51pl3c.html",
+  "detail": {
+    "title": "CP-URC-DC51PL3C",
+    "model": "CP-URC-DC51PL3C",
+    "brand": "CP Plus",
+    "overview": "5MP IR Dome Camera - 30Mtr.",
+    "features": [
+      "1/3\" 5MP CMOS Image Sensor (0.84667 centimeters)",
+      "DWDR, Day/Night (ICR), 2D DNR, BLC",
+      "3.6mm Fixed lens",
+      "IR Range of 30 Mtrs.",
+      "Support Built-in Mic, Smart IR"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ff956c92-88d6-4df9-993f-63a8cde6f39e.png",
+        "alt": "CP-URC-DC51PL3C - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/48a98b45-d534-4790-9468-3dea0085960c.png",
+        "alt": "CP-URC-DC51PL3C - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3",
+        "Minimum Illumination": "0.02 lux@F2.0 (Color, 30 IRE), 0.002 lux@F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Effective Pixels": "2880 (H) × 1620 (V)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360°",
+        "Shutter Speed": "PAL: 1/25 s–1/100,000 s, NTSC: 1/30 s–1/100,000 s",
+        "White Balance": "Auto, Manual",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F2.",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "1.4 m",
+        "DORI Distance": "Lens 3.6mm: 79.4 m (Detect), 31.8 m (Observe), 15.9 m (Recognize), 7.9 m (Identify)",
+        "Gain Control (AGC)": "Auto",
+        "Lens": "3.6mm Fixed Lens",
+        "Angle of View": "H: 74°, V: 41°, D: 89°",
+        "S/N Ratio": ">55 dB",
+        "Back Light Compensation": "BLC, DWDR",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Resolution": "5M (2880 × 1620), 4M (2560 × 1440), 1080p (1920 × 1080)",
+        "Frame Rate": "CVI: PAL: 5M@25 fps, 5M@12.5 fps, 4M@25 fps, 1080p@25 fps<br> NTSC: 5M@25 fps, 5M@10 fps, 4M@30 fps, 1080p@30 fps <br>AHD: PAL: 4M@25 fps NTSC: 4M@30 fps <br>TVI: PAL: 4M@25 fps NTSC: 4M@30 fps",
+        "Noise Reduction": "2D DNR",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "IR Control": "Auto, Manual",
+        "IR": "IR Range of 30 Mtr.,",
+        "Iris Control": "Fixed",
+        "IR Mode": "Smart IR",
+        "Power Source": "12 VDC",
+        "Power Consumption": "Max 2.2 W (12 VDC, IR on)",
+        "Operating Temperature": "–40°C to +55°C (–40°F to +131°F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +55 °C (–40 °F to +131 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Dimension": "85.0mm × 77.1mm",
+        "Weight": "0.11"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-DC51PL3C.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-dc51pl3c"
+  }
+}

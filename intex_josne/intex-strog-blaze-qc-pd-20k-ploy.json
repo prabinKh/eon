@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "20K Power Bank",
+    "subcategory_url": "https://www.intex.in/collections/20k-power-bank",
+    "series": "Power Bank",
+    "series_url": "https://www.intex.in/collections/power-bank",
+    "tab_title": "20K Power Bank",
+    "tab_id": "8981140013274",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "20K Power Bank",
+      "Intex Strong Blaze QC PD 20K Poly Power Bank"
+    ]
+  },
+  "card_info": {
+    "product_id": "8981140013274",
+    "product_name": "Intex Strong Blaze QC PD 20K Poly Power Bank",
+    "product_title": "Intex Strong Blaze QC PD 20K Poly Power Bank",
+    "product_url": "https://www.intex.in/products/intex-strog-blaze-qc-pd-20k-ploy",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Strong-Blaze-QC-PD-20K-Ploy.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4999.0,
+      "display": "₹4,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-strog-blaze-qc-pd-20k-ploy.html",
+  "detail": {
+    "title": "Intex Strong Blaze QC PD 20K Poly Power Bank",
+    "model": "20K",
+    "brand": "Intex",
+    "overview": "Stay powered on the go with the Intex Strong Blaze QC PD 20K Poly, a compact yet powerful 20,000 mAh Li-Polymer Power Bank. Built for speed and safety, this power bank offers fast charging, multiple output ports, and advanced protection features. Ideal for smartphones, tablets, and more, it ensures your devices never run out of juice when you need them the most.",
+    "features": [
+      "Smart IC Protection Layers",
+      "Over Discharge Protection",
+      "Over Charge Protection"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Strong-Blaze-QC-PD-20K-Ploy.jpg",
+        "alt": "Intex Strong Blaze QC PD 20K Poly Power Bank",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Battery Capacity": "20,000 mAh (Li-Polymer)",
+        "Fast Charging": "22W with QC (Quick Charge) + PD (Power Delivery)",
+        "Output Ports": "Dual USB + Type-C",
+        "3X Output": "Charge up to 3 devices at once",
+        "Type-C Output": "Yes",
+        "Power Indicator": "LED lights for battery status",
+        "Available Colours": "Creamy White, Smokey Black",
+        "Model": "20K"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-strog-blaze-qc-pd-20k-ploy"
+  }
+}

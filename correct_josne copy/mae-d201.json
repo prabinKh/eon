@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Accessory",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/accessory",
+    "tab_title": "Accessory",
+    "tab_id": "118257",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Accessory",
+      "Accessory"
+    ]
+  },
+  "card_info": {
+    "product_id": "153221",
+    "product_name": "MAE-D201",
+    "product_title": "Docking Base",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/accessory/mae-d201",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16676/ProductImage/1_0_01_01_16676_780191588_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/mae-d201.html",
+  "detail": {
+    "title": "Docking Base",
+    "model": "MAE-D201",
+    "brand": "Dahua",
+    "overview": "Compare Favourite MAE-D201 Docking Base Key Points • Simultaneously Charges a MPT230 and a Battery • Fast and Stable File Backup from MPT230 to platform via RJ45 Interface • Built-in Automatic Network Connection Recovery • Automatically Adjusts Charging Status in Extreme Temperatures to Extend Battery Lifespan Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16676/ProductImage/1_0_01_01_16676_780191588_crop_thumb.PNG",
+        "alt": "MAE-D201_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16676/ProductImage/1_0_01_01_16676_780191589_crop_thumb.PNG",
+        "alt": "MAE-D201_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16676/ProductImage/1_0_01_01_16676_780191590_crop_thumb.PNG",
+        "alt": "MAE-D201_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "USB": "No",
+        "Network Port": "1 RJ-45 (100 Mbps)",
+        "PoE": "No",
+        "Power Consumption": "24w",
+        "Charging Mode": "Charge the MPT230 Series Body Camera and Battery",
+        "Charging Voltage": "5V, 2A; max. charging voltage: 4.35V",
+        "Charging Time": "Charging Ambient Temperature: 0℃-15℃: Body Camera≤6h; Battery≤6h; Body Camera&Battery≤6h 15℃-30℃: Body Camera≤4h; Battery≤4h; Body Camera&Battery≤4h 30℃-35℃: Body Camera≤6h; Battery≤4h; Body Camera&Battery≤6h 35℃-40℃: Body Camera≤6h; Battery≤10h",
+        "Net Weight": "200 g",
+        "Gross Weight": "438 g",
+        "Product Dimensions": "100 mm × 81 mm × 46.4 mm (3.9\" × 3.2\" × 1.8\") (L × W × H)",
+        "Operating Temperature": "-10 °C to +55 °C (+14 °F to +131 °F)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-MAE-D201_datasheet_20251017.pdf"
+      },
+      {
+        "name": "2025-05-08 #User Manual Dahua Docking Base_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84354/user_manual/Dahua_Docking_Base_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-11 #Drawings MAE-D201_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84354/drawings/MAE-D201_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-11 #Drawings MAE-D201_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84354/drawings/MAE-D201_PORT.pdf"
+      },
+      {
+        "name": "2025-07-16 #Drawings MAE-D201_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84354/drawings/MAE-D201_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/accessory/mae-d201"
+  }
+}

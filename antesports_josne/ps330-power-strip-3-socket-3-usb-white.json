@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "PS330 Power Strip - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348821741859",
+    "product_name": "PS330 Power Strip - White",
+    "product_title": "PS330 Power Strip - White",
+    "product_url": "https://antesports.com/products/ps330-power-strip-3-socket-3-usb-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/26_c55b1e40-cc6a-4d76-a835-84c3a1bdf6ac.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps330-power-strip-3-socket-3-usb-white.html",
+  "detail": {
+    "title": "PS330 Power Strip - White",
+    "model": "AEPP0162",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS330 combines 3 universal three-pin sockets with 3 USB-A ports in a single 2500W power strip, letting you run appliances and charge devices at the same time from one compact unit. Its 3-metre heavy-duty cord stays tangle-free whether coiled in a bag or stretched across a room, and smart charging technology automatically adjusts current output to each connected USB device for faster, safer charging. Built from high-quality fire-resistant PC material rated up to 1382°F, with 1.25mm² pure copper wiring inside, it guards against over-current, over-charge, short circuits and overheating. Safety shutters and grounded sockets add another layer of protection for homes with children, making it a dependable everyday extension cord for home or office appliances.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/26_c55b1e40-cc6a-4d76-a835-84c3a1bdf6ac.jpg",
+        "alt": "PS330 Power Strip - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Sockets": "3 Universal",
+        "USB Ports": "3 x USB-A",
+        "Power Rating": "2500 Watt",
+        "Cord Length": "3 Meter",
+        "Material": "Fireproof PC",
+        "Protection": "Overload, Over-Current, Short Circuit",
+        "Color": "White",
+        "SOCKETS": "3 Universal",
+        "USB PORTS": "3 x USB-A",
+        "POWER RATING": "2500 Watt",
+        "CORD LENGTH": "3 Meter",
+        "MATERIAL": "Fireproof PC",
+        "PROTECTION": "Overload, Over-Current, Short Circuit",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹409.00",
+        "MRP (INR)": "₹1,499.00",
+        "SKU": "AEPP0162"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps330-power-strip-3-socket-3-usb-white"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Active Deterrence Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series",
+    "tab_title": "Active Deterrence 2.0",
+    "tab_id": "6432",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Active Deterrence Series",
+      "Active Deterrence 2.0"
+    ]
+  },
+  "card_info": {
+    "product_id": "96997",
+    "product_name": "HAC-ME1500B-L",
+    "product_title": "5MP HDCVI Active Deterrence Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/active-deterrence-2.0/5mp/hac-me1500b-l=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220804/HAC-ME1500B-L_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-me1500b-l-s2.html",
+  "detail": {
+    "title": "5MP HDCVI Active Deterrence Camera",
+    "model": "HAC-ME1500B-L",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-ME1500B-L 5MP HDCVI Active Deterrence Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 30m Illumination Distance for Superior Camera Image Quality • Active Deterrence with Warm Light • 2DNR & DWDR Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220804/HAC-ME1500B-L_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220804/HAC-ME1500B-L_2_thumb.png",
+        "alt": "HAC-ME1500B-L",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220804/HAC-ME1500B-L_3_thumb.png",
+        "alt": "HAC-ME1500B-L",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "5MP",
+        "Max. Resolution": "1/2.7\"CMOS",
+        "Pixel": "2880(H)×1620(V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "S/N Ratio": "0.005 Lux/F1.6, 30IRE, 0 Lux IR on",
+        "Min. Illumination": "> 65 dB",
+        "Illumination Distance": "30 m (98.4 ft)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "1(IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "2.8 mm: H: 113°; V: 60°; D: 132° 3.6 mm: H: 90°; V: 48°; D: 104°",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "2.8 mm: 1.0 m 3.6 mm: 1.5 m",
+        "DORI Distance": "Lens",
+        "2.8 mm": "61.2 m (200.8 ft)",
+        "3.6 mm": "77.8 m (255.2 ft)"
+      },
+      "Video": {
+        "Frame Rate": "CVI: PAL: 5M@25 fps; 4M@25 fps; 1080p@25 fps; NTSC: 5M@25 fps; 4M@30 fps; 1080p@30 fps AHD: PAL: 4M@25 fps; NTSC: 4M@30 fps TVI: PAL: 4M@25 fps; NTSC: 4M@30 fps CVBS: PAL: 960H; NTSC: 960H",
+        "Resolution": "5M (2880 × 1620); 4M (2560 × 1440); 1080p (1920 ×1080); 960 H (960 × 576/960 × 480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/HLC/DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto/Area WB",
+        "Gain Control": "Auto",
+        "Noise Reduction": "2D NR",
+        "Smart IR": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "PIR": {
+        "Detection Mode": "Pyroelectric infrared sensor",
+        "Max. Detection Range": "10 m(32.8 ft), 110°",
+        "Recommended Installation Height": "2.2 m–3 m (7.2 ft-9.8 ft)",
+        "Recommended Working Temperature": "–10 °C to 50 °C (14 °F to 122 °F)"
+      },
+      "Active Deterrence": {
+        "White Light Warning": "lighting/flash; Alert Duration: 5 s–60 s; flash Freq: low/medium/high"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032:2015, EN61000-3-2:2014, EN61000- 3-3:2013, EN55024:2010+A1:2015, EN55035:2017, EN50130-4:2011+A1:2014) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1) IEC 62368-1:2014 (Second Edition)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "DC12 V±30%",
+        "Power Consumption": "Max 4.5 W (12 V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to 140 °F); < 95% (non-condensation)",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to 140 °F); < 95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Cover: Metal Rear: Plastic",
+        "Camera Dimensions": "146.6 mm × 72.4 mm × 83.0 mm (5.77\" × 2.85\" × 3.27\")",
+        "Net Weight": "0.24 kg (0.53 lb)",
+        "Gross Weight": "0.35 Kg (0.77 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DH-HAC-ME1500B-L_datasheet_20210710.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2021-07-21 #Drawings HAC-ME1500B-L_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6917/drawings/HAC-ME1800B-L_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-05-30 #Drawings HAC-ME1500B-L_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6917/drawings/HAC-ME1800B-L_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/active-deterrence-2.0/5mp/hac-me1500b-l=s2"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-PD04V3-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "2040",
+    "product_name": "CP-DPS-PD04V3-12D",
+    "product_title": "CP-DPS-PD04V3-12D",
+    "product_url": "https://cpplusworld.com/cp-dps-pd04v3-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/902932d8-56d0-4832-89e2-567a0db88b62.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-dps-pd04v3-12d.html",
+  "detail": {
+    "title": "CP-DPS-PD04V3-12D",
+    "model": "CP-DPS-PD04V3-12D",
+    "brand": "CP Plus",
+    "overview": "4 Channel Power Supply",
+    "features": [
+      "2 Output Terminals for Easy Installation.",
+      "Short Circuit, Over Voltage and Over Current Protection",
+      "Ac I/P & DC O/P Terminals Are Covered for Safety",
+      "Power On Indicator",
+      "Cable Compensation Switch",
+      "Built-in EMI Filter to Nullify Interference",
+      "100% Full Load Burn-in Test",
+      "Cooling by Free Air Convection",
+      "Wall Mount Option Along with Desktop"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/902932d8-56d0-4832-89e2-567a0db88b62.png",
+        "alt": "CP-DPS-PD04V3-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3408c0cd-eeb9-482d-b4d7-73588e7908f7.png",
+        "alt": "CP-DPS-PD04V3-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input voltage": "200 ~ 240VAC",
+        "Input AC Frequency Range": "47 ~ 63Hz",
+        "Input Current (Typ.)": "0.5A/230VAC",
+        "Power Cord": "2 Pin (L & N)",
+        "Standby Power Consumption": "≤0.5W",
+        "Inrush Current (Typ.)": "≤40A@230VAC",
+        "Efficiency (Typ.)": "85%",
+        "Output voltage": "12V in Normal Mode",
+        "Output Current": "3.0A in Normal Mode",
+        "Output Current range": "0 ~ 3.0A in Normal Mode",
+        "Rated Power": "36W in Normal Mode",
+        "Ripple & Noise (max.)": "≤240mV",
+        "Line Regulation": "2%",
+        "Load Regulation": "3%",
+        "Power On Indicator": "Support",
+        "Cable Compensation Switch": "Support, 3 Modes (Normal, Long, Ex. Long)",
+        "No. of Output Ports": "Single Port",
+        "short-circuit protection": "Support",
+        "Dielectric Strength (Hi-pot)": "3.0KV",
+        "Insulation Resistance": "100MΩ@500VDC",
+        "Surge Immunity": "1.0KV",
+        "Operating Temperature": "-10 ~ +45°C",
+        "Operating Humidity": "20 ~ 90% RH Non-condensing",
+        "Storage Temperature": "-10 ~ +45°C",
+        "Storage Humidity": "10 ~ 95% RH",
+        "Dimension": "132.7mm x 77.7mm x 33.2mm",
+        "Weight": "0.144kg without Power Cord and Packing Box"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-PD04V3-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/3baef5df-5759-4f66-94a1-db618a0e1711.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-pd04v3-12d"
+  }
+}

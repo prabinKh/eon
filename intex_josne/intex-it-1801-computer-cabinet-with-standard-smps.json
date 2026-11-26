@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/cabinet",
+    "series": "Cabinet Series",
+    "series_url": "https://www.intex.in/collections/cabinet-series",
+    "tab_title": "Cabinet",
+    "tab_id": "9410864873690",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cabinet",
+      "Intex IT-1801 Computer Cabinet with Standard SMPS"
+    ]
+  },
+  "card_info": {
+    "product_id": "9410864873690",
+    "product_name": "Intex IT-1801 Computer Cabinet with Standard SMPS",
+    "product_title": "Intex IT-1801 Computer Cabinet with Standard SMPS",
+    "product_url": "https://www.intex.in/products/intex-it-1801-computer-cabinet-with-standard-smps",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_feb4bdad-04e7-40d9-b273-955f067dde6f.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3999.0,
+      "display": "₹3,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-it-1801-computer-cabinet-with-standard-smps.html",
+  "detail": {
+    "title": "Intex IT-1801 Computer Cabinet with Standard SMPS",
+    "model": "IT-1801",
+    "brand": "Intex",
+    "overview": "Upgrade your desktop setup with the Intex IT-1801 Computer Cabinet with Standard SMPS, designed for durability, efficient cooling, and hassle-free assembly. Built with a robust SPCC 0.3 mm metallic steel body, this cabinet provides reliable protection for your PC components while maintaining a sleek and modern appearance. Compatible with Micro ATX and ITX motherboards, the IT-1801 features multiple front USB ports, audio I/O connectivity, and strategically designed CPU/PCI heat vents for improved airflow and system cooling. The included Standard ATX SMPS ensures dependable power delivery, making it an excellent choice for home, office, and business computing. Whether you're building a new PC or upgrading an existing one, the Intex IT-1801 offers the perfect combination of performance, durability, and value.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_feb4bdad-04e7-40d9-b273-955f067dde6f.jpg",
+        "alt": "Intex IT-1801 Computer Cabinet with Standard SMPS",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Model": "IT-1801",
+        "Brand": "Intex",
+        "Product Type": "Computer Cabinet",
+        "Included SMPS": "Yes (Standard ATX PSU)",
+        "Cabinet Material": "SPCC 0.3 mm Steel",
+        "Motherboard Support": "Micro ATX, ITX",
+        "Front USB Ports": "Multiple USB Ports",
+        "Audio Ports": "Front Audio & Microphone I/O",
+        "Cooling": "CPU & PCI Heat Vent with Superior Airflow Design",
+        "Cabinet Colour": "Black",
+        "Assembly": "Easy Assembly",
+        "Application": "Home, Office, Business & Educational Use",
+        "MRP": "₹3,999 (Inclusive of all taxes)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_IT-1801_with_SMPS_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-it-1801-computer-cabinet-with-standard-smps"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "Superpower Gamepad Controller - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870467875",
+    "product_name": "Superpower Gamepad Controller - Black",
+    "product_title": "Superpower Gamepad Controller - Black",
+    "product_url": "https://antesports.com/products/superpower-gamepad-controller-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_0678c073-a75e-49cd-8313-f7c1076e8fdc.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/superpower-gamepad-controller-black.html",
+  "detail": {
+    "title": "Superpower Gamepad Controller - Black",
+    "model": "AEPP0347",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Superpower is a wireless gamepad controller built for precision, comfort and versatility across PS4, PS3, iOS, Android, PC and Steam. Advanced Hall Effect joystick technology eliminates drift issues for highly accurate control on every move, while triple connectivity modes (wired, Bluetooth and 2.4GHz wireless) let you switch easily between devices for lag-free gameplay. Built-in dual vibration motors and a 6-axis motion sensor enhance immersion, and the interactive touchpad plus RGB lighting add a premium gaming feel to the setup. Powered by a 1000mAh rechargeable battery for long, uninterrupted sessions, its ergonomic design and programmable back buttons make it a strong pick for both casual and competitive gamers.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_0678c073-a75e-49cd-8313-f7c1076e8fdc.jpg",
+        "alt": "Superpower Gamepad Controller - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Joystick Type": "Hall Effect",
+        "Connectivity": "Wired + Bluetooth + 2.4GHz",
+        "Battery": "1000mAh Rechargeable",
+        "Motion": "6-Axis Sensor",
+        "Compatibility": "PS4, PS3, iOS, Android, PC, Steam",
+        "Color": "Black",
+        "JOYSTICK TYPE": "Hall Effect",
+        "CONNECTIVITY": "Wired + Bluetooth + 2.4GHz",
+        "BATTERY": "1000mAh Rechargeable",
+        "MOTION": "6-Axis Sensor",
+        "COMPATIBILITY": "PS4, PS3, iOS, Android, PC, Steam",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,949.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AEPP0347"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/superpower-gamepad-controller-black"
+  }
+}

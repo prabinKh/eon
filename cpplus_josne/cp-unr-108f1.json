@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "27",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "8 Ch.",
+      "CP-UNR-108F1"
+    ]
+  },
+  "card_info": {
+    "product_id": "1298",
+    "product_name": "CP-UNR-108F1",
+    "product_title": "CP-UNR-108F1-8Ch. Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-unr-108f1",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/6c1c6961-6a35-4466-b121-e79dc23d16d0.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-108f1.html",
+  "detail": {
+    "title": "CP-UNR-108F1-8Ch. Network Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-UNR-108F1",
+    "brand": "CP Plus",
+    "overview": "8Ch. Network Video Recorder",
+    "features": [
+      "Support 8 channel IP camera input",
+      "Instastream/H.265/Smart H.264+/H.264 codec decoding",
+      "Up to 8MP resolution preview and playback",
+      "Max 80Mbps Network Bandwidth",
+      "Support 1 SATA HDDs up to 8TB Each, 2 USB Ports (USB2.0)",
+      "VGA/HDMI simultaneous video output, maximum resolution of HDMI is 1080P",
+      "Support Multi-brand network cameras",
+      "ONVIF Version conformance",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6c1c6961-6a35-4466-b121-e79dc23d16d0.jpg",
+        "alt": "CP-UNR-108F1 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1eb53499-144f-4fd6-9a08-0007adc7c771.jpg",
+        "alt": "CP-UNR-108F1 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade embedded processor",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web/operating in local GUI",
+        "Video Output": "1 VGA/1 HDMI simultaneous video output, maximum resolution 1080P",
+        "Video Resolution": "8MP/5MP/4MP/3MP/1080P/720P/D1/CIF",
+        "Video Recording": "80 Mbps for access, 80 Mbps for storage and 60 Mbps for forwarding.",
+        "Video Display Split": "1/4/8/9",
+        "Bandwidth Incoming": "80 Mbps",
+        "Channel": "8",
+        "Motion Detection": "Supports",
+        "Video Loss": "Supports",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Hard Disk": "1 SATA 2.0, up to 8TB Each",
+        "Recording Mode": "Priority of record mode: Manual recording, alarm recording, motion detection recording, timed recording",
+        "Backup Mode": "USB Device",
+        "Playback": "Play, pause, stop, fast forward, fast backward, rewind, play by frame, Full screen, backup (cut/file), partially enlarge, audio on/off",
+        "Ethernet": "1 RJ-45 port (10/100Mbps)",
+        "Interface Ports": "2 USB Ports (1 Rear USB 2.0 , 1 Front USB 2.0 )",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, P2P, ONVIF (profile T/profile S/ profile G), RTSP, CGI, SDK",
+        "Power Supply": "DC12V, 1.5A",
+        "Power Consumption": "<10W (Without HDD)",
+        "Working Temp": "-10°C to 45°C (+34°F to +113°F)",
+        "Dimension": "260 mm×225 mm×47.6 mm (W × L × H)",
+        "Weight": "0.81kg (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-108F1.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-108f1"
+  }
+}

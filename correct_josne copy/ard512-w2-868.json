@@ -1,0 +1,154 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "128947",
+    "product_name": "ARD512-W2(868)",
+    "product_title": "Dahua Wireless Glass Break Detector",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard512-w2(868)",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10784/ProductImage/1_0_01_19_10784_378402030_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard512-w2-868.html",
+  "detail": {
+    "title": "Dahua Wireless Glass Break Detector",
+    "model": "ARD512-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD512-W2(868) Dahua Wireless Glass Break Detector Key Points · Detects when the glass is broken, triggering alarms for different types of glass such as tempered, double-glazed, laminated, wired, plate, and float glass. · Reduces the occurrence of false alarms with algorithms. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10784/ProductImage/1_0_01_19_10784_378402030_crop_thumb.png",
+        "alt": "ARD512-W2(868)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10784/ProductImage/1_0_01_19_10784_363945554_crop_thumb.png",
+        "alt": "ARD512-W2(868)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10784/ProductImage/1_0_01_19_10784_363945556_crop_thumb.png",
+        "alt": "ARD512-W2(868)_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10784/ProductImage/1_0_01_19_10784_363945555_crop_thumb.png",
+        "alt": "ARD512-W2(868)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Port": {
+        "Alarm Input": "2 (NO/NC)",
+        "Microphone": "Highly-sensitive omnidirectional microphone"
+      },
+      "Function": {
+        "Button": "1 × power button",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Yes"
+      },
+      "Technical": {
+        "Detection Range": "Max. 9 m (29.53 ft)",
+        "Specifications of Glass to be Detected": "Glass type: Tempered, double-glazed, laminated, wired, plate and float Glass thickness: 2.4 mm–6.4 mm (0.09\"\"–0.25\"\") Glass size: 0.3 m × 0.3 m to 3 m × 3 m (0.98 ft × 0.98 ft to 9.84 ft × 9.84 ft)",
+        "Test Mode": "Yes",
+        "LED Indicator": "1 × green alarm indicator",
+        "Scenario": "Indoor",
+        "Operating Current": "45 uA",
+        "Alarm Current": "50 mA"
+      },
+      "Wireless": {
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 25 mW",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "1,600 m (5,249.34 ft)",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "1 × CR123A battery",
+        "Battery Model": "CR123A",
+        "Battery Life": "3 years (The external input type is NO) 1 year (Both external sensors are enabled, and the input type is NC)",
+        "Power Consumption": "Max. 150 mW",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "107.8 mm × 34.5 mm × 24.8 mm (4.24\" × 1.36\" × 0.98\")",
+        "Net Weight": "45 g (0.10 lb)",
+        "Gross Weight": "130 g (0.29 lb)",
+        "Installation": "Surface mount",
+        "Casing Material": "PC and ABS",
+        "Appearance Color": "White",
+        "Certifications": "CE",
+        "Anti-corrosion Level": "Basic Protection",
+        "Packaging Dimensions": "95 mm × 43 mm × 139 mm (3.74\" × 1.69\" × 5.47\")"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARD512-W2(868)_datasheet_20240628.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Wireless Glass Break Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008118/202507/Wireless_Glass_Break_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Wireless Glass Break Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008118/202507/Dahua_Wireless_Glass_Break_Detector_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-03-31 #Drawings ARD512-W2(868)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70367/drawings/1_0_01_19_10784_364438693.pdf"
+      },
+      {
+        "name": "2023-03-31 #Drawings ARD512-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70367/drawings/1_0_01_19_10784_364438690.pdf"
+      },
+      {
+        "name": "2023-10-07 #Firmware General_ARD512-W2_868_V1.000.0000003.0.R.20230913 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2348730/M/General_ARD512-W2_868_V1.000.0000003.0.R.20230913.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard512-w2(868)"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "Pole-Held Single Arm Monitor Desk Mount"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353571004707",
+    "product_name": "Pole-Held Single Arm Monitor Desk Mount",
+    "product_title": "Pole-Held Single Arm Monitor Desk Mount",
+    "product_url": "https://antesports.com/products/ma111-single-arm-monitor-desk-mount",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ma111-single-arm-monitor-desk-mount.html",
+  "detail": {
+    "title": "Pole-Held Single Arm Monitor Desk Mount",
+    "model": "AEPP0170",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MA111 is a single-arm articulating monitor mount built from durable steel, holding screens from 13 to 30 inches (and ultrawides up to 38 inches) weighing up to 10kg. A full range of motion covers 360-degree rotation for landscape or portrait orientation, screen tilt from -85 to +15 degrees, and height adjustment from 7.9 to 14.2 inches above the desk. Both C-clamp and grommet base mounting hardware are included, fitting desks from 0.39 to 3.15 inches thick, and a detachable VESA plate (75x75mm or 100x100mm) makes setup straightforward with all tools included. Integrated cable management clips along the arm and centre pole keep power and AV cables tidy, freeing up genuine desk space for a cleaner, more ergonomic workstation.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8.png",
+        "alt": "Pole-Held Single Arm Monitor Desk Mount - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Screen Support": "13-38 Inch, Up to 10kg",
+        "VESA Pattern": "75x75mm / 100x100mm",
+        "Adjustability": "360° Rotation, Tilt -85° to +15°, Height 7.9-14.2\"",
+        "Mounting": "C-Clamp or Grommet Base",
+        "Build": "Steel",
+        "SCREEN SUPPORT": "13-38 Inch, Up to 10kg",
+        "VESA PATTERN": "75x75mm / 100x100mm",
+        "ADJUSTABILITY": "360° Rotation, Tilt -85° to +15°, Height 7.9-14.2\"",
+        "MOUNTING": "C-Clamp or Grommet Base",
+        "BUILD": "Steel",
+        "SKU": "AEPP0170"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ma111-single-arm-monitor-desk-mount"
+  }
+}

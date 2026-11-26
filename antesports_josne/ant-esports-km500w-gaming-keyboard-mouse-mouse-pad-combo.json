@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Ant Esports KM500W Gaming Keyboard, Mouse & Mouse Pad Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351527526691",
+    "product_name": "Ant Esports KM500W Gaming Keyboard, Mouse & Mouse Pad Combo",
+    "product_title": "Ant Esports KM500W Gaming Keyboard, Mouse & Mouse Pad Combo",
+    "product_url": "https://antesports.com/products/ant-esports-km500w-gaming-keyboard-mouse-mouse-pad-combo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-km500w-gaming-keyboard-mouse-mouse-pad-combo.html",
+  "detail": {
+    "title": "Ant Esports KM500W Gaming Keyboard, Mouse & Mouse Pad Combo",
+    "model": "AEPP0255",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM500W is a wired gaming keyboard and mouse combo designed for gaming, everyday computing and an immersive desktop setup. Its rainbow LED backlit keyboard adds a vibrant gaming look, while the independent crater structure provides durable keys with a lifespan of up to 50 million keystrokes. The gaming mouse features an advanced optical sensor with four adjustable DPI levels of 800, 1600, 2400 and 3200 DPI, allowing you to customize cursor speed for different tasks and gaming styles. The combo also includes a large MP320C gaming mouse pad with a smooth Lycra cloth surface and anti-slip rubber base for accurate and comfortable mouse movement. With a slip-resistant keyboard design, wide Windows and Mac compatibility, and a durable washable mouse pad, the KM500W is a practical choice for gaming and everyday use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/29.png",
+        "alt": "Ant Esports KM500W Gaming Keyboard, Mouse & Mouse Pad Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired",
+        "Backlight": "Rainbow LED",
+        "Keyboard Key Life": "Up to 50 Million Keystrokes",
+        "Mouse DPI": "800 / 1600 / 2400 / 3200 DPI",
+        "Mouse Sensor": "Advanced Optical Sensor",
+        "Mouse Pad": "Included",
+        "Mouse Pad Surface": "Lycra Cloth",
+        "Mouse Pad Base": "Anti-Slip Rubber",
+        "Compatibility": "Windows & Mac OS",
+        "Use Case": "Gaming, Work & Everyday Computing",
+        "Color": "Black",
+        "Warranty": "1 Year Manufacturer Warranty",
+        "CONNECTIVITY": "Wired",
+        "BACKLIGHT": "Rainbow LED",
+        "KEYBOARD KEY LIFE": "Up to 50 Million Keystrokes",
+        "MOUSE DPI": "800 / 1600 / 2400 / 3200 DPI",
+        "MOUSE SENSOR": "Advanced Optical Sensor",
+        "MOUSE PAD": "Included",
+        "MOUSE PAD SURFACE": "Lycra Cloth",
+        "MOUSE PAD BASE": "Anti-Slip Rubber",
+        "COMPATIBILITY": "Windows & Mac OS",
+        "USE CASE": "Gaming, Work & Everyday Computing",
+        "COLOR": "Black",
+        "WARRANTY": "1 Year Manufacturer Warranty",
+        "SKU": "AEPP0255"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-km500w-gaming-keyboard-mouse-mouse-pad-combo"
+  }
+}

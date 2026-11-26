@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "Intex Smart Access AI",
+    "series_url": "https://www.intex.in/collections/intex-smart-access-ai",
+    "tab_title": "Biometric",
+    "tab_id": "9014480863450",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Biometric",
+      "Intex Smart Access Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9014480863450",
+    "product_name": "Intex Smart Access Biometric",
+    "product_title": "Intex Smart Access Biometric",
+    "product_url": "https://www.intex.in/products/intex-smart-access",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_SMART_ACCESS.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 27877.0,
+      "display": "₹27,877.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-smart-access.html",
+  "detail": {
+    "title": "Intex Smart Access Biometric",
+    "model": "Biometric",
+    "brand": "Intex",
+    "overview": "Secure access made simple. Intex Smart Access combines fast facial recognition, card and password authentication with robust record storage — perfect for offices, schools, and gated communities. With industry-grade recognition and multi-mode authentication, Intex Smart Access delivers reliable and fast access control while keeping data management simple. Ideal for medium and large teams that require flexible authentication and high record retention.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_SMART_ACCESS.jpg",
+        "alt": "Intex Smart Access Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Face Capacity": "5000",
+        "Card Capacity": "5000",
+        "Password Capacity": "5000",
+        "Add User": "5000",
+        "Attendance Records": "500000",
+        "Working Mode": "Online / Offline",
+        "Verification Mode": "Password / Face / Card",
+        "Screen": "2.8 Inch Touch Screen",
+        "Language": "English",
+        "Communication": "TCP/IP, USB, WiFi",
+        "Power Supply": "DC 12V 2A",
+        "Battery Backup": "No",
+        "Dual Authentication": "Yes",
+        "Model": "Biometric"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_SMART_ACCESS_AI.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-smart-access"
+  }
+}

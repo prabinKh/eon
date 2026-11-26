@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Software",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software",
+    "series": "Software",
+    "series_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software",
+    "tab_title": "Software",
+    "tab_id": "14617",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Software",
+      "Software",
+      "Software"
+    ]
+  },
+  "card_info": {
+    "product_id": "146730",
+    "product_name": "Deephub Meeting",
+    "product_title": "DHI-TSW-Meeting-S",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software/deephub-meeting",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/2_3_02_01_11003/ProductImage/2_3_02_01_11003_621495980_thumb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/deephub-meeting.html",
+  "detail": {
+    "title": "DHI-TSW-Meeting-S",
+    "model": "Deephub Meeting",
+    "brand": "Dahua",
+    "overview": "Favourite Deephub Meeting DHI-TSW-Meeting-S Key Points • Up to 720p High-Definition Video Calls and Presentations • Up to 300 Online Attendees • Multi-Platform Access via Desktop Client, Web Browser, and Mobile Devices • Cloud Meeting Storage and Playback • Point-to-Point Calling Using Meeting Numbers Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/2_3_02_01_11003/ProductImage/2_3_02_01_11003_621495980_thumb.jpg",
+        "alt": "DeepHub Meeting_View_Bottom-logo.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "General": {
+        "Before Meeting": "Account Management",
+        "Flexible Meetings": "Meetings can be attended from the computer through the Windows desktop client or web client, or from the mobile client on a mobile device. The WEB H5 scope of adaptation is as follow: Safari version 15 and above is supported for iOS and Chrome version 101 and above is supported for Android.",
+        "Meeting Configuration": "Meetings can be easily created, joined, scheduled and canceled.",
+        "During Meeting": "General Settings",
+        "Attendee Management": "The host can control live videos, view attendee information, rename and change the identity of attendees, control their speaking permissions, and remove attendees from the meeting. The host also has the highest level of permission in the meeting.",
+        "Screen Sharing": "The home screen of the interactive whiteboard can be shared in meetings. It not only supports screen sharing, but also combines together screen sharing with video conferencing.",
+        "Meeting Recording": "Meetings can be recorded through cloud recording. A PIN code can also be added to the video for protection, as it would require users to enter the PIN code to view the recording online.",
+        "Interactive and Collaborative Whiteboard": "Resource Tools",
+        "Meeting Invitation": "Generates invitations and reminders for meetings.",
+        "Video Layout": "Supports multiple types of video layouts including grid view, speaker view, and picture-in-picture view.",
+        "General Settings": "The camera resolution and screen sharing resolution can both be adjusted for meetings. You can adjust the resolution up to 1080p by upgrading the activation code permission.",
+        "Shape Tools": "A variety of shapes are available, offering flexibility to edit their color, border, transparency, and other characteristics according to your preferences.",
+        "Text Tools": "For fonts, you can adjust the style, size, text color, background color and text alignment.",
+        "Painting Tools": "Both a pen and highlighter are available for selection. You can freely modify the color and thickness of the stroke and set the drawing method.",
+        "Whiteboard Tools": "Content can be searched for on the interactive whiteboard. You can also insert editable flowcharts and mind maps. Resources can also be inserted, and multiple users can edit the content at the same time.",
+        "Activity Tools": "Meeting outlines can be edited on the interactive whiteboard. You can also access practical meeting tools such as timers.",
+        "AI Tools": "Features an AI assistant that can generate images and documents, answer questions, translate text to different languages, generate codes, and more."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DeepHub_Meeting_datasheet_20240829.pdf"
+      },
+      {
+        "name": "2024-09-26 #User Manual Dahua DeepHub Meeting_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009241/202505/Dahua_DeepHub_Meeting_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software/deephub-meeting"
+  }
+}

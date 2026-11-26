@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Villa",
+    "category_url": "https://cpplusworld.com/products/villa",
+    "subcategory": "Video Door Phones",
+    "subcategory_url": "https://cpplusworld.com/products/video-door-phones/villa",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Video Door Phones",
+    "tab_id": "17",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Video Door Phones",
+      "Villa",
+      "CP-UVK-711M"
+    ]
+  },
+  "card_info": {
+    "product_id": "1457",
+    "product_name": "CP-UVK-711M",
+    "product_title": "CP-UVK-711M-IP Villa Door Station & Indoor Monitor | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-uvk-711m",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/19912379-3e7d-4128-b47e-e0dd288b6c4c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvk-711m.html",
+  "detail": {
+    "title": "CP-UVK-711M-IP Villa Door Station & Indoor Monitor | Cp Plus | Cpplusworld.com",
+    "model": "CP-UVK-711M",
+    "brand": "CP Plus",
+    "overview": "IP Villa Door Station & Indoor Monitor",
+    "features": [
+      "IP Villa Door Station",
+      "High definition camera; WDR",
+      "IP65(Silicone sealant is needed. For details, see the quick start guide.)",
+      "Supports auto IR illumination and D/N",
+      "Card/app remote/indoor monitor unlock",
+      "Supports two-way voice call, support calls between door stations and app",
+      "10,000 cards",
+      "Tamper Alarm",
+      "Support standard PoE power supply",
+      "Control two locks",
+      "IPC surveillance",
+      "Alarm integration",
+      "High performance",
+      "Embedded 8GB SD card",
+      "Support standard PoE",
+      "Quick configuration without computers"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/19912379-3e7d-4128-b47e-e0dd288b6c4c.jpg",
+        "alt": "CP-UVK-711M - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/c81167e7-6786-42dc-a75b-4207446b99e9.jpg",
+        "alt": "CP-UVK-711M - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Communication Mode": "Full digital",
+        "Display": "7-inch TFT screen (17.78cm)",
+        "Audio Input": "1 channel all-direction microphone",
+        "Audio Output": "Built-in 1.5W loudspeaker",
+        "IR": "Auto IR",
+        "Power Source": "12V DC 1A Standard PoE - IP Villa Door Station ; PoE or DC 12V - Indoor Monitor",
+        "Power Consumption": "IP Villa Door Station: Standby≤1W, working≤5W ; Indoor Monitor : Standby≤4W, work≤6W",
+        "Operating Temperature": "-30°C to +60°C (-20°F to +60°F ) - IP Villa Door Station ; -10°C to +55°C (+14°F to +131°F) - Indoor Monitor",
+        "Humidity": "10%RH–95%RH",
+        "Dimension": "135mm×70.4mm×34.4mm (IP Villa Door) ; 119.6 mm × 221.5 mm × 21.5 mm (Indoor Monitor)",
+        "IP Rating": "IP65 (silicone sealant is needed, see the quick start guide)",
+        "Casing": "PC + ABS",
+        "Weight": "326 g (IP Villa Door) ; 0.35Kg (Indoor Monitor)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVK-711M.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ef4db0d9-8332-4379-bb14-1ec55ad3a449.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvk-711m"
+  }
+}

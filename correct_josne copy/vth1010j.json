@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "4-Wire Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series",
+    "series": "Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "5817",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "4-Wire Series",
+      "Door Station",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "109507",
+    "product_name": "VTH1010J",
+    "product_title": "Analog Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/indoor-monitor/analog-indoor-monitor/vth1010j",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20241024/VTH1010J_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth1010j.html",
+  "detail": {
+    "title": "Analog Indoor Monitor",
+    "model": "VTH1010J",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH1010J Analog Indoor Monitor Key Points • 4.3-inch TFT Screen • Video Intercom Function: Unlock, Voice Call, Video Call and Volume Adjustment • Touch Button • Multiple Bell Sounds Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241024/VTH1010J_1_thumb.png",
+        "alt": "VTH1010J_1",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241024/VTH1010J_2_thumb.png",
+        "alt": "VTH1010J_2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241024/VTH1010J_3_thumb.png",
+        "alt": "VTH1010J_3",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241024/VTH1010J_4_thumb.png",
+        "alt": "VTH1010J_4",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "DHI-VTH1010J": {},
+      "System": {
+        "Button Type": "Touch button"
+      },
+      "Basic": {
+        "Display": "4.3\" TFT",
+        "Screen Resolution": "480 (H) × 272 (V)"
+      },
+      "Function": {
+        "Communication Mode": "Analog"
+      },
+      "Performance": {
+        "Casing": "ABS"
+      },
+      "General": {
+        "Color": "White",
+        "Power Supply": "12 VDC 1 A",
+        "Power Adapter": "Included",
+        "Installation": "Surface mount",
+        "Certifications": "CE/FCC",
+        "Accessory": "Bracket (included)",
+        "Dimensions": "136.00 mm × 140.00 mm × 18.30 mm (5.35\" × 5.51\" × 0.72\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH)",
+        "Power Consumption": "≤ 2 W (standby) ≤ 5 W (working)",
+        "Net Weight": "0.16 kg (0.35 lb)",
+        "Gross Weight": "0.42 kg (0.96 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH1010J_datasheet_20211116.pdf"
+      },
+      {
+        "name": "2026-01-09 #User Manual Analog 4-Wire Intercom_User Manual_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6997/user_manual/Analog_4-Wire_Intercom_User_Manual_V2.0.0.pdf"
+      },
+      {
+        "name": "2022-06-28 #Drawings VTH1010J_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82420/drawings/KTA04_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2021-11-17 #Drawings VTH1010J_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82420/drawings/KTA04_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-06-28 #Drawings VTH1010J_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82420/drawings/KTA04_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2021-11-25 #Firmware General_VTH1010J_Eng_MCU_V1.000.0000000.0.R.211105 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/1626085/General_VTH1010J_Eng_MCU_V1.000.0000000.0.R.211105.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/indoor-monitor/analog-indoor-monitor/vth1010j"
+  }
+}

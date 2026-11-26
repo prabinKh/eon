@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "10 Lac Clicks Button Cycle",
+    "subcategory_url": "https://www.intex.in/collections/10-lac-clicks-button-cycle",
+    "series": "Buy Wired Mouse Online",
+    "series_url": "https://www.intex.in/collections/buy-wired-mouse-online",
+    "tab_title": "10 Lac Clicks Button Cycle",
+    "tab_id": "7861815804122",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "10 Lac Clicks Button Cycle",
+      "Eco - 6 Plus Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "7861815804122",
+    "product_name": "Eco - 6 Plus Mouse",
+    "product_title": "Eco - 6 Plus Mouse",
+    "product_url": "https://www.intex.in/products/eco-6-plus-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1_68f4f9ba-d354-453f-95a6-f92270a03e17.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 249.0,
+      "display": "₹249.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/eco-6-plus-mouse.html",
+  "detail": {
+    "title": "Eco - 6 Plus Mouse",
+    "model": "1156-5003-007",
+    "brand": "Intex",
+    "overview": "With its sleek design and optical tracking technology, Intex offers a lightweight, elegant mouse with modern functionality. For a smooth scroll and plug-and-play ease, this mouse sensor has a 1000 DPI optical sensor that is highly responsive.",
+    "features": [
+      "DPI Optical Senser 1000",
+      "Compact and Stylish Design",
+      "High Precision",
+      "USB Interface",
+      "Smooth Scroll",
+      "Optical Tracking Technology",
+      "Ergonomic Design",
+      "Plug & Play",
+      "USB Connectivity"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1_68f4f9ba-d354-453f-95a6-f92270a03e17.jpg",
+        "alt": "Eco - 6 Plus Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-2_c80cf2df-74fe-42ff-baec-8e125366bbf1.jpg",
+        "alt": "Eco - 6 Plus Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-3_850a80ae-5ab4-4b6a-b264-7b5f40f9960d.jpg",
+        "alt": "Eco - 6 Plus Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-4_43efec15-4b45-47f9-9f2c-760113d2bbec.jpg",
+        "alt": "Eco - 6 Plus Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-5_636aa29a-091c-411f-bab4-6e16c452b878.jpg",
+        "alt": "Eco - 6 Plus Mouse",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "DPI Optical Senser 1000",
+        "Feature 2": "Compact and Stylish Design",
+        "Feature 3": "High Precision",
+        "Feature 4": "USB Interface",
+        "Feature 5": "Smooth Scroll",
+        "Feature 6": "Optical Tracking Technology",
+        "Feature 7": "Ergonomic Design",
+        "Feature 8": "Plug & Play",
+        "Feature 9": "USB Connectivity"
+      },
+      "General": {
+        "Model": "1156-5003-007"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Mouse_Eco_6_Plus_2c433069-b2e6-4b16-94d3-416eee8c431c.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/eco-6-plus-mouse"
+  }
+}

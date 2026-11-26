@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "Tenkeyless Keyboard Wrist Rest Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346758668579",
+    "product_name": "Tenkeyless Keyboard Wrist Rest Pad - Black",
+    "product_title": "Tenkeyless Keyboard Wrist Rest Pad - Black",
+    "product_url": "https://antesports.com/products/tkl-keyboard-wrist-rest-pad-143-memory-foam-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/tkl-keyboard-wrist-rest-pad-143-memory-foam-black.html",
+  "detail": {
+    "title": "Tenkeyless Keyboard Wrist Rest Pad - Black",
+    "model": "AEPP0182",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports TKL Keyboard Wrist Rest Pad is sized specifically for tenkeyless keyboards, using memory foam to cushion the palm and wrist during long typing or gaming sessions. Its non-slip base keeps the pad firmly anchored under a TKL keyboard, preventing unwanted movement while typing, and the soft, contoured top surface supports the wrist comfortably without pressure points. A practical accessory for gamers and typists using compact tenkeyless boards who still want proper ergonomic wrist support at their desk.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28.jpg",
+        "alt": "Tenkeyless Keyboard Wrist Rest Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Size": "14.3 Inch, TKL Sized",
+        "Material": "Memory Foam",
+        "Base": "Non-Slip Footpad",
+        "Use Case": "Tenkeyless Keyboard Wrist Support",
+        "Color": "Black",
+        "SIZE": "14.3 Inch, TKL Sized",
+        "MATERIAL": "Memory Foam",
+        "BASE": "Non-Slip Footpad",
+        "USE CASE": "Tenkeyless Keyboard Wrist Support",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹469.00",
+        "MRP (INR)": "₹1,399.00",
+        "SKU": "AEPP0182"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/tkl-keyboard-wrist-rest-pad-143-memory-foam-black"
+  }
+}

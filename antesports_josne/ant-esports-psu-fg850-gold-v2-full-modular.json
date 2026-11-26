@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "FG850 V2 80 Plus Gold Full Modular Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420893475",
+    "product_name": "FG850 V2 80 Plus Gold Full Modular Power Supply Unit",
+    "product_title": "FG850 V2 80 Plus Gold Full Modular Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-fg850-gold-v2-full-modular",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_316f996a-56b8-4118-b68e-c99c62bfaf16.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-fg850-gold-v2-full-modular.html",
+  "detail": {
+    "title": "FG850 V2 80 Plus Gold Full Modular Power Supply Unit",
+    "model": "AESP0364",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU FG850 Gold V2 Full Modular is a premium 850W power supply designed for next-generation gaming PCs and high-performance workstations. Featuring 80 Plus Gold certification, ATX 3.1 & PCIe 5.1 compliance, and a fully modular design, it delivers exceptional power efficiency, clean cable management, and reliable performance. Equipped with a native 450W 12VHPWR connector, multiple PCIe, SATA, and CPU power connectors, it's an ideal choice for powering modern high-end graphics cards and demanding PC builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_316f996a-56b8-4118-b68e-c99c62bfaf16.png",
+        "alt": "FG850 V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_0ac2ccca-58d3-4962-bf9d-aeb88aa76bae.png",
+        "alt": "FG850 V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_22d88590-973c-4195-8989-188ed369428d.png",
+        "alt": "FG850 V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Series": "FG V2 Series (80+ Gold)",
+        "Category": "Power Supply",
+        "Rated Wattage": "850",
+        "Rating": "80 Plus Gold",
+        "Modularity": "Fully-Modular",
+        "Compliance": "ATX 3.1, PCIe 5.1",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "2 (8-Pin)",
+        "PCIe (8-Pin)": "4",
+        "SATA": "8",
+        "Molex": "4",
+        "12VHPWR": "1 (450w)",
+        "SERIES": "FG V2 Series (80+ Gold)",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "850",
+        "RATING": "80 Plus Gold",
+        "MODULARITY": "Fully-Modular",
+        "COMPLIANCE": "ATX 3.1, PCIe 5.1",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "4",
+        "MOLEX": "4",
+        "Offer Price (INR)": "₹8,099.00",
+        "MRP (INR)": "₹11,599.00",
+        "SKU": "AESP0364"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-fg850-gold-v2-full-modular"
+  }
+}

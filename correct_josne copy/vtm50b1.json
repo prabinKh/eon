@@ -1,0 +1,144 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Villa Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Villa Door Station",
+    "tab_id": "12792",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Villa Door Station",
+      "Villa Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "102367",
+    "product_name": "VTM50B1",
+    "product_title": "Button Module",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/lite-series/vtm50b1",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211230/tm7_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vtm50b1.html",
+  "detail": {
+    "title": "Button Module",
+    "model": "VTM50B1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTM50B1 Button Module Key Points Small size, easy installation Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm7_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm5_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm6_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211230/tm8_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "System": {
+        "Button Type": "Mechanical"
+      },
+      "Performance": {
+        "Casing": "PC + ABS"
+      },
+      "General": {
+        "Appearance Color": "Light grey",
+        "Installation": "Surface Mount",
+        "Certifications": "CE/FCC",
+        "Accessory": "Included: Alarm ribbon cable, rain cover",
+        "Dimensions": "140.7 mm × 50.7 mm × 27 mm (5.54\" × 2.00\" × 1.06\")",
+        "Protection": "IP65",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Gross Weight": "0.27 kg (0.60 lb)",
+        "Net Weight": "0.08 kg (0.18 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTM50B1_datasheet_20211202.pdf"
+      },
+      {
+        "name": "2025-03-24 #User Manual Villa Door Station_User Manual_V1.0.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008443/202503/Villa_Door_Station_User_Manual_V1.0.6.pdf"
+      },
+      {
+        "name": "2025-03-24 #User Manual Video Door Phone (Version 4.7)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008443/202503/Video_Door_Phone_(Version_4.7)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-12-27 #Drawings VTM50B1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28867/drawings/1_0_01_15_11966_15705852.pdf"
+      },
+      {
+        "name": "2021-12-27 #Drawings VTM50B1_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28867/drawings/1_0_01_15_11966_15705845.pdf"
+      },
+      {
+        "name": "2021-12-27 #Drawings VTM50B1_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28867/drawings/1_0_01_15_11966_15705847.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/villa-door-station/lite-series/vtm50b1"
+  }
+}

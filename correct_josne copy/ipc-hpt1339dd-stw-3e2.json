@@ -1,0 +1,175 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Hero Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series",
+    "tab_title": "Hero Series",
+    "tab_id": "18148",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Hero Series",
+      "Hero Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "146834",
+    "product_name": "IPC-HPT1339DD-STW-3E2",
+    "product_title": "3+3MP Indoor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/ipc-hpt1339dd-stw-3e2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20241101/IPC-HPT1539DD-STW-5E2_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/ipc-hpt1339dd-stw-3e2.html",
+  "detail": {
+    "title": "3+3MP Indoor Wi-Fi Dual-Lens Pan & Tilt Camera",
+    "model": "IPC-HPT1339DD-STW-3E2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HPT1339DD-STW-3E2 3+3MP Indoor Wi-Fi Dual-Lens Pan & Tilt Camera Key Points • One-click Proactive Call • Smart Detection for Both Lenses to Focus on What Matters • Dual Lenses Offer Double the Coverage • One Camera for 360° View Without Blind Spots Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241101/IPC-HPT1539DD-STW-5E2_11_thumb.png",
+        "alt": "IPC-HPT1339DD-STW-3E2_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241101/IPC-HPT1539DD-STW-5E2_31_thumb.png",
+        "alt": "IPC-HPT1339DD-STW-3E2_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241101/IPC-HPT1539DD-STW-5E2_21_thumb.png",
+        "alt": "IPC-HPT1339DD-STW-3E2_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241101/IPC-HPT1539DD-STW-5E2_41_thumb.png",
+        "alt": "IPC-HPT1339DD-STW-3E2_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3.2'' CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator Number": "2 (IR LED); 1 (Warm light)",
+        "Angle Adjustment": "Pan: 0° to 349° Tilt: –5° to 90°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "3.6 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "H: 79°; V: 43°; D: 94°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Pet Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2304 × 1296@15 fps sub stream: 640 × 360@15 fps *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.265: 512 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11a/b/g/n/ac/ax 2.4–2.4835 GHz, 2.4 G, EIRP≤20 dBm & 5.15–5.25 GHz, 5 G, EIRP≤23 dBm@5150–5250 MHz",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "Function": {
+        "Abnormal Sound Alarm": "Yes",
+        "Privacy Mode": "Yes"
+      },
+      "General": {
+        "Certifications": "CE",
+        "Power Supply": "5 VDC",
+        "Power Consumption": "Basic: 2.3 W Max.: 5.2 W (pulling stream+ IR + PT rotation)",
+        "Operating Temperature": "–10 °C to +45 °C (–4 °F to +113 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "Φ80.9 mm × 125.7mm (3.19\" × Φ4.95\")",
+        "Net Weight": "233 g (0.51 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HPT1339DD-STW-3E2_S0_datasheet_20240929.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Network Camera (Dual-lens Pan and Tilt)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/user_manual/Network_Camera_(Dual-lens_Pan_and_Tilt)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88168/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua Dual-lens Pan and Tilt Wi-Fi Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/user_manual/Dahua_Dual-lens_Pan_and_Tilt_Wi-Fi_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2024-10-09 #A&E Document IPC-HPT1339DD-STW-3E2_A&E_20260918022716 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82447/a_e_document/1789669883646.docx"
+      },
+      {
+        "name": "2024-09-26 #Drawings IPC-HPT1339DD-STW-3E2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/drawings/1_0_01_04_49064_604210169.pdf"
+      },
+      {
+        "name": "2024-09-26 #Drawings IPC-HPT1339DD-STW-3E2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87831/drawings/1_0_01_04_49064_604210168.pdf"
+      },
+      {
+        "name": "2026-07-28 #Firmware DH_IPC-WPT-E2-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88172/firmware/DH_IPC-WPT-E2-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/hero-series/ipc-hpt1339dd-stw-3e2"
+  }
+}

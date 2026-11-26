@@ -1,0 +1,136 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Traffic Sensors",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Traffic Sensors",
+    "tab_id": "607",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Traffic Sensors",
+      "Traffic Sensors"
+    ]
+  },
+  "card_info": {
+    "product_id": "112647",
+    "product_name": "ITARD-024MA-T6",
+    "product_title": "Multilane Radar Detector",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-sensors/itard-024ma-t6",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220817/ITARD-024MA-T6_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itard-024ma-t6.html",
+  "detail": {
+    "title": "Multilane Radar Detector",
+    "model": "ITARD-024MA-T6",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITARD-024MA-T6 Multilane Radar Detector Key Points • Accurately Measures Vehicle Speed for Up to 64 Targets of 6 Lanes • Speed Measurement Range: 5 km/h–300km/h • Detection Distance: 15 m–60 m • Tracking Distance: 15 m–100 m • Water and Dust Resistant(lP66) • Certifications: OIML R91 • Sensor Performance Unaffected by Harsh Weather Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220817/ITARD-024MA-T6_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220817/ITARD-024MA-T6_2_thumb.png",
+        "alt": "ITARD-024MA-T6",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Number of Detection Targets": "64",
+        "Detection Target Type": "Vehicle",
+        "Lane Coverage": "6",
+        "Installation Height": "5 m–8 m (16.40 ft–26.25 ft)",
+        "Lane Recognition Rate": "98%",
+        "Overspeed Capture Rate": "98% (uncongested road sections)",
+        "Detection Direction": "Departing; approaching; two-way",
+        "Speed Measurement Range": "5 km/h–300km/h (16,404.20 ft/h–984,251.97 ft/h)",
+        "Speed Measurement Accuracy": "Analog speed measurement error: -2 km/h to +2 km/h (-6,561.68 ft/h to 6,561.68 ft/h) On-site speed measurement error: Vehicle speed <100 km/h ( <328,083.99 ft/h): –2 km/h to +2 km/h (–6,561.68 ft/h to 6,561.68 ft/h) Vehicle speed ≥100 km/h (≥328,083.99 ft/h): ± 2%",
+        "Detection Range": "15 m–60 m (49.21 ft–196.85 ft)",
+        "Detection Angle": "Horizontal: ±48° (3 dB) Vertical: ±28° (3 dB)",
+        "Angle Accuracy": "±0.5°",
+        "Tracking Distance": "15 m–100 m (49.21 ft–328.08 ft)",
+        "Distance Accuracy": "±1 m (±3.28 ft)",
+        "Transmit Power": "20 dbm",
+        "Transmission Frequency": "24 GHz–24.25 GHz",
+        "Bandwidth": "170 MHz",
+        "Response Time": "28 ms",
+        "Modulation": "FMCW"
+      },
+      "Function": {
+        "Wi-Fi": "Supports configuring radar parameters and commissioning the radar through Wi-Fi",
+        "Wi-Fi Standard": "IEEE802.11b/g/n",
+        "Wi-Fi Frequency Range": "2.4 GHz–2.5 GHz (2400 MHz–2483.5 MHz)",
+        "Wi-Fi Power Transmission": "802.11b: +20 dBm 802.11g: +17 dBm 802.11n: +14 dBm"
+      },
+      "Port": {
+        "RS-485": "1, shielded twisted pair",
+        "Network Port": "1 × RJ-45, 10/100 Mbps Ethernet"
+      },
+      "General": {
+        "Power Supply": "9–15 VDC",
+        "Power Consumption": "<7.2 W",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Certification": "OIML R91",
+        "Product Dimensions": "195.9 mm × 168 mm × 154.2 mm (7.71'' × 6.61'' × 6.07'') (L × W × H)",
+        "Protection": "IP66",
+        "Packaging Dimensions": "538 mm × 458 mm × 415 mm (21.18'' × 18.03'' × 16.34'') (L × W × H)",
+        "Net Weight": "1.5 kg (3.31 lb)",
+        "Gross Weight": "1.9 kg (4.19 lb)",
+        "Installation": "Center mount; side mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITARD-024MA-T6_datasheet_20240730.pdf"
+      },
+      {
+        "name": "2025-12-11 #User Manual Dahua Multi-target Speed Measuring Radar_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006651/3493253/Dahua_Multi-target_Speed_Measuring_Radar_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-08-23 #A&E Document ITARD-024MA-T6_A&E_20260904163350 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49767/a_e_document/1788511843123.docx"
+      },
+      {
+        "name": "2022-07-27 #Drawings ITARD-024MA-T6_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49767/drawings/ITARD-024MA-T6_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-07-27 #Drawings ITARD-024MA-T6_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49767/drawings/ITARD-024MA-T6_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-sensors/itard-024ma-t6"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Thunder20 TKL Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791968035",
+    "product_name": "Thunder20 TKL Keyboard & Mouse Combo - Black",
+    "product_title": "Thunder20 TKL Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/thunder20-tkl-combo-brown-switch-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_d5921871-4280-4b0c-ba23-8c7b6c19991f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/thunder20-tkl-combo-brown-switch-black.html",
+  "detail": {
+    "title": "Thunder20 TKL Keyboard & Mouse Combo - Black",
+    "model": "AEPP0292",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Thunder20 pairs a compact TKL mechanical keyboard with a 6-button gaming mouse in a full RGB-lit combo built for gaming and productivity alike. Twenty-six anti-ghosting keys with tactile Brown switches ensure accurate multi-key input during intense gameplay, while rainbow backlighting across both keyboard and mouse adds a vibrant, immersive visual layer to any setup. The included mouse offers up to 3600 DPI for precise, responsive cursor movement, and USB plug-and-play connectivity means both devices work instantly on PC and laptop with no drivers required.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_d5921871-4280-4b0c-ba23-8c7b6c19991f.png",
+        "alt": "Thunder20 TKL Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Layout": "TKL, 26 Anti-Ghosting Keys",
+        "Switch Type": "Brown Tactile",
+        "Mouse DPI": "Up to 3600",
+        "Mouse Buttons": "6",
+        "Lighting": "Rainbow RGB",
+        "Color": "Black",
+        "KEYBOARD LAYOUT": "TKL, 26 Anti-Ghosting Keys",
+        "SWITCH TYPE": "Brown Tactile",
+        "MOUSE DPI": "Up to 3600",
+        "MOUSE BUTTONS": "6",
+        "LIGHTING": "Rainbow RGB",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,899.00",
+        "MRP (INR)": "₹4,499.00",
+        "SKU": "AEPP0292"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/thunder20-tkl-combo-brown-switch-black"
+  }
+}

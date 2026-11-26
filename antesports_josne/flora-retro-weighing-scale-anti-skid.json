@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Flora Retro Weighing Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816859427",
+    "product_name": "Flora Retro Weighing Scale",
+    "product_title": "Flora Retro Weighing Scale",
+    "product_url": "https://antesports.com/products/flora-retro-weighing-scale-anti-skid",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/76.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/flora-retro-weighing-scale-anti-skid.html",
+  "detail": {
+    "title": "Flora Retro Weighing Scale",
+    "model": "ANTR0102",
+    "brand": "Ant Esports",
+    "overview": "The Ant Flora Retro is a personal bathroom weighing scale finished with a tempered glass top and high-precision sensors for stable, accurate readings every time. Its anti-skid base keeps the scale securely in place on bathroom floors, reducing the risk of slipping during use, while a clear LCD display and auto on/off function round out a genuinely practical everyday scale. A dependable, retro-styled option for anyone who wants reliable body weight tracking without unnecessary complexity.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/76.png",
+        "alt": "Flora Retro Weighing Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Platform": "Tempered Glass",
+        "Sensors": "High Precision",
+        "Base": "Anti-Skid",
+        "Display": "LCD, Auto On/Off",
+        "PLATFORM": "Tempered Glass",
+        "SENSORS": "High Precision",
+        "BASE": "Anti-Skid",
+        "DISPLAY": "LCD, Auto On/Off",
+        "Offer Price (INR)": "₹319.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0102"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/flora-retro-weighing-scale-anti-skid"
+  }
+}

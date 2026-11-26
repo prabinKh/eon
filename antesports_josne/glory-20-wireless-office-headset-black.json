@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "Glory 20 Wireless Office Headset - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444754723",
+    "product_name": "Glory 20 Wireless Office Headset - Black",
+    "product_title": "Glory 20 Wireless Office Headset - Black",
+    "product_url": "https://antesports.com/products/glory-20-wireless-office-headset-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/27_0a1d9483-f2c2-42c0-b91e-349e69a114b6.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/glory-20-wireless-office-headset-black.html",
+  "detail": {
+    "title": "Glory 20 Wireless Office Headset - Black",
+    "model": "ANTR0151",
+    "brand": "Ant Esports",
+    "overview": "The Ant Glory 20 is a professional Bluetooth 5.4 wireless office headset built for work calls, Zoom meetings and everyday productivity away from a wired desk setup. Up to 30 hours of playtime per charge keeps it running through full workdays without needing a mid-shift top-up, and Type-C fast charging gets it back to full quickly when needed. Powerful bass and a lightweight on-ear design make it comfortable for both calls and casual music listening, while a built-in microphone ensures clear communication on video calls and conferences. A practical, wire-free upgrade for anyone who spends their day moving between calls, meetings and focused work.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/27_0a1d9483-f2c2-42c0-b91e-349e69a114b6.jpg",
+        "alt": "Glory 20 Wireless Office Headset - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth 5.4",
+        "Battery Life": "Up to 30 Hours",
+        "Charging": "Type-C Fast Charging",
+        "Use Case": "Work, Home, Zoom Meetings & Calls",
+        "Color": "Black",
+        "CONNECTIVITY": "Bluetooth 5.4",
+        "BATTERY LIFE": "Up to 30 Hours",
+        "CHARGING": "Type-C Fast Charging",
+        "USE CASE": "Work, Home, Zoom Meetings & Calls",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,999.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "ANTR0151"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/glory-20-wireless-office-headset-black"
+  }
+}

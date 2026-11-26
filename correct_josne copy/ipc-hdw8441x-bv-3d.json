@@ -1,0 +1,189 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 8 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series",
+    "tab_title": "Dual-Lens Series",
+    "tab_id": "8772",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 8 Series",
+      "Dual-Lens Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "139017",
+    "product_name": "IPC-HDW8441X-BV-3D",
+    "product_title": "4MP WizMind Dual-Lens Stereo Analysis Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/dual-lens-series/ipc-hdw8441x-bv-3d",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_42099/ProductImage/1_0_01_04_42099_313473013_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdw8441x-bv-3d.html",
+  "detail": {
+    "title": "4MP WizMind Dual-Lens Stereo Analysis Network Camera",
+    "model": "IPC-HDW8441X-BV-3D",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDW8441X-BV-3D 4MP WizMind Dual-Lens Stereo Analysis Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • Built-in Mic & Speaker: Secure Real-Time Talk • Binocular Stereo Vision and Deep Learning Algorithms for Improved Detection Accuracy • Supports 8 Types of Behavioral Analysis Event Detection • Privacy Protection Supports Auto-masks Faces or Bodies with Mosaic for Privacy • Supports Height Self-adaptation and Height Filtering • Built-in IR LED, the Max. Illumination Distance is 20 m • IP67 and IK10 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_42099/ProductImage/1_0_01_04_42099_313473013_crop_thumb.png",
+        "alt": "IPC-HDW8441X-BV-3D_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_42099/ProductImage/1_0_01_04_42099_313473015_crop_thumb.png",
+        "alt": "IPC-HDW8441X-BV-3D_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "ROM": "4 GB",
+        "RAM": "2 GB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "2.0 mm: 0.005 lux@F2.0 (Color,30 IRE) 0.0005 lux@F2.0 (B/W,30 IRE) 0 lux (Illuminator on) 2.8 mm: 0.005 lux@F1.6(Color, 30 IRE) 0.0005 lux@F1.6 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "Up to 20 m (65.62 ft) (IR)",
+        "Illuminator On/Off Control": "Auto;Manual",
+        "Illuminator Number": "1 (IR LED)",
+        "Angle Adjustment": "Tilt: -10° to 70°",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm;2.0 mm",
+        "Max. Aperture": "2.0 mm: F2.0 2.8 mm: F1.6",
+        "Field of View": "2.0 mm: H: 108°; V: 74°; D: 117° 2.8 mm: H: 87°; V: 55°; D: 97°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.0 mm: 0.4 m (1.31 ft) 2.8 mm: 1.1 m (3.61 ft)",
+        "DORI Distance": "Lens",
+        "2.0 mm": "44.8 m (146.98 ft)",
+        "2.8 mm": "63.6 m (208.66 ft)",
+        "IVS": "Abandoned object; missing object",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; fast moving (the three functions support the classification and accurate detection of vehicle and human); parking detection; people gathering; loitering detection; privacy protection",
+        "Stereo Analysis": "Crossing warning line; warning area intrusion; running detection (only supported by inclined mount cameras); people approaching detection; violence detection (including fighting and smashing); fall detection; abnormal number of people detection; people stay detection; privacy protection; height filtering",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos.",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "AI Coding": "AI H.265; AI H.264 *Includes smart codec technology, Smart H.265+ and Smart H.264+",
+        "Video Frame Rate": "Main stream: 2688 × 1520@(1–25/30 fps) sub stream: 1920 × 1080@(1–25/30 fps) third stream: 1920 × 1080@(1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "3 streams",
+        "Resolution": "4M (2688 × 1520/2560 × 1440); 3M (2048 × 1536/2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "ABR;CBR;VBR",
+        "Video Bit Rate": "H.264: 3 kbps–8192 kbps H.265: 3 kbps–8192 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "DWDR",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Smart Illumination": "Yes",
+        "Defog": "Yes",
+        "Privacy Masking": "8 areas",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726; G.723",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; voltage detection; illegal access; motion detection; video tampering; scene changing; audio detection; tripwire; intrusion; fast moving; abandoned object; missing object; loitering detection; people gathering; parking detection; crossing warning line; warning area intrusion; running detection; abnormal number of people detection; fall detection; people approaching detection; violence detection; people stay detection",
+        "Network Port": "RJ-45 (10/100/1000 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP ; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; SNMP; auto registration",
+        "Interoperability": "ONVIF (Profile S; Profile G; Profile T); P2P; CGI",
+        "User/Host": "20",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 512 GB); NAS",
+        "Browser": "IE: IE 9 and later Chrome: Chrome 41 and later Firefox: Firefox 50 and later Safari: Safari 10 and later",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "iOS;Android",
+        "Security": "Trusted execution;Session security;Digest;Security logs;WSSE;Account lockout;Security warning;syslog;802.1x;IP/MAC filtering;HTTPS;Trusted upgrade;Trusted boot;Generation and importing of X.509 certification",
+        "Certifications": "CE-LVD: EN62368-1 CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU",
+        "RS-485": "1 (baud rate range: 1200 bps–115200 bps)",
+        "Audio Input": "2 channels (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "2 channels in: wet contact, 5 mA 3–5 VDC",
+        "Alarm Output": "2 channels out: wet contact, 300 mA 12VDC",
+        "Analog Output": "1 channel (CVBS output: BNC)",
+        "Power Output": "12 VDC power output, max. current 165 mA, peak current 700 mA",
+        "Power Supply": "12 VDC/PoE (802.3af)/ePoE",
+        "Power Consumption": "Basic: 5.9 W (12 VDC), 7 W (PoE); Max. (intelligence on + IR intensity + turn on the speaker+ power output): 10.8 W (12 VDC), 12.9 W (PoE)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP67; IK10",
+        "Casing Material": "Metal",
+        "Product Dimensions": "204.0 mm × 78.0 mm × 61.6 mm (8.03\" × 3.07\" × 2.43\") (L × W × H)",
+        "Net Weight": "0.82 kg (1.81 lb)",
+        "Gross Weight": "1.14 kg (2.51 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78387/datasheet/IPC-HDW8441X-BV-3D_S0_datasheet_20251223.pdf"
+      },
+      {
+        "name": "2026-01-21 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-21 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-01-21 #User Manual Dual-lens Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59437/user_manual/Dual-lens_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-01-21 #User Manual Dahua Stereo Vision Network Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59437/user_manual/Dahua_Stereo_Vision_Network_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-11-14 #A&E Document IPC-HDW8441X-BV-3D_A&E_20260918002915 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78387/a_e_document/1789662683532.docx"
+      },
+      {
+        "name": "2023-10-08 #Drawings IPC-HDW8441X-BV-3D_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78387/drawings/1_0_01_04_42099_28671337.pdf"
+      },
+      {
+        "name": "2023-10-08 #Drawings IPC-HDW8441X-BV-3D_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78387/drawings/1_0_01_04_42099_1865730168.pdf"
+      },
+      {
+        "name": "2026-09-14 #Firmware DH_IPC-HX8(7)XXX-E2-Faraday_MultiLang_PN_V3.140.0000000.46.R.260828 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78387/firmware/DH_IPC-HX8(7)XXX-E2-Faraday_MultiLang_PN_V3.140.0000000.46.R.260828.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/dual-lens-series/ipc-hdw8441x-bv-3d"
+  }
+}

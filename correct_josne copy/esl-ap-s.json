@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "ESL",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/esl",
+    "series": "S Series AP Station",
+    "series_url": "https://www.dahuasecurity.com/my/products/security-screening-&-esl-&-eas/esl/s-series-ap-station",
+    "tab_title": "S Series AP Station",
+    "tab_id": "18226",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "ESL",
+      "S Series AP Station",
+      "S Series AP Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "152928",
+    "product_name": "ESL-AP-S",
+    "product_title": "Electronic Shelf Label AP Station",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/esl/s-series-ap-station/esl-ap-s",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10941/ProductImage/1_9_03_09_10941_622065145_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/esl-ap-s.html",
+  "detail": {
+    "title": "Electronic Shelf Label AP Station",
+    "model": "ESL-AP-S",
+    "brand": "Dahua",
+    "overview": "Favourite ESL-AP-S Electronic Shelf Label AP Station Key Points BLUE TOOTH ACCESS POINT Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_03_09_10941/ProductImage/1_9_03_09_10941_622065145_thumb.png",
+        "alt": "ESL-AP-S_View_Front-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ESL-AP-S",
+        "Technology": "Wi-Fi",
+        "Operating Frequency": "WiFi-2.4 Ghz: IEEE 802.11b/g/n/ac/ax MIMO 2x2 2.4~2.4835 GHz WiFi-5.8 Ghz: IEEE 802.11a/n/ac/ax MIMO 2x2 5.15~5.850 GHz",
+        "Coverage": "25m radius indoors"
+      },
+      "Certifications": {
+        "Certifications": "CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU"
+      },
+      "Processor": {
+        "CPU Main Frequency": "880 MHz",
+        "Chip Solution": "Dual-core MIPS1004Kc (880MHz), with HNAT/HQoS/ Samba/ VPN accelerators"
+      },
+      "Input&Output Port": {
+        "LAN": "RJ-45,POE IEEE 802.11 af,IEEE 802.3,10/100/1000Mbps auto-sensing MDI",
+        "DC": "Yes",
+        "WAN/POE": "Yes"
+      },
+      "Dimensions&pPackaging": {
+        "Bare Machine Dimensions": "195 mm × 195 mm × 42 mm (7.68”× 7.68”× 1.65”)",
+        "Packaging Dimensions": "524 mm × 222 mm × 62.5 mm (20.63”× 8.74” × 2.46”)",
+        "Gross Weight": "890 g (1.96 lb)",
+        "Net Weight": "612 g (1.35 lb)",
+        "Packaging": "1 PCS/Carton"
+      },
+      "Function": {
+        "Memory": "16M FLASH + 512M RAM",
+        "Power Supply": "48 V PoE",
+        "Automatic Access": "Yes",
+        "Frequency-hopping Technology": "Yes",
+        "BLE Private Protocol": "Yes",
+        "Warranty (month)": "12",
+        "Transmission Frequency": "1775Mbps",
+        "Operating Temperature": "–10 °C to 60 °C (14 °F to 140 °F)",
+        "Installation": "Ceiling-mounted"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ESL-AP-S_datasheet_20240710.pdf"
+      },
+      {
+        "name": "2025-12-27 #User Manual Supermarket anti-theft product_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85215/user_manual/Supermarket_anti-theft_product_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/esl/s-series-ap-station/esl-ap-s"
+  }
+}

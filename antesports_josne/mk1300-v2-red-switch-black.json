@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK1300 V2 Red Switch – Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346757914915",
+    "product_name": "MK1300 V2 Red Switch – Black",
+    "product_title": "MK1300 V2 Red Switch – Black",
+    "product_url": "https://antesports.com/products/mk1300-v2-red-switch-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_B_96b8a766-6119-434c-b9ab-86427bd720b3.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1300-v2-red-switch-black.html",
+  "detail": {
+    "title": "MK1300 V2 Red Switch – Black",
+    "model": "AEPP0279",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1300 V2 is a 60% compact mechanical keyboard with 61 keys, ideal for gamers who want fast, linear keystrokes in a space-saving footprint. Its hot-swappable Outemu Red switches deliver a smooth, linear feel with quick actuation, well suited to FPS and fast-paced competitive titles, and can be swapped without soldering for future customization. Per-key RGB backlighting lights up every keycap individually with adjustable effects, while full anti-ghosting and N-key rollover ensure every input is registered accurately during intense gameplay. A detachable 1.5m braided USB-C cable adds durability, and the keyboard is rated for 50 million keystrokes, finished in a sturdy matte-black shell that suits any gaming desk.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_B_96b8a766-6119-434c-b9ab-86427bd720b3.png",
+        "alt": "MK1300 V2 Red Switch – Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_B_08872237-9d3c-4945-9af8-bea1f044565a.png",
+        "alt": "MK1300 V2 Red Switch – Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_B_55f938a5-445b-471f-98b4-a9d64fe6b286.png",
+        "alt": "MK1300 V2 Red Switch – Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_B_eb1b32b1-c839-436c-8f1b-1fce745f3298.png",
+        "alt": "MK1300 V2 Red Switch – Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_69f0ab21-9344-4305-95d4-7f54332cdff4.png",
+        "alt": "MK1300 V2 Red Switch – Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_c8b9c8d3-c997-49e3-bb51-39a19a1706ea.png",
+        "alt": "MK1300 V2 Red Switch – Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "General": {
+        "Layout": "60%, 61 Keys",
+        "Switch Type": "Outemu Red, Hot-Swappable",
+        "Lighting": "Per-Key RGB",
+        "Cable": "Detachable 1.5m Braided USB-C",
+        "Durability": "50 Million Keystrokes",
+        "Color": "Black",
+        "LAYOUT": "60%, 61 Keys",
+        "SWITCH TYPE": "Outemu Red, Hot-Swappable",
+        "LIGHTING": "Per-Key RGB",
+        "CABLE": "Detachable 1.5m Braided USB-C",
+        "DURABILITY": "50 Million Keystrokes",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,799.00",
+        "MRP (INR)": "₹4,199.00",
+        "SKU": "AEPP0279"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (MK1300)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1300-V21-0-0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1300-v2-red-switch-black"
+  }
+}

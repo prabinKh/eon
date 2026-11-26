@@ -1,0 +1,174 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series",
+    "tab_title": "NVR 5-EI Series",
+    "tab_id": "15297",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "WizSense Series",
+      "NVR 5-EI Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "121957",
+    "product_name": "NVR5208-EI",
+    "product_title": "Dahua 8CH 2HDD 1U NETWORK VIDEO RECORDER",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr-5-ei-series/nvr5208-ei",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5208-EI_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr5208-ei.html",
+  "detail": {
+    "title": "Dahua 8CH 2HDD 1U NETWORK VIDEO RECORDER",
+    "model": "NVR5208-EI",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR5208-EI Dahua 8CH 2HDD 1U NETWORK VIDEO RECORDER Key Points • Max. 384/384/384 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 32 × 1080p@30 fps • IP Cameras Resolution Up to 32MP • 4K HDMI Output • 2 Bays. Each HDD Storage Capacity Up to 20TB • AI by Recorder: 2-ch Face Detection and Recognition, 8-ch SMD, 4-ch Perimeter Protection • N+M Cluster, iSCSI Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5208-EI_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5208-EI_3_thumb.png",
+        "alt": "NVR5208-EI",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230113/NVR5208-EI_2_thumb.png",
+        "alt": "NVR5208-EI",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Operating Interface": {},
+      "AI by Recorder": {},
+      "AI by Camera": {},
+      "AcuPick Performance of AI by Camera (Number of Channels)": {},
+      "Perimeter Performance AI by Recorder (Number of Channels)": {},
+      "Perimeter Performance of AI by Camera (Number of Channels)": {},
+      "Face Attributes": {},
+      "Face Detection Performance of AI by Recorder (Number of Channels)": {},
+      "Face Detection Performance of AI by Camera (Number of Channels)": {},
+      "Face Database Capacity": {},
+      "Face Recognition Performance of AI by Recorder (Number of Channels)": {},
+      "Face Recognition Performance of AI by Camera (Number of Channels)": {},
+      "SMD Plus by Recorder": {},
+      "SMD by Camera": {},
+      "Metadata Performance of AI by Camera (Number of Channels)": {},
+      "Human Attributes": {},
+      "Motor Vehicle Attributes": {},
+      "Non-motor Vehicle Attributes": {},
+      "ANPR by Camera (Number of Channels)": {},
+      "License Plate Database Capacity": {},
+      "Access Channel": {},
+      "Network Bandwidth": {},
+      "Resolution": {},
+      "Decoding Capability": {},
+      "Video Output": {},
+      "Multi-screen Display": {},
+      "Third-party Camera Access": {},
+      "Video Compression": {},
+      "Audio Compression": {},
+      "Network Protocol": {},
+      "Mobile Phone Access": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Multi-channel Playback": {},
+      "Record Mode": {},
+      "Backup Method": {},
+      "Playback Mode": {},
+      "Disk Group": {},
+      "General Alarm": {},
+      "Anomaly Alarm": {},
+      "Intelligent Alarm": {},
+      "Alarm Linkage": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Disk Interface": {},
+      "RS-232": {},
+      "RS-485": {},
+      "USB": {},
+      "HDMI": {},
+      "VGA": {},
+      "Network Port": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64587/datasheet/NVR5208-EI_S0_datasheet_20260115.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual HDD INSTALLATION GUIDE_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Dahua Network Video Recorder_User Manual_V2.4.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Dahua_Network_Video_Recorder_User_Manual_V2.4.2.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Network Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-01-06 #A&E Document NVR5208-EI_A&E_20260924151406 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64587/a_e_document/1790234467352.docx"
+      },
+      {
+        "name": "2023-03-28 #Drawings NVR5208-EI_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64567/drawings/NVR5232-EI_PORT.pdf"
+      },
+      {
+        "name": "2023-03-28 #Drawings NVR5208-EI_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64567/drawings/NVR5232-EI_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-04-19 #Firmware DH_NVR5XXX-EI_MultiLang_V5.001.0000000.2.R.260331 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64757/firmware/DH_NVR5XXX-EI_MultiLang_V5.001.0000000.2.R.260331.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr-5-ei-series/nvr5208-ei"
+  }
+}

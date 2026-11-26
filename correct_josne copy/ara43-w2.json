@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "100497",
+    "product_name": "ARA43-W2",
+    "product_title": "Alarm Repeater",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara43-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211028/1_0_01_19_10586_525919144_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara43-w2.html",
+  "detail": {
+    "title": "Alarm Repeater",
+    "model": "ARA43-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARA43-W2 Alarm Repeater Key Points · Extending communication range Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211028/1_0_01_19_10586_525919144_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211028/1_0_01_19_10586_525919143_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211028/1_0_01_19_10586_525919145_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Input/Output": {
+        "Wireless Zone": "128 × wireless peripherals"
+      },
+      "Port": {
+        "Storage Battery": "Built-in lithium battery",
+        "Indicator Light": "1 that indicates pairing and working",
+        "Power Switch": "1 × power switch"
+      },
+      "Function": {
+        "Pairing Mode": "Auto/Manual",
+        "Tamper Alarm": "Yes",
+        "Remote Update": "Cloud update",
+        "Power Failure Protection for Configured Parameters": "Yes",
+        "Disconnection Detection of External Power Supply": "Yes",
+        "Low Battery Alarm": "Yes",
+        "Search": "Signal strength detection"
+      },
+      "Wireless": {
+        "Carrier Frequency": "433.1 MHz–434.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 10 mW",
+        "Communication Distance": "Up to 1000 m (3280.84 ft) in an open space",
+        "Communication Mechanism": "Two-way",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 1.5 A",
+        "Battery Life": "Battery standby time: 35 h",
+        "Operating environment": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "163.0 mm × 163.0 mm × 32.0 mm (6.42\" × 6.42\" × 1.26\")",
+        "Packaging Dimensions": "219.0 mm × 187.0 mm × 91.0 mm (8.62\" × 7.36\" × 3.58\")",
+        "Installation": "Wall mount; Desktop",
+        "Net Weight": "0.32 kg (0.71 lb)",
+        "Gross Weight": "0.74 kg (1.63 lb)",
+        "Certifications": "CE",
+        "Casing": "PC+ABS"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARA43-W2_S0_datasheet_20250402.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Alarm Repeater_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005726/202507/Alarm_Repeater_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Dahua Alarm Repeater_User's Manual_V1.5.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005726/202507/Dahua_Alarm_Repeater_User_s_Manual_V1.5.0.pdf"
+      },
+      {
+        "name": "2021-09-28 #Drawings ARA43-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27617/drawings/1_0_01_19_10586_2142457662.pdf"
+      },
+      {
+        "name": "2021-09-28 #Drawings ARA43-W2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27617/drawings/1_0_01_19_10586_2142457659.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara43-w2"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK720 V2 TKL Keyboard - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791738659",
+    "product_name": "MK720 V2 TKL Keyboard - White",
+    "product_title": "MK720 V2 TKL Keyboard - White",
+    "product_url": "https://antesports.com/products/mk720-v2-tkl-keyboard-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22_819c9ffb-8705-4fd7-9513-597fce1316ec.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk720-v2-tkl-keyboard-white.html",
+  "detail": {
+    "title": "MK720 V2 TKL Keyboard - White",
+    "model": "AEPP0275",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK720 Pro V2 is a 75% compact TKL keyboard with dedicated navigation keys, optimizing desk space while retaining arrow keys and essential navigation for gaming and productivity. Mechanical switch performance delivers fast, precise keystrokes with tactile feedback, while a water-resistant, quiet-typing design suits both office and gaming use across PC, PS5, PS4, Xbox One and Mac. A long-lasting battery keeps it running through extended sessions without frequent recharging, finished here in a clean white shell for a modern, bright desk look.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22_819c9ffb-8705-4fd7-9513-597fce1316ec.jpg",
+        "alt": "MK720 V2 TKL Keyboard - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "75% TKL",
+        "Design": "Water Resistant, Quiet",
+        "Battery": "Long-Lasting",
+        "Compatibility": "PC, PS5, PS4, Xbox One, Mac",
+        "Color": "White",
+        "LAYOUT": "75% TKL",
+        "DESIGN": "Water Resistant, Quiet",
+        "BATTERY": "Long-Lasting",
+        "COMPATIBILITY": "PC, PS5, PS4, Xbox One, Mac",
+        "COLOR": "White",
+        "SKU": "AEPP0275"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk720-v2-tkl-keyboard-white"
+  }
+}

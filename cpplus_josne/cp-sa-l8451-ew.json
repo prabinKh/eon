@@ -1,0 +1,93 @@
+{
+  "hierarchy": {
+    "category": "Illuminators",
+    "category_url": "https://cpplusworld.com/products/illuminators",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/illuminators",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "88",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Illuminators",
+      "CP-SA-L8451-EW"
+    ]
+  },
+  "card_info": {
+    "product_id": "475",
+    "product_name": "CP-SA-L8451-EW",
+    "product_title": "CP-SA-L8451-EW-IR Illuminator - 80 Meter | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-sa-l8451-ew",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/1d463919-a2bf-4d83-a763-b8ab21e0a115.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-sa-l8451-ew.html",
+  "detail": {
+    "title": "CP-SA-L8451-EW-IR Illuminator - 80 Meter | Cp Plus | Cpplusworld.com",
+    "model": "CP-SA-L8451-EW",
+    "brand": "CP Plus",
+    "overview": "IR Illuminator",
+    "features": [
+      "To improve performance of the weak light camera, thereby enhancing the picture effects at night.",
+      "The function of video analysis at night.",
+      "Conventional night monitoring.",
+      "Reduce signal noise and other image distortion.",
+      "Reduce the network bandwidth requirements.",
+      "Energy saving by power factor correction.",
+      "Reduce the equipment cost.",
+      "Lower cost of installing and wiring."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1d463919-a2bf-4d83-a763-b8ab21e0a115.jpg",
+        "alt": "CP-SA-L8451-EW - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ff4be0d6-9bab-4a2d-be24-160e95f87d44.jpg",
+        "alt": "CP-SA-L8451-EW - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "Aluminium",
+        "Mount": "Wall mouting",
+        "LED Type": "9pcs 2W dot-matrix IR LED",
+        "Panel": "High light transmittance toughened glass",
+        "BeamAngle": "45°",
+        "Day and night switch": "Auto (build in photocell)",
+        "IR": "80Mtr., 120Mtr.(CP-SA-L8451-EW-V2*)",
+        "Operating Temperature": "-40°C to 50°C",
+        "Power Consumption": "24W (850nm)",
+        "Cable Length": "RJ45 jack with Cat.5e 50cm",
+        "Net Weight(g)": "1.4kg",
+        "Dimension": "130mm x 105mm x 85mm",
+        "Power Source": "PoE IEEE 802.3at",
+        "Weatherproof Standard": "IP67 & IK10"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-SA-L8451-EW.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-sa-l8451-ew"
+  }
+}

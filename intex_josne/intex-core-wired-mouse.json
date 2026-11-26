@@ -1,0 +1,133 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://www.intex.in/collections/mouse",
+    "series": "USB Wired Mouse",
+    "series_url": "https://www.intex.in/collections/usb-wired-mouse",
+    "tab_title": "Mouse",
+    "tab_id": "9383144882394",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Mouse",
+      "Intex Core Wired Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "9383144882394",
+    "product_name": "Intex Core Wired Mouse",
+    "product_title": "Intex Core Wired Mouse",
+    "product_url": "https://www.intex.in/products/intex-core-wired-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_1c70ee8c-5ff5-4554-b8ab-1e6b0cabe5ae.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 249.0,
+      "display": "₹249.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-core-wired-mouse.html",
+  "detail": {
+    "title": "Intex Core Wired Mouse",
+    "model": "Core Wired Mouse",
+    "brand": "Intex",
+    "overview": "Experience reliable and effortless computing with the Intex Core Wired Mouse, designed for smooth navigation and everyday performance. Equipped with optical tracking technology, this mouse delivers accurate cursor control and high precision for work, browsing, and entertainment. The USB plug & play interface ensures quick and easy connectivity without requiring any additional setup. Its ergonomic design provides comfortable handling for long working hours, while the smooth scroll wheel enhances browsing and navigation. With a durable wired connection and stylish black finish, the Intex Core Wired Mouse is an ideal choice for home, office, and professional use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_1c70ee8c-5ff5-4554-b8ab-1e6b0cabe5ae.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_7373e048-b663-46d1-8a48-756680878545.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_d134dbc7-1d00-4d58-b6f6-1cfcb0380367.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_835d35fc-345e-45bb-b53e-7ea0345dc205.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_9b31040b-4d50-4582-8de7-6eef8c32fa7d.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_bf7a89d2-60e3-4959-b4b2-76517fb2425f.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_9e028c57-07e0-476b-9c95-df763fbc80c1.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/8_ea6303db-ae96-4900-8449-9d5b7fc9214c.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9_c23028c2-7899-4b6f-8961-181f4c1e22c3.jpg",
+        "alt": "Intex Core Wired Mouse",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "General": {
+        "Product Type": "Wired Mouse",
+        "Brand": "Intex",
+        "Model Name": "Core Wired Mouse",
+        "Connectivity": "USB Wired Interface",
+        "Technology": "Optical Tracking Technology",
+        "Design": "Ergonomic Comfort Design",
+        "Scrolling": "Smooth Scroll Wheel",
+        "Precision": "High Precision Tracking",
+        "Compatibility": "Laptop, Desktop, PC & Other USB Enabled Devices",
+        "Installation": "Plug & Play – No Driver Required",
+        "Usage": "Home, Office & Daily Computing",
+        "Color": "Black",
+        "Features": "Accurate Tracking, Comfortable Grip, Easy Connectivity",
+        "MRP": "₹249/- (Inclusive of All Taxes)",
+        "Model": "Core Wired Mouse"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Wired_Core_Mouse_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-core-wired-mouse"
+  }
+}

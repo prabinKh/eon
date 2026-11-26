@@ -1,0 +1,125 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Data Collection Station",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station",
+    "tab_title": "Data Collection Station",
+    "tab_id": "118256",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Data Collection Station",
+      "Data Collection Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "154973",
+    "product_name": "EEC300D8-N1",
+    "product_title": "Data Collection Station/Data Collection Module with Type-C interface",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec300d8-n1=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/image/1_0_01_01_16587_848055550_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/eec300d8-n1-v2.html",
+  "detail": {
+    "title": "Data Collection Station/Data Collection Module with Type-C interface",
+    "model": "EEC300D8-N1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EEC300D8-N1 Data Collection Station/Data Collection Module with Type-C interface Key Points 1. Data Collection Module of Wall-mounted Data Collection Station; 2. Electronic lock design for each dock which can be unlocked only by authorized users; 3. Mechanical lock at the bottom which can be used to unlock docks; 4. EEC300D8-N1 must connect to a Control Module EEC300, can't work separately; 5. Type C USB cable. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/image/1_0_01_01_16587_848055550_crop_thumb.PNG",
+        "alt": "EEC300D8-N1_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "Basic Parameters": {
+        "Dock": "8",
+        "USB Cable": "8 × Type-C cables",
+        "Key Lock": "1 (open all docks at the same time)",
+        "Indicator Light": "Yes. Blue & red indicator. Two indicators for each dock (one for data collection, and one for charging indication)",
+        "Extension (Male/Female)": "2 on each side (for connecting control module or expanding data connection module)"
+      },
+      "Function": {
+        "One-tap Unlock": "Yes. One-tap on EEC300 to unlock all docks.",
+        "Single-dock Unlock": "Yes. Support unlock single dock through EEC300.",
+        "Unlock by Key": "Each data collection module can be unlocked though the lock at the bottom.",
+        "Unlock after Power-off (Battery)": "Yes. The built-in lithium battery in EEC300 enables unlocking of all docks through the lock at the bottom of EEC300D8-N1 for 10 days in case the EEC300 turns off.",
+        "Device Access Status Indication": "Yes",
+        "Auto Collection": "Yes",
+        "Priority Collection": "Yes. Docks in the first row can be configured to have faster download speed than others when EEC300 connect more than one EEC300D8-N1.",
+        "Collection Speed": "Total bandwidth: Max. 128 MB/s"
+      },
+      "General": {
+        "Power Supply": "Powered by the extension port of the control module",
+        "Micro USB Charging Port": "Supports overloading protection.Each output is 5 V/1.5 A",
+        "Product Dimensions": "630 mm × 280 mm × 147.2 mm (24.80\" × 11.02\" × 5.80\")",
+        "Packaging Dimensions": "750.0 mm × 400.0 mm × 262.0 mm (29.53\" × 15.75\" × 10.31\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–90% (non-condensing)",
+        "Operating Environment": "Indoor",
+        "Net Weight": "8.36 kg (18.43 lb)",
+        "Gross Weight": "10.65 kg (23.48 lb)",
+        "Installation": "Wall mounted with Control Module; top and ground distance: 1.6 m–1.8 m (5.25 ft–5.91 ft)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/datasheet/DH-EEC300D8-N1_V2_datasheet_20250220.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Extension Station_Installation Instruction_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/user_manual/Extension_Station_Installation_Instruction_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Data Collection Station_User Manual_V2.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/user_manual/Data_Collection_Station_User_Manual_V2.1.0.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Main Station_Installation Instruction_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/user_manual/Main_Station_Installation_Instruction_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-15 #Drawings EEC300D8-N1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/drawings/1_0_01_01_16587_523421666.pdf"
+      },
+      {
+        "name": "2025-08-20 #Drawings EEC300D8-N1_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/drawings/1_0_01_01_16587_843735655.pdf"
+      },
+      {
+        "name": "2025-08-20 #Drawings EEC300D8-N1_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/drawings/1_0_01_01_16587_843735654.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec300d8-n1=v2"
+  }
+}

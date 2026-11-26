@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H525 Pro RGB Wired Gaming Headset"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421516067",
+    "product_name": "H525 Pro RGB Wired Gaming Headset",
+    "product_title": "H525 Pro RGB Wired Gaming Headset",
+    "product_url": "https://antesports.com/products/ant-esports-h525-pro-rgb-wired-gaming-headset",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_979aebb8-ad3a-43f3-b8e8-34a981a8a3d6.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-h525-pro-rgb-wired-gaming-headset.html",
+  "detail": {
+    "title": "H525 Pro RGB Wired Gaming Headset",
+    "model": "AEPP0286",
+    "brand": "Ant Esports",
+    "overview": "Stand Out with Immersive Sound and Stunning RGB Lighting",
+    "features": [
+      "Experience exceptional gaming performance with theAnt Esports H525 Pro RGB Wired Gaming Headset. Featuring powerful50mm audio drivers, vibrant RGB lighting, and a comfortable over-ear design, this headset delivers immersive sound and crystal-clear communication for every gaming session."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_979aebb8-ad3a-43f3-b8e8-34a981a8a3d6.png",
+        "alt": "H525 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_141e7f7f-f00e-4202-ab1f-36dd26f44448.png",
+        "alt": "H525 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_6f445e01-ed1c-454f-83b5-6ee724ca9aec.png",
+        "alt": "H525 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_6acc8dcd-0209-401a-bbbc-2902774fd10a.png",
+        "alt": "H525 Pro RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired",
+        "Driver Size": "50mm",
+        "Microphone Type": "Fixed, Condenser",
+        "Wire Length": "2.1m",
+        "Lighting Type": "RGB",
+        "Connector Type": "1 x 3.5mm (Audio)",
+        "Compatibility": "Windows, XBOX One, PS5, Nitendo Wii",
+        "CONNECTIVITY": "Wired",
+        "DRIVER SIZE": "50mm",
+        "MICROPHONE TYPE": "Fixed, Condenser",
+        "WIRE LENGTH": "2.1m",
+        "LIGHTING TYPE": "RGB",
+        "CONNECTOR TYPE": "1 x 3.5mm (Audio)",
+        "COMPATIBILITY": "Windows, XBOX One, PS5, Nitendo Wii",
+        "Offer Price (INR)": "₹1,049.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0286"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-h525-pro-rgb-wired-gaming-headset"
+  }
+}

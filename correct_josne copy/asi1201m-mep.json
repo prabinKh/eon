@@ -1,0 +1,205 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Standalone",
+    "tab_id": "545",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "147106",
+    "product_name": "ASI1201M-MEP",
+    "product_title": "Dahua Card Swiping,Password Access Standalone",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/lite/asi1201m-mep",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12422/ProductImage/1_0_01_25_12422_669273179_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi1201m-mep.html",
+  "detail": {
+    "title": "Dahua Card Swiping,Password Access Standalone",
+    "model": "ASI1201M-MEP",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI1201M-MEP Dahua Card Swiping,Password Access Standalone Key Points • Card and Password Vander Proof Networked Access Standalone • 10,000 Cards and 10,000 Passwords • Dual-frequency (125kHz and 13.56MHz) RFID technology • Doorbell Function • Power Output for Lock and Card Reader • Easy Configuration via PC and Mobile Web Client • PoE, IP65 and IK08 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12422/ProductImage/1_0_01_25_12422_669273179_crop_thumb.png",
+        "alt": "ASI1201M-MEP_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12422/ProductImage/1_0_01_25_12422_669273176_crop_thumb.png",
+        "alt": "ASI1201M-MEP_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12422/ProductImage/1_0_01_25_12422_669273177_crop_thumb.png",
+        "alt": "ASI1201M-MEP_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12422/ProductImage/1_0_01_25_12422_669273178_crop_thumb.png",
+        "alt": "ASI1201M-MEP_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Network Protocol": "IPv4;UDP;P2P;IPv6;TCP",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF;CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Buzzer": "Yes",
+        "Backlight": "Yes",
+        "Casing Material": "PC and zinc alloy"
+      },
+      "Function": {
+        "Verification Method": "Card;Password;Remote",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Peripheral Card Reader": "Includes the 1-channel RS-485 card reader and 1-channel Wiegand card reader. You can easily switch between the two with just the flip of the switch.",
+        "Issuing Card by Master Card": "Yes",
+        "Multi-user Authentication": "Yes",
+        "Real-time Monitoring": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID": {
+        "Card Type": "IC card;ID card;Desfire card (EV3,Compatible with Dahua card by default)",
+        "Modulation Type": "ASK",
+        "Frequency Range": "13.56 MHz;125 kHz",
+        "Max. Transmission Power": "13.56 MHz: 42dBuA/m @10m;125 kHz: 66dBuA/m @10m"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 mm–30 mm (0\"–1.18\")"
+      },
+      "User": {
+        "User (Card) Type": "Normal, VIP, patrol, guest, blocklist, and other users, custom user 1 and custom user 2"
+      },
+      "Capacity": {
+        "User Capacity": "10,000",
+        "Card Capacity": "10,000",
+        "Password Capacity": "10,000",
+        "Record Capacity": "100,000"
+      },
+      "Port": {
+        "RS-485": "1 port that can also be used by the Wiegand card reader",
+        "Wiegand": "1 port that can also be used by the RS-485 card reader. (Wiegand input is 26, 34 or 66 bits self-adaptive. Wiegand output is 34 bits by default, and can be configured to 26 or 66 bits.)",
+        "Network Port": "1 × RJ-45 10/100 Mbps self-adaptive Ethernet port",
+        "Alarm Input": "2 channels",
+        "Alarm Output": "1 channel that can also be used by the doorbell output",
+        "Alarm Linkage": "Yes",
+        "Doorbell": "1 channel that can also be used by the alarm output",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel",
+        "Power Output Port": "1 channel (12 V, 0.5 A)"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Optional",
+        "Power Supply": "12 VDC, 1.5 A Standard PoE",
+        "Protection": "IP65;IK08",
+        "Power Consumption": "≤18 W",
+        "Product Dimensions": "169 mm × 57.5 mm × 33.3 mm (6.65\" × 2.26\" × 1.31\") (L × W × H)",
+        "Packaging Dimensions": "219 mm × 111 mm × 98 mm (8.62\" × 4.37\" × 3.86\") (L × W × H)",
+        "Transport Package Dimensions": "585 mm × 470 mm × 320 mm (23.03\" × 18.50\" × 12.60\") (H× W × D)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Outdoor",
+        "Gross Weight": "0.65 kg (1.43 lb)",
+        "Accessory": "The bracket of wall mount is included.",
+        "Installation": "Wall Mount",
+        "Certifications": "CE",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to + 158 °F)",
+        "Storage Humidity": "30%–75% (RH), non-condensing"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASI1201M-MEP_datasheet_20250808.pdf"
+      },
+      {
+        "name": "2026-07-30 #User Manual Access Standalone_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82643/user_manual/Access_Standalone_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-07-30 #User Manual Access Standalone_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82646/user_manual/Access_Standalone_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings ASI1201M-MEP_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82644/drawings/ASI1201M-MEP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings ASI1201M-MEP_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82645/drawings/ASI1201M-MEW_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings ASI1201M-MEP_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82646/drawings/ASI1212M_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XX-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82647/firmware/DH_ASIX2XX-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XX-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82647/firmware/DH_ASIX2XX-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XX-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82649/firmware/DH_ASIX2XX-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/lite/asi1201m-mep"
+  }
+}

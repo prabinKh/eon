@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "Video Storage",
+    "category_url": "https://cpplusworld.com/products/video-storage",
+    "subcategory": "Storage",
+    "subcategory_url": "https://cpplusworld.com/products/storage/video_storage",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Storage",
+    "tab_id": "151",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Storage",
+      "Video Storage",
+      "CP-UVS-G48R-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2071",
+    "product_name": "CP-UVS-G48R-V2",
+    "product_title": "CP-UVS-G48R-V2",
+    "product_url": "https://cpplusworld.com/cp-uvs-g48r-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/15efe125-62df-4365-a720-0e67866635ad.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvs-g48r-v2.html",
+  "detail": {
+    "title": "CP-UVS-G48R-V2",
+    "model": "CP-UVS-G48R-V2",
+    "brand": "CP Plus",
+    "overview": "Embedded Video Storage",
+    "features": [
+      "Max 512 IP Camera Inputs",
+      "48 HDDs, SAS/SATA, Hot-Swap",
+      "Max 1024 Mbps incoming/recording/forwarding bandwidth",
+      "Single controller",
+      "64-bit High-performance multi-core processor",
+      "Supports RAID 0/1/5/6/10/50/60, JBOD, Hot spare",
+      "Supports video stream/ Picture direct storage mode and IPSAN storage mode",
+      "1 plus 1 redundant 80PLUS platinum power supply",
+      "Modular and drawer-like design",
+      "Supports N+M cluster"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/15efe125-62df-4365-a720-0e67866635ad.png",
+        "alt": "CP-UVS-G48R-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1d269227-8461-4f36-89f1-1e0e59b1eb16.png",
+        "alt": "CP-UVS-G48R-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "64-bit multi-core processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "512 Channel",
+        "User Interface": "Web",
+        "Fan": "Dual ball-bearing fans",
+        "IPSAN Function": "Dynamic online extension of logic volumes",
+        "Video Direct Storage (Private  Protocol)": "Up to 512-channel (1024 Mbps) access, storage, and forwarding; 32-channel (64 Mbps) online playback",
+        "Video Direct Storage (Auto Register)": "Up to 512-channel (1024 Mbps) access, storage, and forwarding; 32-channel (64 Mbps) online playback",
+        "IPSAN Mode": "Supported",
+        "Video Storage": "Direct storage",
+        "RAM": "8 GB by default (extendable to 64 GB)",
+        "Disk Bay": "48",
+        "Network Bandwidth": "1×1GbE management port; 4×1GbE LAN ports",
+        "Protocols": "RTP; RTCP; RTSP; UDP; HTTP; NTP; SNMP; iSCSI; FTP; SMB; NFS",
+        "N+M Cluster": "Supported",
+        "Hard Disk": "1TB; 2TB; 3TB; 4TB; 5TB; 6TB; 8TB; 10TB; 12TB; 14TB; 16TB; 2.5-inch and 3.5-inch HDD Sup\u0002port simultaneously connecting to SATA/SAS",
+        "Disk Processing": "Dad Sector mapping",
+        "RAID Instant Use": "Supported",
+        "RAID-write Synchronization": "Supported",
+        "Video Codec": "Access by cameras with encoding formats of MPEG4, MJPEG, H.264, H.265, and SVAC Access  by multi-sensor cameras, thermal cameras, and panoramic cameras",
+        "Playback": "Web playback, concentrated playback, slice playback, synchronous playback Search video by second Adjustable playback speed",
+        "Backup Mode": "Back up video through USB, network, and eSATA",
+        "Interface Ports": "1×DB9 ; 1×HDMI",
+        "Ethernet": "1×1GbE management port; 4×1GbE LAN ports; 4×1-GbE LAN ports; 2×10-GbE optical fiber ports",
+        "Controller": "Single Controller",
+        "Hot Swapping": "Supported",
+        "PCI-E": "1×PCI-E X8; 1×PCI-E X",
+        "Smart Phone": "iPhone, iPad, Android",
+        "DISK": "1×2.5 inch SATA",
+        "Power Supply": "100–127V/200–240 VAC, 50/60 Hz, 8A/4A",
+        "Power Consumption": "<800W (include disks)",
+        "Operating Temperature": "0°C to 45°C (32°F to 113°F",
+        "Operating Humidity": "10%–80% (RH) (non-condensation)",
+        "Storage Temperature": "-20°C to +70°C (–4°F to 158°F)",
+        "Storage Humidity": "5%–90% (RH) (non-condensation)",
+        "Operating Altitude": "≤5000 m",
+        "Dimensions": "With hanger: 482.6 mm × 261.4 mm × 736.5 mm (19",
+        "Weight": "36 Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVS-G48R-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ff0d3832-878a-463d-9176-7438b5dc67d2.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvs-g48r-v2"
+  }
+}

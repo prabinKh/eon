@@ -1,0 +1,103 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "RFID",
+    "tab_id": "118203",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "RFID"
+    ]
+  },
+  "card_info": {
+    "product_id": "153567",
+    "product_name": "PJTX09-0A",
+    "product_title": "RFID Antenna 09",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/pjtx09-0a",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15795/ProductImage/1_0_01_09_15795_811287471_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/pjtx09-0a.html",
+  "detail": {
+    "title": "RFID Antenna 09",
+    "model": "PJTX09-0A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PJTX09-0A RFID Antenna 09 Key Points RFID domestic PN Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15795/ProductImage/1_0_01_09_15795_811287471_crop_thumb.PNG",
+        "alt": "PJTX09-0A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15795/ProductImage/1_0_01_09_15795_811287469_crop_thumb.PNG",
+        "alt": "PJTX09-0A_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15795/ProductImage/1_0_01_09_15795_811287470_crop_thumb.PNG",
+        "alt": "PJTX09-0A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15795/ProductImage/1_0_01_09_15795_811287472_crop_thumb.PNG",
+        "alt": "PJTX09-0A_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Operating Frequency": {},
+      "Anntenna Polarization": {},
+      "Antenna Gain": {},
+      "Beamwidth": {},
+      "Input Impedance": {},
+      "Antenna Voltage Standing Wave Ratio": {},
+      "Front-to-Back Ratio": {},
+      "Max Input Power": {},
+      "Lightning Protection": {},
+      "Connector Type": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Mounting Pole Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-PJTX09-0A_datasheet_20250904.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/pjtx09-0a"
+  }
+}

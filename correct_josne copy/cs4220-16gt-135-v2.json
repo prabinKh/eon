@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Cloud Managed Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "series": "Cloud Managed Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/cloud-managed-switches",
+    "tab_title": "Cloud Managed Switches",
+    "tab_id": "15717",
+    "breadcrumbs": [
+      "Transmission",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches",
+      "Cloud Managed Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "152840",
+    "product_name": "CS4220-16GT-135",
+    "product_title": "20-Port Cloud Managed Desktop Gigabit Switch with 16-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/cs4220-16gt-135=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11965/ProductImage/1_0_01_20_11965_768384011_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/cs4220-16gt-135-v2.html",
+  "detail": {
+    "title": "20-Port Cloud Managed Desktop Gigabit Switch with 16-Port PoE",
+    "model": "CS4220-16GT-135",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11965/ProductImage/1_0_01_20_11965_768384011_crop_thumb.PNG",
+        "alt": "CS4220-16GT-135",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/cloudmanagementsolution/networkswitch/cs4220-16gt-135=v2"
+  }
+}

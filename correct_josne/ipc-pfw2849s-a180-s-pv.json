@@ -1,0 +1,205 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 2 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series",
+    "tab_title": "Smart Dual Light",
+    "tab_id": "14427",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 2 Series",
+      "Smart Dual Light"
+    ]
+  },
+  "card_info": {
+    "product_id": "154606",
+    "product_name": "IPC-PFW2849S-A180-S-PV",
+    "product_title": "2x4MP Duo Splicing Fixed-focal Bullet WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/smart-dual-light/ipc-pfw2849s-a180-s-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879796185_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-pfw2849s-a180-s-pv.html",
+  "detail": {
+    "title": "2x4MP Duo Splicing Fixed-focal Bullet WizSense Network Camera",
+    "model": "IPC-PFW2849S-A180-S-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PFW2849S-A180-S-PV 2x4MP Duo Splicing Fixed-focal Bullet WizSense Network Camera Key Points • High-Quality Imaging with 8 MP Resolution • 180° Splicing Image by Pixel-level Splicing Fusion • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • Instant Sound and Light Alerts Deter Intruders & Reduce Incidents • Electronic Enlarge and Track the Targets of Intelligent Alarms • Enhanced Deep Learning-Based Human and Vehicle Classification • Built-in Dual Mic & Speaker: Secure Real-Time Talk • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879796185_crop_thumb.PNG",
+        "alt": "IPC-PFW2849S-A180-S-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879826675_crop_thumb.PNG",
+        "alt": "IPC-PFW2849S-A180-S-PV_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879826677_crop_thumb.PNG",
+        "alt": "IPC-PFW2849S-A180-S-PV_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879796183_crop_thumb.PNG",
+        "alt": "IPC-PFW2849S-A180-S-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879796179_crop_thumb.PNG",
+        "alt": "IPC-PFW2849S-A180-S-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/image/1_0_01_04_47748_879826676_crop_thumb.PNG",
+        "alt": "IPC-PFW2849S-A180-S-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "50.6 m( 166.01 ft)"
+      },
+      "EPTZ": {},
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "Smart Codec": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Certifications": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/datasheet/DH-IPC-PFW2849S-A180-S-PV_S0_datasheet_20260320.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87607/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87607/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2025-11-19 #A&E Document IPC-PFW2849S-A180-S-PV_A&E_20260918052657 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/a_e_document/1789681283072.docx"
+      },
+      {
+        "name": "2025-10-22 #Drawings IPC-PFW2849S-A180-S-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87607/drawings/IPC-PFW31259S-A180-AS-PV-ATC_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-10-22 #Drawings IPC-PFW2849S-A180-S-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87607/drawings/IPC-PFW31259S-A180-AS-PV-ATC_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX2XXX-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86515/firmware/DH_IPC-HX2XXX-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/smart-dual-light/ipc-pfw2849s-a180-s-pv"
+  }
+}

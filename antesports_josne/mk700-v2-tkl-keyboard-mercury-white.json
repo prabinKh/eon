@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK700 V2 TKL Membrane Keyboard - Mercury White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791312675",
+    "product_name": "MK700 V2 TKL Membrane Keyboard - Mercury White",
+    "product_title": "MK700 V2 TKL Membrane Keyboard - Mercury White",
+    "product_url": "https://antesports.com/products/mk700-v2-tkl-keyboard-mercury-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_f26c564a-a93f-4236-831c-bcdbed318369.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk700-v2-tkl-keyboard-mercury-white.html",
+  "detail": {
+    "title": "MK700 V2 TKL Membrane Keyboard - Mercury White",
+    "model": "AEPP0227",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK700 V2 is a compact tenkeyless membrane keyboard with 87 UV-coated mechanical-feel keys, offering cool RGB backlighting and a waterproof design suited to PC, laptop, mobile and tablet use. Its TKL layout frees up extra desk space for mouse movement while retaining all essential keys for typing, work and casual gaming. UV-coated, injection laser-carved keycaps resist fading over years of daily use, and true USB plug-and-play connectivity means no drivers are needed, finished here in a clean Mercury White colourway.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_f26c564a-a93f-4236-831c-bcdbed318369.jpg",
+        "alt": "MK700 V2 TKL Membrane Keyboard - Mercury White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "TKL, 87 Keys",
+        "Switch Type": "Membrane, Mechanical-Feel",
+        "Lighting": "RGB",
+        "Design": "Waterproof",
+        "Compatibility": "PC, Laptop, Mobile, Tablets",
+        "Color": "Mercury White",
+        "LAYOUT": "TKL, 87 Keys",
+        "SWITCH TYPE": "Membrane, Mechanical-Feel",
+        "LIGHTING": "RGB",
+        "DESIGN": "Waterproof",
+        "COMPATIBILITY": "PC, Laptop, Mobile, Tablets",
+        "COLOR": "Mercury White",
+        "Offer Price (INR)": "₹599.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0227"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (MERCURY)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK4100-Mercury-Setup%201.0.2.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk700-v2-tkl-keyboard-mercury-white"
+  }
+}

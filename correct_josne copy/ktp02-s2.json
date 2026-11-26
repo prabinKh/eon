@@ -1,0 +1,243 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "155867",
+    "product_name": "KTP02",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp02=s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/image/1_0_01_15_12934_977387163_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktp02-s2.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTP02",
+    "brand": "Dahua",
+    "overview": "New Favourite KTP02 Video Intercom KIT Key Points 7-inch Screen VTH Plastic VTO, Card Unlock Support App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/image/1_0_01_15_12934_977387163_crop_thumb.PNG",
+        "alt": "KTP02_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/image/1_0_01_15_12934_977387165_crop_thumb.PNG",
+        "alt": "KTP02_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/image/1_0_01_15_12934_977387166_crop_thumb.PNG",
+        "alt": "KTP02_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/image/1_0_01_15_12934_977387167_crop_thumb.PNG",
+        "alt": "KTP02_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/image/1_0_01_15_12934_993027261_crop_thumb.PNG",
+        "alt": "KTP02_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "System(VTO)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF;CGI",
+        "Network Protocol": "SIP; P2P; IPv4; DNS; RTSP; RTP; TCP; UDP"
+      },
+      "Basic(VTO)": {
+        "Camera": "1/2.8\" 2 MP CMOS high definition, low illumination/DWDR/ color/IR",
+        "Field of View": "H: 107°; V: 60°; D: 122°",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, CIF; Sub stream: 1080p, WVGA, D1, QVGA, CIF",
+        "Video Frame Rate": "PAL: 25 fps; NTSC: 30 fps",
+        "Video Bit Rate": "256 Kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W;Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz, 16 bit"
+      },
+      "Function(VTO)": {
+        "Communication Mode": "Full digital",
+        "Verification Method": "Card;App;Indoor monitor",
+        "Leave Videos": "Yes (SD card inserted in VTH is needed)",
+        "Web Configuration": "Yes"
+      },
+      "RFID(VTO)": {
+        "Card Type": "IC card",
+        "Modulation Type": "ASK",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42 dBuA/m @10 m"
+      },
+      "Performance(VTO)": {
+        "Card Reading Distance": "0 cm–4.5 cm (0\"–1.77\")",
+        "Issue Card Locally": "Yes",
+        "Casing Material": "PC + Acrylic"
+      },
+      "Capacity(VTO)": {
+        "Card Capacity": "10,000"
+      },
+      "Port(VTO)": {
+        "RS-485": "1 channel",
+        "Power Output": "1 port (12 V, 200 mA)",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel",
+        "Network Port": "1 × 10Mbps/100Mbps network port (8-core white ribbon cable)"
+      },
+      "Alarm(VTO)": {
+        "Tamper Alarm": "Yes"
+      },
+      "General(VTO)": {
+        "Appearance Color": "Black",
+        "Power Supply": "12 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Included: Alarm power ribbon cable, rain cover, brackets",
+        "Product Dimensions": "135.1 mm × 70.6 mm × 34.6 mm (5.32\" × 2.78\" × 1.36\") (L × W × H)",
+        "Protection": "IP65 (silicone sealant is needed, see the quick start guide.); IK04 (for common use)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "Beneath 3000 m (9842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "≤ 1 W (standby), ≤ 5 W (working)",
+        "Gross Weight": "326 g (0.72 lb)"
+      },
+      "System(VTH)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux"
+      },
+      "Basic(VTH)": {
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz, 16 bits",
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7-inch display screen",
+        "Screen Resolution": "1024 (H) × 600 (V)"
+      },
+      "Function(VTH)": {
+        "Communication Mode": "Full digital",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Information Release": "Receive and view the published information from the management center",
+        "DND Mode": "Yes",
+        "Number of Extensions": "Villa: 9 extensions; Apartment: 4 extensions",
+        "Storage": "Built-in 8 GB Micro SD card, maximum memory capacity 512 GB"
+      },
+      "Port(VTH)": {
+        "Network Port": "One 10 Mbps/100 Mbps Ethernet port",
+        "Alarm Input": "6 channels",
+        "Alarm Output": "1 channel",
+        "Doorbell": "Yes (use the alarm input port)"
+      },
+      "Alarm(VTH)": {
+        "SOS Alarm": "Yes"
+      },
+      "Performance(VTH)": {
+        "Casing Material": "PC + ABS"
+      },
+      "General(VTH)": {
+        "Appearance Color": "Black",
+        "Power Supply": "12 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Included: bracket and alarm cable.",
+        "Product Dimensions": "221.5 mm × 119.6 mm × 23.5 mm(8.72\" × 4.71\" × 0.93\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Less than 3,000 meters",
+        "Operating Environment": "Indoor",
+        "Power Consumption": "≤3 W (standby), ≤7 W (working)",
+        "Gross Weight": "0.661 kg (1.46 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75%"
+      },
+      "System(Networking Device)": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Port(Networking Device)": {
+        "Network Port": "4 × PoE ports with 10/100 Mbps Base-TX; 2 uplink ports with 10/100Mbps Base-TX"
+      },
+      "General(Networking Device)": {
+        "Appearance Color": "Black",
+        "Certifications": "CE; FCC",
+        "Product Dimensions": "194.0 mm × 108.1 mm × 35.0 mm (7.64\" × 4.26\" × 1.38\") (L × W × H)",
+        "Gross Weight": "0.56 kg (1.23 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/datasheet/DHI-KTP02_S2_datasheet_20260817_English.pdf"
+      },
+      {
+        "name": "2026-08-05 #Drawings KTP02_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/drawings/1_0_01_15_12934_980051297.pdf"
+      },
+      {
+        "name": "2026-07-30 #Drawings KTP02_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/drawings/1_0_01_15_12934_977380141.pdf"
+      },
+      {
+        "name": "2026-08-12 #Drawings KTP02_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/drawings/1_0_01_15_12934_981505319.pdf"
+      },
+      {
+        "name": "2026-08-12 #Drawings KTP02_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88315/drawings/1_0_01_15_12934_981505320.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp02=s2"
+  }
+}

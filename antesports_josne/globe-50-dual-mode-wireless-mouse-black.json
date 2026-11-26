@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 50 Dual-Mode Wireless Mouse - 3200 DPI, Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341844156707",
+    "product_name": "Globe 50 Dual-Mode Wireless Mouse - 3200 DPI, Black",
+    "product_title": "Globe 50 Dual-Mode Wireless Mouse - 3200 DPI, Black",
+    "product_url": "https://antesports.com/products/globe-50-dual-mode-wireless-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_0761ad81-9738-41ff-a27d-cc0ba4904bdb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-50-dual-mode-wireless-mouse-black.html",
+  "detail": {
+    "title": "Globe 50 Dual-Mode Wireless Mouse - 3200 DPI, Black",
+    "model": "ANTR0169",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 50 combines Bluetooth and 2.4GHz connectivity in a dual-mode wireless mouse rated up to 3200 DPI across 6 programmable buttons, giving it enough range for both office work and casual gaming. A rechargeable battery delivers up to 50 hours of use per charge, so it stays out of the drawer far longer than typical wireless mice. Its lightweight, slim-profile design fits comfortably in the palm for extended sessions on a laptop, PC, Mac, tablet or mobile device, while dual connectivity means fast switching between paired devices without re-pairing each time.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_0761ad81-9738-41ff-a27d-cc0ba4904bdb.jpg",
+        "alt": "Globe 50 Dual-Mode Wireless Mouse - 3200 DPI, Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth + 2.4GHz",
+        "DPI": "Up to 3200",
+        "Buttons": "6",
+        "Battery Life": "Up to 50 Hours",
+        "Compatibility": "Laptop, PC, Mac, Tablet, Mobile",
+        "Color": "Black",
+        "CONNECTIVITY": "Bluetooth + 2.4GHz",
+        "BUTTONS": "6",
+        "BATTERY LIFE": "Up to 50 Hours",
+        "COMPATIBILITY": "Laptop, PC, Mac, Tablet, Mobile",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹549.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "ANTR0169"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-50-dual-mode-wireless-mouse-black"
+  }
+}

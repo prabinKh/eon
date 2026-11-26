@@ -1,0 +1,154 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/controllers",
+    "tab_title": "Controllers",
+    "tab_id": "951",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Controllers",
+      "Controllers"
+    ]
+  },
+  "card_info": {
+    "product_id": "93707",
+    "product_name": "ARC3000H-GW2",
+    "product_title": "Alarm Hub",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/controllers/arc3000h-gw2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210426/3-2_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/arc3000h-gw2.html",
+  "detail": {
+    "title": "Alarm Hub",
+    "model": "ARC3000H-GW2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARC3000H-GW2 Alarm Hub Key Points · Supports 150 wireless peripherals (6 sirens, 64 wireless keyfobs). · Wired, Wi-Fi, or GPRS network connection. · Supports video linkage on the App. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210426/3-2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210426/3_thumb.png",
+        "alt": "ARC3000H-GW2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210426/3-1_thumb.png",
+        "alt": "ARC3000H-GW2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Wired Input": {},
+      "Wired Output": {},
+      "Connected Peripheral": {},
+      "Network Mode": {},
+      "Network Port": {},
+      "Storage Battery": {},
+      "Video Input": {},
+      "Indicator Light": {},
+      "Button": {},
+      "Buzzer": {},
+      "SMS": {},
+      "Phone Call": {},
+      "Video Linkage": {},
+      "Offline Cache": {},
+      "Arm and Disarm": {},
+      "Remote Update": {},
+      "Network Protocol": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "User Management": {},
+      "Logs": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Wi-Fi": {},
+      "Power Supply": {},
+      "Battery Life": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Certifications": {},
+      "Packaging Dimensions": {},
+      "Cellular Network Standard": {},
+      "Frequency Range": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13007/datasheet/DHI-ARC3000H-GW2_datasheet_20260730_English.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Dahua Alarm Hub_Product Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12997/user_manual/Dahua_Alarm_Hub_Product_c2_a0Privacy_c2_a0Policy.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Dahua Alarm Hub_User's Manual_V2.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12997/user_manual/Dahua_Alarm_Hub_User_27s_Manual_V2.0.3.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Alarm Hub_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12997/user_manual/Alarm_Hub_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-29 #User Manual Dahua Alarm Hub_OPEN SOURCE SOFTWARE NOTICE.pdf Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12997/user_manual/Dahua_Alarm_Hub_OPEN_SOURCE_SOFTWARE_NOTICE.pdf.pdf"
+      },
+      {
+        "name": "2021-03-26 #Drawings ARC3000H-GW2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27617/drawings/1_0_01_19_10586_2142457662.pdf"
+      },
+      {
+        "name": "2021-03-26 #Drawings ARC3000H-GW2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13027/drawings/ARC3000H-W2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-05-15 #Firmware DH_ARC3000H_MultiLang_PN_433_V1.001.0000011.6.R.260415 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13007/firmware/DH_ARC3000H_MultiLang_PN_433_V1.001.0000011.6.R.260415.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/controllers/arc3000h-gw2"
+  }
+}

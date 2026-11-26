@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK3400 V3 Mechanical Keyboard Brown Switch - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791116067",
+    "product_name": "MK3400 V3 Mechanical Keyboard Brown Switch - White",
+    "product_title": "MK3400 V3 Mechanical Keyboard Brown Switch - White",
+    "product_url": "https://antesports.com/products/mk3400-v3-keyboard-brown-switch-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_64dbb525-a140-4092-af45-a855cf504fd5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk3400-v3-keyboard-brown-switch-white.html",
+  "detail": {
+    "title": "MK3400 V3 Mechanical Keyboard Brown Switch - White",
+    "model": "AEPP0295",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK3400 Pro V3 is engineered for gamers, professionals, programmers and creators who demand precision and durability. Tactile Ant Brown switches deliver smooth, responsive typing or gaming feedback and are rated for 50 million keystrokes, while dynamic multi-colour RGB backlighting across 12 LED modes adds a vibrant glow to any battlestation. An ergonomic integrated palm rest reduces wrist fatigue during long sessions, and 26 programmable gaming keys with dedicated media controls give quick access to essential shortcuts. Full anti-ghosting and a dedicated numeric keypad round out a genuinely complete full-size keyboard for Windows, Mac, Linux and PC use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_64dbb525-a140-4092-af45-a855cf504fd5.jpg",
+        "alt": "MK3400 V3 Mechanical Keyboard Brown Switch - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "Full-Size, 104 Keys",
+        "Switch Type": "Ant Brown Mechanical",
+        "Lighting": "Multicolour RGB, 12 Modes",
+        "Durability": "50 Million Keystrokes",
+        "Compatibility": "PC, Mac, Windows, Linux",
+        "Color": "White",
+        "LAYOUT": "Full-Size, 104 Keys",
+        "SWITCH TYPE": "Ant Brown Mechanical",
+        "LIGHTING": "Multicolour RGB, 12 Modes",
+        "DURABILITY": "50 Million Keystrokes",
+        "COMPATIBILITY": "PC, Mac, Windows, Linux",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,948.00",
+        "MRP (INR)": "₹6,198.00",
+        "SKU": "AEPP0295"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk3400-v3-keyboard-brown-switch-white"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "Glory 10 Wired USB Office Headset - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444721955",
+    "product_name": "Glory 10 Wired USB Office Headset - Black",
+    "product_title": "Glory 10 Wired USB Office Headset - Black",
+    "product_url": "https://antesports.com/products/glory-10-wired-office-headset-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28_3485eb49-7384-4010-ac20-761d2bbe867c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/glory-10-wired-office-headset-black.html",
+  "detail": {
+    "title": "Glory 10 Wired USB Office Headset - Black",
+    "model": "ANTR0150",
+    "brand": "Ant Esports",
+    "overview": "The Ant Glory 10 is a wired USB on-ear headset purpose-built for office calls, video meetings and everyday productivity, delivering clear audio through 40mm drivers tuned for voice clarity. A noise-cancelling microphone filters out background sound so callers hear you clearly on Zoom, Teams or Skype, while inline mute and volume controls let you manage calls hands-free without digging through software menus. A 2-metre cable gives comfortable freedom of movement at a desk, and the lightweight on-ear design stays comfortable through back-to-back calls without pressure points. A dependable, no-frills headset built specifically for home office and work-from-home use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/28_3485eb49-7384-4010-ac20-761d2bbe867c.jpg",
+        "alt": "Glory 10 Wired USB Office Headset - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "USB Wired",
+        "Driver Size": "40mm",
+        "Microphone": "Noise Cancelling",
+        "Controls": "Inline Mute & Volume",
+        "Cable Length": "2m",
+        "Use Case": "Zoom, Teams, Skype, Home Office",
+        "Color": "Black",
+        "CONNECTIVITY": "USB Wired",
+        "DRIVER SIZE": "40mm",
+        "MICROPHONE": "Noise Cancelling",
+        "CONTROLS": "Inline Mute & Volume",
+        "CABLE LENGTH": "2m",
+        "USE CASE": "Zoom, Teams, Skype, Home Office",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,099.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0150"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/glory-10-wired-office-headset-black"
+  }
+}

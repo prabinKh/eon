@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "ECO500 Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421286691",
+    "product_name": "ECO500 Power Supply Unit",
+    "product_title": "ECO500 Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-value-eco-series-power-supply-eco500",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_edd5066f-b9f5-4cf6-a6ce-90e4c076be33.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-value-eco-series-power-supply-eco500.html",
+  "detail": {
+    "title": "ECO500 Power Supply Unit",
+    "model": "AVPS0002",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value Eco Series Power Supply ECO500 is a reliable 500W power supply built for everyday computing and entry-level gaming PCs. Its non-modular design includes all the essential motherboard, CPU, SATA, and Molex connectors, ensuring stable and efficient power delivery for your system. Designed for dependable performance and long-lasting reliability, it's an excellent choice for budget-friendly PC builds and upgrades.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_edd5066f-b9f5-4cf6-a6ce-90e4c076be33.png",
+        "alt": "ECO500 Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_40055d5b-6108-4868-b258-91f29cf7ec61.png",
+        "alt": "ECO500 Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_e3700b63-4672-4d6d-a9fe-fca8a2d96a08.png",
+        "alt": "ECO500 Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Series": "ECO Series",
+        "Category": "Power Supply",
+        "Rated Wattage": "500",
+        "Modularity": "Non-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "1 (8-Pin)",
+        "SATA": "4",
+        "Molex": "2",
+        "SERIES": "ECO Series",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "500",
+        "MODULARITY": "Non-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "MOLEX": "2",
+        "Offer Price (INR)": "₹949.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AVPS0002"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-value-eco-series-power-supply-eco500"
+  }
+}

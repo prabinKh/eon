@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "Bluetooth Speaker",
+    "subcategory_url": "https://www.intex.in/collections/bluetooth-speaker",
+    "series": "BT Speakers",
+    "series_url": "https://www.intex.in/collections/bt-speakers",
+    "tab_title": "Bluetooth Speaker",
+    "tab_id": "9079399219418",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "Bluetooth Speaker",
+      "Intex Beast 10X Bluetooth Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "9079399219418",
+    "product_name": "Intex Beast 10X Bluetooth Speaker",
+    "product_title": "Intex Beast 10X Bluetooth Speaker",
+    "product_url": "https://www.intex.in/products/intex-beast-10x-bluetooth-speaker-2000mah-battery",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_10X_black.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3999.0,
+      "display": "₹3,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-beast-10x-bluetooth-speaker-2000mah-battery.html",
+  "detail": {
+    "title": "Intex Beast 10X Bluetooth Speaker",
+    "model": "10X-2000MAH",
+    "brand": "Intex",
+    "overview": "Unleash powerful sound anytime, anywhere with the Intex Beast 10X Bluetooth Speaker. Designed for music lovers who crave deep bass and crystal-clear audio, this 10W compact beast delivers a punch far beyond its size. With a robust 52mm driver, RGB LED lights, and TWS pairing, it sets the mood for every moment — whether you’re indoors or outdoors. Enjoy multi-play modes including Bluetooth, USB, TF Card, and FM, giving you total freedom to play your music your way. Its 2000mAh battery ensures up to 5–6 hours of playback on a single charge, while the Type-C fast charging gets you powered up quickly. The Intex Beast 10X is your perfect on-the-go music partner — bold, bright, and brilliantly loud.",
+    "features": [
+      "Note: Playback time varies based on volume and usage patterns."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_10X_black.jpg",
+        "alt": "Intex Beast 10X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST_10X_blue.jpg",
+        "alt": "Intex Beast 10X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Output Power": "10W",
+        "Drivers": "2 × 52 mm",
+        "Bluetooth Version": "v5.4",
+        "Bluetooth Range": "Up to 10 metres",
+        "Battery Capacity": "2000 mAh",
+        "Playback Time": "Up to 5–6 hours (depends on volume)",
+        "Charging Time": "Approx. 2 hours 40 minutes",
+        "Charging Port": "USB Type-C",
+        "Play Modes": "Bluetooth / USB / TF Card / FM",
+        "TWS (True Wireless Stereo)": "Yes — supports pairing two speakers",
+        "Lighting": "Multimode RGB LED lights",
+        "Sound Feature": "360° surround sound",
+        "Design": "Lightweight, portable with hook for easy carry",
+        "Manufacturer": "Intex Technologies (India) Ltd.",
+        "Model": "10X-2000MAH"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Beast_10X_Product_Launch_PPT_-_Nov_2025.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-beast-10x-bluetooth-speaker-2000mah-battery"
+  }
+}

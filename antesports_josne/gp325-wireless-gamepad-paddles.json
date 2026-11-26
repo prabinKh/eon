@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP325 Wireless Gamepad with M1 Paddles"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869779747",
+    "product_name": "GP325 Wireless Gamepad with M1 Paddles",
+    "product_title": "GP325 Wireless Gamepad with M1 Paddles",
+    "product_url": "https://antesports.com/products/gp325-wireless-gamepad-paddles",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11_0eb77cc6-0fd3-4183-bf30-459a4134eae0.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gp325-wireless-gamepad-paddles.html",
+  "detail": {
+    "title": "GP325 Wireless Gamepad with M1 Paddles",
+    "model": "AEPP0089",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP325 goes beyond traditional gamepad controls with extra M1 paddles on the back, giving racing games and other titles an added edge through quick-access rear inputs. Bluetooth 4.0 connectivity ensures seamless pairing across PlayStation 4, Xbox 360, PC and Android devices, while a 400mAh battery delivers up to 10 hours of uninterrupted gameplay and recharges fully in just 2.5 hours. A dual motor setup delivers precise, accurate feedback for every rumble and impact, and an included mobile mounting clip transforms a smartphone into a compact handheld gaming setup for gaming on the go. A well-rounded, cross-platform controller with genuinely useful extras.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11_0eb77cc6-0fd3-4183-bf30-459a4134eae0.jpg",
+        "alt": "GP325 Wireless Gamepad with M1 Paddles - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth 4.0",
+        "Battery": "400mAh, Up to 10 Hours",
+        "Charging Time": "2.5 Hours",
+        "Extra Controls": "M1 Rear Paddles",
+        "Compatibility": "PS4, Xbox 360, PC, Android",
+        "Included": "Mobile Mounting Clip",
+        "CONNECTIVITY": "Bluetooth 4.0",
+        "BATTERY": "400mAh, Up to 10 Hours",
+        "CHARGING TIME": "2.5 Hours",
+        "EXTRA CONTROLS": "M1 Rear Paddles",
+        "COMPATIBILITY": "PS4, Xbox 360, PC, Android",
+        "INCLUDED": "Mobile Mounting Clip",
+        "Offer Price (INR)": "₹1,349.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AEPP0089"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP325)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP325.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp325-wireless-gamepad-paddles"
+  }
+}

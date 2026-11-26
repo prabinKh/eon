@@ -1,0 +1,176 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "153799",
+    "product_name": "ISC-D718R-I",
+    "product_title": "Walk-through Metal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d718r-i",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755468_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-d718r-i.html",
+  "detail": {
+    "title": "Walk-through Metal Detector",
+    "model": "ISC-D718R-I",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-D718R-I Walk-through Metal Detector Key Points ●18 Detection Zones ●Supports The Threshold Mode ●Supports Sensitivity Adjustment Of The Inspected Objects ●Supports 7,000 Adjustable Frequencies And Auto Frequency Search ●Dual 10.1\" HDLcd Displays Video Surveil lance, Snapshots And Metal alarms Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755468_thumb.PNG",
+        "alt": "ISC-D718R-I_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755465_thumb.PNG",
+        "alt": "ISC-D718R-I_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755464_thumb.PNG",
+        "alt": "ISC-D718R-I_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755466_thumb.PNG",
+        "alt": "ISC-D718R-I_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755467_thumb.PNG",
+        "alt": "ISC-D718R-I_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10265/ProductImage/1_0_01_46_10265_851755469_thumb.PNG",
+        "alt": "ISC-D718R-I_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System": {
+        "Display": "2×10.1-inch LCD screen",
+        "Operating Interface": "WEB, local GUI operation"
+      },
+      "Metal Detection": {
+        "Sensitivity": "0–9,999 levels adjustable",
+        "Frequency": "5–12 kHz",
+        "Minimum Detection Target": "Half paperclip-sized metal objects",
+        "Zone": "6/12/18 adjustable zones",
+        "Alarm Sound": "9 alarm sounds selectable",
+        "Alarm Volume": "0–8, 9 levels adjustable"
+      },
+      "Camera": {
+        "Image Sensor": "1/1.8'' CMOS",
+        "Max. Resolution": "2,688 (H) × 1,520 (V)",
+        "Pixel": "4 MP",
+        "Focal Length": "3.6 mm",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s"
+      },
+      "Personnel Intelligence": {
+        "Intelligent Playback (Face Detection)": "1. Query conditions: Search pictures by pass channel, time and personnel attributes. 2. Function: Supports the query results to associate playback of 10-second videos before and after the event, and supports export of search results to excel, videos, and pictures. 3. Historical library capacity: 10 million.",
+        "Personnel Database Management": "1. Import method: single/batch import of the personnel pictures through the browser, the single import speed is 10 pic/sec. 2. Input personnel information: name, gender, birthday, province, city, certificate type, and certificate number. 3. Database capacity: Up to 10 personnel databases with 300,000 pictures can be created, and the total capacity is 50 G. 4. Image requirements: jpg format, maximum 4M for a single image, pixel 100 × 100–6,000 × 5,000.",
+        "Personnel Comparison": "Supports deployment of multiple personnel databases, alarm prompts, video linkage , capture, IPC external alarm output, voice prompt, buzzer, log and mail. Performance: The AI by device function supports 1-channel personnel comparison (1080p video stream)."
+      },
+      "Recording Management": {
+        "Recording Method": "Auto recording; manual recording; alarm recording; scheduled recording",
+        "Video Playback": "4-channel",
+        "Backup": "Browser backup",
+        "Playback Method": "Instant playback; conventional playback; event playback; label playback; Intelligent playback (personnel, dynamic detection)",
+        "Video Compression": "Smart H.265; H.265; Smart H.264; H.264"
+      },
+      "Alarm": {
+        "Anomaly Alarm": "Supports the alarms for IPC disconnection, storage error, full storage, IP conflict, MAC conflict and login lock.",
+        "Intelligent Alarm": "Supports personnel detection, personnel comparison and IVS (tripwire and area intrusion).",
+        "Alarm Linkage": "Video, capture, IPC external alarm output, voice prompt, buzzer, log record, preset point and mail."
+      },
+      "Network": {
+        "Protocol": "HTTP; HTTPS; TCP/IP; Ipv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; P2P; IPv6",
+        "Interoperability": "ONVIF (Profile S&G);GB/T28181;CGI;SDK",
+        "Browser": "IE11, Google (Configuration only)"
+      },
+      "External Port": {
+        "HDD Port": "2*SATA ports",
+        "RS-485 Port": "*1",
+        "USB Port": "4*USB 3.0 (1 for program upgrade of the device, 1 for connecting mouse to control system settings, 1 for program upgrade of information release, 1 for connection mouse to control information release function.)",
+        "Network Port": "1*RJ-45 ports per panel",
+        "Voice Output Port": "*1",
+        "POE Port": "*4"
+      },
+      "General": {
+        "Power Supply": "100–220VAC, 50-60Hz",
+        "Power Consumption": "Active Power 60W",
+        "Case": "24 kg (52.91 lb)",
+        "Panel": "50 kg (110.23 lb)",
+        "Product Dimensions": "2257mm×854mm×579mm (88.86”×33.62”× 22.80” )",
+        "Packaging Dimensions": "H × W × D: Packing Box (Detector panel): 2310 mm × 650 mm ×260 mm (90.94\" × 25.59\" × 10.24\") Packing Box (Host box): 863 mm × 554 mm × 439mm (33.98\" × 21.81\" × 17.28\")",
+        "Operating Temperature": "–20 °C to 60 °C (–4 °F to 140 °F)",
+        "Storage Temperature": "–20 °C to 65 °C (–4 °F to 149 °F)",
+        "Working Humidity": "≤93%RH, non-condensing",
+        "Storage Humility": "≤93%RH, non-condensing"
+      },
+      "Accessories": {
+        "Others": "No HDD by default. The host and its supporting detector panels need to be ordered separately."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85025/datasheet/DHI-ISC-D718R-I_datasheet_20260805_English.pdf"
+      },
+      {
+        "name": "2025-09-07 #User Manual Walk-through Metal Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0011037/3368639/Walk-through_Metal_Detector_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-15 #Drawings ISC-D718R-I_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85025/drawings/ISC-D718R-I_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-15 #Drawings ISC-D718R-I_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85025/drawings/ISC-D718R-I_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-07-31 #Firmware DH_ISCD-D718R-I_Eng_PN_V1.000.9992000.0.R.250722 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3305860/DH_ISCD-D718R-I_Eng_PN_V1.000.9992000.0.R.250722.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d718r-i"
+  }
+}

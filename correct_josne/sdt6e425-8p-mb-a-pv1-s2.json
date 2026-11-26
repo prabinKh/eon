@@ -1,0 +1,218 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "X-Spans Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/x-spans-series",
+    "tab_title": "Project",
+    "tab_id": "18225",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "X-Spans Series",
+      "Project"
+    ]
+  },
+  "card_info": {
+    "product_id": "155802",
+    "product_name": "SDT6E425-8P-MB-A-PV1-S2",
+    "product_title": "8+4MP 25x TIOC X-Spans Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt6e425-8p-mb-a-pv1-s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_989227873_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sdt6e425-8p-mb-a-pv1-s2.html",
+  "detail": {
+    "title": "8+4MP 25x TIOC X-Spans Network PTZ Camera",
+    "model": "SDT6E425-8P-MB-A-PV1-S2",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite SDT6E425-8P-MB-A-PV1-S2 8+4MP 25x TIOC X-Spans Network PTZ Camera Key Points • Adjustable panoramic angle (10°–28°) effectively reduces blind spots, improving the overall effectiveness of the captured image • Lightning Foucs Technology, zoom in just 1 seconds, efficiently capture critical moments • High-Quality Imaging with 8MP Resolution for Panoramic Channel, 180° Wide Angle Splicing Image Monitoring • Xinghan Large-Scale AI Models: Comprehensive Enhancement of Target Detection • Built-In Gyroscope Ensures Stable Image Output • Built-in Dual Mic & Speaker: Secure Real-Time Talk • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_984052136_crop_thumb.PNG",
+        "alt": "SDT6E425-8P-MB-A-PV1-S2_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_989227873_crop_thumb.PNG",
+        "alt": "SDT6E425-8P-MB-A-PV1-S2_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_989227864_crop_thumb.PNG",
+        "alt": "SDT6E425-8P-MB-A-PV1-S2_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_989226254_crop_thumb.PNG",
+        "alt": "SDT6E425-8P-MB-A-PV1-S2_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_989230587_crop_thumb.PNG",
+        "alt": "SDT6E425-8P-MB-A-PV1-S2_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/image/1_0_01_07_16752_989229715_crop_thumb.PNG",
+        "alt": "SDT6E425-8P-MB-A-PV1-S2_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "Overview channel: 2.8 mm": "56.0 m( 183.72 ft)",
+        "Detail channel: W": "100.0 m( 328.08 ft)",
+        "T": "2500.0 m( 8202.00 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "Video Metadata": {},
+      "IVS (Perimeter Protection)": {},
+      "Face Detection": {},
+      "Vehicle Density": {},
+      "Construction Monitoring": {},
+      "Smart Tracking": {},
+      "Crowd Distribution Map": {},
+      "SMD": {},
+      "AcuPick": {},
+      "Auto Patrol": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/datasheet/DH-SDT6E425-8P-MB-A-PV1-S2_S0_datasheet_20260908_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network PT Camera(SDT6E)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84985/user_manual/Network_PT_Camera(SDT6E)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-02 #A&E Document SDT6E425-8P-MB-A-PV1-S2_A&E_20260911115613 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/a_e_document/1789099240953.docx"
+      },
+      {
+        "name": "2026-09-08 #Drawings SDT6E425-8P-MB-A-PV1-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/drawings/1_0_01_07_16752_987464702.pdf"
+      },
+      {
+        "name": "2026-09-08 #Drawings SDT6E425-8P-MB-A-PV1-S2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/drawings/1_0_01_07_16752_987464701.pdf"
+      },
+      {
+        "name": "2026-09-14 #Firmware DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-ShuangPinXVRLLMMUL-AcupickCloud_V3.211.0000016.0.R.260822 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/firmware/DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-ShuangPinXVRLLMMUL-AcupickCloud_V3.211.0000016.0.R.260822.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt6e425-8p-mb-a-pv1-s2"
+  }
+}

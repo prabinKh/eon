@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "BT Speakers",
+    "subcategory_url": "https://www.intex.in/collections/bt-speakers",
+    "series": "smart accessories",
+    "series_url": "https://www.intex.in/collections/smart-accessories",
+    "tab_title": "BT Speakers",
+    "tab_id": "9069242319066",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "BT Speakers",
+      "Intex BEAST 5X Bluetooth Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "9069242319066",
+    "product_name": "Intex BEAST 5X Bluetooth Speaker",
+    "product_title": "Intex BEAST 5X Bluetooth Speaker",
+    "product_url": "https://www.intex.in/products/intex-beast-5x-bluetooth-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2999.0,
+      "display": "₹2,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-beast-5x-bluetooth-speaker.html",
+  "detail": {
+    "title": "Intex BEAST 5X Bluetooth Speaker",
+    "model": "5X",
+    "brand": "Intex",
+    "overview": "Intex BEAST 5X BT Speaker The Intex BEAST 5X is a compact powerhouse designed for music lovers on the move. Experience immersive 360° surround sound, vibrant RGB LED lights, and seamless connectivity with the latest Bluetooth v5.4 technology. Whether indoors or outdoors, enjoy crystal-clear sound and nonstop entertainment for up to 5 hours.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-1.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST5Xblue.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-4.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-5.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-3.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-2.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-blue-6.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-black-1.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-black-3.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-black-4.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-black-5.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-black-2.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5X-pdp-black-6.jpg",
+        "alt": "Intex BEAST 5X Bluetooth Speaker",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 13,
+    "specifications": {
+      "General": {
+        "5W Powerful Sound": "– Crisp, clear, and rich audio performance.",
+        "360° Surround Sound": "– Immersive music experience in every direction.",
+        "Multimode RGB LED Lights": "– Add color and rhythm to your parties.",
+        "Type-C Charging Port": "– Faster and more convenient charging.",
+        "TWS Pairing": "– Connect two BEAST 5X speakers for double the power.",
+        "Up to 5 Hours Playback*": "– Enjoy uninterrupted music on a single charge.",
+        "1 × 52mm Driver": "– Balanced sound output with enhanced bass.",
+        "Bluetooth Version 5.4": "– Stable connection with low latency.",
+        "Multi-Play Options": "– Supports BT / USB / FM / TF Card playback.",
+        "BT Range": "Up to 10 metres.",
+        "Model": "5X"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/BEAST_5X_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-beast-5x-bluetooth-speaker"
+  }
+}

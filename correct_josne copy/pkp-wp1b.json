@@ -1,0 +1,126 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "Wireless Transmitter",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/wireless-transmitter",
+    "tab_title": "Wireless Transmitter",
+    "tab_id": "13437",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "Wireless Transmitter",
+      "Wireless Transmitter"
+    ]
+  },
+  "card_info": {
+    "product_id": "124217",
+    "product_name": "PKP-WP1B",
+    "product_title": "Wireless Screen Sharing Dongle",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/wireless-transmitter/pkp-wp1b",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230214/PKP-WP1B_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkp-wp1b.html",
+  "detail": {
+    "title": "Wireless Screen Sharing Dongle",
+    "model": "PKP-WP1B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKP-WP1B Wireless Screen Sharing Dongle Key Points • 4K Output, Delivering a Crisp Image • Plug and Play, No Need to Install Software or Drivers • Hassle-Free, No Need for Cables • Screen Projection with Just the Press of a Button • Compatibility with Chrome, iPads, and Mainstream Operating Systems Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/PKP-WP1B_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/PKP-WP1B_22_thumb.png",
+        "alt": "PKP-WP1B",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/PKP-WP1B_31_thumb.png",
+        "alt": "PKP-WP1B",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Hardware Parameters": {
+        "Input Resolution": "480p, 576p, 720p, 1080p, 4K PC timing: 640 × 480, 800 × 600, 1024 × 768, 1280 × 720, 1920 × 1080, 3840 × 2160",
+        "Output Resolution": "720 × 480, 720 × 576, 1280 × 720, 1920 × 1080 (1080p), 3840 × 2160",
+        "Interface": "Full featured Type-C",
+        "Input voltage": "5 VDC (Type-C power supply)",
+        "Power consumption": "2.5 W (Average)",
+        "Current Consumption": "0.9 A (Max.)"
+      },
+      "System config": {
+        "Operating system": "Windows® 7, Windows 8.1, Windows 10 or Windows 11, macOS™, Chrome OS, Linux OS, Android OS. Any OS supports full featured Type-C",
+        "Encryption": "CCMP",
+        "Authentication protocol": "WPA2 (WPA2-PSK (Pre-Shared key) / WPA2-Enterprise)",
+        "Wireless transmission protocol": "IEEE 802.11 a/g/n",
+        "Wireless data rate": "54 Mbps",
+        "Frame Rate": "Up to 60 fps depending on environment (FHD)",
+        "Touch control back": "Support 10 points"
+      },
+      "Structure": {
+        "Net weight": "80 g (0.18 lb)",
+        "Dimensions": "176 mm × 58 mm × 17 mm (6.93\" × 2.28\" × 0.67\")",
+        "LED": "Blue, Green, Red"
+      },
+      "Environment Requirements": {
+        "Operating temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating humidity": "0%–80% (RH) (non-condensing)",
+        "Transmission distance": "The distance between wireless projectors and the host is up to 15 m (49.21 ft)",
+        "Frequency band": "2.4 GHz and 5 GHz (recommended)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/PKP-WP1B_datasheet-20230104.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Wireless Transmitter_Quick Start Guide_V2.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65607/user_manual/Wireless_Transmitter_Quick_Start_Guide_V2.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Wireless Transmitter_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65607/user_manual/Wireless_Transmitter_User_s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-12-10 #Drawings PKP-WP1B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65607/drawings/PKP-WP1B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-04-22 #Firmware DH_wirelesstransmitter_V3.012.0000000.0.R.260319_ReleaseNotes Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65607/firmware/DH_wirelesstransmitter_V3.012.0000000.0.R.260319_ReleaseNotes.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/wireless-transmitter/pkp-wp1b"
+  }
+}

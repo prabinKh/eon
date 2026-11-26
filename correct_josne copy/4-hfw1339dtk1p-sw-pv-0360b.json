@@ -1,0 +1,149 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "WIFI KIT",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wifi-kit",
+    "tab_title": "WIFI KIT",
+    "tab_id": "18262",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "WIFI KIT",
+      "WIFI KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "153626",
+    "product_name": "KIT/NVR2104HC-W/4-HFW1339DTK1P-SW-PV-0360B",
+    "product_title": "3MP Smart Dual Light Wi-Fi Security System with 4CH Wi-Fi NVR and 4×Outdoor 3MP IP Cameras",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wifi-kit/kit/nvr2104hc-w/4-hfw1339dtk1p-sw-pv-0360b",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47388/ProductImage/1_0_01_04_47388_860263978_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/4-hfw1339dtk1p-sw-pv-0360b.html",
+  "detail": {
+    "title": "3MP Smart Dual Light Wi-Fi Security System with 4CH Wi-Fi NVR and 4×Outdoor 3MP IP Cameras",
+    "model": "KIT/NVR2104HC-W/4-HFW1339DTK1P-SW-PV-0360B",
+    "brand": "Dahua",
+    "overview": "Favourite KIT/NVR2104HC-W/4-HFW1339DTK1P-SW-PV-0360B 3MP Smart Dual Light Wi-Fi Security System with 4CH Wi-Fi NVR and 4×Outdoor 3MP IP Cameras Key Points Wi-Fi KIT Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47388/ProductImage/1_0_01_04_47388_860263978_thumb.PNG",
+        "alt": "KIT/NVR2104HC-W/4-HFW1339DTK1P-SW-PV-0360B_View_45Left-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "General": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web, Local GUI",
+        "AI by Recorder": "SMD Plus",
+        "AI by Camera": "Perimeter protection; SMD",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "All channels (8 targets/s)",
+        "SMD Plus by Recorder": "4 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD by Camera": "All channels (16 targets/s)",
+        "Access Channel": "4 channels",
+        "Network Bandwidth": "AI disabled: 80 Mbps incoming, 80 Mbps recording and 80 Mbps outgoing AI enabled: 80 Mbps incoming, 80 Mbps recording and 60 Mbps outgoing",
+        "Resolution": "16 MP; 12 MP; 8 MP; 6 MP; 5 MP; 4 MP; 3 MP; 1080p; 960p; 720p; D1; CIF; QCIF",
+        "Decoding Capability": "AI disabled: 1-channel 16 MP@30 fps; 2-channel 8 MP@30 fps; 3-channel 6 MP@30 fps; 4-channel 5 MP@30 fps AI enabled: 1-channel 12 MP@30 fps; 2-channel 6 MP@30 fps; 2-channel 5 MP@30 fps; 3-channel 4 MP@30 fps; 4-channel 3 MP@30 fps",
+        "Video Output": "1 HDMI, 1 VGA HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Multi-screen Display": "1/4",
+        "Third-party Camera Access": "ONVIF",
+        "Video Compression": "H.264B; H.264; H.264H; H.265",
+        "Audio Compression": "G.711a; G.711Mu; PCM",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; UDP; NTP; DHCP; DNS; SMTP; IP Filter; DDNS; IP Search (Supports IP camera, DVR, NVS, etc.); P2P; Auto Registration",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox",
+        "Wi-Fi Standard": "802.11b/g/n/a/ac/ax",
+        "Frequency Range": "2400-2483.5MHz, 5150-5350MHz, 5470-5725MHz, 5725-5850MHz",
+        "Transmitter Power (EIRP)": "CE EIRP: ≤20dBm@2400-2483.5MHz; ≤23dBm@5150-5250MHz; ≤20dBm@5250-5350MHz; ≤27dBm@5470-5725MHz; ≤14dBm@5725-5850MHz",
+        "Multi-channel Playback": "Up to 4 channels",
+        "Record Mode": "General, motion detection; intelligent; alarm",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback; general playback; event playback; tag playback; smart playback",
+        "General Alarm": "Motion detection; camera external alarm; PIR alarm",
+        "Anomaly Alarm": "Error (no disk, disk error, low space, low quota space; network disconnection; IP conflict; MAC conflict); video loss; video tampering; camera offline",
+        "Intelligent Alarm": "Perimeter protection; SMD Plus",
+        "Alarm Linkage": "Recording; snapshot; buzzer; log; preset; email; tour",
+        "Disk Interface": "1 SATA port. Each disk can contain up to 20 TB. This limit varies depending on the environment temperature.",
+        "USB": "2 (2 rear USB 2.0 ports)",
+        "HDMI": "1",
+        "VGA": "1",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Antenna": "2",
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Basic: 2.2 W (12 VDC); Max.: 6.7 W (12 VDC)",
+        "Net Weight": "0.3 kg (0.66 lb)",
+        "Gross Weight": "0.98 kg (2.16 lb)",
+        "Product Dimensions": "172.4 mm × 83.3 mm × 75.0 mm (6.79\" × 3.28\" × 2.95\") (L × W × H)",
+        "Packaging Dimensions": "332.0 mm × 240.0 mm × 64.0 mm (13.07\" × 9.45\" × 2.52\") (W × D × H)",
+        "Operating Temperature": "–30 °C to +50 °C (–22 °F to +122 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Certifications": "CE",
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE) 0.0005 lux@F1.6 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator Number": "1 (IR LED); 1 (Warm light)",
+        "Angle Adjustment": "Tilt: 0°–90° Rotation: 0°–360°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "2.8 mm: H: 103°; V: 55°; D: 123° 3.6 mm: H: 85°; V: 46°; D: 100°",
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes",
+        "Video Frame Rate": "Main stream: 2304 × 1296@(1–25/30 fps) sub stream: 640 × 360@(1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.264: 32 kbps–6144 kbps H.265: 32 kbps–6144 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.4000–2.4835 GHz, 2.4 G, EIRP≤20 dBm",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "iOS;Android",
+        "Protection": "IP67",
+        "Camera Button": "Reset button",
+        "Casing Material": "Metal + plastic"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-KITNVR2104HC-W4-HFW1339DTK1P-SW-PV-0360B_datasheet_20250915.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wifi-kit/kit/nvr2104hc-w/4-hfw1339dtk1p-sw-pv-0360b"
+  }
+}

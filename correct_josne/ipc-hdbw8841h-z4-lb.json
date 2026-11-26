@@ -1,0 +1,192 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 8 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series",
+    "tab_title": "Classroom Series",
+    "tab_id": "14657",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 8 Series",
+      "Classroom Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "110057",
+    "product_name": "IPC-HDBW8841H-Z4-LB",
+    "product_title": "8MP WizMind Classroom Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/classroom-series/ipc-hdbw8841h-z4-lb",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38162/ProductImage/1_0_01_04_38162_313735949_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdbw8841h-z4-lb.html",
+  "detail": {
+    "title": "8MP WizMind Classroom Network Camera",
+    "model": "IPC-HDBW8841H-Z4-LB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDBW8841H-Z4-LB 8MP WizMind Classroom Network Camera Key Points • High-Quality Imaging with 8 MP Resolution • Built-in Dual Mic & Speaker: Secure Real-Time Talk • Classroom Behavior Analysis Supports Student Mode and Teacher Mode, Enabling Close-up Tracking of Student and Teacher • Exam Behavior Analysis Supports looking around and passing object detection • Sound Management Supports Automatic Noise Filtering, Obtain High-quality Human Voices • IP67 and IK10 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38162/ProductImage/1_0_01_04_38162_313735949_crop_thumb.png",
+        "alt": "IPC-HDBW8841H-Z4-LB_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38162/ProductImage/1_0_01_04_38162_313736628_crop_thumb.png",
+        "alt": "IPC-HDBW8841H-Z4-LB_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38162/ProductImage/1_0_01_04_38162_313735951_crop_thumb.png",
+        "alt": "IPC-HDBW8841H-Z4-LB_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "ROM": "4GB",
+        "RAM": "4GB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.005 lux@F1.6 (Color,30 IRE) 0.0005 lux@F1.6 (B/W,30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "80 m (IR LED)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "3 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–355° Tilt: 0°–80° Rotation: 0°–355°",
+        "Lens Type": "Motorized vari-focal",
+        "Lens Mount": "Module",
+        "Focal Length": "8 mm–32 mm",
+        "Max. Aperture": "F1.6(Constant aperture)",
+        "Field of View": "Horizontal: 42°(W)–15°(T) Vertical: 23°(W)–9°(T) Diagonal: 48°(W)–17°(T)",
+        "Iris Control": "Auto",
+        "Close Focus Distance": "1.5m(4.9 ft)",
+        "DORI Distance": "Lens",
+        "W": "213.6 m (700.79 ft)",
+        "T": "572.8 m (1879.27 ft)",
+        "Classroom Behavior Analysis": "Supports student mode and teacher mode. Student mode: Head up detection, standing detection, heads up people counting, and close-up of standing students. Teacher mode: It offers abnormal number of people detection (for tracking teachers), back turned to students detection, walking detection, writing on blackboard detection, and performs face comparison of teachers.",
+        "Exam Behavior Analysis": "Suport looking around and passing object detection",
+        "Face Recognition": "Face recognition, track, priority, snapshot, face enhancement, face exposure Face attribute extract, 6 attributes and 8 expressions: Gender, age, glasses, expressions (anger, sadness, disgust, fear, surprise, calm, happiness and confusion), mask, beard Face matting setting: face, single inch photo Two snapshot strategies: priority snapshot, recognition Face angle filter Priority time setting Management of 5 group face libraries Single person register and person register in batch Face recognition and similarity setting Max supports face contrast in face library with 100,000 faces Support Duration Optimal",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Main stream: 3840 × 2160@(1–25/30 fps ) sub stream 1: 1920 × 1080@(1–25/30 fps ) sub stream 2: 1920 × 1080@(1–25/30 fps ) sub stream 3: 1920 × 1080@(1–25/30 fps ) sub stream 4: 704 × 576 @(1–25/30 fps )",
+        "Stream Capability": "5 streams",
+        "Resolution": "8M (3840 × 2160); 4M (2688 × 1520); 3M (2048 × 1536); 1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–10240 kbps; H.265: 12 kbps–10240 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON(4 areas,rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Defog": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688 × 1520 resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes",
+        "Audio Compression": "G.711a;G.711Mu;G.726;G.723;PCM",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; scene changing; audio exception; voltage detection; defocus detection; external alarm;face recognition; abnormal number of people detection; stand detection; walking detection; back detection; blackboard writing detection; head up detection;Exam Behavior detection",
+        "Network Port": "RJ-45 (10/100/1000 Base-T)",
+        "SDK and API": "Yes",
+        "Cyber Security": "Video encryption; firmware encryption; configuration encryption; Digest; WSSE; account lockout; security logs; IP/MAC filtering; generation and importing of X.509 certification; syslog; HTTPS; 802.1x; trusted boot; trusted execution; trusted upgrade",
+        "Network Protocol": "IPv4; IPv6; HTTP;TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; SNMP",
+        "Interoperability": "ONVIF (Profile S/Profile G//Profile T); CGI; Milestone",
+        "User/Host": "20",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE: IE 9 and later Chrome: 42 and later Firefox: 48.0.2 and late",
+        "Management Software": "DH-RBS8204AM-I",
+        "Mobile Client": "iOS;Android",
+        "Certifications": "CE-LVD:EN62368-1; CE-EMC:Electromagnetic Compatibility Directive 2014/30/EU; FCC:47 CFR FCC Part 15, Subpart B; FCC ID:FCC PART 15C",
+        "RS-485": "1 (baud rate range:1200 bps–115200 bps)",
+        "Audio Input": "1 channel (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "3 channels in: 5mA 3V–5V DC",
+        "Alarm Output": "2 channels out: 1,000mA 30V DC/500mA 50V AC",
+        "Power Supply": "12 VDC/24 VAC/PoE",
+        "Power Consumption": "Basic: 8.86 W (12 VDC); 8.5 W (24 VAC); 8.64 w(PoE) Max. (IR on + ICR + Intelligence): 17.9 W (12 VDC); 15.9 W (24 VAC); 15.8 W (PoE)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +60 °C (–40°F to +140°F)",
+        "Protection": "IP67; IK10",
+        "Casing": "Metal + plastic",
+        "Product Dimensions": "129.1 mm × Φ157.9 mm (5.08\"× Φ6.22\")",
+        "Net Weight": "1.5 kg (3.31 lb)",
+        "Gross Weight": "1.6 kg (3.53 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDBW8841H-Z4-LB_S0_datasheet_20240530.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Dome Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59337/user_manual/Dahua_Dome_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Dome Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59337/user_manual/Dahua_Dome_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-07-06 #A&E Document IPC-HDBW8841H-Z4-LB_A&E_20260917203704 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48207/a_e_document/1789648927841.docx"
+      },
+      {
+        "name": "2022-01-14 #Drawings IPC-HDBW8841H-Z4-LB_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59337/drawings/1_0_01_04_38162_1918550123.pdf"
+      },
+      {
+        "name": "2022-01-14 #Drawings IPC-HDBW8841H-Z4-LB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59337/drawings/1_0_01_04_38162_1928784057.pdf"
+      },
+      {
+        "name": "2024-07-31 #Firmware DH_IPC-HX8XXX-HawKing_MultiLang_PN_Stream5_V3.000.0000000.7.R.240725 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/59337/firmware/DH_IPC-HX8XXX-HawKing_MultiLang_PN_Stream5_V3.000.0000000.7.R.240725.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/classroom-series/ipc-hdbw8841h-z4-lb"
+  }
+}

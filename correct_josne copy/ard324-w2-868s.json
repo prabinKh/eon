@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "125547",
+    "product_name": "ARD324-W2(868S)",
+    "product_title": "Wireless Door Detector Plus",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard324-w2(868s)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_835749971_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard324-w2-868s.html",
+  "detail": {
+    "title": "Wireless Door Detector Plus",
+    "model": "ARD324-W2(868S)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD324-W2(868S) Wireless Door Detector Plus Key Points · Supports tilt and shock detection, and generates alarms when the event happens. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_835749971_crop_thumb.PNG",
+        "alt": "ARD324-W2(868S)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_835749974_crop_thumb.PNG",
+        "alt": "ARD324-W2(868S)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_835749972_crop_thumb.PNG",
+        "alt": "ARD324-W2(868S)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_835749976_crop_thumb.PNG",
+        "alt": "ARD324-W2(868S)_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_767200998-Black_temporary_thumb.PNG",
+        "alt": "ARD324-W2(868S)_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_767200997-Black_temporary_thumb.PNG",
+        "alt": "ARD324-W2(868S)_Rendergraph_45Right-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/image/1_0_01_19_10682_767200995-Black_temporary_thumb.PNG",
+        "alt": "ARD324-W2(868S)_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Input/Output": {
+        "Alarm Input": "1(Normally Closed;Normally Open;Impulse Count)"
+      },
+      "Function": {
+        "Indicator Light": "1 × green alarm indicator",
+        "Button": "1 × power switch",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Yes",
+        "Measuring Range (Temperature)": "Indoor: –15 °C to +65 °C (+5 °F to +149 °F)",
+        "Measuring Accuracy": "±1 °C (±1.8 °F)"
+      },
+      "Technical": {
+        "Sensor": "Triaxial Accelerometer, Reed Switch",
+        "Movement Distance": "< 40 mm (1.57\")",
+        "Shock Detection": "High, normal, low",
+        "Tilt Detection": "Up to 25°",
+        "Test Mode": "Yes",
+        "Scenario": "Non-metal doors",
+        "Operating Current": "12 uA",
+        "Alarm Current": "2.3 mA"
+      },
+      "Wireless": {
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 25 mW",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "Up to 1,200 m (3937.01 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "CR123A × 1",
+        "Battery Life": "If triggered twice a day with a battery efficiency of 70%: 3 years (The external input type is NO) 1.5 years (The external input type is NC)",
+        "Power Consumption": "167 mW",
+        "Operating Temperature": "Indoor: –10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Product Dimensions": "100.2 mm × 20.8 mm × 20.3 mm (3.94\" × 0.82\" × 0.80\")",
+        "Packaging Dimensions": "135.0 mm × 98.5 mm × 27.8 mm (5.32\" × 3.87\" × 1.09\")",
+        "Net Weight": "70 g (0.15 lb)",
+        "Gross Weight": "115 g (0.25 lb)",
+        "Installation": "Bracket mount",
+        "Casing Material": "PC + ABS",
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARD324-W2(868S)_datasheet_20240628.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57927/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Wireless Door Detector Plus(Small)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/user_manual/Wireless_Door_Detector_Plus(Small)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Wireless Door Detector Plus(Small)_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67617/user_manual/Dahua_Wireless_Door_Detector_Plus(Small)_User_s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2023-05-30 #Firmware General_ARD324-W2_868_V1.000.0000000.1.R.20230517 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2192344/M/General_ARD324-W2_868_V1.000.0000000.1.R.20230517.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard324-w2(868s)"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 8 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series",
+    "tab_title": "Corner Series",
+    "tab_id": "8782",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 8 Series",
+      "Corner Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "37047",
+    "product_name": "IPC-HCBW8442",
+    "product_title": "4MP WizMind Corner Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/corner-series/ipc-hcbw8442",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_31635/ProductImage/1_0_01_04_31635_313468633_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hcbw8442.html",
+  "detail": {
+    "title": "4MP WizMind Corner Network Camera",
+    "model": "IPC-HCBW8442",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HCBW8442 4MP WizMind Corner Network Camera Key Points • Corner Camera with Anti-ligature Design to Prevent Unhealthy Behavior • 140dB WDR Ensures Clear Details in Strong Backlight Conditions • Vandal-proof IK10+ Protection Withstands 50J Impact • IP67 Protection, Dustproof & Water-Resistant • 940nm Invisible IR Illuminator,Illumination Distance up to 10m Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_31635/ProductImage/1_0_01_04_31635_313468633_crop_thumb.png",
+        "alt": "IPC-HCBW8442_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_31635/ProductImage/1_0_01_04_31635_313468632_crop_thumb.png",
+        "alt": "IPC-HCBW8442_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8”4Megapixel progressive CMOS",
+        "Max. Resolution": "2688 (H) ×1520 (V)",
+        "ROM": "128 MB",
+        "RAM": "512 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100000 s",
+        "Min. Illumination": "0.004 Lux@F2.0 (Color, 30IRE) 0.0004 Lux@F2.0 (B/W, 30IRE) 0 lux (Illuminator on)",
+        "Illumination Distance": "10 m (32.8 ft) (monitoring distance)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "2",
+        "Pan/Tilt/Rotation Range": "Vertical: -10° to +10° Rotation: 0° to 355°",
+        "Lens Type": "Fixed",
+        "Mount Type": "M12",
+        "Focal Length": "2.5 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "Horizontal: 135° Vertical: 90°",
+        "Iris Type": "Fixed aperture",
+        "Close Focus Distance": "0.4 m (1.3 ft)",
+        "DORI Distance": "Detect",
+        "34.5 m (113.2 ft)": "13.8 m (45.3 ft)",
+        "General IVS Analytics": "Abandoned object; moving object",
+        "Heat Map": "Yes",
+        "Perimeter Protection": "Tripwire; intrusion; fast moving (the three functions support the classification and accurate detection of vehicle and human); loitering detection; people gathering; parking detection",
+        "People Counting": "Support the counting of enter number, leave number and pass number, and displaying and outputting yearly/monthly/daily reports Support the counting of number in area, and 4 rules configuration. Count number of people or stay time and link alarm Support queue management, and 4 rules configuration. Count number of people or stay time and link alarm",
+        "Intelligent Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos.",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+/ Smart H.264+",
+        "Video Frame Rate": "Main stream: 2688 × 1520 (1 fps–25/30 fps) Sub stream: D1 (1 fps–25/30 fps) Third stream: 1080p (1 fps–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "3 streams",
+        "Resolution": "2688 × 1520; 2560 × 1440; 2304 × 1296; 2016 × 1512; 1080p (1920 × 1080); UXGA(1600 × 1200); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF(352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR; VBR",
+        "Video Bit Rate": "H.264: 32 Kbps–8192 Kbps H.265: 19 Kbps–8192 Kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "140 dB",
+        "White Balance": "Auto/natural/street lamp/outdoor/manual/regional custom",
+        "Gain Control": "Manual/Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Electronic Image Stabilization (EIS)": "Yes",
+        "Smart Illumination": "Yes (Adjust by user)",
+        "Defog": "Yes",
+        "Image Rotation": "0°/90°/180°/270°",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes",
+        "Audio Compression": "G.711a; G.711Mu; G726;",
+        "Network": "RJ-45 (10/100 Base-T)",
+        "Cyber Security": "Video encryption; firmware encryption; configuration encryption; Digest; WSSE; account lockout; security logs; IP/MAC filtering; generation and importing of X.509 certification; syslog; HTTPS; 802.1x; trusted boot; trusted execution; trusted upgrade",
+        "Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS;UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; SNMP",
+        "Interoperability": "ONVIF (Profile S/Profile G); CGI; Milestone; Genetec; P2P",
+        "Scene self-adaptation (SSA)": "Yes",
+        "User/Host": "20 (Total bandwidth: 80 M.)",
+        "Edge Storage": "FTP; NAS; Micro SD card (support max. 256 G)",
+        "Browser": "IE: Versions later than IE 8 Google Firefox Apple: versions later than Safari 12",
+        "Management Software": "Smart PSS; DSS; DMSS",
+        "Mobile Phone": "IOS, Android",
+        "Certifications": "CE-LVD: EN62368-1 CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU FCC: 47 CFR FCC Part 15, Subpart B",
+        "RS-485": "1 (Baud rate range: 1200 bps–115200 bps)",
+        "Audio Input": "1 channel (Terminal)",
+        "Audio Output": "1 channel (Terminal)",
+        "Alarm Input": "1 channel in: 5mA 3V–5V DC",
+        "Alarm Output": "1 channel out: 300mA 12V DC",
+        "Power Supply": "12V DC/PoE (802.3af) /ePOE",
+        "Power Consumption": "Basic power consumption: 3W (12V DC); 3.6W (PoE) Max. power consumption (ICR + IR full intensity): 9.5W (12V DC); 11.5W (PoE)",
+        "Operating Temperature": "–30°C to +60°C (–22°F to +140°F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30°C to +60°C (–22°F to +140°F)",
+        "Ingress Protection": "IP67; IK10+(50J)",
+        "Casing": "Metal",
+        "Dimensions": "209.4 mm × 212.0 mm × 103.1 mm (8.2\" × 8.3\" × 4.1\") (L × W × H)",
+        "Net Weight": "1365 g (3.0 lb)",
+        "Gross Weight": "1465 g (3.2 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HCBW8442_S0_datasheet_20240530.pdf"
+      },
+      {
+        "name": "2026-01-15 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52707/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-15 #User Manual Dahua Corner Network Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30007/user_manual/Dahua_Corner_Network_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-01-15 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52747/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-01-15 #User Manual Corner Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30007/user_manual/Corner_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-07-10 #A&E Document IPC-HCBW8442_A&E_20260918133100 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10627/a_e_document/1789714859165.docx"
+      },
+      {
+        "name": "2021-07-01 #Drawings IPC-HCBW8442_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30007/drawings/1_0_01_04_31634_1918550122.pdf"
+      },
+      {
+        "name": "2021-07-01 #Drawings IPC-HCBW8442_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30007/drawings/1_0_01_04_31634_1924218294.pdf"
+      },
+      {
+        "name": "2025-03-19 #Firmware DH_IPC-HX5XXX-Volt_MultiLang_NP_Stream3_V2.840.0000000.30.R.250227 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3057949/M/DH_IPC-HX5XXX-Volt_MultiLang_NP_Stream3_V2.840.0000000.30.R.250227.zip"
+      },
+      {
+        "name": "2025-03-19 #Firmware DH_IPC-HX5XXX-Volt_MultiLang_PN_Stream3_V2.840.0000000.30.R.250227 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30007/firmware/DH_IPC-HX5XXX-Volt_MultiLang_PN_Stream3_V2.840.0000000.30.R.250227.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-8-series/corner-series/ipc-hcbw8442"
+  }
+}

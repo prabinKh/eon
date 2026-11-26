@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Turnstiles",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles",
+    "series": "Swing Barrier",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier",
+    "tab_title": "Swing Barrier",
+    "tab_id": "16337",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Turnstiles",
+      "Swing Barrier",
+      "Swing Barrier"
+    ]
+  },
+  "card_info": {
+    "product_id": "128547",
+    "product_name": "ASGB1XXK-X",
+    "product_title": "Dahua Swing Barrier",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier/lite/asgb1xxk-x",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12077_338870444_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asgb1xxk-x.html",
+  "detail": {
+    "title": "Dahua Swing Barrier",
+    "model": "ASGB1XXK-X",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASGB1XXK-X Dahua Swing Barrier Key Points • Cabinet Material: SUS304 1.0mm • DC Brushless Servo Motor, MCBF ≥ 3 Million Times • 4 Pairs of IR Detectors • 600mm Standard Passage Width, Level Up Width to 900mm • 3-Color LED Indicates The Passing Status • 3 Security Levels and 9 Combinations of Passage Modes • Remaining Open During Fire Emergencies • Built-in Controller and IC Card Reader Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12077_338870444_thumb.png",
+        "alt": "ASGB1XXK-X_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12077_338870443_thumb.png",
+        "alt": "ASGB1XXK-X_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230530/1_0_01_25_12077_338870445_thumb.png",
+        "alt": "ASGB1XXK-X_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Basic": {
+        "Product Type": "Swing turnstile",
+        "Motor": "Brushless DC motor",
+        "Status Indicator Light": "Yes",
+        "Voice Prompt": "Yes",
+        "Casing Material": "SUS 304"
+      },
+      "Performance": {
+        "MCBF": "3 million",
+        "Passage Width": "600 mm (23.62\")",
+        "Max Custom Passage Width": "900 mm (35.43\")",
+        "Input Port": "1× Wiegand input port, 1 × RS-485 input port",
+        "Passing Speed": "20–70 people/min",
+        "Unlock/Lock Speed": "0.8 s",
+        "Pairs of IR Detectors": "4",
+        "Cabinet Thickness": "1.0 mm (0.04\")",
+        "Top Cover Thickness": "1.2 mm (0.05\")",
+        "Barrier Material": "Acrylic",
+        "Barrier Thickness": "8.0 mm (0.31\")"
+      },
+      "Port": {
+        "Network Port": "1 × 10 Mbps/100 Mbps self-adaptive Ethernet port"
+      },
+      "Capacity": {
+        "User Capacity": "100000",
+        "Record Capacity": "100000"
+      },
+      "General": {
+        "Power Supply": "100-240 VAC, 3 A, 50 Hz/60 Hz",
+        "Vandal-proof Rating": "Glass plate: IK04 Stainless steel cabinet: IK07",
+        "Protection": "IPX4",
+        "Power Consumption": "Single turnstile: ≤15 W (standby), ≤80 W (working)",
+        "Product Dimensions": "1,200 mm × 140 mm × 980 mm (47.24\" × 5.51\" × 38.58\") (L × W × H)",
+        "Packaging Dimensions": "1299 mm × 332 mm × 1,173 mm (51.14\" × 13.07\" × 42.24\") (L × W × H)",
+        "Gross Weight": "Single turnstile: 24 kg (52.91 lb)",
+        "Operating Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Operating Humidity": "5%–90% (RH), non-condensing",
+        "Operating environment": "Indoor; Outdoor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASGB1XXK-X_datasheet_20230315.pdf"
+      },
+      {
+        "name": "2025-05-24 #User Manual Swing Barrier_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007670/202505/Swing_Barrier_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-04-17 #A&E Document ASGB1XXK-X_A&E_20260901153756 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70137/a_e_document/1788248451213.docx"
+      },
+      {
+        "name": "2023-12-05 #Drawings ASGB1XXK-X_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70137/drawings/ASGB1XXK-X_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-09-25 #Firmware General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3396077/M/General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910.zip"
+      },
+      {
+        "name": "2023-05-25 #Firmware General_ASGXXXX-S2_Eng_B1K-MainBoard_MCU_V1.000.0000000.2.R.230425 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2186766/M/General_ASGXXXX-S2_Eng_B1K-MainBoard_MCU_V1.000.0000000.2.R.230425.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier/lite/asgb1xxk-x"
+  }
+}

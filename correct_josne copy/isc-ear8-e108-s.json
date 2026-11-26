@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "145605",
+    "product_name": "ISC-EAR8-E108-S",
+    "product_title": "Ultra Network Acrylic EAS RF Antenna (MONO)",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear8-e108-s",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240425/1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-ear8-e108-s.html",
+  "detail": {
+    "title": "Ultra Network Acrylic EAS RF Antenna (MONO)",
+    "model": "ISC-EAR8-E108-S",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAR8-E108-S Ultra Network Acrylic EAS RF Antenna (MONO) Key Points EAS Label and Tag Detection It can effectively detect RF labels and tags within the coverage range. Once the product with a label or tag passes through the antenna, a sound and light alarm will be triggered, and the alarm volume can be adjusted as needed. Anti-inference Adjustment Supports the configuration of TX strength, threshold, gain, and noise reduction level. It promotes the device's adaptability to most of the interference environment. And the parameters can be easily set on the web side. CCTV Linkage Once the alarm is triggered, the antenna will send the signal to the CCTV system and save the alarm videos automatically for reference. Its high performance contributes to reducing business loss and theft. Network Platform Connection The antenna is equipped with the network communication function. This function enables the device connect to the network platform and supports the remote configuration of the device at any time. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/1_thumb.png",
+        "alt": "ISC-EAR8-E108-S_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/4_thumb.png",
+        "alt": "ISC-EAR8-E108-S_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/2_thumb.png",
+        "alt": "ISC-EAR8-E108-S_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/3_thumb.png",
+        "alt": "ISC-EAR8-E108-S_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAR8-E108-S",
+        "Technology": "Radio-Frequency (RF)",
+        "Detection Frequency": "8.2 MHz",
+        "Max. Detection Distance of Tags": "0.8 m - 0.9m (2.62 ft - 2.95 ft) *depending on environment",
+        "Max. Detection Distance of Labels": "0.7 m - 0.8 m (2.30 ft -2.62 ft ) *depending on environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "Integrated transceiver antenna",
+        "Sound & Light Alarm": "Integrated transceiver antenna",
+        "Signal Strength Display": "Integrated transceiver antenna"
+      },
+      "Certifications": {
+        "Certifications": "CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "Ports": {
+        "Alarm Output Port": "For Camera Linkage",
+        "Network Port": "RJ45",
+        "Network Protocol": "HTTP, TCP/IP",
+        "Open Protocol": "SDK",
+        "Supporting Software": "DSS Pro, Configtool, WISS"
+      },
+      "Regular": {
+        "Shell Material": "ABS and acrylic",
+        "Shell Color": "Transparent and white",
+        "Input Voltage": "100 – 240V AC @ 50 Hz / 60 Hz",
+        "Maximum Power Consumption": "17 W",
+        "Typical Power Consumption": "15.5 W",
+        "Overall Exterior Dimensions": "1569 mm × 350 mm × 134 mm (61.77\" × 13.78\" × 5.28\")",
+        "Packing Dimensions of Antenna": "1690 mm × 464 mm × 213 mm (66.54\" × 18.27\" × 8.39\")",
+        "Net Weight": "15 kg (33.07 lb)",
+        "Total Weight": "20 kg (44.09 lb)",
+        "Operating Temperature": "0 °C – 45 °C ( 32 °F – 113 °F)",
+        "Operating Humidity": "5 % – 95 % (RH)",
+        "Installation": "Vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAR8-E108-S_S0_datasheet_20231218.pdf"
+      },
+      {
+        "name": "2024-01-22 #User Manual 8-Series EAS RF Transceiver Antenna_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/user_manual/8-Series_EAS_RF_Transceiver_Antenna_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-02-06 #Drawings ISC-EAR8-E108-S_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/drawings/ISC-EAR8-E108-S_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-02-06 #Drawings ISC-EAR8-E108-S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/drawings/ISC-EAR8-E108-S_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-03-05 #Firmware General_ISCEAR8E1xx_V1.000.0000000.1.R.250211 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/firmware/General_ISCEAR8E1xx_V1.000.0000000.1.R.250211.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear8-e108-s"
+  }
+}

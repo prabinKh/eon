@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "Master 05 Wired Office Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759356707",
+    "product_name": "Master 05 Wired Office Keyboard",
+    "product_title": "Master 05 Wired Office Keyboard",
+    "product_url": "https://antesports.com/products/master-05-wired-office-keyboard-104-keys",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_708faa51-ff47-4576-8681-96c8393f2028.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master-05-wired-office-keyboard-104-keys.html",
+  "detail": {
+    "title": "Master 05 Wired Office Keyboard",
+    "model": "ANTR0097",
+    "brand": "Ant Esports",
+    "overview": "The Ant Master 05 is a full-size 104-key wired keyboard built for everyday productivity, featuring a dedicated numeric pad that makes it a strong fit for data entry, accounting and spreadsheet-heavy office work. High-grade membrane switches offer a soft, whisper-quiet typing experience suited to shared offices or late-night work at home, and are stress-tested to survive up to 5 million keystrokes for long-term reliability. A 1.3-metre USB cable delivers a zero-setup plug-and-play connection with instant recognition on Desktop, Laptop, Mac and Linux systems, making the Master 05 a dependable, no-fuss daily driver for office and home use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_708faa51-ff47-4576-8681-96c8393f2028.png",
+        "alt": "Master 05 Wired Office Keyboard - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB, 1.3m Cable",
+        "Keys": "104 with Numeric Pad",
+        "Switch Type": "Membrane, Silent",
+        "Durability": "5 Million Keystrokes",
+        "Compatibility": "PC, Laptop, Mac, Linux",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired USB, 1.3m Cable",
+        "KEYS": "104 with Numeric Pad",
+        "SWITCH TYPE": "Membrane, Silent",
+        "DURABILITY": "5 Million Keystrokes",
+        "COMPATIBILITY": "PC, Laptop, Mac, Linux",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹249.00",
+        "MRP (INR)": "₹699.00",
+        "SKU": "ANTR0097"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master-05-wired-office-keyboard-104-keys"
+  }
+}

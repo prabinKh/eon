@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Intex Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/intex-keyboard",
+    "series": "IT Keyboard",
+    "series_url": "https://www.intex.in/collections/it-keyboard",
+    "tab_title": "Intex Keyboard",
+    "tab_id": "7477553037530",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Intex Keyboard",
+      "Corona G (IT-KB333) Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "7477553037530",
+    "product_name": "Corona G (IT-KB333) Keyboard",
+    "product_title": "Corona G (IT-KB333) Keyboard",
+    "product_url": "https://www.intex.in/products/corona-g-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1_9bff38be-31bb-405e-9d34-a0e018521a44.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/corona-g-keyboard.html",
+  "detail": {
+    "title": "Corona G (IT-KB333) Keyboard",
+    "model": "1147-6000-001",
+    "brand": "Intex",
+    "overview": "With a 1.2 m elongated wire length, this premium wired keyboard with plug and play is your ideal choice. It has a whopping 80 lac click button cycle.",
+    "features": [
+      "Premium USB Wired Keyboard",
+      "Plug & play",
+      "Spill Resistance with Checkered Design",
+      "80 Lac Clicks Button Cycle",
+      "1.2m Elongated Wire Length",
+      "One Year Service Warranty"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1_9bff38be-31bb-405e-9d34-a0e018521a44.jpg",
+        "alt": "Corona G (IT-KB333) Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-1-tranp.png",
+        "alt": "Corona G (IT-KB333) Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-2_a30ab796-afba-415a-9dba-8b249eb773c4.jpg",
+        "alt": "Corona G (IT-KB333) Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-3_551dded0-b8c1-4c8b-86d6-a0f0ad1ebb26.jpg",
+        "alt": "Corona G (IT-KB333) Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-4_3d630b76-1aac-4368-bb59-f7a377c316ac.jpg",
+        "alt": "Corona G (IT-KB333) Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/PDP-5_11531be6-edf8-4ab7-a4f6-af9f3f049514.jpg",
+        "alt": "Corona G (IT-KB333) Keyboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Premium USB Wired Keyboard",
+        "Feature 2": "Plug & play",
+        "Feature 3": "Spill Resistance with Checkered Design",
+        "Feature 4": "80 Lac Clicks Button Cycle",
+        "Feature 5": "1.2m Elongated Wire Length",
+        "Feature 6": "One Year Service Warranty"
+      },
+      "General": {
+        "Model": "1147-6000-001"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Keyboard_Corona_G.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/corona-g-keyboard"
+  }
+}

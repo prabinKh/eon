@@ -1,0 +1,135 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "58",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "16 Ch.",
+      "CP-UVR-1616K8-I3"
+    ]
+  },
+  "card_info": {
+    "product_id": "1727",
+    "product_name": "CP-UVR-1616K8-I3",
+    "product_title": "CP-UVR-1616K8-I3",
+    "product_url": "https://cpplusworld.com/cp-uvr-1616k8-i3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/ceb2c31a-eabf-4c5f-bf00-9dc17d5d2f45.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-1616k8-i3.html",
+  "detail": {
+    "title": "CP-UVR-1616K8-I3",
+    "model": "CP-UVR-1616K8-I3",
+    "brand": "CP Plus",
+    "overview": "16 Ch. 5M-N Digital Video Recorder",
+    "features": [
+      "Supports HDCVI, AHD, TVI, CVBS and IP video input",
+      "AI Instastream, Instastream, H.265, H.264+, H.264 video compression",
+      "24 Channel IP camera input and each channel can be up to 8 MP, 128 Mbps  incoming bandwidth",
+      "4 Channel perimeter protection for analog channels which supports                   tripwire and intrusion detection powered by AI",
+      "16 Channel IMD+ for analog channels or 24 Channel IMD by camera which             allows the device to trigger accurate alarms for humans and  vehicles",
+      "Support 8 SATA HDDs up to 20TB Each, 4 USB Ports, 1 RS232,  1 RS485, 1 eSATA",
+      "2 HDMI / 1 VGA  Heterogeneous video output",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ceb2c31a-eabf-4c5f-bf00-9dc17d5d2f45.png",
+        "alt": "CP-UVR-1616K8-I3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/4fc8e53a-9ae1-4f1d-ab3e-3f4b4d371814.png",
+        "alt": "CP-UVR-1616K8-I3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded LINUX",
+        "Operating Interface": "Web, Local GUI",
+        "Intellisearch 2.0 AI by DVR": "2 Channels",
+        "Perimeter Performance AI by  DVR": "Advanced Mode: 2 channels, 10 IVS rules for each channel <br> General Mode: 4 channels, 10 IVS rules for each Channel",
+        "Face Attributes": "Gender, Age group, Glasses, Expressions, Face mask, Beard",
+        "Face Detection Performance AI by DVR": "2 Channels (up to 12 face images/s each channel)",
+        "Face Database Capacity": "Up to 10 face databases with 10,000 images",
+        "Face Recognition                                  Performance AI by DVR": "2 Channels",
+        "IMD+ by DVR": "16 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by  leaves, rain and lighting condition change",
+        "IMD By Camera": "24 Channels",
+        "AI Video Quality Analytics               by DVR": "16 channels: Supports detecting brightness levels, Color cast, Defocus, Overexposure, Contrast  levels, Black and white",
+        "Scene Changing by DVR": "1 Channel",
+        "Irregular Black Block Masking  by DVR": "1 Channel",
+        "Analog Camera Input": "16 BNC ports, Supports HDCVI/AHD/TVI/CVBS autodetect",
+        "Camera Input": "1. CVI: 5MP @25fps, 5MP @20fps, 5MP @10/12.5fps, 4MP @25/30fps, 1080p @25/30fps,  720p @50/60fps, 720p @25/30fps                                                                                                                  2. TVI: 5MP(2560 x 1944)@20fps, 5MP(2960 x 1665)@20fps, 4MP @25/30fps, 1080p  @25/30fps, 720p @25/30fps                                                                                                                                              3. AHD: 5MP @20fps, 4MP @25/30fps, 1080p @25/30fps, 720p @25/30fps.",
+        "IP Camera Input": "Up to 24 channels of IPC access (8 IP Channels + 16 Analog Channels)                                                   Incoming bandwidth: 128 Mbps, Recording bandwidth: 128 Mbps and outgoing bandwidth:  128 Mbps                                                                                                                                                            *After IP extension is enabled, Video Quality Analytics, Scene Changing, Face Recognition,  Face Detection, IMD, Perimeter Protection and Intellisearch 2.0 cannot be used.",
+        "Stream Capability": "Dual stream",
+        "Encoding Capacity": "Main stream: 5MP Mode: 4 Channel 5MP@1fps-6fps, others 5M-N@1fps-12fps                                      5M-N Mode: 5M-N@1fps–12fps, 4M-N/ 1080p@1fps–15fps, 1080N/ 720p/ 960H/ D1/CIF  @1fps–25/30fps                                                                                                                                                       Sub stream: D1/ CIF@1fps–15fps",
+        "Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sample Rate": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 Kbps",
+        "Video Output": "2 HDMI, 1 VGA, 1 CVBS                                                                                                                                                  HDMI 1: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720                                                                    VGA/HDMI 2: 1920 × 1080, 1280 × 1024, 1280 × 720                                                                                     It changes to 1920 × 1080, 1280 × 1024, 1280 × 720  when Face, IVS & IMD or Intellisearch is  selected in AI Mode.                                                                                                                                  *Heterogeneous video sources output for HDMI2 is configurable.",
+        "Video Display Split": "When IP extension mode not enabled: 1/4/8/9/16                                                                                  When IP extension mode enabled: 1/4/8/9/16/25",
+        "Video Compression": "AI Instastream, Instastream, H.265, H.264+, H.264",
+        "Audio Compression": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP,  DDNS, SNMP, Alarm Server, InstaOn, Auto Connect, ONVIF (Profile T, Profile S, Profile G), CGI,  SDK",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP,  DDNS, SNMP, Alarm Server, InstaOn, Auto Connect, ONVIF (Profile T, Profile S, Profile G), CGI,  SDK",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Network Mode": "Multi-address mode, Fault tolerance, Load balance",
+        "Record Mode": "General, Alarm, Motion detection, Intelligent, POS",
+        "Recording Playback": "1/4/9/16       It changes to 1/4/9 split when Face or IVS & IMD is selected in AI Mode.",
+        "Backup Mode": "USB device and network",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Disk Group": "Support",
+        "General Alarm": "Motion detection, Local alarm, Alarm box, HDCVI alarm, Camera external alarm, Network  alarm, PIR alarm",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict,  MAC conflict), Video loss, Video tampering, Camera offline",
+        "Intelligent Alarm": "Face detection, Face recognition, Perimeter protection, IMD+",
+        "Alarm Linkage": "Record, Snapshot (panoramic), Local alarm output, IPC external alarm output, Audio, Buzzer,  Log, Preset, Email",
+        "CVBS Output": "1 Channel",
+        "Audio Input": "16 Channels BNC        16 Channels BNC (Coaxial Audio)",
+        "Audio Output": "1 Channel BNC",
+        "Two-way Talk": "1 Channel BNC",
+        "Alarm Input": "16 Channels",
+        "Alarm Output": "6 Channels",
+        "Disk Interface": "8 SATA ports. Each disk can contain up to 16TB. This limit varies depending on the environment temperature.",
+        "Interface Ports": "4 (2 front USB 2.0 ports, 2 rear USB 3.0 ports), 1 RS232, 1 eSATA Port, 1 RS485",
+        "Power Supply": "100–240 VAC, 50±2% Hz",
+        "Ethernet": "2 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Consumption": "<15 W (without HDD)",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Dimensions": "440.0mm x 463.0mm x 94.9mm",
+        "Weight": "6720g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-1616K8-I3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/99f1600c-79d8-4a3a-97f8-fd8e5280b853.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-1616k8-i3"
+  }
+}

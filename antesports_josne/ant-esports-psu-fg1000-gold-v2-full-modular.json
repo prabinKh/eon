@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420860707",
+    "product_name": "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit",
+    "product_title": "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-fg1000-gold-v2-full-modular",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_33ffe34a-01d4-4b89-9d1d-b7dc59a7f05d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-fg1000-gold-v2-full-modular.html",
+  "detail": {
+    "title": "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit",
+    "model": "AESP0416",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU FG1000 Gold V2 Full Modular is a high-performance 1000W power supply built for enthusiast gaming PCs and professional workstations. Featuring 80 Plus Gold certification, ATX 3.1 & PCIe 5.1 compliance, and a fully modular design, it delivers outstanding power efficiency, superior cable management, and rock-solid stability. Equipped with a native 600W 12VHPWR connector, along with multiple CPU, PCIe, SATA, and Molex connectors, it's the perfect choice for powering flagship graphics cards and demanding high-end PC builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_33ffe34a-01d4-4b89-9d1d-b7dc59a7f05d.png",
+        "alt": "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_5ce70346-486a-4d5b-b768-d8173a51466f.png",
+        "alt": "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_b21d245d-3afb-4586-a755-4f2c018bdeda.png",
+        "alt": "FG1000 Gold V2 80 Plus Gold Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Offer Price (INR)": "₹10,999.00",
+        "MRP (INR)": "₹13,599.00",
+        "SKU": "AESP0416"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-fg1000-gold-v2-full-modular"
+  }
+}

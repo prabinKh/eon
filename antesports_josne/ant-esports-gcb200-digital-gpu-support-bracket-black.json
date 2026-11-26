@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416961315",
+    "product_name": "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK",
+    "product_title": "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK",
+    "product_url": "https://antesports.com/products/ant-esports-gcb200-digital-gpu-support-bracket-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_9bbdd322-ab5c-4a23-9b91-8b9c1a9dc069.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-gcb200-digital-gpu-support-bracket-black.html",
+  "detail": {
+    "title": "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK",
+    "model": "GCB200",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS GCB200 Digital GPU Support Bracket is a premium graphics card support solution designed to eliminate GPU sag while adding intelligent monitoring and customizable ARGB lighting to your gaming PC. Built with a rugged metal construction, it securely supports even the heaviest graphics cards. The integrated digital display provides real-time CPU and GPU temperature monitoring, while the adjustable sliding mechanism ensures compatibility with a wide range of graphics cards and PC cases. Featuring a standard 5V 3-Pin ARGB connector, the GCB200 seamlessly synchronizes lighting with major motherboard RGB software, making it the perfect combination of functionality and aesthetics.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_9bbdd322-ab5c-4a23-9b91-8b9c1a9dc069.png",
+        "alt": "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_422e301b-f528-4d21-9cea-9d0bcfefb505.png",
+        "alt": "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_347ab1ef-a2f9-49dd-a572-b837e8ddcb99.png",
+        "alt": "GCB200 DIGITAL GPU SUPPORT BRACKET - BLACK - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Category": "GPU Holder",
+        "Model": "GCB200",
+        "Color": "Black",
+        "Material": "Metal",
+        "Illumination": "ARGB",
+        "Connector": "5V 3-Pin ARGB",
+        "Slide Control": "Supported",
+        "Digital Display": "CPU & GPU Temperature Display",
+        "Compatibility": "Universal Graphics Card Support",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "GPU Holder",
+        "MODEL": "GCB200",
+        "COLOR": "Black",
+        "MATERIAL": "Metal",
+        "ILLUMINATION": "ARGB",
+        "CONNECTOR": "5V 3-Pin ARGB",
+        "SLIDE CONTROL": "Supported",
+        "DIGITAL DISPLAY": "CPU & GPU Temperature Display",
+        "COMPATIBILITY": "Universal Graphics Card Support",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹1,849.00",
+        "MRP (INR)": "₹3,199.00",
+        "SKU": "AESP0334"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-gcb200-digital-gpu-support-bracket-black"
+  }
+}

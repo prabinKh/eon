@@ -1,0 +1,155 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Emergency Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm",
+    "series": "Emergency Phone Tower",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/emergency-alarm/emergency-phone-tower",
+    "tab_title": "Emergency Phone Tower",
+    "tab_id": "15697",
+    "breadcrumbs": [
+      "Alarms",
+      "Emergency Alarm",
+      "Emergency Phone Tower",
+      "Emergency Phone Tower"
+    ]
+  },
+  "card_info": {
+    "product_id": "114447",
+    "product_name": "VTA8311AB",
+    "product_title": "Dahua Wired&Wireless Alarm Column",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm/emergency-phone-tower/vta8311ab",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220922/VTA8311AB_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/vta8311ab.html",
+  "detail": {
+    "title": "Dahua Wired&Wireless Alarm Column",
+    "model": "VTA8311AB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTA8311AB Dahua Wired&Wireless Alarm Column Key Points 1. Supports being linked to alarm receiving centers and working as a landline phone to make phone calls. 2. Supports two-way voice talk and calling through the platform or management device to broadcast voice. 3. With its high-definition camera, the device supports video and snapshot linkage, and OSD overlay on the webpage. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220922/VTA8311AB_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220922/VTA8311AB_2_thumb.png",
+        "alt": "VTA8311AB",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220922/VTA8311AB_3_thumb.png",
+        "alt": "VTA8311AB",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220922/VTA8311AB_4_thumb.png",
+        "alt": "VTA8311AB",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Network Port": {},
+      "Telephone Line": {},
+      "SIM Card Slot": {},
+      "RS-232": {},
+      "RS-485": {},
+      "Auxiliary Power Output": {},
+      "SD Card Slot": {},
+      "Video Compression": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Audio Compression": {},
+      "Volume Control": {},
+      "Two-way Audio": {},
+      "Field of View": {},
+      "Resolution": {},
+      "Frame Rate": {},
+      "Illumination Mode": {},
+      "Illumination Range": {},
+      "Day/Night Switch": {},
+      "Indicator Light": {},
+      "Button": {},
+      "External Accessories": {},
+      "Phone Call": {},
+      "Video Linkage": {},
+      "Camera Video and Snapshot Linkage": {},
+      "OSD Overlay": {},
+      "Arm and Disarm": {},
+      "Remote Update": {},
+      "Network Protocol": {},
+      "FTP Server": {},
+      "Tamper": {},
+      "User Management": {},
+      "Logs": {},
+      "Search for Remote Alarm Event": {},
+      "Language": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50017/datasheet/DHI-VTA8311AB_S0_datasheet_20260914_English.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Emergency Phone Terminal_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006627/202411/Dahua_Emergency_Phone_Terminal_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Emergency Phone Terminal_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006627/202411/Dahua_Emergency_Phone_Terminal_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-08-31 #Drawings VTA8311AB_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49997/drawings/VTA8311A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-08-31 #Drawings VTA8311AB_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49997/drawings/VTA8311A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-08-31 #Drawings VTA8311AB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49997/drawings/VTA8311A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm/emergency-phone-tower/vta8311ab"
+  }
+}

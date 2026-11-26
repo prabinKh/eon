@@ -1,0 +1,165 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "EVS Series",
+    "tab_id": "569",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "EVS Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "41307",
+    "product_name": "EVS7124S",
+    "product_title": "24-bay Embedded Video Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7124s",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230506/EVS7124S_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/evs7124s.html",
+  "detail": {
+    "title": "24-bay Embedded Video Storage",
+    "model": "EVS7124S",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EVS7124S 24-bay Embedded Video Storage Key Points • Max. 512-ch IP Camera Inputs • Max. 1024 Mbps Incoming/Recording/Forwarding Bandwidth • 24 Bays, SAS/SATA, Hot-Swap • RAID 0/1/5/6/10/50/60, Hot Spare, N+M Cluster • Video Stream/Picture Direct Storage Mode and IPSAN Storage Mode • Modular and Drawer-like Design • 1+1 Redundant 80PLUS Platinum Power Supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230506/EVS7124S_1_thumb.png",
+        "alt": "EVS7124S_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230506/EVS7124S_3_thumb.png",
+        "alt": "EVS7124S_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230506/EVS7124S_2_thumb.png",
+        "alt": "EVS7124S_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Main Processor": "64-bit multi-core processor",
+        "Operating System": "Embedded Linux",
+        "Operation Interface": "Web",
+        "Controller": "Single controller",
+        "RAM": "8 GB by default (extendable to 64 GB)",
+        "Power Redundancy": "1+1",
+        "SAS": "2 mini SAS HD ports with maximum speed 12Gb/s",
+        "Network": "1 × 1GbE management port; 4 × 1GbE LAN ports",
+        "Network Extension": "4 × 1-GbE LAN ports and 2 × 10-GbE optical fiber ports are optional",
+        "eSATA": "1 × eSATA",
+        "RS-232": "1 × DB9",
+        "HDMI": "1 × HDMI",
+        "M.2 SSD": "2 × NVMe SSD ports",
+        "PCI-E": "1 × PCI-E X8; 1×PCI-E X4",
+        "Disk": "1 × 2.5 inch SATA",
+        "Disk Bay": "24",
+        "Disk Type": "1TB; 2TB; 3TB; 4TB; 6TB; 8TB; 10TB; 12TB; 14TB; 16TB; 18TB; 20TB 2.5-inch and 3.5-inch HDD Support simultaneously connecting to SATA/SAS",
+        "Disk Installation": "Independent disk tray",
+        "Hot Swapping": "Support",
+        "RAID Type": "RAID0, 1, 5, 6, 10, 50, 60, JBOD, Hot-Spare",
+        "Disk Processing": "Dad sector mapping",
+        "Disk Management": "Non-working disks automatic sleep",
+        "Disk Inspection": "Inspection before use and during use",
+        "Video Direct Storage (Private Protocol)": "Up to 512-channel (1024 Mbps) access, storage, and forwarding; 32-channel (64 Mbps) online playback",
+        "Video Direct Storage (ONVIF)": "Up to 512-channel (1024 Mbps) access, storage, and forwarding; 32-channel (64 Mbps) online playback",
+        "Video Direct Storage (Auto Register)": "Up to 512-channel (1024 Mbps) access, storage, and forwarding; 32-channel (64 Mbps) online playback",
+        "Picture Direct Storage": "Up to 512-channel access, storage, and forwarding (250 KB/Picture)",
+        "IPSAN Performance": "360-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback ( I/O size of VMS is 64 KB)",
+        "IPSAN Mode": "Yes",
+        "IPSAN Function": "Dynamic online extension of logic volumes",
+        "Video Storage": "Direct storage",
+        "Network Protocol": "RTP; RTCP; RTSP; UDP; HTTP; NTP; SNMP; iSCSI; FTP; SMB; NFS",
+        "RTSP": "ONVIF",
+        "Cluster": "N+M",
+        "Automatic Network Replenishment (ANR)": "Videos during network failure upload to EVS automatically afterwards",
+        "Network Mode": "Multiple-address, link aggregation, fault-tolerance, load balance",
+        "Quick RAID": "Yes",
+        "RAID Instant Use": "Yes",
+        "RAID Rebuilding": "Self-adaptive rebuilding",
+        "RAID-write Synchronization": "Yes",
+        "Record Mode": "Scheduled, manual, motion-triggered and alarm triggered",
+        "Video Playback": "Web playback, concentrated playback, slice playback, synchronous playback Search video by second Adjustable playback speed",
+        "Video Codec": "Access by cameras with encoding formats of MPEG4, MJPEG, H.264, H.265, and SVAC Access by multi-sensor cameras, thermal cameras, and panoramic cameras",
+        "Video Backup": "Back up video through USB, network, and eSATA",
+        "Power Supply": "100–127V/200–240 VAC, 50/60 Hz, 5A/2.5A",
+        "Fan": "Dual ball-bearing fans",
+        "Power Consumption": "<80 W (without HDD, idling) <500 W (all HDDs connected)",
+        "Operating Temperature": "0 °C to 45 °C (32 °F to 113 °F)",
+        "Operating Humidity": "10%–80% (RH) (non-condensation)",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "5%–90% (RH) (non-condensation)",
+        "Operating Altitude": "≤ 5000 (16,404.20 ft) m",
+        "Certifications": "CE: EN 55024; EN 55032; EN 55035; EN 50130-4; EN 61000-3-2; EN 61000-3-3; EN 62368 FCC: ANSI C63.4, 47 CFR PART 15B Subpart B",
+        "Chassis": "1.2 mm hot dip galvanized steel plate Independent developed pull-out disk tray",
+        "Dimensions": "With hanger: 482.6 mm × 175 mm × 736.5 mm (19\" × 6.89\" × 29\") (W × H × D) Without hanger: 446 mm × 175 mm × 736.5 mm (17.56\" × 6.89\" × 29\") (W × H × D)",
+        "Net Weight": "29 kg (63.93 lb)",
+        "Gross Weight": "44 kg (97 lb)",
+        "Installation": "Standard 19 inch rack"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/EVS7124S_S0_Datasheet_20240516.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual Dahua Embedded Video Storage_User Manual_V5.3.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/Dahua_Embedded_Video_Storage_User_Manual_V5.3.6.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual EVS HDD_Installation Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/EVS_HDD_Installation_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2021-01-05 #A&E Document EVS7124S_A&E_20260901153637 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/a_e_document/1788248455896.docx"
+      },
+      {
+        "name": "2020-07-30 #Drawings EVS7124S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/36377/drawings/EVS7124S_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2020-07-30 #Drawings EVS7124S_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/36377/drawings/EVS7124S_PORT.pdf"
+      },
+      {
+        "name": "2026-07-11 #Firmware DH_EVS71XX_MultiLang_V5.002.0000002.1.R.260627 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/firmware/DH_EVS71XX_MultiLang_V5.002.0000002.1.R.260627.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7124s"
+  }
+}

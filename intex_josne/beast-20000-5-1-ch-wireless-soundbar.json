@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "Sound Bar",
+    "subcategory_url": "https://www.intex.in/collections/sound-bar",
+    "series": "soundbar",
+    "series_url": "https://www.intex.in/collections/soundbar",
+    "tab_title": "Sound Bar",
+    "tab_id": "8634210549978",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "Sound Bar",
+      "Beast 20000 5.1 Ch Wireless Soundbar"
+    ]
+  },
+  "card_info": {
+    "product_id": "8634210549978",
+    "product_name": "Beast 20000 5.1 Ch Wireless Soundbar",
+    "product_title": "Beast 20000 5.1 Ch Wireless Soundbar",
+    "product_url": "https://www.intex.in/products/beast-20000-5-1-ch-wireless-soundbar",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/pdp.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 21499.0,
+      "display": "₹21,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/beast-20000-5-1-ch-wireless-soundbar.html",
+  "detail": {
+    "title": "Beast 20000 5.1 Ch Wireless Soundbar",
+    "model": "20000-5-1",
+    "brand": "Intex",
+    "overview": "Beast 20000 (W) is a sonic powerhouse that redefines home audio. With its staggering 200W of peak power, this sound bar delivers an immersive, theater-quality experience that will leave you breathless. Featuring immersive 5.1 channel surround sound, deep bass from 6.5-inch woofers, and sleek design, our sound bar delivers unmatched audio quality and style.",
+    "features": [
+      "200W of peak power",
+      "Immersive 5.1 channel surround sound",
+      "Powerful 6.5 inch subwoofer",
+      "Feel the 360° sound wrap",
+      "Premium audio components",
+      "Sleek, modern design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/pdp.jpg",
+        "alt": "Beast 20000 5.1 Ch Wireless Soundbar",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "200W of peak power",
+        "Feature 2": "Immersive 5.1 channel surround sound",
+        "Feature 3": "Powerful 6.5 inch subwoofer",
+        "Feature 4": "Feel the 360° sound wrap",
+        "Feature 5": "Premium audio components",
+        "Feature 6": "Sleek, modern design"
+      },
+      "General": {
+        "Model": "20000-5-1"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/beast-20000-5-1-ch-wireless-soundbar"
+  }
+}

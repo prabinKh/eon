@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10382447771939",
+    "product_name": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White",
+    "product_title": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White",
+    "product_url": "https://antesports.com/products/shiftflow-kit-3x120mm-case-fan-kit-argb-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_1a79c093-675e-4023-9099-1fe2b0e076f0.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/shiftflow-kit-3x120mm-case-fan-kit-argb-white.html",
+  "detail": {
+    "title": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White",
+    "model": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White",
+    "brand": "Ant Esports",
+    "overview": "Upgrade your PC’s aesthetics and thermal efficiency with the Ant Esports Shiftflow 120mm ARGB Fan Kit. This 3-fan solution is engineered for builders who demand superior cooling performance, clean cable management, and stunning visuals.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_1a79c093-675e-4023-9099-1fe2b0e076f0.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_W_d416b297-8281-4bed-9335-66c6e2e78293.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_W_52ccb232-bd4c-451c-bc20-527d1564378b.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_W_b2951f71-4182-4a0d-a80d-5f72a763102c.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "2000",
+        "FAN Airflow (CFM)": "75",
+        "FAN Static Pressure (mmH₂O)": "2.05",
+        "FAN Noise (dBA)": "29.2",
+        "FAN Direction": "Reversible",
+        "Connection": "PWM + ARGB",
+        "Stackable": "Yes",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "75",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.05",
+        "FAN NOISE (DBA)": "29.2",
+        "FAN DIRECTION": "Reversible",
+        "CONNECTION": "PWM + ARGB",
+        "STACKABLE": "Yes",
+        "Offer Price (INR)": "₹3,399.00",
+        "MRP (INR)": "₹5,799.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/shiftflow-kit-3x120mm-case-fan-kit-argb-white"
+  }
+}

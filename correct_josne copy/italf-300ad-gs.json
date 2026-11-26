@@ -1,0 +1,141 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Supplement Lights",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Supplement Lights",
+    "tab_id": "606",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Supplement Lights",
+      "Supplement Lights"
+    ]
+  },
+  "card_info": {
+    "product_id": "141731",
+    "product_name": "ITALF-300AD-GS",
+    "product_title": "Dahua Flash Lamp",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/flash-light/italf-300ad-gs",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_13827/ProductImage/1_0_01_09_13827_2120098446_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/italf-300ad-gs.html",
+  "detail": {
+    "title": "Dahua Flash Lamp",
+    "model": "ITALF-300AD-GS",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITALF-300AD-GS Dahua Flash Lamp Key Points • White Flashing Light with Long Lifespan • Facilitates Driver Behavior Analytics and Face Capture • Illumination Distance Covers up to 26 m • Remotely Displays the Running or Fault Status of The Illuminator • Easy Installation and Easy Configuration • Covers up to 1 Lane • Water and Dust Resistant(lP66) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_13827/ProductImage/1_0_01_09_13827_2120098446_crop_thumb.png",
+        "alt": "ITALF-300AD-GS_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_13827/ProductImage/1_0_01_09_13827_2120098447_crop_thumb.png",
+        "alt": "ITALF-300AD-GS_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_13827/ProductImage/1_0_01_09_13827_2120098448_crop_thumb.png",
+        "alt": "ITALF-300AD-GS_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Light Type": "White HID flashing light",
+        "Recycle Time": "≤60 ms (flashes with the camera for double shots)",
+        "Color Temperature": "5800 K ± 200 K",
+        "Light Spot Coverage": "4 m (13.12 ft); installation height: 6 m (19.69 ft); capture distance: 26 m (85.30 ft)",
+        "Center Illuminance": "≤4000 lux",
+        "Trigger Mode": "Pulse width triggering/Edge triggering",
+        "Illumination Distance": "16 m–26 m (52.49 ft–85.30 ft)"
+      },
+      "Xenon": {
+        "Exposure Index": "64 GN",
+        "Flash Duration": "180 μs–500 μs",
+        "Flash Count": "Generates statistics on the number of flashes and the number of times the device was triggered.",
+        "Flash Lifespan": "≥10,000,000 cycles",
+        "Wavelength": "Visible light (wavelength: 350 nm–780 nm)"
+      },
+      "Function": {
+        "Day/Night": "Adjustable sensitivity (level: 1–6)",
+        "Remote Failure Display": "Remotely displays the running status and fault status of the illuminator on the webpage of the camera (only Dahua cameras)",
+        "Brightness": "Adjustable brightness (level: 1–6)",
+        "Snapshot and Illumination Synchronization": "Yes",
+        "False Triggered Signal Blocking": "Yes",
+        "Anti-interference": "Yes"
+      },
+      "Port": {
+        "I/O": "1",
+        "Flash Light": "1",
+        "RS-485": "1"
+      },
+      "General": {
+        "Power Supply": "220 VAC ± 20%",
+        "Power Consumption": "<65 J per flash",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Protection": "IP66",
+        "Product Dimensions": "358.5 mm × 251.6 mm × 170.8 mm (14.11\" × 9.91\" × 6.72\") (L × W × H)",
+        "Net Weight": "4.0 kg (8.82 lb)",
+        "Gross Weight": "4.5 kg (9.92 lb)",
+        "Installation": "Universal joint installation"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITALF-300AD-GS_datasheet_20220801.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Flashlight_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002884/202411/Flashlight_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Flashlight_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002884/202411/Flashlight_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document ITALF-300AD-GS_A&E_20260901205125 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50427/a_e_document/1788267161831.docx"
+      },
+      {
+        "name": "2021-10-09 #Drawings ITALF-300AD-GS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63917/drawings/ITALF-300AD-IR_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-11-17 #Firmware General_ITALF-300AD_All_MCU_V1.001.0000000.3.R.190809 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq//General_ITALF-300AD_All_MCU_V1.001.0000000.3.R.190809.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/flash-light/italf-300ad-gs"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "MASTER15 Wired Keyboard & Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759782691",
+    "product_name": "MASTER15 Wired Keyboard & Mouse Combo",
+    "product_title": "MASTER15 Wired Keyboard & Mouse Combo",
+    "product_url": "https://antesports.com/products/master15-keyboard-mouse-combo-104-keys",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18_7c618a36-882b-449d-a9e6-92c62692b931.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master15-keyboard-mouse-combo-104-keys.html",
+  "detail": {
+    "title": "MASTER15 Wired Keyboard & Mouse Combo",
+    "model": "ANTR0098",
+    "brand": "Ant Esports",
+    "overview": "The Ant MASTER15 is a wired keyboard and mouse combo built for everyday laptop and PC use, pairing a full-size 104-key silent membrane keyboard with a 1000 DPI high-precision optical mouse. Its lightweight, ergonomic design keeps things comfortable through long work sessions, while USB plug-and-play connectivity means both devices connect instantly with no drivers required. A dependable, budget-friendly combo for anyone who needs a reliable everyday keyboard and mouse setup for office or home computing.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/18_7c618a36-882b-449d-a9e6-92c62692b931.png",
+        "alt": "MASTER15 Wired Keyboard & Mouse Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Keyboard Keys": "104",
+        "Mouse DPI": "1000",
+        "Design": "Lightweight, Ergonomic",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired USB",
+        "KEYBOARD KEYS": "104",
+        "MOUSE DPI": "1000",
+        "DESIGN": "Lightweight, Ergonomic",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹899.00",
+        "SKU": "ANTR0098"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master15-keyboard-mouse-combo-104-keys"
+  }
+}

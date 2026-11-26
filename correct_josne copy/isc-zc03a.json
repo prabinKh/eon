@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Bollard",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/bollard",
+    "series": "Bollard",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/bollard",
+    "tab_title": "Bollard",
+    "tab_id": "14927",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Bollard",
+      "Bollard",
+      "Bollard"
+    ]
+  },
+  "card_info": {
+    "product_id": "116047",
+    "product_name": "ISC-ZC03A",
+    "product_title": "Hydraulic Bollard Controller",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/bollard/isc-zc03a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221111/DHI-ISC-ZC03A_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-zc03a.html",
+  "detail": {
+    "title": "Hydraulic Bollard Controller",
+    "model": "ISC-ZC03A",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-ZC03A Hydraulic Bollard Controller Key Points 111 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221111/DHI-ISC-ZC03A_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "General": {
+        "Control Method": "Manual control box, remote controller",
+        "Appearance Color": "Yellow",
+        "Bollard Running Time": "4 s for lifting and 2.8 s for retracting. The power supply duration of the bollard is 3 s to 10 s adjustable.",
+        "Number of Channels": "Single channel",
+        "Number of Controlled Bollards": "Max 3 bollards"
+      },
+      "Function": {
+        "Button Control": "Control the bollard up/down by buttons of the manual control box.",
+        "Remote Control": "Control the bollard up/down by remote controller.",
+        "Emergency Control": "Built-in storage battery to support the operation of the emergency button to control the bollard down in case of power failure.",
+        "Protection Function": "Reserved safety protection port, which can access protection signals such as infrared, induction loop, radar to achieve anti-collision function."
+      },
+      "Port": {
+        "Power Input Port": "1",
+        "Power Output Port": "1",
+        "LED Strip Port": "1",
+        "Solenoid Valve Port": "1",
+        "Capacitance Port": "1",
+        "Manual Control Box Port": "1",
+        "Protection Port": "1",
+        "Programming Port": "1"
+      },
+      "Regular": {
+        "Rated Voltage": "220 VAC/ 50—60 Hz",
+        "Max Load Power Consumption": "8800 W",
+        "Standby Power Consumption": "100 W",
+        "Operating Temperature": "–10 °C to 50 °C (20%–80% RH, no condensing)",
+        "Storage Temperature": "–20 °C to 60 °C (5%–95% RH, no condensing)",
+        "Production Weight": "13.5 kg (29.76 lb)",
+        "Packaging Weight": "22 kg (48.50 lb)",
+        "Ingress Protection": "IP43, used indoors",
+        "Corrosion Category": "Low, used indoors",
+        "Production Dimensions": "500 mm × 400 mm × 200 mm (19.69\"× 15.75\"× 7.87\")",
+        "Packaging Dimensions": "640 mm × 440 mm × 355 mm (25.20\"× 17.32\"× 13.98\")"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-ZC03A_datasheet_20221109.pdf"
+      },
+      {
+        "name": "2023-12-06 #User Manual Automatic Retractable Bollard_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008772/Automatic_Retractable_Bollard_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-12-06 #Drawings ISC-ZC03A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51767/drawings/ISC-ZC03A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-12-06 #Drawings ISC-ZC03A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51767/drawings/ISC-ZC03A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/bollard/isc-zc03a"
+  }
+}

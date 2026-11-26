@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/cabinet",
+    "series": "Cabinet Series",
+    "series_url": "https://www.intex.in/collections/cabinet-series",
+    "tab_title": "Cabinet",
+    "tab_id": "8972830802138",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cabinet",
+      "Intex IT-1710 W SMPS & USB Computer Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "8972830802138",
+    "product_name": "Intex IT-1710 W SMPS & USB Computer Cabinet",
+    "product_title": "Intex IT-1710 W SMPS & USB Computer Cabinet",
+    "product_url": "https://www.intex.in/products/intex-it-1710-w-smps-usb-computer-case",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1710-W-SMPS-_-USB.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2699.0,
+      "display": "₹2,699.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-it-1710-w-smps-usb-computer-case.html",
+  "detail": {
+    "title": "Intex IT-1710 W SMPS & USB Computer Cabinet",
+    "model": "IT-1710",
+    "brand": "Intex",
+    "overview": "The Intex IT-1710 W SMPS & USB cabinet is built for practicality and performance. Designed to accommodate a wide range of components, it features multiple expansion slots and internal bays for SSDs and HDDs. The cabinet supports Micro ATX and Mini ITX motherboards, making it suitable for compact builds. With an 80 mm fan support and integrated USB ports, this cabinet delivers balanced cooling and connectivity for your system.",
+    "features": [
+      "Four Expansion Slots",
+      "Two 13.36 cm (5.25) External Slots",
+      "Two 8.89 cm (3.5) Internal Slots",
+      "Three 6.35 cm (2.5) Internal Slots",
+      "Compatible with Motherboard Series: P4",
+      "Supports: Micro ATX / Mini ITX Motherboards",
+      "Storage Support: 2 x HDD, 2 x SSD",
+      "Cooling: Supports 80 mm Cooling Fan"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/IT-1710-W-SMPS-_-USB.jpg",
+        "alt": "Intex IT-1710 W SMPS & USB Computer Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Four Expansion Slots",
+        "Feature 2": "Two 13.36 cm (5.25) External Slots",
+        "Feature 3": "Two 8.89 cm (3.5) Internal Slots",
+        "Feature 4": "Three 6.35 cm (2.5) Internal Slots",
+        "Feature 5": "Compatible with Motherboard Series: P4",
+        "Feature 6": "Supports: Micro ATX / Mini ITX Motherboards",
+        "Feature 7": "Storage Support: 2 x HDD, 2 x SSD",
+        "Feature 8": "Cooling: Supports 80 mm Cooling Fan"
+      },
+      "General": {
+        "Model": "IT-1710"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-it-1710-w-smps-usb-computer-case"
+  }
+}

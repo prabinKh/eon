@@ -1,0 +1,202 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "Special Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/special-series",
+    "tab_title": "Positioning Systems",
+    "tab_id": "282",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "Special Series",
+      "Positioning Systems"
+    ]
+  },
+  "card_info": {
+    "product_id": "146849",
+    "product_name": "PTZ37225-HNP-GB-A-EG",
+    "product_title": "2MP 25× Starlight IR Posittoning System",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/positioning-systems/ptz37225-hnp-gb-a-eg",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14957/ProductImage/1_0_01_07_14957_21106846_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ptz37225-hnp-gb-a-eg.html",
+  "detail": {
+    "title": "2MP 25× Starlight IR Posittoning System",
+    "model": "PTZ37225-HNP-GB-A-EG",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PTZ37225-HNP-GB-A-EG 2MP 25× Starlight IR Posittoning System Key Points • 2MP STARVIS™ CMOS Ensures Clear Imaging In Low Light • 25x Optical Zoom Provides Detailed Long-Range Surveillance • 150m IR And 50m White Light Enable 24/7 Monitoring • AI-Powered Auto-Tracking 30 Improves Target Detection • Wide Rotation Range (–90° To 90°) Expands Coverage • Portable Design Simplifies Installation And Transportation • Advanced IVS Supports Perimeter Protection And Job Monitoring • High-Precision PT Unit Enables Substation Inspection Tasks Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14957/ProductImage/1_0_01_07_14957_21106846_crop_thumb.png",
+        "alt": "PTZ37225-HNP-GB-A-EG_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14957/ProductImage/1_0_01_07_14957_21106845_crop_thumb.png",
+        "alt": "PTZ37225-HNP-GB-A-EG_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14957/ProductImage/1_0_01_07_14957_21106847_crop_thumb.png",
+        "alt": "PTZ37225-HNP-GB-A-EG_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Wiper": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "66.2 m( 217.21 ft)",
+        "T": "1655.2 m( 5430.29 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "IVS (Perimeter Protection)": {},
+      "Face Detection": {},
+      "Construction Monitoring": {},
+      "Auto Tracking": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Alarm I/O": {},
+      "Audio I/O": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82446/datasheet/DH-PTZ37225-HNP-GB-A-EG_S0_datasheet_20250529.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User's_Manual_V3.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50657/user_manual/Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User_27s_Manual_V3.0.3.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Installation Guide_V1.0.0_(PTZ_37) Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50657/user_manual/Installation_Guide_V1.0.0_(PTZ_37).pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-02-16 #A&E Document PTZ37225-HNP-GB-A-EG_A&E_20260917224414 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82446/a_e_document/1789657246160.docx"
+      },
+      {
+        "name": "2026-02-10 #Drawings PTZ37225-HNP-GB-A-EG_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50657/drawings/PTZ37225-HNP-XB-A-EG_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-09-09 #Drawings PTZ37225-HNP-GB-A-EG_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50657/drawings/1_0_01_07_14534_988228664.pdf"
+      },
+      {
+        "name": "2026-05-29 #Firmware DH_SD-Taurus_MultiLang_PN_Stream3-Normal_V3.200.0000028.6.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/60047/firmware/DH_SD-Taurus_MultiLang_PN_Stream3-Normal_V3.200.0000028.6.R.260514.zip"
+      },
+      {
+        "name": "2025-07-24 #Firmware General_PTZ37XXX-HN_MCU_V2.401.0000003.6.R.250528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3294633/M/General_PTZ37XXX-HN_MCU_V2.401.0000003.6.R.250528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/positioning-systems/ptz37225-hnp-gb-a-eg"
+  }
+}

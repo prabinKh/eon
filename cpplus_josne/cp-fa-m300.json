@@ -1,0 +1,101 @@
+{
+  "hierarchy": {
+    "category": "Mic",
+    "category_url": "https://cpplusworld.com/products/mic",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/mic",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "161",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Mic",
+      "CP-FA-M300"
+    ]
+  },
+  "card_info": {
+    "product_id": "1654",
+    "product_name": "CP-FA-M300",
+    "product_title": "CP-FA-M300",
+    "product_url": "https://cpplusworld.com/cp-fa-m300",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d538cddc-31c9-47cb-8ccb-c003e2aa2750.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-fa-m300.html",
+  "detail": {
+    "title": "CP-FA-M300",
+    "model": "CP-FA-M300",
+    "brand": "CP Plus",
+    "overview": "Microphone",
+    "features": [
+      "Internal circuit with AGC gain control and power amplification circuit, maximally  eliminate the noise, to guarantee the output intensity.",
+      "The microphone is on the surface and restore sound more closely; hang tenon  type design of sliding block structure, easy to absorb the ceiling or side wall  installation.",
+      "Loud sound and pure timbre within 5-30m² monitoring range.",
+      "Audio pickup, designed for audio monitoring, the advantages of big  monitoring range and high sensitivity.",
+      "Built-in lightning protection, power supply polarity reverse connect pro\u0002tection, ESD electrostatic protection and power protection module.",
+      "Long audio signal transmission technology, Long audio signal transmission technology, use the RVVP3 x 0.5mm² shield cable, it is distortion  less within 3km.",
+      "Integrated professional front audio amplifier circuit, direct drive active  speakers, DVR, earphones, etc.",
+      "Applicable to the banks, factory, schools, offices and any places need to  audio monitoring."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d538cddc-31c9-47cb-8ccb-c003e2aa2750.jpg",
+        "alt": "CP-FA-M300 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9e1a9263-ebb3-4a4b-9c8a-34e198c4e939.jpg",
+        "alt": "CP-FA-M300 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Audio Monitor Range": "5-30m²",
+        "Material": "Advanced resin PVC",
+        "Audio Transmission Distance": "3000m",
+        "Frequency Response": "20Hz~20kHz",
+        "Sensitivity": "-50dB",
+        "SNR": "60dB(1m40dB) 50dB(10m40dB) 1KHz at 1Pa",
+        "Directional Property": "Omnidirectional",
+        "Dynamic Range": "80dB (1KHz at Max dB SPL)",
+        "Max Sound Pressure": "120dB SPL (1KHz, THD 1%)",
+        "Output Impedance": "600 ~ 1000Ω non-equilibrium",
+        "Output Signal Amplitude": "2.5Vpp/-25dB",
+        "Microphone": "Electret condenser microphone",
+        "Protective Circuit": "Lightning protection, power supply polarity reverse connect protection, ESD protection",
+        "Signal Processing Circuit": "AGC, ALC",
+        "Connection Way": "3 leading wires (red lead is power+ white lead is audio signal + black is power & audio signal)",
+        "Transmission Cable": "RVVP3×0.5mm2 shield cable",
+        "Power Supply": "DC10V~18V (recommend to use 12V, more than 500 meters recommended 15 v)",
+        "Working Current": "50mA",
+        "Working Temperature": "-25°C ~ 70°C",
+        "Color": "White/Taupe",
+        "Dimension": "80mm x 36mm",
+        "Weight": "40g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-FA-M300.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-fa-m300"
+  }
+}

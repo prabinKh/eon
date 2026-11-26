@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "30",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "16 Ch.",
+      "CP-UNR-216F1-V3"
+    ]
+  },
+  "card_info": {
+    "product_id": "1701",
+    "product_name": "CP-UNR-216F1-V3",
+    "product_title": "CP-UNR-216F1-V3",
+    "product_url": "https://cpplusworld.com/cp-unr-216f1-v3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/dd7b9e98-f02f-45aa-a091-f95c61ef4723.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-216f1-v3.html",
+  "detail": {
+    "title": "CP-UNR-216F1-V3",
+    "model": "CP-UNR-216F1-V3",
+    "brand": "CP Plus",
+    "overview": "16Ch. AI Network Video Recorder",
+    "features": [
+      "16 Channel IP video access",
+      "Instastream/H.265/Smart H.264 /H.264 encoding",
+      "Max. decoding capability: 6 × 1080p@30 fps. Supports adaptive decoding",
+      "AI by camera: perimeter protection,and SMD Plus",
+      "Support 1 SATA HDDs up to 16TB each, 2 USB Ports",
+      "1 HDMI/ 1 VGA simultaneous video output",
+      "Support Multi-brand network cameras",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/dd7b9e98-f02f-45aa-a091-f95c61ef4723.jpg",
+        "alt": "CP-UNR-216F1-V3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0e6e5c5e-124e-4903-8719-adcf693bf039.jpg",
+        "alt": "CP-UNR-216F1-V3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade embedded processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "16 channel",
+        "Two-way Talk": "1 Ch. audio in/1 Ch. out, RCA",
+        "User Interface": "Web, Local, GUI",
+        "Video Output": "1 × VGA, 1 × HDMI (simultaneous)",
+        "Resolution": "12MP; 8MP; 5MP; 4MP; 3MP; 2MP; 720p; D1",
+        "AI by Camera": "Perimeter protection; SMD Plus",
+        "Video Compression": "H.265/Smart H.264+/H264",
+        "Encode Strategy": "Instastream",
+        "AI by Device": "n/a",
+        "Video Display Split": "1/4/8/9/16",
+        "Audio Compression": "PCM; G.711A; G.711U; G.726",
+        "Decoding Capability": "1-channel 12MP@30 fps; 1-channel 8MP@30 fps; 2-channel 5MP@30 fps; 3-channel  4MP@30 fps; 6-channel 1080p@30 fps",
+        "Audio Output": "1 channel",
+        "Audio Input": "1 channel",
+        "Camera Blank": "Supports",
+        "Motion Detection": "MD Zones: 396 (22 × 18)",
+        "Video Loss": "Supports",
+        "Alarm Linkage": "Recording; snapshot; buzzer; log; preset; email; tour",
+        "AI Search": "n/a",
+        "General Alarm": "Motion detection; privacy masking; video loss; PIR alarm",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Abnormal Alarm": "Camera offline; storage error; disk full; IP conflict; MAC conflict; login lock; cyber security ex\u0002ceptio",
+        "Hard Disk": "1 SATA III ports, up to 16 TB for a single HDD. The maximum HDD capacity varies with environ\u0002ment temperatu",
+        "Recording Mode": "Manual record; alarm record; motion detection record; schedule record",
+        "Backup Mode": "USB device",
+        "Playback": "1. Play; pause; stop; fast forward; fast backward; rewind; play by frame 2. Full screen; backup  (video clip/file); partially zom in; audio on/of",
+        "Record Interval": "n/a",
+        "Ethernet": "1 × RJ-45, 10/100Mbps self-adaptive Ethernet port",
+        "Interface Ports": "2 USB Ports (1 × front USB2.0; 1 × back USB2.0)",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; DDNS; Alarm  Server; InstaOn Cloud; ONVIF (profile T/S/G); CGI; SDK",
+        "Power Supply": "12V DC, 1.5A",
+        "Power Consumption": "Total output of NVR is ≤ 10 W (without HDD)",
+        "Working Temp": "-10°C to 55°C (+14°F to +113°F)",
+        "Storage Temperature": "n/a",
+        "Dimension": "260 mm × 232.7 mm × 47.6 mm (W × L × H)",
+        "Operating Altitude": "3000 m",
+        "Weight": "0.81 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-216F1-V3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/57bbc2f5-ed46-46b8-bc19-9ddaf3899a35.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-216f1-v3"
+  }
+}

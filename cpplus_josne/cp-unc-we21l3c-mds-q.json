@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "2 MP",
+    "category_url": "https://cpplusworld.com/products/2-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/2-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "40",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "2 MP",
+      "CP-UNC-WE21L3C-MDS-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "1986",
+    "product_name": "CP-UNC-WE21L3C-MDS-Q",
+    "product_title": "CP-UNC-WE21L3C-MDS-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-we21l3c-mds-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/60b0611e-9bb1-4fe4-a6ce-84e469025070.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-we21l3c-mds-q.html",
+  "detail": {
+    "title": "CP-UNC-WE21L3C-MDS-Q",
+    "model": "CP-UNC-WE21L3C-MDS-Q",
+    "brand": "CP Plus",
+    "overview": "2MP Network IR Wedge Camera - 30Mtr.",
+    "features": [
+      "1/2.8” 2MP PS CMOS Image Sensor (0.9071 centimeter)",
+      "Max. 2MP (1920 × 1080)@1–25/30fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "WDR(120dB), Day/Night (ICR), 3D NR, Defog, AWB, AGC, BLC, HLC",
+      "2.8mm fixed lens (3.6mm optional)",
+      "IR Range of 30 Mtr.",
+      "Built-in Mic ,IP67, K10, Micro SD Card, PoE",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/60b0611e-9bb1-4fe4-a6ce-84e469025070.jpg",
+        "alt": "CP-UNC-WE21L3C-MDS-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ad8b9575-ad63-455b-a280-947279ba69a3.jpg",
+        "alt": "CP-UNC-WE21L3C-MDS-Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 2MP PS CMOS Image Sensor  (0.9071 centimeter)",
+        "Minimum Illumination": "0.006 Lux@F1.6(Color,30IRE), 0.0006 Lux@F1.6(B/W,30IRE) 0 lux (IR on)",
+        "Effective Pixels": "1920(H) × 1080(V)",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100000 s",
+        "Angle Adjustment": "Pan: -30°- 30°, Tilt: 0°- 80°, Rotation: 0°- 360°",
+        "RAM": "512 MB",
+        "ROM": "128 MB",
+        "White Balance": "Auto, Natural, Street Lamp, Outdoor, Manual, Custom area",
+        "Lens": "2.8mm fixed lens (3.6mm optional)",
+        "IR Control": "Face Priority, Number Plate Priority",
+        "Gain Control(AGC)": "Auto/Manual",
+        "Lens Type": "Fixed-focal",
+        "Iris Type": "Fixed",
+        "Max. Aperture": "F1.6",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "0.8 Mtr.",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120 dB)",
+        "Angle of View": "2.8mm: Horizontal: 107°, Vertical: 57°, Diagonal: 128°                                                                              3.6mm: Horizontal: 87°, Vertical: 44°, Diagonal: 105°",
+        "IR Number": "2 IR Light",
+        "IR Distance": "IR Range of 30 Mtr.",
+        "S/N Ratio": "> 56 dB",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (only supported by the sub stream)",
+        "Bit Rate Control": "CBR/ VBR",
+        "Bit Rate": "H.265: 3 kbps–6144 kbps, H.264: 3 kbps–6144 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Resolution": "2MP (1920 × 1080), 1.3M (1280 × 960), 1MP (1280 × 720), D1 (704 × 576/704 × 480), VGA  (640 × 480), CIF (352 × 288/352 × 240)",
+        "Noise Reduction": "3D NR/ 2D NR",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Motion Detection": "OFF/ON (4 areas, Rectangular)",
+        "Privacy Mask": "4 Areas",
+        "ROI": "Support (4 Areas)",
+        "Audio": "Built in Mic",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, DDNS,  QoS, UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3,  ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "Video Format": "PAL/NTSC",
+        "Overlay": "Privacy Masking, Channel Title, Time Title, Location, Custom Title, Face Statistics",
+        "Defog": "Support",
+        "Image Rotation": "0°/90°/180°/270°",
+        "IVS (Perimeter Protection)": "Intrusion, Tripwire, Abandon Object, Crowd gathering, Missing Object, Loitering Detection,  IMD (support the classification and accurate detection of vehicle and human), Loitering                      detection",
+        "People Counting": "Tripwire people counting, generating and exporting report (day/week/month/year), People  counting in area and queue management, Generating and exporting report (day/week/ month), 4 rules can be set for tripwire, People counting in area and queue management",
+        "Face Detection": "Face detection, Target Box Overlay, Remove Duplicate, Faces  Face Cutout (Face/ One Inch  Photo/ Custom), Snapshot Mode (Real-Time/ Optimized/ Quality Priority), Optimal face                snapshot upload, Face attributes extraction including 6 attributes and 8 expressions, Snapshot  strategies (real-time snapshot, quality priority and optimization snapshot), Face angle filter,  Optimized Duration, Quality Threshold, Snapshot Sensitivity",
+        "Stream Capability": "Quad Stream",
+        "Frame Rate": "Main stream: 1080p@(1–25/30 fps), 1.3MP@(1–25/30 fps), 720p@(1–25/30 fps)                                    Sub stream 1: D1@(1–25/30 fps), VGA@(1–25/30 fps), CIF@(1–25/30 fps)                                             Sub stream 2: 1080p@(1–25/30 fps), 1.3MP@(1–25/30 fps), 720p@(1–25/30 fps), D1@(1 25/30 fps)                                                                                                                                                             Sub stream 3: D1@(1– 25/30 fps), VGA@(1–25/30 fps), CIF@(1–25/30 fps)",
+        "Audio Compression": "PCM, G.711a, G.711Mu, G.726, AAC",
+        "Reset Button": "Support",
+        "Ethernet": "1 (Built-in M12 port, RJ-45 (Optional) and it supports the network data  of 10 M/100 M)",
+        "Alarm Event": "No SD card, SD card full, SD card error, Network disconnection, IP conflict, Motion detection,  Video tampering, Tripwire, Intrusion, Abandoned object, Missing object, Loitering detection,  Crowd gathering, Scene changing, Audio detection, Voltage detection, External alarm, Face  detection, IMD, People counting in area, Stay detection, People counting, Abnormal Number  of People, Queue people number alarm, Queue time alarm, Security exception, Defocus               detection",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs,  WSSE, account lockout, syslog, video encryption, 802.1x, Allow list/Block list, HTTPS, trusted  upgrade, trusted boot, firmware encryption",
+        "User/ Host": "20 (Total bandwidth: 80 Mbps)",
+        "Mirror Function": "Support",
+        "Browser": "Microsoft, Edge and Chrome",
+        "Storage": "SFTP, NAS, Micro SD card (support max. 512 GB)",
+        "Certificates": "MTBF Certificate from STQC, IEC 61373, IEC 60571 and IEC 60068-2-10, IEC 50155, EN50121 4:2016, EN61000-4-3:2010, EN 50155, ISO9001, CE, FCC and RoHS, BIS, STQC approved                  compliance report",
+        "Power Source": "M12 port support PoE(802.3af),  RJ45 port support DC 12V and PoE (802.3af)",
+        "Power Consumption": "Basic: 3.6 W (PoE)                                                                                                                                                Max. (H.265+ WDR+IR on + intelligent): 8.2 W (PoE)",
+        "Operating Temperature": "–30°C to +60°C (–40°F to +140°F)",
+        "Operating Humidity": "≤95% RH, Non condensing",
+        "Weatherproof Standard": "IP67, IK10",
+        "Dimension": "64.8mm × 111.0mm",
+        "Casing": "Metal",
+        "Weight": "450g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-WE21L3C-MDS-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-we21l3c-mds-q"
+  }
+}

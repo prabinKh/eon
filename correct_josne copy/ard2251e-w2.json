@@ -1,0 +1,165 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "142481",
+    "product_name": "ARD2251E-W2",
+    "product_title": "Dahua Wireless External Triple-Tech Detector",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard2251e-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10816/ProductImage/1_0_01_19_10816_535842130_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard2251e-w2.html",
+  "detail": {
+    "title": "Dahua Wireless External Triple-Tech Detector",
+    "model": "ARD2251E-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD2251E-W2 Dahua Wireless External Triple-Tech Detector Key Points · Anti-masking detection · Ingress Protection: IP66 · Implements moving detection to prevent someone move or detach device · Pet immunity: up to 80 cm, 40 kg · Provides a dual backup system, and uses auto recovery when an update fails · Enables monitoring of environmental temperatures · Features cloud update,allowing convenient remote updates via the mobile app Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10816/ProductImage/1_0_01_19_10816_535842130_crop_thumb.png",
+        "alt": "ARD2251E-W2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10816/ProductImage/1_0_01_19_10816_535841707_crop_thumb.png",
+        "alt": "ARD2251E-W2_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10816/ProductImage/1_0_01_19_10816_535842131_crop_thumb.png",
+        "alt": "ARD2251E-W2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10816/ProductImage/1_0_01_19_10816_535841708_crop_thumb.png",
+        "alt": "ARD2251E-W2_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Function": {
+        "Indicator Light": "1 × green alarm indicator",
+        "Button": "1 × power switch; 1 × detection range adjustment switch",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Tamper alarm",
+        "Moving detection": "Yes"
+      },
+      "Technical": {
+        "Detection Mode": "PIR + Microwave",
+        "Sensitivity": "PIR: 3 levels adjustable",
+        "Detection Range": "Angle:90° Range:15 m (49.21 ft), the installation height is 1 m (3.28 ft)",
+        "Detection Speed": "0.3 m/s–2 m/s",
+        "Microwave Frequency": "24 G",
+        "Pet Immunity Level": "<80 cm (2.62 ft), about 40 kg (88.19 lb)",
+        "White Light Resistance Level": "10,000 lux",
+        "Anti-masking": "Yes",
+        "Two-way Digital Temperature Compensation": "Yes",
+        "Scenario": "Outdoor, indoor",
+        "Operating Current": "20 uA",
+        "Alarm Current": "Without Camera: 26mA (Avg); 250 mA (Max) With Camera in Night: 380 mA (Avg); 1.5 A (Max)"
+      },
+      "Wireless": {
+        "Carrier Frequency": "433.1 MHz–434.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 10 mW",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "RF: Up to 1,200 m (3,937.01 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "CR123A × 4",
+        "Battery Life": "Without Camera: 5 years (triggers 10 alarms a day) With Camera: 3.5 years (triggers alarms twice a week)",
+        "Operating Temperature": "–25 °C to +60 °C (–13 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "211 mm × 106 mm × 94 mm (8.31\" × 4.17\" × 3.7\")",
+        "Installation Height": "0.8 to 1.3 m",
+        "Net Weight": "651 g (1.44 lb)",
+        "Gross Weight": "890 g (1.96 lb)",
+        "Installation": "Wall mount, pole mount",
+        "Casing Material": "PC + GF",
+        "Protection": "IP66",
+        "Certifications": "CE",
+        "Anti-corrosion Level": "Basic Protection",
+        "Storage Temperature": "–25 °C to +60 °C (–13 °F to +140 °F)",
+        "Packaging Dimensions": "251 mm × 116 mm × 119 mm (9.88\" × 4.57\" × 4.69”)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARD2251E-W2_datasheet_20240629.pdf"
+      },
+      {
+        "name": "2025-08-08 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-08 #User Manual Wireless Triple-Tech Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008885/202507/Wireless_Triple-Tech_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-08 #User Manual Dahua Wireless Triple-tech Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008885/202507/Dahua_Wireless_Triple-tech_Detector_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-01-04 #Drawings ARD2251E-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80091/drawings/ARD2251E-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-01-04 #Drawings ARD2251E-W2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80091/drawings/ARD2251E-W2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-01-04 #Drawings ARD2251E-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80091/drawings/ARD2251E-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-11 #Drawings ARD2251E-W2_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80111/drawings/ARD2251E-W2(868V)_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2026-05-07 #Firmware General_ARD2251E-W2_433_V1.000.0000009.0.R.260306 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80091/firmware/General_ARD2251E-W2_433_V1.000.0000009.0.R.260306.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard2251e-w2"
+  }
+}

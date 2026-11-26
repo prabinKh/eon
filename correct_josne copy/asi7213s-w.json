@@ -1,0 +1,200 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "125627",
+    "product_name": "ASI7213S-W",
+    "product_title": "Dahua Face Recognition,Card Swiping,Password Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/pro/asi7213s-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230315/ASI7213S-W_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi7213s-w.html",
+  "detail": {
+    "title": "Dahua Face Recognition,Card Swiping,Password Face Recognition Access Controller",
+    "model": "ASI7213S-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI7213S-W Dahua Face Recognition,Card Swiping,Password Face Recognition Access Controller Key Points • Visible Light Facial Recognition and Liveness Detection • 50,000 Faces, 100,000 Cards and 50,000 Passwords • 2-MP CMOS Dual-lens Camera, DWDR • 7-inch Touch Screen with Resolution of 600 × 1024 • Face Recognition Duration< 0.2s/person, Accuracy rate ≥ 99.9% • Supports Video Intercom and Advertisement Playback • Easy Configuration via PC and Mobile Web Client • Wi-Fi AP Mode Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230315/ASI7213S-W_1_thumb.png",
+        "alt": "ASI7213S-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230315/ASI7213S-W_2_thumb.png",
+        "alt": "ASI7213S-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230315/ASI7213S-W_3_thumb.png",
+        "alt": "ASI7213S-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230315/ASI7213S-W_4_thumb.png",
+        "alt": "ASI7213S-W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Network Protocol": "UDP; TCP; IPv4; RTSP; SIP; P2P; RTP",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "CGI;ONVIF",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "7\" LCD",
+        "Screen Type": "Capacitive Touchscreen",
+        "Screen Resolution": "600 (H) × 1024 (V)",
+        "Camera": "2-MP dual-lens CMOS camera",
+        "WDR": "DWDR",
+        "Light Compensation": "Auto IR",
+        "Voice Prompt": "Yes",
+        "Casing Material": "Tempered glass/PC"
+      },
+      "Function": {
+        "Verification Method": "Card; remote; password; face; combination unlock",
+        "Card Type": "IC card; Desfire card (EV3,Compatible with Dahua card by default)",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "802.11b/g/n",
+        "Wireless Frequency Range": "2.400 GHz–2.472 GHz",
+        "Max Transmission Power": "≤20 dBm@2400-2483.5 MHz",
+        "Advertisement Playing": "Support graphic advertisement play",
+        "Peripheral Card Reader": "Supports 1 × RS-485 card reader; 1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Real-time Monitoring": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Capture Function": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")",
+        "Face Recognition Height Range": "0.9 m–2.4 m (2.95 ft–7.87 ft)",
+        "Face Recognition Distance": "0.3 m–2.0 m (0.98 ft–6.56 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s",
+        "Supported Codes": "QR code",
+        "Code Type": "Electronic code; printed code"
+      },
+      "User": {
+        "User (Card) Type": "General users, patrol users, blocklist users, VIP users, guest users, custom user 1, custom user 2, and other users"
+      },
+      "Capacity": {
+        "User Capacity": "50000",
+        "Face Image Capacity": "50000",
+        "Card Capacity": "100000",
+        "Password Capacity": "50000",
+        "Record Capacity": "300000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "RS-232": "1",
+        "Wiegand": "1 (input or output)",
+        "USB": "1 × USB 2.0 port",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port",
+        "Alarm Input": "2 (digital quantity)",
+        "Alarm Output": "1 (relay)",
+        "Alarm Linkage": "Yes",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Included",
+        "Power Supply": "12 VDC, 2 A",
+        "Power Consumption": "≤24 W",
+        "Product Dimensions": "218 mm × 118 mm × 24.2 mm (8.58\" × 4.65\" × 0.95\") (H × W × D)",
+        "Packaging Dimensions": "Carton: 299 mm × 164 mm × 72 mm (11.78\" × 6.46\" × 2.83\") (H × W × D) Protection box: 390 mm × 320 mm × 360 mm (15.35\" × 12.60\" × 14.17\") (H × W × D)",
+        "Operating Temperature": "–20 °C to +55 °C (–4 °F to +131 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–1,300 m (0 ft–4,265.09 ft)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.67 kg (1.48 lb)",
+        "Accessory": "Included: Wall mount bracket",
+        "Installation": "Turnstile Mount; 86 case mount; wall; floor bracket mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASI7213S-W_datasheet_20250708.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller Web 5.0_User Manual_V1.5.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88278/user_manual/Face_Recognition_Access_Controller_Web_5.0_User_Manual_V1.5.0.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67727/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-09-15 #Drawings ASI7213S-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67737/drawings/1_0_01_25_11862_991119322.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI7213S-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67727/drawings/ASI7213S-W_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-09-18 #Firmware DH_ASIX2XX-D-V-Freyja-A3_MultiLang_PN_V3.004.0000005.3.R.260903 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/67727/firmware/DH_ASIX2XX-D-V-Freyja-A3_MultiLang_PN_V3.004.0000005.3.R.260903.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/pro/asi7213s-w"
+  }
+}

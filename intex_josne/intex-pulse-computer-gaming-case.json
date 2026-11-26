@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://www.intex.in/collections/gaming-cabinet-series",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "8972758909146",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Cabinet",
+      "Intex Pulse Computer Gaming Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "8972758909146",
+    "product_name": "Intex Pulse Computer Gaming Cabinet",
+    "product_title": "Intex Pulse Computer Gaming Cabinet",
+    "product_url": "https://www.intex.in/products/intex-pulse-computer-gaming-case",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Pulse-Computer-Gaming-Case.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3499.0,
+      "display": "₹3,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-pulse-computer-gaming-case.html",
+  "detail": {
+    "title": "Intex Pulse Computer Gaming Cabinet",
+    "model": "Cabinet",
+    "brand": "Intex",
+    "overview": "The Intex Pulse Gaming Case is a premium pick for gamers seeking aesthetics and performance. It features a stylish acrylic side panel and RGB strip front that adds flair to your setup. With support for Micro-ATX and ITX motherboards, it’s built for space-efficient gaming systems. Equipped with a 120 mm rear fan and flexible drive bays, Pulse balances airflow, cooling, and storage capacity, making it an ideal chassis for both beginners and seasoned PC builders.",
+    "features": [
+      "Left Material: Acrylic",
+      "Front Panel: RGB Strip Design",
+      "I/O Ports: 2*USB 1.0, Audio",
+      "Motherboard Support: Micro-ATX / ITX",
+      "Rear Fan: 1*120 mm (Included)",
+      "Drive Bays: 1*2.5” SSD, 3*3.5” HDD",
+      "PCI Slots: 4 pcs",
+      "VGA Max Length: 250 mm",
+      "Power Supply: ATX (Top Position)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Pulse-Computer-Gaming-Case.jpg",
+        "alt": "Intex Pulse Computer Gaming Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Left Material: Acrylic",
+        "Feature 2": "Front Panel: RGB Strip Design",
+        "Feature 3": "I/O Ports: 2*USB 1.0, Audio",
+        "Feature 4": "Motherboard Support: Micro-ATX / ITX",
+        "Feature 5": "Rear Fan: 1*120 mm (Included)",
+        "Feature 6": "Drive Bays: 1*2.5” SSD, 3*3.5” HDD",
+        "Feature 7": "PCI Slots: 4 pcs",
+        "Feature 8": "VGA Max Length: 250 mm",
+        "Feature 9": "Power Supply: ATX (Top Position)"
+      },
+      "General": {
+        "Model": "Cabinet"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-pulse-computer-gaming-case"
+  }
+}

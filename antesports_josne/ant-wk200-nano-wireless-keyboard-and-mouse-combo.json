@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "ANT WK200 Nano Wireless Keyboard and Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351565865251",
+    "product_name": "ANT WK200 Nano Wireless Keyboard and Mouse Combo",
+    "product_title": "ANT WK200 Nano Wireless Keyboard and Mouse Combo",
+    "product_url": "https://antesports.com/products/ant-wk200-nano-wireless-keyboard-and-mouse-combo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/30.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-wk200-nano-wireless-keyboard-and-mouse-combo.html",
+  "detail": {
+    "title": "ANT WK200 Nano Wireless Keyboard and Mouse Combo",
+    "model": "ANTP0044",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports WK200 is a 2.4 GHz wireless keyboard and mouse combo designed for comfortable everyday computing, work and home use. Its full-size 104-key US layout provides well-spaced keys for convenient typing, while 9 dedicated multimedia keys offer quick access to commonly used functions. The wireless mouse features a high-precision optical sensor with adjustable DPI levels of 800, 1200 and 1600 for smooth and responsive tracking. With a reliable wireless range of up to 10 meters, plug-and-play USB connectivity and a power-saving sleep mode, the WK200 provides a convenient cable-free setup for PCs, laptops and notebooks. The spill-resistant keyboard and silent mouse clicks make it a practical choice for both work and everyday use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/30.png",
+        "alt": "ANT WK200 Nano Wireless Keyboard and Mouse Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4 GHz Wireless",
+        "Wireless Range": "Up to 10 Meters",
+        "Keyboard": "Full-Size 104 Keys",
+        "Multimedia Keys": "9 Dedicated Keys",
+        "Mouse DPI": "800 / 1200 / 1600 DPI",
+        "Mouse Sensor": "High-Precision Optical Sensor",
+        "Mouse Buttons": "4 Keys",
+        "Mouse Click": "Silent Click",
+        "Power Saving": "Automatic Sleep After 10 Minutes",
+        "USB Receiver": "Included",
+        "Compatibility": "Windows XP / Vista / 7 / 8 / 10",
+        "Use Case": "Work, Home & Everyday Computing",
+        "Color": "Black",
+        "Warranty": "1 Year Pan India Warranty",
+        "CONNECTIVITY": "2.4 GHz Wireless",
+        "WIRELESS RANGE": "Up to 10 Meters",
+        "KEYBOARD": "Full-Size 104 Keys",
+        "MULTIMEDIA KEYS": "9 Dedicated Keys",
+        "MOUSE DPI": "800 / 1200 / 1600 DPI",
+        "MOUSE SENSOR": "High-Precision Optical Sensor",
+        "MOUSE BUTTONS": "4 Keys",
+        "MOUSE CLICK": "Silent Click",
+        "POWER SAVING": "Automatic Sleep After 10 Minutes",
+        "USB RECEIVER": "Included",
+        "COMPATIBILITY": "Windows XP / Vista / 7 / 8 / 10",
+        "USE CASE": "Work, Home & Everyday Computing",
+        "COLOR": "Black",
+        "WARRANTY": "1 Year Pan India Warranty",
+        "Offer Price (INR)": "₹1,449.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "ANTP0044"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-wk200-nano-wireless-keyboard-and-mouse-combo"
+  }
+}

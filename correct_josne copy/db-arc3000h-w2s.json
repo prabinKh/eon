@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Demo Box",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/demo-box",
+    "tab_title": "Demo Box",
+    "tab_id": "15607",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Demo Box",
+      "Demo Box"
+    ]
+  },
+  "card_info": {
+    "product_id": "124247",
+    "product_name": "DB-ARC3000H-W2S",
+    "product_title": "Dahua Wireless Alarm Demo Box",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/demo-box/db-arc3000h-w2s",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2S_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/db-arc3000h-w2s.html",
+  "detail": {
+    "title": "Dahua Wireless Alarm Demo Box",
+    "model": "DB-ARC3000H-W2S",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DB-ARC3000H-W2S Dahua Wireless Alarm Demo Box Key Points · Easy to carry around with designed universal wheels. · Straightforward to demonstrate the functions of all the devices in the box. · Place screws in the exhibition box to protect the devices from being damaged by shaking. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2S_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2S_2_thumb.png",
+        "alt": "DB-ARC3000H-W2S",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2S_3_thumb.png",
+        "alt": "DB-ARC3000H-W2S",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2S_4_thumb.png",
+        "alt": "DB-ARC3000H-W2S",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Port": {
+        "Network Port": "1 × Adaptive Ethernet port"
+      },
+      "Technical": {
+        "Operating Current": "Up to 4.2 A"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC",
+        "Power Consumption": "Up to 50 W",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Product Dimensions": "604 mm × 464 mm × 204 mm (23.78\" × 18.27\" × 8.03\") (L × W × H)",
+        "Packaging Dimensions": "769 mm × 609 mm × 373 mm (30.28\" × 23.98\" × 14.69\") (L × W × H)",
+        "Net Weight": "11 kg (24.25 lb)",
+        "Gross Weight": "13 kg (28.66 lb)",
+        "Casing Material": "Aluminum",
+        "Certifications": "ROHS, CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DB-ARC3000H-W2S_datasheet_20230209.pdf"
+      },
+      {
+        "name": "2022-08-31 #Drawings DB-ARC3000H-W2S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65627/drawings/DB-ARC3000H-W2S_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/demo-box/db-arc3000h-w2s"
+  }
+}

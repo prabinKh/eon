@@ -1,0 +1,193 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "109587",
+    "product_name": "ASI3214A-W",
+    "product_title": "Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi3214a-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220627/ai1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi3214a-w.html",
+  "detail": {
+    "title": "Face Recognition Access Controller",
+    "model": "ASI3214A-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI3214A-W Face Recognition Access Controller Key Points • Visible Light Facial Recognition and Liveness Detection • 3,000 Faces, 5,000 Fingerprints, 5,000 Cards and 3,000 Passwords • 2-MP CMOS Dual-lens Camera, DWDR • 4.3-inch Touch Screen with Resolution of 480 × 272 • Face Recognition Duration< 0.2s/person, Accuracy rate ≥ 99.9% • Easy Configuration via PC and Mobile Web Client • Wi-Fi AP Mode Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/ai1_thumb.png",
+        "alt": "ASI3214A-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/ai4_thumb.png",
+        "alt": "ASI3214A-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/ai3_thumb.png",
+        "alt": "ASI3214A-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220627/ai2_thumb.png",
+        "alt": "ASI3214A-W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Network Protocol": "IPv4; RTSP; RTP; TCP; UDP; SIP; P2P",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF; CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "4.3\" LCD",
+        "Screen Type": "Capacitive Touchscreen",
+        "Screen Resolution": "480 (H) × 272 (V)",
+        "Camera": "2-MP CMOS HD dual-lens camera",
+        "WDR": "DWDR",
+        "Light Compensation": "Auto IR",
+        "Voice Prompt": "Yes",
+        "Casing": "PC + ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Password, fingerprint, card, remote, face and combination unlock",
+        "Card Type": "IC card; Desfire card (EV3,Compatible with Dahua card by default)",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Peripheral Card Reader": "1 × RS–485 card reader; 1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Real-time Monitoring": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID": {
+        "Modulation Type": "ASK",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42dBuA/m @10m"
+      },
+      "Network": {
+        "Max. Transmission Power": "≤20dBm@2400-2483.5 MHz"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")",
+        "Face Recognition Height Range": "1.1 m– 2.0 m (3.61 ft–6.56 ft)",
+        "Face Recognition Distance": "0.3 m–1.5 m (0.98 ft–4.92 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s",
+        "Fingerprint Verification Mode": "1:N",
+        "Fingerprint Comparison Time": "1.5 s",
+        "Fingerprint Recognition Time": "0.5 s",
+        "Read Speed (QR Code )": "500 ms",
+        "Code Type": "Paper; Electronic",
+        "User (Card) Type": "Normal user; VIP users; patrol users; guest user; blocklist user; other user",
+        "User Capacity": "3,000",
+        "Face Image Capacity": "3,000",
+        "Card Capacity": "5,000",
+        "Fingerprint Capacity": "5,000",
+        "Password Capacity": "3,000",
+        "Record Capacity": "300,000",
+        "RS-485": "1",
+        "Wiegand": "1",
+        "USB": "1 × USB 2.0",
+        "Network Port": "1 × RJ-45 10/100 Mbps self-adaptive Ethernet port",
+        "Exit Button": "1",
+        "Lock Control": "1",
+        "Door Status Detection": "1",
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes",
+        "Duress Fingerprint": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Standard",
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "≤18 W",
+        "Product Dimensions": "115.0 mm × 118.0 mm × 27.1 mm (4.53\" × 4.65\" × 1.07\") (H × W × D)",
+        "Packaging Dimensions": "190 mm × 179 mm × 127 mm (7.48\" × 4.65\" × 5.00\") (L × W × H, protection box)",
+        "Operating Temperature": "–10 °C to +40 °C (+14 °F to +104 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Net Weight": "250 g (0.55 lb)",
+        "Gross Weight": "400 g (0.88 lb)",
+        "Accessory": "Wall mount bracket (included)",
+        "Installation": "Wall mount; 86 case mount; desk mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASI3214A-W_datasheet_20250807.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller Web 5.0_User Manual_V1.5.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88278/user_manual/Face_Recognition_Access_Controller_Web_5.0_User_Manual_V1.5.0.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88263/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-06-14 #Drawings ASI3214A-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47577/drawings/ASI3214A-W_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-09-18 #Firmware DH_ASIX2XX-C-H-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47567/firmware/DH_ASIX2XX-C-H-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi3214a-w"
+  }
+}

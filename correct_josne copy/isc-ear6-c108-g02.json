@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "137247",
+    "product_name": "ISC-EAR6-C108-G02",
+    "product_title": "Network Pro Series EAS RF Antenna",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear6-c108-g02",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAR6-C108-G02_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-ear6-c108-g02.html",
+  "detail": {
+    "title": "Network Pro Series EAS RF Antenna",
+    "model": "ISC-EAR6-C108-G02",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAR6-C108-G02 Network Pro Series EAS RF Antenna Key Points Sound & Light Alarm It can effectively detect RF tags and labels in the coverage area. Once the product with a RF tag or label passes the antenna, the sound & light alarm will be triggered, and the alarm volume can be adjusted as needed. Anti-inference Adjustment Supports configurations such as multi-level alarm sensitivity and threshold, antenna gain and real-time interference indicator. It is beneficial for the antenna to effectively adapt to the vast majority of interference environments. And the parameters and phase synchronization can be easily set through the buttons and screen. CCTV Linkage Once the alarm is triggered, the antenna will send the signal to the CCTV system and save the alarm videos automatically for reference. Its high performance contributes to less business loss and theft. Network Platform Connection The antenna is equipped with the network communication function. This function enables the device connect to the network platform and supports the remote configuration of the device at any time. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAR6-C108-G02_1_thumb.png",
+        "alt": "ISC-EAR6-C108-G02_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAR6-C108-G02_2_thumb.png",
+        "alt": "ISC-EAR6-C108-G02_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAR6-C101-G02",
+        "Technology": "Radio-Frequency (RF)",
+        "Detection Frequency": "8.2 MHz",
+        "Max. Detection Distance of Tags": "1.8 m - 2.0m (5.91 ft - 6.56 ft)(distance between 2 antennas) *depending on environment",
+        "Max. Detection Distance of Labels": "1.4 m - 1.8m (4.59 ft - 5.91ft) (distance between 2 antennas) *depending on environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "TX and RX Antenna",
+        "Adaptability": "1 TX antenna can connect to 2 RX antennas simultaneously. Supports the cascading of multiple antennas.",
+        "Sound & Light Alarm": "TX Antenna and RX Antenna",
+        "Signal Strength Display": "RX Antenna"
+      },
+      "Certifications": {
+        "Certifications": "CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "Ports": {
+        "Alarm Output Port": "For Camera Linkage",
+        "Sensitivity Adjustment Button": "Adjustable Multi-level Sensitivity",
+        "Network Port": "RJ45",
+        "Network Protocol": "HTTP, TCP/IP",
+        "Open Protocol": "SDK",
+        "Supporting Software": "DSS Pro, Configtool"
+      },
+      "Regular": {
+        "Shell Material": "Aluminum Alloy",
+        "Shell Color": "Silver + Gray",
+        "Input Voltage": "100 – 240 VAC @ 50 Hz / 60 Hz",
+        "Output Voltage": "24 VDC",
+        "Maximum Power Consumption": "11 W",
+        "Typical Power Consumption": "9 W",
+        "Overall Exterior Dimensions": "NA",
+        "Packing Dimensions of Antenna Kit": "1650 mm × 500 mm × 240 mm (64.96\" × 19.69\" × 9.45\")",
+        "Total Weight": "11.5 kg (25.35 lb)",
+        "Operating Temperature": "0 °C – 45 °C ( 32 °F – 113 °F)",
+        "Operating Humidity": "5 % – 95 % (RH), non-condensing",
+        "Installation": "Vertical Pole Mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAR6-C108-G02_datasheet_20230720.pdf"
+      },
+      {
+        "name": "2023-06-02 #User Manual 6 Series RF Anti-theft Antenna_User's Manual_V1.0.0 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/DOR/PUM0007669/6_Series_RF_Anti-theft_Antenna_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-04-18 #Drawings ISC-EAR6-C108-G02_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77387/drawings/1_0_01_46_10144_347797333.pdf"
+      },
+      {
+        "name": "2023-04-18 #Drawings ISC-EAR6-C108-G02_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77387/drawings/ISC-EAR6-C108-G02_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-07-27 #Firmware General_ISCEAR6C1xx_V1.000.0000000.0.R.230706 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2244451/M/General_ISCEAR6C1xx_V1.000.0000000.0.R.230706.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear6-c108-g02"
+  }
+}

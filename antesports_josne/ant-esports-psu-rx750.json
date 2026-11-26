@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "RX750 80 Plus Bronze Full Modular Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421024547",
+    "product_name": "RX750 80 Plus Bronze Full Modular Power Supply Unit",
+    "product_title": "RX750 80 Plus Bronze Full Modular Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-rx750",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_7431a27a-a17d-4d36-a3b5-0541fd888bf6.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-rx750.html",
+  "detail": {
+    "title": "RX750 80 Plus Bronze Full Modular Power Supply Unit",
+    "model": "AESP0328",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU RX750 is a high-efficiency 750W power supply built for gaming PCs and demanding desktop systems. Featuring 80 Plus Bronze certification, it ensures efficient and stable power delivery, while its non-modular design includes essential 24-pin, dual CPU, PCIe, SATA, and Molex connectors for broad compatibility. Engineered for reliable, long-lasting performance, it's an ideal choice for gaming rigs and high-performance PC builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_7431a27a-a17d-4d36-a3b5-0541fd888bf6.png",
+        "alt": "RX750 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_d2fe3709-51da-49b5-9237-380d0a847a3d.png",
+        "alt": "RX750 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_7bc372cb-6d0d-4187-8c86-7807682889f6.png",
+        "alt": "RX750 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_9c2e5b19-982d-4de6-ae12-d09d6e0a3a86.png",
+        "alt": "RX750 80 Plus Bronze Full Modular Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "RX Series (80+ Bronze)",
+        "Category": "Power Supply",
+        "Rated Wattage": "750",
+        "Rating": "80 Plus Bronze",
+        "Modularity": "Non-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "2 (8-Pin)",
+        "PCIe (8-Pin)": "1",
+        "SATA": "4",
+        "Molex": "2",
+        "SERIES": "RX Series (80+ Bronze)",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "750",
+        "RATING": "80 Plus Bronze",
+        "MODULARITY": "Non-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "1",
+        "MOLEX": "2",
+        "Offer Price (INR)": "₹5,349.00",
+        "MRP (INR)": "₹8,299.00",
+        "SKU": "AESP0328"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-rx750"
+  }
+}

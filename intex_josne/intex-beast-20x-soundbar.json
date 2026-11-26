@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "BT Speakers",
+    "subcategory_url": "https://www.intex.in/collections/bt-speakers",
+    "series": "smart accessories",
+    "series_url": "https://www.intex.in/collections/smart-accessories",
+    "tab_title": "BT Speakers",
+    "tab_id": "9069242810586",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "BT Speakers",
+      "Intex BEAST 20X Soundbar"
+    ]
+  },
+  "card_info": {
+    "product_id": "9069242810586",
+    "product_name": "Intex BEAST 20X Soundbar",
+    "product_title": "Intex BEAST 20X Soundbar",
+    "product_url": "https://www.intex.in/products/intex-beast-20x-soundbar",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST20XSOUNDBAR.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 4999.0,
+      "display": "₹4,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-beast-20x-soundbar.html",
+  "detail": {
+    "title": "Intex BEAST 20X Soundbar",
+    "model": "20X",
+    "brand": "Intex",
+    "overview": "Experience the power of True Monster Sound with the all-new Intex BEAST 20X Soundbar. Engineered for powerful, immersive, and crystal-clear audio, it turns every movie night, game, or playlist into a dynamic sound experience.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/BEAST20XSOUNDBAR.jpg",
+        "alt": "Intex BEAST 20X Soundbar",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Powerful Sound Output": "– Deep, impactful bass with rich clarity.",
+        "360° Surround Experience": "– Immerse yourself in cinematic sound from every angle.",
+        "Bluetooth Version 5.4": "– Enjoy seamless wireless music streaming.",
+        "Multi-Play Connectivity": "– Supports USB / AUX / HDMI (ARC) / Bluetooth modes.",
+        "RGB Accent Lighting": "– Adds a touch of color to your sound experience.",
+        "Plug & Play Setup": "– Quick and easy installation for instant entertainment.",
+        "Smart Bass Optimization": "– Delivers punchy lows without distortion.",
+        "Perfect for TVs, PCs & Music Systems": "– Compact yet powerful design fits any setup.",
+        "Model": "20X"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Beast_20x.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-beast-20x-soundbar"
+  }
+}

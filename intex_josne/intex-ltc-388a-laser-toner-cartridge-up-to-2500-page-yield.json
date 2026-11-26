@@ -1,0 +1,86 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "8991580029146",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC 388A | Laser Toner Cartridge (up to 2500-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8991580029146",
+    "product_name": "Intex LTC 388A | Laser Toner Cartridge (up to 2500-page yield)",
+    "product_title": "Intex LTC 388A | Laser Toner Cartridge (up to 2500-page yield)",
+    "product_url": "https://www.intex.in/products/intex-ltc-388a-laser-toner-cartridge-up-to-2500-page-yield",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-388A.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 949.0,
+      "display": "₹949.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-ltc-388a-laser-toner-cartridge-up-to-2500-page-yield.html",
+  "detail": {
+    "title": "Intex LTC 388A | Laser Toner Cartridge (up to 2500-page yield)",
+    "model": "LTC 388A",
+    "brand": "Intex",
+    "overview": "The INTEX LTC 388A toner cartridge offers superior print quality and consistent performance. With a page yield of up to 2500 pages, it's an ideal solution for both personal and professional printing needs. This high-capacity cartridge is built with a reliable drum unit and refillable design, ensuring longevity and cost-efficiency. Experience crisp black text, deep blacks, and bold output from the first page to the last. Compatible with a wide range of HP LaserJet printers.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-388A.jpg",
+        "alt": "Intex LTC 388A | Laser Toner Cartridge (up to 2500-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Model": "LTC 388A",
+        "Page Yield": "Up to 2500 pages (ISO/IEC standard)",
+        "Color": "Black",
+        "Drum Quality": "High-Quality, Long-Lasting Drum",
+        "Cartridge Type": "Toner Cartridge (Refillable)",
+        "Print Technology": "Laser",
+        "Installation": "Easy and mess-free",
+        "Compatible Printers": "HP LaserJet P1007, P1008, P1106, P1108, M1136 MFP, 1213nf MFP, 1216n MFP, M126, M128, M202, M226"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-ltc-388a-laser-toner-cartridge-up-to-2500-page-yield"
+  }
+}

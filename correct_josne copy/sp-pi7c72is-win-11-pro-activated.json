@@ -1,0 +1,137 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "OPS",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/ops",
+    "tab_title": "OPS",
+    "tab_id": "13427",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "OPS",
+      "OPS"
+    ]
+  },
+  "card_info": {
+    "product_id": "145700",
+    "product_name": "SP-PI7C72IS(Win 11 Pro Activated)",
+    "product_title": "Open Pluggable Specification",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/ops/sp-pi7c72is(win-11-pro-activated)",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_02_11047/ProductImage/1_0_99_02_11047_569433876_thumb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/sp-pi7c72is-win-11-pro-activated.html",
+  "detail": {
+    "title": "Open Pluggable Specification",
+    "model": "SP-PI7C72IS(Win 11 Pro Activated)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SP-PI7C72IS(Win 11 Pro Activated) Open Pluggable Specification Key Points • Intel® Alder Lake-H i7-12650H, 4.70 GHz • Intel® UHD Graphics for 12th Gen Intel® Processors • 1 × 16 GB DDR4 3200 MHz • 1 × 256 GB 2280 SSD, NVMe/SATA • 1 × 2230 PCIe/USB 2.0, Wi-Fi/BT Module • 1 × HDMI 1.4, 1 × DP 1.2, 2 × USB 3.1, 2 × USB 2.0, 1 × RJ45 10/100/1000M, 1 × USB 3.1 Type-C • System Activation Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_02_11047/ProductImage/1_0_99_02_11047_569433876_thumb.jpg",
+        "alt": "SP-PI7C72IS(Win 11 Pro Activated)_View_45left-logo.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Function": {
+        "Processor": "Intel® Alder lake-H i7-12650H, 4.70 GHz",
+        "Chip": "SOC",
+        "BIOS": "AMI UEFI BIOS",
+        "Integrated Graphics Card": "Intel® UHD Graphics for 12th Gen Intel® Processors",
+        "Sound Card": "Realtek ALC897",
+        "Memory": "16 GB",
+        "Disk": "256 GB",
+        "Wireless": "1 × 2230 CNVI AX101, Wi-Fi/BT Module",
+        "Button": "Front, 1 × power button, 1 × resetting button (recessed socket)",
+        "Operating System": "Supports Windows 11 Pro or without any operating system."
+      },
+      "function": {
+        "Number of Cores": "10",
+        "Number of Threads": "16",
+        "Level 3 Cache": "24 MB"
+      },
+      "Device Ports": {
+        "Power": "1 × DC IN",
+        "Network Port": "1 × RJ-45 (10/100/1000 Mbps)",
+        "USB": "2 × USB 3.1, 2 × USB 2.0",
+        "Type-C Port": "1 × USB 3.1 Type-C",
+        "DP": "1 × DP1.2 out, Max.4K/60 Hz",
+        "HDMI": "1 × HDMI 1.4 out, Max.4K/30 Hz",
+        "Audio Port": "1 × Line-out and MIC-In, 2-in-1 Connector",
+        "Extension Interface": "1 × 80 pin JAE port"
+      },
+      "Power": {
+        "Operating Voltage": "12–19 VDC",
+        "Standby Power Consumption": "0.8 W",
+        "Power Consumption": "Typ: 53 W; Max: 58.8 W"
+      },
+      "Environment": {
+        "Operating Temperature": "–5 °C to +45 °C (+23 °F to +113 °F)",
+        "Operating Humidity": "10%–90%, non-condensing",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "10%–90%, non-condensing"
+      },
+      "Structure": {
+        "Casing Material": "SGCC",
+        "Product Dimensions": "119 mm × 180 mm × 30 mm (4.69\" × 7.09\" × 1.18\")",
+        "Packaging Dimensions": "254 mm × 196 mm × 77mm (10.00\" × 7.72\" × 3.03\")",
+        "Net Weight": "0.75 kg (1.65 lb)",
+        "Gross Weight": "0.95 kg (2.09 lb)",
+        "Casing Color": "Black",
+        "Accessory": "2 × antennas, 2 × M3 screws, 1 × desiccant, 1 × user's manual"
+      },
+      "Certifications": {
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SP-PI7C72IS(Win_11_Pro_Activated)_datasheet_20240508.pdf"
+      },
+      {
+        "name": "2025-12-02 #User Manual DHI-SP-PIXX Series_User's Manual_V1.0.0_20250220 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010593/3481048/DHI-SP-PIXX_Series_User_27s_Manual_V1.0.0_20250220.pdf"
+      },
+      {
+        "name": "2024-11-28 #A&E Document SP-PI7C72IS(Win 11 Pro Activated)_A&E_20260901173305 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81789/a_e_document/1788255718538.docx"
+      },
+      {
+        "name": "2024-04-17 #Drawings SP-PI7C72IS(Win 11 Pro Activated)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81790/drawings/SP-PI7C75IS(Win_11_Pro_Activated)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-07 #Firmware Dahua_EN_win11Pro_22H2_20240508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3082656/Dahua_EN_win11Pro_22H2_20240508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/ops/sp-pi7c72is(win-11-pro-activated)"
+  }
+}

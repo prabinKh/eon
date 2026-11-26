@@ -1,0 +1,152 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "4K",
+    "tab_id": "9452",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "4K"
+    ]
+  },
+  "card_info": {
+    "product_id": "154255",
+    "product_name": "HAC-HDBW1801RA-Z-A",
+    "product_title": "4K IR HDCVI Motorized Vari-Focal Vandal-proof Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/4k/starlight/hac-hdbw1801ra-z-a=s3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/85547/image/1_0_01_12_27819_242831801_temporary_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdbw1801ra-z-a-s3.html",
+  "detail": {
+    "title": "4K IR HDCVI Motorized Vari-Focal Vandal-proof Dome Camera",
+    "model": "HAC-HDBW1801RA-Z-A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDBW1801RA-Z-A 4K IR HDCVI Motorized Vari-Focal Vandal-proof Dome Camera Key Points • High-Quality Imaging with 4K Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 50 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 & IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85547/image/1_0_01_12_27819_242831801_temporary_thumb.PNG",
+        "alt": "HAC-HDBW1801RA-Z-A_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85547/image/1_0_01_12_27819_242831802_temporary_thumb.PNG",
+        "alt": "HAC-HDBW1801RA-Z-A_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Auto Focus": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "87.2 m( 286.09 ft)",
+        "T": "269.3 m( 883.53 ft)"
+      },
+      "*DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function": {
+        "Lens": "Detect",
+        "W": "87.2 m( 286.09 ft)",
+        "T": "269.3 m( 883.53 ft)"
+      },
+      "Video Frame Rate": {},
+      "Resolution": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Illumination Mode": {},
+      "Mirror": {},
+      "Certifications": {},
+      "Built-in Mic": {},
+      "Camera Audio": {},
+      "Pick-up Distance": {},
+      "Video Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85547/datasheet/DH-HAC-HDBW1801RA-Z-A_S3_datasheet_20251124.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Dome Camera Installation Guide V1.0.3-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/user_manual/HDCVI_Dome_Camera_Installation_Guide_V1.0.3-Eng.pdf"
+      },
+      {
+        "name": "2025-07-29 #Drawings HAC-HDBW1801RA-Z-A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87611/drawings/HAC-HDBW1200RA-Z-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-11-13 #Drawings HAC-HDBW1801RA-Z-A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/drawings/HAC-HDBW2241RA-Z-A-DP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/4k/starlight/hac-hdbw1801ra-z-a=s3"
+  }
+}

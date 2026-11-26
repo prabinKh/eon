@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "HDMI 2.0 Cable with Blue Metal Cap - 10 Meters"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353570611491",
+    "product_name": "HDMI 2.0 Cable with Blue Metal Cap - 10 Meters",
+    "product_title": "HDMI 2.0 Cable with Blue Metal Cap - 10 Meters",
+    "product_url": "https://antesports.com/products/aeh110-hdmi-cable-gold-plated-10m",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/aeh110-hdmi-cable-gold-plated-10m.html",
+  "detail": {
+    "title": "HDMI 2.0 Cable with Blue Metal Cap - 10 Meters",
+    "model": "AEPP0137",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEH110 is a 10-metre HDMI 2.0 cable finished with a distinctive blue metal connector cap and 24K gold-plated contacts for reliable, corrosion-resistant connections over time. Rated for 18Gbps bandwidth, it supports the full range of HDTV resolutions and refresh rates for sharp, lag-free video and audio even across this longer run. Its sturdy build and premium connector finish make it a dependable choice for connecting a source device to a display placed across a room or mounted on a distant wall.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8.jpg",
+        "alt": "HDMI 2.0 Cable with Blue Metal Cap - 10 Meters - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "HDMI Version": "2.0",
+        "Bandwidth": "18Gbps",
+        "Connector": "24K Gold Plated, Blue Metal Cap",
+        "Length": "10 Meters",
+        "HDMI VERSION": "2.0",
+        "BANDWIDTH": "18Gbps",
+        "CONNECTOR": "24K Gold Plated, Blue Metal Cap",
+        "LENGTH": "10 Meters",
+        "Offer Price (INR)": "₹999.00",
+        "MRP (INR)": "₹2,199.00",
+        "SKU": "AEPP0137"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aeh110-hdmi-cable-gold-plated-10m"
+  }
+}

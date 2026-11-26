@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "IT Accessories",
+    "subcategory_url": "https://www.intex.in/collections/it-accessories",
+    "series": "IT Accessories Series",
+    "series_url": "https://www.intex.in/collections/it-accessories-series",
+    "tab_title": "IT Accessories",
+    "tab_id": "7477567324378",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "IT Accessories",
+      "SMPS CLASSIC 450 20+4 PIN"
+    ]
+  },
+  "card_info": {
+    "product_id": "7477567324378",
+    "product_name": "SMPS CLASSIC 450 20+4 PIN",
+    "product_title": "SMPS CLASSIC 450 20+4 PIN",
+    "product_url": "https://www.intex.in/products/classic-450-20-4-pin",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_00c2f199-22da-47f0-8b72-8053443f9650.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 999.0,
+      "display": "₹999.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/classic-450-20-4-pin.html",
+  "detail": {
+    "title": "SMPS CLASSIC 450 20+4 PIN",
+    "model": "1178-1450-7",
+    "brand": "Intex",
+    "overview": "This UPS from Intex has 85W power output. It provides protection against short circuits, over power, and it is compatible with any PC for 200W. It has 20+4 Pin, 2 SATA, 2 HDD, and 1 Fan for diverse connectivity and has 2 years of warranty.",
+    "features": [
+      "85W Power Output",
+      "20+4 Pin, 2 SATA,2 HDD & 1 Fan Diverse Connectivity",
+      "Short Circuit Protection",
+      "Over Power protection",
+      "Compatible with any PC for 200W.",
+      "2 Years Warranty"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_00c2f199-22da-47f0-8b72-8053443f9650.jpg",
+        "alt": "SMPS CLASSIC 450 20+4 PIN",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/2_2ee664c5-b403-45e8-88a8-ff12fdd03df4.jpg",
+        "alt": "SMPS CLASSIC 450 20+4 PIN",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/3_8a39b0e7-bb2b-406e-987b-e9c75a2a3910.jpg",
+        "alt": "SMPS CLASSIC 450 20+4 PIN",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/4_0cd52030-49a2-4dd3-a350-b2490baf04a9.jpg",
+        "alt": "SMPS CLASSIC 450 20+4 PIN",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/5_d790c83d-8ed5-4bda-9fe8-36b31b63215d.jpg",
+        "alt": "SMPS CLASSIC 450 20+4 PIN",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "85W Power Output",
+        "Feature 2": "20+4 Pin, 2 SATA,2 HDD & 1 Fan Diverse Connectivity",
+        "Feature 3": "Short Circuit Protection",
+        "Feature 4": "Over Power protection",
+        "Feature 5": "Compatible with any PC for 200W.",
+        "Feature 6": "2 Years Warranty"
+      },
+      "General": {
+        "Model": "1178-1450-7"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/classic-450-20-4-pin"
+  }
+}

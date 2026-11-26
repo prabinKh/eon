@@ -1,0 +1,204 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "153731",
+    "product_name": "IPMECD-3141-RV4-LCD",
+    "product_title": "Folding Arm All-in-one Barrier",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/ipmecd-3141-rv4-lcd",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15723/ProductImage/1_0_01_09_15723_799154715_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmecd-3141-rv4-lcd.html",
+  "detail": {
+    "title": "Folding Arm All-in-one Barrier",
+    "model": "IPMECD-3141-RV4-LCD",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMECD-3141-RV4-LCD Folding Arm All-in-one Barrier Key Points • Barrier arms need to be purchased separately. • All-in-one design, easy deployment, inventory reduction • Flexible Solution: Springless design, adaptive to more arm lengths, covering multi-scenarios • 120+ countries license plate recognition • See better: 4 MP HD camera with max. 2688 × 1520@25 fps. High quality imaging with 1/1.8’ progressive scan CMOS. 0.001 lux low illumination with clearer imaging at night. Patented window defogging technology ensures the 98% detection accuracy during various conditions. • Flexible solutions adaptable to different arm lengths and wide-range telescopic arm • Enhanced durability: Adopts brush-less DC motor with 6 million lifespan, carbon steel gear, and multiple anti-smash modes such as IR, loop, radars to extend the barrier service life. Built-in DC12V output, can directly power external devices • Integrated LCD Display: Real-Time ID & Data Visualization. • Safer & Secure: Instantly spot unauthorized vehicles and identify critical details like vehicle brand, color, license status, etc. • User-friendly: Supports remote control within 50m. The barrier arm supports obstacle contact rebound, and auto-on when power outage. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15723/ProductImage/1_0_01_09_15723_799154715_thumb.PNG",
+        "alt": "IPMECD-3141-RV4-LCD_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15723/ProductImage/1_0_01_09_15723_799154716_thumb.PNG",
+        "alt": "IPMECD-3141-RV4-LCD_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Display Screen Type": {},
+      "Display Screen Dimensions": {},
+      "Display Contents": {},
+      "Display Color": {},
+      "Screen Resolution": {},
+      "Display Screen Lifespan": {},
+      "Display Screen Brightness": {},
+      "The video resolutions supported by the display.": {},
+      "The video formats supported by the display.": {},
+      "The image resolutions supported by the display.": {},
+      "The image formats supported by the display.": {},
+      "Illuminator Number": {},
+      "Illuminator Color Temperature": {},
+      "Illuminator Brightness Adjustment": {},
+      "Image Sensor": {},
+      "Pixel": {},
+      "Image Resolution": {},
+      "Video Resolution": {},
+      "Video Frame Rate": {},
+      "Video Bit Rate": {},
+      "Video Compression": {},
+      "Image Encoding Format": {},
+      "Noise Reduction": {},
+      "White Balance": {},
+      "Electronic Shutter Speed": {},
+      "WDR": {},
+      "Bad Pixel Correction": {},
+      "Edge Enhancement": {},
+      "Exposure Mode": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.7 mm–12 mm": "82.8 m( 271.65 ft)"
+      },
+      "Arm Type": {},
+      "Arm Length": {},
+      "Arm Model": {},
+      "Opening Time": {},
+      "Motor Type": {},
+      "Rotational Speed": {},
+      "Pan/Tilt Range": {},
+      "Bluetooth Standard": {},
+      "Bluetooth Frequency Range": {},
+      "Bluetooth Power Transmission": {},
+      "Sub 1G Modulation Type": {},
+      "Sub 1G Frequency Range": {},
+      "Sub 1G Power Transmission": {
+        "Lens": "Detect",
+        "2.7 mm–12 mm": "82.8 m( 271.65 ft)"
+      },
+      "Lens Mount": {},
+      "Network Port": {},
+      "USB": {},
+      "RS-485": {},
+      "I/O": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Status Output": {},
+      "Shutter Mode": {},
+      "Storage": {},
+      "Image Tampering Prevention": {},
+      "Two-way Audio": {},
+      "Voice Broadcast": {},
+      "Field of View": {},
+      "Illumination Distance": {},
+      "Capture Distance": {},
+      "Alarm Event": {},
+      "Security Mode": {},
+      "OSD Overlay": {},
+      "Automatic Network Replenishment (ANR)": {},
+      "Auto Registration": {},
+      "Number of Blocklists and Allowlists": {},
+      "Defog (Glass Heating)": {},
+      "Anti-drop": {},
+      "Auto Opening in Power Failure": {},
+      "Auto Lifting against Obstruction": {},
+      "Count Mode": {},
+      "Limit Description": {},
+      "RS-485 Log": {},
+      "Remote Control": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Network Protocol": {},
+      "Number of Pairable Remote Controllers": {},
+      "Left and Right Interchangeable": {},
+      "Interoperability": {},
+      "Vehicle Detection": {},
+      "Vehicle Recognition": {},
+      "Video Metadata": {},
+      "Smart TrackFrame": {},
+      "Running Noise": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Motor Lifespan": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Lens": {},
+      "Focal Length": {},
+      "Lens Type": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84726/datasheet/IPMECD-3141-RV4-LCD_S0_datasheet_20251016.pdf"
+      },
+      {
+        "name": "2025-07-22 #User Manual Smart ANPR Camera_Web 5.0 Operation Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010945/3254496/Smart_ANPR_Camera_Web_5.0_Operation_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-07-22 #User Manual Dahua WingX Super Barrier_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010945/3254499/Dahua_WingX_Super_Barrier_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-23 #A&E Document IPMECD-3141-RV4-LCD_A&E_20260901205158 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84726/a_e_document/1788267158756.docx"
+      },
+      {
+        "name": "2025-06-04 #Drawings IPMECD-3141-RV4-LCD_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84722/drawings/IPMECD-3143-RV4-LCD_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings IPMECD-3141-RV4-LCD_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84726/drawings/1_0_01_09_15723_873370491.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/ipmecd-3141-rv4-lcd"
+  }
+}

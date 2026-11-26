@@ -1,0 +1,147 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "illumax",
+    "subcategory_url": "https://cpplusworld.com/products/illumax/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "illumax",
+    "tab_id": "169",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "illumax",
+      "Network",
+      "CP-UNC-TC81ZL6C-VMD-LQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2152",
+    "product_name": "CP-UNC-TC81ZL6C-VMD-LQ",
+    "product_title": "CP-UNC-TC81ZL6C-VMD-LQ",
+    "product_url": "https://cpplusworld.com/cp-unc-tc81zl6c-vmd-lq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/9beadcf0-0543-420b-82b2-b3ea8e59ce55.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-tc81zl6c-vmd-lq.html",
+  "detail": {
+    "title": "CP-UNC-TC81ZL6C-VMD-LQ",
+    "model": "CP-UNC-TC81ZL6C-VMD-LQ",
+    "brand": "CP Plus",
+    "overview": "8MP Dual Light Bullet Camera - 60Mtr.",
+    "features": [
+      "1/2.7” 8MP PS CMOS Image Sensor (0.9407 centimeters)",
+      "Max. 8MP (3840 × 2160)@20fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Quad Stream",
+      "WDR(120dB), Day/Night(ICR), 2D NR, 3D NR, ROI, AWB, AGC, BLC, HLC, Digital watermarking",
+      "IR Range of 60 Mtr., Warm Light Range of 60 Mtr.",
+      "2.7 mm–13.5 mm Motorized Lens",
+      "Support Starlight Technology",
+      "Micro SD Card, PoE, IP67, IK10 (optional)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9beadcf0-0543-420b-82b2-b3ea8e59ce55.png",
+        "alt": "CP-UNC-TC81ZL6C-VMD-LQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e96f05c3-0ddd-4cc4-b617-5326f1bcafae.png",
+        "alt": "CP-UNC-TC81ZL6C-VMD-LQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7” 8MP PS CMOS Image Sensor (0.9407 centimeters)",
+        "Effective Pixels": "3840 (H) × 2160 (V)",
+        "Minimum Illumination": "0.001 lux@F1.4 (Color, 30 IRE), 0.0001 lux@F1.4 (B/W, 30 IRE), 0 lux (IR on)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–90°, Rotation: 0°–360°",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "RAM": "256 MB",
+        "ROM": "128 MB",
+        "DORI Distance": "Lens W: 85.3 m (Detect), 34.1 m (Observe), 17.1 m (Recognize), 8.5 m (Identify)                                    Lens T: 280.0 m (Detect), 112.0 m (Observe), 56.0 m (Recognize), 28.0 m (Identify)",
+        "Gain Control(AGC)": "Auto/ Manual",
+        "Lens Type": "Motorized vari-focal",
+        "Max. Aperture": "F1.4",
+        "Lens Mount": "φ14",
+        "Close Focus Distance": "0.8 m",
+        "Lens": "2.7 mm–13.5 mm",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Smart IR": "Support",
+        "IR Number": "4 Multi-core (IR + warm light)",
+        "IR": "IR Range of 60 Mtr.",
+        "Warm Light": "Warm Light Range of 60 Mtr.",
+        "S/N Ratio": ">58 dB",
+        "Angle of view": "H: 114°–32°, V: 58°–17°, D: 138°–36°",
+        "OTA (Over-The-Air)": "Support",
+        "Smart search": "Work together with AI NVR to perform refine AI search, event extraction and merging to event  videos",
+        "Noise Reduction": "2D NR, 3D NR",
+        "Resolution": "8MP (3840 × 2160), 6MP (3072 × 2048), 5MP (3072 × 1728), 4MP (2560 x 1440), 3MP (2048 ×  1536/2304 × 1296), 2MP (1920 × 1080), 1.3MP (1280 × 960), 720p (1280 × 720), D1 (704 ×  576/704 × 480), VGA (640 × 480), CIF (352 × 288/352 × 240)",
+        "Stream Capability": "Quad Stream",
+        "Frame Rate": "Main stream: 8MP (3840 × 2160)@20fps, 4MP (2560 × 1440)@25/30 fps   Sub stream 1: D1@25fps,       Sub stream 2: D1@25fps,       Sub stream 3: D1@1fps",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Audio": "Built-in Mic",
+        "Iris Control": "Fixed",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of vehicle and human)",
+        "Video Format": "PAL/NTSC",
+        "Privacy Mask": "4 areas",
+        "ROI": "Support (4 areas)",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by sub stream)",
+        "OSD": "Camera title, Date & Time, Channel Title, Time Title, Location, Font Properties, Custom Title",
+        "Protocol": "SFTP, IPv6, IPv4, DNS,RTCP, NTP, RTP, HTTP, HTTPS, SNMP V3, TLS Version 1.2, TCP/IP, PPPoE,  NFS, UDP, UPnP, ICMP, SSL, DHCP, SMTP, RTSPS, InstaOn, ONVIF (Profile S, Profile G, Profile T), unicast, multicast",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Alarm Event": "No SD card, SD card full, SD card error, Network disconnection, IP conflict, illegal access,        Motion detection, Video tampering, Tripwire, Intrusion, Audio detection, Voltage detection,  Defocus detection, External alarm, IMD (Intelligent motion detection), Security exception",
+        "Mirror Function": "Support",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs,  WSSE, account lockout, syslog, video encryption, IP/MAC filtering, HTTPS, trusted upgrade, trusted boot",
+        "IR Control": "Auto, Manual",
+        "IMD (Intelligent motion detection)": "Support",
+        "Browser": "IE, Chrome, Firefox",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688 × 1520 resolution and lower)",
+        "Audio Compression": "G.711a, G.711Mu, G.726, PCM, AAC",
+        "Audio Input": "1 Channel (RCA port)",
+        "Audio Out": "1 Channel (RCA port)",
+        "Alarm IN": "1 channel in: wet contact, 5 mA 3–5 VDC",
+        "Alarm Out": "1 channel out: wet contact, 300 mA 12 VDC",
+        "Bit Rate": "H.265: 3 kbps–8192 kbps, H.264: 3 kbps–8192 kbps",
+        "Bit Rate Control": "CBR/ VBR",
+        "User/ Host": "6 (Total bandwidth: 48 M)",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Weatherproof Standard": "IP67, IK10 (optional)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 2.6 W (12 VDC), 3.1 W (PoE);       Max.: 10.2 W (12 VDC), 12.7 W (PoE) (H.265 +  intelligence on+ WDR + warm light intensity)",
+        "Operating Temperature": "–30°C to +60°C",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–30°C to +60°C",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Casing": "Metal",
+        "Dimensions": "238.5 mm × 75.0mm × 79.0 mm",
+        "Weight": "740g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-TC81ZL6C-VMD-LQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-tc81zl6c-vmd-lq"
+  }
+}

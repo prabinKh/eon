@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM730 Pro Wireless TKL Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346758832419",
+    "product_name": "KM730 Pro Wireless TKL Keyboard & Mouse Combo - Black",
+    "product_title": "KM730 Pro Wireless TKL Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/km730-tkl-wireless-keyboard-mouse-combo-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/20_293872fd-dda7-4c7f-a465-f33e32300319.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km730-tkl-wireless-keyboard-mouse-combo-black.html",
+  "detail": {
+    "title": "KM730 Pro Wireless TKL Keyboard & Mouse Combo - Black",
+    "model": "AEPP0284",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM730 Pro is a compact 75% wireless keyboard and mouse combo built to free up desk space without sacrificing essential keys. The 87-key tenkeyless keyboard runs on a 1000mAh rechargeable battery with auto-sleep, cutting down on frequent recharging, while multi-zone RGB lighting and floating keycaps deliver a vivid, immersive glow across static, breathing and light-off modes with adjustable brightness. The included wireless mouse uses a 300mAh rechargeable battery good for weeks of use per charge, with adjustable DPI and LED lighting of its own. A single 2.4GHz USB nano receiver connects both devices, and the combo works broadly across Windows, Linux, Surface, Fire OS, Android, macOS, PS4, PS5 and Xbox One X.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/20_293872fd-dda7-4c7f-a465-f33e32300319.png",
+        "alt": "KM730 Pro Wireless TKL Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Layout": "75% TKL, 87 Keys",
+        "Keyboard Battery": "1000mAh Rechargeable",
+        "Mouse Battery": "300mAh Rechargeable",
+        "Connectivity": "2.4GHz USB Nano Receiver",
+        "Lighting": "Multi-Zone RGB, 3 Modes",
+        "Compatibility": "Windows, Linux, macOS, PS4, PS5, Xbox One X",
+        "Color": "Black",
+        "KEYBOARD LAYOUT": "75% TKL, 87 Keys",
+        "KEYBOARD BATTERY": "1000mAh Rechargeable",
+        "MOUSE BATTERY": "300mAh Rechargeable",
+        "CONNECTIVITY": "2.4GHz USB Nano Receiver",
+        "LIGHTING": "Multi-Zone RGB, 3 Modes",
+        "COMPATIBILITY": "Windows, Linux, macOS, PS4, PS5, Xbox One X",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,299.00",
+        "MRP (INR)": "₹5,199.00",
+        "SKU": "AEPP0284"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km730-tkl-wireless-keyboard-mouse-combo-black"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Hardened PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/hardened-poe-switch",
+    "tab_title": "Hardened PoE Switch",
+    "tab_id": "8377",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Hardened PoE Switch",
+      "Hardened PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "135297",
+    "product_name": "HS4408-4ET-60",
+    "product_title": "8-Port Hardened Managed Switch with 4-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/hs4408-4et-60",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11323/ProductImage/1_0_01_20_11323_467064807_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/hs4408-4et-60.html",
+  "detail": {
+    "title": "8-Port Hardened Managed Switch with 4-Port PoE",
+    "model": "HS4408-4ET-60",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11323/ProductImage/1_0_01_20_11323_467064807_crop_thumb.png",
+        "alt": "HS4408-4ET-60",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/hs4408-4et-60"
+  }
+}

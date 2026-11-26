@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "P639",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/p639",
+    "tab_title": "P639",
+    "tab_id": "12657",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "P639",
+      "P639"
+    ]
+  },
+  "card_info": {
+    "product_id": "95667",
+    "product_name": "USB-P639-32-64GB",
+    "product_title": "USB Flash Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/p639/usb-p639-32-64gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210624/1_0_99_80_10314_16519602471_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-p639-32-64gb.html",
+  "detail": {
+    "title": "USB Flash Drive",
+    "model": "USB-P639-32-64GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-P639-32-64GB USB Flash Drive Key Points 1.Support OTG 2.Type A & Type C 2-in-1 design 3.Waterproof UDP Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210624/1_0_99_80_10314_16519602471_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210624/1_0_99_80_10314_16519602481_thumb.png",
+        "alt": "USB-P639-32-64GB",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210624/1_0_99_80_10314_16519602511_thumb.png",
+        "alt": "USB-P639-32-64GB",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Specification": {
+        "Product Model": "DHI-USB-P639-32-32GB",
+        "Interface": "USB3.2 Gen1",
+        "Capacity": "32 GB",
+        "Read Speed": "20 MB/s–150 MB/s",
+        "Write Speed": "6 MB/s–100 MB/s",
+        "File System": "FAT32",
+        "Operating System": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+"
+      },
+      "General": {
+        "Product Dimensions": "38.2 mm × 14.4 mm × 9.2 mm (1.50\" × 0.57\" × 0.36\")",
+        "Packaging Dimensions": "132 mm × 100 mm × 11 mm (5.20\" × 3.94\" × 0.43\")",
+        "Operating Temperature": "0 °C to +60 °C (+32 °F to +140 °F)",
+        "Storage Temperatur": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Net Weight": "11 g (0.02 lb)",
+        "Gross Weight": "21 g (0.05 lb)",
+        "Max Operating Voltage": "5 V",
+        "Max Operating Current": "150 mA",
+        "Warranty": "5-year limited warranty"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DHI-USB-P639-32_datasheet_20210330.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/p639/usb-p639-32-64gb"
+  }
+}

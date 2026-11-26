@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Tropical Wave Mouse Pad - Dusky Green"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925128483",
+    "product_name": "Tropical Wave Mouse Pad - Dusky Green",
+    "product_title": "Tropical Wave Mouse Pad - Dusky Green",
+    "product_url": "https://antesports.com/products/tropical-wave-mousepad-900x400-green",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/41_738ce48d-fa28-4aa0-aa39-7bd9d9972b79.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/tropical-wave-mousepad-900x400-green.html",
+  "detail": {
+    "title": "Tropical Wave Mouse Pad - Dusky Green",
+    "model": "AEPP0228",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Tropical Wave is a large extended mouse pad measuring 900 x 400 x 2mm, featuring a calming tropical wave design in dusky green that adds a distinctive natural touch to any desk. Its generous size comfortably fits a keyboard and mouse together, while a durable, non-slip base ensures it stays firmly in place through daily gaming or office sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/41_738ce48d-fa28-4aa0-aa39-7bd9d9972b79.png",
+        "alt": "Tropical Wave Mouse Pad - Dusky Green - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "900 x 400 x 2mm",
+        "Design": "Tropical Wave Print",
+        "Base": "Non-Slip",
+        "Color": "Dusky Green",
+        "DIMENSIONS": "900 x 400 x 2mm",
+        "DESIGN": "Tropical Wave Print",
+        "BASE": "Non-Slip",
+        "COLOR": "Dusky Green",
+        "Offer Price (INR)": "₹449.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0228"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/tropical-wave-mousepad-900x400-green"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "20W",
+    "subcategory_url": "https://www.intex.in/collections/20w",
+    "series": "Fast Charger",
+    "series_url": "https://www.intex.in/collections/fast-charger",
+    "tab_title": "20W",
+    "tab_id": "9163165565146",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "20W",
+      "Intex Bolt Quick 20W QC Fast Charger - Black, White"
+    ]
+  },
+  "card_info": {
+    "product_id": "9163165565146",
+    "product_name": "Intex Bolt Quick 20W QC Fast Charger - Black, White",
+    "product_title": "Intex Bolt Quick 20W QC Fast Charger - Black, White",
+    "product_url": "https://www.intex.in/products/intex-bolt-quick-20w-qc-fast-charger-black-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt_Quick_20W_QC.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1999.0,
+      "display": "₹1,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-bolt-quick-20w-qc-fast-charger-black-white.html",
+  "detail": {
+    "title": "Intex Bolt Quick 20W QC Fast Charger - Black, White",
+    "model": "20W",
+    "brand": "Intex",
+    "overview": "The Intex Bolt Quick 20W QC Charger delivers efficient and reliable fast charging performance for your daily devices. Powered by QC 3.0 technology, it ensures optimized charging speed while maintaining device safety. With Smart IC protection and advanced safety features, this charger provides protection against voltage fluctuations and short circuits. Its compact design makes it ideal for travel and everyday use.",
+    "features": [
+      "20W Fast Charging Output",
+      "Supports QC 3.0 Technology",
+      "Single USB Output",
+      "Smart IC Protection",
+      "Protection Against High & Low Voltage",
+      "Short Circuit Protection",
+      "High Performance Power IC",
+      "Universal Compatibility",
+      "Safe & Durable Build",
+      "Available Colours: White & Black"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt_Quick_20W_QC.jpg",
+        "alt": "Intex Bolt Quick 20W QC Fast Charger - Black, White",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "20W Fast Charging Output",
+        "Feature 2": "Supports QC 3.0 Technology",
+        "Feature 3": "Single USB Output",
+        "Feature 4": "Smart IC Protection",
+        "Feature 5": "Protection Against High & Low Voltage",
+        "Feature 6": "Short Circuit Protection",
+        "Feature 7": "High Performance Power IC",
+        "Feature 8": "Universal Compatibility",
+        "Feature 9": "Safe & Durable Build",
+        "Feature 10": "Available Colours: White & Black"
+      },
+      "General": {
+        "Model": "20W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-bolt-quick-20w-qc-fast-charger-black-white"
+  }
+}

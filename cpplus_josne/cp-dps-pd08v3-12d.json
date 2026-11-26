@@ -1,0 +1,107 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-PD08V3-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "2041",
+    "product_name": "CP-DPS-PD08V3-12D",
+    "product_title": "CP-DPS-PD08V3-12D",
+    "product_url": "https://cpplusworld.com/cp-dps-pd08v3-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/694b5ce6-c1ca-4b43-b857-881443fbbb58.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-dps-pd08v3-12d.html",
+  "detail": {
+    "title": "CP-DPS-PD08V3-12D",
+    "model": "CP-DPS-PD08V3-12D",
+    "brand": "CP Plus",
+    "overview": "8 Channel Power Supply",
+    "features": [
+      "2+2 Output Terminals for Easy Installation",
+      "Short Circuit, Over Voltage and Over Current Protection",
+      "AC I/P & DC O/P Terminals are Covered for Safety",
+      "Power On Indicator",
+      "Cable Compensation Switch",
+      "Built-in EMI Filter to Nullify Interference",
+      "100% Full Load Burn-in Test",
+      "Cooling by Free Air Convection",
+      "Shock Proof Plastic Housing",
+      "Wall Mount Option Along with Desktop"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/694b5ce6-c1ca-4b43-b857-881443fbbb58.png",
+        "alt": "CP-DPS-PD08V3-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3f03db05-74f2-437f-bba3-45efde8af03d.png",
+        "alt": "CP-DPS-PD08V3-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input voltage": "200 ~ 240VAC",
+        "Input AC Frequency Range": "47 ~ 63Hz",
+        "Input Current (Typ.)": "1A/230VAC",
+        "Power Cord": "2 Pin (L & N)",
+        "Standby Power Consumption": "≤0.5W",
+        "Inrush Current (Typ.)": "≤40A@230VAC",
+        "Efficiency (Typ.)": "85%",
+        "Output voltage": "Normal Mode 12V",
+        "Output Current range": "Normal Mode 0 ~ 5.0A",
+        "Rated Power": "Normal Mode 60W",
+        "Ripple & Noise (max.)": "≤240mV",
+        "Line Regulation": "2%",
+        "Load Regulation": "3%",
+        "Power On Indicator": "Support",
+        "Cable Compensation Switch": "Support, 3 Modes (Normal, Long, Ex. Long)",
+        "No. of Output Ports": "2 output terminals",
+        "short-circuit protection": "Support",
+        "Dielectric Strength (Hi-pot)": "3.0KV",
+        "Insulation Resistance": "100MΩ@500VDC",
+        "Surge Immunity": "1.0KV",
+        "Operating Temperature": "-10 ~ +45°C",
+        "Operating Humidity": "20 ~ 90% RH Non-condensing",
+        "Storage Temperature": "-10 ~ +45°C",
+        "Storage Humidity": "10 ~ 95% RH",
+        "Dimension": "141.5mm x 102.6mm x 33.2mm",
+        "Weight": "0.234kg without Power Cord and Packing Box"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-PD08V3-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/3baef5df-5759-4f66-94a1-db618a0e1711.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-pd08v3-12d"
+  }
+}

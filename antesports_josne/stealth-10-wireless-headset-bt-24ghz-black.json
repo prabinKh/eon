@@ -1,0 +1,84 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "Stealth 10 Wireless Gaming Headset - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444558115",
+    "product_name": "Stealth 10 Wireless Gaming Headset - Black",
+    "product_title": "Stealth 10 Wireless Gaming Headset - Black",
+    "product_url": "https://antesports.com/products/stealth-10-wireless-headset-bt-24ghz-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/31_a5bbf4d8-273b-4436-857f-e4c50457e5c1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/stealth-10-wireless-headset-bt-24ghz-black.html",
+  "detail": {
+    "title": "Stealth 10 Wireless Gaming Headset - Black",
+    "model": "AEPP0291",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Stealth 10 is a tri-mode wireless gaming headset offering 2.4GHz USB dongle, Bluetooth 5.4 and Type-C wired connectivity, giving genuine flexibility across PC, PS4, PS5, Switch, Mac and mobile devices. Titanium-coated 50mm drivers deliver clear highs and deep, accurate lows with a 20Hz-20kHz frequency response and 120dB±3dB sensitivity, letting you pinpoint enemy positions with real precision. Ultra-low latency wireless technology keeps audio at 20-30ms, virtually eliminating sync issues between sound and gameplay. A 1200mAh battery delivers up to 76 hours total playtime (30-35 hours with RGB on), fully recharging in 2-3 hours, while an adjustable, noise-cancelling microphone ensures clear team communication. At 320g±10g, it stays comfortable through extended sessions, and vibrant RGB lighting rounds out a genuinely well-equipped wireless headset.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/31_a5bbf4d8-273b-4436-857f-e4c50457e5c1.jpg",
+        "alt": "Stealth 10 Wireless Gaming Headset - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz + Bluetooth 5.4 + Type-C Wired",
+        "Driver Size": "50mm Titanium-Coated",
+        "Frequency Response": "20Hz-20kHz",
+        "Battery": "1200mAh, Up to 76 Hours",
+        "Latency": "20-30ms",
+        "Weight": "320g ± 10g",
+        "Compatibility": "PC, PS5, PS4, Mac, Switch (no mic), Mobile",
+        "Color": "Black",
+        "CONNECTIVITY": "2.4GHz + Bluetooth 5.4 + Type-C Wired",
+        "DRIVER SIZE": "50mm Titanium-Coated",
+        "FREQUENCY RESPONSE": "20Hz-20kHz",
+        "BATTERY": "1200mAh, Up to 76 Hours",
+        "LATENCY": "20-30ms",
+        "WEIGHT": "320g ± 10g",
+        "COMPATIBILITY": "PC, PS5, PS4, Mac, Switch (no mic), Mobile",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹2,599.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0291"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (STEALTH)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-Stealth-10.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/stealth-10-wireless-headset-bt-24ghz-black"
+  }
+}

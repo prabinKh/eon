@@ -1,0 +1,191 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "ITC",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "ITC",
+    "tab_id": "721",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "ITC",
+      "ITC"
+    ]
+  },
+  "card_info": {
+    "product_id": "114897",
+    "product_name": "ITC1652-AU5F-LZF1640",
+    "product_title": "Dahua 16MP All-in-One Enforcement Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/16mp/itc1652-au5f-lzf1640",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221013/ITC1652-AU5F-LZF1640_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc1652-au5f-lzf1640.html",
+  "detail": {
+    "title": "Dahua 16MP All-in-One Enforcement Camera",
+    "model": "ITC1652-AU5F-LZF1640",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC1652-AU5F-LZF1640 Dahua 16MP All-in-One Enforcement Camera Key Points 1.16MP 2.Built-in lens and white-light 3.Housing，license plate, vehicle brand，type and color recognition 4.Cover 5 lanes Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221013/ITC1652-AU5F-LZF1640_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221013/ITC1652-AU5F-LZF1640_2_thumb.png",
+        "alt": "ITC1652-AU5F-LZF1640",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221013/ITC1652-AU5F-LZF1640_3_thumb.png",
+        "alt": "ITC1652-AU5F-LZF1640",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Shutter Mode": {},
+      "Electronic Shutter Speed": {},
+      "Noise Reduction": {},
+      "S/N Ratio": {},
+      "WDR": {},
+      "Min. Illumination": {},
+      "Day/Night": {},
+      "Illuminator Brightness Adjustment": {},
+      "Illumination Distance": {},
+      "Lane Coverage": {},
+      "Lens Type": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Iris Type": {},
+      "Field of View": {},
+      "Exposure Mode": {},
+      "Trigger Mode": {},
+      "OSD Overlay": {},
+      "Alarm Event": {},
+      "Automatic Network Replenishment (ANR)": {},
+      "Auto Registration": {},
+      "Storage": {},
+      "Target Detection": {},
+      "ANPR": {},
+      "Vehicle Type Recognition": {},
+      "Vehicle Color Recognition": {},
+      "Vehicle Brand/Logo Recognition": {},
+      "Motor Vehicle Violation Capture": {},
+      "Motorcycle Violation Capture": {},
+      "Traffic Flow Detection": {},
+      "Traffic Event": {},
+      "Video Compression": {},
+      "Video Resolution": {},
+      "Video Frame Rate": {},
+      "Video Bit Rate": {},
+      "Bit Rate Control": {},
+      "White Balance": {},
+      "Edge Enhancement": {},
+      "HLC": {},
+      "BLC": {},
+      "Bad Pixel Correction": {},
+      "Gain Range": {},
+      "Composite Image": {},
+      "Image Resolution": {},
+      "Image Encoding Format": {},
+      "Image Tampering Prevention": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Security Mode": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Positioning": {},
+      "Timing": {},
+      "Iris Control": {},
+      "Focus Control": {},
+      "Frequency Source Sync": {},
+      "Peripheral Light": {},
+      "USB": {},
+      "RS-485": {},
+      "RS-232": {},
+      "I/O": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Certifications": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50707/datasheet/DHI-ITC1652-AU5F-LZF1640_datasheet_20260205.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual AI Enforcement Camera_Web Operation Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50707/user_manual/AI_Enforcement_Camera_Web_Operation_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual All-in-one AI Traffic Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81882/user_manual/All-in-one_AI_Traffic_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual HD Intelligent Enforcement Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50707/user_manual/HD_Intelligent_Enforcement_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-07-12 #A&E Document ITC1652-AU5F-LZF1640_A&E_20260901210825 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50707/a_e_document/1788268260755.docx"
+      },
+      {
+        "name": "2025-09-08 #Drawings ITC1652-AU5F-LZF1640_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27707/drawings/ITC952-AU3F-LZF1640_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-09-08 #Drawings ITC1652-AU5F-LZF1640_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27747/drawings/ITC352-AU3F-L_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-20 #Firmware General_ITCXX52-AF5F(SU2F)_PN_Oversea_V5.003.0000000.1.R.260522 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84604/firmware/General_ITCXX52-AF5F(SU2F)_PN_Oversea_V5.003.0000000.1.R.260522.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/16mp/itc1652-au5f-lzf1640"
+  }
+}

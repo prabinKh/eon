@@ -1,0 +1,171 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "EVS Series",
+    "tab_id": "569",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "EVS Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "106787",
+    "product_name": "EVS5016S-R-V2",
+    "product_title": "16-bay Embedded Video Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs5016s-r-v2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220511/r1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/evs5016s-r-v2.html",
+  "detail": {
+    "title": "16-bay Embedded Video Storage",
+    "model": "EVS5016S-R-V2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EVS5016S-R-V2 16-bay Embedded Video Storage Key Points • Max. 320-ch IP Camera Inputs • Max. 800 Mbps Incoming/Recording/Forwarding Bandwidth • 16 Bays, SATA, Hot-Swap • RAID 0/1/5/6/10/50/60, Hot Spare, N+M Cluster • Video Stream/Picture Direct Storage Mode and IPSAN Storage Mode • Modular and Drawer-like Design • 1+1 Redundant 80PLUS Platinum Power Supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220511/r1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220511/r3_thumb.png",
+        "alt": "EVS5016S-R-V2_3",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220511/r2_thumb.png",
+        "alt": "EVS5016S-R-V2_2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Main Processor": "64-bit high-performance multi-core processor",
+        "Operating System": "Embedded Linux OS",
+        "Operating Interface": "Web (PCAPP)",
+        "Controller": "Single controller",
+        "Cache": "8 GB by default (extendable to 32 GB)",
+        "AI by Camera": "Face detection, face recognition, IVS (abandoned object, missing object, loitering, crowd gathering, parking, fence-crossing, fast moving, tripwire and intrusion), video metadata (human, vehicle, non-motor vehicle), vehicle recognition, people counting (fisheye or people counting camera required),face & body detection, crowd distribution, smart thermal (call detection, visible channel- smoking detection, thermal channel-smoking detection)",
+        "Thermal": "Works with camera for fire alarm, temperature alarm, temperature difference alarm, hot spot, cold spot, smoking and calling",
+        "People Counting": "Works with camera for tripwire people counting, regional people counting and queue people counting",
+        "Bullet-PTZ Smart Track": "Works with camera for manual tracking, auto tracking, click positioning and select positioning",
+        "Fisheye Dewarp": "Supports dewarping for fisheye cameras",
+        "Cluster": "N+M",
+        "Third-party Camera Access": "Onvif, Onvifs, RTSP, Sony, Panasonic, Axis, Arecont, Pelco, Canon, Samsung, Hikvision",
+        "Video Compression": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio Compression": "G.711A; G.711U; PCM; G726",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; P2P; GAT1400; iSCSI; FTP ; SMB ; NFS",
+        "Mobile Phone Access": "DMSS",
+        "Interoperability": "ONVIF (Profile S); CGI; SDK",
+        "Browser": "Chrome; PCAPP; IE9 or higher; Firefox",
+        "Network Mode": "NIC binding mode such as multiple-address mode, load balance, fault-tolerance, etc",
+        "Multi-channel Playback": "Max. 16-channel playback",
+        "Record Mode": "Auto record; manual record; search video detection; IO alarm; thermal imaging; intelligent event; all record file",
+        "Storage Method": "Internal HDD and network disk",
+        "Backup Method": "HDD, peripheral USB storage device",
+        "Playback Function": "1. Play, pause, stop, fast forward, fast backward, reverse play, frame by frame 2. Full-screen, backup (clip; file), snapshot, digital zoom, audio on; off",
+        "Video Direct Storage (Private Protocol)": "Incoming: 320-channel (bandwidth: 800 Mbps) Recording: 320-channel (bandwidth: 800 Mbps) Outgoing: 320-channel (bandwidth: 800 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Onvif)": "Incoming: 320-channel (bandwidth: 800 Mbps) Recording: 320-channel (bandwidth: 800 Mbps) Outgoing: 320-channel (bandwidth: 800 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Auto Register)": "Incoming: 320-channel (bandwidth: 800 Mbps) Recording: 320-channel (bandwidth: 800 Mbps) Outgoing: 320-channel (bandwidth: 800 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (International Protocol)": "Incoming: 320-channel (bandwidth: 800 Mbps) Recording: 320-channel (bandwidth: 800 Mbps) Outgoing: 320-channel (bandwidth: 800 Mbps) Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Picture Direct Storage": "Incoming: 120-channel (550 KB/picture) Recording: 120-channel (550 KB/picture) Outgoing: 120-channel (550 KB/picture) Playback: 32-channel (550 KB/picture)",
+        "Disk Group": "Yes",
+        "iSCSI": "Supports client and Server",
+        "Network Disk": "Supports client",
+        "RAID": "RAID 0/1/5/6/10/50/60; (with enterprise-grade HDD)",
+        "Record Management": "Supports record control (continuous, event-based, scheduled, scheduled & event-based).",
+        "Storage Pool": "Yes",
+        "IPSAN Performance": "280-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback (I/O size of VMS is 64 KB) 400-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback (I/O size of VMS is 512 KB)",
+        "General Alarm": "Motion detect; tampering; IPC external alarm",
+        "Anomaly Alarm": "IPC offline alarm; storage error; HDD full; video frame loss; SSD exception; IP conflict; MAC conflict; login lock; fan malfunction; no HDD; network security exception; power exception; disk health exception; RAID exception; storage pool exception; temperature alarm; share service",
+        "Alarm Linkage": "Record; snapshot (full image); alarm uploading; remote device alarm output; camera audio; buzzer; log; preset; email, smart tracking and warning light. Disarming alarm linkage action by period or one-click sync disarm config with channels",
+        "HDD Interface": "16 slots, SATA Max.20 T/HDD hot swapping CMR support enterprise-grade HDD",
+        "eSATA": "1 port",
+        "RS-232": "1 port, for debug or COM data transmission",
+        "USB": "2 ports. 2 USB3.0 ports at the rear panel",
+        "HDMI": "1 port, only for debug",
+        "VGA": "1 port, only for debug",
+        "Network Port": "2 RJ-45 10/100/1000 Mbps self-adaptive Ethernet ports. (gigabit electrica port)",
+        "Power": "1+1 redundant power",
+        "Network Port Extension": "4 × 1-GbE LAN ports (optional) 2 × 10-GbE optical fiber ports (optional)",
+        "Power Supply": "100-240 VAC 50-60 Hz, 6.3A-3.5A",
+        "Power Consumption": "<60 W (without HDD, idling) <220 W (all HDDs connected)",
+        "Fan": "Intelligent speed regulation fan",
+        "Net Weight": "15.5 kg (34.17 lb)",
+        "Gross Weight": "17.2 kg (37.92 lb)",
+        "Product Dimensions": "Chassis: 484.6 mm × 133.2 mm × 473.6 mm (19.08\" × 5.24\" × 18.65\") (W × L × H)",
+        "Packaging Dimensions": "With packaging: 589mm × 619 mm × 290 mm (23.19\" × 24.37\" × 11.42\") (W × L × H) Protection box: 605 mm × 635 mm × 312 mm (23.82\" × 25.00\" × 12.28\") (W × L × H)",
+        "Operating Temperature": "0 °C to 45 °C (+32 °F to +113 °F)",
+        "Operating Humidity": "10%–80% (RH), non-condensing",
+        "Operating Altitude": "5000 m (16404.20 ft)",
+        "Installation": "Standard 19 inch rack",
+        "Certifications": "CE: CE-LVD: EN 60950-1/IEC 60950-1 CE-EMC: EN 61000-3-2, EN 61000-3-3, EN 55032, EN 50130, EN 55024 FCC: Part 15 Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/EVS5016S-R-V2_datasheet_20240319.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual Dahua Embedded Video Storage_User Manual_V5.3.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/Dahua_Embedded_Video_Storage_User_Manual_V5.3.6.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual EVS HDD_Installation Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/EVS_HDD_Installation_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2022-03-31 #A&E Document EVS5016S-R-V2_A&E_20260914195419 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45837/a_e_document/1789387241298.docx"
+      },
+      {
+        "name": "2022-07-22 #Drawings EVS5016S-R-V2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45837/drawings/EVS5016S-R-V2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2022-07-22 #Drawings EVS5016S-R-V2_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45837/drawings/EVS5016S-R-V2_PORT.pdf"
+      },
+      {
+        "name": "2022-07-22 #Drawings EVS5016S-R-V2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45837/drawings/EVS5016S-R-V2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-09 #Firmware DH_EVS5016-V2_MultiLang_V5.002.0000001.2.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45837/firmware/DH_EVS5016-V2_MultiLang_V5.002.0000001.2.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs5016s-r-v2"
+  }
+}

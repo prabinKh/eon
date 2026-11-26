@@ -1,0 +1,145 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Smoke Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/smoke-alarms",
+    "tab_title": "Smoke Alarms",
+    "tab_id": "14227",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Smoke Alarms",
+      "Smoke Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "105207",
+    "product_name": "HY-SA20A",
+    "product_title": "Standalone Smoke Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa20a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220408/fire1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-sa20a.html",
+  "detail": {
+    "title": "Standalone Smoke Alarm",
+    "model": "HY-SA20A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA20A Standalone Smoke Alarm Key Points Split-spectrum photoelectric sensor technology Loud sound output over 85 dB(A) at 3 meters Low quiescent current consumption Surface-mount device (SMD) circuit board design Low battery warning signal Test and hush features in one single button Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220408/fire1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220408/fire2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220408/fire3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220408/fire4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220408/fire5_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "9 s",
+        "Sensor Type": "Photoelectric"
+      },
+      "Alarm": {
+        "Alarm Type": "Smoke alarm, fault alarm, low battery warning",
+        "Alarm Volume": "85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Alarm Response Threshold": "0.2dB/m-0.3dB/m"
+      },
+      "Basic Parameters": {
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "Led Instructions": "Standby: Green indicator flashes once per minute Alarm: Red indicator flashes once per second Fault: Red indicator flashes once per minute Low battery warning: Red indicator flashes once per minute",
+        "Coverage Area": "When the height of the space is less than 8 m (3.28 ft), the protection area of a device is 20 m2–40 m2"
+      },
+      "Power Supply": {
+        "Battery Life": "10 year",
+        "Power Source": "3V CR123A lithium battery (replaceable)",
+        "Operating Current": "Monitoring current: ≤ 15uA Alarm current: ≤ 35mA"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤ 95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Casing": "ABS",
+        "Dimensions": "φ98 mm × H43.1 mm (φ3.85\" × H1.70\")",
+        "Weight": "136 g (0.30 lb)",
+        "Installation": "Ceiling Mount"
+      },
+      "Certification": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 14604:2005+AC:2008"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/105207/datasheet/HY-SA20A_datasheet_20220215.pdf"
+      },
+      {
+        "name": "2026-08-18 #User Manual Smoke Alarm_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44337/user_manual/Smoke_Alarm_User_27s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2022-07-02 #Drawings HY-SA20A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1508072514427.pdf"
+      },
+      {
+        "name": "2022-07-02 #Drawings HY-SA20A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51097/drawings/1_0_01_36_15117_16485798.pdf"
+      },
+      {
+        "name": "2025-06-30 #Firmware DHI_HYSA20A_Eng_MCU_V1.000.0000008.0.R.250623 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3254171/M/DHI_HYSA20A_Eng_MCU_V1.000.0000008.0.R.250623.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa20a"
+  }
+}

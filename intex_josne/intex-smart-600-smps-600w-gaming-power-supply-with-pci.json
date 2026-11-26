@@ -1,0 +1,106 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Smart 600 SMPS",
+    "subcategory_url": "https://www.intex.in/collections/smart-600-smps",
+    "series": "SMPS",
+    "series_url": "https://www.intex.in/collections/smps",
+    "tab_title": "Smart 600 SMPS",
+    "tab_id": "9174225289434",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Smart 600 SMPS",
+      "INTEX Smart 600 SMPS – 600W Gaming Power Supply with PCI"
+    ]
+  },
+  "card_info": {
+    "product_id": "9174225289434",
+    "product_name": "INTEX Smart 600 SMPS – 600W Gaming Power Supply with PCI",
+    "product_title": "INTEX Smart 600 SMPS – 600W Gaming Power Supply with PCI",
+    "product_url": "https://www.intex.in/products/intex-smart-600-smps-600w-gaming-power-supply-with-pci",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP_600.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2899.0,
+      "display": "₹2,899.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-smart-600-smps-600w-gaming-power-supply-with-pci.html",
+  "detail": {
+    "title": "INTEX Smart 600 SMPS – 600W Gaming Power Supply with PCI",
+    "model": "600-600W",
+    "brand": "Intex",
+    "overview": "The INTEX Smart 600 SMPS is a high-performance 600W power supply designed for intense gaming and heavy desktop workloads. Built to deliver constant and stable power, it ensures smooth performance for gaming PCs, workstations, and high-configuration systems. Equipped with PCI-E 6+2 pin support, CPU 4+4 connector, and multiple SATA outputs, Smart 600 is ready for modern GPUs, motherboards, and storage devices. The 120mm silent cooling fan ensures efficient heat dissipation while maintaining low noise levels. With advanced protection features like short circuit protection and stable voltage control, this SMPS safeguards your valuable PC components from power fluctuations and overload conditions. Whether you're building a gaming rig or upgrading your desktop, INTEX Smart 600 offers reliability, durability, and performance at an affordable price.",
+    "features": [
+      "Model: INTEX Smart 600",
+      "Power Output: 600W",
+      "Main Connector: 20+4 Pin x1",
+      "CPU Connector: 4+4 Pin",
+      "PCI-E Connector: 6+2 Pin",
+      "SATA Connectors: 4",
+      "Molex Connector: 1",
+      "Cooling Fan: 120mm Silent Fan",
+      "Power Cord Length: 2 Meter",
+      "Protection: Short Circuit Protection",
+      "Heat Management: Rapid Heat Dissipation",
+      "Suitable For: Gaming & High-Performance Desktop PCs"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP_600.jpg",
+        "alt": "INTEX Smart 600 SMPS – 600W Gaming Power Supply with PCI",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: INTEX Smart 600",
+        "Feature 2": "Power Output: 600W",
+        "Feature 3": "Main Connector: 20+4 Pin x1",
+        "Feature 4": "CPU Connector: 4+4 Pin",
+        "Feature 5": "PCI-E Connector: 6+2 Pin",
+        "Feature 6": "SATA Connectors: 4",
+        "Feature 7": "Molex Connector: 1",
+        "Feature 8": "Cooling Fan: 120mm Silent Fan",
+        "Feature 9": "Power Cord Length: 2 Meter",
+        "Feature 10": "Protection: Short Circuit Protection",
+        "Feature 11": "Heat Management: Rapid Heat Dissipation",
+        "Feature 12": "Suitable For: Gaming & High-Performance Desktop PCs"
+      },
+      "General": {
+        "Model": "600-600W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_SMPS_Smart_600_Power_Supply_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-smart-600-smps-600w-gaming-power-supply-with-pci"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://www.intex.in/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://www.intex.in/collections/mouse-series",
+    "tab_title": "Mouse",
+    "tab_id": "8581112299738",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Mouse",
+      "Boost Gaming Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "8581112299738",
+    "product_name": "Boost Gaming Mouse",
+    "product_title": "Boost Gaming Mouse",
+    "product_url": "https://www.intex.in/products/boost-gaming-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Boost_5c25a865-55e1-4f23-8f91-3552d57ad28b.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 299.0,
+      "display": "₹299.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/boost-gaming-mouse.html",
+  "detail": {
+    "title": "Boost Gaming Mouse",
+    "model": "Mouse",
+    "brand": "Intex",
+    "overview": "Level up your game with the Boost honeycomb mouse. Its lightweight, perforated design keeps your hand cool during intense battles, while the 4-stage DPI lets you switch between pinpoint accuracy and rapid movements. Plus, the dazzling rainbow backlit lighting adds a touch of flair to your victories.",
+    "features": [
+      "Light and airy honeycomb design",
+      "Four DPI levels for pinpoint accuracy",
+      "Perfect for epic gaming sessions",
+      "Rainbow dazzling backlit lighting",
+      "Ergonomic comfort for long hours comfort",
+      "Simple plug-and-play setup"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Boost_5c25a865-55e1-4f23-8f91-3552d57ad28b.png",
+        "alt": "Boost Gaming Mouse",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Light and airy honeycomb design",
+        "Feature 2": "Four DPI levels for pinpoint accuracy",
+        "Feature 3": "Perfect for epic gaming sessions",
+        "Feature 4": "Rainbow dazzling backlit lighting",
+        "Feature 5": "Ergonomic comfort for long hours comfort",
+        "Feature 6": "Simple plug-and-play setup"
+      },
+      "General": {
+        "Model": "Mouse"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Boost_Gaming_Mouse.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/boost-gaming-mouse"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Software",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software",
+    "series": "Software",
+    "series_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software",
+    "tab_title": "Software",
+    "tab_id": "14617",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Software",
+      "Software",
+      "Software"
+    ]
+  },
+  "card_info": {
+    "product_id": "112157",
+    "product_name": "DeepHub MDM",
+    "product_title": null,
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software/deephub-mdm",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220809/Dahua-DeepHub-Device-Management-System1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/deephub-mdm.html",
+  "detail": {
+    "title": "DeepHub MDM",
+    "model": "DeepHub MDM",
+    "brand": "Dahua",
+    "overview": "Favourite DeepHub MDM Key Points • Full Remote Access to All Devices • Comprehensive Device Information (Name, OS, Last Seen, IP Address, and More) • Instant or Scheduled Messaging to All or Selected Devices • Multi-User Management with Customizable Permissions • Device/User Grouping for Batch Operations • Remote Application Installation and Uninstallation • Custom Usage Policy Application and Enforcement Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220809/Dahua-DeepHub-Device-Management-System1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220809/Dahua-DeepHub-Device-Management-System4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220809/Dahua-DeepHub-Device-Management-System3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220809/Dahua-DeepHub-Device-Management-System2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20220809/Dahua-Deephub-Device-Management-System_datahsheet_20220808V3.pdf"
+      },
+      {
+        "name": "2025-07-19 #User Manual Dahua DeepHub MDM_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008172/Dahua_DeepHub_MDM_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software/deephub-mdm"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/cabinet",
+    "series": "Cabinet Series",
+    "series_url": "https://www.intex.in/collections/cabinet-series",
+    "tab_title": "Cabinet",
+    "tab_id": "9489227251930",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cabinet",
+      "Intex IT-1901 Computer Gaming Cabinet"
+    ]
+  },
+  "card_info": {
+    "product_id": "9489227251930",
+    "product_name": "Intex IT-1901 Computer Gaming Cabinet",
+    "product_title": "Intex IT-1901 Computer Gaming Cabinet",
+    "product_url": "https://www.intex.in/products/intex-it-1901-computer-gaming-cabinet",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_3ca18324-9d8e-4bd7-92b9-4b2b61d2573c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 9999.0,
+      "display": "₹9,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-it-1901-computer-gaming-cabinet.html",
+  "detail": {
+    "title": "Intex IT-1901 Computer Gaming Cabinet",
+    "model": "IT-1901",
+    "brand": "Intex",
+    "overview": "Intex IT-1901 Gaming Cabinet Without SMPS is designed for gamers and PC enthusiasts looking for a stylish, well-ventilated and upgrade-friendly PC cabinet. It supports ATX motherboards and features 7 PCI slots for flexible component installation. The cabinet comes with a tempered glass left panel for an attractive view of your PC components and 4 pre-installed ARGB fans for enhanced airflow and gaming aesthetics. With optimized airflow, superior heat dissipation and support for a top-mounted 240mm water cooler, the IT-1901 is built for an immersive and efficient gaming setup. Available in Black and White variants.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_3ca18324-9d8e-4bd7-92b9-4b2b61d2573c.jpg",
+        "alt": "Intex IT-1901 Computer Gaming Cabinet",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_8f3447db-7f85-485d-a2ef-ae15146353ba.jpg",
+        "alt": "Intex IT-1901 Computer Gaming Cabinet",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Brand": "Intex",
+        "Model": "IT-1901",
+        "Product Type": "Computer Gaming Cabinet",
+        "SMPS": "Not Included",
+        "Motherboard Support": "ATX",
+        "Expansion Slots": "7 PCI Slots",
+        "Side Panel": "Tempered Glass Left Panel",
+        "Cooling": "Optimized Airflow for Efficient Cooling",
+        "Heat Management": "Superior Heat Dissipation",
+        "Pre-Installed Fans": "4 ARGB Fans",
+        "Water Cooler Support": "Up to 240mm, Top Mounted",
+        "USB Ports": "2 × USB 1.1 + 1 × USB 3.0",
+        "Audio": "HD Audio Support",
+        "Colour Options": "Black and White",
+        "MRP (Black)": "₹9,999/- (Inclusive of all taxes)",
+        "MRP (White)": "₹10,999/- (Inclusive of all taxes)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_IT-1901_GAMING_CABINET_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-it-1901-computer-gaming-cabinet"
+  }
+}

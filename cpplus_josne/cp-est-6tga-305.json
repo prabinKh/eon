@@ -1,0 +1,85 @@
+{
+  "hierarchy": {
+    "category": "Cables",
+    "category_url": "https://cpplusworld.com/products/cables",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "94",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Cables",
+      "CP-EST-6TGA-305"
+    ]
+  },
+  "card_info": {
+    "product_id": "584",
+    "product_name": "CP-EST-6TGA-305",
+    "product_title": "CP-EST-6TGA-305-CAT6 Armoured Cable | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-est-6tga-305",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/cp-est-6tga-305.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-est-6tga-305.html",
+  "detail": {
+    "title": "CP-EST-6TGA-305-CAT6 Armoured Cable | Cp Plus | Cpplusworld.com",
+    "model": "CP-EST-6TGA-305",
+    "brand": "CP Plus",
+    "overview": "CAT6 Armoured Cable",
+    "features": [
+      "Generally confirming to EIA/TIA 568-C.2 and IEC/ISO11801",
+      "Excellent Margin with suppression of Cross Talk (NEXT)",
+      "4 Pair Separator Design",
+      "23 AWG cable",
+      "For Outdoor installation",
+      "For India Market Only"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cp-est-6tga-305.jpg",
+        "alt": "CP-EST-6TGA-305 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Conductor": "Solid Bare Electrolytic Grade Copper",
+        "Insulation": "Polyethylene (HDPE)",
+        "Nominal Conductor Diameter": "23 AWG (0.558 ± 0.015mm)",
+        "Cross Filler": "HDPE",
+        "Pairing": "Twisted into Two core",
+        "Outer Sheath": "PVC",
+        "Operating Temperature": "-20 to +50°C",
+        "Storage Temperature": "-20 to +75°C",
+        "Approximate OD": "9.30 ±0.55 mm",
+        "Impedance": "100±15% Ω",
+        "Resistance Unbalance": "5% Max",
+        "Sequential Marking": "At Every Meter",
+        "Packing": "305 Mtrs"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EST-6TGA-305.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-est-6tga-305"
+  }
+}

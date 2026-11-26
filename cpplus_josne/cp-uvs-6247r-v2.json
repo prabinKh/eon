@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "Video Storage",
+    "category_url": "https://cpplusworld.com/products/video-storage",
+    "subcategory": "Storage",
+    "subcategory_url": "https://cpplusworld.com/products/storage/video_storage",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Storage",
+    "tab_id": "151",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Storage",
+      "Video Storage",
+      "CP-UVS-6247R-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "1870",
+    "product_name": "CP-UVS-6247R-V2",
+    "product_title": "CP-UVS-6247R-V2",
+    "product_url": "https://cpplusworld.com/cp-uvs-6247r-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/8324180d-3f9e-4b42-bac7-1175966d882c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvs-6247r-v2.html",
+  "detail": {
+    "title": "CP-UVS-6247R-V2",
+    "model": "CP-UVS-6247R-V2",
+    "brand": "CP Plus",
+    "overview": "24-HDD Embedded Video Storage",
+    "features": [
+      "Max 320 IP Camera Inputs",
+      "24 HDDs, SATA, Hot-Swap",
+      "Max 800Mbps Incoming/recording/forwarding Bandwidth",
+      "Supports video stream direct storage mode and IPSAN storage mode",
+      "Supports N+M cluster",
+      "Supports RAID 0/1/5/6/10/50/60, Hotspare",
+      "Supports Automatic Network Replenishment (ANR)",
+      "1+1 redundant 80PLUS platinum power supply"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8324180d-3f9e-4b42-bac7-1175966d882c.jpg",
+        "alt": "CP-UVS-6247R-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/c076d323-3923-463f-8959-2d8e70d43eb0.jpg",
+        "alt": "CP-UVS-6247R-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "64-bit high-performance multi-core processor",
+        "Controller": "Single controller",
+        "Operating System": "Embedded LINUX",
+        "Cache": "8 GB by default (extendable to 64 GB)",
+        "IP Camera Input": "320 Channel",
+        "User Interface": "Web",
+        "AI by Camera": "Face detection, face recognition, IVS (abandoned object, missing object, loitering, crowd gathering, parking, fence-crossing, fast moving, tripwire and intrusion), video metadata (human,  vehicle, non-motor vehicle), vehicle recognition, people counting (fisheye or people counting  camera required), face & body detection, crowd distribution, smart thermal (call detection,  visible channel- smoking detection, thermal channel-smoking detection)",
+        "IP SAN Performance": "280-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback (I/O size  of VMS is 64 KB) 400-channel × 2 Mbps video stream writing and 24-channel × 2 Mbps video playback (I/O size  of VMS is 512 KB)",
+        "Thermal Camera Compatibility": "Works with camera for fire alarm, temperature alarm, temperature difference alarm, hot spot,  cold spot, smoking and calling",
+        "People Counting": "Works with camera for tripwire people counting, regional people counting and queue people  counting",
+        "Bullet-PTZ Smart Track": "Works with camera for manual tracking, auto tracking, click positioning and select positioning",
+        "Fisheye Dewarp": "Supports dewarping for fisheye cameras",
+        "Cluster": "N+M",
+        "Smart Phone": "iPhone, iPad, Android",
+        "Video Compression": "H.265; Smart H.264+; H.264; MJPEG",
+        "Encode Strategy": "Instastream",
+        "Audio Compression": "G.711A; G.711U; PCM; G726",
+        "RAID": "RAID 0/1/5/6/10/50/60; (with enterprise-grade HDD)",
+        "Video Direct Storage (Private  Protocol)": "Incoming: 320-channel (bandwidth: 800 Mbps), Recording: 320-channel (bandwidth: 800 Mbps), Outgoing: 320-channel (bandwidth: 800 Mbps), Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Onvif)": "Incoming: 320-channel (bandwidth: 800 Mbps), Recording: 320-channel (bandwidth: 800 Mbps), Outgoing: 320-channel (bandwidth: 800 Mbps), Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Video Direct Storage (Auto  Register)": "ncoming: 320-channel (bandwidth: 800 Mbps), Recording: 320-channel (bandwidth: 800 Mbps), Outgoing: 320-channel (bandwidth: 800 Mbps), Playback: 32-channel (bandwidth: 64 Mbps)",
+        "Picture Direct Storage": "Incoming: 120-channel (550 KB/picture), Recording: 120-channel (550 KB/picture), Outgoing: 120-channel (550 KB/picture), Playback: 32-channel (550 KB/picture)",
+        "Multi-channel Playback": "Max. 16-channel playback",
+        "Record Mode": "Auto record; manual record; search video detection; IO alarm; thermal imaging; intelligent  event; all record file",
+        "Storage Method": "Internal HDD and network disk",
+        "Playback Function": "Play, pause, stop, fast forward, fast backward, reverse play, frame by frame, Full-screen, backup (clip; file), snapshot, digital zoom, audio on; off",
+        "Backup Mode": "HDD, peripheral USB storage device",
+        "Hard Disk": "24 slots, SATA Max.20TB/HDD hot swapping CMR support enterprise-grade HDD",
+        "Disk Group": "Support",
+        "iSCSI": "Supports client and Server",
+        "Browser": "Chrome; PCAPP; IE9 or higher; Firefox",
+        "Network Disk": "Supports client",
+        "Record Management": "Supports record control (continuous, event-based, scheduled, scheduled & event-based)",
+        "Storage Pool": "Support",
+        "Network Mode": "NIC binding mode such as multiple-address mode, load balance, fault-tolerance, etc",
+        "General Alarm": "Motion detect; tampering; IPC external alarm",
+        "Anomaly Alarm": "IPC offline alarm; storage error; HDD full; video frame loss; SSD exception; IP conflict; MAC  conflict; login lock; fan malfunction; no HDD; network security exception; power exception;  disk health exception; RAID exception; storage pool exception; temperature alarm; share  service",
+        "Alarm Linkage": "Record; snapshot (full image); alarm uploading; remote device alarm output; camera audio;  buzzer; log; preset; email, smart tracking and warning light. Disarming alarm linkage action by  period or one-click sync disarm config with channels",
+        "Interface Ports": "1 eSATA Port, 1 RS232 port, for debug or COM data transmission, 4 ports. 2 USB2.0 ports at  the front panel and 2 USB3.0 ports at the rear panel , 1 HDMI Port, only for debug",
+        "Ethernet": "4 RJ-45 10/100/1000 Mbps self-adaptive Ethernet ports. (gigabit electrical port) 1 RJ-45 10/100 Mbps self-adaptive Ethernet ports. (100 Mbps electrical port)",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; P2P; iSCSI;  FTP; SMB; NFS; ONVIF (Profile S, T and G); CGI; SDK",
+        "Network Port Extension": "4 × 1-GbE LAN ports (optional), 2 × 10-GbE optical fiber ports (optional)",
+        "Power": "1+1 redundant power",
+        "Power Supply": "100-240 VAC 50-60 Hz",
+        "Power Consumption": "<100 W (without HDD, idling), <300 W (all HDDs connected)",
+        "Operating Temperature": "0 °C to 45 °C (+32 °F to +113 °F)",
+        "Operating Humidity": "10%–80% (RH), non-condensing",
+        "Operating Altitude": "5000 m",
+        "Fan": "Intelligent speed regulation fan",
+        "Dimension": "Chassis: 446mm × 175mm × 736.5mm",
+        "Weight": "28.4 kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVS-6247R-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/ff0d3832-878a-463d-9176-7438b5dc67d2.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvs-6247r-v2"
+  }
+}

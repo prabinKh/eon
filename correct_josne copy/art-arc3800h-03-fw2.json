@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Kits",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/kits",
+    "tab_title": "Kits",
+    "tab_id": "12437",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Kits",
+      "Kits"
+    ]
+  },
+  "card_info": {
+    "product_id": "143421",
+    "product_name": "ART-ARC3800H-03-FW2",
+    "product_title": "Dahua Wireless Alarm KIT",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/kits/art-arc3800h-03-fw2",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10844/ProductImage/1_0_01_19_10844_565028978_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/art-arc3800h-03-fw2.html",
+  "detail": {
+    "title": "Dahua Wireless Alarm KIT",
+    "model": "ART-ARC3800H-03-FW2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ART-ARC3800H-03-FW2 Dahua Wireless Alarm KIT Key Points · Supports connecting up to 8 IPCs in the same LAN · Supports in-hub pre-recording, so the camera doesn’t need a SD card · Supports two-way voice intercom with intercom siren · Supports accessing Internet via Ethernet, Wi-Fi, and 4G · Supports voice call alarm and SMS alarm · Supports connecting up to 150 wireless peripherals, including up to 4 sirens, up to 4 repeaters, up to 8 keypads, up to 8 2.4G PIR-Cams, 56 Sub-G PIR-Cams, up to 64 keyfobs, up to 256 MIFARE One cards (8 cards per keypad user) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10844/ProductImage/1_0_01_19_10844_565028978_thumb.png",
+        "alt": "ART-ARC3800H-03-FW2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Wireless Zone": {},
+      "Network Mode": {},
+      "Network Port": {},
+      "Storage Battery": {},
+      "Video Input": {},
+      "Audio Output": {},
+      "Volume Control": {},
+      "Voice Broadcast": {},
+      "Indicator Light": {},
+      "Button": {},
+      "SMS": {},
+      "Phone Call": {},
+      "Video Linkage": {},
+      "Offline Cache": {},
+      "Arm and Disarm": {},
+      "Remote Update": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "User Management": {},
+      "Logs": {},
+      "Measuring Range (Temperature)": {},
+      "Transmission Protocol": {},
+      "Sensor": {},
+      "Detection Mode": {},
+      "Sensitivity": {},
+      "Detection Range": {},
+      "Detection Speed": {},
+      "Movement Distance": {},
+      "Pet Immunity Level": {},
+      "White Light Resistance Level": {},
+      "Two-way Digital Temperature Compensation": {},
+      "Scenario": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Language": {},
+      "Power Supply": {},
+      "Standby Time": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Packaging Dimensions": {},
+      "Wi-Fi Standard": {},
+      "Wi-Fi Frequency Range": {},
+      "Wi-Fi Power Transmission": {},
+      "Cellular Network Standard": {},
+      "Frequency Range": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80641/datasheet/DHI-ART-ARC3800H-03-FW2_datasheet_20241017.pdf"
+      },
+      {
+        "name": "2024-03-07 #Drawings ART-ARC3800H-03-FW2_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80641/drawings/ART-ARC3800H-03-FW2_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/kits/art-arc3800h-03-fw2"
+  }
+}

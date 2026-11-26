@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "Value GM1001 Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925718307",
+    "product_name": "Value GM1001 Gaming Mouse - Black",
+    "product_title": "Value GM1001 Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/value-gm1001-gaming-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_cd511b30-3681-4339-9c36-9a6e6b6b1fdb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/value-gm1001-gaming-mouse-black.html",
+  "detail": {
+    "title": "Value GM1001 Gaming Mouse - Black",
+    "model": "AVLP0026",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value GM1001 is a wired gaming mouse engineered for precision and customization, with adjustable DPI settings up to 12800 (1200/1600/2400/4800/7200/12800) covering everything from delicate design work to fast-paced gaming. Accompanying software lets you program each of the 6 buttons for complex single-click operations, alongside configurable RGB light effects synced to your DPI setting. Thirteen RGB light modes across 16.8 million colours bring a dazzling visual experience to any gaming desk, and the ergonomic shell keeps hands comfortable during extended sessions on laptop or PC.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_cd511b30-3681-4339-9c36-9a6e6b6b1fdb.jpg",
+        "alt": "Value GM1001 Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI Levels": "1200 / 1600 / 2400 / 4800 / 7200 / 12800",
+        "Buttons": "6, Programmable",
+        "Lighting": "13 RGB Modes",
+        "Sensor": "Optical",
+        "Color": "Black",
+        "DPI LEVELS": "1200 / 1600 / 2400 / 4800 / 7200 / 12800",
+        "BUTTONS": "6, Programmable",
+        "LIGHTING": "13 RGB Modes",
+        "SENSOR": "Optical",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹499.00",
+        "MRP (INR)": "₹249.00",
+        "SKU": "AVLP0026"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (VALUE)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Value-H81MAD3-N.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/value-gm1001-gaming-mouse-black"
+  }
+}

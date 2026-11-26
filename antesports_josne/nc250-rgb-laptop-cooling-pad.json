@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC250 RGB Laptop Cooling Pad"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032767779",
+    "product_name": "NC250 RGB Laptop Cooling Pad",
+    "product_title": "NC250 RGB Laptop Cooling Pad",
+    "product_url": "https://antesports.com/products/nc250-rgb-laptop-cooling-pad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_4548670f-0880-4598-83b8-d2e33e4758f8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc250-rgb-laptop-cooling-pad.html",
+  "detail": {
+    "title": "NC250 RGB Laptop Cooling Pad",
+    "model": "AEPP0202",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC250 is an RGB laptop cooling pad built around 6 quiet fans spinning at up to 3000 RPM, giving strong airflow for laptops up to 15.6 inches during gaming or heavy workloads. A fan speed controller lets you dial in the right balance between cooling power and noise, while 7 adjustable height angles offer genuine ergonomic flexibility for typing and viewing comfort. A built-in mobile holder keeps a smartphone within easy reach, and 2 USB ports provide handy pass-through connectivity for other accessories. Its RGB lighting adds a striking visual touch to any gaming desk without compromising on real cooling performance.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_4548670f-0880-4598-83b8-d2e33e4758f8.png",
+        "alt": "NC250 RGB Laptop Cooling Pad - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "6, Up to 3000 RPM",
+        "Height Adjustment": "7 Levels",
+        "USB Ports": "2",
+        "Lighting": "RGB",
+        "Compatibility": "Laptops up to 15.6 Inches",
+        "FANS": "6, Up to 3000 RPM",
+        "HEIGHT ADJUSTMENT": "7 Levels",
+        "USB PORTS": "2",
+        "LIGHTING": "RGB",
+        "COMPATIBILITY": "Laptops up to 15.6 Inches",
+        "SKU": "AEPP0202"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc250-rgb-laptop-cooling-pad"
+  }
+}

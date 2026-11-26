@@ -1,0 +1,174 @@
+{
+  "hierarchy": {
+    "category": "4 MP",
+    "category_url": "https://cpplusworld.com/products/4-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/4-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "38",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "4 MP",
+      "CP-UNC-ME41L3-MDJ-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2250",
+    "product_name": "CP-UNC-ME41L3-MDJ-Q",
+    "product_title": "CP-UNC-ME41L3-MDJ-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-me41l3-mdj-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/52e8510e-d539-46f3-886f-6ee4d38d1f73.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-me41l3-mdj-q.html",
+  "detail": {
+    "title": "CP-UNC-ME41L3-MDJ-Q",
+    "model": "CP-UNC-ME41L3-MDJ-Q",
+    "brand": "CP Plus",
+    "overview": "4MP Network IR Mobile Camera - 30 Mtr.",
+    "features": [
+      "1/2.8” 4MP PS CMOS Image Sensor (0.9071 centimeters)",
+      "Max. 4MP (2688 x 1520)@45fps",
+      "Instastream, H.265, H.264+, H.264",
+      "Support Triple Stream",
+      "WDR(120dB), Day/Night (ICR), 3D NR, ROI, AWB, AGC,             HLC, BLC",
+      "3.6mm fixed Lens",
+      "IR Range of 30 Mtr.",
+      "Micro SD Card, IP67, IK10, PoE",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/52e8510e-d539-46f3-886f-6ee4d38d1f73.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/879a7eb8-134d-4955-a05a-9dbae89ac89f.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/afcc7bc8-4ba8-477d-b04d-d09d54ea47e6.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1e8b46b2-a670-46ed-9eba-8078bfd0f9df.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0d0170dc-1a65-47f2-b1f5-5b88958affbe.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/838f06ce-8150-4f5e-9935-c98473cecdac.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/feeaea1f-d562-43d5-8220-27d39bf56ee1.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f75d9969-1ce7-4fae-ad3e-278e2bb0c512.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/5c2a4e45-0aab-4391-96e5-dc80a4938549.png",
+        "alt": "CP-UNC-ME41L3-MDJ-Q - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 4MP PS CMOS Image Sensor (0.9071 centimeters)",
+        "Minimum Illumination": "0.006 lux@F1.6 (Color, 30 IRE); 0.0006 lux@F1.6 (B/W, 30 IRE); 0 lux (Illuminator on)",
+        "Max. Resolution": "2688(H) x 1520(V)",
+        "Electronic Shutter": "Auto/Manual 1/3 s-1/100000 s",
+        "Angle Adjustment": "Pan: 0°–20˚, Tilt: 0°–15˚, Rotation: 0°–360˚",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Custom Area",
+        "DORI Distance": "77.8 Mtr. (Detect), 31.1 Mtr.(Observe), 15.6 Mtr.(Recognize), 7.8 Mtr(Identify)",
+        "Gain Control(AGC)": "Auto/Manual",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F1.6",
+        "Close Focus Distance": "1.5m",
+        "Lens": "3.6mm fixed Lens",
+        "Lens Mount": "M12",
+        "Video Compression": "Instastream, H.265, H.264+, H.264",
+        "Angle of view": "Horizontal: 82.7°, Vertical: 45.3°, Diagonal: 96.6°",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "S/N Ratio": "＞56dB",
+        "Resolution": "4MP (2688 × 1520), 3MP (2304 × 1296), 2MP (1920 × 1080), 1.3MP (1280 × 960), 1080P  (1920× 1080 ), 720p (1280 × 720), D1 (704 × 576), VGA (640 × 480), CIF (352 × 288) ,QVGA  (320 × 240)",
+        "Stream Capability": "Triple Stream",
+        "Frame Rate": "Main Stream: 4MP (2688 × 1520)@45fps, 3MP (2304 × 1296)@45fps, 2MP (1920 × 1080) @45fps, 1.3MP (1280 × 960)@45fps, 720p (1280 × 720)@45fps       Sub Stream 1: 2MP (1920 × 1080)@25/30fps, D1 (704 × 576)@25/30fps, VGA (640 × 480) @25/30fps, CIF (352 × 288)/ (352x240)@25/30fps       Sub Stream 2: VGA (640 × 480)@25/30fps, CIF (352 × 288)/ (352x240)@25/30fps,QVGA (320 ×  240)@25/30fps",
+        "Noise Reduction": "3D NR",
+        "Image Stabilization": "EIS",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Privacy Mask": "Off/On (4 Area, Rectangle)",
+        "ROI": "Off/On (4 Zone)",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265: 3- 8192Kb/s, H.264:3- 8192Kb/s",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, 802.1x, SMTP, SFTP, DHCP, DNS,  QoS, UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP v3, Auto Connect, TLS v1.2 and  v1.3, ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "Event Alarm": "Motion Detection, Video Tampering, Scene Changing",
+        "Smart IR": "Support",
+        "Image Rotation": "0°/90°/180°/270°",
+        "IR Number": "2 IR",
+        "IR": "IR Range of 30 Mtr.",
+        "Browser": "Edge, Chrome, Firefox, Safari",
+        "Mirror Function": "Off/On",
+        "Iris Control": "Fixed",
+        "IR Control": "Auto, Manual",
+        "Storage": "SFTP, SD Card 128GB",
+        "Ethernet": "M12 D-Coding(10/100Base-T)",
+        "IMD": "Support Human/ Vehicle detection",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE,  FCC and RoHS, BIS, STQC approved compliance report, IP67 & IK10, Environment, EMI EMC,  MTBF certificates",
+        "User/ Host": "Unicast: 10 Users, Multicast: 20 Users",
+        "Weatherproof Standard": "IP67, IK10",
+        "Power Source": "POE (802.3af)",
+        "Power Consumption": "< 7.1W",
+        "Reset Button": "Support",
+        "Operating Temperature": "-25°C - +70°C",
+        "Operating Humidity": "Less than 95% RH",
+        "Storage Temperature": "-40°C - +70°C",
+        "Storage Humidity": "Less than 95% RH",
+        "Dimensions": "140.6 mm × 112.9 mm × 69.4 mm",
+        "Casing": "Metal",
+        "Weight": "590g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-ME41L3-MDJ-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-me41l3-mdj-q"
+  }
+}

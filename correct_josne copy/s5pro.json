@@ -1,0 +1,127 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "Mobile",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+    "series": "Dash Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+    "tab_title": "Dash Camera",
+    "tab_id": "17317",
+    "breadcrumbs": [
+      "Others",
+      "Mobile",
+      "Dash Camera",
+      "Dash Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "154419",
+    "product_name": "S5PRO",
+    "product_title": "Dash Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/s5pro",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1142147911139_temporary_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/s5pro.html",
+  "detail": {
+    "title": "Dash Camera",
+    "model": "S5PRO",
+    "brand": "Dahua",
+    "overview": "Favourite S5PRO Dash Camera Key Points 1.5inch Screen，Dual Vision；4K+1k Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1142147911139_temporary_thumb.png",
+        "alt": "X30_06.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1142454838251_temporary_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1142084792406_temporary_thumb.png",
+        "alt": "X30_04.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1141488687876_temporary_thumb.png",
+        "alt": "X30_01.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1142001583076_temporary_thumb.png",
+        "alt": "X30_03.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/image/1141542109496_temporary_thumb.png",
+        "alt": "X30_02.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "CMOS",
+        "Resolution": "4K+1K",
+        "Frame Rate": "25 fps",
+        "Field of View": "105°(H) ×56°(V)×123°(D)",
+        "Aperture": "F1.55",
+        "Screen": "1.47\" screen",
+        "Video Compression": "H.265",
+        "OSD": "Display time,date,etc.",
+        "Image Format": "JPEG",
+        "Storage": "1 TF(MicroSD) card (up to 128GB)",
+        "Communication Module": "Wi-Fi",
+        "G-sensor": "Built in,supports locking video after collision."
+      },
+      "Port": {
+        "Power Supply": "Type C",
+        "Audio Input": "Build-in microphone",
+        "Audio Output": "Build-in speaker"
+      },
+      "General": {
+        "Operating Temperature": "-20℃~70℃ (-4℉~158℉)",
+        "Operating Humidity": "＜95% (No condensation)",
+        "Power Supply": "DC 5V/2.5A",
+        "Power Consumption": "≤5W",
+        "Dimensions": "89.5mm×55.57mm×48.55mm [3.52\"×2.19\"×1.91\"]",
+        "Weight": "69g (0.15lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/datasheet/S5PRO.pdf"
+      },
+      {
+        "name": "2026-01-31 #Datasheet S5PRO_DashCam_datasheet_20250626 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86318/datasheet/S5PRO_DashCam_datasheet_20250626.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/s5pro"
+  }
+}

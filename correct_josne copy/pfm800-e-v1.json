@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories",
+    "series": "Baluns",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/baluns",
+    "tab_title": "Baluns",
+    "tab_id": "530",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Accessories",
+      "Baluns",
+      "Baluns"
+    ]
+  },
+  "card_info": {
+    "product_id": "155048",
+    "product_name": "PFM800-E",
+    "product_title": "1-Channel Passive HDCVI Balun (20pcs/box)",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/baluns/pfm800-e=v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87800/image/1_0_99_60_10033-001_1542909481_crop_thumb.JPEG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/pfm800-e-v1.html",
+  "detail": {
+    "title": "1-Channel Passive HDCVI Balun (20pcs/box)",
+    "model": "PFM800-E",
+    "brand": "Dahua",
+    "overview": "Favourite PFM800-E 1-Channel Passive HDCVI Balun (20pcs/box) Key Points · Transmits Live Video Signals over UTP CAT5E/CAT6 Cable · No Additional Power Supply is Required · Comes with Female BNC Connectors and Pluggable Screw Terminal Connections Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87800/image/1_0_99_60_10033-001_1542909481_crop_thumb.JPEG",
+        "alt": "PFM800-E_View_45left-logo.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Parameters": {},
+      "Function": {
+        "Transmission Channel": "1 channel",
+        "Transmission Distance": "HDCVI 720p: max. 400 m (1312.34 ft) 1080p: max. 250 m (820.21 ft)",
+        "Resolution": "720p/1080p",
+        "Video Format": "HDCVI/AHD/TVI/CVBS",
+        "Anti-interference": ">60 dB",
+        "Transmission Signal": "1-ch HDCVI",
+        "Transmission Media": "UTP CAT5E and CAT6",
+        "Impedance": "Coaxial cable: 75 Ω Twisted pair: 100 Ω"
+      },
+      "Port": {
+        "Video Port": "Male BNC"
+      },
+      "Protection": {
+        "Protection": "Level 3",
+        "Electrostatic Discharge": "1a Contact Discharge: Level 3 1b Air Discharge: Level 3 Compliance Standard: IEC61000-4-2",
+        "Surge Protection Grade": "2 kV (Differential mode), 4 kV (Common mode) Compliance Standard: IEC61000-4-5"
+      },
+      "Structure": {
+        "Appearance Color": "Black",
+        "Casing Material": "ABS project material",
+        "Product Dimensions": "185 mm × 20.5 mm × 19.5 mm (7.28\" × 0.81\" × 0.77\") (L × W × H)",
+        "Packaging Dimensions": "245 mm × 220 mm × 110 mm (9.65\" × 8.66\" × 4.33\") (L × W × H)",
+        "Packaging Method": "20 pcs in 1 carton, and 10 cartons in 1 package",
+        "Net Weight": "960 g (2.12 lb)",
+        "Gross Weight": "1.1 kg (2.43 lb)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "0–95%",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "0–95%"
+      },
+      "Certification": {
+        "Certifications": "CE: EN 55032: 2015 EN 55035: 2017 EN 61000-3-2: 2014 EN 61000-3-3: 2013"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87800/datasheet/DH-PFM800-E_V1_datasheet_20251201.pdf"
+      },
+      {
+        "name": "2025-07-11 #User Manual Passive HDCVI Balun (DH-PFM800-E)_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87800/user_manual/Passive_HDCVI_Balun_(DH-PFM800-E)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-12 #Drawings PFM800-E_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87800/drawings/1_0_99_60_10033-001_1796359030.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/baluns/pfm800-e=v1"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "LED TV",
+    "category_url": "https://www.intex.in/collections/led-tv",
+    "subcategory": "32 inch LED TV",
+    "subcategory_url": "https://www.intex.in/collections/32-inch-led-tv",
+    "series": "FHD 32 inch LED TV",
+    "series_url": "https://www.intex.in/collections/fhd-32-inch-led-tv",
+    "tab_title": "32 inch LED TV",
+    "tab_id": "9107034767578",
+    "breadcrumbs": [
+      "Home",
+      "LED TV",
+      "32 inch LED TV",
+      "Intex 32\" HD Smart Google TV -  LED G3221"
+    ]
+  },
+  "card_info": {
+    "product_id": "9107034767578",
+    "product_name": "Intex 32\" HD Smart Google TV -  LED G3221",
+    "product_title": "Intex 32\" HD Smart Google TV -  LED G3221",
+    "product_url": "https://www.intex.in/products/intex-32-inch-hd-smart-google-tv-led-g3221",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/GV3207-PDP-1_c9825fa7-7911-4dad-ae93-9ffdfc6f850f.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 24999.0,
+      "display": "₹24,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-32-inch-hd-smart-google-tv-led-g3221.html",
+  "detail": {
+    "title": "Intex 32\" HD Smart Google TV -  LED G3221",
+    "model": "32-G3221",
+    "brand": "Intex",
+    "overview": "The Intex G3221 32-inch HD Smart Google TV delivers sharp picture quality, rich Dolby Audio, and smooth performance with Android 14. Its frameless design, built-in Chromecast, and voice-enabled Google Assistant make streaming effortless. Equipped with multiple connectivity options including HDMI, USB, Bluetooth Audio Out, and Wi-Fi, it is perfect for modern home entertainment.",
+    "features": [
+      "2 HDMI Terminals, 2 USB Ports, 1 AV Input, BT Audio Output, Optical Output, Built-in Wi-Fi, 1 Ethernet Port",
+      "Google TV, Hey Google, Frameless Design, ADS Panel, Dolby Audio, Android 14, Smart Voice Remote",
+      "1 Year Warranty + 1 Year Additional Warranty on Panel"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/GV3207-PDP-1_c9825fa7-7911-4dad-ae93-9ffdfc6f850f.jpg",
+        "alt": "Intex 32\" HD Smart Google TV -  LED G3221",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/GV3207-PDP-2_1f1a2d62-9af1-4bbd-9c89-52574880b084.jpg",
+        "alt": "Intex 32\" HD Smart Google TV -  LED G3221",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display": "HD Resolution, 1366 × 768",
+        "Sound": "Dolby Audio with Supreme Sound Effect, 10W × 2 Speakers",
+        "Smart OS": "Android TV 14.0 with Google TV Interface",
+        "Processor": "CA55 Quad Core",
+        "Graphics": "Mali G31 MP2 GPU",
+        "Memory": "1GB RAM, 8GB Storage",
+        "Screen Mirroring": "Built-in Chromecast",
+        "Brightness": "Typical brightness (±10%)",
+        "Model": "32-G3221"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_LED_TV_G3221_Launch_PPT_Dec_2025.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-32-inch-hd-smart-google-tv-led-g3221"
+  }
+}

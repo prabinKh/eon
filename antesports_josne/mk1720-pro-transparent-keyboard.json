@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK1720 Pro Transparent Wired Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346758144291",
+    "product_name": "MK1720 Pro Transparent Wired Keyboard",
+    "product_title": "MK1720 Pro Transparent Wired Keyboard",
+    "product_url": "https://antesports.com/products/mk1720-pro-transparent-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_99885ae6-89ad-4260-bcdb-48e610879439.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1720-pro-transparent-keyboard.html",
+  "detail": {
+    "title": "MK1720 Pro Transparent Wired Keyboard",
+    "model": "AEPP0327",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1720 Pro is a full-size 104-key transparent membrane keyboard that puts a striking rainbow LED design front and centre, suiting gaming setups, creative studios and minimalist workspaces alike. Black and white dual-tone keycaps sit within a clear, translucent shell that lets the multi-colour backlighting shine through for a genuinely eye-catching look after dark. Rated for 10 million keystrokes and weighing just 390g, it's lightweight and portable enough for LAN parties, office use or remote workspaces without sacrificing durability. USB plug-and-play connectivity means it works instantly on PC, laptop, Mac and Linux systems with no drivers required, making it a stylish, budget-friendly full-size keyboard for everyday typing and gaming.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_99885ae6-89ad-4260-bcdb-48e610879439.png",
+        "alt": "MK1720 Pro Transparent Wired Keyboard - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "Full-Size, 104 Keys",
+        "Switch Type": "Membrane",
+        "Lighting": "Rainbow LED, Transparent Shell",
+        "Durability": "10 Million Keystrokes",
+        "Weight": "390g",
+        "Compatibility": "PC, Laptop, Mac, Linux",
+        "LAYOUT": "Full-Size, 104 Keys",
+        "SWITCH TYPE": "Membrane",
+        "LIGHTING": "Rainbow LED, Transparent Shell",
+        "DURABILITY": "10 Million Keystrokes",
+        "WEIGHT": "390g",
+        "COMPATIBILITY": "PC, Laptop, Mac, Linux",
+        "Offer Price (INR)": "₹499.00",
+        "MRP (INR)": "₹1,599.00",
+        "SKU": "AEPP0327"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1720-pro-transparent-keyboard"
+  }
+}

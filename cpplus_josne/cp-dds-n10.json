@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "Body Worn camera",
+    "category_url": "https://cpplusworld.com/products/body-worn-camera",
+    "subcategory": "Body Worn Solutions",
+    "subcategory_url": "https://cpplusworld.com/products/Body Worn Solutions/body-worn-camera",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Body Worn Solutions",
+    "tab_id": "55",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Body Worn Solutions",
+      "Body Worn camera",
+      "CP-DDS-N10"
+    ]
+  },
+  "card_info": {
+    "product_id": "1851",
+    "product_name": "CP-DDS-N10",
+    "product_title": "CP-DDS-N10",
+    "product_url": "https://cpplusworld.com/cp-dds-n10",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f973d63f-32c5-4bee-830b-82527090e5f3.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-dds-n10.html",
+  "detail": {
+    "title": "CP-DDS-N10",
+    "model": "CP-DDS-N10",
+    "brand": "CP Plus",
+    "overview": "10 Ports Docking Station",
+    "features": [
+      "10 Port Docking Station.",
+      "The charging slot adopts cabin type dock design.",
+      "The charging current is 1A-1.5A, supporting charging protection.",
+      "USB 2.0 HUB, transmission rate ≥400M/min.",
+      "Reliability Test MTBF≥20000h."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f973d63f-32c5-4bee-830b-82527090e5f3.jpg",
+        "alt": "CP-DDS-N10 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ac82e8f9-eba8-44af-8f7b-e29694ceb032.jpg",
+        "alt": "CP-DDS-N10 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Docking Slot": "The charging slot adopts cabin type dock design",
+        "Docking Slot Number": "10 pcs",
+        "Indicator Light 1": "The red light LED is the power indicator, the red light will be on after power on",
+        "Indicator Light 2": "Green LED lights up after detecting a successful connection, and flashes when data is being  transmitted",
+        "Switch": "Rocker switch, main power switch with light",
+        "Power on Switch": "Power on switch M16 with lock and light",
+        "AC Socket": "AC socket, national standard",
+        "Product Material": "Use sheet metal integrated chassis, paint, integrated independent design; the shell material is  1.0mm cold rolled steel plate, and the surface is treated with anti-static powder coating",
+        "Support automatic Charging  (when body worn camera connect to docking station)": "The charging current is 1A-1.5A, supporting charging protection",
+        "Data Line": "Compatible with mainstream data lines such as MINI USB, Apple, Micro USB, Type-c, etc",
+        "Support Charging Protection": "Hardware automatic detection function, automatically disconnect the charging channel when  the battery is full",
+        "Reliability Test": "MTBF≥20000h",
+        "Fuse": "220V 2A",
+        "USB Interface": "USB 2.0 HUB, transmission rate ≥400M/min",
+        "Operating Temperature": "-10˚C ~ 50˚C Surface air flow",
+        "Storage Temperature": "-20˚C ~ 60˚C",
+        "Storage Humidity": "95%@40˚C",
+        "Dimension": "320mm x 250mm x 100mm",
+        "Weight": "9.7kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DDS-N10.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/32426690-5bdc-4606-8599-c9479c739ab5.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dds-n10"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Time Attendance",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance",
+    "series": "Time Attendance",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance",
+    "tab_title": "Time Attendance",
+    "tab_id": "4191",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Time Attendance",
+      "Time Attendance",
+      "Time Attendance"
+    ]
+  },
+  "card_info": {
+    "product_id": "147249",
+    "product_name": "ASA2212GL-D",
+    "product_title": "Dahua Card Swiping,Password,Fingerprint Attendance Standalone",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance/asa2212gl-d",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12380/ProductImage/1_0_01_25_12380_150289015_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asa2212gl-d.html",
+  "detail": {
+    "title": "Dahua Card Swiping,Password,Fingerprint Attendance Standalone",
+    "model": "ASA2212GL-D",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASA2212GL-D Dahua Card Swiping,Password,Fingerprint Attendance Standalone Key Points • 3,000 Fingerprints, 3,000 ID Cards and 3,000 Passwords • 2.4-inch LCD Screen with Resolution of 240 × 320 • Features Voice Prompts • Easy Configuration via PC Web Client • Built-in Rechargeable Lithium Battery • Export or Import User Information or Attendance Records Through USB • Local Time Attendance and Networked Time Attendance • Lock Control Function Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12380/ProductImage/1_0_01_25_12380_150289015_crop_thumb.png",
+        "alt": "ASA2212GL-D_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12380/ProductImage/1_0_01_25_12380_150289013_crop_thumb.png",
+        "alt": "ASA2212GL-D_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Network Protocol": "IPv4;UDP;P2P;IPv6;TCP",
+        "OSDP Protocol": "Yes",
+        "Input Method": "T9",
+        "Interoperability": "ONVIF;CGI",
+        "SDK": "Yes",
+        "API": "Yes"
+      },
+      "Basic": {
+        "Display Screen": "2.4-inch display screen",
+        "Product Type": "Attendance Standalone",
+        "Screen Type": "Non-touchscreen",
+        "Screen Resolution": "240 (H) × 320 (V)",
+        "Voice Prompt": "Yes",
+        "Powering On/Off Button": "1",
+        "Casing Material": "PC + ABS"
+      },
+      "RFID": {
+        "Card Type": "ID card",
+        "Modulation Type": "AM",
+        "Frequency Range": "125KHz",
+        "Max. Transmission Power": "66dBuA/m @10m"
+      },
+      "Function": {
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "Performance": {
+        "Response Time": "0.2 S",
+        "Card Reading Distance": "3 cm (1.18\")",
+        "Fingerprint Sensor Type": "Optical",
+        "Fingerprint Verification Mode": "1:N",
+        "Fingerprint Comparison Time": "1.5 S",
+        "Fingerprint Recognition Time": "0.5 S"
+      },
+      "Attendance": {
+        "Export Attendance Record": "USB flash drive export",
+        "Attendance Check Mode": "Auto/Manual Mode;Auto Mode;Manual Mode;Fixed Mode",
+        "Attendance Statistics": "Yes",
+        "Department Setting": "20 departments",
+        "Schedule Setting": "24 shifts",
+        "Ring Tone": "Yes"
+      },
+      "User": {
+        "User (Card) Type": "General user, VIP user, patrol user, guest user, blocklist user, other users, custom user 1 and custom user 2"
+      },
+      "Capacity": {
+        "User Capacity": "3,000",
+        "Fingerprint Capacity": "3000",
+        "Card Capacity": "3000",
+        "Password Capacity": "3000",
+        "Record Capacity": "100000"
+      },
+      "Port": {
+        "USB": "1 × USB 2.0 port",
+        "Network Port": "1 × RJ-45 10/100 Mbps self-adaptive Ethernet port",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel"
+      },
+      "Alarm": {
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Included",
+        "Power Supply": "12 VDC, 1 A; Lithium battery",
+        "Power Consumption": "≤6 W",
+        "Product Dimensions": "181.6 mm × 135.6 mm × 32.7 mm (7.15\" × 5.34\" × 1.29\")",
+        "Packaging Dimensions": "Single device in inner box: 298 mm × 162 mm × 71 mm (11.73\" × 6.38\" × 2.80\") Protective case: 383 mm × 313 mm × 349 mm (15.08\" × 12.32\" × 13.74\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.61 kg (1.34 lb)",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "30%–75% (RH), non-condensing"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASA2212GL-D_datasheet_20240830.pdf"
+      },
+      {
+        "name": "2026-03-08 #User Manual Attendance Standalone_User Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82775/user_manual/Attendance_Standalone_User_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-03-08 #User Manual Attendance Standalone_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82773/user_manual/Attendance_Standalone_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings ASA2212GL-D_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82764/drawings/DHI-ASA2212GL_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings ASA2212GL-D_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82764/drawings/DHI-ASA2212GL_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-08-30 #Drawings ASA2212GL-D_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82765/drawings/DHI-ASA2212GL-D_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XX-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82647/firmware/DH_ASIX2XX-B-H-SIV_MultiLang_CEE-Nordic_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XX-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82647/firmware/DH_ASIX2XX-B-H-SIV_MultiLang_Asia_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "2026-02-12 #Firmware DH_ASIX2XX-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.1.R.260126 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82649/firmware/DH_ASIX2XX-B-H-SIV_MultiLang_EMEA_NP_V3.004.0000000.1.R.260126.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/time-attendance/asa2212gl-d"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Intelligent Computing",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/intelligent-computing",
+    "series": "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server",
+    "tab_title": "Intelligent Management Server",
+    "tab_id": "17711",
+    "breadcrumbs": [
+      "Network Products",
+      "Intelligent Computing",
+      "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+      "Intelligent Management Server"
+    ]
+  },
+  "card_info": {
+    "product_id": "152397",
+    "product_name": "IVE-DP8000-TS2-1000",
+    "product_title": "Dahua Intelligent Management Server",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server/intelligent-management-server/ive-dp8000-ts2-1000",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10842/ProductImage/1_0_01_18_10842_690370498_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ive-dp8000-ts2-1000.html",
+  "detail": {
+    "title": "Dahua Intelligent Management Server",
+    "model": "IVE-DP8000-TS2-1000",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IVE-DP8000-TS2-1000 Dahua Intelligent Management Server Key Points • Unified Management and Flexible Allocation of Algorithms • Allocates and Centrally Schedules Computing Resources Based on Service Requirements • Manages and Executes Analysis and Retrieval Tasks through Resource and Task Scheduling Strategies Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10842/ProductImage/1_0_01_18_10842_690370498_crop_thumb.png",
+        "alt": "IVE-DP8000-TS2-1000_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10842/ProductImage/1_0_01_18_10842_690370499_crop_thumb.png",
+        "alt": "IVE-DP8000-TS2-1000_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10842/ProductImage/1_0_01_18_10842_690370500_crop_thumb.png",
+        "alt": "IVE-DP8000-TS2-1000_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Memory": {},
+      "Disk": {},
+      "Network Port": {},
+      "USB": {},
+      "VGA": {},
+      "Others": {},
+      "Power Supply": {},
+      "Power Redundancy": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Gross Weight": {},
+      "Net Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Installation": {},
+      "Product Type": {},
+      "Resource Management": {},
+      "Service Scheduling": {},
+      "Intelligent Task Scheduling": {},
+      "Cluster Management": {},
+      "Network Authentication Management": {},
+      "Third-Party Algorithm Access": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83212/datasheet/DHI-IVE-DP8000-TS2-1000_datasheet_20250306.pdf"
+      },
+      {
+        "name": "2024-12-06 #User Manual Dahua Intelligent Video Analysis Server (TS2)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010186/202412/Dahua_Intelligent_Video_Analysis_Server_(TS2)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-12 #A&E Document IVE-DP8000-TS2-1000_A&E_20260907162738 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83212/a_e_document/1788769886864.docx"
+      },
+      {
+        "name": "2024-10-27 #Drawings IVE-DP8000-TS2-1000_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/drawings/1_0_01_18_11085_951790207.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server/intelligent-management-server/ive-dp8000-ts2-1000"
+  }
+}

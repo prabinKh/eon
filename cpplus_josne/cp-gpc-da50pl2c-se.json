@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Analog",
+    "category_url": "https://cpplusworld.com/products/analog",
+    "subcategory": "Guard+",
+    "subcategory_url": "https://cpplusworld.com/products/guard-plus/analog",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Guard+",
+    "tab_id": "139",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Guard+",
+      "Analog",
+      "CP-GPC-DA50PL2C-SE"
+    ]
+  },
+  "card_info": {
+    "product_id": "1616",
+    "product_name": "CP-GPC-DA50PL2C-SE",
+    "product_title": "CP-GPC-DA50PL2C-SE",
+    "product_url": "https://cpplusworld.com/cp-gpc-da50pl2c-se",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/fb20d0b7-f8ed-4c33-8cef-5a59b3b235a8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-gpc-da50pl2c-se.html",
+  "detail": {
+    "title": "CP-GPC-DA50PL2C-SE",
+    "model": "CP-GPC-DA50PL2C-SE",
+    "brand": "CP Plus",
+    "overview": "5MP Full-Color Guard+ Dome Camera - 20Mtr.",
+    "features": [
+      "1/2.7\" 5MP PS CMOS Image Sensor (0.9407cm)",
+      "Max 25/30fps@5MP",
+      "DWDR, 2D-DNR, AWB, AGC, BLC, HLC",
+      "3.6mm Fixed Lens",
+      "Illumination Distance of 20 Mtrs, IP67",
+      "Support Built-in Mic",
+      "CVI/CVBS/AHD/TVI switchable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/fb20d0b7-f8ed-4c33-8cef-5a59b3b235a8.jpg",
+        "alt": "CP-GPC-DA50PL2C-SE - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a6a7aad8-340d-4597-a1e0-bbe3f77375c2.jpg",
+        "alt": "CP-GPC-DA50PL2C-SE - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" 5MP PS CMOS (0.9407cm)",
+        "Minimum Illumination": "0.005Lux/F1.6, 0Lux White Light on",
+        "BodyType": "Dome",
+        "Shutter Speed": "PAL: 1/25~1/100000s NTSC: 1/30~1/100000s",
+        "Max Aperture": "F1.6",
+        "White Balance": "Auto/Manual",
+        "Lens Type": "Fixed",
+        "Lens": "3.6mm",
+        "Gain Control (AGC)": "Auto/Manual",
+        "DORI Distance": "3.6mm: 80m(Detect), 32m(Observe), 16m(Recognize), 8m(Identify)",
+        "Angle of View": "3.6 mm: 109° × 92° × 48° (diagonal × horizontal × vertical)",
+        "S/N Ratio": ">65dB",
+        "Back Light Comp.": "BLC/ HLC/ DWDR",
+        "Video Streaming": "CVI: PAL: 5M@25fps; 4M@25fps; 1080P@25fps; NTSC: 5M@25fps; 4M@30fps;  1080P@30fps; AHD: PAL: 4M@25fps; NTSC: 4M@30fps TVI: PAL: 4M@25fps; NTSC:  4M@30fps CVBS: PAL: 960H; NTSC: 960H",
+        "Privacy Mask": "Off/on (8 area, rectangle)",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "Built-in Mic",
+        "Illumination Distance": "Illumination Range of 20 Mtr.",
+        "Operating Temperature": "-40°C ~ +55°C; Less than <95% RH (non-condensation)",
+        "Power Source": "12V DC ±30%",
+        "Power Consumption": "Max 3.0W (12V DC, White Light on)",
+        "Weatherproof Standard": "IP67",
+        "Dimension": "φ97 mm × 86.6 mm",
+        "Casing": "Plastic"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-GPC-DA50PL2C-SE.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-gpc-da50pl2c-se"
+  }
+}

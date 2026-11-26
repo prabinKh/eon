@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC210 Laptop Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032931619",
+    "product_name": "NC210 Laptop Cooler",
+    "product_title": "NC210 Laptop Cooler",
+    "product_url": "https://antesports.com/products/nc210-laptop-cooler-6-fans",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ChatGPTImageSep9_2026_05_38_25PM.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc210-laptop-cooler-6-fans.html",
+  "detail": {
+    "title": "NC210 Laptop Cooler",
+    "model": "AEPP0041",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC210 arranges six 60mm RGB fans in a hexagonal layout, rated at 1500-2200 RPM each, to deliver high airflow that keeps gaming laptops cool even under full load. A built-in LCD display lets you adjust fan speed across 6 levels using simple + and - buttons, giving precise control over the balance between cooling power and noise. Adjustable height positions add ergonomic flexibility for typing and viewing comfort, while dual USB ports offer handy pass-through connectivity for accessories. Built for laptops up to 15.6 inches, the NC210 combines strong hexagonal airflow with vibrant RGB styling for a genuinely capable gaming cooling pad.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ChatGPTImageSep9_2026_05_38_25PM.png",
+        "alt": "NC210 Laptop Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "6 x 60mm, 1500-2200 RPM",
+        "Display": "LCD, 6 Speed Levels",
+        "USB Ports": "2",
+        "Compatibility": "Laptops up to 15.6 Inches",
+        "FANS": "6 x 60mm, 1500-2200 RPM",
+        "DISPLAY": "LCD, 6 Speed Levels",
+        "USB PORTS": "2",
+        "COMPATIBILITY": "Laptops up to 15.6 Inches",
+        "Offer Price (INR)": "₹1,099.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0041"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc210-laptop-cooler-6-fans"
+  }
+}

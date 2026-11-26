@@ -1,0 +1,70 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "HDMI 2.0 Cable with Blue Metal Cap - 20 Meters"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353570742563",
+    "product_name": "HDMI 2.0 Cable with Blue Metal Cap - 20 Meters",
+    "product_title": "HDMI 2.0 Cable with Blue Metal Cap - 20 Meters",
+    "product_url": "https://antesports.com/products/aeh120-hdmi-cable-gold-plated-20m",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/aeh120-hdmi-cable-gold-plated-20m.html",
+  "detail": {
+    "title": "HDMI 2.0 Cable with Blue Metal Cap - 20 Meters",
+    "model": "AEPP0234",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEH120 is a 20-metre HDMI 2.0 cable finished with a distinctive blue metal connector cap and 24K gold-plated contacts for reliable, corrosion-resistant connections over time. Rated for 18Gbps bandwidth, it supports the full range of HDTV resolutions and refresh rates for sharp, lag-free video and audio across the longest common runs, ideal for large venues, auditoriums or multi-room installations. Its sturdy build and premium connector finish ensure dependable performance wherever a source device and display are placed far apart.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8.jpg",
+        "alt": "HDMI 2.0 Cable with Blue Metal Cap - 20 Meters - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "HDMI Version": "2.0",
+        "Bandwidth": "18Gbps",
+        "Connector": "24K Gold Plated, Blue Metal Cap",
+        "Length": "20 Meters",
+        "HDMI VERSION": "2.0",
+        "BANDWIDTH": "18Gbps",
+        "CONNECTOR": "24K Gold Plated, Blue Metal Cap",
+        "LENGTH": "20 Meters",
+        "SKU": "AEPP0234"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aeh120-hdmi-cable-gold-plated-20m"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders",
+    "series": "Cooper-I Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/cooper-i-series",
+    "tab_title": "Cooper-I Series",
+    "tab_id": "11857",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Recorders",
+      "Cooper-I Series",
+      "Cooper-I Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "102527",
+    "product_name": "XVR1B16H-I",
+    "product_title": "16CH Penta-brid 5MP Value/1080P Compact 1U 1HDD WizSense Digital Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/cooper-i-series/xvr1b16h-i",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220112/xvr2_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/xvr1b16h-i.html",
+  "detail": {
+    "title": "16CH Penta-brid 5MP Value/1080P Compact 1U 1HDD WizSense Digital Video Recorder",
+    "model": "XVR1B16H-I",
+    "brand": "Dahua",
+    "overview": "Compare Favourite XVR1B16H-I 16CH Penta-brid 5MP Value/1080P Compact 1U 1HDD WizSense Digital Video Recorder Key Points • 16-ch Analog Video Input, Max. 5M-N@12fps/1080p@15fps Encoding Capability • Max. 24-ch IP Video Input (Up to 6MP) • AI Functions: 16-ch SMD, 16-ch AI Coding • 1 Bay. Up to 16TB for Each HDD Storage Capacity Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220112/xvr2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220112/xvr1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220112/xvr3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web; Local GUI"
+      },
+      "SMD Plus": {
+        "SMD Plus by Recorder": "16 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "24 channels"
+      },
+      "Irregular Black Block Masking": {
+        "Irregular Black Block Masking by Recorder": "1 channel"
+      },
+      "Audio and Video": {
+        "Analog Camera Input": "16 BNC ports, supports HDCVI/AHD/TVI/CVBS auto-detect",
+        "Camera Input": "1. CVI: 5 MP@25 fps; 5 MP@20 fps; 5 MP@10/12.5 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@50/60 fps; 720p@25/30fps. 2. TVI: 5 MP(2560 x 1944)@20 fps; 5 MP(2960 x 1665)@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps. 3. AHD: 5 MP@20 fps; 4 MP@25/30 fps; 1080p@25/30 fps; 720p@25/30 fps.",
+        "IP Camera Input": "Up to 24 channels of IPC access 8 IP channels by default + 16 channels (analog channels are converted to IP channels) incoming bandwidth: 128 Mbps, recording bandwidth: 128 Mbps and outgoing bandwidth: 128 Mbps *After IP channels are added beyond the existing channels, the AI Function SMD will be disabled.",
+        "Encoding Capacity": "Main stream: 5 MP Mode: 4-ch 5 MP@(1 fps-6 fps); others 5M-N@(1 fps-12 fps) 5M-N Mode: 5M-N@(1 fps –12 fps); 4M-N/1080p@(1 fps–15 fps); 1080N/720p/960H/D1/CIF@(1 fps–25/30 fps) Sub stream: D1/CIF@(1 fps–15 fps)",
+        "Dual-stream": "Yes",
+        "Video Bit Rate": "32 kbps–6144 kbps",
+        "Audio Sampling": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 kbps",
+        "Video Output": "1 HDMI, 1 VGA VGA: 1920 × 1080, 1280 × 1024, 1280 × 720 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Multi-screen Display": "When IP extension mode not enabled: 1/4/8/9/16 When IP extension mode enabled: 1/4/8/9/16/25",
+        "Third-party Camera Access": "Panasonic; Sony; Hanwha; Axis; Arecont; ONVIF"
+      },
+      "Compression Standard": {
+        "Video Compression": "AI Coding; Smart H.265+; H.265; Smart H.264+; H.264",
+        "Audio Compression": "G.711a; G.711u; PCM"
+      },
+      "Network": {
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; FTP; DDNS; SNMP; Alarm Server; P2P; Auto Registration; IP Search (Supports IP camera, DVR, NVS, etc.)",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 24.06 (Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox"
+      },
+      "Recording Playback": {
+        "Record Mode": "General; alarm; motion detection",
+        "Recording Playback": "1/4/9/16",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback; general playback; event playback; tag playback; smart playback"
+      },
+      "Alarm": {
+        "General Alarm": "Motion detection; HDCVI alarm; camera external alarm; network alarm; PIR alarm",
+        "Anomaly Alarm": "Error (no disk, disk error, low space, low quota space; network disconnection; IP conflict; MAC conflict); video loss; video tampering; camera offline",
+        "Intelligent Alarm": "SMD Plus",
+        "Alarm Linkage": "Record; snapshot (panoramic); IPC external alarm output; audio; buzzer; log; preset; email"
+      },
+      "Ports": {
+        "Audio Input": "1-channel RCA 16-channel BNC (Coaxial Audio)",
+        "Audio Output": "1-channel RCA",
+        "Two-way Talk": "Yes (share the same audio input with the first channel)",
+        "Disk Interface": "1 SATA port, up to 16 TB. This limit varies depending on the environment temperature.",
+        "USB": "2 (2 rear USB 2.0 ports)",
+        "HDMI": "1",
+        "VGA": "1",
+        "Network Port": "1 (10/100/1000 Mbps Ethernet port, RJ-45)"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 2 A",
+        "Power Consumption": "<12 W(without HDD)",
+        "Net Weight": "0.93 kg (2.05 lb)",
+        "Gross Weight": "1.43 kg (3.16 lb)",
+        "Product Dimensions": "260.0 mm × 231.4 mm × 47.6 mm (10.24\" × 9.11\" × 1.87\") (W × D × H)",
+        "Packaging Dimensions": "333.0 mm × 89.0 mm × 315.0 mm (13.11\" × 3.50\" × 12.40\") (W × D × H)",
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Installation": "Desktop",
+        "Certifications": "CE: CE-LVD: EN 60950-1/IEC 60950-1 CE-EMC: EN 61000-3-2, EN 61000-3-3, EN 55032, EN 50130, EN 55024 FCC: Part 15 Subpart B"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/XVR1B16H-I_datasheet_20241113.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Dahua AI Digital Video Recorder_User Manual_V2.7.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/10047/user_manual/Dahua_AI_Digital_Video_Recorder_User_Manual_V2.7.0.pdf"
+      },
+      {
+        "name": "2026-06-08 #User Manual Digital Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/7517/user_manual/Digital_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings XVR1B16H-I_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28997/drawings/XVR1B16H-I_PORT.pdf"
+      },
+      {
+        "name": "2021-12-01 #Drawings XVR1B16H-I_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71767/drawings/XVR1B16-I(1T)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-02-13 #Firmware DH_XVR5x16-I3_MultiLang_V4.001.0000004.2.R.250123 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3027924/M/DH_XVR5x16-I3_MultiLang_V4.001.0000004.2.R.250123.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-recorders/cooper-i-series/xvr1b16h-i"
+  }
+}

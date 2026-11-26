@@ -1,0 +1,81 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Accessory",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/accessory",
+    "tab_title": "Accessory",
+    "tab_id": "118257",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Accessory",
+      "Accessory"
+    ]
+  },
+  "card_info": {
+    "product_id": "155334",
+    "product_name": "MAE-CL301",
+    "product_title": "Clip",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/accessory/mae-cl301",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87846/image/1_0_01_01_16658_966904294_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/mae-cl301.html",
+  "detail": {
+    "title": "Clip",
+    "model": "MAE-CL301",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite MAE-CL301 Clip Key Points Clip of body camera. Compatible with Klick Fast System. Accessory of MPT230, MPT220, MPT221, MPT221-S, MPT221-SA. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87846/image/1_0_01_01_16658_966904294_crop_thumb.PNG",
+        "alt": "MAE-CL301_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87846/datasheet/0916170413078.pdf"
+      },
+      {
+        "name": "2026-07-08 #Datasheet MAE-CL301_S0_datasheet_20260706 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87846/datasheet/MAE-CL301_S0_datasheet_20260706_English.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/accessory/mae-cl301"
+  }
+}

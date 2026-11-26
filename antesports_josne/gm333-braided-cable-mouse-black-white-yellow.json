@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM333 Gaming Mouse - Black/White/Yellow"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923031331",
+    "product_name": "GM333 Gaming Mouse - Black/White/Yellow",
+    "product_title": "GM333 Gaming Mouse - Black/White/Yellow",
+    "product_url": "https://antesports.com/products/gm333-braided-cable-mouse-black-white-yellow",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/16_33754609-9f94-44aa-8a2a-d50d5ef98757.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm333-braided-cable-mouse-black-white-yellow.html",
+  "detail": {
+    "title": "GM333 Gaming Mouse - Black/White/Yellow",
+    "model": "AEPP0240",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM333 is a wired gaming mouse with an ergonomic, right-handed structure built for stable handling and reduced strain during long gaming sessions. A dedicated DPI switch allows instant sensitivity adjustment, and a lighting control button lets you cycle through RGB modes on the fly to match your gaming environment. Multiple side buttons positioned for easy thumb access give quick control over macros, weapon switching or essential in-game actions across FPS, MOBA and MMORPG titles. The reinforced braided cable and durable switches ensure long-term reliability, finished here in a clean black-and-white shell with yellow accent buttons.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/16_33754609-9f94-44aa-8a2a-d50d5ef98757.jpg",
+        "alt": "GM333 Gaming Mouse - Black/White/Yellow - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Design": "Ergonomic Right-Hand",
+        "Controls": "DPI Switch, Lighting Button",
+        "Cable": "Reinforced Braided",
+        "Buttons": "Multiple Programmable Side Buttons",
+        "Color": "Black/White/Yellow",
+        "DESIGN": "Ergonomic Right-Hand",
+        "CONTROLS": "DPI Switch, Lighting Button",
+        "CABLE": "Reinforced Braided",
+        "BUTTONS": "Multiple Programmable Side Buttons",
+        "COLOR": "Black/White/Yellow",
+        "Offer Price (INR)": "₹656.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0240"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GM333)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=GM333.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm333-braided-cable-mouse-black-white-yellow"
+  }
+}

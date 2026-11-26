@@ -1,0 +1,84 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Emergency Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm",
+    "series": "Accessory",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/emergency-alarm/accessory",
+    "tab_title": "Accessory",
+    "tab_id": "15707",
+    "breadcrumbs": [
+      "Alarms",
+      "Emergency Alarm",
+      "Accessory",
+      "Accessory"
+    ]
+  },
+  "card_info": {
+    "product_id": "152591",
+    "product_name": "VTAZG001X-B",
+    "product_title": "Electronic Shelf Label (ESL)",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm/accessory/vtazg001x-b",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_1_02_41_10263-002/ProductImage/1_1_02_41_10263-002_724039725_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/vtazg001x-b.html",
+  "detail": {
+    "title": "Electronic Shelf Label (ESL)",
+    "model": "VTAZG001X-B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTAZG001X-B Electronic Shelf Label (ESL) Key Points Expand the installation interface of the Emergency Phone Tower for installing the IP camera. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_1_02_41_10263-002/ProductImage/1_1_02_41_10263-002_724039725_crop_thumb.png",
+        "alt": "_Rendergraph_45Left-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "General": {
+        "Product Dimensions": "450.0 mm × 1,445.0 mm × 70.0 mm (17.72\" × 56.89\" × 2.76\") (L × W × H)",
+        "Net Weight": "15.66 kg (34.53 lb)",
+        "Installation": "Supports having the pole mount bracket of bullet and PTZ cameras installed onto it. For PTZ cameras, use the G1-1/2 internally threaded bracket.",
+        "Casing Material": "SGCC",
+        "Appearance Color": "Dark blue",
+        "Anti-corrosion Level": "Basic Protection"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTAZG001X-B_datasheet_20250521.pdf"
+      },
+      {
+        "name": "2024-12-06 #Drawings VTAZG001X-B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83411/drawings/VTAZG001X-B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/emergency-alarm/accessory/vtazg001x-b"
+  }
+}

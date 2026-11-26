@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "Desktop Pop-Up Socket - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353571397923",
+    "product_name": "Desktop Pop-Up Socket - Black",
+    "product_title": "Desktop Pop-Up Socket - Black",
+    "product_url": "https://antesports.com/products/desktop-socket-aemds412-pop-up-outlet-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/desktop-socket-aemds412-pop-up-outlet-black.html",
+  "detail": {
+    "title": "Desktop Pop-Up Socket - Black",
+    "model": "AEPP0141",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEMDS412 is a pop-up desktop socket that stays hidden flush within a table until needed, popping up at the press of a button to reveal 2 AC outlets, 2 RJ45 network ports, a USB port, an HDMI port, a VGA port and a 3.5mm audio jack. Its solid aluminium construction gives it a premium, durable feel suited to conference rooms, gaming desks, home offices and hotel countertops alike. A spill-proof design with leakage protection keeps it safe even if liquid is accidentally spilled nearby, and simple drill-and-mount installation means it fits into most desks, sofas or TV cabinets without extensive modification. An elegant, space-saving solution for anyone who wants full connectivity without permanent cable clutter.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2.jpg",
+        "alt": "Desktop Pop-Up Socket - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Ports": "2 AC + 2 RJ45 + USB + HDMI + VGA + Audio",
+        "Build": "Aluminium",
+        "Protection": "Spill-Proof, Leakage Protected",
+        "Use Case": "Conference Desk, Office, Home",
+        "Color": "Black",
+        "PORTS": "2 AC + 2 RJ45 + USB + HDMI + VGA + Audio",
+        "BUILD": "Aluminium",
+        "PROTECTION": "Spill-Proof, Leakage Protected",
+        "USE CASE": "Conference Desk, Office, Home",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,650.00",
+        "MRP (INR)": "₹6,999.00",
+        "SKU": "AEPP0141"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/desktop-socket-aemds412-pop-up-outlet-black"
+  }
+}

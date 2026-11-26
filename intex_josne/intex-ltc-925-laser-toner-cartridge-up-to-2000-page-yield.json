@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "8991579734234",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC 925 | Laser Toner Cartridge (up to 2000-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8991579734234",
+    "product_name": "Intex LTC 925 | Laser Toner Cartridge (up to 2000-page yield)",
+    "product_title": "Intex LTC 925 | Laser Toner Cartridge (up to 2000-page yield)",
+    "product_url": "https://www.intex.in/products/intex-ltc-925-laser-toner-cartridge-up-to-2000-page-yield",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-925.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 949.0,
+      "display": "₹949.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-ltc-925-laser-toner-cartridge-up-to-2000-page-yield.html",
+  "detail": {
+    "title": "Intex LTC 925 | Laser Toner Cartridge (up to 2000-page yield)",
+    "model": "925-2000",
+    "brand": "Intex",
+    "overview": "The Intex LTC 925 toner cartridge ensures maximum print efficiency and reliability. Built with a high-quality drum, it guarantees excellent page yield and top-tier performance for both text and image documents. Compatible with popular Canon and HP printer models, it’s ideal for personal, home-office, and business use. Get consistently bold prints with superior clarity and smudge-free results, every time.",
+    "features": [
+      "Model: LTC 925",
+      "Page Yield: Up to 2000 pages (A4, 5% coverage)",
+      "Drum: High-Quality Imaging Drum",
+      "Print Quality: Crisp, Clear, Superior Output",
+      "Printer Compatible With:",
+      "Canon LBP 3018, 3050, 3100, 3108, 3150, 6000, 6018B, MF3010",
+      "HP LaserJet Pro P1102, P1102w, M1132, M1212, M1214, M1217"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-925.jpg",
+        "alt": "Intex LTC 925 | Laser Toner Cartridge (up to 2000-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: LTC 925",
+        "Feature 2": "Page Yield: Up to 2000 pages (A4, 5% coverage)",
+        "Feature 3": "Drum: High-Quality Imaging Drum",
+        "Feature 4": "Print Quality: Crisp, Clear, Superior Output",
+        "Feature 5": "Printer Compatible With:",
+        "Feature 6": "Canon LBP 3018, 3050, 3100, 3108, 3150, 6000, 6018B, MF3010",
+        "Feature 7": "HP LaserJet Pro P1102, P1102w, M1132, M1212, M1214, M1217"
+      },
+      "General": {
+        "Model": "925-2000"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-ltc-925-laser-toner-cartridge-up-to-2000-page-yield"
+  }
+}

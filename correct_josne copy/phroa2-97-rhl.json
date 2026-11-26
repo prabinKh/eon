@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Display & Control",
+    "category_url": "https://www.dahuasecurity.com/products/display-&-control",
+    "subcategory": "LED Displays",
+    "subcategory_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays",
+    "series": "Rental LED Display",
+    "series_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays/rental-led-display",
+    "tab_title": "Rental LED Display",
+    "tab_id": "18167",
+    "breadcrumbs": [
+      "Display & Control",
+      "LED Displays",
+      "Rental LED Display",
+      "Rental LED Display"
+    ]
+  },
+  "card_info": {
+    "product_id": "155663",
+    "product_name": "PHROA2.97-RHL",
+    "product_title": "Ultimate Lightweight Outdoor Rental LED Display",
+    "product_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays/rental-led-display/phroa2.97-rhl",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20260824/1787563600_1f375838-042f-93b1-c_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "display-&-control/products/phroa2-97-rhl.html",
+  "detail": {
+    "title": "Ultimate Lightweight Outdoor Rental LED Display",
+    "model": "PHROA2.97-RHL",
+    "brand": "Dahua",
+    "overview": "New Favourite PHROA2.97-RHL Ultimate Lightweight Outdoor Rental LED Display Key Points > Die-cast magnesium cabinet,Ultimate lightweight design: 10.5kg/panel. > High protection level, Front IP65 and Rear IP65. > 500x500mm and 500x1000mm cabinet size design,Flexibly adapt to multiple scenarios. > Optional curve lock design, enable -10° ~10° at every 2.5° step, Support ±10°,±7.5°,±5°,±2.5°,0°. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20260824/1787563600_1f375838-042f-93b1-c_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "Model": {
+        "Model": "DHI-PHROA2.97-RHL"
+      },
+      "Parameters": {
+        "Pixel Pitch": "2.976mm",
+        "Pixel Configuration": "1R1G1B",
+        "LED Type": "SMD1515",
+        "Brightness (Max)": "4500 nit",
+        "Color Temperature": "6500K-9300K (adjustable)",
+        "Viewing Angle": "H160° / V140°",
+        "Pixel Density": "112,896 dots/m²",
+        "Module Size": "W250mm×H250mm",
+        "Module Resolution": "84x84 dots",
+        "Cabinet Size": "W500mm×H1000mm×D75mm",
+        "Cabinet Resolution": "168×336 dots",
+        "Cabinet Weight": "10.5 kg ± 0.5kg",
+        "Cabinet Material": "Die-cast Magnesium",
+        "Operating Temperature/Humidity": "-20℃~+45℃/10~80%RH",
+        "Storage Temperature/Humidity": "-20℃~+60℃/10~80%RH",
+        "IP Rating": "Front IP65/Rear IP65",
+        "Aspect Ratio": "1:2",
+        "Gray Scale": "16 bits",
+        "Contrast Ratio": "6000:1",
+        "Refresh Rate": "7680Hz",
+        "Input Voltage": "AC 110~220V (+/-10%)",
+        "Input Power (max)": "600 W/m2",
+        "Input Power (Avg)": "230 W/m2",
+        "Installation Mode": "Hanging/Stacking",
+        "Module Maintenance": "Front/Rear Maintenance",
+        "PSU & Others Maintenance": "Rear Maintenance",
+        "Signal Transmission Distance": "CAT5 Cable ( L≤100m ), Multi-mode fiber ( L≤300m ), Single-mode fiber (L≤10km)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20260824/DHI-PHROA2.97-RHL_500mm1000mmDatasheet20260707.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/display-&-control/led-displays/rental-led-display/phroa2.97-rhl"
+  }
+}

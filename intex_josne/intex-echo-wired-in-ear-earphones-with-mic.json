@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "Earphone",
+    "subcategory_url": "https://www.intex.in/collections/earphone",
+    "series": "Earphones",
+    "series_url": "https://www.intex.in/collections/earphones",
+    "tab_title": "Earphone",
+    "tab_id": "9200934453466",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "Earphone",
+      "Intex Echo Wired In-Ear Earphones with Mic"
+    ]
+  },
+  "card_info": {
+    "product_id": "9200934453466",
+    "product_name": "Intex Echo Wired In-Ear Earphones with Mic",
+    "product_title": "Intex Echo Wired In-Ear Earphones with Mic",
+    "product_url": "https://www.intex.in/products/intex-echo-wired-in-ear-earphones-with-mic",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-01.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-echo-wired-in-ear-earphones-with-mic.html",
+  "detail": {
+    "title": "Intex Echo Wired In-Ear Earphones with Mic",
+    "model": "Mic",
+    "brand": "Intex",
+    "overview": "powerful sound and all-day comfort with the Intex Echo Wired In-Ear Earphones. Designed for music lovers, these earphones deliver deep bass and crystal-clear audio for an immersive listening experience. The ergonomic in-ear design ensures a secure and comfortable fit, while the built-in microphone allows seamless calling on the go. With a durable, tangle-free cable and universal 3.5mm compatibility, these earphones are perfect for daily use—whether you're commuting, working, or relaxing.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-01.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-02.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-06.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-05.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-04.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-03.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ECHO-WIRE-07.jpg",
+        "alt": "Intex Echo Wired In-Ear Earphones with Mic",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "General": {
+        "High-Quality Sound Output": "Enjoy clear audio with deep bass for music, calls, and entertainment.",
+        "Built-in Microphone": "Easily take calls and control music without reaching for your phone.",
+        "Ergonomic In-Ear Design": "Provides a comfortable and secure fit for long listening sessions.",
+        "Noise Isolation Feature": "Blocks external noise for an immersive sound experience.",
+        "Tangle-Free Durable Cable": "Strong and flexible cable designed for everyday use.",
+        "3.5mm Universal Jack": "Compatible with smartphones, tablets, laptops, and other devices.",
+        "Lightweight & Portable": "Easy to carry and ideal for travel, office, and daily use.",
+        "Model": "Mic"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Echo_Wire_In-Ear_Earphones_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-echo-wired-in-ear-earphones-with-mic"
+  }
+}

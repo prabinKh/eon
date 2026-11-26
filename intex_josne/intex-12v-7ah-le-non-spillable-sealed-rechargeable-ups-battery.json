@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "UPS",
+    "subcategory_url": "https://www.intex.in/collections/ups",
+    "series": "UPS Battery",
+    "series_url": "https://www.intex.in/collections/ups-battery",
+    "tab_title": "UPS",
+    "tab_id": "9474960392410",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "UPS",
+      "INTEX 12V 7Ah-Le Non-Spillable Sealed Rechargeable UPS Battery"
+    ]
+  },
+  "card_info": {
+    "product_id": "9474960392410",
+    "product_name": "INTEX 12V 7Ah-Le Non-Spillable Sealed Rechargeable UPS Battery",
+    "product_title": "INTEX 12V 7Ah-Le Non-Spillable Sealed Rechargeable UPS Battery",
+    "product_url": "https://www.intex.in/products/intex-12v-7ah-le-non-spillable-sealed-rechargeable-ups-battery",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Gemini_Generated_Image_x8wyxcx8wyxcx8wy.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1799.0,
+      "display": "₹1,799.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-12v-7ah-le-non-spillable-sealed-rechargeable-ups-battery.html",
+  "detail": {
+    "title": "INTEX 12V 7Ah-Le Non-Spillable Sealed Rechargeable UPS Battery",
+    "model": "12V 7Ah-L (UPS Battery)",
+    "brand": "Intex",
+    "overview": "The INTEX 12V 7Ah-Le Non-Spillable Sealed Battery provides consistent, long-lasting power backup for UPS systems, emergency lights, and security equipment. Engineered for safety and reliability, this Made in India rechargeable battery features Constant Voltage CCCV Charging to maintain continuous output, protect against short-circuiting, and ensure smooth power delivery during outages.",
+    "features": [
+      "Short-circuit protection",
+      "Sealed leak-proof construction"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Gemini_Generated_Image_x8wyxcx8wyxcx8wy.png",
+        "alt": "INTEX 12V 7Ah-Le Non-Spillable Sealed Rechargeable UPS Battery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Brand": "INTEX",
+        "Model / Type": "12V 7Ah-L (UPS Battery)",
+        "Battery Type": "Non-Spillable Sealed Battery",
+        "Capacity": "7Ah (20 Hr)",
+        "Voltage": "12V",
+        "Charging Type": "CCCV Charge",
+        "Cycle Use": "14.1 - 14.7 V (25°C)",
+        "Standby Use": "13.5 - 13.8 V (25°C)",
+        "Initial Current": "Less than 1.4A",
+        "MRP": "₹ 1,799/- (Inclusive of all taxes)",
+        "Manufacturing Origin": "Made in India",
+        "Safety Features": "Short-circuit protection Sealed leak-proof construction",
+        "Model": "12V 7Ah-L (UPS Battery)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-12v-7ah-le-non-spillable-sealed-rechargeable-ups-battery"
+  }
+}

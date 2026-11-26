@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Analog",
+    "category_url": "https://cpplusworld.com/products/analog",
+    "subcategory": "Guard+",
+    "subcategory_url": "https://cpplusworld.com/products/guard-plus/analog",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Guard+",
+    "tab_id": "139",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Guard+",
+      "Analog",
+      "CP-GPC-TA24PL2C-SE"
+    ]
+  },
+  "card_info": {
+    "product_id": "1614",
+    "product_name": "CP-GPC-TA24PL2C-SE",
+    "product_title": "CP-GPC-TA24PL2C-SE",
+    "product_url": "https://cpplusworld.com/cp-gpc-ta24pl2c-se",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/57281759-05a3-4b5e-98e8-5d87c92a3b76.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-gpc-ta24pl2c-se.html",
+  "detail": {
+    "title": "CP-GPC-TA24PL2C-SE",
+    "model": "CP-GPC-TA24PL2C-SE",
+    "brand": "CP Plus",
+    "overview": "2.4MP Full-color Guard+ Bullet Camera - 20Mtr.",
+    "features": [
+      "1/2.8\" 2.4MP CMOS Image Sensor (0.9071 centimetres)",
+      "Max 25/30fps@2.4MP",
+      "DWDR, 2D-DNR, AWB, AGC, BLC",
+      "3.6mm Fixed lens (2.8mm Optional)",
+      "Illumination Distance of 20 Mtrs, IP67",
+      "Support 24/7 color Imaging",
+      "Support Built-in Mic",
+      "CVI/CVBS/AHD/TVI switchable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/57281759-05a3-4b5e-98e8-5d87c92a3b76.jpg",
+        "alt": "CP-GPC-TA24PL2C-SE - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9ab1582a-e44f-424a-bc23-4c2cc9417720.jpg",
+        "alt": "CP-GPC-TA24PL2C-SE - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" 2.4MP CMOS (0.9071 centimetres)",
+        "Minimum Illumination": "0.01Lux/F1.6, 0 Lux white light on",
+        "Lens": "3.6mm (2.8mm Optional)",
+        "Max Aperture": "F1.6",
+        "Lens Type": "Fixed-focal",
+        "DNR": "2D-NR",
+        "DORI Distance": "2.8mm: 43.9m (Detect) 17.5m (Observe) 8.8m (Recognize) 4.4mm (Identify) 3.6mm: 55.2m (Detect) 22.1m (Observe) 11.0m (Recognize) 5.5mm (Identify)",
+        "Close Focus Distance": "2.8mm: 0.7m ; 3.6mm: 1.2m",
+        "Angle of View": "2.8mm: 126.2° × 106° × 56.5° (diagonal × horizontal × vertical) 3.6mm: 103.6° × 86.9° × 46.3° (diagonal × horizontal × vertical)",
+        "White Balance": "Auto/ Manual",
+        "Back Light Compensation": "BLC/ DWDR",
+        "Shutter Speed": "PAL: 1/25~1/100000s NTSC: 1/30~1/100000s",
+        "Iris": "Fixed",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Privacy Mask": "Off/On (8 area, rectangle)",
+        "Audio": "Built-in Mic",
+        "Video Streaming": "CVI: PAL: 1080P@25fps; 720P@25fps; NTSC: 1080P@30fps; 720P@30fps;  AHD: PAL: 1080P@25fps; NTSC: 1080P@30fps TVI: PAL: 1080P@25fps;  NTSC: 1080P@30fps; CVBS: PAL: 960H; NTSC: 960H",
+        "Illumination Distance": "IR Distance of 20 Mtr.",
+        "Operating Temperature": "-40°C ~ +60°C (-40°F to 140°)",
+        "Humidity": "<95% RH (non-condensation)",
+        "Storage Temperature": "-40°C ~ +60°C (-40°F to 140°) <95% RH (non-condensation)",
+        "Power Source": "12V DC ±30%",
+        "Power Consumption": "Max 3.1W (12V DC, White Light on)",
+        "Weatherproof Standard": "IP67",
+        "Casing": "Plastic",
+        "Dimension": "161.3 mm × 69.7 mm × 70.0 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-GPC-TA24PL2C-SE.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-gpc-ta24pl2c-se"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Superflow V2 120mm Auto RGB Black Case Fan"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422007587",
+    "product_name": "Superflow V2 120mm Auto RGB Black Case Fan",
+    "product_title": "Superflow V2 120mm Auto RGB Black Case Fan",
+    "product_url": "https://antesports.com/products/ant-esports-superflow-v2-120mm-argb-case-fan",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/Superflow120AUTORGBv2_02_a599496a-e86e-4848-b267-e75030b312cb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-superflow-v2-120mm-argb-case-fan.html",
+  "detail": {
+    "title": "Superflow V2 120mm Auto RGB Black Case Fan",
+    "model": "AESP0084",
+    "brand": "Ant Esports",
+    "overview": "Bring your PC build to life with theAnt Esports Superflow V2. Designed for gamers and PC enthusiasts who refuse to compromise on either performance or aesthetics, this 120mm Auto RGB fan delivers exceptional airflow while creating a stunning visual display.High-Airflow Engineering:The optimized fan blade design ensures superior airflow, effectively cooling your high-performance components even during intensive gaming or demanding workflows.Silent & Stable Performance:Engineered for quiet operation, this fan maintains low noise levels without sacrificing static pressure, ensuring your PC runs cool and distraction-free.Premium Build Quality:Built with durability in mind, the Superflow V2 features a robust construction that ensures a long, reliable lifespan for your cooling system.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/Superflow120AUTORGBv2_02_a599496a-e86e-4848-b267-e75030b312cb.png",
+        "alt": "Superflow V2 120mm Auto RGB Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_d7d7f1f1-99f0-4c81-b97a-af2be6808123.png",
+        "alt": "Superflow V2 120mm Auto RGB Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_29d8bf4d-b110-4844-b0c1-e1e906ead619.png",
+        "alt": "Superflow V2 120mm Auto RGB Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "Single",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Static RGB",
+        "FAN Speed (RPM)": "1100",
+        "FAN Airflow (CFM)": "45.3",
+        "FAN Static Pressure (mmH₂O)": "1.1",
+        "FAN Noise (dBA)": "20.5",
+        "FAN Direction": "Forward",
+        "Connection": "DC (Molex)",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "Single",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Static RGB",
+        "FAN SPEED (RPM)": "1100",
+        "FAN AIRFLOW (CFM)": "45.3",
+        "FAN STATIC PRESSURE (MMH₂O)": "1.1",
+        "FAN NOISE (DBA)": "20.5",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "DC (Molex)",
+        "Offer Price (INR)": "₹499.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AESP0084"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-superflow-v2-120mm-argb-case-fan"
+  }
+}

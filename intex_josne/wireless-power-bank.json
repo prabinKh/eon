@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Power Bank",
+    "subcategory_url": "https://www.intex.in/collections/power-bank",
+    "series": "Power Bank Series",
+    "series_url": "https://www.intex.in/collections/power-bank-series",
+    "tab_title": "Power Bank",
+    "tab_id": "8650860626138",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Power Bank",
+      "SKY MAGSAFE 10K POLY Wireless Power Bank"
+    ]
+  },
+  "card_info": {
+    "product_id": "8650860626138",
+    "product_name": "SKY MAGSAFE 10K POLY Wireless Power Bank",
+    "product_title": "SKY MAGSAFE 10K POLY Wireless Power Bank",
+    "product_url": "https://www.intex.in/products/wireless-power-bank",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIFI-POWER-BANK-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3999.0,
+      "display": "₹3,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/wireless-power-bank.html",
+  "detail": {
+    "title": "SKY MAGSAFE 10K POLY Wireless Power Bank",
+    "model": "Bank",
+    "brand": "Intex",
+    "overview": "Intex SKY MAGSAFE 10K POLY Wireless Power Bank is designed for seamless charging on the go. With a 10000mAh battery capacity, it supports 15W wireless and 20W wired fast charging. The secure magnetic hold ensures a firm grip for MagSafe-compatible devices, while power delivery support enhances fast charging efficiency. Smart IC protection provides multiple layers of safety, including overcharge and over-discharge protection. The type-c input/output ensures universal compatibility with a wide range of devices. Lightweight and portable, it is the perfect companion for everyday use, ensuring your devices stay powered anytime, anywhere.",
+    "features": [
+      "10000mAh high-capacity power bank",
+      "15W wireless & 20W wired fast charging",
+      "Secure magnetic hold for MagSafe compatibility",
+      "Power Delivery (PD) for fast & efficient charging",
+      "Type-C input/output for universal compatibility",
+      "Overcharge & over-discharge protection",
+      "Smart IC technology for multi-layer protection",
+      "Lightweight & travel-friendly design",
+      "Perfect for iPhones, Androids & more"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIFI-POWER-BANK-1.jpg",
+        "alt": "SKY MAGSAFE 10K POLY Wireless Power Bank",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WIFI-POWER-BANK-2.jpg",
+        "alt": "SKY MAGSAFE 10K POLY Wireless Power Bank",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "10000mAh high-capacity power bank",
+        "Feature 2": "15W wireless & 20W wired fast charging",
+        "Feature 3": "Secure magnetic hold for MagSafe compatibility",
+        "Feature 4": "Power Delivery (PD) for fast & efficient charging",
+        "Feature 5": "Type-C input/output for universal compatibility",
+        "Feature 6": "Overcharge & over-discharge protection",
+        "Feature 7": "Smart IC technology for multi-layer protection",
+        "Feature 8": "Lightweight & travel-friendly design",
+        "Feature 9": "Perfect for iPhones, Androids & more"
+      },
+      "General": {
+        "Model": "Bank"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/wireless-power-bank"
+  }
+}

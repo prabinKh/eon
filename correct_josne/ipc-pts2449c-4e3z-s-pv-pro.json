@@ -1,0 +1,186 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series",
+    "tab_title": "MultiVision",
+    "tab_id": "18207",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+      "MultiVision"
+    ]
+  },
+  "card_info": {
+    "product_id": "153463",
+    "product_name": "IPC-PTS2449C-4E3Z-S-PV-PRO",
+    "product_title": "4MP+2MP WizColor Vari-focal Network PT Camera",
+    "product_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/ip-pt-2-series/multivision/ipc-pts2449c-4e3z-s-pv-pro",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16245/ProductImage/1_0_01_07_16245_837255199_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-pts2449c-4e3z-s-pv-pro.html",
+  "detail": {
+    "title": "4MP+2MP WizColor Vari-focal Network PT Camera",
+    "model": "IPC-PTS2449C-4E3Z-S-PV-PRO",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PTS2449C-4E3Z-S-PV-PRO 4MP+2MP WizColor Vari-focal Network PT Camera Key Points • Captures a Large Area and Great Details at the Same Time • High-Quality Imaging with 4MP Resolution for Bullet Channel, 2MP for PTZ Channel • Supports 6x Hybrid Zoom for Better Image Quality at Long Distances • Real-Time Communication via Built-In Two-Way Talk • Supports Human and Vehicle Detection • Active Deterrence: Audible and Visual Alarms Can Be Triggered by Certain Events to Drive Away the Target • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16245/ProductImage/1_0_01_07_16245_837255199_crop_thumb.PNG",
+        "alt": "IPC-PTS2449C-4E3Z-S-PV-PRO_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16245/ProductImage/1_0_01_07_16245_837255198_crop_thumb.PNG",
+        "alt": "IPC-PTS2449C-4E3Z-S-PV-PRO_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Image Sensor": "Fixed Lens: 1/1.8\" CMOS PT Lens: 1/2.8\" CMOS",
+        "Pixel": "Fixed Lens: 4 MP PT Lens: 2 MP",
+        "Max. Resolution": "Fixed Lens: 2688 (H) × 1520 (V) PT Lens: 1920 (H) × 1080 (V)",
+        "ROM": "256 MB",
+        "RAM": "512 MB",
+        "Electronic Shutter Speed": "1 s–1/100,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Fixed Lens: 0.0005 lux@F1.0 (Color, 30 IRE) 0 lux (Illuminator on) PT Lens: 0.0005 lux@F1.0(Color, 30 IRE) 0 lux (Illuminator on)",
+        "Illumination Distance": "Fixed Lens: 2.8 mm PT Lens: 3.6 mm; 8.4 mm: Fixed Lens: 30 m (98.43 ft) (Warm light) PT Lens: 50 m (164.04 ft) (Warm light)",
+        "Illuminator On/Off Control": "Fixed Lens: Manual; Auto; Off PT Lens: Manual; Auto; Off",
+        "Illuminator Number": "Fixed Lens: 4 (Warm light) PT Lens: 4 (Warm light)",
+        "Focal Length": "Fixed Lens: 2.8 mm PT Lens: 3.6 mm; 8.4 mm",
+        "Max. Aperture": "Fixed Lens: F1.0 PT Lens: 3.6 mm: F1.0; 8.4 mm: F1.0",
+        "Field of View": "Fixed Lens: 2.8 mm PT Lens: 3.6 mm; 8.4 mm: Fixed Lens: H:112 °; V: 60°; D: 134° PT Lens: H: 81.5° – 15.1°; V: 44.3° – 8.4°; D: 96.3° – 17.88°",
+        "Hybrid Zoom": "6×",
+        "Close Focus Distance": "Fixed Lens: 2.8 mm PT Lens: 3.6 mm; 8.4 mm: Fixed Lens: 1.8 m (5.91 ft) PT Lens: 3.6 mm: 1.7 m (5.58 ft); 8.4 mm: 6 m (19.69 ft)",
+        "Iris Control": "Fixed Lens: Fixed Iris PT Lens: Fixed Iris",
+        "DORI Distance": "Lens",
+        "Fixed Lens: 2.8 mm PT Lens: 3.6 mm; 8.4 mm": "120 m ( 126.71 ft)",
+        "Pan/Tilt Range": "Fixed Lens: Pan: 0° to 285°; Tilt: -7° to +20° (manual) PT Lens: Pan: 0° to 350°; Tilt: 0° to +90° (Electric)",
+        "Manual Control Speed": "Pan: 40°/s; Tilt: 40°/s",
+        "Preset Speed": "Pan: 40°/s; Tilt: 40°/s",
+        "Preset": "80",
+        "Tour": "8 (up to 6 presets per tour; the stay duration for each preset is 60 to 360 sec and tour interval is 900 to 3,600 sec)",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset;Tour;home position(only supports setting on DMSS)",
+        "PTZ Locked": "YES",
+        "IVS": "Tripwire; Intrusion",
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes",
+        "Smart Tracking": "Auto Tracking Lite; Linkage Tracking Lite",
+        "SMD": "SMD 3.0",
+        "Light Warning": "Warm light warning; Flash duration: 5 s–30 s; Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 3 sound alarm. Sound can be set from 0%–100%. Play times can be set from 1-10.",
+        "Video Compression": "Smart H.265+;H.265;Smart H.264+;H.264B;H.264M;H.264H;MJPEG(Sub Stream 1)",
+        "Streaming Capability": "2 streams",
+        "Resolution": "Fixed Lens: 4M (2688 × 1520); 4M (2560× 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M(1280 ×960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240) PT Lens: 1080p (1920 × 1080); 1.3M (1280 ×960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Video Frame Rate": "Fixed Lens: Main stream: 4M/3M/1080p/1.3M/720p@(1–25/30 fps) Sub stream: D1/VGA/CIF@(1–25/30 fps) PT Lens: Main stream: 1080p/1.3M/720p@(1–25/30 fps) Sub stream: D1/VGA/CIF@(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "Fixed Lens: H264: 96 kbps–8192 kbps H265: 38 kbps–8192 kbps PT Lens: H264: 64 kbps–8192 kbps H265: 25 kbps–7424 kbps",
+        "Day/Night": "Fixed Lens: Color PT Lens: Color",
+        "BLC": "YES",
+        "WDR": "Fixed Lens: 120dB PT Lens: DWDR",
+        "HLC": "YES",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; Manual; Gain Priority",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Defog": "Fixed Lens: Electronic PT Lens: Electronic",
+        "Image Rotation": "180°",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "PCM; G711A; G711Mu",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "HTTP;HTTPS;TCP/IP;IPv4;RTSP;UDP;NTP;DHCP;DNS;DDNS;IPv6;SSL;QoS;FTP;ICMP;IGMP;ARP;RTCP;RTP;RTMP",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T);CGI;SDK",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "Micro SD card (Up to 512 GB); FTP",
+        "Browser": "IE 9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android",
+        "Abnormal Sound Alarm": "Yes",
+        "Certifications": "CE",
+        "Audio Input": "1 channel (built-in mic)",
+        "Audio Output": "1 channel (built-in speaker)",
+        "Alarm Linkage": "Capture; recording; audio; light",
+        "Alarm Event": "Motion/Tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Power Supply": "12 VDC, 1.5A ± 25% PoE（802.3af）",
+        "Power Consumption": "Basic: 3.9 W Max. (Basic power consumption + WDR + intelligence on + Warm light on + PTZ operation + Speaker): 12W",
+        "Power Adapter": "Optional",
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP66;TVS 2000 V lightning proof; surge protection; voltage transient protection",
+        "Product Dimensions": "191 mm × 130 mm × 216.6 mm (7.52\" × 5.12\" × 8.53\") (L × W × H)",
+        "Net Weight": "1.1 kg (2.43 lb)",
+        "Gross Weight": "1.7 kg (3.75 lb)",
+        "Remarks": "The precision of the presets for PTZ cameras might vary depending on different series. For scenes with high requirements on the precision, contact your local sales representative for assistance with selecting the model."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-IPC-PTS2449C-4E3Z-S-PV-PRO_S0_datasheet_20250829.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Dahua Dual-PTZ Camera Web 5.0_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88289/user_manual/Dahua_Dual-PTZ_Camera_Web_5.0_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Network PT Camera(PAW014)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0011139/202508/Network_PT_Camera(PAW014)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-16 #A&E Document IPC-PTS2449C-4E3Z-S-PV-PRO_A&E_20260918044753 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84603/a_e_document/1789678839175.docx"
+      },
+      {
+        "name": "2025-08-15 #Drawings IPC-PTS2449C-4E3Z-S-PV-PRO_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84603/drawings/IPC-PTS2449C-4E3Z-S-PV-PRO_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings IPC-PTS2449C-4E3Z-S-PV-PRO_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84603/drawings/IPC-PTS2449C-4E3Z-S-PV-PRO_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-08 #Firmware DH_SD-Hugo-HB_MultiLang_PN_Stream1_Dual_V3.000.0000000.10.R.260206 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84603/firmware/DH_SD-Hugo-HB_MultiLang_PN_Stream1_Dual_V3.000.0000000.10.R.260206.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/ip-pt-2-series/multivision/ipc-pts2449c-4e3z-s-pv-pro"
+  }
+}

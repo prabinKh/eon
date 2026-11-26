@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM810 Pro RGB Wireless Gaming Mouse - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923359011",
+    "product_name": "GM810 Pro RGB Wireless Gaming Mouse - White",
+    "product_title": "GM810 Pro RGB Wireless Gaming Mouse - White",
+    "product_url": "https://antesports.com/products/gm810-pro-wireless-mouse-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/10_621eaf95-57b9-4c5b-bf8a-9c6b1b4dc2f9.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm810-pro-wireless-mouse-white.html",
+  "detail": {
+    "title": "GM810 Pro RGB Wireless Gaming Mouse - White",
+    "model": "AEPP0245",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM810 Pro delivers complete freedom from cables with wireless performance that matches high-end wired mice for reaction time and responsiveness. Its magnetic wireless charging dock features vibrant RGB underglow, letting you simply place the mouse down to begin charging without fumbling for cables, and a switch to wired mode is available anytime for zero-latency competitive play. A sleek matte finish contrasts with a bright RGB rim around the base, customizable in effect, colour and brightness through dedicated software, with logo colours that can even change based on the active DPI setting. Ergonomically shaped with anti-slip flanks, it suits palm, claw or fingertip grips comfortably, working across PC as well as PS4/PS5 consoles.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/10_621eaf95-57b9-4c5b-bf8a-9c6b1b4dc2f9.jpg",
+        "alt": "GM810 Pro RGB Wireless Gaming Mouse - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wireless + Wired Switchable",
+        "Charging": "Magnetic RGB Dock",
+        "Lighting": "Customizable RGB Underglow",
+        "Compatibility": "PC, PS4, PS5",
+        "Color": "White",
+        "CONNECTIVITY": "Wireless + Wired Switchable",
+        "CHARGING": "Magnetic RGB Dock",
+        "LIGHTING": "Customizable RGB Underglow",
+        "COMPATIBILITY": "PC, PS4, PS5",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹749.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0245"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm810-pro-wireless-mouse-white"
+  }
+}

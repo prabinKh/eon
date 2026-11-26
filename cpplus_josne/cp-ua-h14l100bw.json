@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "Housing",
+    "category_url": "https://cpplusworld.com/products/housing",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/housing",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "89",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Housing",
+      "CP-UA-H14L100BW"
+    ]
+  },
+  "card_info": {
+    "product_id": "467",
+    "product_name": "CP-UA-H14L100BW",
+    "product_title": "CP-UA-H14L100BW-14” Full-Function Housing\r\n | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-ua-h14l100bw",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/2fb716b3-19d5-44bd-b3c2-5df383beda5c.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-h14l100bw.html",
+  "detail": {
+    "title": "CP-UA-H14L100BW-14” Full-Function Housing\r\n | Cp Plus | Cpplusworld.com",
+    "model": "CP-UA-H14L100BW",
+    "brand": "CP Plus",
+    "overview": "14” Full-Function Housing",
+    "features": [
+      "IP66, Housing",
+      "Water-proof coating film",
+      "Neat & Integrated design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2fb716b3-19d5-44bd-b3c2-5df383beda5c.jpg",
+        "alt": "CP-UA-H14L100BW - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b5b9bcc7-5290-489a-b8ae-ddc060dea727.jpg",
+        "alt": "CP-UA-H14L100BW - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "Aluminum (case) & PC (others)",
+        "IR": "50 & 100m",
+        "Operating Temperature": "Set: -40ºC ~ 60ºC Heater: ON: 5±5ºC/ OFF: 15±5ºC, Cooler: ON: 37±5ºC/ OFF: 20±5ºC/ON: 5±5ºC/OFF: 15±5ºC",
+        "Dimension (WHD)": "404mm(L) x164mm(W) x175mm(H)",
+        "Humidity": "≤90% RH",
+        "Power Source": "AC24V 5A",
+        "Weatherproof Standard": "IP66",
+        "Net Weight(g)": "3.0Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-H14L100BW.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-h14l100bw"
+  }
+}

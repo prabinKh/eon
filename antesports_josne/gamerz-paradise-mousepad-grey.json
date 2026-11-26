@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Gamerz Paradise Gaming Mouse Pad - Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923948835",
+    "product_name": "Gamerz Paradise Gaming Mouse Pad - Grey",
+    "product_title": "Gamerz Paradise Gaming Mouse Pad - Grey",
+    "product_url": "https://antesports.com/products/gamerz-paradise-mousepad-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/26_e8886ada-92be-4e51-a4be-c8939c24cc88.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gamerz-paradise-mousepad-grey.html",
+  "detail": {
+    "title": "Gamerz Paradise Gaming Mouse Pad - Grey",
+    "model": "AEPP0306",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Gamerz Paradise mouse pad brings a distinctive gaming-themed design to any desk setup, with a smooth surface built for consistent, precise mouse tracking across both optical and laser sensors. Its non-slip base keeps the pad steady during fast in-game movements, while stitched edges guard against fraying through daily use. A practical, stylish choice for gamers who want reliable performance alongside personality on their desk.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/26_e8886ada-92be-4e51-a4be-c8939c24cc88.png",
+        "alt": "Gamerz Paradise Gaming Mouse Pad - Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Design": "Gamerz Paradise Print",
+        "Base": "Non-Slip",
+        "Edges": "Stitched",
+        "Color": "Grey",
+        "DESIGN": "Gamerz Paradise Print",
+        "BASE": "Non-Slip",
+        "EDGES": "Stitched",
+        "COLOR": "Grey",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹1,299.00",
+        "SKU": "AEPP0306"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gamerz-paradise-mousepad-grey"
+  }
+}

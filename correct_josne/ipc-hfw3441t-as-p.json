@@ -1,0 +1,208 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 3 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series",
+    "tab_title": "IR",
+    "tab_id": "18065",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 3 Series",
+      "IR"
+    ]
+  },
+  "card_info": {
+    "product_id": "106207",
+    "product_name": "IPC-HFW3441T-AS-P",
+    "product_title": "4MP Wide Angle Fixed Bullet WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/ir/ipc-hfw3441t-as-p",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_400301299-Black_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw3441t-as-p.html",
+  "detail": {
+    "title": "4MP Wide Angle Fixed Bullet WizSense Network Camera",
+    "model": "IPC-HFW3441T-AS-P",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW3441T-AS-P 4MP Wide Angle Fixed Bullet WizSense Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • 3 Streams for Diverse Application Needs • Enhanced Deep Learning-Based Human and Vehicle Classification • Electronic Enlarge and Track the Targets of Intelligent Alarms • Adaptive Bitstream Control Strategies for Storage Cost Reduction • Built-in Mic for Real-Time Audio Security • Supports Max. xxxG Micro SD card • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_400301299-Black_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_330791349_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_330791353_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_View_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_330791348_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_400301301-Black_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_400301305-Black_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_Rendergraph_Lot-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38046/ProductImage/1_0_01_04_38046_400301303-Black_crop_thumb.png",
+        "alt": "IPC-HFW3441T-AS-P_Rendergraph_Left-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 192,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "ROM": "128 MB",
+        "RAM": "512 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.01 lux@F2.0 (Color,30 IRE) 0.001 lux@F2.0 (B/W,30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "Up to 20 m (65.62 ft) (IR LED)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "2 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.1 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "LDC is disabled: Horizontal: 180°; Vertical: 78°; Diagonal: 180° LDC is enabled (by default): Horizontal: 170°; Vertical: 75°; Diagonal: 175°",
+        "Close Focus Distance": "0.6 m (1.97 ft)",
+        "DORI Distance": "Lens",
+        "2.1 mm": "52.0 m (170.60 ft)",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of vehicle and human)",
+        "Quick Pick": "With AI NVR, quickly pick up the human/vehicle targets that users are interested in from SMD events",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "AI Coding": "AI H.265; AI H.264",
+        "Video Frame Rate": "Main stream: 2880 × 1620 @(1–20 fps )/2688 × 1520 @(1–25/30 fps ) sub stream: 704 × 576 @ (1–25 fps)/704 × 480 @ (1–30 fps) third stream:1920 × 1080 @ (1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "3 streams",
+        "Resolution": "5M (2880 × 1620); 4M (2688 × 1520/2560 × 1440); 3M (2048 × 1536); 2304 × 296 ; 1080p(1920 × 1080); 1.3M (1280 × 960); 720p(1280×720); D1 (704× 576/704×480); VGA(640 × 480); CIF(352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 3 kbps–8192 kbps; H.265: 3 kbps–8192 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120dB",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto; Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Defog": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688×1520 resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726; G.723",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; scene changing; audio detection; voltage detection; external alarm; SMD; security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Cyber Security": "Video encryption; configuration encryption; Digest; WSSE; account lockout; security logs; generation and importing of X.509 certification; HTTPS; trusted boot; trusted execution; trusted upgrade",
+        "Network Protocol": "IPv4; IPv6; HTTP;TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; SNMP; P2P",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T); CGI; P2P",
+        "User/Host": "20 (Total bandwidth: 64 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE Chrome Firefox",
+        "Management Software": "SmartPSS Lite; DSS; DMSS",
+        "Mobile Client": "iOS; Android",
+        "Certifications": "CE-LVD:EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; FCC: 47 CFR FCC Part 15, Subpart B; UL/CUL: UL62368-1 & CAN/CSA C22.2 No. 62368-1-14",
+        "Audio Input": "1 channel (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "1 channel in: 5 mA 3–5V DC",
+        "Alarm Output": "1 channel out: 1,000 mA 30V DC/500mA 50V DC",
+        "Power Supply": "12 VDC/PoE",
+        "Power Consumption": "Basic: 3.1 W (12 V DC); 5.3 W (PoE) Max. (H.265+main stream/IR intensity+IR on): 4 W (12V DC); 6.5 W (PoE)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)/Less than 95% RH",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Protection": "IP67",
+        "Casing": "Metal",
+        "Product Dimensions": "249.3 mm × 90.7 mm × 90.4 mm (9.81\" × 3.57\" × 3.56\") (L × W × H)",
+        "Net Weight": "820 g (1.81 lb)",
+        "Gross Weight": "1090 g (2.40 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HFW3441T-AS-P_S0_datasheet_20240104.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54257/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54267/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-04-07 #A&E Document IPC-HFW3441T-AS-P_A&E_20260917193611 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45417/a_e_document/1789645330279.docx"
+      },
+      {
+        "name": "2022-03-29 #Drawings IPC-HFW3441T-AS-P_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45417/drawings/IPC-HFW3441T-AS-P_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-03-29 #Drawings IPC-HFW3441T-AS-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45417/drawings/IPC-HFW3441T-AS-P_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX3XXX-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71617/firmware/DH_IPC-HX3XXX-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/ir/ipc-hfw3441t-as-p"
+  }
+}

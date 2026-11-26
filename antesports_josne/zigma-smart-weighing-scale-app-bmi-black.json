@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Zigma Smart Weighing Scale with App & BMI Monitor - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816498979",
+    "product_name": "Zigma Smart Weighing Scale with App & BMI Monitor - Black",
+    "product_title": "Zigma Smart Weighing Scale with App & BMI Monitor - Black",
+    "product_url": "https://antesports.com/products/zigma-smart-weighing-scale-app-bmi-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/68.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/zigma-smart-weighing-scale-app-bmi-black.html",
+  "detail": {
+    "title": "Zigma Smart Weighing Scale with App & BMI Monitor - Black",
+    "model": "ANTR0002",
+    "brand": "Ant Esports",
+    "overview": "The Ant Zigma is a Bluetooth-enabled smart weighing scale that tracks 12 key body metrics through a companion app for Android and iOS, going well beyond a simple number on the display. Alongside weight, it measures BMI, body fat, muscle mass and more, syncing automatically once the scale reconnects to your phone so you can step on and go without needing your device nearby. Up to eight user profiles let the whole family share one scale while keeping their progress separate, and a large, easy-to-read display shows results clearly even in low bathroom lighting. Powered by 2 AAA batteries with auto on/off, it's a practical everyday tool for tracking weight and body composition trends over time.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/68.png",
+        "alt": "Zigma Smart Weighing Scale with App & BMI Monitor - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth, App Enabled",
+        "Metrics Tracked": "12 Body Metrics",
+        "Display": "Large Display",
+        "User Profiles": "Up to 8",
+        "Power": "2 x AAA Batteries (Included)",
+        "Color": "Black",
+        "CONNECTIVITY": "Bluetooth, App Enabled",
+        "METRICS TRACKED": "12 Body Metrics",
+        "DISPLAY": "Large Display",
+        "USER PROFILES": "Up to 8",
+        "POWER": "2 x AAA Batteries (Included)",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹499.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "ANTR0002"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/zigma-smart-weighing-scale-app-bmi-black"
+  }
+}

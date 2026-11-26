@@ -1,0 +1,211 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 3 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series",
+    "tab_title": "Smart Dual Light",
+    "tab_id": "18059",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 3 Series",
+      "Smart Dual Light"
+    ]
+  },
+  "card_info": {
+    "product_id": "147090",
+    "product_name": "IPC-HFW3649T-ZAS-IL",
+    "product_title": "6MP Smart Dual Light Vari-focal Bullet WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/smart-dual-light/ipc-hfw3649t-zas-il",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_582697619-Black_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw3649t-zas-il.html",
+  "detail": {
+    "title": "6MP Smart Dual Light Vari-focal Bullet WizSense Network Camera",
+    "model": "IPC-HFW3649T-ZAS-IL",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW3649T-ZAS-IL 6MP Smart Dual Light Vari-focal Bullet WizSense Network Camera Key Points • High-Quality Imaging with 6 MP Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • Enhanced Deep Learning-Based Human and Vehicle Classification • Xinghan Vision Models: Comprehensive Enhancement of Target Detection, Imaging • AcuPick Enables Fast and Precise Human&Vehicle Search • Built-in Mic for Real-Time Audio Security • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_582697619-Black_crop_thumb.png",
+        "alt": "IPC-HFW3649T-ZAS-IL_Rendergraph_45Left-logo-Black&White-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_555576299_crop_thumb.png",
+        "alt": "IPC-HFW3649T-ZAS-IL_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_555576298_crop_thumb.png",
+        "alt": "IPC-HFW3649T-ZAS-IL_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_555576325-Black_crop_thumb.png",
+        "alt": "IPC-HFW3649T-ZAS-IL_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_582702696-Black_crop_thumb.png",
+        "alt": "IPC-HFW3649T-ZAS-IL_Rendergraph_Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_44984/ProductImage/1_0_01_04_44984_582702695-Black_crop_thumb.png",
+        "alt": "IPC-HFW3649T-ZAS-IL_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 197,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "85.3 m( 279.86 ft)",
+        "T": "280.0 m( 918.64 ft)"
+      },
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "AcuPick": {},
+      "AI SSA": {},
+      "Face Detection (Full Image)": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Dual Power Backup": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82566/datasheet/DH-IPC-HFW3649T-ZAS-IL_datasheet_20260923_English.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52747/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87720/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52747/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87720/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2024-10-30 #A&E Document IPC-HFW3649T-ZAS-IL_A&E_20260921113218 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82566/a_e_document/1789962057782.docx"
+      },
+      {
+        "name": "2024-10-27 #Drawings IPC-HFW3649T-ZAS-IL_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88197/drawings/1_0_01_04_48919_691163293.pdf"
+      },
+      {
+        "name": "2024-11-03 #Drawings IPC-HFW3649T-ZAS-IL_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88197/drawings/1_0_01_04_48919_699652006.pdf"
+      },
+      {
+        "name": "2026-09-22 #Firmware DH_IPC-HX3XXX-Goethe_MultiLang_PN_Stream3_V3.140.0000000.38.R.260911 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87602/firmware/DH_IPC-HX3XXX-Goethe_MultiLang_PN_Stream3_V3.140.0000000.38.R.260911.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/smart-dual-light/ipc-hfw3649t-zas-il"
+  }
+}

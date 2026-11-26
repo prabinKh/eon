@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "60 Litre Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/60-litre-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "60 Litre Air Cooler",
+    "tab_id": "9135066906842",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "60 Litre Air Cooler",
+      "Intex ThunderCool HC 60 Desert Air Cooler | 60 Litres Capacity"
+    ]
+  },
+  "card_info": {
+    "product_id": "9135066906842",
+    "product_name": "Intex ThunderCool HC 60 Desert Air Cooler | 60 Litres Capacity",
+    "product_title": "Intex ThunderCool HC 60 Desert Air Cooler | 60 Litres Capacity",
+    "product_url": "https://www.intex.in/products/intex-thundercool-hc-60-desert-air-cooler-60l-capacity",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/12-THUNDERCOOL-HC-60.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 14490.0,
+      "display": "₹14,490.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-thundercool-hc-60-desert-air-cooler-60l-capacity.html",
+  "detail": {
+    "title": "Intex ThunderCool HC 60 Desert Air Cooler | 60 Litres Capacity",
+    "model": "ThunderCool HC 60",
+    "brand": "Intex",
+    "overview": "The Intex ThunderCool HC 60 Desert Air Cooler is designed for efficient and reliable cooling in small to medium-sized rooms. With a 60-litre water tank, it delivers consistent cooling performance while remaining energy efficient. The cooler features 4-way air deflection to evenly distribute cool air across the room, ensuring all-round comfort. Equipped with a high-performance double ball bearing motor and 3-speed airflow control, the HC 60 allows customized cooling based on your comfort needs. Its inverter-compatible design ensures uninterrupted cooling during power cuts, while the shock and rust-proof body enhances durability. Easy mobility is ensured with 360° moving wheels, making it a practical choice for everyday summer cooling.",
+    "features": [
+      "Fan Blade Size: 16 inches"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/12-THUNDERCOOL-HC-60.jpg",
+        "alt": "Intex ThunderCool HC 60 Desert Air Cooler | 60 Litres Capacity",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "Desert Air Cooler",
+        "Model": "ThunderCool HC 60",
+        "Water Tank Capacity": "60 Litres",
+        "Room Size": "Small to Medium Rooms",
+        "Air Deflection": "4-Way Air Deflection",
+        "Cooling Pads": "3-Side Honeycomb Pads",
+        "Motor Type": "Double Ball Bearing Motor",
+        "Speed Control": "3-Speed Control",
+        "Inverter Compatibility": "Yes",
+        "Body Type": "Shock & Rust-Proof",
+        "Mobility": "360° Moving Wheels",
+        "Additional Features": "Water Level Indicator, Voltage Fluctuation Protection"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-thundercool-hc-60-desert-air-cooler-60l-capacity"
+  }
+}

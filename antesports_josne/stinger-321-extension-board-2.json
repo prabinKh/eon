@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "Stinger 321 Extension Board - 3 AC + 2 USB + 1 Fast Type-C, 10A"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348822167843",
+    "product_name": "Stinger 321 Extension Board - 3 AC + 2 USB + 1 Fast Type-C, 10A",
+    "product_title": "Stinger 321 Extension Board - 3 AC + 2 USB + 1 Fast Type-C, 10A",
+    "product_url": "https://antesports.com/products/stinger-321-extension-board-2",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/31_0757b75d-af5b-4c87-8999-504aef935400.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/stinger-321-extension-board-2.html",
+  "detail": {
+    "title": "Stinger 321 Extension Board - 3 AC + 2 USB + 1 Fast Type-C, 10A",
+    "model": "ANTR0096",
+    "brand": "Ant Esports",
+    "overview": "The Ant Stinger 321 is a compact extension board with 3 AC sockets, 2 USB ports (2.1A) and 1 fast-charging Type-C port, built for everyday home and office power needs in a 10A-rated package. A one-key master switch lets you cut power to the whole strip at once, while built-in surge protection guards connected devices from voltage spikes. Overload and child safety protection add extra peace of mind for households with young children, making the Stinger 321 a practical, safety-focused multi-plug power strip for everyday charging and appliance use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/31_0757b75d-af5b-4c87-8999-504aef935400.jpg",
+        "alt": "Stinger 321 Extension Board - 3 AC + 2 USB + 1 Fast Type-C, 10A - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Sockets": "3 AC",
+        "USB Ports": "2 x USB (2.1A) + 1 x Fast Type-C",
+        "Power Rating": "10A",
+        "Switch": "One-Key Master Switch",
+        "Protection": "Surge, Overload, Child Safety",
+        "SOCKETS": "3 AC",
+        "USB PORTS": "2 x USB (2.1A) + 1 x Fast Type-C",
+        "POWER RATING": "10A",
+        "SWITCH": "One-Key Master Switch",
+        "PROTECTION": "Surge, Overload, Child Safety",
+        "Offer Price (INR)": "₹349.00",
+        "MRP (INR)": "₹1,499.00",
+        "SKU": "ANTR0096"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/stinger-321-extension-board-2"
+  }
+}

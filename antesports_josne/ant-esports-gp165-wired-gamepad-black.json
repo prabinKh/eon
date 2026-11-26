@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP165 Wired Gamepad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315419484451",
+    "product_name": "GP165 Wired Gamepad - Black",
+    "product_title": "GP165 Wired Gamepad - Black",
+    "product_url": "https://antesports.com/products/ant-esports-gp165-wired-gamepad-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_9bc7b360-c977-4b21-a755-8ef1b010a189.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-gp165-wired-gamepad-black.html",
+  "detail": {
+    "title": "GP165 Wired Gamepad - Black",
+    "model": "AEPP0236",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP165 Wired Gamepad - Black is a premium gaming gamepad designed to deliver excellent performance for gaming, entertainment, and everyday play. Featuring Wired connectivity, Analog joysticks, and Dual Vibration feedback, it ensures reliability, durability, and compatibility with modern platforms. Whether you are upgrading your controller or building a new gaming setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and console or PC enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_9bc7b360-c977-4b21-a755-8ef1b010a189.png",
+        "alt": "GP165 Wired Gamepad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_5b2ebadc-5eac-4b13-8938-18710671c728.png",
+        "alt": "GP165 Wired Gamepad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_228f1fdd-293a-418b-9dce-e53c41b47c08.png",
+        "alt": "GP165 Wired Gamepad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Layout": "Asymmetrical (XBOX)",
+        "Joystick Type": "Analog",
+        "Connectivity": "Wired",
+        "Vibrations": "Yes, Dual Vibration",
+        "Triggers": "Hall-Effect (Magnetic)",
+        "Lighting Type": "NA",
+        "Connector Type": "USB-A",
+        "Software Support": "No",
+        "Compatibility": "Windows, PS3, Android",
+        "LAYOUT": "Asymmetrical (XBOX)",
+        "JOYSTICK TYPE": "Analog",
+        "CONNECTIVITY": "Wired",
+        "VIBRATIONS": "Yes, Dual Vibration",
+        "TRIGGERS": "Hall-Effect (Magnetic)",
+        "LIGHTING TYPE": "NA",
+        "CONNECTOR TYPE": "USB-A",
+        "SOFTWARE SUPPORT": "No",
+        "COMPATIBILITY": "Windows, PS3, Android",
+        "Offer Price (INR)": "₹1,049.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0236"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-gp165-wired-gamepad-black"
+  }
+}

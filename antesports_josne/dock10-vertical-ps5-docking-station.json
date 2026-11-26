@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "PS5 DOCK10 Vertical Docking Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351443968291",
+    "product_name": "PS5 DOCK10 Vertical Docking Station",
+    "product_title": "PS5 DOCK10 Vertical Docking Station",
+    "product_url": "https://antesports.com/products/dock10-vertical-ps5-docking-station",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/dock10-vertical-ps5-docking-station.html",
+  "detail": {
+    "title": "PS5 DOCK10 Vertical Docking Station",
+    "model": "AEPP0350",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports DOCK10 is an all-in-one vertical docking station for PS5 Standard, Slim and Pro consoles, combining a secure stand, active cooling and dual controller charging in one unit. A 3-speed turbo fan spinning up to 5000 RPM keeps the console cool during long sessions, while the integrated dock fully charges two DualSense controllers in about 3 hours. Fourteen RGB lighting modes add a striking visual centerpiece to any setup, and dedicated storage for 15 game discs plus a headset hook keeps the whole gaming station organized and clutter-free. Supporting both Disc and Digital editions, the DOCK10 is a genuinely complete hub for anyone building out a serious PS5 setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15.jpg",
+        "alt": "PS5 DOCK10 Vertical Docking Station - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Cooling": "3-Speed Turbo Fan, Up to 5000 RPM",
+        "Controller Charging": "2 Simultaneous, ~3 Hours",
+        "Lighting": "14 RGB Modes",
+        "Game Storage": "15 Slots",
+        "Extras": "Headset Hook",
+        "Compatibility": "PS5 Standard, Slim, Pro (Disc & Digital)",
+        "COOLING": "3-Speed Turbo Fan, Up to 5000 RPM",
+        "CONTROLLER CHARGING": "2 Simultaneous, ~3 Hours",
+        "LIGHTING": "14 RGB Modes",
+        "GAME STORAGE": "15 Slots",
+        "EXTRAS": "Headset Hook",
+        "COMPATIBILITY": "PS5 Standard, Slim, Pro (Disc & Digital)",
+        "Offer Price (INR)": "₹1,849.00",
+        "MRP (INR)": "₹4,499.00",
+        "SKU": "AEPP0350"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/dock10-vertical-ps5-docking-station"
+  }
+}

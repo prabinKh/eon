@@ -1,0 +1,192 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Picoo Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series",
+    "tab_title": "Picoo Series",
+    "tab_id": "18160",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Picoo Series",
+      "Picoo Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "143261",
+    "product_name": "P5B-PV",
+    "product_title": "5MP Outdoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/p5b-pv",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240312/1_0_01_04_43098_54131424151_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/p5b-pv.html",
+  "detail": {
+    "title": "5MP Outdoor Fixed-focal Wi-Fi Pan & Tilt Network Camera",
+    "model": "P5B-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite P5B-PV 5MP Outdoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Key Points • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • Fast Pairing with Bluetooth • One Camera for 360° View Without Blind Spots • Guards the Places that Matter to You Regularly • AI Human & Vehicle Detection • Built-in Mic & Speaker, Support Two-way Talk • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • See in Color Only When It Counts —Smart Dual Light Gives Discreet Monitoring That Brightens on Motion Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240312/1_0_01_04_43098_54131424151_thumb.png",
+        "alt": "P5B-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43098/ProductImage/1_0_01_04_43098_543142417_crop_thumb.png",
+        "alt": "P5B-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43098/ProductImage/1_0_01_04_43098_543142312_crop_thumb.png",
+        "alt": "P5B-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43098/ProductImage/1_0_01_04_43098_543142418_crop_thumb.png",
+        "alt": "P5B-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43098/ProductImage/1_0_01_04_43098_543142421_crop_thumb.png",
+        "alt": "P5B-PV_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240321/P3B-PV2_thumb.png",
+        "alt": "P5B-PV_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR); Up to 30 m (98.43 ft) (Warm Light)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "2 (IR LED); 2 (Warm light)",
+        "Angle Adjustment": "Pan: 0°–355°; Tilt: 0°–90°"
+      },
+      "Lens": {
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 78°; V: 40°; D: 93°"
+      },
+      "Intelligence": {
+        "Vehicle Detection": "Yes",
+        "Human Detection": "Yes"
+      },
+      "Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 2880 × 1620@(1-25/30 fps) sub stream: 640 × 360@(1-25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Resolution": "5M (2880 × 1620); nHD (640 × 360)",
+        "Video Bit Rate": "H.265: 80 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/180°"
+      },
+      "Audio": {
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.412-2.472 GHz, 2.4 G",
+        "Storage": "Micro SD card (up to 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "Certification": {
+        "Certifications": "CE"
+      },
+      "Power": {
+        "Power Supply": "12 VDC, 1 A",
+        "Power Consumption": "Basic: 1.68 W Max.: 4.56 W (H.265+warm light on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–20 °C to +50 °C (–4 °F to +122 °F)",
+        "Operating Humidity": "≤95%"
+      },
+      "Structure": {
+        "Casing Material": "Plastic",
+        "Product Dimensions": "116 mm × 138 mm × 139 mm (4.57\" × 5.43\" × 5.47\") (L × W × H)",
+        "Net Weight": "425 g (0.94 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/P5B-PV_S0_datasheet_20240425.pdf"
+      },
+      {
+        "name": "2025-12-03 #User Manual Dahua Pan and Tilt Network Camera_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009102/3482709/Dahua_Pan_and_Tilt_Network_Camera_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-12-03 #User Manual Pan and Tilt Network Camera Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009102/3482711/Pan_and_Tilt_Network_Camera_Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-12-03 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88168/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2025-12-03 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2025-12-03 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-12-03 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2024-03-08 #A&E Document P5B-PV_A&E_20260918005458 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80551/a_e_document/1789664447277.docx"
+      },
+      {
+        "name": "2024-02-04 #Drawings P5B-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80541/drawings/P3B-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-02-04 #Drawings P5B-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80541/drawings/P3B-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-02 #Firmware DH_IPC-WPT-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81571/firmware/DH_IPC-WPT-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/picoo-series/p5b-pv"
+  }
+}

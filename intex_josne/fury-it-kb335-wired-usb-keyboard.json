@@ -1,0 +1,128 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/keyboard",
+    "series": "Keyboard Series",
+    "series_url": "https://www.intex.in/collections/keyboard-series",
+    "tab_title": "Keyboard",
+    "tab_id": "8062979932378",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Keyboard",
+      "Fury (IT-KB335) Wired USB Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "8062979932378",
+    "product_name": "Fury (IT-KB335) Wired USB Keyboard",
+    "product_title": "Fury (IT-KB335) Wired USB Keyboard",
+    "product_url": "https://www.intex.in/products/fury-it-kb335-wired-usb-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 599.0,
+      "display": "₹599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/fury-it-kb335-wired-usb-keyboard.html",
+  "detail": {
+    "title": "Fury (IT-KB335) Wired USB Keyboard",
+    "model": "1147-3102-009",
+    "brand": "Intex",
+    "overview": "This keyboard sets a new standard for durability and reliability with UV-coated keys and an impressively long Key Life. Its effortless USB plug-and-play setup ensures seamless integration with your device, allowing you to dive straight into productivity. Elevate your work efficiency with the precision and speed of the Fury Wired Keyboard, with its smooth, user-friendly design and low-profile style.",
+    "features": [
+      "Splash Proof Technology",
+      "3 Zone Full-Key Membrane Keyboard",
+      "50 Million Clicks Key Life",
+      "Effortless Smooth Typing",
+      "Plug & Play Setup",
+      "UV Coated Keys",
+      "Ergonomic Design",
+      "USB Interface"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_1.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_2.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_3.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_4.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_5.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_6.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FuryKeyboard_PDP_7.jpg",
+        "alt": "Fury (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Splash Proof Technology",
+        "Feature 2": "3 Zone Full-Key Membrane Keyboard",
+        "Feature 3": "50 Million Clicks Key Life",
+        "Feature 4": "Effortless Smooth Typing",
+        "Feature 5": "Plug & Play Setup",
+        "Feature 6": "UV Coated Keys",
+        "Feature 7": "Ergonomic Design",
+        "Feature 8": "USB Interface"
+      },
+      "General": {
+        "Model": "1147-3102-009"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Fury_Keyboard_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/fury-it-kb335-wired-usb-keyboard"
+  }
+}

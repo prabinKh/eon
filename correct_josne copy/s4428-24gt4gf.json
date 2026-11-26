@@ -1,0 +1,200 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Aggregation Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "series": "Aggregation Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "tab_title": "Aggregation Switches",
+    "tab_id": "691",
+    "breadcrumbs": [
+      "Transmission",
+      "Aggregation Switches",
+      "Aggregation Switches",
+      "Aggregation Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "155869",
+    "product_name": "S4428-24GT4GF",
+    "product_title": "28-Port Managed Desktop Gigabit Switch",
+    "product_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches/s4428-24gt4gf",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/image/1_0_01_20_12182_908985090_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s4428-24gt4gf.html",
+  "detail": {
+    "title": "28-Port Managed Desktop Gigabit Switch",
+    "model": "S4428-24GT4GF",
+    "brand": "Dahua",
+    "overview": "New Favourite S4428-24GT4GF 28-Port Managed Desktop Gigabit Switch Key Points 1. Support Smart Insight 2. Support DoLynk Cloud Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/image/1_0_01_20_12182_908985091_crop_thumb.PNG",
+        "alt": "S4428-24GT4GF_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/image/1_0_01_20_12182_908985090_crop_thumb.PNG",
+        "alt": "S4428-24GT4GF_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/image/1_0_01_20_12182_908985092_crop_thumb.PNG",
+        "alt": "S4428-24GT4GF_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Layer": {},
+      "Switching Capacity": {},
+      "Packet Forwarding Rate": {},
+      "Description of Function Slots": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Power Supply": {},
+      "Included Power Adapter": {},
+      "Power Consumption": {},
+      "Statics Protection": {},
+      "Lightning Protection": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Casing Material": {},
+      "Installation": {},
+      "Certifications": {},
+      "Debugging": {},
+      "Reset Button": {},
+      "Packet Buffer Size": {},
+      "Jumbo Frame": {},
+      "MAC Table Size": {},
+      "Total Static MAC Addresses": {},
+      "Flash": {},
+      "RAM": {},
+      "Communication Standard": {},
+      "Aggregation Group": {},
+      "Management VLAN": {},
+      "VLAN Number": {},
+      "VLAN Interface": {},
+      "Static Routes": {},
+      "IPv4 Routes": {},
+      "Dynamic ARP": {},
+      "Static ARP": {},
+      "QoS Queue": {},
+      "Number of IPv4 ACL": {},
+      "Traffic Limit Granularity": {},
+      "ACL Traffic Limit Granularity": {},
+      "LLDP": {},
+      "Ethernet Loop Protection": {},
+      "VLAN Function": {},
+      "Link Aggregation": {},
+      "Port Feature": {},
+      "Mirror": {},
+      "Multicast": {},
+      "Reliability": {},
+      "Routing": {},
+      "DHCP Function": {},
+      "Security": {},
+      "QoS/ACL": {},
+      "Equipment Management": {},
+      "Packing List": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/datasheet/DH-S4428-24GT4GF_S0_datasheet_20260529.pdf"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua DoLynk Care (Ethernet Switch)_Quick Configuration Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_DoLynk_Care_(Ethernet_Switch)_Quick_Configuration_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Ethernet Switch_Hardware Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_Hardware_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Managed Aggregation Switch_Web Operation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Web_Operation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Managed Aggregation Switch_Command Reference Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Command_Reference_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Ethernet Switch (Managed Desktop Switch)_Quick Start Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Ethernet_Switch_(Managed_Desktop_Switch)_Quick_Start_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Managed Aggregation Switch_Command Reference Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Command_Reference_Manual_V1.0.0.zip"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Ethernet Switch_Hardware Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_Ethernet_Switch_Hardware_Installation_Guide_V1.0.0.zip"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua DoLynk Care (Ethernet Switch)_Quick Configuration Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88439/user_manual/Dahua_DoLynk_Care_(Ethernet_Switch)_Quick_Configuration_Manual_V1.1.0.zip"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Managed Aggregation Switch_Web Operation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Managed_Aggregation_Switch_Web_Operation_Manual_V1.0.1.zip"
+      },
+      {
+        "name": "2026-09-23 #User Manual Dahua Ethernet Switch (Managed Desktop Switch)_Quick Start Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/user_manual/Dahua_Ethernet_Switch_(Managed_Desktop_Switch)_Quick_Start_Guide_V1.1.0.zip"
+      },
+      {
+        "name": "2026-04-20 #A&E Document S4428-24GT4GF_A&E_20260923152642 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/a_e_document/1790149848930.docx"
+      },
+      {
+        "name": "2026-04-09 #Drawings S4428-24GT4GF_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/drawings/1_0_01_20_12182_919585424.pdf"
+      },
+      {
+        "name": "2026-04-09 #Drawings S4428-24GT4GF_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/drawings/1_0_01_20_12182_919581261.pdf"
+      },
+      {
+        "name": "2026-04-09 #Drawings S4428-24GT4GF_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/drawings/1_0_01_20_12182_919581258.pdf"
+      },
+      {
+        "name": "2026-05-22 #Drawings S4428-24GT4GF_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/drawings/1_0_01_20_12182_919581255.pdf"
+      },
+      {
+        "name": "2026-07-04 #Firmware DH_TS-S4428-24GT4GF-Talos_Eng_Local_V1.000.0000000.7.R.260618 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88440/firmware/DH_TS-S4428-24GT4GF-Talos_Eng_Local_V1.000.0000000.7.R.260618.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches/s4428-24gt4gf"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Managed Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/managed-switch",
+    "tab_title": "Managed Switch",
+    "tab_id": "16417",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Managed Switch",
+      "Managed Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "129857",
+    "product_name": "SF4018P-C",
+    "product_title": "16-port 100 Mbps + 2-port Gigabit Managed PoE Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sf4018p-c",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11286/ProductImage/1_0_01_20_11286_424399244_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sf4018p-c.html",
+  "detail": {
+    "title": "16-port 100 Mbps + 2-port Gigabit Managed PoE Switch",
+    "model": "SF4018P-C",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11286/ProductImage/1_0_01_20_11286_424399244_thumb.png",
+        "alt": "SF4018P-C",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sf4018p-c"
+  }
+}

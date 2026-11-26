@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "2.4 MP",
+    "category_url": "https://cpplusworld.com/products/2.4-mp",
+    "subcategory": "Analog HD Camera",
+    "subcategory_url": "https://cpplusworld.com/products/analog-hd-camera/2-4-mp",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Analog HD Camera",
+    "tab_id": "71",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Analog HD Camera",
+      "2.4 MP",
+      "CP-URC-DC24PL3"
+    ]
+  },
+  "card_info": {
+    "product_id": "1994",
+    "product_name": "CP-URC-DC24PL3",
+    "product_title": "CP-URC-DC24PL3",
+    "product_url": "https://cpplusworld.com/cp-urc-dc24pl3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/68541fa5-50c4-4182-827b-7a08c4414712.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-urc-dc24pl3.html",
+  "detail": {
+    "title": "CP-URC-DC24PL3",
+    "model": "CP-URC-DC24PL3",
+    "brand": "CP Plus",
+    "overview": "2.4MP IR Dome Camera - 30Mtr.",
+    "features": [
+      "2.4MP PS CMOS Image Sensor",
+      "DWDR, Day/Night (ICR), 2D DNR, BLC, HLC",
+      "3.6mm fixed lens (2.8 mm Optional)",
+      "IR Range of 30 Mtr., Smart IR",
+      "4 Signals over 1 Coaxial Cable",
+      "CVI/ CVBS/ AHD/ TVI switchable"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/68541fa5-50c4-4182-827b-7a08c4414712.png",
+        "alt": "CP-URC-DC24PL3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/03d08a01-fc82-40b4-97a7-7248c8d6f5ef.png",
+        "alt": "CP-URC-DC24PL3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "2.4MP PS CMOS Image Sensor",
+        "Minimum Illumination": "0.02 lux@F2.0 (Color, 30 IRE), 0.002 lux@F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Shutter Speed": "PAL: 1/25 s–1/100000 s, NTSC: 1/30 s–1/100000 s",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360",
+        "White Balance": "Auto",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "3.6 mm: 0.8 m, 2.8 mm: 0.5 m",
+        "DORI Distance": "Lens 3.6 mm: Detect-55.0 m, Observe-22.0 m, Recognize - 11.0 m, Identify-5.5 m;  Lens 2.8 mm: Detect-44.7 m, Observe-17.9 m, Recognize-8.9 m, Identify-4.5 m",
+        "Lens Type": "Fixed-focal",
+        "Gain Control (AGC)": "Auto",
+        "Lens": "3.6mm (2.8mm optional)",
+        "Angle of View": "3.6 mm: H: 80°, V: 43°, D: 94°; 2.8 mm: H: 100°, V: 54°,",
+        "Back Light Compensation": "BLC/ DWD",
+        "Resolution": "1080p (1920 × 1080), 960H (960 × 576/ 960 × 480)",
+        "Frame Rate": "CVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps AHD: PAL: 1080p@25 fps NTSC: 1080p@30 fps  TVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Noise Reduction": "2D DNR",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "IR Control": "Auto, Manual",
+        "IR": "IR Range of 30 Mtr.,",
+        "IR Mode": "Smart IR",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Power Source": "12 VDC ± 30%",
+        "Power Consumption": "Max 2.3 W (12 VDC",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Dimension": "85.0 mm × 77.1 mm",
+        "Iris Control": "Fixed",
+        "Weight": "0.11kg."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-DC24PL3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-dc24pl3"
+  }
+}

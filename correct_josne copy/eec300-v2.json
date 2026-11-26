@@ -1,0 +1,161 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Data Collection Station",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station",
+    "tab_title": "Data Collection Station",
+    "tab_id": "118256",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Data Collection Station",
+      "Data Collection Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "117477",
+    "product_name": "EEC300",
+    "product_title": "Data Collection Station/Control Module",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec300=v2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210827/1_0_01_01_14886_1754517012_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/eec300-v2.html",
+  "detail": {
+    "title": "Data Collection Station/Control Module",
+    "model": "EEC300",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EEC300 Data Collection Station/Control Module Key Points • Control Module of Wall-mounted Data Collection Station • Only Authorized User Can Login the Device via Facial Recognition, Fingerprint or Password • Flexible File Management via 13.3\" Touch Screen and Web Client • Built-in Battery allows users to unlock docks for up to 10 days when the device is powered off • Automatic File Download, Charging and Firmware Upgrade • Batch Parameter Configuration for Body Camera • Seamless Integration with Dahua Platform for unified management for devices, users, and storage resources Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210827/1_0_01_01_14886_1754517006_thumb.png",
+        "alt": "EEC300",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210827/1_0_01_01_14886_1754517012_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210827/1_0_01_01_14886_1754517011_thumb.png",
+        "alt": "EEC300",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "System": {
+        "Main Processor": "Industrial-grade embedded controller",
+        "Operating System": "Embedded Linux"
+      },
+      "Basic Parameters": {
+        "Display": "13.3\" LCD",
+        "Screen Type": "Capacitive touch screen",
+        "Resolution": "1080p",
+        "Camera": "2MP CMOS HD Camera",
+        "Fingerprint Identification Module": "1",
+        "Speaker": "1 (power: 2 W)",
+        "White Light": "Yes (only automatically enabled under Target Recognition scenarios)",
+        "Network Port": "2 × RJ-45 gigabit Ethernet ports",
+        "USB": "2 (USB2.0 & USB3.0)",
+        "RS-232": "1",
+        "Extension (Female)": "1 (for connecting data collection module to transmit data)",
+        "HDD Interface": "6 × SATA3.0; max. 10 TB for one HDD. Use at least 2 HDDs for optimal collection speed"
+      },
+      "Function": {
+        "Target Recognition": "Yes. Max. 330 face databases",
+        "Fingerprint Identification": "Yes. Max. 1,000 fingerprint databases (3 fingerprints for each user)",
+        "One-tap Unlock": "Yes. One-tap to unlock all docks on Data Collection Module.",
+        "Single-dock Unlock": "Yes. Support to unlock single dock on Data Collection Module.",
+        "Unlock docks after Power-off": "Yes. The built-in lithium battery in EEC300 enables unlocking of all docks through the lock at the bottom of Data Collection Module for 10 days in case the EEC300 turns off.",
+        "Device Access Status Indication": "Yes",
+        "Device Update": "Supports updating MPTs or body cameras automatically or manually; supports local or online updating of collection station",
+        "Auto Collection": "Yes",
+        "Priority Collection": "Yes. Docks in the first row can be configured to have faster download speed than others when EEC300 connect more than one Data Collection Module.",
+        "RAID": "RAID 0/1/5/10",
+        "Web Client": "Yes",
+        "FTP": "Yes"
+      },
+      "Performance": {
+        "Collection Speed": "Total bandwidth: Max. 128 MB/s",
+        "Target Recognition Distance": "0.5 m–1.5 m (1.64 ft–4.92 ft)",
+        "Target Recognition Accuracy": "100%",
+        "Target Recognition Time": "Within 1 s"
+      },
+      "General": {
+        "Power Supply": "100–240 V AC, 50/60 Hz",
+        "Lithium Battery": "2600 mAh-7.26 V-8.4 Vchr-1.3 AIcr-520 mAIdr",
+        "Power Consumption": "Single control module (no HDD): 15W",
+        "Product Dimensions": "630.0 mm × 280.0 mm × 89.9 mm (24.80\" × 11.02\" × 3.54\")",
+        "Packaging Dimensions": "750.0 mm × 400.0 mm × 262.0 mm (29.53\" × 15.75\" × 10.31\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–90% (non-condensing)",
+        "Operating Environment": "Indoor",
+        "Net Weight": "9.48 kg (20.90 lb) (without HDD)",
+        "Gross Weight": "12.00 kg (26.46 lb)",
+        "Installation": "Wall mounted with Data Collection Module; top and ground distance: 1.6 m–1.8 m (5.25 ft–5.91 ft)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/EEC300_V2_datasheet_20221208.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Data Collection Station_User Manual_V2.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/user_manual/Data_Collection_Station_User_Manual_V2.1.0.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Extension Station_Installation Instruction_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/user_manual/Extension_Station_Installation_Instruction_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-22 #User Manual Main Station_Installation Instruction_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87746/user_manual/Main_Station_Installation_Instruction_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-19 #Drawings EEC300_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64357/drawings/EEC300_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2022-11-09 #Drawings EEC300_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64357/drawings/EEC300_PORT.pdf"
+      },
+      {
+        "name": "2022-10-31 #Drawings EEC300_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64357/drawings/EEC300_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-19 #Firmware DH_EEC400(300V2)_Internal_PN_V1.000.0000003.0.R.260601 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64357/firmware/DH_EEC400(300V2)_Internal_PN_V1.000.0000003.0.R.260601.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station/eec300=v2"
+  }
+}

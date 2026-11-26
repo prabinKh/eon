@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "WBC Series Wireless Bridge",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/wbc-series-wireless-bridge",
+    "tab_title": "WBC Series Wireless Bridge",
+    "tab_id": "15797",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "WBC Series Wireless Bridge",
+      "WBC Series Wireless Bridge"
+    ]
+  },
+  "card_info": {
+    "product_id": "152209",
+    "product_name": "WBK5-30AC-05P",
+    "product_title": "Wireless Bridge",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/wbcseries/wbk5-30ac-05p",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/83124/image/1_0_01_20_11838_768455865_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/wbk5-30ac-05p.html",
+  "detail": {
+    "title": "Wireless Bridge",
+    "model": "WBK5-30AC-05P",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83124/image/1_0_01_20_11838_768455865_crop_thumb.PNG",
+        "alt": "WBK5-30AC-05P",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/wbcseries/wbk5-30ac-05p"
+  }
+}

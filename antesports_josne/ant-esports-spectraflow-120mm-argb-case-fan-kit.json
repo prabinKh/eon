@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Spectraflow 3x120mm ARGB Case Fan Kit Blank"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421810979",
+    "product_name": "Spectraflow 3x120mm ARGB Case Fan Kit Blank",
+    "product_title": "Spectraflow 3x120mm ARGB Case Fan Kit Blank",
+    "product_url": "https://antesports.com/products/ant-esports-spectraflow-120mm-argb-case-fan-kit",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SPECTRAFLOW_120MM3In1FanKitARGB_03_157d1548-14e6-4d29-9fa7-b8ac2f671970.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-spectraflow-120mm-argb-case-fan-kit.html",
+  "detail": {
+    "title": "Spectraflow 3x120mm ARGB Case Fan Kit Blank",
+    "model": "AESP0261",
+    "brand": "Ant Esports",
+    "overview": "Transform your PC’s aesthetic with theAnt Esports Spectraflow 120mm ARGB Fan Kit. Designed for both gaming rigs and professional productivity builds, this 3-fan pack combines eye-catching visuals with highly efficient thermal performance.",
+    "features": [
+      "Transform your PC’s aesthetic with theAnt Esports Spectraflow 120mm ARGB Fan Kit. Designed for both gaming rigs and professional productivity builds, this 3-fan pack combines eye-catching visuals with highly efficient thermal performance."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SPECTRAFLOW_120MM3In1FanKitARGB_03_157d1548-14e6-4d29-9fa7-b8ac2f671970.png",
+        "alt": "Spectraflow 3x120mm ARGB Case Fan Kit Blank - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_B_65d0f0c0-97bd-437b-90b3-07e21e39c2b7.png",
+        "alt": "Spectraflow 3x120mm ARGB Case Fan Kit Blank - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_B_ce276dc7-e02d-4ca3-9f7e-35e8117cfea3.png",
+        "alt": "Spectraflow 3x120mm ARGB Case Fan Kit Blank - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "1800",
+        "FAN Airflow (CFM)": "45",
+        "FAN Static Pressure (mmH₂O)": "2.1",
+        "FAN Noise (dBA)": "20",
+        "FAN Direction": "Forward",
+        "Connection": "PWM + ARGB",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "1800",
+        "FAN AIRFLOW (CFM)": "45",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.1",
+        "FAN NOISE (DBA)": "20",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM + ARGB",
+        "Offer Price (INR)": "₹2,499.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AESP0261"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-spectraflow-120mm-argb-case-fan-kit"
+  }
+}

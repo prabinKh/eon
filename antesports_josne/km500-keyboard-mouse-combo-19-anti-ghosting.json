@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM500 Keyboard & Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791804195",
+    "product_name": "KM500 Keyboard & Mouse Combo",
+    "product_title": "KM500 Keyboard & Mouse Combo",
+    "product_url": "https://antesports.com/products/km500-keyboard-mouse-combo-19-anti-ghosting",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_5d1b6233-37fc-4713-936e-45021f4b490a.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km500-keyboard-mouse-combo-19-anti-ghosting.html",
+  "detail": {
+    "title": "KM500 Keyboard & Mouse Combo",
+    "model": "AEPP0052",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM500 Gaming Combo is engineered to elevate your setup with a genuine blend of durability and performance. Its robust brushed aluminium top plate resists warping, while double-shot ABS keycaps and a thin polymer diffusion layer give a soft, non-intrusive RGB glow perfect for late-night sessions. The keyboard supports 19 anti-ghosting keys for reliable multi-key input, and braided cable construction on both devices adds a premium feel and enhanced durability. The included mouse features an anti-slip rubberized coating, a high-performance optical sensor with a dedicated DPI toggle between 800 and 3200, and an LED-backlit scroll wheel for control in low-light environments, with integrated wrist support keeping hands comfortable during extended use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_5d1b6233-37fc-4713-936e-45021f4b490a.png",
+        "alt": "KM500 Keyboard & Mouse Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Anti-Ghosting": "19 Keys",
+        "Mouse DPI": "800-3200",
+        "Cable": "Braided",
+        "Compatibility": "Windows, Mac",
+        "CONNECTIVITY": "Wired USB",
+        "ANTI-GHOSTING": "19 Keys",
+        "MOUSE DPI": "800-3200",
+        "CABLE": "Braided",
+        "COMPATIBILITY": "Windows, Mac",
+        "Offer Price (INR)": "₹999.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0052"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km500-keyboard-mouse-combo-19-anti-ghosting"
+  }
+}

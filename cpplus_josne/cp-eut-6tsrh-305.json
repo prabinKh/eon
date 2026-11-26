@@ -1,0 +1,90 @@
+{
+  "hierarchy": {
+    "category": "Cables",
+    "category_url": "https://cpplusworld.com/products/cables",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/cables",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "94",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Cables",
+      "CP-EUT-6TSRH-305"
+    ]
+  },
+  "card_info": {
+    "product_id": "2220",
+    "product_name": "CP-EUT-6TSRH-305",
+    "product_title": "CP-EUT-6TSRH-305",
+    "product_url": "https://cpplusworld.com/cp-eut-6tsrh-305",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/92f4fac3-7135-4e21-90b4-d531a249d6b8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-eut-6tsrh-305.html",
+  "detail": {
+    "title": "CP-EUT-6TSRH-305",
+    "model": "CP-EUT-6TSRH-305",
+    "brand": "CP Plus",
+    "overview": "Cat6, 4 Pair UTP Cable",
+    "features": [
+      "Insulation Material HDPE",
+      "Insualtion Thickness 0.20mm",
+      "305 Mtr. Cable Length"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/92f4fac3-7135-4e21-90b4-d531a249d6b8.jpg",
+        "alt": "CP-EUT-6TSRH-305 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f6ade3eb-50aa-4783-94b5-4c1295f3f7ad.jpg",
+        "alt": "CP-EUT-6TSRH-305 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "CCA",
+        "Nominal Conductor Diameter": "0.50mm",
+        "Insulation Material": "HDPE",
+        "No. of Strands": "1 nos (nom)",
+        "Insulation Thickness": "0.60 ± 0.05 mm",
+        "Jacket Material": "PVC",
+        "Color": "Green - White/ Green Brown - White/ Brown & Orange - White/ Orange",
+        "Dielectric Strength": "12.50 N/sq.mm (min)",
+        "Rip Cord": "Nylone",
+        "Material PVC": "Polyethylene",
+        "Elongation": "300% (min)",
+        "Elongation at break": "150% (min)",
+        "Outer Dia.": "5.70mm ± 0.03mm",
+        "Length": "305 Mtr.",
+        "Tensile": "17.50 N/sq. mm (min)",
+        "Thickness of Outer Jacket": "0.60 ± 0.05 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EUT-6TSRH-305.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-eut-6tsrh-305"
+  }
+}

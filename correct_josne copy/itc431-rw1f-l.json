@@ -1,0 +1,184 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "ITC",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "ITC",
+    "tab_id": "721",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "ITC",
+      "ITC"
+    ]
+  },
+  "card_info": {
+    "product_id": "52227",
+    "product_name": "ITC431-RW1F-L",
+    "product_title": "4 MP AI Enforcement Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/4mp/itc431-rw1f-l",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200915/DHI-ITC431-RW1F-L__thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc431-rw1f-l.html",
+  "detail": {
+    "title": "4 MP AI Enforcement Camera",
+    "model": "ITC431-RW1F-L",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC431-RW1F-L 4 MP AI Enforcement Camera Key Points • 1/1.8\" 4 MP Starlight CMOS Sensor with A Resolution of 2688 × 1520 • ANPR Distance Covers up to 30 m • Covers up to 2 Lanes • Speeds Up to 180 km/h • IP66 Waterproof and IK10 Vandal Proof Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200915/DHI-ITC431-RW1F-L__thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/1.8'' CMOS",
+        "Image Resolution": "2688 (H) × 1520 (V) (OSD black background is not calculated in the pixels)",
+        "Shutter Mode": "Single shutter",
+        "Electronic Shutter Speed": "Auto/Manual 1/50 s–1/100,000 s",
+        "Noise Reduction": "3D NR",
+        "S/N Ratio": "> 56 dB",
+        "WDR": "140 dB",
+        "Min. Illumination": "0.0001lux"
+      },
+      "Illuminator": {
+        "Illuminator Number": "4 illuminators (3500 K LED illuminator, brightness adjustable)",
+        "Illumination Distance": "23 m–30 m (75.46 ft–98.43 ft) (adjustable brightness)",
+        "Lane Coverage": "1–2 lanes"
+      },
+      "Lens": {
+        "Lens": "Motorized vari-focal",
+        "Focal Length": "10 mm–50 mm",
+        "Max. Aperture": "Max. F1.33",
+        "Field of View": "Horizontal: 9.4°–40.8° Vertical: 5.4°–22.9° Diagonal: 10.7°–46.9°",
+        "Exposure Mode": "Auto; Manual (Select from shutter values or customize shutter range)"
+      },
+      "Function": {
+        "Trigger Mode": "Video trigger/Radar trigger",
+        "Speed Detection Range": "0 km/h–180 km/h",
+        "OSD Overlay": "Time, address, device SN, lane No., plate number, plate color, vehicle logo, vehicle type, vehicle color, vehicle size, vehicle speed, country/region, event (violation name), and motorcycle attributes (type, number of people, and helmet)",
+        "Alarm Event": "Storage full; storage error; external alarm; no storage card; license plate blocklist; illegal access; network disconnection; IP conflict",
+        "Automatic Network Replenishment (ANR)": "Platform and FTP (TF card is required)",
+        "Auto Registration": "Yes"
+      },
+      "Intelligence": {
+        "Target Detection": "Motor vehicle; motorcycle",
+        "ANPR": "Adopts developed algorithms to recognize license plate numbers and letters",
+        "Vehicle Type Recognition": "Vehicle head: SUV, Large bus, sedan, light truck, pickup, heavy truck, medium truck, van, medium bus, MPV Vehicle tail: SUV, large bus, sedan, light truck, pickup, heavy truck, medium truck, van",
+        "Vehicle Color Recognition": "White, pink, black, red, yellow, gray, blue, green, dark orange, purple, brown, and silver gray",
+        "Vehicle Brand/Logo Recognition": "Acura; Alfaromeo; Ashokleyland; Astonmartin; Audi; Baic; Bently; Benz; BMW; Buick; BYD; Cadillac; Chery; Chevrolet; Chrysler; Citroen; Dacia; Daihatsu; Datsun; Dodge; DS; Ferrari; Fiat; Force; Ford; Foton; Geely; GMC; Greatwall; Hino; Honda; Hyundai; Infiniti; Isuzu; Iveco; Jac; Jaguar; Jeep; Kia; Kinglong; Land; Lexus; Lifan; Lincoln; Mahindra; MAN; Maserati; Mazda; Mercury; MG; Mini; Mitsubishi; Nissan; Opel; Peugeot; Porsche; Renault; Rollsroyce; Saab; Scania; Seat; Skoda; Smart; Subaru; Suzuki; Tata; Tesla; Toyota; UD; Volkswagen; Volvo",
+        "Motor Vehicle Violation Capture": "Speeding; driving slow; wrong-way driving; illegal lane change",
+        "Motorcycle Violation Capture": "Captures traffic violations including carrying passenger, not wearing helmet, and wrong-way driving",
+        "Traffic Flow Detection": "Statistics on vehicle flow, average speed, vehicle type, lane occupancy, average time headway, average queue length, and road status",
+        "Traffic Event": "Motor vehicle illegal stopping on the roadway; traffic congestion"
+      },
+      "Video": {
+        "Video Compression": "H.265; H.264M; H.264H; MJPEG",
+        "Video Resolution": "4M (2688 × 1520); 1080p (1920 × 1080); UXGA (1600 × 1200); 720p (1280 × 720); D1 (704 × 576); CIF (352 × 288)",
+        "Video Frame Rate": "Max. 30 fps; main stream (2688 × 1520@25 fps), sub stream (1600 × 1200@25 fps)",
+        "Video Bit Rate": "H.264: 32 kbps–32767 kbps H.265: 32 kbps–32767 kbps MJPEG: 512 kbps–32767 kbps",
+        "Bit Rate Control": "CBR; VBR",
+        "White Balance": "Auto; Manual; Outdoor; Natural; Street Lamp; Partial white balance",
+        "Edge Enhancement": "Yes",
+        "HLC": "Yes",
+        "BLC": "Yes",
+        "Bad Pixel Correction": "Yes",
+        "Gain Range": "0–100"
+      },
+      "Image": {
+        "Composite Image": "Supports combining up to 3 source images, and 1 close-up image into a composite image",
+        "Image Resolution": "2688 (H) × 1520 (V) (OSD black background is not calculated in the pixels)",
+        "Image Encoding Format": "JPEG",
+        "Image Tampering Prevention": "Verifies watermarks in videos and images"
+      },
+      "Network": {
+        "Network Port": "1 × RJ-45 Ethernet port, 10/100/1000 M network transmission",
+        "SDK and API": "Yes",
+        "Security": "Authorized username and password, MAC address binding, HTTPS encryption, and network access control",
+        "Protocol": "IPv4; IPv6; HTTP; TCP; IP; UDP; NTP; DHCP",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T)",
+        "Browser": "Microsoft Edge IE: IE9–IE11 Chrome: Chrome 41 and earlier Firefox: Firefox 49 and earlier For Win 10 users, run the browser as administrator",
+        "Positioning": "GPS",
+        "Time Synchronization": "NTP; GPS"
+      },
+      "Port": {
+        "Storage": "1, supports maximum 512 GB TF card local storage",
+        "RS-485": "2, connects to devices such as radars",
+        "RS-232": "2, con is used for serial debugging and R T G is for connecting to radars",
+        "Audio Input": "1 channel",
+        "Audio output": "1 channel",
+        "Alarm Input": "3 channels",
+        "Alarm Output": "2 channels. 2 for relay"
+      },
+      "General": {
+        "Power Supply": "12–36 VDC, PoE",
+        "Power Consumption": "≤ 13 W",
+        "Operating Temperature": "–40 °C to +65 °C (–40 °F to +149 °F)",
+        "Storage Temperature": "–40 °C to +65 °C (–40 °F to +149 °F)",
+        "Operating Humidity": "10%-90% (RH)",
+        "Storage Humidity": "0%-90% (RH)",
+        "Protection": "IP67, IK10, defog",
+        "Certifications": "CE EMC: EN55032; EN55035; IEC61000-3-2; IEC61000-3-3 CE LVD: EN62368-1; IEC62471 CE RED: EN301511; EN301489-1/7; EN62311; EN50360",
+        "Product Dimensions": "466.4 mm × 135.8 mm × 134.1 mm (18.36'' × 5.35'' × 5.28'') (L × W × H)",
+        "Net Weight": "3.9 kg (8.59 lb)",
+        "Gross Weight": "4.8 kg (10.58 lb)",
+        "Installation": "Installs with universal mounting brackets, or as a side-mount with mounting brackets."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ITC431-RW1F-L_datasheet_20250812.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual 4MP AI Enforcement Camera_Web Operation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81751/user_manual/4MP_AI_Enforcement_Camera_Web_Operation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-11-22 #A&E Document ITC431-RW1F-L_A&E_20260901211116 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81751/a_e_document/1788268892050.docx"
+      },
+      {
+        "name": "2022-05-13 #Drawings ITC431-RW1F-L_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81751/drawings/ITC431-RW1F-L_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-05-13 #Drawings ITC431-RW1F-L_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81751/drawings/ITC431-RW1F-L_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-16 #Firmware General_ITC431-RW1F-L(IRL8)_Eng_PN_Oversea_V5.000.0000000.1.R.250312 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81751/firmware/General_ITC431-RW1F-L(IRL8)_Eng_PN_Oversea_V5.000.0000000.1.R.250312.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/4mp/itc431-rw1f-l"
+  }
+}

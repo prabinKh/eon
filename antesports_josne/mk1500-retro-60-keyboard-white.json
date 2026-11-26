@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK1500 Retro 60% Wireless Keyboard - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791017763",
+    "product_name": "MK1500 Retro 60% Wireless Keyboard - White",
+    "product_title": "MK1500 Retro 60% Wireless Keyboard - White",
+    "product_url": "https://antesports.com/products/mk1500-retro-60-keyboard-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_09efc2e1-a0fe-4d3e-b518-aef57c2124f8.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1500-retro-60-keyboard-white.html",
+  "detail": {
+    "title": "MK1500 Retro 60% Wireless Keyboard - White",
+    "model": "AEPP0108",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1500 Mini Retro brings a unique blend of vintage typewriter aesthetics and modern gaming performance to a compact 60% form factor. Floating keycaps inspired by retro typewriters add vintage charm while allowing for easy cleaning, and eye-catching RGB backlighting brings a captivating, immersive atmosphere to gaming sessions. Weighing just 310g, it's equipped with a 1000mAh battery chargeable via detachable USB Type-C, lasting almost 100 hours of continuous use or over 280 hours on standby. Dedicated media key combinations give quick access to volume and playback controls, and broad compatibility spans Windows, Mac and Android for versatile everyday use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_09efc2e1-a0fe-4d3e-b518-aef57c2124f8.jpg",
+        "alt": "MK1500 Retro 60% Wireless Keyboard - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "60% Compact, Retro Design",
+        "Connectivity": "Wireless",
+        "Battery": "1000mAh, ~100 Hrs Use",
+        "Weight": "310g",
+        "Compatibility": "Windows, Mac, Android",
+        "Color": "White",
+        "LAYOUT": "60% Compact, Retro Design",
+        "CONNECTIVITY": "Wireless",
+        "BATTERY": "1000mAh, ~100 Hrs Use",
+        "WEIGHT": "310g",
+        "COMPATIBILITY": "Windows, Mac, Android",
+        "COLOR": "White",
+        "Offer Price (INR)": "₹1,999.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AEPP0108"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1500-retro-60-keyboard-white"
+  }
+}

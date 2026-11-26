@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "MG15 Super Cube Wireless Controller - Black/Yellow"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870009123",
+    "product_name": "MG15 Super Cube Wireless Controller - Black/Yellow",
+    "product_title": "MG15 Super Cube Wireless Controller - Black/Yellow",
+    "product_url": "https://antesports.com/products/mg15-super-cube-controller-smartphone-holder",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_a1e769e0-9a86-430a-ad18-7db8987ec241.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mg15-super-cube-controller-smartphone-holder.html",
+  "detail": {
+    "title": "MG15 Super Cube Wireless Controller - Black/Yellow",
+    "model": "AEPP0180",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MG15 Super Cube is a modular wireless controller that splits into two halves, attaching to either side of a smartphone to transform it into a compact handheld gaming console. The left half features a joystick, D-pad, home button and analog triggers, giving comprehensive control beyond touch input for battle royale, shooting, racing and action games. A lightweight, ergonomic design paired with a phone holder clamp fits screens from 4.7 to 6.8 inches, and it connects via Bluetooth 5.0 with a 10-metre range on Android 6.0+ and iOS 13.0+ devices. Two rechargeable 250mAh batteries provide up to 10 hours of play and recharge fully in about 2 hours via the included USB-C cable, while a carrying case with a spare cable pocket makes it easy to take along wherever you game.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_a1e769e0-9a86-430a-ad18-7db8987ec241.jpg",
+        "alt": "MG15 Super Cube Wireless Controller - Black/Yellow - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth 5.0, 10m Range",
+        "Battery": "2 x 250mAh, Up to 10 Hours",
+        "Phone Fit": "4.7-6.8 Inch",
+        "Compatibility": "Android 6.0+, iOS 13.0+",
+        "Included": "Carrying Case, USB-C Cable",
+        "Color": "Black/Yellow",
+        "CONNECTIVITY": "Bluetooth 5.0, 10m Range",
+        "BATTERY": "2 x 250mAh, Up to 10 Hours",
+        "PHONE FIT": "4.7-6.8 Inch",
+        "COMPATIBILITY": "Android 6.0+, iOS 13.0+",
+        "INCLUDED": "Carrying Case, USB-C Cable",
+        "COLOR": "Black/Yellow",
+        "Offer Price (INR)": "₹899.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AEPP0180"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (MG15)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=MG15.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mg15-super-cube-controller-smartphone-holder"
+  }
+}

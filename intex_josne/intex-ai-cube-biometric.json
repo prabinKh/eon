@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "Intex AI-CUBE",
+    "series_url": "https://www.intex.in/collections/intex-ai-cube",
+    "tab_title": "Biometric",
+    "tab_id": "9046132687066",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Biometric",
+      "Intex AI-CUBE Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9046132687066",
+    "product_name": "Intex AI-CUBE Biometric",
+    "product_title": "Intex AI-CUBE Biometric",
+    "product_url": "https://www.intex.in/products/intex-ai-cube-biometric",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-Front_Intex_AI_CUBE.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 33040.0,
+      "display": "₹33,040.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-ai-cube-biometric.html",
+  "detail": {
+    "title": "Intex AI-CUBE Biometric",
+    "model": "AI-CUBE",
+    "brand": "Intex",
+    "overview": "This advanced biometric device offers versatile identification options including Face, Fingerprint, Password, and Card access. It ensures secure and convenient authentication. With a record capacity of 500,000, ultra-fast identification speed of less than 0.8 seconds, and extremely low false rejection and acceptance rates, this device is ideal for both online and offline environments. It operates efficiently on 12V working voltage.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-Front_Intex_AI_CUBE.jpg",
+        "alt": "Intex AI-CUBE Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Face Capacity": "5000",
+        "Finger Capacity": "10000",
+        "Card Capacity": "15000",
+        "Password Capacity": "15000",
+        "Add User": "15000",
+        "Attendance Records": "500000",
+        "Fingerprint Verification Mode": "1:1, 1:N",
+        "Working Mode": "Online / Offline",
+        "Verification Mode": "Fingerprint / Password / Face / Card",
+        "Combination Options": "FP + Card, PIN + Card, FP + Face, FP + PIN, FP + PIN + Card",
+        "Screen": "4.3 Inch Touch Screen",
+        "Language": "English",
+        "Communication": "TCP/IP, USB, WiFi",
+        "Power Supply": "DC 12V 2A",
+        "Battery Backup": "No",
+        "Recognition Speed": "<0.2s",
+        "Camera": "2MP Color Camera + 2MP Infrared Camera",
+        "Operating System": "Linux 3.10",
+        "Dual Authentication": "Yes",
+        "Model": "AI-CUBE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/AI_CUBE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-ai-cube-biometric"
+  }
+}

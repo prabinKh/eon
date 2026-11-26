@@ -1,0 +1,175 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series",
+    "tab_title": "4K",
+    "tab_id": "9412",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Pro Series",
+      "4K"
+    ]
+  },
+  "card_info": {
+    "product_id": "17711",
+    "product_name": "HAC-HF3805G",
+    "product_title": "8MP HDCVI WDR Box Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/4k/full-color/hac-hf3805g",
+    "card_image": "https://material.dahuasecurity.com/upfiles/HAC-HF3805G_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hf3805g.html",
+  "detail": {
+    "title": "8MP HDCVI WDR Box Camera",
+    "model": "HAC-HF3805G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HF3805G 8MP HDCVI WDR Box Camera Key Points 1. 30fps@3840×2160(HDMI)/15fps@3840×2160(BNC) 2. 140db WDR 3. Ultra-low starlight technology,2D&3D NR 4. HDMI video output directly 5. Built-in Mic 6. Software upgrade with USB 7. Intelligent functions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "4/3\" CMOS",
+        "Effective Pixels": "3840(H)×2160(V), 8MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "1/3s~1/100,000s",
+        "Minimum Illumination": "0.001Lux/F1.2(Color,1/3s,30IRE) 0.0005Lux/F0.95 (Color,1/3s,30IRE) 0.003Lux/F0.95 (Color,1/30s,30IRE) 0.0003Lux/F0.95 (B/W,1/3s,30IRE) 0.002Lux/F0.95 (B/W,1/30s,30IRE)",
+        "S/N Ratio": "More than 65dB",
+        "IR Distance": "NA",
+        "IR On/Off Control": "NA",
+        "IR LEDs": "NA",
+        "Audio In": "Built- in Mic"
+      },
+      "Lens": {
+        "Lens Type": "External",
+        "Mount Type": "M43-mount",
+        "Focal Length": "NA",
+        "Max Aperture": "NA",
+        "Angle of View": "NA",
+        "Focus Control": "N/A",
+        "Close Focus Distance": "NA"
+      },
+      "Pan / Tilt / Rotation": {
+        "Pan/Tilt/Rotation": "Pan: NA Tilt: NA Rotation: NA"
+      },
+      "Video": {
+        "Resolution": "8MP (3840×2160)",
+        "Frame Rate": "PAL:4K@12.5fps;4M@25fps NTSC:4K@15fps;4M@30fps",
+        "Video Output": "1-channel HDMI video output & 1-channel BNC video output",
+        "Day/Night": "Auto (Electronic) / Manual",
+        "OSD Menu": "Multi-language",
+        "BLC Mode": "BLC / HLC / WDR",
+        "WDR": "140dB",
+        "Gain Control": "AGC",
+        "Noise Reduction": "2D/3D",
+        "White Balance": "Auto / Manual",
+        "Smart IR": "NA"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Interface": {
+        "Audio Interface": "1-channel audio in",
+        "Alarm I/O": "2/1"
+      },
+      "Eelectrical": {
+        "Power Supply": "12V DC ±25%/24V AC ±25%",
+        "Power Consumption": "Max 6.4W (DC12V )"
+      },
+      "Environmental": {
+        "Operating Conditions": "-30°C ~ +60°C (-22°F ~ +140°F) / Less than 90% RH * Start up should be done at above -30°C (-22°F)",
+        "Storage Conditions": "-30°C ~ +60°C (-22°F ~ +140°F) / Less than 90% RH",
+        "Ingress Protection & Vandal Resistance": "NA"
+      },
+      "Construction": {
+        "Casing": "Aluminium",
+        "Dimensions": "144.5mm×82mm×73.7mm (5.69\"×3.23\"×2.90\")",
+        "Net Weight": "0.62kg (1.36lb)",
+        "Gross Weight": "0.83kg (1.83lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/download/DH-HAC-HF3805G-datasheet3.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Box Camera_Installation Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004280/3429017/HDCVI_Box_Camera_Installation_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings HAC-HF3805G_Installation_20171121 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/15567/drawings/HAC-HF3231E_Installation_20171121.pdf"
+      },
+      {
+        "name": "2019-09-26 #Drawings HAC-HF3805G_Dimention_20171128 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8027/drawings/HAC-HF3805G_Dimention_20171128.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/4k/full-color/hac-hf3805g"
+  }
+}

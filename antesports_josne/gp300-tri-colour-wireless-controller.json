@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP300 Tri-Colour Wireless Controller"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869550371",
+    "product_name": "GP300 Tri-Colour Wireless Controller",
+    "product_title": "GP300 Tri-Colour Wireless Controller",
+    "product_url": "https://antesports.com/products/gp300-tri-colour-wireless-controller",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_0db58e45-889b-470a-bffa-178932dc2049.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gp300-tri-colour-wireless-controller.html",
+  "detail": {
+    "title": "GP300 Tri-Colour Wireless Controller",
+    "model": "AESP0080",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP300 is a tri-colour wireless controller built for everyday PC gaming, using 2.4GHz connectivity via a plug-and-play USB dongle for a fast, lag-free connection. A dual vibration motor setup underneath the grips delivers precise, timely feedback for a more immersive gameplay experience, while a rechargeable battery delivers up to 12 hours of continuous play on a single charge. A free OTG adapter and connector are included for Android device compatibility, and the ergonomic shell design keeps hands comfortable through extended sessions. Compatible across all Windows versions, the GP300 is a dependable everyday wireless controller for casual and competitive PC gaming alike.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_0db58e45-889b-470a-bffa-178932dc2049.jpg",
+        "alt": "GP300 Tri-Colour Wireless Controller - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless",
+        "Vibration": "Dual Motor",
+        "Battery Life": "Up to 12 Hours",
+        "Included": "Free OTG Adapter & Connector",
+        "Compatibility": "All Windows Versions",
+        "CONNECTIVITY": "2.4GHz Wireless",
+        "VIBRATION": "Dual Motor",
+        "BATTERY LIFE": "Up to 12 Hours",
+        "INCLUDED": "Free OTG Adapter & Connector",
+        "COMPATIBILITY": "All Windows Versions",
+        "Offer Price (INR)": "₹1,456.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "AESP0080"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP300)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-GP300-Pro.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp300-tri-colour-wireless-controller"
+  }
+}

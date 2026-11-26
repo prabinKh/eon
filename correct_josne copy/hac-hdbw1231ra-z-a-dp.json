@@ -1,0 +1,157 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "1080P",
+    "tab_id": "9482",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "93117",
+    "product_name": "HAC-HDBW1231RA-Z-A-DP",
+    "product_title": "2MP Starlight HDCVI IR Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/1080p/starlight/hac-hdbw1231ra-z-a-dp",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210416/16-1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdbw1231ra-z-a-dp.html",
+  "detail": {
+    "title": "2MP Starlight HDCVI IR Dome Camera",
+    "model": "HAC-HDBW1231RA-Z-A-DP",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDBW1231RA-Z-A-DP 2MP Starlight HDCVI IR Dome Camera Key Points • High-Quality Imaging with 1080P Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 60 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & 130dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 and IK10 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210416/16-1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210416/16_thumb.png",
+        "alt": "HAC-HDBW1231RA-Z-A-DP",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Pixel": "2MP",
+        "Image Sensor": "1/2.8\"CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "Min. Illumination": "0.002lux/F1.5, 30IRE, 0Lux IR on",
+        "S/N Ratio": "> 65 dB",
+        "Illumination Distance": "60 m (196.9 ft)",
+        "Illuminator On/Off Control": "Auto",
+        "Illuminator Number": "3 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–355° Tilt: 0°–80° Rotation: 0°–355°"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Auto Focus": "Yes",
+        "Lens Mount": "φ14",
+        "Focal Length": "2.7 mm–12 mm",
+        "Max. Aperture": "F1.5",
+        "Field of View": "Diagonal: 38°– 123° Horizontal: 33°–102° Vertical: 19°–53°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "0.5 m (1.6ft )",
+        "DORI Distance": "Lens",
+        "2.7 mm": "47.6 m (156.2 ft)",
+        "12 mm": "132.1 m (433.4 ft)"
+      },
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080P@25fps; NTSC: 1080P@30fps; AHD: PAL: 1080P@25fps; NTSC: 1080P@30fps; TVI: PAL: 1080P@25fps; NTSC: 1080P@30fps; CVBS: PAL: 960×576H; NTSC: 960×480H;",
+        "Resolution": "1080P (1920 × 1080); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto (ICR)",
+        "BLC": "BLC/WDR/HLC",
+        "WDR": "130 dB",
+        "White Balance": "Auto/Area WB",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Smart Illumination": "Yes",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032:2015, EN 61000-3-2:2014, EN 61000-3-3:2013, EN55024:2010+A1:2015, EN 55035:2017, EN50130-4:2011+A1:2014, EN 62368-1:2014+A11:2017) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel built-in mic"
+      },
+      "Power": {
+        "Power Supply": "12V DC±10%; 24V AC±25%",
+        "Power Consumption": "Max.10.2W (12V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30°C to +60°C (–22°F to +140°F); < 95% (non-condensation)",
+        "Storage Temperature": "–30°C to +60°C (–22°F to +140°F); < 95% (non-condensation)",
+        "Protection": "IP67; IK10"
+      },
+      "Structure": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "φ126 mm × 100 mm (φ5\" × 3.9\")",
+        "Net Weight": "0.65 kg (1.4 lb)",
+        "Gross Weight": "0.83 kg (1.8 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20210721/DH-HAC-HDBW1231RA-Z-A-DP_datasheet_20210702.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Dome Camera Installation Guide V1.0.3-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/user_manual/HDCVI_Dome_Camera_Installation_Guide_V1.0.3-Eng.pdf"
+      },
+      {
+        "name": "2024-07-26 #Drawings HAC-HDBW1231RA-Z-A-DP_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87611/drawings/HAC-HDBW1200RA-Z-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-11-13 #Drawings HAC-HDBW1231RA-Z-A-DP_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/56127/drawings/HAC-HDBW2241RA-Z-A-DP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/1080p/starlight/hac-hdbw1231ra-z-a-dp"
+  }
+}

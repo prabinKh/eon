@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "Crystal Neo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10369379959075",
+    "product_name": "Crystal Neo",
+    "product_title": "Crystal Neo",
+    "product_url": "https://antesports.com/products/crystal-neo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_ed5a1d51-5941-4825-9c0e-f63503a1e8f0.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/crystal-neo.html",
+  "detail": {
+    "title": "Crystal Neo",
+    "model": "Crystal Neo",
+    "brand": "Ant Esports",
+    "overview": "TheAnt Esports Chassis Crystal Neois a premium gaming cabinet designed to deliver excellent airflow, reliable performance, and compatibility with modern high-performance PC builds. Featuring support for E-ATX, ATX, M-ATX, and M-ITX motherboards, 6 pre-installed ARGB fans, and support for graphics cards up to 415mm long, it ensures flexibility, durability, and efficient cooling. With support for CPU air coolers up to 179mm and 360mm AIO liquid cooling on the top, it is ideal for gaming, content creation, and demanding workloads. The cabinet also includes tempered glass, cable management support, USB Type-C connectivity, and support for up to 1 HDD and 2 SSDs. Whether you are building a new gaming PC or upgrading your existing setup, it offers excellent functionality, stylish design, and dependable performance for PC enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_ed5a1d51-5941-4825-9c0e-f63503a1e8f0.png",
+        "alt": "Crystal Neo - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_917ee60f-2cb7-4499-ba28-99ca3dd98763.png",
+        "alt": "Crystal Neo - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_d4d4e2e3-9e76-40f2-b2e1-33c440268dfc.png",
+        "alt": "Crystal Neo - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_aece7f2f-0d64-422a-9adf-a1a75a1621bf.png",
+        "alt": "Crystal Neo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Cabinet",
+        "Length (mm)": "435",
+        "Width (mm)": "225",
+        "Height (mm)": "450",
+        "Volume (liters)": "44",
+        "Material": "SPCC + Tempered Glass",
+        "Motherboard Support": "E-ATX, ATX, M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "2",
+        "Front FAN Support": "None",
+        "Top FAN Support": "3x120mm / 2x140mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm / 1x140mm",
+        "Side FAN Support": "3x120mm",
+        "Front AIO Support": "None",
+        "Top AIO Support": "240mm / 280mm / 360mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "120mm",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "6 (3x Side Fans, 2x Bottom Fans, 1x Rear Fan)",
+        "Max. VGA Card Length (mm)": "415",
+        "Max. CPU Cooler Height (mm)": "179",
+        "I/O Panel": "1x Type-C, 1x USB 3.0, 1x HD Audio + Mic (TRRS Port), Power Button, Reset Button",
+        "Expansion Slots": "7",
+        "Cable Management Support": "Yes",
+        "ARGB Fans": "6",
+        "PSU Zone": "Dedicated PSU & Component Zone",
+        "Packing Size (mm)": "491 x 282 x 499",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "435",
+        "WIDTH (MM)": "225",
+        "HEIGHT (MM)": "450",
+        "VOLUME (LITERS)": "44",
+        "MATERIAL": "SPCC + Tempered Glass",
+        "MOTHERBOARD SUPPORT": "E-ATX, ATX, M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "2",
+        "FRONT FAN SUPPORT": "None",
+        "TOP FAN SUPPORT": "3x120mm / 2x140mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm / 1x140mm",
+        "SIDE FAN SUPPORT": "3x120mm",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "240mm / 280mm / 360mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "120mm",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "6 (3x Side Fans, 2x Bottom Fans, 1x Rear Fan)",
+        "MAX. VGA CARD LENGTH (MM)": "415",
+        "MAX. CPU COOLER HEIGHT (MM)": "179",
+        "I/O PANEL": "1x Type-C, 1x USB 3.0, 1x HD Audio + Mic (TRRS Port), Power Button, Reset Button",
+        "EXPANSION SLOTS": "7",
+        "CABLE MANAGEMENT SUPPORT": "Yes",
+        "ARGB FANS": "6",
+        "PSU ZONE": "Dedicated PSU & Component Zone",
+        "PACKING SIZE (MM)": "491 x 282 x 499"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (CRYSTAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/crystal-neo"
+  }
+}

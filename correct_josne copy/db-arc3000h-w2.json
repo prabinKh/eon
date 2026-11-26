@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Demo Box",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/demo-box",
+    "tab_title": "Demo Box",
+    "tab_id": "15607",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Demo Box",
+      "Demo Box"
+    ]
+  },
+  "card_info": {
+    "product_id": "124237",
+    "product_name": "DB-ARC3000H-W2",
+    "product_title": "Dahua Wireless Alarm Demo Box",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/demo-box/db-arc3000h-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/db-arc3000h-w2.html",
+  "detail": {
+    "title": "Dahua Wireless Alarm Demo Box",
+    "model": "DB-ARC3000H-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DB-ARC3000H-W2 Dahua Wireless Alarm Demo Box Key Points · Easy to carry around with designed universal wheels. · Straightforward to demonstrate the functions of all the devices outside the box. · Place soft foam in the exhibition box to protect the devices from being damaged by shaking. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2_2_thumb.png",
+        "alt": "DB-ARC3000H-W2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2_3_thumb.png",
+        "alt": "DB-ARC3000H-W2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230214/DB-ARC3000H-W2_4_thumb.png",
+        "alt": "DB-ARC3000H-W2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "General": {
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Product Dimensions": "513 mm × 467 mm × 214 mm (20.20\" × 18.39\" × 8.43\") (L × W × H)",
+        "Packaging Dimensions": "676 mm × 579 mm × 344 mm (26.61\" × 22.80\" × 13.54\") (L × W × H)",
+        "Net Weight": "6 kg (13.23 lb)",
+        "Gross Weight": "8 kg (17.64 lb)",
+        "Casing Material": "Aluminum",
+        "Certifications": "ROHS"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DB-ARC3000H-W2_datasheet_20230209.pdf"
+      },
+      {
+        "name": "2022-08-31 #Drawings DB-ARC3000H-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65617/drawings/DB-ARC3000H-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/demo-box/db-arc3000h-w2"
+  }
+}

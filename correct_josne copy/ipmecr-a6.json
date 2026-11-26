@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "154239",
+    "product_name": "IPMECR-A6",
+    "product_title": "Dahua Anti Smashing Radar",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/ipmecr-a6",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/image/1_0_99_81_10241_759750181_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmecr-a6.html",
+  "detail": {
+    "title": "Dahua Anti Smashing Radar",
+    "model": "IPMECR-A6",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMECR-A6 Dahua Anti Smashing Radar Key Points •Specifically designed for entrance/exit scenarios. It enables precise control over the barrier arm's movement to achieve intelligent anti-smashing functionality. •Operating at 60GHz with a linear frequency-modulated continuous wave (LFM-CW) signal, it delivers a bandwidth up to 4GHz. •The millimeter-wave antenna adopts a multiple transmit/multiple receive (MTMR) configuration. •Compact size, all-weather reliability, high sensitivity, and simple installation. •Accurately identifies and distinguishes pedestrians, vehicles, and other objects passing through the barrier area. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/image/1_0_99_81_10241_759750181_crop_thumb.PNG",
+        "alt": "IPMECR-A6_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/image/1_0_99_81_10241_759750183_crop_thumb.PNG",
+        "alt": "IPMECR-A6_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Basic": {
+        "Radar Modulation Type": "FMCW",
+        "Radar Frequency Range": "60 GHz–64 GHz",
+        "Radar Power Transmission": "11 dBm",
+        "Bluetooth Standard": "BLE5.0",
+        "Bluetooth Frequency Range": "2.402 GHz–2.480 GHz",
+        "Bluetooth Power Transmission": "≤8 dbm",
+        "Beamwidth": "Vertical 20° (-6° to +14°), horizontal 120° (±60°)",
+        "Response Time": "60 ms",
+        "Detection Width": "Horizontal width: 0 to 3 m (0 to 9.84 ft) (adjustable)",
+        "Detection Distance": "0 to 6 m (0 to 19.68 ft) (adjustable)"
+      },
+      "Function": {
+        "Detection Target": "person/vehicle",
+        "Online Commissioning": "Yes (debugging by connecting Bluetooth devices on the app)",
+        "Update": "Yes (online update through app and serial port)",
+        "Snapshot Mode": "Yes"
+      },
+      "Port": {
+        "RS-485": "1",
+        "I/O": "1 channel"
+      },
+      "General": {
+        "Operating Voltage": "9–24 VDC",
+        "Operating Current": "50 mA",
+        "Power Consumption": "<0.5 W (average power consumption)",
+        "Operating Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Storage Temperature": "–10 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Storage Humidity": "0%–90% (RH), non-condensing",
+        "Protection": "IP67",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use and are applicable even in areas with no specific requirements for anti-corrosion protection.",
+        "Product Dimensions": "107.9 mm × 73.6 mm × 33.2 mm (4.25\" × 2.9\" × 1.31\") (L × W × H)",
+        "Packaging Dimensions": "164 mm × 113 mm × 49 mm (6.46\" × 4.45\" × 1.93\") (L × W × H)",
+        "Net Weight": "118 g (0.26 lb)",
+        "Gross Weight": "293 g (0.65 lb)",
+        "Installation": "Side installation"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/datasheet/IPMECR-A6_datasheet_20251210.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua 60 GHz Anti-Smashing Radar_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/user_manual/Dahua_60_GHz_Anti-Smashing_Radar_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-12-09 #A&E Document IPMECR-A6_A&E_20251219140422 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/a_e_document/IPMECR-A6_A_E_20251219140422.docx"
+      },
+      {
+        "name": "2025-12-23 #Drawings IPMECR-A6_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/drawings/IPMECR-A6_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-12-10 #Drawings IPMECR-A6_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85430/drawings/IPMECR-A6_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/ipmecr-a6"
+  }
+}

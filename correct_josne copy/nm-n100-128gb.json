@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Memory Card",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/memory-card",
+    "series": "N100",
+    "series_url": "https://www.dahuasecurity.com/products/memory/memory-card/n100",
+    "tab_title": "N100",
+    "tab_id": "17587",
+    "breadcrumbs": [
+      "Memory",
+      "Memory Card",
+      "N100",
+      "N100"
+    ]
+  },
+  "card_info": {
+    "product_id": "139857",
+    "product_name": "NM-N100-128GB",
+    "product_title": "N100 Nano Memory Card",
+    "product_url": "https://www.dahuasecurity.com/products/memory/memory-card/n100/nm-n100-128gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231229/1_0_99_80_10319_2080073269-Black_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/nm-n100-128gb.html",
+  "detail": {
+    "title": "N100 Nano Memory Card",
+    "model": "NM-N100-128GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NM-N100-128GB N100 Nano Memory Card Key Points The N100 series product adopts mainstream fash memory cell. It can operate in wide temperature range with superior performance and long service life. With four types of protecton (high and low temperature resistant, waterproof, ant-magnetc, and ant X-ray), it can adapt to various environments. The product can transfer large volume of audio and video fles fast and stably with read speed up to 93 MB/s. It features easy operaton and stable compatbility. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231229/1_0_99_80_10319_2080073269-Black_thumb.png",
+        "alt": "NM-N100-128GB_View_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231229/NM-N100-128GB_View_45left-logo-Black_thumb.png",
+        "alt": "NM-N100-128GB_View_45left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231229/1_0_99_80_10319_2080073268-Black_thumb.png",
+        "alt": "NM-N100-128GB_View_45Right-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231229/1_0_99_80_10319_2080032312-Black_thumb.png",
+        "alt": "NM-N100-128GB_View_Other-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231229/1_0_99_80_10319_2080032311-Black_thumb.png",
+        "alt": "NM-N100-128GB_View_Other-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231229/1_0_99_80_10319_2080032310-Black_thumb.png",
+        "alt": "NM-N100-128GB_View_Other-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-NM-N100-64GB",
+        "Capacity": "64 GB",
+        "Memory Component": "TLC",
+        "Read Speed": "Up to 93 MB/s",
+        "Write Speed": "Up to 82 MB/s",
+        "TBW": "190 TB",
+        "File System": "exFAT/NTFS",
+        "Operating Temperature": "–25 °C to +85 °C (–13 °F to +185 °F)",
+        "Storage Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Operating Humidity": "25%–85% (non-condensing)",
+        "Four Types of Protection": "High and low temperature resistant, waterproof, anti-magnetic, and anti X-ray",
+        "Compatibility": "Mainstream Hosts with Nano protocol",
+        "Warranty": "3-year limited warranty. The limited warranty requires that the product use does not exceed the warranty period or maximum write amount of TBW. For detailed specifications and warranty policies, please refer to the official website.",
+        "Product Dimensions": "12.3 mm × 8.8 mm × 0.7 mm (0.48\" × 0.35\" × 0.03\")",
+        "Packaging Dimensions": "120 mm × 80 mm × 5.8 mm (4.72\" × 3.15\" × 0.23\")",
+        "Net Weight": "0.25 g",
+        "Gross Weight": "16 g",
+        "Reference Information": "Note: For detailed information on compatible devices, please go to www.dahuasecurity.com.① 1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not all for data storage. According to internal testing, the transmission speed varies with the devices, ports, environments, and other factors. 3. Warranty period or maximum write amount (TBW), whichever comes first. *Above data based on internal testing of Dahua Memory Laborat"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/NM-N100-128GB_Datasheet_20221026.pdf"
+      },
+      {
+        "name": "2022-12-21 #Drawings NM-N100-128GB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78877/drawings/NM-N100-128GB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/memory-card/n100/nm-n100-128gb"
+  }
+}

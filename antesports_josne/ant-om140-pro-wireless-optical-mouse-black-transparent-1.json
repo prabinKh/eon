@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "OM140 PRO Wireless Mouse - Black & Transparent"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315415912739",
+    "product_name": "OM140 PRO Wireless Mouse - Black & Transparent",
+    "product_title": "OM140 PRO Wireless Mouse - Black & Transparent",
+    "product_url": "https://antesports.com/products/ant-om140-pro-wireless-optical-mouse-black-transparent-1",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_c73c4593-791d-495d-a1e7-0e9507871d81.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-om140-pro-wireless-optical-mouse-black-transparent-1.html",
+  "detail": {
+    "title": "OM140 PRO Wireless Mouse - Black & Transparent",
+    "model": "ANTR0001",
+    "brand": "Ant Esports",
+    "overview": "Experience the perfect combination of performance, versatility, and modern design with theAnt OM140 PRO Wireless Optical Mouse - Black & Transparent. Built for professionals, gamers, and everyday users, this stylish mouse features a unique transparent design with an illuminated RGB logo, delivering both aesthetics and functionality.",
+    "features": [
+      "Its lightweightambidextrous designprovides comfortable use for both left- and right-handed users, while the4 responsive buttonsoffer reliable performance for everyday tasks. Designed with durable switches rated for5 million clicks, the OM140 PRO is built to withstand long-term use."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_c73c4593-791d-495d-a1e7-0e9507871d81.png",
+        "alt": "OM140 PRO Wireless Mouse - Black & Transparent - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_4923de3a-483d-4b18-a3b5-24d1f6ebe583.png",
+        "alt": "OM140 PRO Wireless Mouse - Black & Transparent - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Shape": "Ambidextrous",
+        "Total Buttons": "4 Buttons",
+        "Connectivity": "Tri-Mode (2.4G, BT, Wired)",
+        "DPI": "3600",
+        "Tracking": "28 IPS",
+        "Lighting Type": "RGB Logo",
+        "Connector Type": "USB-A Dongle",
+        "Compatibility": "Windows, Linux, Mac",
+        "Switch Lifetime": "5M Clicks",
+        "SHAPE": "Ambidextrous",
+        "TOTAL BUTTONS": "4 Buttons",
+        "CONNECTIVITY": "Tri-Mode (2.4G, BT, Wired)",
+        "TRACKING": "28 IPS",
+        "LIGHTING TYPE": "RGB Logo",
+        "CONNECTOR TYPE": "USB-A Dongle",
+        "COMPATIBILITY": "Windows, Linux, Mac",
+        "SWITCH LIFETIME": "5M Clicks",
+        "Offer Price (INR)": "₹599.00",
+        "MRP (INR)": "₹2,199.00",
+        "SKU": "ANTR0001"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-om140-pro-wireless-optical-mouse-black-transparent-1"
+  }
+}

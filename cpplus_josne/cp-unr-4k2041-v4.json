@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "4 Ch.",
+    "category_url": "https://cpplusworld.com/products/4-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/4-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "28",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "4 Ch.",
+      "CP-UNR-4K2041-V4"
+    ]
+  },
+  "card_info": {
+    "product_id": "2231",
+    "product_name": "CP-UNR-4K2041-V4",
+    "product_title": "CP-UNR-4K2041-V4",
+    "product_url": "https://cpplusworld.com/cp-unr-4k2041-v4",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/e59d7f4c-1c77-4e1b-a609-62c85aedbd54.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k2041-v4.html",
+  "detail": {
+    "title": "CP-UNR-4K2041-V4",
+    "model": "CP-UNR-4K2041-V4",
+    "brand": "CP Plus",
+    "overview": "4 Ch. 4K Network Video Recorder",
+    "features": [
+      "Up to 4 channel IP camera input",
+      "Instastream, H.265, H.264+, H.264, MJPEG Decoding",
+      "Max. Decoding capability: 4 × 1080p@30fps",
+      "80 Mbps Incoming, 80 Mbps Recording and 60 Mbps Outgoing",
+      "AI by NVR: Supports 4 Channel IMD",
+      "AI by Camera: Supports perimeter protection, IMD",
+      "Support 1 SATA HDD up to 20TB Each, 2 USB Ports, 1  HDMI, 1 VGA, 1 RJ-45",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e59d7f4c-1c77-4e1b-a609-62c85aedbd54.png",
+        "alt": "CP-UNR-4K2041-V4 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/97e06d8e-0083-4cdc-a5d6-91c61f22866f.png",
+        "alt": "CP-UNR-4K2041-V4 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "User Interface": "Web, Local GUI",
+        "AI by NVR": "IMD",
+        "AI by Camera": "Perimeter protection, IMD",
+        "Perimeter Performance of AI by Camera": "Human and vehicle detection on all channels, Supporting up to 4 targets per second",
+        "IMD+ by NVR": "4 Channels: Secondary filtering for human and motor vehicle, Reducing false alarms caused by  leaves, Rain and lighting condition change",
+        "IMD+ by Camera": "Human and vehicle detection on all channels, Supporting up to 8 targets per second",
+        "IP Camera Input": "4 Channels",
+        "Network Bandwidth": "80 Mbps Incoming, 80 Mbps Recording and 60 Mbps Outgoing",
+        "Resolution": "12MP, 8MP, 6MP, 5MP, 4MP, 3MP, 1080p, 720p, 960p, D1, CIF, QCIF",
+        "Decoding Capability": "AI disabled: 1 Channel 12MP@30 fps, 1 Channel 8MP@30 fps, 2 Channel 6MP@30 fps, 2  Channel 5MP@30 fps, 3 Channel 4MP@30 fps, 4 Channel 1080p@30 fps;                                                      AI enabled: 1 Channel 8MP@30 fps; 1 Channel 6MP@30 fps, 1 Channel 5MP@30 fps, 2                   Channel 4MP@30 fps, 4 Channel 1080p@30 fps",
+        "Video Output": "1 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720                                                                                                         1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Video Display Split": "1/4",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, UDP, NTP, DHCP, DNS, SMTP, IP Filter, DDNS, InstaOn, Auto  Connect, ONVIF (Profile T, Profile S, Profile G), CGI, SDK",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Smart Phone": "iOS, Android",
+        "Multi-channel Playback": "Up to 4 Channels",
+        "Recording Mode": "General, Motion detection, Intelligent, Alarm",
+        "Backup Mode": "USB device and network",
+        "Playback": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "General Alarm": "Motion detection, Camera external alarm, PIR alarm",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict,  MAC conflict), Video loss, Video tampering, Camera offline",
+        "Intelligent Alarm": "Perimeter protection, IMD+",
+        "Alarm Linkage": "Recording, Snapshot, Buzzer, Log, Preset, Email, Tour",
+        "Audio Input": "1 Channel RCA",
+        "Audio Output": "1 Channel RCA",
+        "Hard Disk": "1 SATA port each disk can contain up to 20 TB. this limit varies depending on the environment  temperature.",
+        "Interface Ports": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port), 1 HDMI, 1 VGA",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "<10 W (without HDD)",
+        "Operating Temperature": "–10°C to +55°C (14°F to +131°F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Storage Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Dimension": "260.0 mm × 232.5 mm × 47.6 mm",
+        "Weight": "850g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K2041-V4.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k2041-v4"
+  }
+}

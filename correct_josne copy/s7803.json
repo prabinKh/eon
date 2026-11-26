@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Core Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "series": "Core Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "tab_title": "Core Switches",
+    "tab_id": "4321",
+    "breadcrumbs": [
+      "Transmission",
+      "Core Switches",
+      "Core Switches",
+      "Core Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "111657",
+    "product_name": "S7803",
+    "product_title": "L3 Managed S78 Series Switch with 3-Slot-DH-S7803",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s7803",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220801/S7803_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s7803.html",
+  "detail": {
+    "title": "L3 Managed S78 Series Switch with 3-Slot-DH-S7803",
+    "model": "S7803",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220801/S7803_1_thumb.png",
+        "alt": "S7803",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s7803"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 20 Dual-Mode Wireless Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341843927331",
+    "product_name": "Globe 20 Dual-Mode Wireless Mouse",
+    "product_title": "Globe 20 Dual-Mode Wireless Mouse",
+    "product_url": "https://antesports.com/products/globe-20-dual-mode-wireless-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/17_35e8da53-bcba-4a86-ae5d-e4aed0f72e09.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-20-dual-mode-wireless-mouse.html",
+  "detail": {
+    "title": "Globe 20 Dual-Mode Wireless Mouse",
+    "model": "ANTR0054",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 20 pairs 2.4GHz USB and Bluetooth connectivity in one dual-mode wireless mouse, letting you switch instantly between a laptop, desktop, tablet or smartphone. A precise 1600 DPI optical sensor gives accurate, responsive cursor control for work, browsing and light gaming, while silent switches with 60-78g click pressure keep it quiet for office or late-night use. Its contoured, matte-finish shape supports the palm comfortably through long sessions, and a built-in 500mAh rechargeable lithium battery is topped up over USB, cutting out disposable batteries entirely. Genuinely plug-and-play across Windows, Mac and Linux.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/17_35e8da53-bcba-4a86-ae5d-e4aed0f72e09.jpg",
+        "alt": "Globe 20 Dual-Mode Wireless Mouse - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz USB + Bluetooth",
+        "DPI": "1600 Optical",
+        "Battery": "500mAh Rechargeable, USB Charging",
+        "Buttons": "4, Silent Click",
+        "Build": "Ergonomic Matte Finish",
+        "Compatibility": "Windows, Mac, Linux",
+        "CONNECTIVITY": "2.4GHz USB + Bluetooth",
+        "BATTERY": "500mAh Rechargeable, USB Charging",
+        "BUTTONS": "4, Silent Click",
+        "BUILD": "Ergonomic Matte Finish",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "SKU": "ANTR0054"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-20-dual-mode-wireless-mouse"
+  }
+}

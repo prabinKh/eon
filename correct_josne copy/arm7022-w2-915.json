@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "154853",
+    "product_name": "ARM7022-W2(915)",
+    "product_title": "Wireless Dual-Channel Relay",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm7022-w2(915)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_931478932_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/arm7022-w2-915.html",
+  "detail": {
+    "title": "Wireless Dual-Channel Relay",
+    "model": "ARM7022-W2(915)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARM7022-W2(915) Wireless Dual-Channel Relay Key Points · Supports roller shutter door/window control. · Supports local operation and remote operation. · Supports OTA upgrading and automatically restores when cloud update fails. · Supports high-power device access. · Provides power real-time consumption monitoring. · Frequency hopping and two-way communication technology ensure that communication is stable. · Supports jamming detection and communication encryption. · Supports multiple installation methods. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_931478932_crop_thumb.PNG",
+        "alt": "ARM7022-W2(915)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_931478928_crop_thumb.PNG",
+        "alt": "ARM7022-W2(915)_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_931478930_crop_thumb.PNG",
+        "alt": "ARM7022-W2(915)_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_931478931_crop_thumb.PNG",
+        "alt": "ARM7022-W2(915)_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_951592529_crop_thumb.PNG",
+        "alt": "ARM7022-W2(915)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/image/1_0_01_19_11126_951592530_crop_thumb.PNG",
+        "alt": "ARM7022-W2(915)_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Wired Input": {},
+      "Wired Output": {},
+      "Indicator Light": {},
+      "Button": {},
+      "Remote Update": {},
+      "Test Mode": {},
+      "Min. Detection Current": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Material": {},
+      "Casing Material": {},
+      "Appearance Color": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/datasheet/ARM7022-W2(915)_S0_datasheet_20260507.pdf"
+      },
+      {
+        "name": "2026-06-04 #User Manual Dahua Wireless Dual-Channel Relay_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87633/user_manual/Dahua_Wireless_Dual-Channel_Relay_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-06-04 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2026-06-04 #User Manual Wireless Dual-Channel Relay_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87633/user_manual/Wireless_Dual-Channel_Relay_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-03-27 #Drawings ARM7022-W2(915)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87633/drawings/ARM7022-W2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-03-27 #Drawings ARM7022-W2(915)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87633/drawings/ARM7022-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-01 #Drawings ARM7022-W2(915)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87633/drawings/ARM7022-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-12 #Firmware General_ARM7022-W2_915_V1.000.0000001.0.R.260429 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87632/firmware/General_ARM7022-W2_915_V1.000.0000001.0.R.260429.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm7022-w2(915)"
+  }
+}

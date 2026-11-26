@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras",
+    "series": "SD4",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd4",
+    "tab_title": "SD4",
+    "tab_id": "9302",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI PTZ Cameras",
+      "SD4",
+      "SD4"
+    ]
+  },
+  "card_info": {
+    "product_id": "135727",
+    "product_name": "SD49218DB-HC",
+    "product_title": "2MP 18x Starlight IR HDCVI PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd4/sd49218db-hc",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231012/1_0_01_07_15323_12022889288_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/sd49218db-hc.html",
+  "detail": {
+    "title": "2MP 18x Starlight IR HDCVI PTZ Camera",
+    "model": "SD49218DB-HC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD49218DB-HC 2MP 18x Starlight IR HDCVI PTZ Camera Key Points • High-Quality Imaging with 2MP Resolution • 18× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 100m IR Distance for 24/7 Monitoring • 4 in 1 (4 Signals Switchable TVI/AHD/CVI/CVBS) • Clear Imaging Against Strong Back Light Due to 120 dB True WDR Technology • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231012/1_0_01_07_15323_12022889288_crop_thumb.png",
+        "alt": "SD49218DB-HC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15323/ProductImage/1_0_01_07_15323_1202889289_crop_thumb.png",
+        "alt": "SD49218DB-HC_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Electronic Shutter Speed": "1/3 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE); 0.0005 lux@F1.6 (B/W, 30 IRE) 0 lux (illuminator)",
+        "Illumination Distance": "100 m (328.08 ft) (IR)",
+        "Illuminator On/Off Control": "Zoom Prio; manual",
+        "Illuminator Number": "6 (IR)"
+      },
+      "Lens": {
+        "Focal Length": "5 mm–90 mm",
+        "Max. Aperture": "F1.6–F2.9",
+        "Field of View": "H: 60.6°–3.8°; V: 34.1°–2.1°; D: 69.4°–4.4°",
+        "Optical Zoom": "18x",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "0.1 m–1.5 m (0.33 ft–4.92 ft)",
+        "Iris Control": "Auto; manual",
+        "DORI Distance": "Detect",
+        "1241.4 m (4072.77 ft)": "490.3 m (1608.74 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless; Tilt: –15° to +90°, auto flip 180°",
+        "Manual Control Speed": "Pan: 0.1°–200°/s; Tilt: 0.1°–120°/s",
+        "Preset Speed": "Pan: 0.1°–240°/s; Tilt: 0.1°–200°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Pattern; Preset; Scan; Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)"
+      },
+      "Video": {
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480)",
+        "Video Frame Rate": "1080p (25/30 fps); 720p (25/30/50/60 fps)",
+        "Day/Night": "Yes",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Defog": "Electronic",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Yes",
+        "S/N Ratio": "≥ 50 dB"
+      },
+      "Function": {
+        "CVI Product Output Mode": "TVI; CVI; CVBS; AHD (CVBS is only used for debugging)"
+      },
+      "Certification": {
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpart B, ANSI C63.4-2014 UL: UL60950-1+CAN/CSA C22.2, No.60950-1"
+      },
+      "Port": {
+        "Analog Output": "1 channel (CVBS/CVI output, BNC)",
+        "RS-485": "1 (baud rate range: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Alarm Input": "2 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "1",
+        "Alarm Linkage": "Scan; preset; tour; pattern; alarm digital output",
+        "Alarm Event": "Alarm input"
+      },
+      "Power": {
+        "Power Supply": "12 VDC, 3 A ± 10%",
+        "Power Consumption": "Basic: 10 W Max: 22 W (PTZ + illuminator + heater)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Protection": "TVS 6000 V lightning proof; IP66; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "269.9 mm × Φ160.0 mm (10.62\" × Φ6.30\")",
+        "Net Weight": "3.0 kg (6.61 lb)",
+        "Gross Weight": "4.2 kg (9.26 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-SD49218DB-HC_S0_datasheet_20250115.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82244/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004379/202411/Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual HDCVI_Speed_Dome&PTZ_Camera_User's_Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007330/202411/HDCVI_Speed_Dome_26PTZ_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-23 #A&E Document SD49218DB-HC_A&E_20260918000230 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76587/a_e_document/1789662065417.docx"
+      },
+      {
+        "name": "2023-07-14 #Drawings SD49218DB-HC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/26147/drawings/SD49425XB-HNR-S3_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-07-14 #Drawings SD49218DB-HC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5327/drawings/SD49225-HC-LA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-08-18 #Firmware General_SD49XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212384/M/General_SD49XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "2023-06-20 #Firmware General_SD49XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212386/M/General_SD49XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd4/sd49218db-hc"
+  }
+}

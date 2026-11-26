@@ -1,0 +1,104 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "110 Litres Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/110-litres-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "110 Litres Air Cooler",
+    "tab_id": "9094507036890",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "110 Litres Air Cooler",
+      "Intex Torpedo HC 110 – 110 Litres Air Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "9094507036890",
+    "product_name": "Intex Torpedo HC 110 – 110 Litres Air Cooler",
+    "product_title": "Intex Torpedo HC 110 – 110 Litres Air Cooler",
+    "product_url": "https://www.intex.in/products/intex-torpedo-hc-110-110-litres-air-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/torpedo-110_a1272a11-56b6-4620-b4f8-b202f9bd6d1d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 25990.0,
+      "display": "₹25,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-torpedo-hc-110-110-litres-air-cooler.html",
+  "detail": {
+    "title": "Intex Torpedo HC 110 – 110 Litres Air Cooler",
+    "model": "110-110",
+    "brand": "Intex",
+    "overview": "The Torpedo HC 110 is designed for durability and efficiency, featuring a shock- and rust-proof body, a T.O.P. cover motor for safe performance, and inverter compatibility for uninterrupted cooling. With its 110-litre tank and powerful airflow, it is ideal for both home and semi-commercial use.",
+    "features": [
+      "Shock and rust-proof body",
+      "T.O.P. cover motor for safe operation",
+      "Voltage fluctuation protection",
+      "4-way air deflection",
+      "Inverter compatible",
+      "18.5-inch fan blade",
+      "Honeycomb cooling pads",
+      "Capacity: 110 Litres",
+      "Fan Blade: 18.5 inches",
+      "Cooling Technology: Honeycomb Pads",
+      "Body Type: Shock & Rust Proof"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/torpedo-110_a1272a11-56b6-4620-b4f8-b202f9bd6d1d.jpg",
+        "alt": "Intex Torpedo HC 110 – 110 Litres Air Cooler",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Shock and rust-proof body",
+        "Feature 2": "T.O.P. cover motor for safe operation",
+        "Feature 3": "Voltage fluctuation protection",
+        "Feature 4": "4-way air deflection",
+        "Feature 5": "Inverter compatible",
+        "Feature 6": "18.5-inch fan blade",
+        "Feature 7": "Honeycomb cooling pads",
+        "Feature 8": "Capacity: 110 Litres",
+        "Feature 9": "Fan Blade: 18.5 inches",
+        "Feature 10": "Cooling Technology: Honeycomb Pads",
+        "Feature 11": "Body Type: Shock & Rust Proof"
+      },
+      "General": {
+        "Model": "110-110"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-torpedo-hc-110-110-litres-air-cooler"
+  }
+}

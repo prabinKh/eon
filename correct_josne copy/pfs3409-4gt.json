@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Access Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/access-switches",
+    "series": "Metal",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/access-switches/metal",
+    "tab_title": "Metal",
+    "tab_id": "8607",
+    "breadcrumbs": [
+      "Transmission",
+      "Access Switches",
+      "Metal",
+      "Metal"
+    ]
+  },
+  "card_info": {
+    "product_id": "19591",
+    "product_name": "PFS3409-4GT",
+    "product_title": "9-Port Gigabit Switch (Unmanaged)",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/pfs3409-4gt",
+    "card_image": "https://material.dahuasecurity.com/product/20180115/DH-PFS3409-4GT_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs3409-4gt.html",
+  "detail": {
+    "title": "9-Port Gigabit Switch (Unmanaged)",
+    "model": "PFS3409-4GT",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/product/20180115/DH-PFS3409-4GT_thumb.png",
+        "alt": "PFS3409-4GT",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/accessswitch/pfs3409-4gt"
+  }
+}

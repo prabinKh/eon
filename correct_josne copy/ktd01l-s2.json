@@ -1,0 +1,240 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "2-Wire IP",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station",
+    "tab_title": "KIT",
+    "tab_id": "12912",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "2-Wire IP",
+      "Apartment Door Station",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "153613",
+    "product_name": "KTD01L",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/kit/2-wire-ip-kit/ktd01l=s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_726029854_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktd01l-s2.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTD01L",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTD01L Video Intercom KIT Key Points • DHI-VTO2202F-P-S2 + DHI-VTH5422HW + DHI-VTNS1001B-2 • 7-inch Screen VTH • Metal VTO • 2-Wire Connection • APP Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_726029854_thumb.png",
+        "alt": "KTD01L_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_726029852_crop_thumb.png",
+        "alt": "KTD01L_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_726029853_crop_thumb.png",
+        "alt": "KTD01L_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_609516113_crop_thumb.png",
+        "alt": "KTD01L_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_609516114_crop_thumb.png",
+        "alt": "KTD01L_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12623/ProductImage/1_0_01_15_12623_778856343_thumb.png",
+        "alt": "KTD01L_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System(VTO)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux Operation System",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "SIP; TCP; RTP; UPnP; P2P; DNS; UDP; RTSP; IPv4"
+      },
+      "Basic(VTO)": {
+        "Camera": "1/2.9\" 2 MP CMOS",
+        "Field of View": "H: 168.6°; V: 87.1°; D: 176.7°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.265; H.264",
+        "Video Resolution": "Main stream: 720p; WVGA; D1; CIF Sub stream: 1080p; WVGA; D1; QVGA; CIF",
+        "Video Frame Rate": "25 fps",
+        "Video Bit Rate": "256 kbps to 8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bits"
+      },
+      "Function(VTO)": {
+        "Communication Mode": "Digital 2-wire",
+        "Unlock Mode": "Remote",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Supports Micro SD card (up to 256 GB)",
+        "Web Configuration": "Yes"
+      },
+      "Performance(VTO)": {
+        "Casing Material": "Aluminum"
+      },
+      "Port(VTO)": {
+        "RS-485": "1",
+        "Alarm Output": "1",
+        "Power Output": "1 port (12 V, 600 mA)",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45 port, 10/100 Mbps network port"
+      },
+      "Alarm(VTO)": {
+        "Tamper Alarm": "Yes"
+      },
+      "General(VTO)": {
+        "Appearance Color": "Silver",
+        "Power Supply": "Dahua 2-wire switch (max. power supply distance is 50 m) 48 VDC, 1 A; PoE (802.3af/at)",
+        "Power Adapter": "Optional",
+        "Installation": "Surface mount (The surface mount kit comes with the surface mount bracket)",
+        "Certifications": "CE",
+        "Accessory": "Surface mount box (included)",
+        "Product Dimensions": "130 mm × 96 mm × 28.5 mm (5.12\" × 3.78\" × 1.12\")",
+        "Protection": "IK07; IP65",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "≤4 W (standby), ≤5 W (working)",
+        "Gross Weight": "0.48 kg (1.06 lb)",
+        "Storage Humidity": "30%–75% (RH), non-condensing",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)"
+      },
+      "System (VTH)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux Operation System",
+        "Button Type": "Touch button",
+        "Interoperability": "ONVIF",
+        "Network Protocol": "SIP; IPv4; RTSP; RTP; TCP; UDP"
+      },
+      "Basic (VTH)": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7\" TFT",
+        "Screen Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 kHz, 16 bits"
+      },
+      "Function (VTH)": {
+        "Communication Mode": "Digital 2-wire",
+        "Information Release": "Supports viewing text announcement from the center (insert an SD card to receive and view pictures)",
+        "Leave Videos": "Yes (SD card inserted in VTH is needed)",
+        "DND Mode": "Do not disturb period can be set;Do not disturb mode can be set",
+        "Number of Extensions": "Villa: 4; apartment: 3",
+        "Storage": "Supports Micro SD card (up to 64 GB)"
+      },
+      "Port (VTH)": {
+        "RS-485": "1",
+        "Alarm Input": "6 channel (switch quantity)",
+        "Alarm Output": "1 channel",
+        "Power Output": "1 port (12 V, 100 mA)",
+        "Door Bell": "Yes, reusing any alarm input port",
+        "Network Port": "One 2-wire port and one 10/100 Mbps Ethernet port (one of them can be selected)"
+      },
+      "Performance(VTH)": {
+        "Casing Material": "PC + ABS"
+      },
+      "General (VTH)": {
+        "Appearance Color": "White",
+        "Power Supply": "2-wire switch (max power transmission distance: 50 m); Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC; UL",
+        "Accessory": "Bracket (standard) Alarm ribbon cable (standard)",
+        "Product Dimensions": "189.0 mm × 130.0 mm × 26.9 mm (7.44\" × 5.12\" × 1.06\")",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.52 ft)",
+        "Operating Environment": "Indoor",
+        "Power Consumption": "≤2 W (standby), ≤6 W (working)",
+        "Gross Weight": "0.74 kg (1.63 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75% (RH), non-condensing"
+      },
+      "System(Networking Device)": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Function(Networking Device)": {
+        "Communication Mode": "Digital 2-wire"
+      },
+      "Performance(Networking Device)": {
+        "Casing Material": "PC + ABS"
+      },
+      "Port(Networking Device)": {
+        "Network Port": "1 × 2-wire port; 1 × 100 Mbps Ethernet port"
+      },
+      "General (Networking Device)": {
+        "Appearance Color": "White",
+        "Power Supply": "DC 48V 1A–3A",
+        "Power Adapter": "Included",
+        "Installation": "Guide Rail Mount",
+        "Certifications": "CE; FCC; UL",
+        "Product Dimensions": "131 mm × 103 mm × 40 mm (5.16\" × 4.06\" × 1.57\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.52 ft)",
+        "Power Consumption": "≤15 W (self-working); output≤48 W (villa)",
+        "Gross Weight": "0.39 kg (0.86 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-KTD01L(S)_S2_datasheet_20241204.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/kit/2-wire-ip-kit/ktd01l=s2"
+  }
+}

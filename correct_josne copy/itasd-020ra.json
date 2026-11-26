@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Traffic Signal Controller and Traffic Light",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Traffic Signal Controller and Traffic Light",
+    "tab_id": "14027",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Traffic Signal Controller and Traffic Light",
+      "Traffic Signal Controller and Traffic Light"
+    ]
+  },
+  "card_info": {
+    "product_id": "104917",
+    "product_name": "ITASD-020RA",
+    "product_title": "Red Light Signal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-signal-controller-and-traffic-light/traffic-signai-detector/itasd-020ra",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220331/it1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itasd-020ra.html",
+  "detail": {
+    "title": "Red Light Signal Detector",
+    "model": "ITASD-020RA",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITASD-020RA Red Light Signal Detector Key Points Network Status Monitoring Supports setting up switch gateway through the configuration tool, and enabling ping to check network status. Log will be generated for first successful or failed ping operation. Logging Records up to 1700 logs, and through the configuration tool, you can search for logs relating to the device, time sync, ping success or failure, red/green light signal input anomaly and anomaly recovery. Hardware Reset Press and hold the RESET button to reset all configurations of the device, except device ID, Board SN and MAC address. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220331/it1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220331/it3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220331/it2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Status Indicator": "1 RUN indicator, 1 LAN indicator, 20 input status indicators"
+      },
+      "Function": {
+        "Parameter Configuration": "Supports 20 channels of camera parameters and channel parameters configuration",
+        "Status Detection": "Camera online/offline status and traffic light red/green status",
+        "Mode Switch": "Supports red/green light detection modes",
+        "Signal Input Anomaly Detection": "Supports red/green signal anomaly detection; Signal input duration limit can be adjusted between 1–300 seconds",
+        "Time Synchronization": "Supports NTP/PC time sync",
+        "Network Status Monitoring": "Yes",
+        "Logging": "Records up to 1700 logs"
+      },
+      "Port": {
+        "Signal Input": "20 channels, 220V AC red/green light signal",
+        "RS-485": "1 port for debugging",
+        "Network": "1 RJ45 100Mbps Ethernet port for data transmission"
+      },
+      "General": {
+        "Hardware Reset": "Yes",
+        "Power Supply": "12V DC (provided)",
+        "Power Consumption": "<3W",
+        "Operating Temperature": "–40°C to +65°C (–40°F to +149°F)",
+        "Operating Humidity": "10%RH–95%RH (non-condensing)",
+        "Dimensions": "190.0 mm × 150.0 mm × 42.0 mm (7.48\" × 5.91\" × 1.65\")",
+        "Net Weight": "1 kg (2.20 lb)",
+        "Gross Weight": "1.2 kg (2.65 lb)",
+        "Installation": "Rack-mounted/Desktop-mounted"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITASD-020RA_datasheet_20200918.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Red light Signal Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004583/202411/Red_light_Signal_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Red Light Signal Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004583/202411/Red_Light_Signal_Detector_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Red Light Signal Detector_OPEN SOURCE SOFTWARE NOTICE_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004583/202411/Dahua_Red_Light_Signal_Detector_OPEN_SOURCE_SOFTWARE_NOTICE_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-02-28 #Drawings ITASD-020RA_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44047/drawings/ITASD-020RA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-09 #Firmware General_ITASD-020RA_GD32_MCU_V2.628.0000000.2.R.250815 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44047/firmware/General_ITASD-020RA_GD32_MCU_V2.628.0000000.2.R.250815.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-signal-controller-and-traffic-light/traffic-signai-detector/itasd-020ra"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Modules",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules",
+    "series": "Modules",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules",
+    "tab_title": "Modules",
+    "tab_id": "603",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Modules",
+      "Modules",
+      "Modules"
+    ]
+  },
+  "card_info": {
+    "product_id": "153743",
+    "product_name": "ASM100-D-V1",
+    "product_title": "Card Enrollment Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules/asm100-d-v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11423/ProductImage/1_0_01_25_11423_1488236456_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asm100-d-v1.html",
+  "detail": {
+    "title": "Card Enrollment Reader",
+    "model": "ASM100-D-V1",
+    "brand": "Dahua",
+    "overview": "Favourite ASM100-D-V1 Card Enrollment Reader Key Points • ID Card (125KHz) Enrollment Reader • USB Communication • Plug and Play Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11423/ProductImage/1_0_01_25_11423_1488236456_crop_thumb.png",
+        "alt": "ASM100-D-V1_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11423/ProductImage/1_0_01_25_11423_1488236455_crop_thumb.png",
+        "alt": "ASM100-D-V1_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_11423/ProductImage/1_0_01_25_11423_1488230284_crop_thumb.png",
+        "alt": "ASM100-D-V1_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Basic": {
+        "Status Indicator Light": "1 (Green: Normal; red: abnormal)",
+        "Casing": "PC+ABS",
+        "Buzzer": "Yes",
+        "Communication Mode": "Issues ID cards",
+        "Prompt of Succeeded in Issuing Card": "Card issuer is solid green and buzzer sounds for 1 s",
+        "Prompt of Failed to Issue Card": "Card issuer flashes red and buzzer sounds 3 times",
+        "Card Reading Frequency": "125 KHz",
+        "Card Issuing Distance": "3 cm–5 cm (1.18\"–1.97\")",
+        "Network Update": "Yes",
+        "First-Card Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Blocklist/Allowlist": "Yes",
+        "Power Supply": "5 V DC, 0.5 A",
+        "Product Dimensions": "105 mm × 75 mm × 20 mm (4.13\" × 2.95\" × 0.79\") (H × W × D)",
+        "Packaging Dimensions": "192 mm × 132 mm × 54 mm (7.56\" × 5.20\" × 2.13\")",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.18 kg (0.40 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASM100-D_datasheet_20210521.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Card Reader_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005466/202501/Card_Reader_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-06-01 #Firmware General_ASM100_V2.001.0000000.1.R.20210605 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/1480299/M/General_ASM100_V2.001.0000000.1.R.20210605.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules/asm100-d-v1"
+  }
+}

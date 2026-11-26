@@ -1,0 +1,194 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Education Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series",
+    "series": "ST420-S3 Series",
+    "series_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series/st420-s3-series",
+    "tab_title": "ST420-S3 Series",
+    "tab_id": "15997",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Education Series",
+      "ST420-S3 Series",
+      "ST420-S3 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "146688",
+    "product_name": "LPH75-ST420-S3",
+    "product_title": "75 inch Smart interactive whiteboard",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series/st420-s3-series/lph75-st420-s3=s3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_12074/ProductImage/1_0_01_14_12074_660933899_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/lph75-st420-s3-s3.html",
+  "detail": {
+    "title": "75 inch Smart interactive whiteboard",
+    "model": "LPH75-ST420-S3",
+    "brand": "Dahua",
+    "overview": "Compare Favourite LPH75-ST420-S3 75 inch Smart interactive whiteboard Key Points • Android 14, Enhanced Security and Data Protection • Brightness: 400 cd/m² • Speaker: 2 × 20 W • Zero Air Gap Screen • Wi-Fi 6 • AI Recognition of Drawings • Quick File Sharing via QR Code Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_12074/ProductImage/1_0_01_14_12074_660933899_crop_thumb.png",
+        "alt": "LPH75-ST420-S3_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_12074/ProductImage/1_0_01_14_12074_660933898_crop_thumb.png",
+        "alt": "LPH75-ST420-S3_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_12074/ProductImage/1_0_01_14_12074_660933900_crop_thumb.png",
+        "alt": "LPH75-ST420-S3_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_14_12074/ProductImage/1_0_01_14_12074_660933901_crop_thumb.png",
+        "alt": "LPH75-ST420-S3_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Built-in System": {
+        "Operating System": "Android 14",
+        "CPU": "Quad-core A55",
+        "CPU Frequency": "1.9 GHz",
+        "GPU": "ARM Mali-G52 MP2 (2EE)",
+        "RAM": "8 GB",
+        "ROM": "32 GB"
+      },
+      "LCD Panel": {
+        "Panel Dimensions": "75 inch",
+        "Backlight": "DLED",
+        "Aspect Ratio": "16:9",
+        "Brightness": "400 cd/m² (typ.)",
+        "Static Contrast": "VA: 4000; IPS: 1200",
+        "Resolution": "3840 (H) × 2160 (V)",
+        "Viewing Angle": "178° (H); 178° (V)",
+        "Lifespan": "50,000 hrs",
+        "Display Color": "1.07 Billion colors (10 Bit)",
+        "Response Time": "8 ms (typ.)",
+        "Refresh Rate": "60 Hz"
+      },
+      "Device Ports": {
+        "Light Sensor": "Yes",
+        "Front Button": "8 buttons: Whiteboard, volume, curtain, touch lock, signal source, navigation bar, homepage, power supply",
+        "Front Ports": "1 × Type -C 1 × HDMI IN 1 × USB Touch 2 × USB 3.2 Gen1 Type-A 1 × 3.5 mm Mic in 1 × Type-C (DP IN (4K@60 fps) + USB 3.0 Host+USB 2.0 device (touch) + PD 65 W); supports wired network sharing",
+        "Rear Port": "1 × Type -C 2 × HDMI IN (4K@60 Hz) 1 × VGA IN 1 × HDMI OUT (4K@60 Hz) 3 × USB Touch 2 × USB3.2 Gen1 Type-A Audio In: 1 × 3.5 mm Line In Audio Out: 1 × SPDIF and 1 × 3.5 mm Line out RS-232: 1 × DB9 port Micro: 1 × USB 2 × RJ-45 1 × OPS slot",
+        "Wi-Fi": "Yes",
+        "Wi-Fi Standard": "802.11b/g/n/a/ac/ax",
+        "Wi-Fi Frequency Range": "2.4 GHz/5 GHz",
+        "MAX Power Transmission (Wi-Fi)": "CE EIRP: ≤20 dBm@2400–2483.5 MHz; ≤23 dBm@5150–5250 MHz; ≤20 dBm@5250–5350 MHz; ≤27 dBm@5470–5725 MHz; ≤14 dBm@5725–5850 MHz",
+        "Bluetooth": "Yes",
+        "Bluetooth Standard": "EDR, BT2.1/4.2/5.2/5.3",
+        "Bluetooth Frequency Range": "2400–2483.5 MHz",
+        "MAX Power Transmission (Bluetooth)": "CE EIRP: ≤20 dBm@2400–2483.5 MHz;",
+        "RFID Modulation Method": "ASK",
+        "RFID Frequency Range": "13.56 MHz",
+        "MAX Power Transmission (RFID)": "42 dBuA/m @10 m"
+      },
+      "Function": {
+        "IR Receiver": "1",
+        "Card Swiping with NFC": "Yes",
+        "Wireless Access Point": "WIFI 5, 2.4 GHz/5 GHz; Supports enabling Hotsport and WIFi at the same time₩Wi-Fi 6, 2.4 GHz/5 GHz, supports 802.11 a/b/g/n/ac/ax"
+      },
+      "Touchscreen": {
+        "Response Time": "＜10 ms",
+        "Touch Technology": "Infrared",
+        "Attachment Method": "Zero Air Gap",
+        "Touch Points": "21 points for Android, and 40 points for Windows",
+        "Touch Accuracy": "±1 mm (0.04\")",
+        "Valid Touch": "2 mm (0.08\")",
+        "Touch Height": "3 mm (0.12\")",
+        "Writing Mode": "Finger and stylus pen",
+        "Communication Mode": "USB",
+        "Anti-light Interference": "Anti-dazzle",
+        "Surface Hardness": "≥9 H",
+        "Touch Resolution": "32,767 × 32,767"
+      },
+      "Speaker": {
+        "Built-in Speaker": "2 × full-frequency speaker",
+        "Power": "2.0 sound channel, front-end: 2 × 15 W₩2.0 sound channel, front-end: 2 × 20 W"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC, 50/60 Hz",
+        "Power Consumption": "75-inch: 150 W (typ.); 275 W (max, without OPS and Quicker Changer）",
+        "Standby Power Consumption": "≤0.5 W",
+        "Operating Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Temperature": "–10 °C to +50 °C (+14 °F to +122 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Product Material": "Metal",
+        "Glass": "4 mm anti-dazzle tempered glass",
+        "Casing Color (Frame/Rear)": "Black frame for left and right, silver frame for top and bottom and black frame for back",
+        "Product Dimensions": "1,707.5 mm × 121.3 mm × 1,050.0 mm (67.23\" × 4.48\" × 41.34\") (L × W × H)",
+        "Frame Size": "Top frame: 27 mm (1.06\"); Left and right frame: 16.5 mm (0.65\"); Bottom frame: 68 mm (2.68\")",
+        "Packaging Dimensions": "1,790.0 mm × 200.0 mm × 1,165.0 mm (70.47\" × 7.87\" × 45.87\") (L × W × H)",
+        "Net Weight": "49.0 kg (108.03 lb)",
+        "Gross Weight": "60.5 kg (133.38 lb)",
+        "Holes Distance": "600 mm × 400 mm (23.62\" × 15.75\")",
+        "Installation": "Wall mount or mobile bracket",
+        "Packing List": "1 × Smart interactive whiteboard; 1 × Power cord; 2 × Passive stylus pen; 1 × HDMI cabe; 1 × Quick start guide; 1 × Wall mount bracket (already installed on the whiteboard); 1 × Accessory package; 1 × Remote control; 1 × Legal and Regulatory Information"
+      },
+      "Certification": {
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/LPH75-ST420-S3_S3_datasheet_20240918.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Smart Interactive Whiteboard_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008741/202411/Dahua_Smart_Interactive_Whiteboard_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Smart Interactive Whiteboard_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84999/user_manual/Dahua_Smart_Interactive_Whiteboard_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-08-21 #Drawings LPH75-ST420-S3_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85443/drawings/LCH86-MC410-B-S2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-08-21 #Drawings LPH75-ST420-S3_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82388/drawings/LPH75-ST420-S3_PORT.pdf"
+      },
+      {
+        "name": "2025-09-17 #Drawings LPH75-ST420-S3_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82388/drawings/LPH75-ST420-S3_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-01-30 #Firmware DHI_DahuaDeepHubLiteBasicS3_MultiLang_V3.012.0000000.1.R.260119 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82389/firmware/DHI_DahuaDeepHubLiteBasicS3_MultiLang_V3.012.0000000.1.R.260119.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series/st420-s3-series/lph75-st420-s3=s3"
+  }
+}

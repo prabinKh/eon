@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "30",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "16 Ch.",
+      "CP-UNR-4K4162-V4"
+    ]
+  },
+  "card_info": {
+    "product_id": "1895",
+    "product_name": "CP-UNR-4K4162-V4",
+    "product_title": "CP-UNR-4K4162-V4",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4162-v4",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/60e7c3c4-2585-4bdb-8f5a-a8ea63ac3316.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4162-v4.html",
+  "detail": {
+    "title": "CP-UNR-4K4162-V4",
+    "model": "CP-UNR-4K4162-V4",
+    "brand": "CP Plus",
+    "overview": "16 Ch. 4K 2HDDs Network Video Recorder",
+    "features": [
+      "Up to 16 channel IP camera input",
+      "Max. decoding capability: 8 × 1080p@30 fps, 2 × 8 MP@30 fps",
+      "Smart Instastream/H.265/H.264 /MJPEG",
+      "Up to 12Mp resolution preview and playback",
+      "Max. 160/160/80 Mbps incoming/recording/outgoing bandwidth",
+      "Support 2 SATA HDDs up to 20TB, 2 (1 front USB 2.0 port, 1 rear USB 2.0 port)",
+      "HDMI / VGA simultaneous video output",
+      "Support Multi-brand network cameras",
+      "ONVIF Version 2.4 conformance",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS, KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/60e7c3c4-2585-4bdb-8f5a-a8ea63ac3316.jpg",
+        "alt": "CP-UNR-4K4162-V4 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/781ef77c-a172-4c30-b345-3be425d40429.jpg",
+        "alt": "CP-UNR-4K4162-V4 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade embedded processor",
+        "Operating System": "Embedded LINUX",
+        "Two-way Talk": "1 × RCA input ; Audio Input/ Audio Output",
+        "User Interface": "GUI",
+        "Video Output": "1 × VGA output, 1 × HDMI output, supports simultaneous video sources output for VGA and HDMI",
+        "Channel": "16 channel",
+        "Video Loss": "Supports",
+        "Alarm Input": "4 Channels",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Hard Disk": "2 SATA ports. Each disk can contain up to 20 TB. This limit varies depending on the environment temperature.",
+        "Recording Mode": "Manual record; alarm recording; SMD recording; smart recording",
+        "Search Mode": "Time /Date, MD and Exact Search (accurate to second),",
+        "Backup Mode": "USB Device/Network",
+        "Playback": "Play/pause/stop/slow/quick/backward/by frame Full screen, backup (video clip/file), partial zoom in, and audio on/off",
+        "Ethernet": "1 RJ-45 port (10/100M/1000M)",
+        "Interface Ports": "2 USB Ports (1 × front USB2.0; 1 × back USB2.0)",
+        "Protocols": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; FTP; DDNS; SNMP; Alarm Server; P2P; Auto Registration; IP Search (Supports IP camera, DVR, NVS, etc.)",
+        "Power Supply": "DC12V/1.5A",
+        "Power Consumption": "< 10 W (HDD not included)",
+        "Working Temp": "–20 °C to +50 °C (–4 °F to +140 °F)",
+        "Dimension": "375.0 mm × 282.9 mm × 53.0 mm",
+        "Weight": "1.49 kg",
+        "Price (MRP)": "₹5,000.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4162-V4.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4162-v4"
+  }
+}

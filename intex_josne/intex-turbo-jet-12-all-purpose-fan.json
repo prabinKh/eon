@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Small Appliances",
+    "category_url": "https://www.intex.in/collections/small-appliances",
+    "subcategory": "Fan",
+    "subcategory_url": "https://www.intex.in/collections/fan",
+    "series": "Fans",
+    "series_url": "https://www.intex.in/collections/fans",
+    "tab_title": "Fan",
+    "tab_id": "9416370716890",
+    "breadcrumbs": [
+      "Home",
+      "Small Appliances",
+      "Fan",
+      "Intex Turbo Jet 12 All Purpose Fan"
+    ]
+  },
+  "card_info": {
+    "product_id": "9416370716890",
+    "product_name": "Intex Turbo Jet 12 All Purpose Fan",
+    "product_title": "Intex Turbo Jet 12 All Purpose Fan",
+    "product_url": "https://www.intex.in/products/intex-turbo-jet-12-all-purpose-fan",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Main-Image_f8d951b4-e7a1-4392-8a80-ed771e1c0d2d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3190.0,
+      "display": "₹3,190.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-turbo-jet-12-all-purpose-fan.html",
+  "detail": {
+    "title": "Intex Turbo Jet 12 All Purpose Fan",
+    "model": "12",
+    "brand": "Intex",
+    "overview": "Stay cool with the Intex Turbo Jet 12 All Purpose Fan, engineered for powerful airflow and versatile installation. Featuring a high-performance motor with speeds up to 2500 RPM, this 280 mm multi-purpose fan delivers excellent air throw for quick and efficient cooling. Its 180° vertical adjustable head allows you to direct airflow exactly where you need it, while the table, wall, and ceiling mounting options make it suitable for homes, offices, kitchens, shops, and workspaces. Designed for durability and everyday convenience, the Turbo Jet 12 offers reliable cooling with a compact, space-saving design.",
+    "features": [
+      "280 mm High-Speed Multi-Purpose Fan",
+      "Powerful Motor with Up to 2500 RPM Speed",
+      "Excellent Air Throw for Effective Cooling",
+      "180° Vertical Adjustable Head",
+      "Suitable for Table, Wall & Ceiling Mounting",
+      "Compact, Lightweight & Space-Saving Design",
+      "Ideal for Home, Office, Kitchen and Commercial Use",
+      "Durable Construction for Long-Lasting Performance"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Main-Image_f8d951b4-e7a1-4392-8a80-ed771e1c0d2d.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_9b747fab-0409-4d02-bea1-e4e596386efb.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_71e2af00-2fc0-44f6-a915-5b02b493e62e.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_8998c21e-d84b-4388-9512-8b4be80eb795.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_2fba28f9-0e0a-49a5-aeec-d8f332aad193.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_e752ce0f-cc70-408e-bad3-8c07ced1e3bc.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_34e858be-21c6-40f4-a874-4b352c0d0239.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_586f4663-0048-40d5-88dc-912fe11f4359.jpg",
+        "alt": "Intex Turbo Jet 12 All Purpose Fan",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "General": {
+        "Brand": "Intex",
+        "Product Name": "Turbo Jet 12 All Purpose Fan",
+        "Fan Type": "Multi-Purpose Fan",
+        "Sweep Size": "280 mm",
+        "Motor Type": "Powerful High-Performance Motor",
+        "Maximum Speed": "Up to 2500 RPM",
+        "Air Delivery": "Excellent Air Throw",
+        "Oscillation": "180° Vertical Adjustable by Hand",
+        "Installation": "Table, Wall & Ceiling Mount Compatible",
+        "Speed Settings": "Multiple Speed Control",
+        "Blade Material": "Aerodynamically Designed Blades",
+        "Color": "Black",
+        "Application": "Home, Office, Kitchen, Shop & Workspace",
+        "Power Supply": "220-240V AC, 50Hz*",
+        "Warranty": "As per Intex Warranty Policy",
+        "Model": "12"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Turbo_Jet_12_All_Purpose_Fan_Launch_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-turbo-jet-12-all-purpose-fan"
+  }
+}

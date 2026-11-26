@@ -1,0 +1,169 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "Special Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/special-series",
+    "tab_title": "Special Series",
+    "tab_id": "18195",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "Special Series",
+      "Special Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152524",
+    "product_name": "NVR4108-WT",
+    "product_title": "8CH 1HDD WizMind Industrial Network Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/special-series/nvr4108-wt",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_16642/ProductImage/1_0_01_23_16642_737231774_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr4108-wt.html",
+  "detail": {
+    "title": "8CH 1HDD WizMind Industrial Network Video Recorder",
+    "model": "NVR4108-WT",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR4108-WT 8CH 1HDD WizMind Industrial Network Video Recorder Key Points • Max. 256/256/256 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 16 × 1080p@30 fps • IP Cameras Resolution Up to 16MP • 1 Bay. Each HDD Storage Capacity Up to 20TB • AI by Recorder: 2-ch Face Detection and Recognition, 8-ch SMD, 4-ch Perimeter Protection • Supports Working at Ambient Temperatures of –40 °C to +70 °C Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_16642/ProductImage/1_0_01_23_16642_737231774_crop_thumb.png",
+        "alt": "NVR4108-WT_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_16642/ProductImage/1_0_01_23_16642_737231776_crop_thumb.png",
+        "alt": "NVR4108-WT_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_16642/ProductImage/1_0_01_23_16642_737231775_crop_thumb.png",
+        "alt": "NVR4108-WT_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web, Local GUI",
+        "AI by Recorder": "Face detection, face recognition, perimeter protection, and SMD",
+        "AI by Camera": "Face detection; face recognition; perimeter protection; SMD; ANPR; people counting; stereo analysis; heat map",
+        "Perimeter Performance AI by Recorder (Number of Channels)": "4 channels, 10 IVS rules for each channel",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "All channels (8 targets/s)",
+        "Face Attributes": "Gender; age group; glasses; expressions; face mask; beard",
+        "Face Detection Performance of AI by Recorder (Number of Channels)": "2 channels (up to 12 face images/s each channel)",
+        "Face Detection Performance of AI by Camera (Number of Channels)": "All channels (12 targets/s)",
+        "Face Database Capacity": "Up to 10 face databases with 20,000 images, with a total capacity of 2.5 G. Name, gender, birthday, address, credential type, credential No., countries & regions and state can be added to each face image.",
+        "Face Recognition Performance of AI by Recorder (Number of Channels)": "8-channel FD (by camera) + FR (by recorder), image stream: 12 face images/s 2-channel FD (by recorder) + FR (by recorder), video stream: 12 face images/s",
+        "Face Recognition Performance of AI by Camera (Number of Channels)": "All channels (12 targets/s)",
+        "SMD Plus by Recorder": "8 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD by Camera": "All channels (16 targets/s)",
+        "Access Channel": "8 channels",
+        "Network Bandwidth": "AI disabled: 256 Mbps incoming, 256 Mbps recording and 256 Mbps outgoing AI enabled: 180 Mbps incoming, 180 Mbps recording and 180 Mbps outgoing",
+        "Resolution": "16 MP;12 MP;8 MP;6 MP;5 MP;4 MP;3 MP;1080p;720p;960p;D1;CIF",
+        "Decoding Capability": "AI disabled: 2-channel 16 MP@30 fps; 2-channel 12 MP@30 fps; 4-channel 8 MP@30 fps; 4-channel 6 MP@30 fps; 6-channel 5 MP@30 fps; 8-channel 4 MP@30 fps AI enabled: 1-channel 16 MP@30 fps; 2-channel 12 MP@30 fps; 3-channel 8 MP@30 fps; 3-channel 6 MP@30 fps; 4-channel 5 MP@30 fps; 6-channel 4 MP@30 fps; 8-channel 2 MP@30 fps",
+        "Video Output": "1 HDMI, 1 VGA HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720 *Simultaneous/heterogeneous video sources output for VGA and HDMI is configurable.",
+        "Multi-screen Display": "1st Screen: 1/4/8/9 2nd Screen: 1/4/8/9",
+        "Third-party Camera Access": "ONVIF, Panasonic, Sony, Hanwha, Axis, Pelco, Arecont, Canon",
+        "Video Compression": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio Compression": "G.711a; G.711u; PCM; G726",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4/IPv6; UPnP; SNMP; UDP; SMTP; NTP; DHCP; DNS; IP Filter; PPPoE; DDNS; FTP; Alarm Server; IP Search (Support Dahua IP camera; DVR; NVS; etc.); P2P; auto register",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 23.12(Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE9 and later; Firefox",
+        "Network Mode": "Multi-address; load balance; fault tolerance",
+        "Multi-channel Playback": "Up to 8 channels",
+        "Record Mode": "General, motion detection; intelligent; alarm",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback, general playback, event playback, tag playback, smart playback",
+        "General Alarm": "Motion detection; privacy masking; video loss; scene changing; PIR alarm; IPC external alarm",
+        "Anomaly Alarm": "Camera disconnection; storage error; disk full; IP conflict; MAC conflict; login locked; and cybersecurity exception",
+        "Intelligent Alarm": "Face detection; face recognition; perimeter protection; SMD Plus; people counting; stereo analysis; heat map",
+        "Alarm Linkage": "Record; snapshot; IPC external alarm output; audio; buzzer; log; preset; email",
+        "Audio Input": "1-channel RCA",
+        "Audio Output": "1-channel RCA",
+        "Alarm Input": "4 channels",
+        "Alarm Output": "2 channels (1-channel relay output, 1-channel 12 V 1 A output)",
+        "Disk Interface": "1 SATA port, up to 20 TB. This limit varies depending on the environment temperature.",
+        "RS-485": "2",
+        "USB": "2 (2 rear USB 2.0 ports)",
+        "HDMI": "1",
+        "VGA": "1",
+        "Network Port": "2 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Output": "1 channel (12 VDC, 1 A)",
+        "Power Supply": "12 VDC (supports 11–13 VDC), 4 A",
+        "Power Consumption": "Total output of NVR is <5 W(without HDD)",
+        "Net Weight": "3.30 kg (7.28 lb)",
+        "Gross Weight": "5.07 kg (11.18 lb)",
+        "Product Dimensions": "300.0 mm × 221.6 mm × 75.5 mm (11.81\" × 8.72\" × 2.97\") (W × L × H)",
+        "Packaging Dimensions": "371.0 mm × 190.0 mm × 315.0 mm (14.61\" × 7.48\" × 12.40\") (W × L × H)",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Certifications": "FCC: 47 CFR FCC Part15, SubpartB, Class A CE-EMC: EN 55032:2015+A1:2020; EN IEC 61000-3-2:2019+A1:2021; EN 61000-3-3:2013+A1:2019+A2:2021; EN 55035:2017+A11:2020; EN 50130-4:2011+A1:2014 CE-LVD: EN 62368-1:2014"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/NVR4108-WT_S0_datasheet_20241230.pdf"
+      },
+      {
+        "name": "2025-01-01 #User Manual Dahua Network Video Recorder_User's Manual_V2.4.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85013/user_manual/Dahua_Network_Video_Recorder_User_27s_Manual_V2.4.1.pdf"
+      },
+      {
+        "name": "2025-01-01 #User Manual Dahua Network Video Recorder_Quick Start Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85013/user_manual/Dahua_Network_Video_Recorder_Quick_Start_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2025-01-01 #User Manual HDD INSTALLATION GUIDE_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85013/user_manual/HDD_INSTALLATION_GUIDE_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-12-20 #A&E Document NVR4108-WT_A&E_20260924151817 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83313/a_e_document/1790234453659.docx"
+      },
+      {
+        "name": "2024-12-25 #Drawings NVR4108-WT_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83308/drawings/NVR4104-WT_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-12-18 #Drawings NVR4108-WT_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83312/drawings/NVR4116-WT_PORT.pdf"
+      },
+      {
+        "name": "2025-03-30 #Firmware Customer_NVR4XXX-WT_MultiLang_DH_V4.005.1EX2000.0.R.241212 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85013/firmware/Customer_NVR4XXX-WT_MultiLang_DH_V4.005.1EX2000.0.R.241212.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/special-series/nvr4108-wt"
+  }
+}

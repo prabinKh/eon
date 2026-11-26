@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "motherboard",
+    "subcategory_url": "https://www.intex.in/collections/motherboard",
+    "series": "motherboard Series",
+    "series_url": "https://www.intex.in/collections/motherboard-series",
+    "tab_title": "motherboard",
+    "tab_id": "8978394775770",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "motherboard",
+      "Intex H-81 Motherboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "8978394775770",
+    "product_name": "Intex H-81 Motherboard",
+    "product_title": "Intex H-81 Motherboard",
+    "product_url": "https://www.intex.in/products/intex-h81-motherboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/H-81-Motherboard.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3999.0,
+      "display": "₹3,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-h81-motherboard.html",
+  "detail": {
+    "title": "Intex H-81 Motherboard",
+    "model": "INTEX H-81 Motherboard (H-61 Series)",
+    "brand": "Intex",
+    "overview": "The INTEX H-81 Motherboard is designed for reliable performance and broad compatibility with Intel LGA1150 processors including Core i7, i5, i3, Pentium, and Celeron series. It supports up to 16GB DDR3 RAM and features an array of I/O ports including HDMI, VGA, USB 3.0, and integrated 2.1/5.1 channel HD audio. Ideal for compact desktop setups, its Mini-ITX form factor fits small cases while still offering room for expansion with a PCI-E 2.0 x16 slot.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/H-81-Motherboard.jpg",
+        "alt": "Intex H-81 Motherboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Model": "INTEX H-81 Motherboard (H-61 Series)",
+        "CPU Support": "Intel LGA1150 – Core i7, i5, i3, Pentium, Celeron",
+        "Memory": "2 x DDR3 DIMM Slots, up to 16GB",
+        "Memory Speed": "DDR3 1066 / 1333 / 1600 MHz",
+        "BIOS Version": "H81AN000.bin 4.6.5.4",
+        "I/O Ports": "1 x HDMI, 1 x VGA, 1 x RJ45, 1 x Line-out, 1 x Line-in, 1 x MIC",
+        "USB Ports": "4 x USB 2.0, 2 x USB 3.0",
+        "Audio": "Integrated 2.1 / 5.1 Channel HD Audio",
+        "Expansion Slot": "1 x PCI-E 2.0 x16 Slot",
+        "Form Factor": "Mini-ITX (170 mm x 170 mm)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/H61_Motherboard_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-h81-motherboard"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Docking Station",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/docking-station",
+    "tab_title": "Docking Station",
+    "tab_id": "16447",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Docking Station",
+      "Docking Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "137097",
+    "product_name": "TC38",
+    "product_title": "8 in 1 USB 3.1 Type-C to USB 3.0 + HDMI + RJ45 + SD/TF + PD Docking Station",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/dockingstations/tc38",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10582/ProductImage/1_9_10_01_10582_296722659_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/tc38.html",
+  "detail": {
+    "title": "8 in 1 USB 3.1 Type-C to USB 3.0 + HDMI + RJ45 + SD/TF + PD Docking Station",
+    "model": "TC38",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_9_10_01_10582/ProductImage/1_9_10_01_10582_296722659_crop_thumb.png",
+        "alt": "TC38",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/dockingstations/tc38"
+  }
+}

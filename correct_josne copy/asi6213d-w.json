@@ -1,0 +1,211 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "153426",
+    "product_name": "ASI6213D-W",
+    "product_title": "Dahua Single Door Face Recognition,Card Swiping,Password Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi6213d-w",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12585/ProductImage/1_0_01_25_12585_847610050_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi6213d-w.html",
+  "detail": {
+    "title": "Dahua Single Door Face Recognition,Card Swiping,Password Face Recognition Access Controller",
+    "model": "ASI6213D-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI6213D-W Dahua Single Door Face Recognition,Card Swiping,Password Face Recognition Access Controller Key Points • Visible Light Facial Recognition and Liveness Detection • 6,000 Faces, 10,000 Cards, 6,000 Passwords • 2-MP CMOS Dual-lens Camera • 4.3 inch Touch Screen with Resolution of 272 x 480 • Face Recognition Duration< 0.2s/person, Accuracy rate ≥ 99.9% • Video Intercom and App Control • DC12V1A Power Output for Card Reader and Lock • Easy Configuration via Web Client and Mobile Client Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12585/ProductImage/1_0_01_25_12585_847610050_crop_thumb.PNG",
+        "alt": "ASI6213D-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12585/ProductImage/1_0_01_25_12585_847610048_crop_thumb.PNG",
+        "alt": "ASI6213D-W_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12585/ProductImage/1_0_01_25_12585_847610051_crop_thumb.PNG",
+        "alt": "ASI6213D-W_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12585/ProductImage/1_0_01_25_12585_847610049_crop_thumb.PNG",
+        "alt": "ASI6213D-W_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Touch button",
+        "Network Protocol": "IPv4;RTSP;UDP;P2P;IPv6;RTP;TCP;SIP",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF;CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Display Screen": "4.3-inch display screen",
+        "Screen Type": "Capacitive Touchscreen",
+        "Screen Resolution": "272 (H) × 480 (V)",
+        "Camera": "2-MP CMOS HD dual-lens camera",
+        "WDR": "DWDR",
+        "Light Compensation": "Auto IR",
+        "Voice Prompt": "Yes",
+        "Speaker": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Function": {
+        "Verification Method": "Card;Password;QR Code;Face Recognition",
+        "Door Open Notification Mode": "Quick mode;Simple mode;Standard mode;Comparison mode",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Advertisement Playing": "Plays advertisements in video and image format",
+        "Peripheral Card Reader": "1 × RS-485 card reader 1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Real-time Monitoring": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Capture Function": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID": {
+        "Card Type": "IC card (Mifare card);Desfire card (EV3,Compatible with Dahua card by default)",
+        "Modulation Type": "ASK",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42 dBuA/m@10 m"
+      },
+      "Network": {
+        "Max. Transmission Power": "≤20 dBm@2,400–2,483.5 MHz",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4 GHz"
+      },
+      "Performance": {
+        "IC Card Encryption": "Yes",
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")",
+        "Face Recognition Height Range": "0.9 m–2.2 m (2.95 ft–7.22 ft)",
+        "Face Recognition Distance": "0.3 m–2.0 m (0.98 ft–6.56 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 s"
+      },
+      "User": {
+        "User (Card) Type": "Normal user; VIP users; patrol users; guest user; blocklist user; other user; custom user 1; custom user 2"
+      },
+      "Capacity": {
+        "Face Image Capacity": "6,000",
+        "User Capacity": "6,000",
+        "Card Capacity": "10,000",
+        "Password Capacity": "6,000",
+        "Record Capacity": "300,000"
+      },
+      "Port": {
+        "RS-485": "1 port that can also be used by the Wiegand card reader.",
+        "Wiegand": "1 port that can also be used by the RS-485 card reader.",
+        "USB": "1 × USB2.0 port",
+        "Network Port": "1 × 10/100 Mbps Ethernet port",
+        "Alarm Linkage": "Yes",
+        "Doorbell": "1 channel",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel",
+        "Power Output Port": "1 channel (12 V, 1.0 A)"
+      },
+      "Alarm": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Included",
+        "Power Supply": "12 VDC, 2 A",
+        "Power Consumption": "≤12 W",
+        "Product Dimensions": "167.4 mm × 84.4 mm × 24.0 mm (6.59\" × 3.32\" × 0.94\") (H × W × D)",
+        "Packaging Dimensions": "219 mm × 122 mm × 58 mm (8.62\" × 4.80\" × 2.28\") (H × W × D)",
+        "Transport Package Dimensions": "513 mm × 375 mm × 469 mm (20.20\" × 14.76\" × 18.46\") (H × W × D)",
+        "Operating Temperature": "–10 °C to +45 °C (+14 °F to +113 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–1,300 m (0 ft–4265.09 ft)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.41 kg (0.90 lb)",
+        "Accessory": "The bracket is included.",
+        "Installation": "Wall Mount;Floor Bracket Mount;Desk Bracket Mount",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "30%–75%"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ASI6213D-W_datasheet_20250805.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller Web 5.0_User Manual_V1.5.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88278/user_manual/Face_Recognition_Access_Controller_Web_5.0_User_Manual_V1.5.0.pdf"
+      },
+      {
+        "name": "2026-08-10 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88265/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI6213D-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88265/drawings/1_0_01_25_12740_832945528.pdf"
+      },
+      {
+        "name": "2025-08-08 #Drawings ASI6213D-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88265/drawings/1_0_01_25_12740_832945481.pdf"
+      },
+      {
+        "name": "2026-09-18 #Firmware DH_ASIX2XX-C-V-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84505/firmware/DH_ASIX2XX-C-V-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi6213d-w"
+  }
+}

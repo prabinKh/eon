@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "Mobile Network Video Recorder(MNVR)",
+    "category_url": "https://cpplusworld.com/products/mobile-network-video-recorder(mnvr)",
+    "subcategory": "Mobile Surveillance",
+    "subcategory_url": "https://cpplusworld.com/products/mobile-surveillance/mobile-network-video-recorder-nvr",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Mobile Surveillance",
+    "tab_id": "54",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Mobile Surveillance",
+      "Mobile Network Video Recorder(MNVR)",
+      "CP-UNR-408T2J-BI"
+    ]
+  },
+  "card_info": {
+    "product_id": "2252",
+    "product_name": "CP-UNR-408T2J-BI",
+    "product_title": "CP-UNR-408T2J-BI",
+    "product_url": "https://cpplusworld.com/cp-unr-408t2j-bi",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f7288eea-276d-41e1-afc1-6e1e401761f6.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-408t2j-bi.html",
+  "detail": {
+    "title": "CP-UNR-408T2J-BI",
+    "model": "CP-UNR-408T2J-BI",
+    "brand": "CP Plus",
+    "overview": "8 Channel PoE Mobile Network Video Recorder",
+    "features": [
+      "Up to 8 Channel IP camera input",
+      "Total Bandwidth:- 192Mbps (Incoming/ Outgoing)",
+      "Instastream, H.265, H.264+, H.264, MJPEG",
+      "Support Digital Watermarking",
+      "AI by Recorder: Face recognition",
+      "AI by Camera: Face detection, SMD",
+      "2 SATA ports, only support  SSD , up to 8 TB, 2 USB Ports (USB3.0 port), 1 HDMI, 1VGA"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f7288eea-276d-41e1-afc1-6e1e401761f6.png",
+        "alt": "CP-UNR-408T2J-BI - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ee8de7c0-0ef4-4feb-80f3-642e7406c40d.png",
+        "alt": "CP-UNR-408T2J-BI - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "Video: 8 Channels, Audio: 2 Channels (IP MIC)",
+        "Operating System": "Embedded Linux",
+        "User Interface": "Web, Local GUI",
+        "AI By RDAS": "Eye drowsiness detection, Yawning detection, Distracted detection, Phone call detection,  Smoking detection, No driver detection, Head phone detection, Camera covered, Lower Head",
+        "Video Output": "1 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720, 800 x 600                                                                          1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720, 800 x 600",
+        "Wireless Frequency": "2.4 GHz",
+        "Abnormality Alarm": "Camera disconnection, Storage error, Disk full, IP conflict, MAC conflict, Login locked, and           cybersecurity exception",
+        "Wireless standard": "802.11 b/g",
+        "Bands": "3G: B1/B2/B4/B5(B6,B19)/B8                                                                                                                                4G: B1/B2(B25)/B3/B4(B66)/B26(B5,B18,B19)/B7/B8/B12(B17)/B13/B14/B20/B28/B29(SDL)/ B30/ B32(SDL)/B34/B38/B39/B40/B41/B42/B43/B46(SDL)/B48/B71                                                           5G: N1/N2/N3/N5/N7/N8/*N12/*N13/*N14/*N18/N20/N25/*N26/N28/*N29(SDL)/N30/ N38/N40/N41/N48/N66/N71/N75(SDL)/*N76(SDL)/N77/N78/N79",
+        "Face Recognition AI by NVR": "6 Channel FD (by camera) + FR (by recorder)",
+        "IMD By Camera": "Human and vehicle detection on all channels, supporting up to 16 targets per second",
+        "Network Bandwidth": "Total Bandwidth:- 192Mbps (Incoming/ Outgoing)",
+        "Video Display Split": "1/2/4",
+        "Record Mode": "General, Motion detection, Intelligent, Alarm",
+        "Audio Compression": "G.711a, G.711Mu, PCM, G726",
+        "Timing interval 1-30 minutes  configurable": "Unique Face detection with Metadata along with configurable timing interval",
+        "Resolution": "8MP, 6MP, 5MP, 4MP, 3MP, 2MP, 720p, 960p, D1, CIF",
+        "Decoding Capability": "1 Channel 16MP@30 fps, 2 Channel 12MP@30 fps, 4 Channel 8MP@30 fps, 4 Channel  6MP@30 fps, 6 Channel 5MP@30 fps, 8 Channel 4MP@45 fps, 8 Channel 2MP@30 fps",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Audio Input": "2 Channel, M12 connectors",
+        "Alarm Input": "2 Channels, M12 connectors",
+        "Hard Disk": "2  SATA ports, only support  SSD, up to 8 TB.",
+        "General Alarm": "Motion detection, Privacy masking, Video loss, Scene changing, PIR alarm, IPC external alarm",
+        "Browser": "Chrome, IE9 and later, Firefox",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Playback": "1. Search conditions: Search for image by channels, type (human, vehicle), and start/end time  2. Functions: Supports recording playback (10 seconds before/after the event) and exporting    search results of videos",
+        "Interface Ports": "2 USB Ports (USB3.0 port), 1 RS232 (M12 connectors), 1 RS485 (M12 connectors)",
+        "Ethernet": "2 (10/100/1000 Mbps Ethernet port, M12 connectors)",
+        "Protocols": "HTTPS, TCP/IP, IPv4/IPv6, UPnP, SNMP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPoE,  DDNS, FTP, Alarm Server, InstaOn, Auto Correction, ONVIF 24.12(Profile T, Profile S, Profile  G,Profile M), CGI, SDK",
+        "PoE": "8 ports, 10/100 Mbps, IEEE 802.3 af/at, M12 connectors",
+        "Camera Search": "Interface to search IP address of connected Camera",
+        "Mobile Communication": "Auto fallback from 5G to 4G",
+        "Antennas": "Antenna for Wi-Fi, GPS and 5G/4G",
+        "Pre-recording": "Support",
+        "Tampering Alarm": "Support (Video Tampering)",
+        "Video Format": "CPV, MP4, AVI",
+        "Logs": "User/Operator, Events and Alarms",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE,  FCC and RoHS, BIS,  EMI/EMC, Environment, Mould growth",
+        "Power Supply": "72–110 VDC",
+        "Power Consumption": "150W",
+        "Operating Temperature": "–25°C to +85°C (-13°F to +158°F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Backup Method": "SSD, USB device and network",
+        "Dimensions": "380 mm x 262 mm x 72 mm",
+        "Weight": "5750g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-408T2J-BI .pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/0b2b40c5-c75e-40a2-bb70-7b76234b8060.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-408t2j-bi"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "SOHO Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/soho-switch",
+    "tab_title": "SOHO Switch",
+    "tab_id": "16407",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "SOHO Switch",
+      "SOHO Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "146690",
+    "product_name": "SMG1005",
+    "product_title": "5-Port Unmanaged Desktop Switch with 5-Port 2.5G",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/metalswitch/smg1005",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11504/ProductImage/1_0_01_20_11504_654658893_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/smg1005.html",
+  "detail": {
+    "title": "5-Port Unmanaged Desktop Switch with 5-Port 2.5G",
+    "model": "SMG1005",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11504/ProductImage/1_0_01_20_11504_654658893_crop_thumb.png",
+        "alt": "SMG1005",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/metalswitch/smg1005"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Body Worn camera",
+    "category_url": "https://cpplusworld.com/products/body-worn-camera",
+    "subcategory": "Body Worn Solutions",
+    "subcategory_url": "https://cpplusworld.com/products/Body Worn Solutions/body-worn-camera",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Body Worn Solutions",
+    "tab_id": "55",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Body Worn Solutions",
+      "Body Worn camera",
+      "CP-EDS-Y08-V3"
+    ]
+  },
+  "card_info": {
+    "product_id": "2245",
+    "product_name": "CP-EDS-Y08-V3",
+    "product_title": "CP-EDS-Y08-V3",
+    "product_url": "https://cpplusworld.com/cp-eds-y08-v3-",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/451d5a11-e4a0-442b-b69a-03275e78be11.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-eds-y08-v3-.html",
+  "detail": {
+    "title": "CP-EDS-Y08-V3",
+    "model": "CP-EDS-Y08-V3",
+    "brand": "CP Plus",
+    "overview": "10 Ports Docking Station with Screen",
+    "features": [
+      "12 inches touch screen with resolution of 1920 x 1080",
+      "Support 10 channel camera for backup and recharge",
+      "Android 12.0 system supported",
+      "Support 1GB Ethernet port for data uploading",
+      "Fast data export and battery recharge",
+      "Support upload data to the centre FTP server automatically, no  need local buffer",
+      "Support alarm reminding for network error",
+      "Support at most 3 HDD for local storage",
+      "Support local search and playback"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/451d5a11-e4a0-442b-b69a-03275e78be11.png",
+        "alt": "CP-EDS-Y08-V3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/623ae60f-b544-4451-9177-4cd8129c7778.png",
+        "alt": "CP-EDS-Y08-V3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Screen": "12 inch touch screen, resolution 1920 x 1080",
+        "Memory": "RAM+ROM, 8G+128G",
+        "Operating System": "Android 12.0",
+        "Local Storage": "Support 3 disks (2TB~12TB optional)",
+        "Data Interface": "10 channel docking slot or USB connection",
+        "Automatically Backup": "When BWC connect to the terminal, it will back up all the video, Audio, Pictures and log file  automatically",
+        "Storage Empty": "The terminal will empty all the data in the BWC when the backup finished",
+        "Status Display": "During the backup progressing, it can display the device id, Name, Group, Storage space, Back up status and so on",
+        "Upload": "All the video files will upload to the centre server automatically or manually",
+        "System Log": "System will record all operation log of the terminal",
+        "Backup Time": "10 channel 16G data can be finished in 60 minutes, average speed is 4~6MB/S",
+        "Recharging": "10 channels BWC can finish recharging in 4 hours and 45 minutes if the unit is OFF, if it’s ON, it  need about 5 hours",
+        "Network": "1 RJ45, 100/1000M",
+        "Interface Ports": "3 USB 2.0 ports, 1 HDMI",
+        "Weatherproof Standard": "IP54",
+        "Operating Temperature": "-20°C~-55°C",
+        "Storage Temperature": "-20°C~+70°C",
+        "Working Time": "7x24 hours continue working",
+        "Working power": "Normal voltage:AC100V—240V~50/60HZ",
+        "Working humidity": "20%~90%",
+        "Dimension": "420mm x 330mm x 220mm",
+        "Weight": "11000g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EDS-Y08-V3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-eds-y08-v3-"
+  }
+}

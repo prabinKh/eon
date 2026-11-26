@@ -1,0 +1,115 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "C900 PLUS-B",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c900-plus-b",
+    "tab_title": "C900 PLUS-B",
+    "tab_id": "17297",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "C900 PLUS-B",
+      "C900 PLUS-B"
+    ]
+  },
+  "card_info": {
+    "product_id": "138537",
+    "product_name": "SSD-C900VN1TB-B",
+    "product_title": "NVMe M.2 Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c900-plus-b/ssd-c900vn1tb-b",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231204/1_0_01_06_10418_1918215359-Black2_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-c900vn1tb-b.html",
+  "detail": {
+    "title": "NVMe M.2 Solid State Drive",
+    "model": "SSD-C900VN1TB-B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-C900VN1TB-B NVMe M.2 Solid State Drive Key Points · Adopts high-quality 3D NAND wafer level chip. · Supports PCIe3.0 x4 and NVMe 1.3 protocol. · Adopts TRIM to improve read/write performance and speed. · Supports Max. Write technology for full-disk SLC cache. · Supports LDPC ECC to enhance data reliability. · Low power consumption management. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231204/1_0_01_06_10418_1918215359-Black2_thumb.png",
+        "alt": "SSD-C900VN1TB-B_View_45left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231204/1_0_01_06_10418_1918215381-Black2_thumb.png",
+        "alt": "SSD-C900VN1TB-B_View_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Technical": {
+        "Product Model": "DHI-SSD-C900VN256G-B",
+        "Capacity1": "256 GB",
+        "Form Factor": "M.2 2280",
+        "Port": "PCIe Gen 3.0 x 4",
+        "Net Weight": "Max. 8 g (0.02 lb)",
+        "Product Dimensions2": "80.00 mm × 23.00 mm × 4.80 mm (3.15\" × 0.91\" × 0.19\")",
+        "Packaging Dimensions": "130 mm × 104 mm × 17 mm (5.12\" × 4.09\" × 0.67\")",
+        "Memory Component": "3D NAND FLASH",
+        "Power Consumption3": "2.8 W (max); 0.17 W (idle)",
+        "S.M.A.R.T": "Yes",
+        "TRIM": "Yes",
+        "Garbage Collection": "Yes",
+        "Sequential Read3": "Up to 3,300 MB/s",
+        "Sequential Write3": "Up to 1,200 MB/s",
+        "4K Random Read3": "Up to 124400",
+        "4K Random Write3": "Up to 177900",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0 °C to +70 °C (+32 °F to +158 °F)",
+        "Storage Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10–200Hz, 0.5G",
+        "Shock Resistance": "1,500 G/0.5 ms (half sine wave)",
+        "TBW": "128 TB",
+        "Warranty4": "3-year limited warranty",
+        "Reference Information": "1. Capacity calculation: 1GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partition, operating system applications, or other necessary usage). 2. System configuration of performance test: Chip-Intel Z270 Chipset, Intel Core i7-7700K@4.2GHz, 8GB DDR4; operating system-Windows 10 x64; testing tool-CrystalDiskMark 8.11.2. 3. Warranty period or maximum write amount (TBW), whichever comes first. 4. High performance SLC cache has been enabled. *Above data based on internal testing of Zhejiang Huayixin Technology Co., Ltd Laboratory."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-C900VN1TB-B_datasheet_20231106.pdf"
+      },
+      {
+        "name": "2025-05-12 #User Manual SSD NVMe M.2 2280-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010004/202505/SSD_NVMe_M.2_2280-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings SSD-C900VN1TB-B_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50617/drawings/SSD-E900N128G_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings SSD-C900VN1TB-B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78847/drawings/SSD-C970VN1TB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c900-plus-b/ssd-c900vn1tb-b"
+  }
+}

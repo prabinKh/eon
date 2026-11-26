@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-MD100P-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "1691",
+    "product_name": "CP-DPS-MD100P-12D",
+    "product_title": "CP-DPS-MD100P-12D",
+    "product_url": "https://cpplusworld.com/cp-dps-md100p-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/b6feeea3-7106-4feb-8714-a6514da730a8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-dps-md100p-12d.html",
+  "detail": {
+    "title": "CP-DPS-MD100P-12D",
+    "model": "CP-DPS-MD100P-12D",
+    "brand": "CP Plus",
+    "overview": "Metal Case SMPS Power Supply (Premium Series)",
+    "features": [
+      "Wide range of Input voltage 190~250V AC",
+      "Higher power budget can add more cameras",
+      "Short circuit, over voltage and over current protection",
+      "Power on indicator",
+      "Voltage regulator pot for cable compensation",
+      "Built-in EMI filter to nullify interference",
+      "100% Full load burn-in test",
+      "Metal housing for uniform & quick heat dissipation",
+      "Wall mount option along with desktop",
+      "Screw type block terminals for easy installation"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b6feeea3-7106-4feb-8714-a6514da730a8.png",
+        "alt": "CP-DPS-MD100P-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/baaf5c7f-702a-477a-b6ec-e68d94ad35e0.png",
+        "alt": "CP-DPS-MD100P-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input voltage": "190 ~ 250VAC",
+        "Input AC Frequency Range": "47 ~ 63Hz",
+        "Input Current (Typ.)": "3.0A/230VAC",
+        "Power Cord": "3 Pin (L, N & Earth)",
+        "Standby Power Consumption": "≤3.0W",
+        "Inrush Current (Typ.)": "40A@230VAC",
+        "Efficiency (Typ.)": "80%",
+        "Output voltage": "12V",
+        "Output Current": "10.0A",
+        "Output Current range": "0 ~ 10.0A",
+        "Rated Power": "120W",
+        "Ripple & Noise (max.)": "≤200mV",
+        "Line Regulation": "3%",
+        "Load Regulation": "5%",
+        "Power On Indicator": "Support",
+        "Cable Compensation": "Support, (trimmer pot)",
+        "No. of Output Ports": "Single port",
+        "Over Voltage Protection": "Support",
+        "Over Current Protection": "Support",
+        "Short circuit protection": "Support",
+        "Insulation Resistance": "100MΩ@500VDC",
+        "Operating Temperature": "-10°C~+40°C",
+        "Operating Humidity": "20~90% RH non-condensing",
+        "Storage Temperature": "-20°C~+85°C",
+        "Storage humidity": "10~95% RH",
+        "Dimension": "187mm x 103mm x 52mm",
+        "Wall mount option": "Support"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-MD100P-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/4653205f-e834-4981-a2d4-59d2f7447c81.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-md100p-12d"
+  }
+}

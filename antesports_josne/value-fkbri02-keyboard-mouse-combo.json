@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "Value FKBRI02 Wired Keyboard & Mouse Combo - Full Size"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346760044835",
+    "product_name": "Value FKBRI02 Wired Keyboard & Mouse Combo - Full Size",
+    "product_title": "Value FKBRI02 Wired Keyboard & Mouse Combo - Full Size",
+    "product_url": "https://antesports.com/products/value-fkbri02-keyboard-mouse-combo",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/26.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/value-fkbri02-keyboard-mouse-combo.html",
+  "detail": {
+    "title": "Value FKBRI02 Wired Keyboard & Mouse Combo - Full Size",
+    "model": "AVLP0008",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value FKBRI02 is a full-size wired keyboard and mouse combo built for everyday desktop and laptop use, featuring a straightforward 3-button optical mouse for reliable, no-frills cursor control. USB plug-and-play connectivity means both devices work instantly with no drivers required, making it a practical, budget-friendly choice for home, office or study computing. Compatible with desktop, laptop and notebook systems, it's a dependable entry-level combo for everyday typing and browsing tasks.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/26.png",
+        "alt": "Value FKBRI02 Wired Keyboard & Mouse Combo - Full Size - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Mouse Buttons": "3, Optical",
+        "Compatibility": "Desktop, Laptop, Notebook",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired USB",
+        "MOUSE BUTTONS": "3, Optical",
+        "COMPATIBILITY": "Desktop, Laptop, Notebook",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹339.00",
+        "MRP (INR)": "₹899.00",
+        "SKU": "AVLP0008"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/value-fkbri02-keyboard-mouse-combo"
+  }
+}

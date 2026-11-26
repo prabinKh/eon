@@ -1,0 +1,167 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "9KG Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/9kg-washing-machine",
+    "series": "Washing Machine",
+    "series_url": "https://www.intex.in/collections/washing-machine",
+    "tab_title": "9KG Washing Machine",
+    "tab_id": "9244488171738",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "9KG Washing Machine",
+      "Intex SA90BGHG Semi-Automatic Washing Machine"
+    ]
+  },
+  "card_info": {
+    "product_id": "9244488171738",
+    "product_name": "Intex SA90BGHG Semi-Automatic Washing Machine",
+    "product_title": "Intex SA90BGHG Semi-Automatic Washing Machine",
+    "product_url": "https://www.intex.in/products/intex-9-kg-semi-automatic-washing-machine-sa90bghg",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-13.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 19499.0,
+      "display": "₹19,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-9-kg-semi-automatic-washing-machine-sa90bghg.html",
+  "detail": {
+    "title": "Intex SA90BGHG Semi-Automatic Washing Machine",
+    "model": "9-SA90BGHG",
+    "brand": "Intex",
+    "overview": "Upgrade your laundry experience with the all-new Intex SA90BGHG Semi-Automatic Washing Machine , designed for powerful performance and effortless cleaning. Built with a bigger drum and advanced pulsator technology , it ensures deep cleaning while saving your time and effort. Equipped with a powerful motor and 3 wash programs , this washing machine delivers efficient and customized washing for different fabric types. The Aqua Brush and Scrubber Technology work together to remove tough stains, while the Magic Filter captures lint for cleaner clothes. Designed for durability and convenience, it features a rust-free body, toughened glass lids, and hydraulic lid mechanism for smooth operation. The noise-free spinning system and vibration control pads ensure a stable and quiet performance. With added features like easy mobility wheels, end cycle buzzer, and single water inlet , this washing machine is perfect for modern Indian households looking for performance, durability, and value for money . Bigger Drum. Smaller Effort. Powerful Cleaning.",
+    "features": [
+      "Hydraulic Lids for smooth and easy operation",
+      "Wheels for Easy Mobility",
+      "Rubber Pads to Control Vibration",
+      "Noise-Free Spinning for Drying Clothes",
+      "3 Wash Programs for versatile cleaning",
+      "Aqua Brush for Deep Cleaning",
+      "End Cycle Buzzer for convenience",
+      "Scrubber Technology for enhanced wash performance",
+      "Powerful Motor for efficient operation",
+      "3 Wings & 3 Mini Pulsator Design for better agitation",
+      "T.O.P. Technology for improved washing efficiency",
+      "Magic Filter for lint collection",
+      "Rust-Free Body for durability",
+      "Single Water Inlet for easy usage",
+      "Toughened Glass Lids for added strength"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-13.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-01.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-02.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-03.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-04.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-05.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-06.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-08.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-09.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-10.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-11.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/9KG-12.jpg",
+        "alt": "Intex SA90BGHG Semi-Automatic Washing Machine",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 12,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Hydraulic Lids for smooth and easy operation",
+        "Feature 2": "Wheels for Easy Mobility",
+        "Feature 3": "Rubber Pads to Control Vibration",
+        "Feature 4": "Noise-Free Spinning for Drying Clothes",
+        "Feature 5": "3 Wash Programs for versatile cleaning",
+        "Feature 6": "Aqua Brush for Deep Cleaning",
+        "Feature 7": "End Cycle Buzzer for convenience",
+        "Feature 8": "Scrubber Technology for enhanced wash performance",
+        "Feature 9": "Powerful Motor for efficient operation",
+        "Feature 10": "3 Wings & 3 Mini Pulsator Design for better agitation",
+        "Feature 11": "T.O.P. Technology for improved washing efficiency",
+        "Feature 12": "Magic Filter for lint collection",
+        "Feature 13": "Rust-Free Body for durability",
+        "Feature 14": "Single Water Inlet for easy usage",
+        "Feature 15": "Toughened Glass Lids for added strength"
+      },
+      "General": {
+        "Model": "9-SA90BGHG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_SA90BGHG_9KG_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-9-kg-semi-automatic-washing-machine-sa90bghg"
+  }
+}

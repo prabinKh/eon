@@ -1,0 +1,175 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Intelligent Computing",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/intelligent-computing",
+    "series": "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server",
+    "tab_title": "Comprehensive Analysis Server",
+    "tab_id": "18170",
+    "breadcrumbs": [
+      "Network Products",
+      "Intelligent Computing",
+      "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+      "Comprehensive Analysis Server"
+    ]
+  },
+  "card_info": {
+    "product_id": "152398",
+    "product_name": "IVS-GS8000-TS2-HW",
+    "product_title": "Dahua Comprehensive Analysis Intelligent Server",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server/comprehensive-analysis-server/ivs-gs8000-ts2-hw",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10839/ProductImage/1_0_01_18_10839_690370498_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ivs-gs8000-ts2-hw.html",
+  "detail": {
+    "title": "Dahua Comprehensive Analysis Intelligent Server",
+    "model": "IVS-GS8000-TS2-HW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IVS-GS8000-TS2-HW Dahua Comprehensive Analysis Intelligent Server Key Points • Performs Diverse Intelligent Analysis by Working with Different AI Cards • Cluster Deployment Based on Distributed Video Cloud Architecture Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10839/ProductImage/1_0_01_18_10839_690370498_crop_thumb.png",
+        "alt": "IVS-GS8000-Z2-TS2-HW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10839/ProductImage/1_0_01_18_10839_690370499_crop_thumb.png",
+        "alt": "IVS-GS8000-Z2-TS2-HW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_18_10839/ProductImage/1_0_01_18_10839_690370500_crop_thumb.png",
+        "alt": "IVS-GS8000-Z2-TS2-HW_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "GPU": {},
+      "Operating System": {},
+      "Memory": {},
+      "Disk": {},
+      "Face Detection": {},
+      "Face Modeling": {},
+      "Face Arm": {},
+      "History Alarm Records Query": {},
+      "Management of Registered Database": {},
+      "Search in Registered Database": {},
+      "Search by Image in Registered Database": {},
+      "Search in Snapshot Database": {},
+      "Search by Image in Snapshot Database": {},
+      "1V1": {},
+      "Cluster": {},
+      "Image Stream Analysis Capability": {},
+      "Blocklist Database Arm": {},
+      "Search by Image": {},
+      "Vehicle Recognition Mode": {},
+      "License Plate Color Recognition": {},
+      "Vehicle Color Recognition": {},
+      "Vehicle Type Recognition": {},
+      "Vehicle Attributes Recognition": {},
+      "Safe Driving Behavior Detection": {},
+      "Target Detection": {},
+      "Vehicle Brand/Logo Recognition": {},
+      "License Plate Recognition": {},
+      "License Plate Recognition Rate": {},
+      "Vehicle Type Recognition Rate": {},
+      "Vehicle Color Recognition Rate": {},
+      "Safety Belts Recognition Rate": {},
+      "Recognition Rate of Driver and Passenger Phone Calling": {},
+      "Search by Vehicle Picture": {},
+      "Vehicle Search": {},
+      "Target Classification": {},
+      "Motor Vehicle Detection": {},
+      "Non-motor Vehicle Detection": {},
+      "Pedestrian Detection": {},
+      "Real-time Display": {},
+      "Search by Attribute": {},
+      "Video Recording Task": {},
+      "Local Task": {},
+      "Display Tracks on the Map": {},
+      "Computing Node Cluster": {},
+      "Intelligent Video Stream": {},
+      "Metadata Analytics Performance": {},
+      "Search by Image Performance": {},
+      "Detection Rate of Moving Target": {},
+      "Pedestrian Recognition Accuracy": {},
+      "Recognition Accuracy of Non-motor Vehicle": {},
+      "Vehicle Recognition Accuracy": {},
+      "Network Port": {},
+      "USB": {},
+      "VGA": {},
+      "Others": {},
+      "Power Supply": {},
+      "Power Redundancy": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Gross Weight": {},
+      "Net Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Installation": {},
+      "Certifications": {},
+      "Product Type": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85277/datasheet/DHI-IVS-GS8000-TS2-HW_datasheet_20251212.pdf"
+      },
+      {
+        "name": "2024-12-06 #User Manual Dahua Intelligent Video Analysis Server (TS2)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010186/202412/Dahua_Intelligent_Video_Analysis_Server_(TS2)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-12 #A&E Document IVS-GS8000-TS2-HW_A&E_20260907162739 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85277/a_e_document/1788769886715.docx"
+      },
+      {
+        "name": "2024-10-27 #Drawings IVS-GS8000-TS2-HW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/drawings/1_0_01_18_11085_951790207.pdf"
+      },
+      {
+        "name": "2025-11-24 #Firmware General_IVS-OpenEuler_Base_Driver_Denglin-KS28-x86_22.03-MD5-33df_V1.001.0000000.0.R.251105 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68007/firmware/General_IVS-OpenEuler_Base_Driver_Denglin-KS28-x86_22.03-MD5-33df_V1.001.0000000.0.R.251105.zip"
+      },
+      {
+        "name": "2025-11-24 #Firmware General_IVS-OpenEuler_Base_CPU-x86_22.03-MD5-2c2d_V1.001.0000000.0.R.251105 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68007/firmware/General_IVS-OpenEuler_Base_CPU-x86_22.03-MD5-2c2d_V1.001.0000000.0.R.251105.zip"
+      },
+      {
+        "name": "2025-11-24 #Firmware General_IVS-OpenEuler22.03_lynxvision-x86-uefi_GS8000_PXE-MD5-8e8f_V1.000.0000000.0.R.250909 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85277/firmware/General_IVS-OpenEuler22.03_lynxvision-x86-uefi_GS8000_PXE-MD5-8e8f_V1.000.0000000.0.R.250909.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server/comprehensive-analysis-server/ivs-gs8000-ts2-hw"
+  }
+}

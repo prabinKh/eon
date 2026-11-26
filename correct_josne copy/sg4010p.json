@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/poe-switch",
+    "tab_title": "PoE Switch",
+    "tab_id": "16427",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "PoE Switch",
+      "PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "146624",
+    "product_name": "SG4010P",
+    "product_title": "10-Port Cloud Managed Desktop Gigabit Switch with 8-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sg4010p",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11752/ProductImage/1_0_01_20_11752_671637603_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sg4010p.html",
+  "detail": {
+    "title": "10-Port Cloud Managed Desktop Gigabit Switch with 8-Port PoE",
+    "model": "SG4010P",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11752/ProductImage/1_0_01_20_11752_671637603_crop_thumb.png",
+        "alt": "SG4010P",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sg4010p"
+  }
+}

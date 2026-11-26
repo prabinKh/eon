@@ -1,0 +1,70 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Ninja Mouse Pad - White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924964643",
+    "product_name": "Ninja Mouse Pad - White",
+    "product_title": "Ninja Mouse Pad - White",
+    "product_url": "https://antesports.com/products/ninja-mousepad-900x400-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/45_a0ff19bd-4c1b-4b7a-bba6-f7df708db9e6.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ninja-mousepad-900x400-white.html",
+  "detail": {
+    "title": "Ninja Mouse Pad - White",
+    "model": "AEPP0215",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Ninja is a large extended mouse pad measuring 900 x 400 x 2mm, featuring a ninja-themed design on a smooth surface built for consistent tracking across keyboard and mouse. Its generous size fits a full desk setup comfortably, while a durable, non-slip base ensures it stays firmly in place through daily gaming or office sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/45_a0ff19bd-4c1b-4b7a-bba6-f7df708db9e6.png",
+        "alt": "Ninja Mouse Pad - White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "900 x 400 x 2mm",
+        "Design": "Ninja Print",
+        "Base": "Non-Slip",
+        "Color": "White",
+        "DIMENSIONS": "900 x 400 x 2mm",
+        "DESIGN": "Ninja Print",
+        "BASE": "Non-Slip",
+        "COLOR": "White",
+        "SKU": "AEPP0215"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ninja-mousepad-900x400-white"
+  }
+}

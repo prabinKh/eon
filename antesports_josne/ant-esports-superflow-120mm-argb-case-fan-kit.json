@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "Superflow 3x120mm ARGB Black Case Fan Kit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421876515",
+    "product_name": "Superflow 3x120mm ARGB Black Case Fan Kit",
+    "product_title": "Superflow 3x120mm ARGB Black Case Fan Kit",
+    "product_url": "https://antesports.com/products/ant-esports-superflow-120mm-argb-case-fan-kit",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_0a90321e-d9f5-4e9b-97cb-2654c9b764bf.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-superflow-120mm-argb-case-fan-kit.html",
+  "detail": {
+    "title": "Superflow 3x120mm ARGB Black Case Fan Kit",
+    "model": "AESP0085",
+    "brand": "Ant Esports",
+    "overview": "Take full command of your PC’s aesthetics and thermal performance with theAnt Esports Superflow 120mm ARGB Case Fan Kit. This all-in-one solution provides everything you need to transform your rig with stunning addressable RGB lighting and efficient, high-performance cooling.Vibrant ARGB Customization:Featuring addressable RGB lighting, these fans deliver a wide spectrum of colors and effects. Use the included remote control to easily switch lighting modes, speeds, and colors to match your gaming style.Efficient Airflow Design:Engineered for optimal cooling, the Superflow fans provide excellent airflow to keep your components stable during long gaming sessions or heavy workloads.Centralized Control Hub:The included hub simplifies cable management and synchronization, allowing you to control multiple fans from one location for a clean and professional build.Universal Compatibility:Designed with standard 120mm dimensions, the Superflow kit is compatible with most PC cases, making it the perfect upgrade for any gaming or enthusiast system.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_0a90321e-d9f5-4e9b-97cb-2654c9b764bf.png",
+        "alt": "Superflow 3x120mm ARGB Black Case Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SuperFlowSF120ARGBKit_03_2ce8707f-6f90-49d3-b232-fa5fe8bde0d3.png",
+        "alt": "Superflow 3x120mm ARGB Black Case Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_e82a8f6e-4f88-42b2-b09e-2bec9e6a452a.png",
+        "alt": "Superflow 3x120mm ARGB Black Case Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_1d0c60f5-4e01-43c2-b091-246e358f1dd4.png",
+        "alt": "Superflow 3x120mm ARGB Black Case Fan Kit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "1500",
+        "FAN Airflow (CFM)": "45.3",
+        "FAN Static Pressure (mmH₂O)": "1.8",
+        "FAN Noise (dBA)": "20.5",
+        "FAN Direction": "Forward",
+        "Connection": "PWM + ARGB",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "1500",
+        "FAN AIRFLOW (CFM)": "45.3",
+        "FAN STATIC PRESSURE (MMH₂O)": "1.8",
+        "FAN NOISE (DBA)": "20.5",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "PWM + ARGB",
+        "Offer Price (INR)": "₹1,749.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AESP0085"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-superflow-120mm-argb-case-fan-kit"
+  }
+}

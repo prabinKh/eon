@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "EV Charger",
+    "category_url": "https://www.dahuasecurity.com/products/ev-charger",
+    "subcategory": "D-Volt Ultra",
+    "subcategory_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-ultra",
+    "series": "D-Volt Ultra",
+    "series_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-ultra",
+    "tab_title": "D-Volt Ultra",
+    "tab_id": "118212",
+    "breadcrumbs": [
+      "EV Charger",
+      "D-Volt Ultra",
+      "D-Volt Ultra",
+      "D-Volt Ultra"
+    ]
+  },
+  "card_info": {
+    "product_id": "153826",
+    "product_name": "ICS-D0080E-I4B",
+    "product_title": "DC Charging Station",
+    "product_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-ultra/ics-d0080e-i4b",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10130/ProductImage/1_0_01_47_10130_826171718_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "ev-charger/products/ics-d0080e-i4b.html",
+  "detail": {
+    "title": "DC Charging Station",
+    "model": "ICS-D0080E-I4B",
+    "brand": "Dahua",
+    "overview": "Favourite ICS-D0080E-I4B DC Charging Station Key Points ·Support dual CCS 2 charging connectors ·With 10.1-Inch touch screen display and 32-inch advertising screen ·Support RFID, QR code, VIN charge and optional POS machine ·OCPP 1.6 enbales easy integration with CSMS ·Cable management makes charging more convenient Support optional ANPR camera Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10130/ProductImage/1_0_01_47_10130_826171718_crop_thumb.PNG",
+        "alt": "ICS-D0080E-I4B_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10130/ProductImage/1_0_01_47_10130_826171717_crop_thumb.PNG",
+        "alt": "ICS-D0080E-I4B_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_47_10130/ProductImage/1_0_01_47_10130_826171719_crop_thumb.PNG",
+        "alt": "ICS-D0080E-I4B_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Rated Input Voltage": {},
+      "Max. Output Power": {},
+      "Maximum Charging Current for Single Connector": {},
+      "Output Voltage Range": {},
+      "Constant Power Range": {},
+      "Max. Charging Current": {},
+      "Harmonic Wave": {},
+      "Power Factor": {},
+      "Efficiency": {},
+      "Standby Power Consumption": {},
+      "Output Voltage Error": {},
+      "Output Current Error": {},
+      "Stabilized Voltage Accuracy": {},
+      "Stabilized Current Accuracy": {},
+      "Ripple Peak Value": {},
+      "Average Current Imbalance": {},
+      "Charging Mode": {},
+      "Charging Port": {},
+      "Communication Protocol (with Backend)": {},
+      "Measurement Accuracy": {},
+      "Types of Protection": {},
+      "Cooling Method": {},
+      "Display Screen Dimensions": {},
+      "Startup Method": {},
+      "Network Connection Method": {},
+      "Bluetooth": {},
+      "Status Indicator Light": {},
+      "Accessory": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Cable Length": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Protection": {},
+      "Vandal-proof Rating": {},
+      "Working Noise": {},
+      "Power Supply System Type": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84976/datasheet/ICS-D0080E-I4B_S0_datasheet_20251114.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua DC Charging Station D-Volt Ultra_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84975/user_manual/Dahua_DC_Charging_Station_D-Volt_Ultra_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua DC Charging Station D-Volt Ultra_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84975/user_manual/Dahua_DC_Charging_Station_D-Volt_Ultra_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-30 #Drawings ICS-D0080E-I4B_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84975/drawings/ICS-D0060E-I4B_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-30 #Drawings ICS-D0080E-I4B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84975/drawings/ICS-D0060E-I4B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/ev-charger/d-volt-ultra/ics-d0080e-i4b"
+  }
+}

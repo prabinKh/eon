@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "RX550 80+ Bronze Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421090083",
+    "product_name": "RX550 80+ Bronze Power Supply Unit",
+    "product_title": "RX550 80+ Bronze Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-rx550",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_20a8d0ef-b7f2-4da9-8170-2ba56e766d98.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-rx550.html",
+  "detail": {
+    "title": "RX550 80+ Bronze Power Supply Unit",
+    "model": "AESP0259",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU RX550 is a high-efficiency 550W power supply designed for gaming and high-performance desktop PCs. Featuring 80 Plus Bronze certification, it delivers reliable power with improved energy efficiency, while its non-modular design includes essential 24-pin, dual CPU, PCIe, SATA, and Molex connectors for broad compatibility. Built for stable performance and long-term reliability, it's an excellent choice for modern gaming and productivity systems.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_20a8d0ef-b7f2-4da9-8170-2ba56e766d98.png",
+        "alt": "RX550 80+ Bronze Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_2afe5c26-33d9-4ab6-8bd6-dc1b8aad26e9.png",
+        "alt": "RX550 80+ Bronze Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_913f801c-7941-435c-88d6-795e9d40db7c.png",
+        "alt": "RX550 80+ Bronze Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_589ba6f0-9fcc-407d-95f9-ce479492f0bc.png",
+        "alt": "RX550 80+ Bronze Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "RX Series (80+ Bronze)",
+        "Category": "Power Supply",
+        "Rated Wattage": "550",
+        "Rating": "80 Plus Bronze",
+        "Modularity": "Non-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "2 (8-Pin)",
+        "PCIe (8-Pin)": "1",
+        "SATA": "4",
+        "Molex": "2",
+        "SERIES": "RX Series (80+ Bronze)",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "550",
+        "RATING": "80 Plus Bronze",
+        "MODULARITY": "Non-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "1",
+        "MOLEX": "2",
+        "Offer Price (INR)": "₹3,499.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AESP0259"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-rx550"
+  }
+}

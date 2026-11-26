@@ -1,0 +1,198 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Dome Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/dome-series",
+    "tab_title": "Dome Series",
+    "tab_id": "18159",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Dome Series",
+      "Dome Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "105137",
+    "product_name": "IPC-HDBW1430DE-SW",
+    "product_title": "4MP IR Fixed-focal Wi-Fi Dome Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/dome-series/ipc-hdbw1430de-sw",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38637/ProductImage/1_0_01_04_38637_347555121_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/ipc-hdbw1430de-sw.html",
+  "detail": {
+    "title": "4MP IR Fixed-focal Wi-Fi Dome Network Camera",
+    "model": "IPC-HDBW1430DE-SW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDBW1430DE-SW 4MP IR Fixed-focal Wi-Fi Dome Network Camera Key Points • IP67 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38637/ProductImage/1_0_01_04_38637_347555121_crop_thumb.png",
+        "alt": "IPC-HDBW1430DE-SW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38637/ProductImage/1_0_01_04_38637_347555119_crop_thumb.png",
+        "alt": "IPC-HDBW1430DE-SW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "ROM": "16 MB",
+        "RAM": "64 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.03 Lux@F2.0 (Color, 30 IRE) 0.003 Lux@F2.0 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "30 m (98.43 ft) (IR LED)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "3 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0–355° Tilt: 0–75° Rotation: 0–355°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "2.8 mm: Horizontal: 90°; Vertical: 50°; Diagonal: 107° 3.6 mm: Horizontal: 76°; Vertical: 40°; Diagonal: 92°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 1.0 m (3.28 ft) 3.6 mm: 1.4 m (4.59 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "68 m (223.10 ft)",
+        "3.6 mm": "85.2 m (279.53 ft)"
+      },
+      "Video": {
+        "Video Compression": "H.264B; H.264; H.264H; H.265",
+        "Smart Codec": "Smart H.265+;Smart H.264+",
+        "Video Frame Rate": "Main stream: 2560 × 1440@ (1–20 fps) Sub stream: 640 × 480@(1–25 fps) 640 × 480@(1–30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "2 streams",
+        "Resolution": "2560 × 1440 (2560 × 1440); 2304 × 1296 (2304 × 1296); 1080p (1920 × 1080); 1.3M(1280 × 960); 720p (1280 × 720)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H264: 24 kbps–4096 kbps H265: 9 kbps–4096 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/180°",
+        "Mirror": "Yes"
+      },
+      "Alarm": {
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE802.11b/g/n 2.4–2.4835 GHz",
+        "Wireless Range": "Up to 80 m (The performance varies based on actual environment)",
+        "SDK and API": "Yes",
+        "Cyber Security": "Video encrypton; confguraton encrypton; Digest; WSSE; account lockout; security logs; generaton and importng of X.509 certfcaton; HTTPS; trusted boot; trusted executon; trusted upgrade",
+        "Network Protocol": "IPv4; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; DHCP; DNS; NTP; Multicast;RTMP",
+        "Interoperability": "ONVIF (Profile S/Profile G); CGI; P2P",
+        "User/Host": "6 (Total bandwidth: 36 M)",
+        "Storage": "Micro SD card (support max. 256 GB, sold separately)",
+        "Browser": "IE Chrome Firefox",
+        "Management Software": "Smart PSS; DSS; DMSS",
+        "Mobile Client": "iOS; Android"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU; FCC: 47 CFR FCC Part 15, Subpart B; FCC ID: FCC PART 15C"
+      },
+      "Power": {
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Basic: 2 W (12 VDC); Max. (H.265+IR intensity): 4.9 W (12 VDC)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Protection": "IP67; IK10"
+      },
+      "Structure": {
+        "Casing": "Metal",
+        "Product Dimensions": "Φ110.7 mm × 88.7 mm (Φ4.33\" × 3.49\")",
+        "Net Weight": "414 g (0.91 lb)",
+        "Gross Weight": "592 g (1.31 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HDBW1430DE-SW_datasheet_20231121.pdf"
+      },
+      {
+        "name": "2024-12-18 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.2.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/20037/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.2.2.pdf"
+      },
+      {
+        "name": "2024-12-18 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54247/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2024-12-18 #User Manual Dahua Dome Network Camera_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006207/202412/Dahua_Dome_Network_Camera_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-12-18 #User Manual Dahua Dome Network Camera_Application Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006207/202412/Dahua_Dome_Network_Camera_Application_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-12-18 #User Manual Dahua Dome Network Camera Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006207/202412/Dahua_Dome_Network_Camera_Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-03-21 #A&E Document IPC-HDBW1430DE-SW_A&E_20260917192555 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43807/a_e_document/1789644711124.docx"
+      },
+      {
+        "name": "2022-03-29 #Drawings IPC-HDBW1430DE-SW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43807/drawings/IPC-HDBW1430DE-SW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-03-29 #Drawings IPC-HDBW1430DE-SW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43797/drawings/IPC-HDBW1230DE-SW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-25 #Firmware DH_IPC-WX-Web-Hertz2_EngRusSpn_PN_V2.800.0000000.23.R.250704 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3295021/M/DH_IPC-WX-Web-Hertz2_EngRusSpn_PN_V2.800.0000000.23.R.250704.zip"
+      },
+      {
+        "name": "2025-07-25 #Firmware DH_IPC-WX-Web-Hertz2_EngRusSpn_NP_V2.800.0000000.23.R.250704 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3295029/M/DH_IPC-WX-Web-Hertz2_EngRusSpn_NP_V2.800.0000000.23.R.250704.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/dome-series/ipc-hdbw1430de-sw"
+  }
+}

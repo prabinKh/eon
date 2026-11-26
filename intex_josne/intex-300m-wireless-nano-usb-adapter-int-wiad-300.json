@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "USB Adapter",
+    "subcategory_url": "https://www.intex.in/collections/usb-adapter",
+    "series": "Wireless USB Adapter",
+    "series_url": "https://www.intex.in/collections/wireless-usb-adapter",
+    "tab_title": "USB Adapter",
+    "tab_id": "8981212037338",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "USB Adapter",
+      "Intex 300M Wireless Nano USB Adapter - INT WIAD 300"
+    ]
+  },
+  "card_info": {
+    "product_id": "8981212037338",
+    "product_name": "Intex 300M Wireless Nano USB Adapter - INT WIAD 300",
+    "product_title": "Intex 300M Wireless Nano USB Adapter - INT WIAD 300",
+    "product_url": "https://www.intex.in/products/intex-300m-wireless-nano-usb-adapter-int-wiad-300",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Int-WiAd-300.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1599.0,
+      "display": "₹1,599.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-300m-wireless-nano-usb-adapter-int-wiad-300.html",
+  "detail": {
+    "title": "Intex 300M Wireless Nano USB Adapter - INT WIAD 300",
+    "model": "300M-300",
+    "brand": "Intex",
+    "overview": "Upgrade your desktop or laptop with seamless wireless connectivity using this high-speed 802.11 b/g/n USB Wi-Fi Adapter. Powered by the reliable Realtek RTL8192EU chipset, it offers stable and fast wireless transmission up to 300 Mbps. Whether you're streaming, browsing, or using it with DVR systems, this compact plug-and-play device is designed to deliver consistent performance. Compatible with Windows XP, 8, 10, and Mac OS, it ensures wide usability across systems, while advanced security protocols protect your data on any network.",
+    "features": [
+      "802.11 b/g/n Wireless Technology",
+      "Realtek RTL8192EU Chipset",
+      "Up to 300 Mbps transmission speed",
+      "Plug & Play – Easy setup on most systems",
+      "DVR supported Wi-Fi adapter",
+      "Advanced WPA/WPA2 Security",
+      "Compatible with Windows XP/8/10 and macOS"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Int-WiAd-300.jpg",
+        "alt": "Intex 300M Wireless Nano USB Adapter - INT WIAD 300",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "802.11 b/g/n Wireless Technology",
+        "Feature 2": "Realtek RTL8192EU Chipset",
+        "Feature 3": "Up to 300 Mbps transmission speed",
+        "Feature 4": "Plug & Play – Easy setup on most systems",
+        "Feature 5": "DVR supported Wi-Fi adapter",
+        "Feature 6": "Advanced WPA/WPA2 Security",
+        "Feature 7": "Compatible with Windows XP/8/10 and macOS"
+      },
+      "General": {
+        "Model": "300M-300"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-300m-wireless-nano-usb-adapter-int-wiad-300"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8857079316698",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Washing Machine",
+      "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG"
+    ]
+  },
+  "card_info": {
+    "product_id": "8857079316698",
+    "product_name": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+    "product_title": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+    "product_url": "https://www.intex.in/products/sa85bgfg-8-5-kg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_e07a6a0d-288f-44df-b799-10239e9d71c4.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 19499.0,
+      "display": "₹19,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa85bgfg-8-5-kg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+    "model": "SA85BGFG",
+    "brand": "Intex",
+    "overview": "Intex SA85BGFG | 8.5 kg Semi-Automatic Washing Machine The Intex SA85BGFG is an 8.5 KG semi-automatic washing machine designed for power-packed cleaning with smart functionality. Built with a rust-free twin tub body, this machine features a hydraulic lid, mini pulsator design, and waterfall tub technology for an efficient and fabric-friendly wash. The powerful motor, salt water compatibility, and magic filter make it ideal for daily use. Available in an elegant Black & Grey finish with a stylish floral lid, it’s where smart washing meets effortless convenience.",
+    "features": [
+      "8.5 KG Wash Capacity",
+      "Anti-Corrosive Rust-Free Twin Tub",
+      "3 Wash Programs",
+      "Mini Pulsator Design",
+      "Wash & Spin Hydraulic Lid",
+      "Powerful Motor with TOP Technology",
+      "Collar Scrubber Technology",
+      "Magic Filter for Effective Lint Removal",
+      "Salt Water Compatible",
+      "Waterfall Tub Design for Even Detergent Distribution",
+      "Toughened Full Glass Lid with Flower Print"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_e07a6a0d-288f-44df-b799-10239e9d71c4.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-3_6ae44903-ad78-4099-a686-e62ae9449982.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-2_259a0686-cc85-46ea-8669-09fa3166d8c4.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-4_f86208ba-5b3a-4b4b-9424-956943df06d4.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-5_ef95070a-3cff-469b-8b3c-b36bfead17b8.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-6_0a3a0922-5456-4a46-bb93-6faf89588c7b.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-7_259c8fb4-6776-4c6c-9ca6-ce7ce67afd97.jpg",
+        "alt": "Intex 8.5 KG Semi-Automatic Washing Machine - SA85BGFG",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "8.5 KG Wash Capacity",
+        "Feature 2": "Anti-Corrosive Rust-Free Twin Tub",
+        "Feature 3": "3 Wash Programs",
+        "Feature 4": "Mini Pulsator Design",
+        "Feature 5": "Wash & Spin Hydraulic Lid",
+        "Feature 6": "Powerful Motor with TOP Technology",
+        "Feature 7": "Collar Scrubber Technology",
+        "Feature 8": "Magic Filter for Effective Lint Removal",
+        "Feature 9": "Salt Water Compatible",
+        "Feature 10": "Waterfall Tub Design for Even Detergent Distribution",
+        "Feature 11": "Toughened Full Glass Lid with Flower Print"
+      },
+      "General": {
+        "Model": "SA85BGFG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/SA85BGFG-8.5_KG_PPT_79e8f9f3-6707-4f4a-b34c-e9584d96cb91.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa85bgfg-8-5-kg-semi-automatic-washing-machine"
+  }
+}

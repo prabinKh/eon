@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Turnstiles",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles",
+    "series": "Swing Barrier",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier",
+    "tab_title": "Tripod Turnstile",
+    "tab_id": "16357",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Turnstiles",
+      "Swing Barrier",
+      "Tripod Turnstile"
+    ]
+  },
+  "card_info": {
+    "product_id": "97047",
+    "product_name": "ASGG5XXT",
+    "product_title": "Tripod Turnstile",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/tripod-turnstile/pro/asgg5xxt",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210730/xe1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asgg5xxt.html",
+  "detail": {
+    "title": "Tripod Turnstile",
+    "model": "ASGG5XXT",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASGG5XXT Tripod Turnstile Key Points • Cabinet Material: SUS304 1.5mm • MCBF ≥ 3 Million Times • 600mm Standard Passage Width • 9 Combination of Passage Modes • 3-Color LED Indicates The Passing Status • Remaining Open During Fire Emergencies • Built-in Controller and IC Card Reader • Water-proof with IPX4 Rating Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210730/xe1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210730/x2_thumb.png",
+        "alt": "ASGG5XXT",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210730/x1_thumb.png",
+        "alt": "ASGG5XXT",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Product Dimensions": "1200 mm × 200 mm × 980 mm (47.24\" × 7.87\" × 38.58\")",
+        "Casing": "Cabinet Thickness SUS304 1.5 mm (0.06\")",
+        "Arm Material": "Stainless steel"
+      },
+      "Function": {
+        "Anti-collision": "Yes",
+        "Memory Mode": "Yes",
+        "Anti-trailing": "Yes",
+        "Sound and Light Prompt": "Yes",
+        "People Counting": "Yes",
+        "Alarm": "Yes"
+      },
+      "Performance": {
+        "Unlocking Duration": "2–60 s (5 s by default)",
+        "MCBF": "> 3,000,000",
+        "Passing Frequency": "20–40 people/minute",
+        "Passsage Width": "600 mm (23.62\")"
+      },
+      "General": {
+        "Net Weight": "37 kg (81.57 lb)",
+        "Gross Weight": "60 kg (132.28 lb)",
+        "Protection Grade": "IPX4",
+        "Power Consumption": "Standby ≤ 10 W; working: ≤ 40 W",
+        "Operating Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Operating Humidity": "5%–93% (RH), non-condensing",
+        "Operating Environment": "Indoor and outdoor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASGG5XXT_datasheet_20210622.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Tripod Turnstile_User Manual_V1.0.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/21607/user_manual/Tripod_Turnstile_User_Manual_V1.0.6.pdf"
+      },
+      {
+        "name": "2025-03-22 #A&E Document ASGG5XXT_A&E_20260901195246 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/21607/a_e_document/1788268900466.docx"
+      },
+      {
+        "name": "2023-11-30 #Drawings ASGG5XXT_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35717/drawings/ASGG5XXT_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-09-25 #Firmware General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3396077/M/General_ASG-ASR100_NOENC_MCU_V1.001.0000001.1.R.250910.zip"
+      },
+      {
+        "name": "2024-12-27 #Firmware General_ASGG5XXT_Eng_MCU_V1.000.0000000.4.R.241107 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2985277/M/General_ASGG5XXT_Eng_MCU_V1.000.0000000.4.R.241107.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/tripod-turnstile/pro/asgg5xxt"
+  }
+}

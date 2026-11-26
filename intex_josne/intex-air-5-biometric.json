@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "Intex AIR 5 Biometric",
+    "series_url": "https://www.intex.in/collections/intex-air-5-biometric",
+    "tab_title": "Biometric",
+    "tab_id": "9046125904090",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Biometric",
+      "Intex AIR 5 Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9046125904090",
+    "product_name": "Intex AIR 5 Biometric",
+    "product_title": "Intex AIR 5 Biometric",
+    "product_url": "https://www.intex.in/products/intex-air-5-biometric",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-Front_INTeX_AIR_5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 45430.0,
+      "display": "₹45,430.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-air-5-biometric.html",
+  "detail": {
+    "title": "Intex AIR 5 Biometric",
+    "model": "5",
+    "brand": "Intex",
+    "overview": "Intex AIR 5 Biometric Attendance System is an advanced multi-identification device designed for secure and efficient workforce management. Supporting Face, Fingerprint, Password, and Card authentication, it ensures flexibility in access control and attendance tracking. With a Fingerprint capacity of 10,000, Card capacity with face capacity of 5000, and Password capacity of 15,000, it easily caters to large organizations. The device can store up to 500,000 attendance records, ensuring long-term data management without the need for frequent backups.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-Front_INTeX_AIR_5.jpg",
+        "alt": "Intex AIR 5 Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Face Capacity": "5000",
+        "Finger Capacity": "10000",
+        "Card Capacity": "15000",
+        "Password Capacity": "15000",
+        "Add User": "15000",
+        "Attendance Records": "500000",
+        "Fingerprint Verification Mode": "1:1, 1:N",
+        "Working Mode": "Online / Offline",
+        "Verification Mode": "Fingerprint / Password / Face / Card",
+        "Combination Options": "FP + Card, PIN + Card, FP + Face, FP + PIN, FP + PIN + Card",
+        "Screen": "4.3 Inch Touch Screen",
+        "Language": "English",
+        "Communication": "TCP/IP, USB, WiFi",
+        "Power Supply": "DC 12V 2A",
+        "Battery Backup": "No",
+        "Camera": "2MP Color + 2MP Infrared",
+        "Operating System": "Linux 3.10",
+        "Identification Speed": "<0.2s",
+        "Dual Authentication": "Yes",
+        "Model": "5"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_AIR_5.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-air-5-biometric"
+  }
+}

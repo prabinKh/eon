@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "MK1900 RGB Keyboard with Volume Knob & Alarm Clock"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346758734115",
+    "product_name": "MK1900 RGB Keyboard with Volume Knob & Alarm Clock",
+    "product_title": "MK1900 RGB Keyboard with Volume Knob & Alarm Clock",
+    "product_url": "https://antesports.com/products/mk1900-rgb-keyboard-volume-knob-alarm",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_f66e22f7-6eae-4c7c-9b54-93e2d2b04b2f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mk1900-rgb-keyboard-volume-knob-alarm.html",
+  "detail": {
+    "title": "MK1900 RGB Keyboard with Volume Knob & Alarm Clock",
+    "model": "AEPP0288",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MK1900 is a full-size mechanical-feel gaming keyboard that goes beyond typing with a built-in digital display, dual multimedia control knobs and a configurable alarm clock. The 93-key layout plus 6 dedicated macro keys, combined with full 26-key anti-ghosting, ensures every input registers cleanly during competitive gaming or fast typing sessions. Dual rotary knobs give instant control over volume and lighting without needing to alt-tab out of a game, while vibrant multi-zone RGB backlighting with DIY effects adds a customizable visual layer to any setup. Rated for 30 million keystrokes and built with a 1.5m braided cable and durable ABS keycaps, it's a genuinely feature-packed keyboard for gamers who want more than the basics, working across Windows, Mac and Linux with USB plug-and-play.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_f66e22f7-6eae-4c7c-9b54-93e2d2b04b2f.png",
+        "alt": "MK1900 RGB Keyboard with Volume Knob & Alarm Clock - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keys": "93 + 6 Macro Keys",
+        "Display": "Digital, Alarm Clock Function",
+        "Controls": "Dual Rotary Knobs",
+        "Anti-Ghosting": "26-Key",
+        "Durability": "30 Million Keystrokes",
+        "Cable": "1.5m Braided",
+        "Compatibility": "Windows, Mac, Linux",
+        "KEYS": "93 + 6 Macro Keys",
+        "DISPLAY": "Digital, Alarm Clock Function",
+        "CONTROLS": "Dual Rotary Knobs",
+        "ANTI-GHOSTING": "26-Key",
+        "DURABILITY": "30 Million Keystrokes",
+        "CABLE": "1.5m Braided",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "Offer Price (INR)": "₹2,549.00",
+        "MRP (INR)": "₹6,999.00",
+        "SKU": "AEPP0288"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mk1900-rgb-keyboard-volume-knob-alarm"
+  }
+}

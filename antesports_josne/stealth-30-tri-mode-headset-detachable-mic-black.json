@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "Stealth 30 Tri-Mode Headset - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444590883",
+    "product_name": "Stealth 30 Tri-Mode Headset - Black",
+    "product_title": "Stealth 30 Tri-Mode Headset - Black",
+    "product_url": "https://antesports.com/products/stealth-30-tri-mode-headset-detachable-mic-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/30_ba021d7b-f8ca-4531-b464-1ea188757a74.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/stealth-30-tri-mode-headset-detachable-mic-black.html",
+  "detail": {
+    "title": "Stealth 30 Tri-Mode Headset - Black",
+    "model": "AEPP0380",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Stealth 30 is a tri-mode headset offering Bluetooth 5.4, 2.4GHz wireless and wired connectivity, giving broad compatibility across PC, PS5, PS4, Xbox, mobile and laptop. Large 50mm dynamic drivers deliver deep bass, rich mids and crystal-clear highs suited to competitive FPS, RPGs, music, movies and streaming alike. A detachable omnidirectional microphone captures voice clearly during gaming or calls, and can be removed entirely for a cleaner look when listening to music or travelling. A 1200mAh battery keeps the headset running through long sessions, while premium memory foam ear cushions, a soft protein-leather headband and an adjustable, durable frame keep it comfortable for marathon use without pressure or fatigue.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/30_ba021d7b-f8ca-4531-b464-1ea188757a74.jpg",
+        "alt": "Stealth 30 Tri-Mode Headset - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth 5.4 + 2.4GHz + Wired",
+        "Driver Size": "50mm",
+        "Battery": "1200mAh",
+        "Microphone": "Detachable, Omnidirectional",
+        "Compatibility": "PC, PS5, PS4, Xbox, Mobile, Laptop",
+        "Color": "Black",
+        "CONNECTIVITY": "Bluetooth 5.4 + 2.4GHz + Wired",
+        "DRIVER SIZE": "50mm",
+        "BATTERY": "1200mAh",
+        "MICROPHONE": "Detachable, Omnidirectional",
+        "COMPATIBILITY": "PC, PS5, PS4, Xbox, Mobile, Laptop",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹3,499.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0380"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (STEALTH)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-Stealth-10.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/stealth-30-tri-mode-headset-detachable-mic-black"
+  }
+}

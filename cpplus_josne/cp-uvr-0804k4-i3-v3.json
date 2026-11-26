@@ -1,0 +1,108 @@
+{
+  "hierarchy": {
+    "category": "8 Ch.",
+    "category_url": "https://cpplusworld.com/products/8-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/8-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "57",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "8 Ch.",
+      "CP-UVR-0804K4-I3-V3"
+    ]
+  },
+  "card_info": {
+    "product_id": "2172",
+    "product_name": "CP-UVR-0804K4-I3-V3",
+    "product_title": "CP-UVR-0804K4-I3-V3",
+    "product_url": "https://cpplusworld.com/cp-uvr-0804k4-i3-v3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d5428780-99ba-49f6-b77a-d3caed0f8eab.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-0804k4-i3-v3.html",
+  "detail": {
+    "title": "CP-UVR-0804K4-I3-V3",
+    "model": "CP-UVR-0804K4-I3-V3",
+    "brand": "CP Plus",
+    "overview": "8Ch. 5MP Digital Video Recorder",
+    "features": [
+      "Supports HDCVI/AHD/TVI/CVBS/IP video inputs",
+      "Max. 12 Channels IP camera inputs, Each channel up to 6MP, Max. 64 Mbps incoming bandwidth, 64 Mbps outgoing bandwidth, 64 recording bandwidth",
+      "Supports all Channel AI Coding",
+      "Support 4 SATA HDD up to 16TB Each, 3 USB Ports",
+      "Up to 4 Channels video stream (analog channel) perimeter protection",
+      "Up to 2 Channels video stream (analog channel) human face recognition",
+      "Mobile Software: iCMOB, gCMOB"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d5428780-99ba-49f6-b77a-d3caed0f8eab.jpg",
+        "alt": "CP-UVR-0804K4-I3-V3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/fe3cecb8-b344-4367-9da6-0b055295d0b3.jpg",
+        "alt": "CP-UVR-0804K4-I3-V3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "User Interface": "Web, Local GUI",
+        "Video Output": "1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720;  1 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "IP Camera Input": "Up to 12 Channels of IPC access 4 IP Channels by default + 8 Channels (analog channels are  converted to IP channels) Incoming bandwidth: 64 Mbps, Recording bandwidth: 64 Mbps and  outgoing bandwidth: 64 Mbps  *After IP channels are added beyond the existing channels, the AI Function (IVS, SMD, FACE)  will be disabled.",
+        "Analog Camera Input": "8 BNC ports, Supports HDCVI/AHD/TVI/CVBS autodetect",
+        "HD Camera Input": "1. CVI: 5MP@20fps, 5MP@25fps, 5MP@10/12.5fps, 4MP@25/30fps, 1080p@25/30fps,  720p@50/60fps, 720p@25/30fps.  2. TVI: 5MP@20fps, 4MP@25/30fps, 1080p@25/30fps, 720p@25/30fps.  3. AHD: 5MP@20fps, 4MP@25/30fps, 1080p@25/30fps, 720p@25/30fps",
+        "stream Capability": "Dual stream",
+        "Video Streaming": "Main stream: 5MP Mode: 4-ch 5MP@(1-6fps); other channels 5M-N@ (1-12fps)  5M-N Mode: All channel 5M-N@(1–12fps);4M-N,1080p@(1–15fps); 1080N, 720p, 960H,  D1,CIF@(1–25/30fps)  Sub stream: D1, CIF@(1–15fps)",
+        "Video Display Split": "When IP extension mode not enabled: 1/4/8; When IP extension mode enabled: 1/4/8/9/16",
+        "Bit Rate": "32 kbps - 6144 kbps",
+        "Video Compression": "Instastream, H.265, H.264+, H.264",
+        "Hard Disk": "4 SATA ports, up to 16TB capacity for each disk. The maximum HDD capacity varies with environment temperature",
+        "Face Database Capacity": "Up to 10 face databases with 10,000 face images in total. Name, Gender, Birthday, Address,  Certificate type, Certificate No., Countries & Regions and state can be added to each face image",
+        "Backup Mode": "USB device and network",
+        "Interface Ports": "3 (1 front USB 2.0 port, 2 rear USB 2.0 ports), 1 RS485 Port (for PTZ control), 1 RS232 (1 port, for PC Communication & Keyboard)",
+        "Protocols": "HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, DDNS,  Alarm Server, InstaOn, Auto Registration, ONVIF 22.12(Profile T, Profile S, Profile G), CGI, SDK",
+        "Audio Compression": "G.711a, G.711u, PCM,",
+        "Audio Output": "1 Channel BNC",
+        "Audio Input": "4 Channel BNC, 8 Channel BNC (Coaxial Audio)",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Alarm Input": "6 Channels",
+        "Alarm Output": "6 Channels (5 Channel relay output, 1 Channel 12 V 1 A output)",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE9 or later, Firefox",
+        "Power Supply": "100-240 VAC, 50/60 Hz",
+        "Power Consumption": "<10 W (without HDD)",
+        "Operating Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Operating Humidity": "≤95% (RH)",
+        "Dimension": "440 mm × 420.2 mm × 76 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-0804K4-I3-V3.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/e0e92063-1a59-4a74-8432-b8d58e6ff036.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-0804k4-i3-v3"
+  }
+}

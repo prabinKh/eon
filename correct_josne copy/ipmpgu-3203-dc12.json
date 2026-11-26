@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Indoor Parking",
+    "tab_id": "18134",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Indoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "153359",
+    "product_name": "IPMPGU-3203-DC12",
+    "product_title": "Dahua LED Indicator",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/indoor-parking/itc514-series-spot-detection-camera/ipmpgu-3203-dc12",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15771/ProductImage/1_0_01_09_15771_798106399_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmpgu-3203-dc12.html",
+  "detail": {
+    "title": "Dahua LED Indicator",
+    "model": "IPMPGU-3203-DC12",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMPGU-3203-DC12 Dahua LED Indicator Key Points 1. Fully automatic multi-parking space detection capability 2. Fire & smoke detection 3. LED indicator Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15771/ProductImage/1_0_01_09_15771_798106399_thumb.PNG",
+        "alt": "IPMPGU-3203-DC12_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15771/ProductImage/1_0_01_09_15771_788211770_crop_thumb.PNG",
+        "alt": "IPMPGU-3203-DC12_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15771/ProductImage/1_0_01_09_15771_788211771_crop_thumb.PNG",
+        "alt": "IPMPGU-3203-DC12_Rendergraph_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Indicator Light": {},
+      "RS-485": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84496/datasheet/DHI-IPMPGU-3203-DC12_datasheet_20250605.pdf"
+      },
+      {
+        "name": "2025-06-17 #User Manual Parking Space Detection Camera_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84496/user_manual/Parking_Space_Detection_Camera_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-17 #User Manual Parking Space Detection Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84496/user_manual/Parking_Space_Detection_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-23 #A&E Document IPMPGU-3203-DC12_A&E_20250522162620 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84433/a_e_document/DHI-IPMPGU-3203-DC12_A_E_20250522162620.docx"
+      },
+      {
+        "name": "2025-05-08 #Drawings IPMPGU-3203-DC12_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84431/drawings/DHI-ITC514-PH6D-Q20-F28-POE_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-05-08 #Drawings IPMPGU-3203-DC12_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84433/drawings/DHI-IPMPGU-3203-DC12_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/indoor-parking/itc514-series-spot-detection-camera/ipmpgu-3203-dc12"
+  }
+}

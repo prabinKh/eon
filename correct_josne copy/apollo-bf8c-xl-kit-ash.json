@@ -1,0 +1,169 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Wire-free Cameras",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/wire-free-cameras",
+    "tab_title": "Wire-free Cameras",
+    "tab_id": "118236",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Wire-free Cameras",
+      "Wire-free Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "155754",
+    "product_name": "APOLLO BF8C-XL KIT(Ash)",
+    "product_title": "8MP Wi-Fi Battery Bullet Network Camera Solar Monitoring System",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/wire-free-cameras/apollo-bf8c-xl-kit(ash)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88257/image/1_0_01_04_46270_784509299_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/apollo-bf8c-xl-kit-ash.html",
+  "detail": {
+    "title": "8MP Wi-Fi Battery Bullet Network Camera Solar Monitoring System",
+    "model": "APOLLO BF8C-XL KIT(Ash)",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite APOLLO BF8C-XL KIT(Ash) 8MP Wi-Fi Battery Bullet Network Camera Solar Monitoring System Key Points • 4K Ultra HD, Beyond Sharpness • IP67 Protection • AOV Mode Enables 24/7 Recording with Ultra-low Power Consumption • Uninterrupted Operations through Battery and Solar Charging • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88257/image/1_0_01_04_46270_784509299_crop_thumb.PNG",
+        "alt": "APOLLO BF8C-XL KIT(Ash)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88257/image/1_0_01_04_46270_784509298_thumb.PNG",
+        "alt": "APOLLO BF8C-XL KIT(Ash)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.82\" CMOS",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "Illumination Distance": "Up to 15 m (49.21 ft) (IR) Up to 20 m (65.62 ft) (Warm light)",
+        "Illuminator Number": "2 (Multi-core (IR + warm) light)",
+        "Angle Adjustment": "Pan: 0° to 360° Tilt: –60° to 0° Rotation: 0° to 360°",
+        "PIR Sensor Distance": "12 m (the height of device is 2.5 m, placed horizontally); 8 m (the height of the device is 2 m, placed at an angle of 30° from the horizontal)",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "2.1 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 123°; V: 66°; D: 145°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265",
+        "Video Frame Rate": "Main stream: 3840 × 2160@(1–15 fps); sub stream: 640 × 360@(1–15 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "32 kbps – 4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "Yes",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM"
+      },
+      "Network": {
+        "Wi-Fi": "IEEE 802.11a/b/g/n/ac/ax 2.4 G & 5 G, EIRP≤20 dBm@2400-2483.5MHz (CE), EIRP≤23 dBm@5150-5250 MHz (CE), EIRP≤20 dBm@5250-5350 MHz (CE), EIRP≤27 dBm@5470-5725 MHz (CE), EIRP≤14 dBm@5725-5875 MHz (CE)",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 512 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "Android;iOS"
+      },
+      "General": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU",
+        "Power Supply": "USB (5 VDC±5%, 2 A)",
+        "Power Consumption": "Ultra power saving mode: 0.008 W Power saving mode: 0.008 W AOV mode: 0.208 W Performance mode: 1.504 W",
+        "Operating Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP66",
+        "Camera Button": "Reset Button; Power Button",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "186.5 mm × Φ65.0 mm (7.34\" × Φ2.56\")",
+        "Net Weight": "0.33 kg (0.73 lb)"
+      },
+      "Battery": {
+        "Battery Capacity": "9000 mAh / 32.4 Wh"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88257/datasheet/DH-BF8CA-XLM0508_S0_datasheet_20260805_English.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87899/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Network Camera (Solar Power Bullet-WIFI)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88249/user_manual/Network_Camera_(Solar_Power_Bullet-WIFI)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Wi-Fi Battery Network Camera (Bullet) User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88241/user_manual/Wi-Fi_Battery_Network_Camera_(Bullet)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua Network Camera (Bullet-WiFi-Eur)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88249/user_manual/Dahua_Network_Camera_(Bullet-WiFi-Eur)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82776/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82776/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2026-09-20 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82776/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-07-29 #A&E Document APOLLO BF8C-XL KIT(Ash)_A&E_20260918043918 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88257/a_e_document/1789677676467.docx"
+      },
+      {
+        "name": "2025-04-26 #Drawings APOLLO BF8C-XL KIT(Ash)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88255/drawings/1_0_01_04_46268_783798906.pdf"
+      },
+      {
+        "name": "2025-04-26 #Drawings APOLLO BF8C-XL KIT(Ash)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88255/drawings/1_0_01_04_46268_783798904.pdf"
+      },
+      {
+        "name": "2026-08-04 #Firmware DH_IPC-WHXHigh-Cauchy_Eng_PN_V2.820.0000000.20.R.260715 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88252/firmware/DH_IPC-WHXHigh-Cauchy_Eng_PN_V2.820.0000000.20.R.260715.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/wire-free-cameras/apollo-bf8c-xl-kit(ash)"
+  }
+}

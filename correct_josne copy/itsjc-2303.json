@@ -1,0 +1,121 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "133037",
+    "product_name": "ITSJC-2303",
+    "product_title": "79 GHz Anti-smashing Radar",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/itsjc-2303",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_81_10012/ProductImage/1_0_99_81_10012_1607887595_temporary_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itsjc-2303.html",
+  "detail": {
+    "title": "79 GHz Anti-smashing Radar",
+    "model": "ITSJC-2303",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITSJC-2303 79 GHz Anti-smashing Radar Key Points Compatible with Various Barriers; Adjustable Detection Range; Easy for Commissioning; Automatic Surroundings Reading; Easy to View Information; Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_81_10012/ProductImage/1_0_99_81_10012_1607887595_temporary_thumb.png",
+        "alt": "ITSJC-2303_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_81_10012/ProductImage/1_0_99_81_10012_1607887594_temporary_thumb.png",
+        "alt": "ITSJC-2303_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_81_10012/ProductImage/1_0_99_81_10012_1607887596_crop_thumb.png",
+        "alt": "ITSJC-2303_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Basic": {
+        "Emission Frequency": "77 GHz–81 GHz",
+        "Emission Power": "≤ 10 mW",
+        "Beam Width": "Vertical: ± 10°, horizontal: ± 36°",
+        "Response Time": "50 ms",
+        "Detection Region": "0.3 m–6 m (0.98 ft–19.69 ft) (adjustable)",
+        "Anti-smashing Region": "0 m–2 m (0 ft–6.56 ft) (adjustable)"
+      },
+      "Function": {
+        "Detection Target": "Human, vehicle",
+        "Online Commissioning": "Yes, through serial port or mobile app (with Wi-Fi connection)",
+        "Update": "Yes, through serial port or mobile app (with Wi-Fi connection)"
+      },
+      "Port": {
+        "RS-485": "1",
+        "I/O": "2 (1 for update input, 1 for relay output)"
+      },
+      "General": {
+        "Operating voltage": "9 V–12 V DC",
+        "Operating Current": "< 0.25 A",
+        "Power Consumption": "< 3 W",
+        "Operating Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Protection Grade": "IP66",
+        "Product Dimensions": "96 mm × 60 mm × 16.4 mm (3.78\" × 2.36\" × 0.65\") (L × W × H)",
+        "Net Weight": "70 g ± 10 g (0.15 lb ± 0.02 lb)",
+        "Gross Weight": "220 g ± 20 g (0.49 lb ± 0.04 lb)",
+        "Installation": "Case side mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITSJC-2303_datasheet_20230828.pdf"
+      },
+      {
+        "name": "2026-09-15 #User Manual Dahua 79 GHz Anti-smashing Radar_User Manual_V1.2.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75087/user_manual/Dahua_79_GHz_Anti-smashing_Radar_User_Manual_V1.2.0.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document ITSJC-2303_A&E_20260901201638 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75087/a_e_document/1788265295631.docx"
+      },
+      {
+        "name": "2021-02-20 #Drawings ITSJC-2303_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75087/drawings/ITSJC-2303_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/itsjc-2303"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "Audio & Sensing",
+    "category_url": "https://www.dahuasecurity.com/products/audio-&-sensing",
+    "subcategory": "General Audio",
+    "subcategory_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "series": "IP Speaker",
+    "series_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "tab_title": "IP Speaker",
+    "tab_id": "18105",
+    "breadcrumbs": [
+      "Audio & Sensing",
+      "General Audio",
+      "IP Speaker",
+      "IP Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "147056",
+    "product_name": "VCS-STW40",
+    "product_title": "IP Column Speaker",
+    "product_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/ip-speaker/vcs-stw40",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.11.10045/ProductImage/1741358224457_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "audio-&-sensing/products/vcs-stw40.html",
+  "detail": {
+    "title": "IP Column Speaker",
+    "model": "VCS-STW40",
+    "brand": "Dahua",
+    "overview": "Favourite VCS-STW40 IP Column Speaker Key Points Rated Power: 40W Power Supply Mode: PoE(IEEE 802.3at)/DC24V 2A (Standby) Storage: 512MB(expandable) Waterproof Class: IP65 There is an Alarm In interface Built-in battery Material: Aviation aluminum Color: White Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.11.10045/ProductImage/1741358224457_crop_thumb.png",
+        "alt": "VCS-STW40",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.11.10045/ProductImage/1741508585405_crop_thumb.png",
+        "alt": "VCS-STW40",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.11.10045/ProductImage/1741588201204_crop_thumb.png",
+        "alt": "VCS-STW40",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10045/ProductImage/1_0_99_11_10045_531416869_crop_thumb.png",
+        "alt": "VCS-STW40_View_45Left-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10045/ProductImage/1_0_99_11_10045_531416870_crop_thumb.png",
+        "alt": "VCS-STW40_View_45Right-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_11_10045/ProductImage/1_0_99_11_10045_531416871_crop_thumb.png",
+        "alt": "VCS-STW40_View_Front-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Max Sound Pressure Level": {},
+      "SNR": {},
+      "Frequency Response": {},
+      "Coverage Pattern": {},
+      "Speaker Output": {},
+      "TF Card Interface": {},
+      "24V Auxiliary Input": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Audio Protocol": {},
+      "Storage": {},
+      "Power Input": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection Level": {},
+      "Certifications": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82602/datasheet/VCS-STW40_datasheet_20260310.pdf"
+      },
+      {
+        "name": "2026-05-10 #User Manual IP Speaker_User Manual_V2.2.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50817/user_manual/IP_Speaker_User_Manual_V2.2.1.pdf"
+      },
+      {
+        "name": "2026-05-10 #User Manual IP Speaker_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50817/user_manual/IP_Speaker_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-05-10 #User Manual IP Column Speaker_Quick Start Guide_V2.2.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82601/user_manual/IP_Column_Speaker_Quick_Start_Guide_V2.2.0.pdf"
+      },
+      {
+        "name": "2026-05-10 #User Manual IP Column Speaker_Quick Start Guide_V2.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82601/user_manual/IP_Column_Speaker_Quick_Start_Guide_V2.1.0.pdf"
+      },
+      {
+        "name": "2026-05-10 #User Manual IP Column Speaker_Quick Start Guide_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82601/user_manual/IP_Column_Speaker_Quick_Start_Guide_V2.0.0.pdf"
+      },
+      {
+        "name": "2026-05-10 #User Manual IP Column Speaker_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82601/user_manual/IP_Column_Speaker_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-03-03 #Drawings VCS-STW40_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82602/drawings/VCS-STW40_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-03-03 #Drawings VCS-STW40_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82602/drawings/VCS-STW40_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-04-17 #Firmware General_IPSpeaker-VCS_Eng_V2.000.0000002.0.R.260312 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82601/firmware/General_IPSpeaker-VCS_Eng_V2.000.0000002.0.R.260312.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/ip-speaker/vcs-stw40"
+  }
+}

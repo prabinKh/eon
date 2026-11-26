@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "SpeakerPhone",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/speakerphone",
+    "tab_title": "SpeakerPhone",
+    "tab_id": "18215",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "SpeakerPhone",
+      "SpeakerPhone"
+    ]
+  },
+  "card_info": {
+    "product_id": "146002",
+    "product_name": "PKC-WM1A",
+    "product_title": "Omnidirectional Digital Microphone",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/speakerphone/pkc-wm1a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240604/4_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkc-wm1a.html",
+  "detail": {
+    "title": "Omnidirectional Digital Microphone",
+    "model": "PKC-WM1A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKC-WM1A Omnidirectional Digital Microphone Key Points • 8-Array Omnidirectional Speakerphone with 6 m Pickup Distance • Terminal Collection via Network Cables, Bluetooth, and USB Bluetooth Receivers • High Audio Fidelity with Automatic Gain Technology • Wireless Cascading of 2 Devices Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240604/4_thumb.png",
+        "alt": "DHI-PKC-WM1A_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240604/3_thumb.png",
+        "alt": "DHI-PKC-WM1A_Rendergraph_Rear-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240604/2_thumb.png",
+        "alt": "DHI-PKC-WM1A_Rendergraph_Top-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240604/1_thumb.png",
+        "alt": "DHI-PKC-WM1A_Rendergraph_Bottom-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240604/5_thumb.png",
+        "alt": "DHI-PKC-WM1A_Rendergraph_Rear-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "Function": {
+        "Pick-up Distance": "6 m (19.69 ft)",
+        "Pickup Mode": "360° HD audio pickup",
+        "Number of Microphones": "8 array, omni-directional",
+        "Power": "1 × 5 W, 1 × 3 W",
+        "S/N Ratio": "65 dBA",
+        "Frequency Response": "75 Hz–20 kHz",
+        "Battery Capacity": "3.7 V, 4,400 mAh",
+        "Charging": "5 V, 2 A",
+        "Battery Life on a Full Charge": "8 hour at the maximum audio call volume",
+        "Sensitivity": "–24 dBFS",
+        "Number of Cascade": "2",
+        "Bluetooth Module": "Yes",
+        "Bluetooth Standard": "BT5.3 BR/EDR/BLE",
+        "Bluetooth Frequency Range": "≤20 dBm@2400–2483.5 MHz",
+        "Max Power Transmission (Bluetooth)": "≤20 dBm",
+        "Operating Distance": "10 m (31.81 ft)"
+      },
+      "Connection": {
+        "Type-C Port": "1 (Audio IN/OUT and charging)",
+        "Button": "7 (Power, receive and ignore calls, mute, Bluetooth, volume up, volume down, cascading)",
+        "Indicator Light": "Yes (Battery, volume and button)",
+        "Power Supply": "Lithium battery or power supply through the Type-C port",
+        "Product Dimensions": "126 mm × 126 mm × 34 mm (4.96\" × 4.96\" × 1.34\") (L × W × H)",
+        "Packaging Dimensions": "156 mm × 156 mm × 64 mm (6.14\" × 6.14\" × 2.52\") (L × W × H)",
+        "Net Weight": "0.4 kg (0.88 lb)",
+        "Gross Weight": "0.62 kg (1.37 lb)",
+        "Packing List": "Omnidirectional digital microphone × 1 1 m USB Type-C cable × 1 USB Bluetooth receiver × 1 User's manual × 1",
+        "Operating Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Operating Humidity": "10%–90%, (RH)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Storage Humidity": "10%–90%, (RH)",
+        "Operating Altitude": "<5,000 m (16404.20 ft)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85002/datasheet/DHI-PKC-WM1A_datasheet_20240725.pdf"
+      },
+      {
+        "name": "2025-07-30 #User Manual Omnidirectional Digital Microphone_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81907/user_manual/Omnidirectional_Digital_Microphone_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-02 #A&E Document PKC-WM1A_A&E_20260901170405 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85002/a_e_document/1788253850233.docx"
+      },
+      {
+        "name": "2023-03-31 #Drawings PKC-WM1A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81907/drawings/DHI-PKC-WM1A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/speakerphone/pkc-wm1a"
+  }
+}

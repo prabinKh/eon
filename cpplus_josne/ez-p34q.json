@@ -1,0 +1,161 @@
+{
+  "hierarchy": {
+    "category": "ezyLiv+",
+    "category_url": "https://cpplusworld.com/products/ezyliv+",
+    "subcategory": "EzyHome",
+    "subcategory_url": "https://cpplusworld.com/products/ezyhome/ezyLiv",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "EzyHome",
+    "tab_id": "180",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "EzyHome",
+      "ezyLiv+",
+      "EZ-P34Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2119",
+    "product_name": "EZ-P34Q",
+    "product_title": "EZ-P34Q",
+    "product_url": "https://cpplusworld.com/ez-p34q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/00388438-b28e-4ce0-af5d-54e09e485c7f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/ez-p34q.html",
+  "detail": {
+    "title": "EZ-P34Q",
+    "model": "EZ-P34Q",
+    "brand": "CP Plus",
+    "overview": "3MP Wi-Fi PT Camera",
+    "features": [
+      "1/3” 3MP CMOS Image Sensor (0.84667 centimeter)",
+      "4mm Lens",
+      "H.265 Video Compression",
+      "Wi-Fi Support",
+      "Max. 15fps@3MP",
+      "IR Distance of 20-30 Mtr.",
+      "White LED Distance of 15-20 Mtr.",
+      "Works with Google Home"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/00388438-b28e-4ce0-af5d-54e09e485c7f.png",
+        "alt": "EZ-P34Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/581ffaf0-2881-497e-82ca-b699ffffb017.png",
+        "alt": "EZ-P34Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/dc3f791f-78ed-4d72-b5da-b9835c2ae3a2.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/860a2026-6b26-41ac-ade4-acc87b806a46.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cb35a9ae-5500-44e3-aa20-d2c34f0589f7.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6fa32380-4562-4dc7-827a-ea44543f76c9.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a499171d-c931-489b-94fa-1aeb75137c6d.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/010cd20a-4c22-4dc6-8ec0-9e838b54a10e.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6314de7c-c5bf-44cb-8530-b3385fd32110.png",
+        "alt": "EZ-P34Q - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3” 3MP CMOS Image Sensor (0.84667 centimeter)",
+        "Minimum Illumination": "Color: 0.1Lux, B/W: 0.01Lux",
+        "FPS": "15fps",
+        "Lens": "4mm",
+        "Max. Aperture": "F2.0",
+        "Video Compression": "H.265",
+        "Angle of View": "Diagonal: 102.6°, Horizontal: 86.2°, Vertical: 46.1°",
+        "Back Light Compensation": "DWDR",
+        "S/N Ratio": "≤36dB",
+        "Resolution": "3MP (2304 x 1296)",
+        "Exposure Conditions": "Auto-adjust AWB, AGC, BLC",
+        "Picture Adjustment": "Auto-adjust Contrast, Brightness, Saturation",
+        "Electronic Shutter": "1/50s(1/60s)-1/100,000s",
+        "Noise Reduction": "2D DNR, 3D DNR",
+        "Motion Detection": "Support",
+        "Motion Tracking": "Support",
+        "Audio Compression": "G.711A, AAC",
+        "Alarm Notification Push": "Support",
+        "IR Number": "4pcs IR LEDs",
+        "IR Distance": "20-30 Mtr.",
+        "White LED Number": "4pcs White LEDs",
+        "White LED Distance": "15-20 Mtr.",
+        "Built-in Siren": "Support",
+        "Echo Cancellation": "Support",
+        "Wi-Fi": "Support",
+        "IR cut filter": "Auto",
+        "Work with Google Home": "Support",
+        "RTMP": "Support",
+        "Night Mode": "Auto/ IR/ Color",
+        "Smart Phone": "Android, iOS",
+        "Pan/Tilt Angle": "Pan: 342°, Tilt: 60°",
+        "Storage": "Micro SD card (up to 256GB)",
+        "Audio": "Built-in Mic",
+        "Built-in Speaker": "Support",
+        "Two-way talk": "Support*",
+        "Wireless Standard": "Wi-Fi 802.11 b/g/n",
+        "Wireless Frequency": "2.4GHz",
+        "Application Environment": "Indoor",
+        "Mobile App": "ezyLiv+",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, CE, FCC, RoHS, BIS, WPC",
+        "Power Consumption": "≤5w",
+        "Power Supply": "DC 5V, 1A (USB Type C)",
+        "Operating Temperature": "-20°C ~50°C",
+        "Operating Humidity": "<95%(no condensation)",
+        "Dimension": "76.5mm x 76.5mm x 121.8mm",
+        "Casing": "ABS Plastic",
+        "Weight": "350g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/EZ-P34Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/03e375a6-faad-4dc3-8546-8e5ecb38cf4e.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/ez-p34q"
+  }
+}

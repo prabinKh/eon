@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Snow Dragon Gaming Mouse Pad - Blue"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924636963",
+    "product_name": "Snow Dragon Gaming Mouse Pad - Blue",
+    "product_title": "Snow Dragon Gaming Mouse Pad - Blue",
+    "product_url": "https://antesports.com/products/snow-dragon-extended-mousepad-blue",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35_fdb7df7d-bffb-4501-b091-34c13679f023.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/snow-dragon-extended-mousepad-blue.html",
+  "detail": {
+    "title": "Snow Dragon Gaming Mouse Pad - Blue",
+    "model": "AEPP0209",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Snow Dragon is an extended mouse pad featuring a distinctive dragon-themed print, sized extra large to comfortably fit both a mouse and full-size keyboard on one smooth, consistent surface. Stitched edges resist fraying over time, while a non-slip rubber base keeps the pad firmly anchored on the desk during fast movements. A striking, practical choice for office, home or shop desks wanting more surface area alongside distinctive visual styling.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35_fdb7df7d-bffb-4501-b091-34c13679f023.png",
+        "alt": "Snow Dragon Gaming Mouse Pad - Blue - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Size": "Extra Large Extended",
+        "Design": "Snow Dragon Print",
+        "Base": "Non-Slip Rubber",
+        "Edges": "Stitched",
+        "Color": "Blue",
+        "SIZE": "Extra Large Extended",
+        "DESIGN": "Snow Dragon Print",
+        "BASE": "Non-Slip Rubber",
+        "EDGES": "Stitched",
+        "COLOR": "Blue",
+        "Offer Price (INR)": "₹449.00",
+        "MRP (INR)": "₹1,199.00",
+        "SKU": "AEPP0209"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/snow-dragon-extended-mousepad-blue"
+  }
+}

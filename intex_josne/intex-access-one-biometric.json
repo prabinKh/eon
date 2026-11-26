@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Access One Biometric",
+    "subcategory_url": "https://www.intex.in/collections/access-one-biometric",
+    "series": "Biometric",
+    "series_url": "https://www.intex.in/collections/biometric",
+    "tab_title": "Access One Biometric",
+    "tab_id": "9382822084826",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Access One Biometric",
+      "INTEX Access One Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9382822084826",
+    "product_name": "INTEX Access One Biometric",
+    "product_title": "INTEX Access One Biometric",
+    "product_url": "https://www.intex.in/products/intex-access-one-biometric",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_15be4112-9269-49a3-8a76-07c4b5d4b54d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 8879.0,
+      "display": "₹8,879.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-access-one-biometric.html",
+  "detail": {
+    "title": "INTEX Access One Biometric",
+    "model": "INTEX Access One",
+    "brand": "Intex",
+    "overview": "The INTEX Access One is a smart and reliable biometric access control and attendance management device designed for offices, businesses, and commercial establishments. It provides secure user identification through fingerprint, password, and access card authentication, ensuring accurate attendance tracking and controlled entry management. With support for 1000 fingerprints, 1000 passwords, and access cards, the device offers fast identification with a response time of less than 0.8 seconds. Its standalone operation, built-in bell setting, and DC 12V power supply make it easy to install and operate for efficient workforce management and security applications.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_15be4112-9269-49a3-8a76-07c4b5d4b54d.jpg",
+        "alt": "INTEX Access One Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "Biometric Fingerprint Access Control & Attendance System",
+        "Model": "INTEX Access One",
+        "Fingerprint Capacity": "Up to 1000 Fingerprints",
+        "Password Capacity": "Up to 1000 Passwords",
+        "Access Card Support": "Yes",
+        "Identification Speed": "Less Than 0.8 Seconds",
+        "Power Supply": "DC 12V/2A",
+        "Operation Mode": "Standalone",
+        "Alert Feature": "Inbuilt Bell Setting",
+        "Application": "Offices, Retail Stores, Schools, Factories & Commercial Buildings"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/ACCESS_ONE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-access-one-biometric"
+  }
+}

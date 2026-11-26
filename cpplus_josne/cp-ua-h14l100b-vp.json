@@ -1,0 +1,84 @@
+{
+  "hierarchy": {
+    "category": "Housing",
+    "category_url": "https://cpplusworld.com/products/housing",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/housing",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "89",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Housing",
+      "CP-UA-H14L100B-VP"
+    ]
+  },
+  "card_info": {
+    "product_id": "466",
+    "product_name": "CP-UA-H14L100B-VP",
+    "product_title": "CP-UA-H14L100B-VP-14” Vandal-Proof IR PoE Housing\r\n | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-ua-h14l100b-vp",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/7c363468-e1b0-4078-9d7a-defd8b0b90c7.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-h14l100b-vp.html",
+  "detail": {
+    "title": "CP-UA-H14L100B-VP-14” Vandal-Proof IR PoE Housing\r\n | Cp Plus | Cpplusworld.com",
+    "model": "CP-UA-H14L100B-VP",
+    "brand": "CP Plus",
+    "overview": "14” Vandal-Proof IR PoE Housing",
+    "features": [
+      "14” IR, PoE Housing",
+      "IP67, IK10, Vandal-proof",
+      "Water-proof coating film",
+      "Neat & Integrated design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/7c363468-e1b0-4078-9d7a-defd8b0b90c7.jpg",
+        "alt": "CP-UA-H14L100B-VP - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e01937d2-b146-461f-8d22-c96217896f0c.jpg",
+        "alt": "CP-UA-H14L100B-VP - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "Aluminum (case) & PC (others)",
+        "IR": "0~100m",
+        "Operating Temperature": "Set: -40ºC ~ 60ºC Heater: ON: <+5ºC(+41°F)/ OFF: +5ºC(+41°F)  Cooler: ON: 37±1ºC(98.6±33.8°F)/ OFF: 20±1ºC(68±33.8°F)",
+        "Dimension (WHD)": "404mm x164mm x132mm",
+        "Power Consumption": "25.5W",
+        "Power Source": "PoE+",
+        "Humidity": "≤90% RH",
+        "Weatherproof Standard": "IP67, IK10",
+        "Net Weight(g)": "3.1Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-H14L100B-VP.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-h14l100b-vp"
+  }
+}

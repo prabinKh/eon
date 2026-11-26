@@ -1,0 +1,160 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "107377",
+    "product_name": "ISC-D733-S2",
+    "product_title": "Walk-through Metal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d733-s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634759_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-d733-s2.html",
+  "detail": {
+    "title": "Walk-through Metal Detector",
+    "model": "ISC-D733-S2",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-D733-S2 Walk-through Metal Detector Key Points ●Min Detect Quarter Dollar Coin Or Jiao CNY Coin ●33 Zone Metal Detect ●Built-In Traffic Light To Guide People Passing Through ●User-Friendly Interface, 7-Inch Touch Screen, And Remote Control Two Control Methods ●Built-In UPS That Automatically Detects And Monitor Battery Status Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634759_crop_thumb.png",
+        "alt": "ISC-D733-S2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634760_crop_thumb.png",
+        "alt": "ISC-D733-S2_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634761_crop_thumb.png",
+        "alt": "ISC-D733-S2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634762_crop_thumb.png",
+        "alt": "ISC-D733-S2_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634763_crop_thumb.png",
+        "alt": "ISC-D733-S2_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10299/ProductImage/1_0_01_46_10299_48634764_crop_thumb.png",
+        "alt": "ISC-D733-S2_View_Other-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Device": {
+        "Detection Sensitivity": "NILECJ-STD-0601.00 L1-L5",
+        "Precise Positioning": "33 overlapping detection zones, bilateral transmission and receipt of detection signals; 2-panel indicator lights",
+        "Zone Indication": "33 independent zones selectable, and multiple metal items can be located simultaneously",
+        "IR Sensor": "Supports the switching of multiple start-stop modes for two-pair of IR sensor. Infrared sensor can reduce false alarms; automatic alarm statistics and pass/return statistics",
+        "Adjustable Sensitivity": "255 adjustable sensitivity levels in each detection zone (sensitivity increases by levels)",
+        "Security level": "Supports 1-100 selectable security Level.",
+        "POST (Power On Self Test)": "Power on self test.",
+        "Operating Frequency": "Supports 1-100 selectable operating frequency ranges, and supports automatic frequency search.",
+        "Alarm Volume": "Support 0-10 adjustable alarm volume, mute mode can be set.",
+        "Alarm Tone": "Supports 9 kinds of selectable alarm tones, and independent tone for temperature alarm.",
+        "Remote Control": "An IR remote controller with maximum remote control range of 2 m (6.56 ft)",
+        "Leakage Current": "<0.5 mA, complying with safety requirements for electronic devices"
+      },
+      "Certifications": {
+        "Certifications": "GB 15210-2018 IEC 60068-2-1 IEC 60068-2-2 CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU FCC: 47 CFR FCC Part 18, Subpart B",
+        "Safety": "ICNIRP 2010 Guidelines ICNIRP 1998 Guidelines EC directive 2013/35/EU EC recommendation 1999/519/EC IEEE C95.1:2005"
+      },
+      "Ports": {
+        "Power Button": "Power switch on both door panels, and metal detection power switch on the front panel",
+        "Indicator": "One green indicator",
+        "Environmental Noise": "Monitors and displays real-time signal strength of environmental interferences",
+        "RS-485": "1",
+        "Alarm In/Out": "2-channel input, and 2-channel output",
+        "Power Output": "12 VDC",
+        "Detector Underside Power Port": "Aviation power port, 1 for each side.",
+        "Detector Underside Network Port": "Waterproof RJ45 port, 1 for each side."
+      },
+      "Regular Parameters": {
+        "Tunnel Dimensions": "2060 mm × 760 mm × 500 mm",
+        "Product Dimensions": "2221 mm × 916 mm × 537 mm",
+        "Packaging Dimensions": "2275 mm × 775 mm × 235 mm",
+        "Net Weight": "40 kg (88.19 lb)",
+        "Gross Weight": "50 kg (110.23 lb)",
+        "Operating Voltage": "12 VDC, power adapter (included): 100–240 VAC, 50/60 Hz",
+        "Max. Power Consumption": "13 W",
+        "Standby Power": "9 W",
+        "Ingress protection rating": "IP43, excluding external power supply",
+        "Operating Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "0%–95% RH",
+        "Storage Temperature": "–20 °C to +65 °C (–4 °F to +149 °F)",
+        "Storage Humidity": "0–95% RH",
+        "Installation": "Floor mounted"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-D733-S2_datasheet_20220228.pdf"
+      },
+      {
+        "name": "2024-10-29 #User Manual Walk-through_Metal_Detector_User's_Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006320/Walk-through_Metal_Detector_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-24 #Drawings ISC-D733-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46257/drawings/ISC-D733-S2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-09-24 #Drawings ISC-D733-S2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46257/drawings/ISC-D733-S2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-03-07 #Firmware General_ISCD-D733_S2_V1.001.0000000.0.R.240201 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2512075/General_ISCD-D733_S2_V1.001.0000000.0.R.240201.zip"
+      },
+      {
+        "name": "2022-09-22 #Firmware General_ISCD-D733_S2_V1.000.0000000.1.R.220825 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/1910822/General_ISCD-D733_S2_V1.000.0000000.1.R.220825.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d733-s2"
+  }
+}

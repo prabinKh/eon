@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315418599715",
+    "product_name": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black",
+    "product_title": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black",
+    "product_url": "https://antesports.com/products/ant-esports-chassis-ice-270m-6f-argb-with-mesh-front-panel-6-fans-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_M.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-chassis-ice-270m-6f-argb-with-mesh-front-panel-6-fans-black.html",
+  "detail": {
+    "title": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black",
+    "model": "AESP0354",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Chassis ICE 270M 6F ARGB with Mesh Front Panel & 6 Fans - Black is a premium gaming cabinet designed to deliver excellent performance for gaming, content creation, and high-performance PC builds. Featuring support for ATX, M-ATX, M-ITX motherboards, 6(3x Front, 2x Bottom, 1x Rear) pre-installed fans, and support for graphics cards up to 340mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and PC builders.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_M.png",
+        "alt": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_M.png",
+        "alt": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_7446c0e0-c39d-436d-987f-1c8332899d70.png",
+        "alt": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_d6ca9f7e-78eb-4cdb-b7e6-4878296c6c19.png",
+        "alt": "ICE-270M 6F ARGB Gaming Chassis with Mesh Front Panel & 6 Fans - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "CLASSIC",
+        "Product Type": "Cabinet",
+        "Length (mm)": "390",
+        "Width (mm)": "200",
+        "Height (mm)": "450",
+        "Volume (liters)": "35",
+        "Motherboard Support": "ATX, M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "2",
+        "SSD (2.5\") Bays": "3",
+        "Front FAN Support": "3x120mm",
+        "Top FAN Support": "2x120mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Side FAN Support": "None",
+        "Front AIO Support": "360mm",
+        "Top AIO Support": "240mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "None",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "6(3x Front, 2x Bottom, 1x Rear)",
+        "Max. VGA Card Length (mm)": "340",
+        "Max. CPU Cooler Height (mm)": "165",
+        "I/O Panel": "1xUSB 3.0, 2xUSB",
+        "Expansion Slots": "7",
+        "SERIES": "CLASSIC",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "390",
+        "WIDTH (MM)": "200",
+        "HEIGHT (MM)": "450",
+        "VOLUME (LITERS)": "35",
+        "MOTHERBOARD SUPPORT": "ATX, M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "2",
+        "SSD (2.5\") BAYS": "3",
+        "FRONT FAN SUPPORT": "3x120mm",
+        "TOP FAN SUPPORT": "2x120mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "SIDE FAN SUPPORT": "None",
+        "FRONT AIO SUPPORT": "360mm",
+        "TOP AIO SUPPORT": "240mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "None",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "6(3x Front, 2x Bottom, 1x Rear)",
+        "MAX. VGA CARD LENGTH (MM)": "340",
+        "MAX. CPU COOLER HEIGHT (MM)": "165",
+        "I/O PANEL": "1xUSB 3.0, 2xUSB",
+        "EXPANSION SLOTS": "7",
+        "Offer Price (INR)": "₹4,099.00",
+        "MRP (INR)": "₹4,799.00",
+        "SKU": "AESP0354"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-chassis-ice-270m-6f-argb-with-mesh-front-panel-6-fans-black"
+  }
+}

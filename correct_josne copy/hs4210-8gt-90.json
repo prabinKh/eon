@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Hardened PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/hardened-poe-switch",
+    "tab_title": "Hardened PoE Switch",
+    "tab_id": "8377",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Hardened PoE Switch",
+      "Hardened PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "137937",
+    "product_name": "HS4210-8GT-90",
+    "product_title": "10-Port Managed Hardened Gigabit Switch with 8-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/hs4210-8gt-90",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11367/ProductImage/1_0_01_20_11367_528011721_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/hs4210-8gt-90.html",
+  "detail": {
+    "title": "10-Port Managed Hardened Gigabit Switch with 8-Port PoE",
+    "model": "HS4210-8GT-90",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11367/ProductImage/1_0_01_20_11367_528011721_crop_thumb.png",
+        "alt": "HS4210-8GT-90",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/hs4210-8gt-90"
+  }
+}

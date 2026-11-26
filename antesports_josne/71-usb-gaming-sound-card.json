@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "USB 7.1  External Gaming Sound Card"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351443902755",
+    "product_name": "USB 7.1  External Gaming Sound Card",
+    "product_title": "USB 7.1  External Gaming Sound Card",
+    "product_url": "https://antesports.com/products/71-usb-gaming-sound-card",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/16.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/71-usb-gaming-sound-card.html",
+  "detail": {
+    "title": "USB 7.1  External Gaming Sound Card",
+    "model": "AESP0010",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports 7.1 USB Sound Card turns any spare USB port into a full external audio interface, adding 7.1-channel surround sound to a PC, laptop or PS4 that lacks a dedicated sound card. Full-duplex playback delivers a cleaner, more dynamic listening experience across movies, music and games, with support for both 48kHz and 44.1kHz sampling rates for playback and recording alike. Dual stereo audio outputs let two headsets share the same audio source through separate TRRS and TRS jacks, while dual mono mic inputs support podcasting, streaming or voice chat from either port. No drivers are needed thanks to true plug-and-play USB connectivity, and a front volume roller with dedicated mute buttons gives quick, hands-on control. Broad backward compatibility spans Windows 98 through Windows 10, Linux and Mac OS.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/16.jpg",
+        "alt": "USB 7.1  External Gaming Sound Card - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Interface": "USB",
+        "Channels": "7.1",
+        "Sampling Rate": "48kHz / 44.1kHz",
+        "Outputs": "TRRS + TRS Dual Headset Jacks",
+        "Compatibility": "Windows, Mac OS, Linux, PS4",
+        "INTERFACE": "USB",
+        "CHANNELS": "7.1",
+        "SAMPLING RATE": "48kHz / 44.1kHz",
+        "OUTPUTS": "TRRS + TRS Dual Headset Jacks",
+        "COMPATIBILITY": "Windows, Mac OS, Linux, PS4",
+        "SKU": "AESP0010"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/71-usb-gaming-sound-card"
+  }
+}

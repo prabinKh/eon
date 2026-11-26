@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "120007",
+    "product_name": "ARD2231-W2(868)",
+    "product_title": "Wireless Dual-Tech Detector",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard2231-w2(868)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_835743901_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard2231-w2-868.html",
+  "detail": {
+    "title": "Wireless Dual-Tech Detector",
+    "model": "ARD2231-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD2231-W2(868) Wireless Dual-Tech Detector Key Points · False detections caused by thermal interference are greatly reduced by using passive IR and microwave detection technologies. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_835743901_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_835743903_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_835744011_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_835743904_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_767150053-Black_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_767150051-Black_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/image/1_0_01_19_10640_767150052-Black_crop_thumb.PNG",
+        "alt": "ARD2231-W2(868)_Rendergraph_45Right-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Indicator Light": {},
+      "Button": {},
+      "Remote Update": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "Measuring Range (Temperature)": {},
+      "Measuring Accuracy": {},
+      "Sensor": {},
+      "Detection Mode": {},
+      "Sensitivity": {},
+      "Detection Range": {},
+      "Detection Speed": {},
+      "Microwave Frequency": {},
+      "Pet Immunity Level": {},
+      "White Light Resistance Level": {},
+      "Two-way Digital Temperature Compensation": {},
+      "Test Mode": {},
+      "Operating Current": {},
+      "Alarm Current": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Battery Life": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63587/datasheet/DHI-ARD2231-W2(868)_S0_datasheet_20260915_English.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Wireless Dual-tech Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88288/user_manual/Wireless_Dual-tech_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35207/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Wireless Dual-tech Detector_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88288/user_manual/Dahua_Wireless_Dual-tech_Detector_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings ARD2231-W2(868)_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88288/drawings/1_0_01_19_10947_837774000.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings ARD2231-W2(868)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/drawings/1_0_01_19_10945_1653148451.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings ARD2231-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/drawings/1_0_01_19_10945_1653148450.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard2231-w2(868)"
+  }
+}

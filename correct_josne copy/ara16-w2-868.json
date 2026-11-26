@@ -1,0 +1,144 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "155451",
+    "product_name": "ARA16-W2(868)",
+    "product_title": "Wireless Intercom Speaker",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara16-w2(868)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87982/image/1_0_01_19_11167_552809011_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara16-w2-868.html",
+  "detail": {
+    "title": "Wireless Intercom Speaker",
+    "model": "ARA16-W2(868)",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite ARA16-W2(868) Wireless Intercom Speaker Key Points • Full-Duplex Voice Intercom • Custom Voice Chime • Built-in Panic Button • Max. Sound Pressure 90dB Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87982/image/1_0_01_19_11167_552809011_crop_thumb.PNG",
+        "alt": "ARA16-W2(868)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87982/image/1_0_01_19_11167_552809012_crop_thumb.PNG",
+        "alt": "ARA16-W2(868)_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87982/image/1_0_01_19_11167_552809013_crop_thumb.PNG",
+        "alt": "ARA16-W2(868)_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87982/image/1_0_01_19_11167_552809014_crop_thumb.PNG",
+        "alt": "ARA16-W2(868)_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Microphone": {},
+      "Two-way Audio": {},
+      "Button": {},
+      "Remote Update": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "LED Indicator": {},
+      "Scenario": {},
+      "Operating Current": {},
+      "Sound and Light Alarm": {},
+      "Sound Pressure": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Power Supply Type": {},
+      "Battery Model": {},
+      "Standby Time": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Appearance Color": {},
+      "Anti-corrosion Level": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87982/datasheet/DHI-ARA16-W2(868)_S0_datasheet_20260709_English.pdf"
+      },
+      {
+        "name": "2026-07-15 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2026-07-15 #User Manual Wireless Intercom Speaker_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87981/user_manual/Wireless_Intercom_Speaker_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-15 #User Manual Dahua Wireless Intercom Speaker_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87981/user_manual/Dahua_Wireless_Intercom_Speaker_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-02 #Drawings ARA16-W2(868)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87981/drawings/1_0_01_19_11166_954680337.pdf"
+      },
+      {
+        "name": "2026-07-02 #Drawings ARA16-W2(868)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87981/drawings/1_0_01_19_11166_954680336.pdf"
+      },
+      {
+        "name": "2026-07-02 #Drawings ARA16-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87981/drawings/1_0_01_19_11166_954680334.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara16-w2(868)"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "hierarchy": {
+    "category": "Housing",
+    "category_url": "https://cpplusworld.com/products/housing",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/housing",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "89",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Housing",
+      "CP-UA-H14L100B-V"
+    ]
+  },
+  "card_info": {
+    "product_id": "1222",
+    "product_name": "CP-UA-H14L100B-V",
+    "product_title": "CP-UA-H14L100B-V-14” Vandal-Proof IR Housing | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-ua-h14l100b-v",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/2111ff01-8c4a-44ef-bc6e-211486fcdfa7.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-h14l100b-v.html",
+  "detail": {
+    "title": "CP-UA-H14L100B-V-14” Vandal-Proof IR Housing | Cp Plus | Cpplusworld.com",
+    "model": "CP-UA-H14L100B-V",
+    "brand": "CP Plus",
+    "overview": "14” Vandal-Proof IR Housing",
+    "features": [
+      "14” IR, Housing",
+      "IP67, IK10, Vandal-proof",
+      "Water-proof coating film",
+      "Neat & Integrated design"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2111ff01-8c4a-44ef-bc6e-211486fcdfa7.jpg",
+        "alt": "CP-UA-H14L100B-V - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f8294636-f42f-4ab9-bcfc-6267c7464986.jpg",
+        "alt": "CP-UA-H14L100B-V - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "Aluminum (case) & PC (others)",
+        "Dimension (WHD)": "404mm x164mm x132mm",
+        "IR": "0~100m",
+        "Operating Temperature": "Set: -40ºC ~ 60ºC Heater: ON: <+5ºC(+41°F)/ OFF: +5ºC(+41°F) Cooler: ON: 37±1ºC(98.6±33.8°F)/ OFF: 20±1ºC(68±33.8°F)",
+        "Weatherproof Standard": "IP67, IK10",
+        "Power Supply": "AC24V/5A",
+        "Net Weight(g)": "3.1Kg",
+        "Power Consumption": "55W (Without camera)",
+        "Humidity": "≤90% RH",
+        "Weight": "3.1Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-H14L100B-V.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-h14l100b-v"
+  }
+}

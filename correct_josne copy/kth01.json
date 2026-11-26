@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "4-Wire Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series",
+    "series": "Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station",
+    "tab_title": "KIT",
+    "tab_id": "12962",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "4-Wire Series",
+      "Door Station",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "140577",
+    "product_name": "KTH01",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/kit/4-wire-hybrid-kit/kth01",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240115/1_0_01_15_12410_5280218153_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/kth01.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTH01",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTH01 Video Intercom KIT Key Points • 7-inch TFT Screen • Video Intercom Function: Unlock, Voice Call, Video Call, Volume • System Capacity: 2 Door Stations + 3 Indoor Monitors • Multiple Bell Sounds • Support Digital Wide Dynamic Range (DWDR) • Take Snapshots • App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240115/1_0_01_15_12410_5280218153_thumb.png",
+        "alt": "KTH01_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12410/ProductImage/1_0_01_15_12410_538831489_crop_thumb.png",
+        "alt": "KTH01_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12410/ProductImage/1_0_01_15_12410_538831491_crop_thumb.png",
+        "alt": "KTH01_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12410/ProductImage/1_0_01_15_12410_538831492_crop_thumb.png",
+        "alt": "KTH01_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12410/ProductImage/1_0_01_15_12410_538831488_crop_thumb.png",
+        "alt": "KTH01_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "DHI-VTH2624GW-WP": {},
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded operating system",
+        "Network Protocol": "UDP; TCP; FTP; IPv4; DNS; RTSP; SSH; SIP; P2P; RTP",
+        "Interoperability": "ONVIF",
+        "Button Type": "Mechanical"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7\" TFT",
+        "Screen Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel to the microphone; pickup distance 0.5 m",
+        "Audio Output": "1 channel to the speaker",
+        "Audio Mode": "Two-way audio with VTO (half–duplex); Two-way audio with app (full–duplex)",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz; 16 Bit",
+        "Camera": "1.3MP CMOS",
+        "Field of View": "Horizontal: 70° Vertical: 40°",
+        "WDR": "DWDR",
+        "Illuminator Type": "Auto IR",
+        "Day/Night": "ICR auto switch",
+        "Status Indicator": "1 indicator light Green: Power on"
+      },
+      "Function": {
+        "Communication Mode": "Analog",
+        "Information Release": "Receive and view text information released by the management center",
+        "Leave Videos": "Yes (SD card needed)",
+        "DND Mode": "Do not disturb period can be set; Do not disturb mode can be set",
+        "Number of Extensions": "Villa: 9 digital extensions and 2 analog extensions Apartment: 4 digital extensions and 2 analog extensions",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b; 802.11g; 802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Storage": "Micro SD card (up to 64 GB)",
+        "Unlock Mode": "Local unlock"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Power Output": "1 (12 V, 200 mA)",
+        "Door Bell": "Yes (use the alarm input port)",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port",
+        "4-wire": "4",
+        "Exit Button": "1",
+        "Door Status Detection": "1"
+      },
+      "Performance": {
+        "Casing Material": "PC and ABS",
+        "Casing": "PC + ABS"
+      },
+      "General": {
+        "Appearance Color": "White",
+        "Power Supply": "Powered by indoor monitor",
+        "Power Adapter": "Optional",
+        "Installation": "Surface mount",
+        "Certifications": "CE/FCC",
+        "Accessory": "Rain cover (included)",
+        "Product Dimensions": "189.57 mm × 134.57 mm × 26 mm (7.46\" × 5.30\" × 1.02\")",
+        "Operating Temperature": "-30°C to +60°C (-22°F to +140°F)",
+        "Operating Humidity": "10%RH–95%RH",
+        "Operating Altitude": "0 m–3000 m (0 ft–9842.52 ft)",
+        "Power Consumption": "≤ 1W (standby) ≤ 3W (working)",
+        "Gross Weight": "0.38 kg (0.84 lb)",
+        "Storage Temperature": "0 °C to 40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75%",
+        "Anti-corrosion Level": "Basic Protection",
+        "Operating Environment": "Indoor",
+        "Color": "Silver",
+        "Dimensions": "131.45 mm × 46.00 mm × 33.80 mm (5.18\" × 1.81\" × 1.33\")",
+        "Protection Grade": "IP66 (Apply silicon sealant to gaps between the device and the wall. Liquid sodium silicate is recommended. For details, see the quick start guide.)",
+        "Net Weight": "0.18 kg (0.40 lb)"
+      },
+      "DHI-VTO1000J": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/KTH01_datasheet_20231109.pdf"
+      },
+      {
+        "name": "2025-07-01 #User Manual Digital Indoor Monitor_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008357/Digital_Indoor_Monitor_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-04-24 #User Manual 4-Wire Hybrid Indoor Monitor_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79137/user_manual/4-Wire_Hybrid_Indoor_Monitor_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-01 #User Manual Dahua Digital Indoor Monitor_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008357/Dahua_Digital_Indoor_Monitor_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2025-07-01 #User Manual Digital VTH (Version 4.7)_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008357/Digital_VTH_(Version_4.7)_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-07-01 #User Manual Dahua Digital Indoor Monitor_SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16787/user_manual/Dahua_Digital_Indoor_Monitor_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2025-07-01 #User Manual Dahua Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Dahua_Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.PDF"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/kit/4-wire-hybrid-kit/kth01"
+  }
+}

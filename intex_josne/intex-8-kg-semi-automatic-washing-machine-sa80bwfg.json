@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Washing Machine",
+    "category_url": "https://www.intex.in/collections/washing-machine",
+    "subcategory": "8 KG Semi-Automatic Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/8-kg-semi-automatic-washing-machine",
+    "series": "8 KG SWashing Machine",
+    "series_url": "https://www.intex.in/collections/8-kg-swashing-machine",
+    "tab_title": "8 KG Semi-Automatic Washing Machine",
+    "tab_id": "9150142415066",
+    "breadcrumbs": [
+      "Home",
+      "Washing Machine",
+      "8 KG Semi-Automatic Washing Machine",
+      "Intex 8 KG Semi-Automatic Washing Machine – SA80BWFG"
+    ]
+  },
+  "card_info": {
+    "product_id": "9150142415066",
+    "product_name": "Intex 8 KG Semi-Automatic Washing Machine – SA80BWFG",
+    "product_title": "Intex 8 KG Semi-Automatic Washing Machine – SA80BWFG",
+    "product_url": "https://www.intex.in/products/intex-8-kg-semi-automatic-washing-machine-sa80bwfg",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ChatGPTImageJan28_2026_01_03_12PM.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 18499.0,
+      "display": "₹18,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-8-kg-semi-automatic-washing-machine-sa80bwfg.html",
+  "detail": {
+    "title": "Intex 8 KG Semi-Automatic Washing Machine – SA80BWFG",
+    "model": "SA80BWFG",
+    "brand": "Intex",
+    "overview": "The Intex SA80BWFG Semi-Automatic Washing Machine is designed to make everyday laundry simple, efficient, and budget-friendly. Built with a powerful motor and durable rust-free body, it delivers effective washing performance while consuming less water and electricity. Ideal for Indian households, this washing machine combines convenience, durability, and value.",
+    "features": [
+      "Powerful wash motor for effective cleaning",
+      "Durable rust-free plastic body",
+      "Magic lint filter for cleaner clothes",
+      "Waterfall wash technology for deep cleaning",
+      "Multiple wash programs for different fabric types",
+      "Buzzer alert for wash and spin completion",
+      "Energy-efficient and low water consumption",
+      "Easy-to-use control knobs"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ChatGPTImageJan28_2026_01_03_12PM.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine – SA80BWFG",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Powerful wash motor for effective cleaning",
+        "Feature 2": "Durable rust-free plastic body",
+        "Feature 3": "Magic lint filter for cleaner clothes",
+        "Feature 4": "Waterfall wash technology for deep cleaning",
+        "Feature 5": "Multiple wash programs for different fabric types",
+        "Feature 6": "Buzzer alert for wash and spin completion",
+        "Feature 7": "Energy-efficient and low water consumption",
+        "Feature 8": "Easy-to-use control knobs"
+      },
+      "General": {
+        "Model": "SA80BWFG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Semi-Automatic_Washing_Machine_SA80BWFG_Launch_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-8-kg-semi-automatic-washing-machine-sa80bwfg"
+  }
+}

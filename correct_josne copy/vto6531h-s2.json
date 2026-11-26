@@ -1,0 +1,182 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Apartment Door Station",
+    "tab_id": "5777",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Apartment Door Station",
+      "Apartment Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "147061",
+    "product_name": "VTO6531H-S2",
+    "product_title": "IP Face Recognition Apartment Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/apartment-door-station/lite-series/vto6531h-s2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12390/ProductImage/1_0_01_15_12390_1003003775_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto6531h-s2.html",
+  "detail": {
+    "title": "IP Face Recognition Apartment Door Station",
+    "model": "VTO6531H-S2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO6531H-S2 IP Face Recognition Apartment Door Station Key Points · 4.3\" LCD with a resolution of 800 × 480. · 2 MP HD dual-lens camera. · White light illuminators that help recognize the targets in darkness or low light environments. · Supports 40,000 users, 20,000 faces and 20,000 cards. · Recognizes faces 0.3 to 1.5 m away (0.98 ft–4.92 ft) at an accuracy of 99.9%, and compares 1 face with N faces at the speed of 0.2 seconds/person. • Device Port: 2-Channel Alarm Input, 2-Channel Alarm Output, 1-Channel Wiegand, 1-Channel RS485, 2-Channel Locks (1 with Secure Model) • Support Liveness Detection • IP65 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12390/ProductImage/1_0_01_15_12390_1003003775_crop_thumb.png",
+        "alt": "VTO6531H-S2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12390/ProductImage/1_0_01_15_12390_1003003774_crop_thumb.png",
+        "alt": "VTO6531H-S2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Button Type": "Touch button",
+        "Interoperability": "ONVIF;CGI",
+        "Network Protocol": "RTSP;DNS;RTP;RTMP;SIP;SSH;HTTP/HTTPS;ONVIF"
+      },
+      "Basic": {
+        "Screen Type": "Non-touchscreen",
+        "Display Screen": "4.3-inch display screen",
+        "Screen Resolution": "800 (H) × 480 (V)",
+        "Camera": "1/2.8\" 2MP CMOS high-definition, low illumination, dual cameras",
+        "Field of View": "H: 95°; V: 50°; D: 110°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720P/D1/WVGA; Sub stream: 1080P/720P/D1/WVGA/CIF/QVGA",
+        "Video Frame Rate": "25 fps",
+        "Video Bit Rate": "1,024 kbps–8,192 kbps",
+        "Light Compensation": "Auto white light",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Verification Method": "Card;Password;Fingerprint;Remote;Face Recognition",
+        "Auto Snapshot": "Yes",
+        "Information Release": "Receive and view text information released by the management center.",
+        "Leave Videos": "Yes (SD card inserted in VTH is needed)",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes"
+      },
+      "RFID": {
+        "Card Type": "IC card"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–5 cm (IC card)",
+        "Issue Card Locally": "Yes",
+        "Face Recognition Height Range": "1.1 m–2.2 m (3.61 ft–7.22 ft)",
+        "Face Recognition Distance": "0.3 m–2.0 m (0.98 ft–6.56 ft)",
+        "Face Recognition Accuracy": "99.9%",
+        "Face Recognition Time": "0.2 sec",
+        "Casing Material": "PC + ABS"
+      },
+      "Capacity": {
+        "Card Capacity": "20,000",
+        "Face Image Capacity": "20,000"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1 (they can be set as an input or output port)",
+        "Alarm Input": "2 channels",
+        "Alarm Output": "2 channels",
+        "Power Output": "1 port (12 V, 500 mA)",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel, open by default",
+        "Network Port": "1 × 10 Mbps/100 Mbps Ethernet port"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Unlock Password Mode": "User, public and duress passwords",
+        "Appearance Color": "Silver",
+        "Power Supply": "12 VDC, 2 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Wall Mount;Flush Mount",
+        "Certifications": "CE",
+        "Accessory": "Power supply (optional); Flush mount box (optional)",
+        "Product Dimensions": "388.5 mm × 145.5 mm × 43.5 mm (15.30\" × 5.73\" × 1.71\") (H × W × D)",
+        "Protection": "IP65 rated (Silicone sealant is required. See the quick start guide for more information).",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9842.52 ft)",
+        "Power Consumption": "≤5 W (standby), ≤18 W (working)",
+        "Gross Weight": "1.5 kg (3.31 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO6531H-S2_datasheet_20241120.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83226/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Unit VTO (Version 4.8.1)_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010953/202506/Unit_VTO_(Version_4.8.1)_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-03-23 #Drawings VTO6531H-S2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82570/drawings/VTO6521F-S2_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-03-23 #Drawings VTO6531H-S2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82571/drawings/VTO6521H-S2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-03-23 #Drawings VTO6531H-S2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82571/drawings/VTO6521H-S2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-10-27 #Firmware DH_VTO65XXX-C-H-Freyja-A3_MultiLang_PN_V4.810.0000000.1.R.250919 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82570/firmware/DH_VTO65XXX-C-H-Freyja-A3_MultiLang_PN_V4.810.0000000.1.R.250919.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/apartment-door-station/lite-series/vto6531h-s2"
+  }
+}

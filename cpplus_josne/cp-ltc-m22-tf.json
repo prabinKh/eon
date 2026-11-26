@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "Face Recognition Solution",
+    "category_url": "https://cpplusworld.com/products/face-recognition-solution",
+    "subcategory": "Software",
+    "subcategory_url": "https://cpplusworld.com/products/",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Software",
+    "tab_id": "131",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Software",
+      "Connector",
+      "Face Recognition Solution",
+      "CP-LTC-M22-TF"
+    ]
+  },
+  "card_info": {
+    "product_id": "1125",
+    "product_name": "CP-LTC-M22-TF",
+    "product_title": "CP-LTC-M22-TF-Human Body Temperature Measuring and Face Recognition Device | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-ltc-m22-tf",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/35fed222-31d3-4f5e-bad8-7c2a2cc95ccb.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-ltc-m22-tf.html",
+  "detail": {
+    "title": "CP-LTC-M22-TF-Human Body Temperature Measuring and Face Recognition Device | Cp Plus | Cpplusworld.com",
+    "model": "CP-LTC-M22-TF",
+    "brand": "CP Plus",
+    "overview": "Human Body Temperature Measuring and Face Recognition Device",
+    "features": [
+      "All-in-one Face Temperature Measuring Machine, Automatic Temperature Measurement  by Facial Scanning, Saving Manpower And Improving The Efficiency.",
+      "Among Mobile People, People Without Masks Can Be Accurately Detected.",
+      "By facial scanning, it can automatically record personal information and check the records of  relevant people going in and going out, so that it is convenient for personnels to be checked again.",
+      "Adopt deep learning algorithm, support 30,000 face database, 200ms speed recognition, to  achieve the rapid movement of personnel.",
+      "Support RS485, RS232, RJ45 Port.",
+      "Automatically record abnormal temperature information of the human body and automatically  count relevant person."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/35fed222-31d3-4f5e-bad8-7c2a2cc95ccb.jpg",
+        "alt": "CP-LTC-M22-TF - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6075033f-ec21-4511-83ec-dfdea8922331.jpg",
+        "alt": "CP-LTC-M22-TF - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display": "7” IPS HD 1024 x 600,300 CD /m2",
+        "Camera": "Dual - (1 x Video,1x Living detection)",
+        "Operating System": "LINUX",
+        "Image Sensor": "2MP SONY Sensor",
+        "Frame Rate": "2MP@30fps",
+        "Face Capacity": "30,000.",
+        "Fill Light Lamp": "Infrared fill light, white light fill light",
+        "Temperature Error": "Temperature ±0.3°C.",
+        "Temperature Range": "36~42°C",
+        "Temperature Measuring Distance": "0.5-1.0 m 0.75 m is the best",
+        "Face Recognition Distance": "0.5-2.2m.",
+        "Recognition Speed": "Approx. 200ms",
+        "Operating Temperature": "-20°C~ 40°C",
+        "Power Source": "DC 12V input",
+        "Humidity": "10%-90% no condensation",
+        "Dimension": "219mm x111mm x 21.5mm",
+        "Weight": "2.3Kgs"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-LTC-M22-TF.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ltc-m22-tf"
+  }
+}

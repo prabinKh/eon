@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "Other Wireless Bridge",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/other-wireless-bridge",
+    "tab_title": "Other Wireless Bridge",
+    "tab_id": "8627",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "Other Wireless Bridge",
+      "Other Wireless Bridge"
+    ]
+  },
+  "card_info": {
+    "product_id": "114837",
+    "product_name": "WB2-60N-I",
+    "product_title": "Elevator wireless bridge",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/otherwirelessbridge/wb2-60n-i",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221010/WB2-60N-I_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/wb2-60n-i.html",
+  "detail": {
+    "title": "Elevator wireless bridge",
+    "model": "WB2-60N-I",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221010/WB2-60N-I_1_thumb.png",
+        "alt": "WB2-60N-I",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/otherwirelessbridge/wb2-60n-i"
+  }
+}

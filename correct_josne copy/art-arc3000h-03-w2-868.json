@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Kits",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/kits",
+    "tab_title": "Kits",
+    "tab_id": "12437",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Kits",
+      "Kits"
+    ]
+  },
+  "card_info": {
+    "product_id": "96097",
+    "product_name": "ART-ARC3000H-03-W2(868)",
+    "product_title": "Dahua Wireless Alarm KIT",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/kits/art-arc3000h-03-w2(868)",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210707/15391733533761_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/art-arc3000h-03-w2-868.html",
+  "detail": {
+    "title": "Dahua Wireless Alarm KIT",
+    "model": "ART-ARC3000H-03-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ART-ARC3000H-03-W2(868) Dahua Wireless Alarm KIT Key Points · Supports 150 wireless peripherals (6 sirens, 64 wireless keyfobs). · Supports SOS emergency calls. · Supports video linkage on the App. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210707/15391733533761_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Input and Output": {
+        "Wireless Protection Zone": "Hub: 150-channel wireless peripherals (6 sirens, 64 wireless keyfobs)"
+      },
+      "Port": {
+        "Buzzer": "Hub: Built-in",
+        "Button": "Hub: 1 × reset, 1 × power, 1 × AP Keyfob: 4 (Home, Away, Disarm, and SOS) Door Detector: 1 × power button PIR Detector: 1 × power button",
+        "Indicator Light": "Hub: 1 for multiple statuses (alarm, arming, disarming, networking, and malfunction) Keyfob: 1 × two-color status indicator (green: normal, red: abnormal) Door Detector: 1 × green alarm indicator PIR Detector: 1 × green alarm indicator",
+        "Storage battery": "Hub: Built-in lithium battery",
+        "Network Mode": "Hub: Ethernet and Wi-Fi",
+        "Network Port": "Hub: 1 × RJ-45 10 M/100 M Ethernet port"
+      },
+      "Function": {
+        "Network Protocol": "Hub: TCP/IP, including PPTP, L2TP, DHCP, UPNP, and NTP",
+        "Offline Cache": "Hub: Max. 50 entries (ANR)",
+        "Power Failure Protection for Configured Parameters": "Hub: Yes",
+        "Remote Update": "All: Cloud update",
+        "Video Linkage": "Hub: Yes",
+        "Low Battery Alarm": "All: Yes",
+        "Tamper Alarm": "Hub: Yes Door Detector: Yes PIR Detector: Yes",
+        "User Management": "Hub: Share function for App users",
+        "Search": "Hub: Searching push messages, device status, and program version. Detecting signal strength. Keyfob: Signal strength detection Door Detector: Signal strength detection PIR Detector: Signal strength detection",
+        "Arm and Disarm": "Hub: App; keyfob; schedule"
+      },
+      "Wireless": {
+        "Carrier Frequency": "All: 868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "All: Limit 25 mW",
+        "Communication Distance": "Hub: Up to 2,000 m (6,561.68 ft) in an open space Keyfob: Up to 900 m (2,952.76 ft) in an open space Door Detector: Up to 1,200 m (3,937.01 ft) in an open space PIR Detector: Up to 1,600 m (5,249.34 ft) in an open space",
+        "Communication Mechanism": "All: Two-way",
+        "Encryption Mode": "All: AES128",
+        "Frequency Hopping": "All: Yes"
+      },
+      "Wi-Fi": {
+        "Wi-Fi Standard": "Hub:IEEE 802.11b/g/n",
+        "Wi-Fi Frequency Range": "Hub:2400-2483.5 MHz",
+        "Wi-Fi Power Transmission": "Hub:≤20 dBm@2400-2483.5 MHz"
+      },
+      "Peripherals": {
+        "External Zone": "Door Detector: 1-channel dry contact input"
+      },
+      "Temperature": {
+        "Measuring Range (Temperature)": "Door Detector: –15 °C to +65 °C (+18.8 °F to +149 °F) (indoor) PIR Detector: –15 °C to +65 °C (+18.8 °F to +149 °F) (indoor)",
+        "Measuring Precision (Temperature)": "Door Detector: ± 1 °C (± 33.8 °F) PIR Detector: ± 1 °C (± 33.8 °F)",
+        "Resolution (Temperature)": "Door Detector: 1 °C (33.8 °F) PIR Detector: 1 °C (33.8 °F)"
+      },
+      "Specification": {
+        "Sensor": "Door Detector: Reed switch PIR Detector: Dual elements low-noise PIR sensor",
+        "Test Mode": "Door Detector: Yes PIR Detector: Yes",
+        "Scenario": "Door Detector: Non-metal doors",
+        "Movement Distance": "Door Detector: < 40 mm (1.57\")",
+        "Detection Mode": "PIR Detector: PIR",
+        "Detection Range": "PIR Detector: 12 m (39.37 ft) (90°) with installtion height of 2.2 m (7.21 ft)",
+        "Detection Speed": "PIR Detector: 0.3 m/s–3 m/s (0.98 ft/s–9.84 ft/s)",
+        "Pet Immunity Level": "PIR Detector: ≤ 18 kg (39.68 lb)",
+        "White Light Resistance Level": "PIR Detector: 6500 lx",
+        "Two-way Digital Temperature Compensation": "PIR Detector: Yes, no attenuation of detection distance in high temperature",
+        "Sensitivity": "PIR Detector: 3 levels adjustable"
+      },
+      "General": {
+        "Power Supply": "Hub: 12 V DC, 1.5 A (Europe, UK and USA power adapters are optional) Keyfob: CR2032 battery Door Detector: CR123A battery PIR Detector: CR123A battery",
+        "Battery Life": "Hub: Storage battery standby for 12 Hours Keyfob: 5 years Door Detector: 5 years PIR Detector: 4 years",
+        "Power Consumption": "Keyfob: Max. 100 mW Door Detector: Max. 125 mW PIR Detector: Max. 120 mW",
+        "Operating environment": "Hub: –10 °C to +50 °C (+14 °F to +122 °F) (indoor) Keyfob: –10 °C to +55 °C (+14 °F to +131 °F) (indoor) Door Detector: –10 °C to +55 °C (+14 °F to +131 °F) (indoor) PIR Detector: –10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "All: 10%–90% (RH)",
+        "Product Dimensions": "Hub: 163.0 mm × 163.0 mm × 32.0 mm (6.42\"\" × 6.42\"\" × 1.26\"\") (L × W × H) Keyfob: 60.0 mm × 39.5 mm × 15.0 mm (2.36\"\" × 1.56\"\" × 0.59\"\") (L × W × H) Door Detector: 100.2 mm × 20.8 mm × 20.3 mm (3.94\"\" × 0.82\"\" × 0.80\"\") (L × W × H) PIR Detector: 104.0 mm × 60.0 mm × 50.0 mm (4.09\"\" × 2.36\"\" × 1.97\"\") (L × W × H)",
+        "Packaging Dimensions": "Hub: 219.0 mm × 187.0 mm × 91.0 mm (8.62\"\" × 7.36\"\" × 3.58\"\") (L × W × H) Keyfob: 135.0 mm × 98.5 mm × 27.8 mm (5.31\"\" × 3.88\"\" × 1.09\"\") (L × W × H) Door Detector: 135.0 mm × 98.5 mm × 27.8 mm (5.31\"\" × 3.88\"\" × 1.09\"\") (L × W × H) PIR Detector: 135.0 mm × 98.5 mm × 56.8 mm (5.31\"\" × 3.88\"\" × 2.24\"\") (L × W × H)",
+        "Installation": "Hub: Wall mount; Desktop Door Detector: Bracket mount PIR Detector: Wall mount",
+        "Net Weight": "Hub: 0.38 Kg (0.84 lb) Keyfob: 20 g (0.04 lb) Door Detector: 70 g (0.15 lb) PIR Detector: 100 g (0.22 lb)",
+        "Gross Weight": "Hub: 0.8 Kg (1.76 lb) Keyfob: 65 g (0.14 lb) Door Detector: 115 g (0.25 lb) PIR Detector: 170 g (0.37 lb)",
+        "Casing": "All: PC + ABS",
+        "Certifications": "All: CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ART-ARC3000H-03-W2(868)_datasheet_20240629.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/kits/art-arc3000h-03-w2(868)"
+  }
+}

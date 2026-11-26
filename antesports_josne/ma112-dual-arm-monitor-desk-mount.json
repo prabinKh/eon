@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "Dual Arm Articulating Monitor Desk Mount"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353571135779",
+    "product_name": "Dual Arm Articulating Monitor Desk Mount",
+    "product_title": "Dual Arm Articulating Monitor Desk Mount",
+    "product_url": "https://antesports.com/products/ma112-dual-arm-monitor-desk-mount",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ma112-dual-arm-monitor-desk-mount.html",
+  "detail": {
+    "title": "Dual Arm Articulating Monitor Desk Mount",
+    "model": "AEPP0171",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MA112 is a dual-arm articulating monitor mount built from reinforced steel, holding two screens from 13 to 32 inches, each weighing up to 8kg (17.6lb). Highly adjustable arms offer ±45-degree tilt, ±90-degree swivel and full 360-degree rotation, letting you position both monitors in portrait or landscape orientation to suit any dual-screen workflow. Height adjustment along the centre pole reaches up to 16.3 inches above the desk, freeing up genuine space below for a laptop, keyboard, speakers or other desk essentials. Both C-clamp and grommet base mounting hardware are included, fitting desks from 0.39 to 3.15 inches thick, with a detachable VESA plate (75x75mm or 100x100mm) for straightforward setup and a reinforced base plate for extra sturdiness under the weight of two larger monitors.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5.jpg",
+        "alt": "Dual Arm Articulating Monitor Desk Mount - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Screen Support": "13-32 Inch, Up to 8kg Each",
+        "VESA Pattern": "75x75mm / 100x100mm",
+        "Adjustability": "360° Rotation, ±45° Tilt, ±90° Swivel",
+        "Mounting": "C-Clamp or Grommet Base",
+        "Build": "Steel",
+        "Color": "Black",
+        "SCREEN SUPPORT": "13-32 Inch, Up to 8kg Each",
+        "VESA PATTERN": "75x75mm / 100x100mm",
+        "ADJUSTABILITY": "360° Rotation, ±45° Tilt, ±90° Swivel",
+        "MOUNTING": "C-Clamp or Grommet Base",
+        "BUILD": "Steel",
+        "COLOR": "Black",
+        "SKU": "AEPP0171"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ma112-dual-arm-monitor-desk-mount"
+  }
+}

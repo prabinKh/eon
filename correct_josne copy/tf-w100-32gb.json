@@ -1,0 +1,115 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Memory Card",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/memory-card",
+    "series": "W100 microSD Card",
+    "series_url": "https://www.dahuasecurity.com/products/memory/memory-card/w100-microsd-card",
+    "tab_title": "W100 microSD Card",
+    "tab_id": "14667",
+    "breadcrumbs": [
+      "Memory",
+      "Memory Card",
+      "W100 microSD Card",
+      "W100 microSD Card"
+    ]
+  },
+  "card_info": {
+    "product_id": "110137",
+    "product_name": "TF-W100-32GB",
+    "product_title": "W100 Wide-Temperature Memory Card",
+    "product_url": "https://www.dahuasecurity.com/products/memory/memory-card/w100-microsd-card/tf-w100-32gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220701/32gnn1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/tf-w100-32gb.html",
+  "detail": {
+    "title": "W100 Wide-Temperature Memory Card",
+    "model": "TF-W100-32GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TF-W100-32GB W100 Wide-Temperature Memory Card Key Points · Adopts mainstream 3D NAND flash memory cell ; meets requirements of wide temperature range; superior performance and long service life. · Four types of protection: High and low temperature resistant, waterproof, anti-magnetic, and anti X-ray; adapts to various environments. · Meets various user needs such as recording monitoring videos and entertainment. · Compatible with various digital products. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220701/32gnn1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220701/32gnn3_thumb.png",
+        "alt": "TF-W100-32GB",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220701/32gnn2_thumb.png",
+        "alt": "TF-W100-32GB",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-TF-W100-32GB",
+        "Capacity": "32 GB",
+        "Manufacturing Process": "3D NAND FLASH",
+        "Read Speed": "Up to 90 MB/s",
+        "Write Speed": "Up to 75 MB/s",
+        "Speed Rating": "C10/U1/V10",
+        "UHS": "UHS-I",
+        "TBW": "60TB",
+        "File System": "FAT32",
+        "Operating Temperature": "–25 °C to +85 °C (–13 °F to +185 °F)",
+        "Storage Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Four Types of Protection": "High and low temperature resistant, waterproof, anti-magnetic, and anti X-ray",
+        "Compatibility": "Cameras, game consoles, laptops, tablets, digital stereo systems, and more.",
+        "Warranty": "2-year warranty. It requires that the product use does not exceed the maximum write amount of TBW. For detailed specifications and warranty policies, please refer to the official website.",
+        "Product Dimensions": "15 mm × 11 mm × 1.0 mm (0.59\" × 0.43\" × 0.04\")",
+        "Packaging Dimensions": "120 mm × 800 mm × 5.8 mm (5.12\" × 3.94\" × 0.23\")",
+        "Net Weight": "0.16 g",
+        "Gross Weight": "8.6 g",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not all for data storage. According to internal testing, the transmission speed varies with the devices, ports, environments, and other factors. 3. Warranty period or maximum write amount (TBW), whichever comes first. *Above data based on internal testing of Zhejiang Huayixin Technology Co., Ltd Laboratory"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/TF-W100-32GB_datasheet_20231031.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual Installation diagram of microSD memory card Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86633/user_manual/Installation_diagram_of_microSD_memory_card.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual Dahua memory micro SD Card Quick Exercise Manual-English Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86633/user_manual/Dahua_memory_micro_SD_Card_Quick_Exercise_Manual-English.pdf"
+      },
+      {
+        "name": "2025-09-03 #Drawings TF-W100-32GB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86630/drawings/TF-W100-32GB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/memory-card/w100-microsd-card/tf-w100-32gb"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "137257",
+    "product_name": "ISC-EAA2X-C208-P",
+    "product_title": "EAS AM Wide-body Network Antenna",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-eaa2x-c208-p",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA2X-C208-P_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-eaa2x-c208-p.html",
+  "detail": {
+    "title": "EAS AM Wide-body Network Antenna",
+    "model": "ISC-EAA2X-C208-P",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAA2X-C208-P EAS AM Wide-body Network Antenna Key Points The maximum detection distance of double-antenna labels is 1.8 m to 2 m, and the maximum detection distance of tags is 2 m to 2.4 m (depending on the environment). The high-performance signal transmission driver cooperates with the multistage amplifier, which has stable operation with no temperature drift. It can be used for a long time without performance degradation. The Device has a variety of sensitivity adjustment methods that can effectively resist the interference of environmental noise on the device. The unique received signal filtering algorithm ensures accurate identification of label signals with low false alarm rate. The primary and replica antenna are both integrated transceivers, and can be used flexibly. The detection effects of the primary and replica antenna are the same. The antenna is equipped with the network communication function. This function can connect the device to the network platform and remotely check the operation of the device at any time. The Device is harmless to the human body. Support setting energy saving mode during non-business hours, in line with ROHS standards. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA2X-C208-P_1_thumb.png",
+        "alt": "ISC-EAA2X-C208-P_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA2X-C208-P_4_thumb.png",
+        "alt": "ISC-EAA2X-C208-P_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA2X-C208-P_2_thumb.png",
+        "alt": "ISC-EAA2X-C208-P_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA2X-C208-P_3_thumb.png",
+        "alt": "ISC-EAA2X-C208-P_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAA2X-C201-P",
+        "Technology": "Acousto-Magnetic Antenna",
+        "Detection Frequency Band": "58 kHz",
+        "Detection Distance of EAS Labels": "1.8 – 2.0 m (5.91 ft – 6.56 ft) (Distance of two antennas) * depending on environment",
+        "Detection Distance of EAS Tags": "2.0 – 2.4 m (6.56 ft – 7.87 ft) (Distance of two antennas) * depending on environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "Primary Antenna",
+        "Adaptability": "A Single primary antenna can connect to two replica antennas simultaneously",
+        "Sound and Light Alarm": "Yes",
+        "Network Communication Protocol": "HTTP, TCP/IP",
+        "Open Protocols": "SDK",
+        "Supporting Software": "DSS Pro, Configtool",
+        "Configuration on Webpage": "NA"
+      },
+      "Certifications": {
+        "Certifications": "IEC 60068-2-1 IEC 60068-2-2 CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments.",
+        "Safety": "ICNIRP 2010 Guidelines ICNIRP 1998 Guidelines EC directive 2013/35/EU EC recommendation 1999/519/EC IEEE C95.1:2005 EN IEC 62311:2020 EN 50364:2010 EN 62369-1:2010"
+      },
+      "Ports": {
+        "TR Board Port (CH1, CH2, CH3)": "CH1 integrates into the main board, CH2 and CH3 can connect to the TR board as needed",
+        "CCTV Port": "Output port for the linkage signal of the camera, up to 3 cameras can be connected simultaneously.",
+        "Network Interface": "RJ45",
+        "Power Interface": "Bare Wire Terminal"
+      },
+      "Regular Parameters": {
+        "Shell Material": "ABS",
+        "Shell Color": "White",
+        "Input Voltage": "220 – 240 VAC @ 50 Hz / 60 Hz",
+        "Output Voltage": "24 VAC / 3 A",
+        "Maximum Power Consumption": "25 W",
+        "Typical Power Consumption": "20 W",
+        "Overall Exterior Size": "1580 mm × 500 mm × 125 mm (62.20'' × 19.69'' × 4.92'')",
+        "Packing Size of Primary / Replica Antenna": "1650 mm × 560 mm × 230 mm (64.96'' × 22.05'' × 9.06'')",
+        "Gross Weight": "10 kg (22.05 lb)",
+        "Operating Temperature": "0 °C to 45 °C ( 32 °F to 113 °F)",
+        "Operating Humidity": "0 % – 95 % (RH)",
+        "Installation": "Vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAA2X-C208-P_datasheet_20230725.pdf"
+      },
+      {
+        "name": "2025-11-30 #User Manual 2 Series AM Wide-body Network Antenna 220_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008246/3478060/2_Series_AM_Wide-body_Network_Antenna_220_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-10-22 #Drawings ISC-EAA2X-C208-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77397/drawings/ISC-EAA2X-C208-P_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-01-08 #Firmware General_ISCEAA2XC2xx_V1.001.0000000.0.R.251124 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77397/firmware/General_ISCEAA2XC2xx_V1.001.0000000.0.R.251124.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-eaa2x-c208-p"
+  }
+}

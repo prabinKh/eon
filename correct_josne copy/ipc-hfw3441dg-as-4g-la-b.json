@@ -1,0 +1,185 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 3 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series",
+    "tab_title": "4G Camera",
+    "tab_id": "118235",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 3 Series",
+      "4G Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "115157",
+    "product_name": "IPC-HFW3441DG-AS-4G-LA-B",
+    "product_title": "4MP IR Fixed-focal Bullet WizSense 4G Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/4g-camera/ipc-hfw3441dg-as-4g-la-b",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40172/ProductImage/1_0_01_04_40172_347603234_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw3441dg-as-4g-la-b.html",
+  "detail": {
+    "title": "4MP IR Fixed-focal Bullet WizSense 4G Network Camera",
+    "model": "IPC-HFW3441DG-AS-4G-LA-B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW3441DG-AS-4G-LA-B 4MP IR Fixed-focal Bullet WizSense 4G Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • Deep Learning-Based Human and Vehicle Classification • Efficient H.264+/H.265+ Compression Technology • Built-in Mic & Speaker: Secure Real-Time Talk • Supports Max. 256G Micro SD card • LTE-TDD/LTE-FDD 4G Wireless Network Transmission, Support Micro SIM Card • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40172/ProductImage/1_0_01_04_40172_347603234_crop_thumb.png",
+        "alt": "IPC-HFW3441DG-AS-4G-LA-B_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_40172/ProductImage/1_0_01_04_40172_347603233_crop_thumb.png",
+        "alt": "IPC-HFW3441DG-AS-4G-LA-B_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "ROM": "128MB",
+        "RAM": "256MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.01 Lux@F1.6 (Color,30IRE) 0.001 Lux@F1.6 (B/W,30IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "IR: 50 m (164.04 ft) Warm light: 30 m (98.43 ft)",
+        "Illuminator On/Off Control": "Auto;Manual",
+        "Illuminator Number": "1 (IR LED); 1 (Warm light)",
+        "Angle Adjustment": "Pan: 0°–360° Tilt: –60°–0° Rotation: 0°–360°",
+        "PIR Sensor Distance": "10 m (the height of device is 2.5 m, placed horizontally) 5 m (the height of the device is 2 m, placed at an angle of 30° from the horizontal)",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm; 6 mm",
+        "Max. Aperture": "2.8 mm: F1.6 3.6 mm: F1.6 6 mm: F1.6",
+        "Field of View": "2.8 mm: H: 102°; V: 54°; D:121° 3.6 mm: H: 84°; V: 42°; D:101° 6 mm: H: 52°; V: 48°; D:61°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 0.9 m (2.95 ft) 3.6 mm: 1.7 m (5.58 ft) 6 mm: 3.2 m (10.50 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "63.6 m (208.66 ft)",
+        "3.6 mm": "85.4 m (280.18 ft)",
+        "6 mm": "124.0 m (406.82 ft)",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Video Frame Rate": "Main stream: 2688 × 1520 @(1–25/30 fps ) sub stream: 704 × 576 @ (1–25 fps)/704 × 480 @ (1–30 fps)",
+        "Stream Capability": "2 streams",
+        "Resolution": "4M (2688 × 1520); 4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 ×960 ); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–8192 kbps H.265: 32 kbps–8192 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes",
+        "Audio Compression": "G.711a;G.711Mu; G.726; PCM",
+        "Alarm Event": "SD card error; SD card full; IP conflict; illegal access; motion detection; video tampering; scene changing; audio detection; security exception; PIR alarm; external alarm; low battery alarm; light alarm; sound alarm",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Frequency": "LTE FDD:B1/2/3/4/5/7/8/12/17/28/66 LTE TDD:B38/40 WCDMA:B1/2/3/4/5/8 GSM/GPRS/EDGE:B2/3/5/8",
+        "SDK and API": "Yes",
+        "Cyber Security": "Video encryption; firmware encryption; configuration encryption; Digest; WSSE; account lockout; security logs; IP/MAC filtering; generation and importing of X.509 certification; syslog; HTTPS; 802.1x; trusted boot; trusted execution; trusted upgrade",
+        "Network Protocol": "IPv4; IPv6; HTTP;TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; SAMBA; PPPoE; SNMP; P2P",
+        "Interoperability": "ONVIF (Profile S/Profile G); CGI",
+        "User/Host": "20 (Total bandwidth: 80 M)",
+        "Storage": "Bulit in eMMC (8 GB); FTP;SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE Chrome Firefox",
+        "Management Software": "DSS; DMSS",
+        "Mobile Client": "iOS; Android",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU; FCC: 47 CFR FCC Part 15; Subpart B",
+        "Audio Input": "1 channel (RCA port)",
+        "Audio Output": "1 channel (RCA port)",
+        "Alarm Input": "1 channel in: 5 mA 3–5 VDC",
+        "Alarm Output": "1 channel out: 300 mA 12 VDC",
+        "RS-485": "1 (Only report the information of solar battery, such as power and battery level)",
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Sleep Mode: 0.03 W General Mode: 4 W Power Saving Mode: 2 W Max. (4G pulling stream+IR+speaker+warning light): 7.5 W",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤ 95%",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Protection": "IP67",
+        "Casing": "Metal + plastic",
+        "Product Dimensions": "132 mm × 219 mm × 179 mm (5.20\" × 8.62\" × 7.05\") (L × W × H)",
+        "Packaging Dimensions": "280 mm × 239 mm × 146 mm (11.02\" × 9.41\" × 5.75\") (L × W × H)",
+        "Net Weight": "680 g (1.50 lb)",
+        "Gross Weight": "1180 g (2.60 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HFW3441DG-AS-4G-LA-B_S0_datasheet_20240604.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50837/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Bullet Network Camera_Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50837/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2022-10-22 #A&E Document IPC-HFW3441DG-AS-4G-LA-B_A&E_20260917214510 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50847/a_e_document/1789654886351.docx"
+      },
+      {
+        "name": "2024-02-22 #Drawings IPC-HFW3441DG-AS-4G-LA-B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50837/drawings/IPC-HFW3441DG-AS-4G-EAU-B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-02-22 #Drawings IPC-HFW3441DG-AS-4G-LA-B_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50847/drawings/IPC-HFW3441DG-AS-4G-LA-B_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-08-18 #Firmware DH_IPC-HX3XXX-4G-Dalton_MultiLang_PN_V3.000.0000000.10.R.260804 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50837/firmware/DH_IPC-HX3XXX-4G-Dalton_MultiLang_PN_V3.000.0000000.10.R.260804.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-3-series/4g-camera/ipc-hfw3441dg-as-4g-la-b"
+  }
+}

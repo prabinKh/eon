@@ -1,0 +1,89 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H570 USB Wired Gaming Headset"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421417763",
+    "product_name": "H570 USB Wired Gaming Headset",
+    "product_title": "H570 USB Wired Gaming Headset",
+    "product_url": "https://antesports.com/products/ant-esports-h570-7-1-surround-sound-usb-wired-gaming-headset-with-50mm-drivers-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/011_6b9a9537-283f-4b7f-a606-ac493392e9b8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-h570-7-1-surround-sound-usb-wired-gaming-headset-with-50mm-drivers-black.html",
+  "detail": {
+    "title": "H570 USB Wired Gaming Headset",
+    "model": "H570",
+    "brand": "Ant Esports",
+    "overview": "Hear Every Detail with Immersive 7.1 Surround Sound",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/011_6b9a9537-283f-4b7f-a606-ac493392e9b8.png",
+        "alt": "H570 USB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_b0570518-8f96-4abb-8f9f-e8c32fd329dd.png",
+        "alt": "H570 USB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Model": "H570",
+        "Connectivity": "Wired",
+        "Sound Enhancement": "7.1 Virtual Surround Sound",
+        "Driver Size": "50mm",
+        "Microphone": "Flexible Condenser",
+        "Cable Length": "2 Metres",
+        "Lighting": "Multi-Colour LED",
+        "Connector": "USB",
+        "Compatibility": "Windows, Mac, Xbox",
+        "Colour": "Black",
+        "MODEL": "H570",
+        "CONNECTIVITY": "Wired",
+        "SOUND ENHANCEMENT": "7.1 Virtual Surround Sound",
+        "DRIVER SIZE": "50mm",
+        "MICROPHONE": "Flexible Condenser",
+        "CABLE LENGTH": "2 Metres",
+        "LIGHTING": "Multi-Colour LED",
+        "CONNECTOR": "USB",
+        "COMPATIBILITY": "Windows, Mac, Xbox",
+        "COLOUR": "Black",
+        "Offer Price (INR)": "₹1,349.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AESP0121"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-h570-7-1-surround-sound-usb-wired-gaming-headset-with-50mm-drivers-black"
+  }
+}

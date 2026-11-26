@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Office Cabinets",
+    "subcategory_url": "https://antesports.com/collections/office-cabinets",
+    "series": "Office Cabinets Series",
+    "series_url": "https://antesports.com/collections/office-cabinets",
+    "tab_title": "Office Cabinets",
+    "tab_id": "508172796195",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Office Cabinets",
+      "SX310 Pro V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "10369381335331",
+    "product_name": "SX310 Pro V2",
+    "product_title": "SX310 Pro V2",
+    "product_url": "https://antesports.com/products/sx310-pro-v2",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_4d08e568-7b7d-49e7-9b14-1bdae2a90219.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/sx310-pro-v2.html",
+  "detail": {
+    "title": "SX310 Pro V2",
+    "model": "SX310 Pro V2",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports SX310 Pro V2 is designed to deliver excellent airflow, reliable performance, and compatibility with modern PC builds. Featuring support for Micro-ATX and Mini-ITX motherboards, 5 pre-installed ARGB fans, and support for graphics cards up to 415mm long, it ensures efficient cooling and flexible hardware compatibility. With support for CPU air coolers up to 180mm and 360mm AIO liquid cooling on the top, it is ideal for gaming, content creation, and everyday computing. The cabinet also includes a metal frame, tempered glass, cable management support, USB Type-C connectivity, and support for up to 1 HDD and 2 SSDs. Whether you are building a new gaming PC or upgrading your existing setup, this cabinet offers stylish design, dependable performance, and essential functionality for PC enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_4d08e568-7b7d-49e7-9b14-1bdae2a90219.png",
+        "alt": "SX310 Pro V2 - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_fc75bef6-8533-4528-a701-b81466ed125f.png",
+        "alt": "SX310 Pro V2 - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_dbc22afe-3412-4c44-b65b-89c5f440d562.png",
+        "alt": "SX310 Pro V2 - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_70d4d793-b865-4e9c-a09f-bb7a4b3dfc78.png",
+        "alt": "SX310 Pro V2 - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Cabinet",
+        "Length (mm)": "435",
+        "Width (mm)": "225",
+        "Height (mm)": "410",
+        "Volume (liters)": "40",
+        "Material": "SPCC + Tempered Glass",
+        "Motherboard Support": "M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "1",
+        "SSD (2.5\") Bays": "2",
+        "Front FAN Support": "None",
+        "Top FAN Support": "3x120mm / 2x140mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm / 1x140mm",
+        "Side FAN Support": "2x120mm",
+        "Front AIO Support": "None",
+        "Top AIO Support": "240mm / 280mm / 360mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "120mm",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "5 (2x Side Fans, 2x Bottom Fans, 1x Rear Fan)",
+        "ARGB Fans": "5",
+        "Max. VGA Card Length (mm)": "415",
+        "Max. CPU Cooler Height (mm)": "180",
+        "I/O Panel": "1x Type-C, 1x USB 3.0, 1x USB, HD Audio + Mic (TRRS Port), Power Button, Reset Button",
+        "Expansion Slots": "5",
+        "Cable Management Support": "Yes",
+        "PSU Zone": "Dedicated PSU & Component Zone",
+        "Packing Size (mm)": "450 x 282 x 499",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "435",
+        "WIDTH (MM)": "225",
+        "HEIGHT (MM)": "410",
+        "VOLUME (LITERS)": "40",
+        "MATERIAL": "SPCC + Tempered Glass",
+        "MOTHERBOARD SUPPORT": "M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "1",
+        "SSD (2.5\") BAYS": "2",
+        "FRONT FAN SUPPORT": "None",
+        "TOP FAN SUPPORT": "3x120mm / 2x140mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm / 1x140mm",
+        "SIDE FAN SUPPORT": "2x120mm",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "240mm / 280mm / 360mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "120mm",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "5 (2x Side Fans, 2x Bottom Fans, 1x Rear Fan)",
+        "ARGB FANS": "5",
+        "MAX. VGA CARD LENGTH (MM)": "415",
+        "MAX. CPU COOLER HEIGHT (MM)": "180",
+        "I/O PANEL": "1x Type-C, 1x USB 3.0, 1x USB, HD Audio + Mic (TRRS Port), Power Button, Reset Button",
+        "EXPANSION SLOTS": "5",
+        "CABLE MANAGEMENT SUPPORT": "Yes",
+        "PSU ZONE": "Dedicated PSU & Component Zone",
+        "PACKING SIZE (MM)": "450 x 282 x 499"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/sx310-pro-v2"
+  }
+}

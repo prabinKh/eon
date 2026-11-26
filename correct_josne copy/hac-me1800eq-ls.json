@@ -1,0 +1,166 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Active Deterrence Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series",
+    "tab_title": "Active Deterrence 2.0",
+    "tab_id": "6432",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Active Deterrence Series",
+      "Active Deterrence 2.0"
+    ]
+  },
+  "card_info": {
+    "product_id": "52077",
+    "product_name": "HAC-ME1800EQ-LS",
+    "product_title": "4K Real-time HDCVI Active Deterrence Fixed IR Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/active-deterrence-2.0/4k/hac-me1800eq-ls",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200909/14_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-me1800eq-ls.html",
+  "detail": {
+    "title": "4K Real-time HDCVI Active Deterrence Fixed IR Eyeball Camera",
+    "model": "HAC-ME1800EQ-LS",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-ME1800EQ-LS 4K Real-time HDCVI Active Deterrence Fixed IR Eyeball Camera Key Points Max. 4K resolution, real-time video transmission Active deterrence with warm light and siren Built-in PIR, 10 m/110°detecting range/angle Quick-to-install eyeball save installation time. 2.8 mm fixed lens Max. IR length 20 m, Smart IR IP67, 12V±30% DC Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200909/14_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200909/22_thumb.png",
+        "alt": "HAC-ME1800EQ-LS",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "Pixel": "4K",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100000 s NTSC: 1/30 s–1/100000 s",
+        "Min. Illumination": "0.02 Lux/F2.0, 30 IRE, 0 Lux IR on",
+        "S/N Ratio": "＞65 dB",
+        "Illumination Distance": "20 m (65.6 ft)",
+        "Illumination Type": "IR",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "1 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Mount Type": "M12",
+        "Focal Length": "2.8 mm",
+        "Max. Aperture": "2.8 mm: F2.0",
+        "Field of View": "2.8 mm: D: 125°; H: 105°; V: 56°",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "2.8 mm: 1.0 m (3.3 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "74.7 m (245.1 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Frame Rate": "CVI: 4K@25/30 fps; 4K@15 fps; 5M@20 fps; 4M@25 fps/30 fps; AHD: 4K@15 fps; TVI: 4K@15 fps; CVBS: 960H",
+        "Resolution": "4K (3840 × 2160); 5M (2592 × 1944); 4M (2560 × 1440); 960H (960 × 576/960 × 480)",
+        "Day/Night": "ICR auto switch",
+        "BLC Mode": "BLC/HLC/DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto/Manual",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D",
+        "Smart IR": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 Area, Rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032:2015, EN61000-3-2:2014, EN61000-3-3:2013, EN55024:2010+A1:2015, EN55035:2017, EN50130-4:2011+A1:2014) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1) IEC 62368-1:2014 (Second Edition)"
+      },
+      "Port": {
+        "Video Output": "1 BNC output Support CVI/TVI/AHD/CVBS"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 8.5W (12V DC, IR on)"
+      },
+      "PIR Parameters": {
+        "Detection Component": "Pyroelectric infrared sensor",
+        "Detection Range": "10 m(32.8 ft), 110°",
+        "Recommended Installation Height": "2.2 m–3 m (7.2 ft-9.8 ft)",
+        "Recommended Environment Temperature for PIR": "–10°C to 50°C (14°F to 122°F)"
+      },
+      "Active Deterrence Parameters": {
+        "White Light Warning": "Solid: 5 s–30 s; flash: 5 s–30 s; frequency: high/medium/low",
+        "Sound Warning": "Audio 1/2/3; Volume: high/medium/low; duration: 5 s–30 s; 110 dB"
+      },
+      "Environment": {
+        "Operating Temperature": "–40°C to +60°C (–40°F to 140°F);<95% (non-condensation)",
+        "Storage Temperature": "–40°C to +60°C (–40°F to 140°F);<95% (non-condensation)",
+        "Ingress Protection": "IP67"
+      },
+      "Structure": {
+        "Casing": "Inner core: Metal + plastic Cover: Plastic",
+        "Camera Dimensions": "Φ109.9 mm × 100.9 mm (Φ4.33\" × 3.97\")",
+        "Net Weight": "0.30 kg (0.66 lb)",
+        "Gross Weight": "0.39 kg (1.08 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-ME1800EQ-LS_S0_datasheet_20240624.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85548/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2021-07-25 #Drawings HAC-ME1800EQ-LS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45247/drawings/DH-HAC-ME1239TQP-A-PV-0360B-S2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-07-25 #Drawings HAC-ME1800EQ-LS_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45247/drawings/DH-HAC-ME1239TQP-A-PV-0360B-S2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/active-deterrence-series/active-deterrence-2.0/4k/hac-me1800eq-ls"
+  }
+}

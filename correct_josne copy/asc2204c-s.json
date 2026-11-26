@@ -1,0 +1,168 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Controllers",
+    "tab_id": "546",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Controllers"
+    ]
+  },
+  "card_info": {
+    "product_id": "93817",
+    "product_name": "ASC2204C-S",
+    "product_title": "Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/controllers/asc2204c-s",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210506/1-25_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asc2204c-s.html",
+  "detail": {
+    "title": "Access Controller",
+    "model": "ASC2204C-S",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASC2204C-S Access Controller Key Points • 4 Door 1 Way Networked Access Controller • 100,000 Users, 100,000 Passwords, 100,000 Cards, 3,000 Fingerprints and 500,000 Records • 5 x RS485 ports, 4 x Wiegand Ports • 2 Channel Alarm Input, 2 Channel Alam Output • Supports Anti-Passback, Multi-Person Unlock, First-Card Unlock and Remote Verification • Supports Backup DC12V7A Battery Access, Charging and Discharging • Features Fire Alarm Linkage Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210506/1-25_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210506/1-15_thumb.png",
+        "alt": "ASC2204C-D",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210506/14_thumb.png",
+        "alt": "ASC2204C-D",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Internet Protocol": "IPv4; TCP; UDP",
+        "OSDP Protocol": "Yes",
+        "SDK": "Yes"
+      },
+      "Basic": {
+        "Product Appearance": "Type C Iron Container",
+        "Buzzer": "Yes",
+        "Casing Material": "SECC steel board"
+      },
+      "Function": {
+        "Unlock Mode": "Card swiping; Remote; Password; Fingerprint",
+        "Period List": "128",
+        "Holiday Period": "128",
+        "Network Update": "Yes",
+        "First-Card Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Blocklist/Allowlist": "Yes",
+        "Peripheral Card Reader": "4-Channel RS-485 card reader 4-Channel Wiegand card reader",
+        "Multi-door Interlock": "Yes",
+        "Group Combination": "Card swiping; password; fingerprint",
+        "Real-Time Surveillance": "Yes",
+        "Multiple Authentication": "Yes"
+      },
+      "User": {
+        "User (Card) Type": "General user; VIP user; patrol user; guest user; blocklist user; other user"
+      },
+      "Capacity": {
+        "User": "100,000",
+        "Fingerprint": "3,000",
+        "Card": "100,000",
+        "Record Capacity": "500,000"
+      },
+      "Port": {
+        "RS-485 Port": "5 × RS-485 ports",
+        "Wiegand": "4 × Wiegand ports",
+        "Network": "1 × 10/100 Mbps Ethernet port",
+        "Alarm Input": "6 (digital quantity)",
+        "Alarm Output": "4 (relay)",
+        "Alarm Linkage": "Yes",
+        "Exit Button": "4",
+        "Door Status Detection": "4",
+        "Lock Control": "4 channels, NO by default"
+      },
+      "Alarm": {
+        "Anti-Passback": "Yes",
+        "Tamper": "Yes",
+        "Duress": "Yes",
+        "Door Unlock Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes",
+        "Duress Fingerprint": "Yes"
+      },
+      "General": {
+        "Power Supply": "100-240 V AC",
+        "IP Rating": "IP20; Ik04",
+        "Power Consumption": "≤ 0.8 W (standby), ≤ 39.6 W (working)",
+        "Product Dimensions": "337 mm × 272 mm × 90 mm (13.27”× 10.71”× 3.54\") (H × W × D)",
+        "Packaging Dimensions": "472 mm × 352 mm × 163 mm (18.58\" × 13.86\" × 6.42\") (H × W × D) (one product in an inner carton)",
+        "Operating Temperature": "–30°C to +60°C (-22 °F to +140 °F)",
+        "Operating Humidity": "5%–95% RH (non-condensing)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "3.5 kg (7.72 lb)",
+        "Installation": "Surface mount",
+        "Certification": "CE; FCC; UL"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASC2204C-S_datasheet_20230131.pdf"
+      },
+      {
+        "name": "2026-05-28 #User Manual Access Controller (C)_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13207/user_manual/Access_Controller_(C)_User_27s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-28 #User Manual Dahua Access Controller (C)_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13217/user_manual/Dahua_Access_Controller_(C)_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2021-04-21 #Drawings ASC2204C-S_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13227/drawings/ASC2204C-D_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2021-04-21 #Drawings ASC2204C-S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35487/drawings/ASC2202C-S_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-01-12 #Firmware General_ASC2204C-S_MCU_V2.000.0000000.8.R.211203 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/1784909/General_ASC2204C-S_MCU_V2.000.0000000.8.R.211203.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/controllers/asc2204c-s"
+  }
+}

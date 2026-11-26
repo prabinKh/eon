@@ -1,0 +1,233 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Kits",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/kits",
+    "series": "Kits",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/kits",
+    "tab_title": "Kits",
+    "tab_id": "118252",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Kits",
+      "Kits",
+      "Kits"
+    ]
+  },
+  "card_info": {
+    "product_id": "155198",
+    "product_name": "ASKI201",
+    "product_title": "Access Control Kit",
+    "product_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/kits/aski201",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/image/1_0_01_15_12900_944854700_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/aski201.html",
+  "detail": {
+    "title": "Access Control Kit",
+    "model": "ASKI201",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASKI201 Access Control Kit Key Points · All-in-one design, Simplifying Selection and Purchasing Steps · Optical Fingerprint Recognition Networked Access Standalone · 3,000 Fingerprints, 5,000 Cards and 3,000 Passwords · 2.4-inch TFT Display Screen with Resolution of 240 × 320 · Audio Prompts and Doorbell function · Mechnical Keypad for Operation · Easy Configuration via PC & Mobile Web Client Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/image/1_0_01_15_12900_944854700_crop_thumb.PNG",
+        "alt": "ASKI201_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/image/1_0_01_15_12900_944854701_crop_thumb.PNG",
+        "alt": "ASKI201_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/image/1_0_01_15_12900_944855519_crop_thumb.PNG",
+        "alt": "ASKI201_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "General (KIT)": {
+        "Packaging Dimensions": "285mm×203mm×157mm",
+        "Gross Weight": "3.3kg",
+        "Certifications": "CE",
+        "Power Supply": "12V 3A"
+      },
+      "System (ASI)": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical",
+        "Network Protocol": "UDP; TCP; IPv4; P2P",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF; CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic(ASI)": {
+        "Product Type": "Standalone",
+        "Display Screen": "2.4\" LCD",
+        "Screen Type": "LCD",
+        "Screen Resolution": "240 (H) × 320 (V)",
+        "Voice Prompt": "Yes",
+        "Backlight": "Yes",
+        "Casing Material": "PC+ABS"
+      },
+      "Function (ASI)": {
+        "Unlock Mode": "Card, remote, password, fingerprint unlock, unlock through their combinations. and multi-user combination unlock.",
+        "Card Type": "Mifare cards (IC card)",
+        "Period List": "128 periods",
+        "Holiday Period": "128 periods",
+        "Network Update": "Yes",
+        "First User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Restricted List/Trusted List": "Yes",
+        "Peripheral Card Reader": "1 × RS-485 card reader1 × Wiegand card reader",
+        "Multi-user Authentication": "Yes",
+        "Multi-factor Authentication": "Yes",
+        "Web Configuration": "Yes",
+        "Auto Registration": "Yes",
+        "Capture Function": "Yes"
+      },
+      "Performance (ASI)": {
+        "Card Reading Distance": "0 cm–6 cm (0\"–2.36\")",
+        "Fingerprint Sensor Type": "Optical",
+        "Fingerprint VerificationMode": "1:N",
+        "Fingerprint ComparisonTime": "1 s",
+        "Face Recognition Time": "0.2 s"
+      },
+      "User (ASI)": {
+        "User (Card) Type": "Normal user; VIP users; patrol users; guest user; blocklist user; other user"
+      },
+      "Capacity (ASI)": {
+        "User Capacity": "5,000",
+        "Fingerprint Capacity": "3,000",
+        "Card Capacity": "5,000",
+        "Password Capacity": "5,000",
+        "Record Capacity": "100,000"
+      },
+      "Port (ASI)": {
+        "RS-485": "1",
+        "Wiegand": "1",
+        "USB": "1 × USB 2.0",
+        "Network Port": "1 × RJ-45 100 Mbps self-adaptive Ethernet port",
+        "Alarm Input": "1",
+        "Alarm Output": "1",
+        "Alarm Linkage": "Yes",
+        "Doorbell": "1",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1"
+      },
+      "Alarm (ASI)": {
+        "Anti-pass Back": "Yes",
+        "Tamper Alarm": "Yes",
+        "Duress Alarm": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card ExceedingThreshold": "Yes",
+        "Duress Fingerprint": "Yes"
+      },
+      "General (ASI)": {
+        "Power Consumption": "≤12 W",
+        "Product Dimensions": "205 mm × 86 mm × 30 mm (8.07\" × 3.38\" × 1.18\") (H× W × W)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9842.52 ft)",
+        "Operating Environment": "Indoor",
+        "Installation": "Surface Mount",
+        "Installation Angle": "Straight",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "30%–75%"
+      },
+      "Basic(Button)": {
+        "Casing Material": "ABS",
+        "Electrical Performance": "The max power for durability is 3 A, 36 VDC",
+        "Durability Test": "Passed 500,000 aging tests.",
+        "Contact Output": "NO, COM",
+        "Product Dimensions": "86 mm × 86 mm × 30 mm (3.39\" × 3.39\" × 1.18\") (H × W × D)",
+        "Operating Temperature": "–20 °C to +55 °C (–4 °F to +131 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing"
+      },
+      "Basic(Lock)": {
+        "Suction Plate Dimensions": "180 mm × 38 mm × 11 mm (7.09\" × 1.50\" × 0.43\")"
+      },
+      "Function(Lock)": {
+        "Signal Output": "Door status feed back",
+        "Security": "Open while power off"
+      },
+      "General (Lock)": {
+        "Starting Current": "480 mA; 240 mA",
+        "Power Supply": "12 VDC; 24 VDC",
+        "Lock Dimensions": "250 mm × 47 mm × 26 mm (9.84\" × 1.85\" × 1.02\")",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤ 95%"
+      },
+      "Basic (Bracket)": {
+        "Casing Material": "Aluminum alloy"
+      },
+      "General (Bracket)": {
+        "Appearance Color": "Silvery",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)"
+      },
+      "Basic (Card)": {
+        "Operating Frequency": "13.56MHZ",
+        "Storage Capacity": "1K Byte",
+        "Erase and Write Times": "200,000 times",
+        "Type": "IC",
+        "Product style": "Keyfob",
+        "Operating Temperature": "-20°C ~ 70°C (−4°F to 158°F)",
+        "Storage Structure": "16 sectors",
+        "Implementation Standards": "ISO14443-A",
+        "Card Reading Distance": "2cm ~ 8cm (0.79'' ~ 3.15'')",
+        "Communication Rate": "106Kbps",
+        "Data shelf Life": "10 years",
+        "Product Dimensions": "Φ32mm",
+        "Casing Material": "PVC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/datasheet/DHI-ASKI201_S0_datasheet_20260429.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Access Standalone_Quick Start Guide_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/user_manual/Access_Standalone_Quick_Start_Guide_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Access Standalone_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/user_manual/Access_Standalone_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-05-01 #Drawings ASKI201_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/drawings/1_0_01_15_12900_944855852.pdf"
+      },
+      {
+        "name": "2026-05-01 #Drawings ASKI201_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87873/drawings/1_0_01_15_12900_944855851.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/kits/aski201"
+  }
+}

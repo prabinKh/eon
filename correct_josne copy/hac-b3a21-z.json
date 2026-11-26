@@ -1,0 +1,160 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Cooper Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series",
+    "tab_title": "1080P",
+    "tab_id": "6422",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Cooper Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "43967",
+    "product_name": "HAC-B3A21-Z",
+    "product_title": "2MP HDCVI IR Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-b3a21-z",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200515/HAC-B3A21-Z-11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-b3a21-z.html",
+  "detail": {
+    "title": "2MP HDCVI IR Bullet Camera",
+    "model": "HAC-B3A21-Z",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-B3A21-Z 2MP HDCVI IR Bullet Camera Key Points 1. Max 30fps@1080P 2. 2.7-12mm motorized lens 3. Max. IR length 40m, Smart IR Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200515/HAC-B3A21-Z-11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200515/HAC-B3A21-Z1_thumb.png",
+        "alt": "HAC-B3A21-Z-side",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200515/HAC-B3A21-Z-2_thumb.png",
+        "alt": "HAC-B3A21-Z-flank",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7 inch CMOS",
+        "Effective Pixels": "1920(H)×1080(V), 2MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25s–1/100000s NTSC: 1/30s–1/100000s",
+        "S/N Ratio": ">65dB",
+        "Minimum Illumination": "0.04lux/F1.7, 30IRE, 0Lux IR on",
+        "Fill Light Working Distance": "40m (131.2ft）",
+        "IR On/Off Control": "Auto; manual",
+        "IR LED Number": "2",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Auto Focus": "N/A",
+        "Mount Type": "φ14",
+        "Focal Length": "2.7 mm-12 mm",
+        "Max. Aperture": "F1.7",
+        "Field of View": "Diagonal: 38°– 125° Horizontal: 33°–102° Vertical: 19°– 53°",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "1.2 m (3.9 ft)",
+        "2.7mm": "48.3m (158.5ft)",
+        "12mm": "131 m (429.8 ft)"
+      },
+      "Video": {
+        "Frame Rate": "CVI: 1080P@25/30fps; 720P@25/30fps; 720P@50/60fps; AHD: 1080P@25/30fps; 720P@25/30fps; TVI: 1080P@25/30fps; 720P@25/30fps; 720P@50/60fps; CVBS: 960H",
+        "Resolution": "1080P (1920×1080); 720P (1280×720); 960H (960× 576/960×480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/HLC/DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto; manual",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR",
+        "Smart IR": "Yes",
+        "Electronic Defog": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032:2015, EN 61000-3-2:2014, EN 61000-3-3:2013, EN55024:2010+A1:2015, EN 55035:2017, EN50130-4:2011+A1:2014) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 6.6W (12V DC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "-30°C to +60°C (-22°F to 140°F);<95% (non-condensation)",
+        "Storage Temperature": "-30°C to +60°C (-22°F to 140°F);<95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal front cover+plastic main body+plastic bracket",
+        "Camera Dimensions": "243.5 mm × Φ90.70 mm × 90.4 mm (9.59\" × Φ3.57\" × 3.56\")",
+        "Net Weight": "0.39 kg (0.86 lb)",
+        "Gross Weight": "0.53 kg (1.17 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-B3A21-Z_datasheet_20200603.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31927/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31927/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31927/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2021-05-26 #Drawings HAC-B3A21-Z_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/1607/drawings/HAC-B3A21-Z_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2021-05-26 #Drawings HAC-B3A21-Z_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/1607/drawings/HAC-B3A21-Z_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-b3a21-z"
+  }
+}

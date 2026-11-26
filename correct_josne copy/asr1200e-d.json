@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "146422",
+    "product_name": "ASR1200E-D",
+    "product_title": "Dahua ID Card Water proof Access Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1200e-d",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_10453/ProductImage/1_0_01_25_10453_529951758_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr1200e-d.html",
+  "detail": {
+    "title": "Dahua ID Card Water proof Access Reader",
+    "model": "ASR1200E-D",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR1200E-D Dahua ID Card Water proof Access Reader Key Points • Water-proof Card Reader • RS-485 and Wiegand 34 Protocol • ID Card (125KHz) Reading • Prompts Using The Buzzer and Indicator Light • IP67 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_10453/ProductImage/1_0_01_25_10453_529951758_crop_thumb.png",
+        "alt": "ASR1200E-D_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_10453/ProductImage/1_0_01_25_10453_529951757_crop_thumb.png",
+        "alt": "ASR1200E-D_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_10453/ProductImage/1_0_01_25_10453_529951760_crop_thumb.png",
+        "alt": "ASR1200E-D_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.25.10453/ProductImage/1526588436623.png",
+        "alt": "ASR1200E_thumb.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "OSDP Protocol": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing Material": "ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Supports card swiping",
+        "Card Type": "ID card",
+        "Modulation Type": "AM",
+        "Frequency Range": "125 kHz",
+        "Max Transmission Power": "66 dBuA/m @10 m"
+      },
+      "Performance": {
+        "Response Time": "0.1 sec",
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 0.5 A",
+        "Protection": "IP66 rated",
+        "Power Consumption": "0.6 W",
+        "Product Dimensions": "97.0 mm × 44.0 mm × 17.0 mm (3.82\" × 1.73\" × 0.67\")",
+        "Packaging Dimensions": "122.0 mm × 92.5 mm × 58.0 mm (4.80\" × 3.64\" × 2.28\")",
+        "Operating Temperature": "–30 °C to +65 °C (–22 °F to +149 °F)",
+        "Operating Humidity": "5%–95% (RH), non-condensing",
+        "Operating Environment": "Outdoor",
+        "Gross Weight": "0.11 kg (0.25 lb)",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASR1200E-D_datasheet_20240628.pdf"
+      },
+      {
+        "name": "2025-08-03 #User Manual Access Reader_User's Manual_V1.1.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002329/202501/Access_Reader_User_s_Manual_V1.1.4.pdf"
+      },
+      {
+        "name": "2023-11-24 #Drawings ASR1200E-D_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/15097/drawings/ASI1201A_ASI1201A-D_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-11-18 #Drawings ASR1200E-D_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82243/drawings/ASR1200E-D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-18 #Drawings ASR1200E-D_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82243/drawings/ASR1200E-D_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr1200e-d"
+  }
+}

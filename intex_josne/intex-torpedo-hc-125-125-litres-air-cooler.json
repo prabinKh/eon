@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "125 Litres Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/125-litres-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "125 Litres Air Cooler",
+    "tab_id": "9094560612570",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "125 Litres Air Cooler",
+      "Intex Torpedo HC 125 – 125 Litres Air Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "9094560612570",
+    "product_name": "Intex Torpedo HC 125 – 125 Litres Air Cooler",
+    "product_title": "Intex Torpedo HC 125 – 125 Litres Air Cooler",
+    "product_url": "https://www.intex.in/products/intex-torpedo-hc-125-125-litres-air-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/TORPEDO-HC-125.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 26990.0,
+      "display": "₹26,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-torpedo-hc-125-125-litres-air-cooler.html",
+  "detail": {
+    "title": "Intex Torpedo HC 125 – 125 Litres Air Cooler",
+    "model": "125-125",
+    "brand": "Intex",
+    "overview": "The Torpedo HC 125 is built for robust cooling needs with a powerful double ball-bearing motor that ensures stable performance and longer life. Its inverter-compatible design makes it a perfect cooling solution for areas with frequent power fluctuations. With a large 125-litre capacity and 4-way air deflection, it provides effective cooling across large spaces.",
+    "features": [
+      "Double ball bearing motor for long-lasting performance",
+      "4-way air deflection",
+      "Water level indicator",
+      "Inverter compatible",
+      "Big 18.5-inch fan blade for high airflow",
+      "Capacity: 125 Litres",
+      "Fan Blade: 18.5 inches",
+      "Cooling Pads: Honeycomb",
+      "Application: Commercial & industrial cooling"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/TORPEDO-HC-125.jpg",
+        "alt": "Intex Torpedo HC 125 – 125 Litres Air Cooler",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Double ball bearing motor for long-lasting performance",
+        "Feature 2": "4-way air deflection",
+        "Feature 3": "Water level indicator",
+        "Feature 4": "Inverter compatible",
+        "Feature 5": "Big 18.5-inch fan blade for high airflow",
+        "Feature 6": "Capacity: 125 Litres",
+        "Feature 7": "Fan Blade: 18.5 inches",
+        "Feature 8": "Cooling Pads: Honeycomb",
+        "Feature 9": "Application: Commercial & industrial cooling"
+      },
+      "General": {
+        "Model": "125-125"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-torpedo-hc-125-125-litres-air-cooler"
+  }
+}

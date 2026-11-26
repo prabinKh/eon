@@ -1,0 +1,199 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "126657",
+    "product_name": "ITC416-PL8I-IZ",
+    "product_title": "Dahua 4MP Access ANPR Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/access-anpr-cameras/itc416-pl8i-iz",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14607/ProductImage/1_0_01_09_14607_287722223_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc416-pl8i-iz.html",
+  "detail": {
+    "title": "Dahua 4MP Access ANPR Camera",
+    "model": "ITC416-PL8I-IZ",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC416-PL8I-IZ Dahua 4MP Access ANPR Camera Key Points • 120+ countries license plate recognition with high accuracy ≥ 98% (EU) & 96% (others) • Safer & Secure: Instantly spot unauthorized vehicles and identify critical details like vehicle brand, color, license status. • See better: Dual illuminators ensures capture of over 99% of vehicles. • Auto-Sync Parking Access: Unified I/O control for barriers & electric gates, wiegand interface for access control integration. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14607/ProductImage/1_0_01_09_14607_287722223_thumb.png",
+        "alt": "ITC416-PL8I-IZ_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14607/ProductImage/1_0_01_09_14607_287722222_thumb.png",
+        "alt": "ITC416-PL8I-IZ_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Image Resolution": "2688 × 1520",
+        "Electronic Shutter Speed": "Auto/Manual 1/25s~1/10,000s",
+        "Max. Detection Speed": "20 km/h",
+        "Min. Illumination": "0.001 Lux@F1.8 (Color, 30 IRE) 0.0002 Lux@F1.8 (B/W, 30 IRE) 0 Lux (Illuminator on)",
+        "ROM": "1 GB",
+        "RAM": "4 GB",
+        "S/N Ratio": ">56 dB",
+        "Scanning System": "Progressive scanning"
+      },
+      "Lens": {
+        "Focal Length": "2.7 mm–12 mm",
+        "Field of View": "H: 115° (W)–47° (T) V: 62° (W)–27° (T) D: 137° (W)–54° (T)",
+        "Focus Control": "Auto, area focus, manual",
+        "Number of Lens": "1",
+        "Lens Type": "Motorized Vari-focal",
+        "Max. Aperture": "1.8",
+        "Iris Control": "DC-Iris",
+        "DORI Distance": "Lens",
+        "W": "57.5 m (198.16 ft)",
+        "T": "130.8 m (429.13 ft)"
+      },
+      "Illuminator": {
+        "Illuminator Number": "3 (above) + 16 (below), IR",
+        "Illuminator On/Off Control": "Auto; manual",
+        "Illuminator Type": "IR",
+        "Illumination Distance": "ANPR: 10 m (32.81 ft) Video monitoring: 20 m (65.62 ft)",
+        "Smart Illumination": "According to the brightness of the environment, the camera automatically adjusts the intensity of its light to reveal the details of moving targets.",
+        "Infrared Wavelength": "850 nm",
+        "Video Resolution": "Main stream: 4M (2688 × 1520)/1080p (1920 × 1080)/720p (1280 × 720) Sub stream: 720p (1280 × 720)/960H (960 × 576, 960 × 480)/D1 (704 × 576, 704 × 480)/CIF (352 × 288, 352 × 240)",
+        "Stream": "PAL: Main stream (2688 × 1520@25 fps, 1920 × 1080@25 fps, 1280 × 720@25 fps), sub stream (1280 × 720@25 fps, 960 × 576@25 fps, 704 × 576@25 fps, 352 × 288@25 fps); NTSC: Main stream (2688 × 1520@30 fps, 1920 × 1080@30 fps, 1280 × 720@30 fps), sub stream (1280 × 720@30 fps, 960 × 480@30 fps, 704 × 408@30 fps, 352 × 240@30 fps)",
+        "Video Compression": "H.264H; H.264B; H.264M by default; H.265; MJPEG; H.264M",
+        "Video Bit Rate": "H.264B: 2,179 kbps–13,074 kbps H.264M: 2,179 kbps–13,074 kbps H.264H: 2,179 kbps–13,074 kbps H.265: 2,179 kbps–13,074 kbps MJPEG: 6,537 kbps–39,223 kbps",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "Gain Control": "Manual; Auto",
+        "Noise Reduction": "3D NR",
+        "Region of Interest (RoI)": "Yes (3 ROI)",
+        "Image Tampering Prevention": "Yes. Watermarks can be added to videos and images for verification.",
+        "Bit Rate Control": "CBR; VBR",
+        "Storage": "Bult-in TF card port. Supports Kingston 16 G, 32 G, 64 G,128 G, 256 G; Dahua card 16 G, 32 G, 64 G, 128 G, 256 G; SanDisk 16 G, 32 G, 64 G, 128 G, 256 G",
+        "Restricted List/Trusted List": "Allowlist: 110,000; Blocklist: 110,000",
+        "Basic Event": "Alarms for events of defocus, no storage card, storage card no space, storage card error, network disconnection, IP conflict, and illegal access.",
+        "Alarm Linkage": "Upload to FTP/Memory card, notify monitoring center, send e-mail, and trigger alert output and snapshot.",
+        "Automatic Network Replenishment (ANR)": "Yes, platform/FTP",
+        "Capture Distance": "2.5 m–6 m (8.20 ft–19.69 ft)",
+        "Detected Width": "3 m–4 m (9.84 ft–13.12 ft)",
+        "Network Protocol": "HTTP; Https; 802.1×; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; IPv4/v6; NTP; SFTP; DDNS; SNMP; PPPoE",
+        "API": "Yes",
+        "SDK": "Yes",
+        "Interoperability": "ONVIF (Profile S/Profile T/Profile M); CGI; ITSAPI; P2P",
+        "Management Software": "DSS Pro",
+        "Security": "Username and password; MAC address; HTTPS; IEEE 802.1×; network access control",
+        "Browser": "Plug in: IE 9, 10, 11. Chrome 52 and earlier versions Firefox 42 and earlier versions No plug in: Chrome 92 and later versions",
+        "Image Encoding Format": "JPEG",
+        "Image Setting": "Brightness; contrast; saturation; gamma; sharpness; gain; white balance",
+        "Day/Night": "IR filter, support three modes: color/B/W/auto",
+        "WDR": "140 dB",
+        "HLC": "Yes",
+        "BLC": "Yes",
+        "White Balance": "Auto;Regional Custom;Manual;Outdoor;Natural;Street Lamp",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "OSD Overlay": "Supports overlay of time; address (position of channel), lane (number/direction), plate (number and color), vehicle (color, type)",
+        "Audio Port": "Yes",
+        "Audio Output": "1 channel (RCA port)",
+        "Network Port": "RJ-45 (10/100 Mbps Ethernet port)",
+        "Alarm Input": "2, optocoupler input (wet node on-off value: 5 V)",
+        "Alarm Output": "2, relay output (2A 30 VDC/0.5 A 125 VAC), which can connect to devices such as barriers",
+        "RS-485": "1 Channel (half duplex, transparent, DHRS, com port push)",
+        "Reset Button": "Yes",
+        "Wiegand": "1 Channel, SHA-1 26 bit",
+        "Maximum Number of Passed Vehicles": "10,000",
+        "Max. Number of Connections": "10",
+        "AI Recognition": "Recognizes vehicle types, vehicle signs, vehicle color, vehicle plate, plate, vehicle without plate.",
+        "Video Metadata": "Displays the intelligent frame, plate and vehicle paths.",
+        "Vehicle Brand": "Recognizes 147 vehicle logos.",
+        "Vehicle Color": "Recognizes 12 colors: Grey, black, white, silver, blue, green, purple, red, orange, pink, brown, and yellow.",
+        "Vehicle Type Recognition": "Recognizes 9 vehicle types: Large Bus, Heavy Truck, Medium Truck, Sedan, Van, Light Truck, Medium Bus, SUV, MPV, Pickup",
+        "Country and Region Supported by ANPR": "Baseline support: 10 options (87 countries) General: Supports universal characters GCC (U.A.E., Saudi Arabia, Morocco, Oman, Iraq, Egypt, Jordan, Qatar, Kuwait, Bahrain, Lebanon) South Africa: South Africa, Tanzania, Mozambique, Zambia, Uganda, Equatorial Guinea, Mauritius, Kenya South Asia Region (India Region) : India, Maldives Europe (Netherlands, France, Germany, Britain, Italy, Poland, Belgium, Bulgaria, Serbia, Slovakia, Spain, Denmark, Turkey, Israel, Czech Republic, Bosnia and Herzegovina, Switzerland, Austria, Hungary, Romania, Lithuania, Latvia, Sweden, Estonia, Portugal, Greece, Slovenia, Luxembourg, Palestine, Lebanon, Ireland, Finland, Norway, Croatia, North Macedonia) South American Economies Collection (Uruguay, Paraguay, Brazil, Argentina, Chile, Colombia, Peru, Ecuador, Guyana, Bolivia ) Mexico and other countries: Mexico, Costa Rica, Curacao, Guatemala Eurasian Collection (Russia, Ukraine, Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan, Moldova, Lithuania, Latvia, Georgia, Azerbaijan, Turkmenistan) North America (United States, Canada) North Africa Region Collection: Tunisia, Morocco, Algeria, Libya The baseline algorithm is supported for the following 19 countries: Republic of Korea, Indonesia, Singapore, Cambodia, Australia, Thailand, Bassett, Nigeria, Pakistan, Viet Nam, Mongolia, Bangladesh, Myanmar, Philippines, Laos, Iraq, Japan, Maldives, Nepal.",
+        "Capture Rate": "In the recommended installation and lighting condition, the vehicle capture rate ≥ 99%",
+        "Recognition Rate": "In the recommended installation and lighting condition, the recognition rate for positive and departing vehicles≥ 96%; the recognition rate for European vehicle plates ≥ 98%",
+        "Power Supply": "12 VDC, 3 A",
+        "Power Consumption": "No lighting <6 W Lighting <28 W",
+        "Protection": "IP54",
+        "Material": "Metal plate + glass",
+        "Product Dimensions": "254.0 mm × 221.0 mm × 711.0 mm (10\" × 8.70\" × 27.99\")",
+        "Packaging Dimensions": "842.0 mm × 387.0 mm × 369.0 mm (33.15\" × 15.24\" × 14.53\")",
+        "Net Weight": "13 kg (28.66 lb)",
+        "Gross Weight": "16.6 kg (36.60 lb)",
+        "Storage Humidity": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Storage Temperature": "≤ 95% (non-condensing)",
+        "Operating Temperature": "–30 °C to +65 °C (–22 °F to +149 °F)",
+        "Operating Humidity": "10%–90% (non-condensing)",
+        "Certifications": "CE-EMC; CE-LVD"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ITC416-PL8I-IZ_datasheet_20251111.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Smart ANPR Camera_Web 5.0 Operation Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_Web_5.0_Operation_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Smart ANPR Camera_Web 3.0 Operation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007242/3447007/Smart_ANPR_Camera_Web_3.0_Operation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Access ANPR Camera in Cabinet Style_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007242/3447001/Access_ANPR_Camera_in_Cabinet_Style_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-01-06 #A&E Document ITC416-PL8I-IZ_A&E_20260901205143 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68267/a_e_document/1788267160414.docx"
+      },
+      {
+        "name": "2022-12-07 #Drawings ITC416-PL8I-IZ_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68267/drawings/ITC416-PL8I-IZ_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-12-07 #Drawings ITC416-PL8I-IZ_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/68267/drawings/ITC416-PL8I-IZ_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-10-17 #Firmware DH_ITC4XX-PX4D(PL8I)(PW9H)_MultiLang_PN_V5.004.0000000.1.R.250917 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/firmware/DH_ITC4XX-PX4D(PL8I)(PW9H)_MultiLang_PN_V5.004.0000000.1.R.250917.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/access-anpr-cameras/itc416-pl8i-iz"
+  }
+}

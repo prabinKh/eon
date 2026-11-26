@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "Fast Charger",
+    "subcategory_url": "https://www.intex.in/collections/fast-charger",
+    "series": "smart accessories",
+    "series_url": "https://www.intex.in/collections/smart-accessories",
+    "tab_title": "Fast Charger",
+    "tab_id": "9202526716122",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "Fast Charger",
+      "Intex Bolt Quick 2.4A USB Charger"
+    ]
+  },
+  "card_info": {
+    "product_id": "9202526716122",
+    "product_name": "Intex Bolt Quick 2.4A USB Charger",
+    "product_title": "Intex Bolt Quick 2.4A USB Charger",
+    "product_url": "https://www.intex.in/products/intex-bolt-quick-2-4a-usb-charger",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-01.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 799.0,
+      "display": "₹799.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-bolt-quick-2-4a-usb-charger.html",
+  "detail": {
+    "title": "Intex Bolt Quick 2.4A USB Charger",
+    "model": "2-4A",
+    "brand": "Intex",
+    "overview": "Power up your devices faster and safer with the Intex Bolt Quick 2.4A USB Charger, designed for efficient everyday charging. Built with advanced fast-charging technology, this compact wall adapter ensures stable and reliable power delivery for your smartphones, tablets, and other USB-enabled devices. Its sleek and lightweight design makes it an ideal travel companion, easily fitting into your pocket or bag. The charger is equipped with multi-layer protection to safeguard your devices against overcharging, overheating, and short circuits, ensuring long-lasting performance and peace of mind. Whether at home, office, or on the go, the Intex Bolt Quick charger delivers consistent performance with universal compatibility, making it a must-have accessory for all your charging needs.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-01.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-02.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-03.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-04.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-05.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-06.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt-Quick-07.jpg",
+        "alt": "Intex Bolt Quick 2.4A USB Charger",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "General": {
+        "Product Type": "USB Wall Charger",
+        "Output": "12W Fast Charging",
+        "Ports": "Single USB Port",
+        "Input Voltage": "100-240V AC",
+        "Safety Features": "Overcharge, Overheat, Short Circuit Protection",
+        "Design": "Compact & Lightweight",
+        "Usage": "Home, Office, Travel",
+        "Compatibility": "Smartphones, Tablets, Power Banks, USB Devices",
+        "Color": "White",
+        "Model": "2-4A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Bolt_Quick_2.4A_USB_Charger_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-bolt-quick-2-4a-usb-charger"
+  }
+}

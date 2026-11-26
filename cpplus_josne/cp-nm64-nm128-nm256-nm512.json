@@ -1,0 +1,81 @@
+{
+  "hierarchy": {
+    "category": "SD Card",
+    "category_url": "https://cpplusworld.com/products/sd-card",
+    "subcategory": "Memory",
+    "subcategory_url": "https://cpplusworld.com/products/memory/sd-card",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Memory",
+    "tab_id": "111",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Memory",
+      "SD Card",
+      "CP-NM64-NM128-NM256-NM512"
+    ]
+  },
+  "card_info": {
+    "product_id": "595",
+    "product_name": "CP-NM64-NM128-NM256-NM512",
+    "product_title": "CP-NM64-NM128-NM256-NM512",
+    "product_url": "https://cpplusworld.com/cp-nm64-nm128-nm256-nm512",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/cp-nm32-nm64-nm128.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-nm64-nm128-nm256-nm512.html",
+  "detail": {
+    "title": "CP-NM64-NM128-NM256-NM512",
+    "model": "CP-NM64-NM128-NM256-NM512",
+    "brand": "CP Plus",
+    "overview": "Micro SD Card",
+    "features": [
+      "Compatible with micro SDHC & micro SDXC supporting Host devices",
+      "High Speed Data transfer",
+      "Video Speed class 30",
+      "Speed Grade UHS (U3)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cp-nm32-nm64-nm128.jpg",
+        "alt": "CP-NM64-NM128-NM256-NM512 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Low power consumption": "Support",
+        "Performance": "30 MB/s Min Write speed",
+        "High Speed Data transfer": "Support",
+        "Video Speed Class": "30",
+        "Application Capable of Recording": "4K/2K Video",
+        "Micro SD Card": "64/128/256/512GB (Optional)",
+        "Read/Write Cycle": "up to 1000 Cycles",
+        "Operation Temperature Range": "0°C~70°C",
+        "Storage Temperature Range": "-25°C~85°C",
+        "Humidity": "95% RH under 25°C",
+        "Price (MRP)": "₹1,999.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-NM64-NM128-NM256-NM512.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-nm64-nm128-nm256-nm512"
+  }
+}

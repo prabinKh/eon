@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "Connector",
+    "category_url": "https://cpplusworld.com/products/connector",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/connector",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "165",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Connector",
+      "CP-FA-CB6-20"
+    ]
+  },
+  "card_info": {
+    "product_id": "1833",
+    "product_name": "CP-FA-CB6-20",
+    "product_title": "CP-FA-CB6-20",
+    "product_url": "https://cpplusworld.com/cp-fa-cb6-20",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/18a48add-79e2-4e6f-bb50-0923a1785bfd.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-fa-cb6-20.html",
+  "detail": {
+    "title": "CP-FA-CB6-20",
+    "model": "CP-FA-CB6-20",
+    "brand": "CP Plus",
+    "overview": "BNC Connector",
+    "features": [
+      "Designed for CCTV cameras and video equipment",
+      "Full Copper Multi-core Cable",
+      "High Quality Video output",
+      "Good signal strength without losses"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/18a48add-79e2-4e6f-bb50-0923a1785bfd.jpg",
+        "alt": "CP-FA-CB6-20 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1d11741c-dbcc-413f-8635-2f8baec05113.jpg",
+        "alt": "CP-FA-CB6-20 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Continuity Test": "No mismatch, short circuit, open circuit",
+        "Insulation Resistance": "≥5mΩ",
+        "Conductor Resistance": "≥1mΩ",
+        "Test Voltage": "DC 500V",
+        "Operating Temperature": "-10 ~ +40",
+        "Storage Temperature": "-10 ~ +70",
+        "Connector Pcs": "20pcs"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-FA-CB6-20.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-fa-cb6-20"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Carbon Monoxide Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/carbon-monoxide-alarms",
+    "tab_title": "Carbon Monoxide Alarms",
+    "tab_id": "14537",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Carbon Monoxide Alarms",
+      "Carbon Monoxide Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "108787",
+    "product_name": "HY-GC20B",
+    "product_title": "Standalone Carbon Monoxide Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/carbon-monoxide-alarms/hy-gc20b",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220609/HY-GC20B_11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-gc20b.html",
+  "detail": {
+    "title": "Standalone Carbon Monoxide Alarm",
+    "model": "HY-GC20B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-GC20B Standalone Carbon Monoxide Alarm Key Points · High-performance Figaro electrochemical CO sensor · Long standby time, low power consumption, 10-year battery life · Support low battery warning, one-click silence, and self-test · Informative and easy-to-read CO concentration display in screen · Three indicator lights for displaying device status clearly · Excellent production, novel appearance, delicate and compact, simple and convenient installation Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220609/HY-GC20B_11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220609/HY-GC20B_2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220609/HY-GC20B_3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220609/HY-GC20B_4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220609/HY-GC20B_5_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Working Principle": {
+        "Collection Type": "Carbon Monoxide (CO)",
+        "Sensor Type": "Electrochemical"
+      },
+      "Alarm": {
+        "Alarm Type": "CO alarm, fault alarm, low battery warning",
+        "Alarm Volume": "Over 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silence Function": "Support",
+        "Silence Duration": "About 45 seconds",
+        "Alarm Response Threshold": "50 ppm: 60 min–90 min 100 ppm: 10 min–40 min 300 ppm: < 3 min"
+      },
+      "Basic Parameters": {
+        "Display": "LCD",
+        "Indicator Light": "LED (red/yellow/green)",
+        "LED Instruction": "Alarm: Red indicator Fault: Yellow indicator Power: Green indicator"
+      },
+      "Power Supply": {
+        "Battery Life": "10 years",
+        "Power Source": "3V CR123A lithium battery (replaceable)",
+        "Operating Current": "Monitoring Current: ≤20uA Alarm Current: ≤10mA"
+      },
+      "Operating Ambient": {
+        "Operating Environment": "Indoor use only",
+        "Operating Temperature": "–10°C to +40°C (+14°F to +104°F)",
+        "Operating Humidity": "≤95% RH (non condensing)"
+      },
+      "Appearance": {
+        "Color": "White",
+        "Material": "PC + ABS",
+        "Dimensions": "116.4 mm × 71.7 mm × 28.3 mm (4.58\" × 2.82\" × 1.11\")",
+        "Weight": "125 g",
+        "Installation": "Wall Mount"
+      },
+      "Certification": {
+        "Certifications": "TÜV and CE listed",
+        "Compliance Standard": "EN 50291-1:2018"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47037/datasheet/HY-GC20B_datasheet_20220512.pdf"
+      },
+      {
+        "name": "2022-07-02 #Drawings HY-GC20B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/63567/drawings/1613230558614.pdf"
+      },
+      {
+        "name": "2025-06-10 #Firmware DHI_HYGC20B_Eng_MCU_V1.000.0000005.0.R.250428 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3218690/M/DHI_HYGC20B_Eng_MCU_V1.000.0000005.0.R.250428.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/carbon-monoxide-alarms/hy-gc20b"
+  }
+}

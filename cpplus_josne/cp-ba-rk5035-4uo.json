@@ -1,0 +1,79 @@
+{
+  "hierarchy": {
+    "category": "Racks",
+    "category_url": "https://cpplusworld.com/products/racks",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/racks",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "109",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Racks",
+      "CP-BA-RK5035-4UO"
+    ]
+  },
+  "card_info": {
+    "product_id": "2167",
+    "product_name": "CP-BA-RK5035-4UO",
+    "product_title": "CP-BA-RK5035-4UO",
+    "product_url": "https://cpplusworld.com/cp-ba-rk5035-4uo",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d920e836-84e3-4cec-b092-c087cb2e6566.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-ba-rk5035-4uo.html",
+  "detail": {
+    "title": "CP-BA-RK5035-4UO",
+    "model": "CP-BA-RK5035-4UO",
+    "brand": "CP Plus",
+    "overview": "4U DVR/NVR Outdoor Rack",
+    "features": [
+      "DVR/NVR walls Mount is specially designed to safeguard our DVRs/NVRs from Theft.",
+      "Basic frame: CRCA (MS SHEET) 0.8mm thickness.",
+      "Construction: Welded.",
+      "Front plain door with key lock and gasket.",
+      "Cooling fans provision on Left and Right side.",
+      "Water proof and dust proof",
+      "PP Powder Coating, Rust proof",
+      "Plain top with extension on 3 sides (LH, RH & Front).",
+      "Bottom with 2nos. Cable Entry/Exit cut-outs with rubber protection.",
+      "IP55 rated",
+      "Wall/Pole mount with brackets."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d920e836-84e3-4cec-b092-c087cb2e6566.jpg",
+        "alt": "CP-BA-RK5035-4UO - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/bd94dc44-de47-44d3-a1e1-4cc68b8cf768.jpg",
+        "alt": "CP-BA-RK5035-4UO - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-BA-RK5035-4UO.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ba-rk5035-4uo"
+  }
+}

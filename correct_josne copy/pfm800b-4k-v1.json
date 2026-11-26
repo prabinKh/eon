@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories",
+    "series": "Baluns",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/baluns",
+    "tab_title": "Baluns",
+    "tab_id": "530",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Accessories",
+      "Baluns",
+      "Baluns"
+    ]
+  },
+  "card_info": {
+    "product_id": "155050",
+    "product_name": "PFM800B-4K",
+    "product_title": "1 Channel Passive HDCVI balun (10pcs/box)",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/baluns/pfm800b-4k=v1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87802/image/1_0_99_60_10063_867533265_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/pfm800b-4k-v1.html",
+  "detail": {
+    "title": "1 Channel Passive HDCVI balun (10pcs/box)",
+    "model": "PFM800B-4K",
+    "brand": "Dahua",
+    "overview": "Favourite PFM800B-4K 1 Channel Passive HDCVI balun (10pcs/box) Key Points • Real-time transmission over UTP CAT5E/6 cable • Passive, no need for power supply • Excellent anti-thunder, anti-static and anti-interference capabilities • Compatible format: HDCVI/TVI/AHD/CVBS • With male BNC connector, and pluggable screw terminal connections Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87802/image/1_0_99_60_10063_867533265_crop_thumb.PNG",
+        "alt": "PFM800B-4K_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87802/image/1_0_99_60_10063_867533266_crop_thumb.PNG",
+        "alt": "PFM800B-4K_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Function": {
+        "Transmission Channel": "1-ch HDCVI/TVI/AHD/CVBS",
+        "Transmission Distance": "HDCVI: 720p: max 400 m (1312.34 ft) 1080p: max 250 m (820.21 ft) 4 MP/5 MP/4K: max 200 m (656.17 ft) TVI: 720p: max 400 m (1312.34 ft) 1080p: max 250 m (820.21 ft) 4 MP/5 MP: max 200 m (656.17 ft) AHD: 720p: max 400 m (1312.34 ft) 1080p: max 250 m (820.21 ft) 4 MP/5 MP: max 200 m (656.17 ft)",
+        "Resolution": "720p/1080p/4 MP/5 MP/4K",
+        "Video Format": "HDCVI/TVI/AHD/CVBS",
+        "Anti-interference": "> 60 dB",
+        "Transmission Signal": "1-ch analog HD video",
+        "Transmission Media": "UTP CAT5E/6",
+        "Impedance": "Coaxial cable: 75 Ω Twisted pair: 100 Ω"
+      },
+      "Port": {
+        "Video Port": "Male BNC"
+      },
+      "Protection": {
+        "Electrostatic Discharge": "1a contact discharge: Level 3 1b air discharge: Level 3 Applicable standard: IEC61000–4–2"
+      },
+      "Structure": {
+        "Appearance Color": "Black",
+        "Casing Material": "ABS project material",
+        "Product Dimensions": "173.8 mm × 19.5 mm × 21 mm (6.84\" × 0.77\" × 0.83\") (L × W × H)",
+        "Packaging Dimensions": "215 mm × 90 mm × 110 mm (8.46\" × 3.54\" × 4.33\") (L × W × H)",
+        "Packaging Method": "10 pieces in 1 box, and 30 boxes in 1 outer carton",
+        "Net Weight": "38 g/pair (0.08 lb)",
+        "Gross Weight": "0.44 kg/box (0.97 lb)"
+      },
+      "Environment": {
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "5–95% (RH), non–condensing",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "0–95% (RH), non–condensing"
+      },
+      "Certification": {
+        "Certifications": "CE: EN 5032: 2015 EN 55035: 2017 EN 61000–3–2: 2014 EN 61000–3–3: 2013"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87802/datasheet/DH-PFM800B-4K_V1_datasheet_20251125.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Dahua Video Balun(DH-PFM800B-4K)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87802/user_manual/Dahua_Video_Balun_ef_bc_88DH-PFM800B-4K_ef_bc_89_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-11-15 #Drawings PFM800B-4K_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87802/drawings/1_0_99_60_10063_1796359027.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-accessories/baluns/pfm800b-4k=v1"
+  }
+}

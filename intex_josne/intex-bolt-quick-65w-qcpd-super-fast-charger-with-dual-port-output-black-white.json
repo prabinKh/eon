@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "65W",
+    "subcategory_url": "https://www.intex.in/collections/65w",
+    "series": "Fast Charger",
+    "series_url": "https://www.intex.in/collections/fast-charger",
+    "tab_title": "65W",
+    "tab_id": "9163160125658",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "65W",
+      "Intex Bolt Quick 65W QCPD Super Fast Charger with Dual Port Output - Black, White"
+    ]
+  },
+  "card_info": {
+    "product_id": "9163160125658",
+    "product_name": "Intex Bolt Quick 65W QCPD Super Fast Charger with Dual Port Output - Black, White",
+    "product_title": "Intex Bolt Quick 65W QCPD Super Fast Charger with Dual Port Output - Black, White",
+    "product_url": "https://www.intex.in/products/intex-bolt-quick-65w-qcpd-super-fast-charger-with-dual-port-output-black-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt_Quick_65W_QCPD.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 6999.0,
+      "display": "₹6,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-bolt-quick-65w-qcpd-super-fast-charger-with-dual-port-output-black-white.html",
+  "detail": {
+    "title": "Intex Bolt Quick 65W QCPD Super Fast Charger with Dual Port Output - Black, White",
+    "model": "65W",
+    "brand": "Intex",
+    "overview": "Experience ultra-fast charging with the Intex Bolt Quick 65W QCPD Charger. Engineered for high-speed performance, it supports PD 3.0 and QC 3.0 fast charging protocols to power laptops, smartphones, and other smart devices efficiently. With built-in Smart IC protection and advanced safety mechanisms, this charger ensures optimal performance and device safety. Ideal for professionals and heavy users who need reliable, powerful charging on the go.",
+    "features": [
+      "65W Super Fast Charging Output",
+      "Supports PD 3.0 & QC 3.0 Technology",
+      "Dual Port Output (USB + Type-C)",
+      "Smart IC Protection",
+      "Protection Against High & Low Voltage",
+      "Short Circuit Protection",
+      "High Performance Power IC",
+      "Universal Compatibility",
+      "Safe & Durable Build",
+      "Available Colours: White & Black"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Bolt_Quick_65W_QCPD.jpg",
+        "alt": "Intex Bolt Quick 65W QCPD Super Fast Charger with Dual Port Output - Black, White",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "65W Super Fast Charging Output",
+        "Feature 2": "Supports PD 3.0 & QC 3.0 Technology",
+        "Feature 3": "Dual Port Output (USB + Type-C)",
+        "Feature 4": "Smart IC Protection",
+        "Feature 5": "Protection Against High & Low Voltage",
+        "Feature 6": "Short Circuit Protection",
+        "Feature 7": "High Performance Power IC",
+        "Feature 8": "Universal Compatibility",
+        "Feature 9": "Safe & Durable Build",
+        "Feature 10": "Available Colours: White & Black"
+      },
+      "General": {
+        "Model": "65W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-bolt-quick-65w-qcpd-super-fast-charger-with-dual-port-output-black-white"
+  }
+}

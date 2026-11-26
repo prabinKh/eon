@@ -1,0 +1,146 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "146959",
+    "product_name": "ARM9A4-P-W2(868)",
+    "product_title": "Dahua Wireless Multi IO Transmitter",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm9a4-p-w2(868)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10869/ProductImage/1_0_01_19_10869_646337506_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/arm9a4-p-w2-868.html",
+  "detail": {
+    "title": "Dahua Wireless Multi IO Transmitter",
+    "model": "ARM9A4-P-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARM9A4-P-W2(868) Dahua Wireless Multi IO Transmitter Key Points · 16 alarm inputs · 4 relay outputs · 2 auxiliary power outputs for wired detectors and sirens · 3 power supply methods: POE, AC power, 7AH battery · Connect to alarm hub either via wireless radio or via the network Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10869/ProductImage/1_0_01_19_10869_646337506_crop_thumb.png",
+        "alt": "ARM9A4-P-W2(868)_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10869/ProductImage/1_0_01_19_10869_599926223_crop_thumb.png",
+        "alt": "ARM9A4-P-W2(868)_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Network Mode": {},
+      "Network Port": {},
+      "Storage Battery": {},
+      "Auxiliary Power Output": {},
+      "Indicator Light": {},
+      "Button": {},
+      "Remote Update": {},
+      "Low Battery Detection": {},
+      "Tamper": {},
+      "Scenario": {},
+      "Carrier Frequency": {},
+      "Transmitter Power (EIRP)": {},
+      "Communication Mechanism": {},
+      "Communication Distance": {},
+      "Encryption Mode": {},
+      "Frequency Hopping": {},
+      "Power Supply": {},
+      "Power Supply Type": {},
+      "Standby Time": {},
+      "Low Battery Threshold": {},
+      "Battery Restore Threshold": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {},
+      "Casing Material": {},
+      "Appearance Color": {},
+      "Protection": {},
+      "Certifications": {},
+      "Anti-corrosion Level": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82478/datasheet/ARM9A4-P-W2(868)_datasheet_20251202.pdf"
+      },
+      {
+        "name": "2026-07-07 #User Manual Dahua Wireless Multi IO Transmitter_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82478/user_manual/Dahua_Wireless_Multi_IO_Transmitter_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-07-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82477/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2026-07-07 #User Manual Wireless Multi IO Transmitter_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82477/user_manual/Wireless_Multi_IO_Transmitter_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-08-02 #Drawings ARM9A4-P-W2(868)_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82477/drawings/ARM9A4-P-W2_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2024-07-26 #Drawings ARM9A4-P-W2(868)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82477/drawings/ARM9A4-P-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-07-26 #Drawings ARM9A4-P-W2(868)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86809/drawings/ARC3808H_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-07-26 #Drawings ARM9A4-P-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82477/drawings/ARM9A4-P-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-06 #Firmware General_ARM9A4-P-W2_868_V1.000.0000001.0.R.260128 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82478/firmware/General_ARM9A4-P-W2_868_V1.000.0000001.0.R.260128.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm9a4-p-w2(868)"
+  }
+}

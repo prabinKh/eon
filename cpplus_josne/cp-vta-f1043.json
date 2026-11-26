@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://cpplusworld.com/products/biometric",
+    "subcategory": "Time & Attendance",
+    "subcategory_url": "https://cpplusworld.com/products/time-attendence/biometric",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Time & Attendance",
+    "tab_id": "23",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Time & Attendance",
+      "Biometric",
+      "CP-VTA-F1043"
+    ]
+  },
+  "card_info": {
+    "product_id": "561",
+    "product_name": "CP-VTA-F1043",
+    "product_title": "CP-VTA-F1043-Fingerprint Based Time Attendance Terminal | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-vta-f1043",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d6ac4af3-5bac-4c95-9853-fa9b210faa84.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-vta-f1043.html",
+  "detail": {
+    "title": "CP-VTA-F1043-Fingerprint Based Time Attendance Terminal | Cp Plus | Cpplusworld.com",
+    "model": "CP-VTA-F1043",
+    "brand": "CP Plus",
+    "overview": "Fingerprint Based Time Attendance Terminal",
+    "features": [
+      "2.8” TFT LCD Display (0.9071 centimeters)",
+      "Support 1000 Fingerprints",
+      "Support 100000 Storage Capacity",
+      "Support Fingerprint, Password and ID card"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d6ac4af3-5bac-4c95-9853-fa9b210faa84.png",
+        "alt": "CP-VTA-F1043 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/be8fb6db-be44-45d9-830d-3ed6ac5eea49.png",
+        "alt": "CP-VTA-F1043 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display Size": "2.8” TFT LCD (0.9071 centimeters)",
+        "Scanner": "High precision total reflection optics scanner",
+        "Effective Collecting Area": "16x16mm",
+        "Fingerprint Image Resolution": "500DPI",
+        "Fingerprint Capacity": "1000",
+        "Storage Capacity": "100000",
+        "Card Capacity": "1000",
+        "Password Capacity": "1000",
+        "Recognition ways": "1: N, 1: 1",
+        "Identification Mode": "Fingerprint, password and ID card",
+        "Working Way": "Off-line",
+        "Recognition Speed": "≤1.5s",
+        "FAR": "≤0.0001%",
+        "FRR": "≤0.01%",
+        "Standard Function": "U disk, USB, TCP/IP, push data",
+        "Build-in battery": "Support",
+        "Access Control": "Support",
+        "Power Supply": "DC12V 2amp",
+        "Working Humidity": "20%-80%",
+        "Working Temperature": "0°C-60°C",
+        "Dimension": "190mm × 140mm ×40mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-VTA-F1043.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/b2e089f9-0976-4202-bc3a-4b468d327932.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-vta-f1043"
+  }
+}

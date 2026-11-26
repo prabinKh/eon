@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizMind Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizmind-series",
+    "tab_title": "SD8",
+    "tab_id": "8952",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizMind Series",
+      "SD8"
+    ]
+  },
+  "card_info": {
+    "product_id": "110097",
+    "product_name": "SD8A840XA-HNP-WP",
+    "product_title": "8MP 40x Starlight WizMind Hydrological Monitoring Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizmind-series/sd8/sd8a840xa-hnp-wp",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220701/sd8a1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd8a840xa-hnp-wp.html",
+  "detail": {
+    "title": "8MP 40x Starlight WizMind Hydrological Monitoring Network Camera",
+    "model": "SD8A840XA-HNP-WP",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD8A840XA-HNP-WP 8MP 40x Starlight WizMind Hydrological Monitoring Network Camera Key Points • High-Quality Imaging with 8MP Resolution • 40× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 250m IR Distance for 24/7 Monitoring • 1/1.8\" CMOS Sensor Ensures Premium Images • Detects Water Levels, Debris and Boats with High-Water Level Alerts • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220701/sd8a1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220701/sd8a2_thumb.png",
+        "alt": "SD8A840XA-HNP-WP",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Pixel": "8 MP",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "ROM": "4 GB",
+        "RAM": "1 GB",
+        "Electronic Shutter Speed": "1/1 s–1/300,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.005 lux@F1.4 B/W: 0.0005 lux@F1.4 0 lux (IR on)",
+        "Illumination Distance": "250 m (820.21 ft) (IR)",
+        "Illuminator On/Off Control": "Zoom Prio; Manual; Off",
+        "Illuminator Number": "10 (IR)",
+        "Wiper": "Smart Wiper",
+        "Focal Length": "5.5 mm–220 mm",
+        "Max. Aperture": "F1.4–F4.5",
+        "Field of View": "H: 63.9°–2.0°; V: 37.3°–1.1°; D: 71.2°–2.3°",
+        "Optical Zoom": "40×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "1.5 m–8 m (4.92 ft–26.25 ft)",
+        "Iris Control": "Auto",
+        "DORI Distance": "Detect",
+        "4,166 m (13,667.98 ft)": "1,666.4 m (5,467.19 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 360° endless Tilt: –30° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s–240°/s Tilt: 0.1°/s–100°/s",
+        "Preset Speed": "Pan: 240°/s; Tilt: 120°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 preset per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Speed Adjustment": "Yes",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset; Tour; Pattern; Scanning",
+        "PTZ Protocol": "DH-SD Pelco-P/D (auto recognition)",
+        "Hydrological Monitoring": "Recognizes standard and virtual water level markers. Triggers an alarm when the water level exceeds any of the limits. It also detects floating debris and boats, and sends push notifications with data on the water level.",
+        "Video Compression": "H.265; Smart H.265+; Smart H.264+; H.264; MJPEG (Sub Stream 1)",
+        "Streaming Capability": "3 Streams",
+        "Video Frame Rate": "Main stream: 4K/4M/3M/1080p/1.3M/720p (1–25/30 fps) Sub stream 1: D1/CIF (1–25/30 fps) Sub stream 2: 1080p/1.3M/720p/CIF (1–25/30 fps)",
+        "Bit Rate Control": "CBR; VBR",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "BLC": "Yes",
+        "WDR": "Yes",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Electronic (EIS)",
+        "Defog": "Optical",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Up to 24 areas can be set, with up to 8 areas in the same view",
+        "S/N Ratio": "≥ 55 dB",
+        "Audio Compression": "G.711a; G.711Mu; G726; MPEG2-Layer2; G722.1; G729; G723; PCM",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "HTTP; HTTPS; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; IPv6; 802.1x; QoS; FTP; UPnP; ICMP; SNMP; SNMP v1/v2c/v3 (MIB-2); IGMP; ARP; RTCP; RTP; PPPoE; TCP",
+        "Interoperability": "ONVIF Profile S&G&T GB/T28181; CGI",
+        "Streaming Method": "Unicast; Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP; Micro SD card (256 GB)",
+        "Analog Output": "1 channel (CVBS output, BNC)",
+        "RS-485": "1 (baud rate: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Audio Output": "1 channel (LINE OUT, bare wire)",
+        "Alarm I/O": "7/2",
+        "Two-way Audio": "Yes",
+        "Alarm Linkage": "Capture; preset; tour; pattern; recordings on SD card; alarm digital input; send email; client E–map",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection; illegal access",
+        "Power Supply": "36 VDC, 2.23 A (± 25% ) Hi-PoE",
+        "Power Consumption": "Basic: 18 W Max.: 22 W (illuminator + PTZ working)",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤ 95% RH",
+        "Protection": "IP67; TVS 8000 V lightning proof; surge protection; voltage transient protection",
+        "Casing": "ADC12, PC + 20% GF",
+        "Product Dimensions": "415.9 mm × Φ262.0 mm (16.37\" × Φ10.31\")",
+        "Net Weight": "8.5 kg (18.74 lb)",
+        "Gross Weight": "13.57 kg (29.92 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-SD8A840XA-HNP-WP_S0_datasheet_20250109.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Dahua Network Speed Dome & PTZ Camera Web 3.0_User Manual_V3.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3487/user_manual/Dahua_Network_Speed_Dome__26_PTZ_Camera_Web_3.0_User_Manual_V3.0.4.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3287/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43967/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-11-25 #A&E Document SD8A840XA-HNP-WP_A&E_20260917190135 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48277/a_e_document/1789644100385.docx"
+      },
+      {
+        "name": "2023-11-30 #Drawings SD8A840XA-HNP-WP_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29817/drawings/1_0_01_07_13831_532524273.pdf"
+      },
+      {
+        "name": "2021-10-27 #Drawings SD8A840XA-HNP-WP_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/29817/drawings/1_0_01_07_13831_1375850965.pdf"
+      },
+      {
+        "name": "2024-08-12 #Firmware DH_SD-Prometheus_MultiLang_PN_Stream3-JianCe_V2.812.0000047.2.R.240723 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2760769/M/DH_SD-Prometheus_MultiLang_PN_Stream3-JianCe_V2.812.0000047.2.R.240723.zip"
+      },
+      {
+        "name": "2022-07-28 #Firmware General_SD8A1XXXG-HN_MCU_V2.401.0000002.14.R.220616 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42057/firmware/General_SD8A1XXXG-HN_MCU_V2.401.0000002.14.R.220616.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizmind-series/sd8/sd8a840xa-hnp-wp"
+  }
+}

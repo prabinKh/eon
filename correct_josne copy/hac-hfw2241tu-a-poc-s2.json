@@ -1,0 +1,157 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "PoC Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series",
+    "tab_title": "1080P",
+    "tab_id": "6462",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "PoC Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "99637",
+    "product_name": "HAC-HFW2241TU-A-POC",
+    "product_title": "2 MP Starlight HDCVI Fixed IR Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/1080p/pro/hac-hfw2241tu-a-poc=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210929/HAC-HFW2241TU-Z-A-POC-21_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hfw2241tu-a-poc-s2.html",
+  "detail": {
+    "title": "2 MP Starlight HDCVI Fixed IR Bullet Camera",
+    "model": "HAC-HFW2241TU-A-POC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HFW2241TU-A-POC 2 MP Starlight HDCVI Fixed IR Bullet Camera Key Points • High-Quality Imaging with 1080P Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 80m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • PoC：Power over Coax Technology Simplifies HDCVI System Deployment • 3DNR & 130dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210929/HAC-HFW2241TU-Z-A-POC-21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210929/HAC-HFW2241TU-Z-A-POC-11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "2 MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Pixel": "2 MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "S/N Ratio": "> 65 dB",
+        "Min. Illumination": "0.001 Lux/F1.6, 30 IRE, 0 Lux IR on",
+        "Illumination Distance": "80m (262.5 ft)",
+        "Illuminator On/Off Control": "Auto; manual",
+        "Illuminator Number": "4 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed lens",
+        "Mount Type": "M12",
+        "Focal Length": "3.6 mm; 6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "3.6 mm: H: 86°; V: 46°; D: 101° 6 mm: H: 54°; V: 29°; D: 63°",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "3.6 mm: 1.1 m (3.6 ft) 6 mm: 2.8 m (9.2 ft)",
+        "DORI Distance": "Lens",
+        "3.6 mm": "53.7 m (176.2 ft)",
+        "6 mm": "88.3 m (289.7 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Frame Rate": "CVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; AHD: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; TVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps; CVBS: PAL: 960 × 576H; NTSC: 960 × 480H",
+        "Resolution": "1080p (1920 × 1080); 960H (960 × 576 / 960 × 480)",
+        "Day/Night": "Auto switch by ICR",
+        "BLC": "BLC/WDR/HLC",
+        "WDR": "130dB",
+        "White Balance": "Auto/Area WB",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "3D NR",
+        "Smart IR": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Audio Input": "One channel built-in mic"
+      },
+      "Power": {
+        "Power Supply": "POC (only CVI)/12V±30% DC",
+        "Power Consumption": "Max 5.3W (12V DC, IR on) PoC (AT)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to 140 °F); < 95% (non-condensation)",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to 140 °F); < 95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "244.1 mm × 79 mm × 75.9 mm (9.61\" × 3.11\" × 2.99\")",
+        "Net Weight": "0.79 kg (1.7 lb)",
+        "Gross Weight": "1.06 kg (2.3 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-HFW2241TU-A-POC_S2_datasheet_20240517.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Bullet Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/HDCVI_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2023-04-26 #Drawings HAC-HFW2241TU-A-POC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/58267/drawings/HAC-HDW1209TQ-(A)-LED_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-07-21 #Drawings HAC-HFW2241TU-A-POC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12587/drawings/HAC-HDW1231TQ-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/1080p/pro/hac-hfw2241tu-a-poc=s2"
+  }
+}

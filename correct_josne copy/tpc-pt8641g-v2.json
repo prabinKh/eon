@@ -1,0 +1,285 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Ultra Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/ultra-series",
+    "tab_title": "Ultra Series",
+    "tab_id": "1371",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Ultra Series",
+      "Ultra Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "154338",
+    "product_name": "TPC-PT8641G",
+    "product_title": "Thermal Network Multi-spectral Pan & Tilt Camera",
+    "product_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/ultra-series/tpc-pt8641g=v2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/image/1_0_01_34_15983_889468108_temporary_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-pt8641g-v2.html",
+  "detail": {
+    "title": "Thermal Network Multi-spectral Pan & Tilt Camera",
+    "model": "TPC-PT8641G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-PT8641G Thermal Network Multi-spectral Pan & Tilt Camera Key Points • High Performance Thermal Detector of 640X512 Resolution in 12μm • 56X Zoom Lens in 4MP High Resolution and IR Distance Up to 2000m • Optional Laser Range Finder to Instantly Measure Target Distance and Display Coordinates via Software Platform • Tripwire/Intrusion, Human & Vehicle Classification, Boat Detection • Fire Detection & Smoke Detection by 360° Automatic Scan • Optical Image Stabilization (OIS) of Visible Channel to Ensure Steady Image In Challenging Condition Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/image/1_0_01_34_15983_889468108_temporary_thumb.PNG",
+        "alt": "TPC-PT8641G_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/image/1_0_01_34_15983_889468103_temporary_thumb.PNG",
+        "alt": "TPC-PT8641G_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/image/1_0_01_34_15983_889468109_temporary_thumb.PNG",
+        "alt": "TPC-PT8641G_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "Thermal": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "640 (H) × 512 (V)",
+        "Pixel Pitch": "12 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Sensitivity (NETD)": "≤20 mK",
+        "Focal Length": "75 mm; 100 mm; 13 mm-130 mm",
+        "Field of View": "75 mm: H: 5.86°; V: 4.69° 100 mm: H: 4.40°; V: 3.52° 13 mm -130 mm: H: 34.3°–3.4°; V: 27.3°–2.7°",
+        "Focus Control": "Manual; Auto; Semi-auto",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Digital Zoom": "24 levels",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "AGC": "Auto; Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Image Flip": "180°",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)"
+      },
+      "Visible": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "Pixel": "4 MP",
+        "Min. Illumination": "Color: 0.005 lux Black & white: 0.0005 lux 0 lux (IR on)",
+        "AGC": "Auto; Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "S/N Ratio": ">55 dB",
+        "White Balance": "Auto; manual; indoor; outdoor; tracking; sodium lamp; street lamp; natural",
+        "Image Stabilization": "Optical Image Stabilization",
+        "Electronic Shutter Speed": "1 s–1/30,000 s (auto/manual)",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "HLC": "Yes",
+        "Digital Zoom": "16×",
+        "Day/Night": "Auto (ICR), Color; B/W, Auto (ICR); Color; B/W",
+        "Image Flip": "180°",
+        "Exposure Compensation": "Yes",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Focal Length": "6 mm–336 mm",
+        "Zoom Speed": "<8.8 s",
+        "Field of View": "H: 64.4°–1.28° V: 38.37°–0.72°",
+        "Close Focus Distance": "0.1 m–5 m (0.33 ft–16.4 ft)",
+        "Optical Zoom": "56×",
+        "Aperture": "F1.5–F5.3"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG",
+        "Resolution": "Thermal: Main stream: 1280 × 1024; 1280 × 720; 640 × 512; 1280 × 1024 (default) Sub stream: 640 × 512; 320 × 256; 640 × 512 (default) Visible: Main stream: 2688×1520; 1920×1080; 1280×720; 704× 576; 2688 × 1520 (default) Sub stream: 704 × 576; 352 × 288; 704 × 576 (default)",
+        "Video Frame Rate": "Thermal (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default; Sub stream: 1 fps–25 fps, 15 fps by default; Visible (50 Hz): Main stream: 1 fps–25 fps, 25 fps by default; Sub stream: 1 fps–25 fps, 15 fps by default; Thermal (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default; Sub stream: 1 fps–30 fps, 15 fps by default; Visible (60 Hz): Main stream: 1 fps–30 fps, 30 fps by default; Sub stream: 1 fps–30 fps, 15 fps by default",
+        "Audio Encoding": "G.711a; G.711mu; PCM",
+        "Image Encoding Format": "JPEG"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless Tilt: –45° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s–140°/s Tilt: 0.1°/s–50°/s",
+        "Preset Speed": "Pan: 0.1°/s–140°/s Tilt: 0.1°/s–50°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Privacy Masking": "4 blocks",
+        "Idle Motion": "Preset; pattern; tour; scan; pan",
+        "Timing Task": "Preset; pattern; tour; scan; pan",
+        "Position Display": "ON/OFF",
+        "Preset Video Freeze": "Yes",
+        "Telephoto Speed Limit": "Yes",
+        "Positioning Accuracy": "± 0.1°",
+        "Wiper": "Manual/Auto. Supports setting wiper running times, frequency, and period",
+        "3D Positioning": "Yes"
+      },
+      "Laser Illumination": {
+        "Laser Illumination Distance": "1,000 m (3,280.84 ft); 2,000 m (6,561.68 ft)",
+        "Laser Illuminator On/Off Control": "Manual",
+        "Angle of Laser Illuminator": "1,000 m: 2°–70° adjustable; 2,000 m: 0.56°–45° adjustable"
+      },
+      "Laser Range Finder": {
+        "Laser Range Finder Distance": "1,000 m (3,280.84 ft); 2,000 m (6,561.68 ft)",
+        "Laser Range Finder Accuracy": "400 m: ±1.5 m (4.92 ft); >400 m: ±0.4%"
+      },
+      "Function": {
+        "Two-way Audio": "Yes",
+        "Network Protocol": "HTTP; HTTPS; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP; Multicast; SFTP; 802.1x",
+        "Region of Interest (RoI)": "Yes",
+        "Storage": "FTP; Micro SD card (optional)",
+        "Interoperability": "ONVIF; CGI; DaHuaSDK",
+        "Browser": "IE: IE8 and later (includs the browsers with IE kernel, such as 360 Explorer, Sougou Explorer) Chrome: 42 and earlier Firefox: 42 and earlier",
+        "User/Host": "Up to 10",
+        "Security": "Authorized username and password; attached MAC address; HTTPS; IEEE 802.1x; controlled network access",
+        "User Management": "Up to 20 users; supports multi-level user permissions (2 levels): management group and user group",
+        "Malfunction Detection": "Network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "PIP": "Yes"
+      },
+      "Intelligence": {
+        "Heat Detection": "Yes",
+        "Cold/Hot Spot Trace": "Yes",
+        "Perimeter Protection": "Yes. Supports tripwire and intrusion.",
+        "Target Distinction": "Human/Vehicle Classification",
+        "Target Filtering": "Yes (by pixel)",
+        "Target Tracking": "Yes (manual tracking and alarm tracking)",
+        "Smoke Detection": "Yes",
+        "Boat Detection": "Yes"
+      },
+      "Port": {
+        "Analog Output": "1 × CVBS output; BNC port",
+        "Network Port": "1 × RJ-45 (10/100 Base-T)",
+        "Alarm Input": "7",
+        "Alarm Output": "2",
+        "Alarm Event": "No SD card; low SD card space; SD card error; network disconnection; IP conflict; motion detection; video tampering; intrusion; tripwire; audio detection; defocus on thermal channel",
+        "Audio Input": "1",
+        "Audio Output": "1",
+        "RS-485": "1"
+      },
+      "Power": {
+        "Power Supply": "24–57 VDC",
+        "Power Consumption": "Basic 1: 27 W (PTZ stationary; only supports live video) Basic 2: 40 W (PTZ in motion; only supports live video) Max 1: 77 W (PTZ in motion; all functions enabled; illuminator on, laser range finder on; heater off) Max 2: 112 W (PTZ in motion; all functions enabled; illuminator on, laser range finder on; heater on)",
+        "Power Output": "12 VDC; 1 A"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +70 °C (32 °F to +158 °F)"
+      },
+      "Physical Characteristics": {
+        "Protection": "IP66",
+        "Reliability": "Surge protection: 6 kV Contact discharge: 8 kV Air discharge: 15 kV",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use in areas that have no specific requirements for anti-corrosion protection.",
+        "Product Dimensions": "585.9 mm × 299.7 mm × 483.4 mm (23.07\" × 11.8\" × 19.03\") (L × W × H)",
+        "Packaging Dimensions": "765.0 mm × 715.0 mm × 600.0 mm (30.12\" × 28.15\" × 23.62\") (L × W × H)",
+        "Net Weight": "≤26 kg (57.32 ft)",
+        "Gross Weight": "≤50 kg (110.23 ft)",
+        "Installation": "Plane mount",
+        "Power Adapter": "Included",
+        "Lens": "Included",
+        "PTZ Outlet": "Side"
+      },
+      "Certification": {
+        "Certifications": "CE"
+      },
+      "Heat Detection Distance": {
+        "Focal Length": "Max. Distance",
+        "75 mm": "6,000 m (19,685.04 ft)",
+        "100 mm": "8,000 m (26,246.72 ft)",
+        "13 mm–130 mm": "10,400 m (34,120.73 ft)"
+      },
+      "Note: The table displays the measured distances obtained from using the target size 2 m × 2 m for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {},
+      "Perimeter Protection Distance (IVS Distance)": {
+        "Focal Length": "Distance (Vehicle)",
+        "75 mm": "1,575 m (5,167.32 ft)",
+        "100 mm": "2,100 m (6,889.76 ft)",
+        "13 mm -130 mm": "2,730 m (8,956.69 ft)"
+      },
+      "Note: The table displays the measured distances obtained from using the target sizes 1.8 m × 0.5 m (human) and 1.4 m × 4 m (vehicle) for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {},
+      "DRI Distance": {
+        "Focal Length": "Detection Distance①",
+        "75 mm": "Vehicle: 9,583 m (31,440.29 ft); Human: 3,125 m (10,252.62 ft)",
+        "100 mm": "Vehicle: 12,778 m (41,922.57 ft); Human: 4,167 m (13,671.26 ft)",
+        "13 mm -130 mm": "Vehicle: 16,611 m (54,498.03 ft); Human: 5,417 m (17,772.31 ft)"
+      },
+      "①Detection Distance: Detects objects, but cannot recognize their characteristics (objects must cover more than 1.5 pixels of the image). ②Recognition Distance: Classifies objects into general categories, such as human, vehicle (the object must cover more than 6 pixels of the image). ③Identification Distance: Classifies objects into specific categories based on their characteristics, such as engineering truck, car (the object must cover more than 12 pixels of the image).": {},
+      "Note: The table is the standard theoretical calculation and is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. For the intelligent detection distance, refer to the table of Perimeter Protection Distance (IVS Distance) above.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/datasheet/TPC-PT8641G_V2_datasheet_20260122.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Network PTZ Camera_Web3.0 Operation Manual_V2.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16717/user_manual/Thermal_Network_PTZ_Camera_Web3.0_Operation_Manual_V2.0.5.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Network Multi-spectral Pan & Tilt Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/user_manual/Thermal_Network_Multi-spectral_Pan___Tilt_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-20 #A&E Document TPC-PT8641G_A&E_20260518105937 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/a_e_document/1779460321508.docx"
+      },
+      {
+        "name": "2025-09-02 #Drawings TPC-PT8641G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/drawings/TPC-PT8641G_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-09-02 #Drawings TPC-PT8641G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/drawings/TPC-PT8641G_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-10 #Firmware DH_TPC-PT8X41G-B_MultiLang_NP_V2.661.0000000.0.R.260327 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/firmware/DH_TPC-PT8X41G-B_MultiLang_NP_V2.661.0000000.0.R.260327.zip"
+      },
+      {
+        "name": "2026-03-29 #Firmware General_TPC-NYX5603-BCXA_V1.000.0000000.0.R.20260113 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/firmware/General_TPC-NYX5603-BCXA_V1.000.0000000.0.R.20260113.zip"
+      },
+      {
+        "name": "2026-03-20 #Firmware General_TPC-SD-Gram_PART_V2.830.0000000.6.R.260114 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/firmware/General_TPC-SD-Gram_PART_V2.830.0000000.6.R.260114.zip"
+      },
+      {
+        "name": "2026-03-20 #Firmware General_TPC-PT8XX1G-HBL-V_MCU_V2.401.0000000.1.R.260113 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/firmware/General_TPC-PT8XX1G-HBL-V_MCU_V2.401.0000000.1.R.260113.zip"
+      },
+      {
+        "name": "2026-03-19 #Firmware General_TPC-PT8XX1G-F-CODE_MCU_V2.402.0000000.1.R.251215 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/firmware/General_TPC-PT8XX1G-F-CODE_MCU_V2.402.0000000.1.R.251215.zip"
+      },
+      {
+        "name": "2026-01-06 #Firmware General_TPC-PT8XX1D-F-CODE_MCU_V2.401.0000000.1.R.250605 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85797/firmware/General_TPC-PT8XX1D-F-CODE_MCU_V2.401.0000000.1.R.250605.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/ultra-series/tpc-pt8641g=v2"
+  }
+}

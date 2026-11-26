@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Smart Accessories",
+    "category_url": "https://www.intex.in/collections/smart-accessories",
+    "subcategory": "60W",
+    "subcategory_url": "https://www.intex.in/collections/60w",
+    "series": "Data Cable",
+    "series_url": "https://www.intex.in/collections/data-cable",
+    "tab_title": "60W",
+    "tab_id": "9155421307098",
+    "breadcrumbs": [
+      "Home",
+      "Smart Accessories",
+      "60W",
+      "Intex Speed Ultra 3.0 4-in-1 Data Cable with 60W Output"
+    ]
+  },
+  "card_info": {
+    "product_id": "9155421307098",
+    "product_name": "Intex Speed Ultra 3.0 4-in-1 Data Cable with 60W Output",
+    "product_title": "Intex Speed Ultra 3.0 4-in-1 Data Cable with 60W Output",
+    "product_url": "https://www.intex.in/products/intex-speed-ultra-3-0-4-in-1-data-cable-with-60w-output",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEEDULTRA3.0_4-IN-1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1999.0,
+      "display": "₹1,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-speed-ultra-3-0-4-in-1-data-cable-with-60w-output.html",
+  "detail": {
+    "title": "Intex Speed Ultra 3.0 4-in-1 Data Cable with 60W Output",
+    "model": "3-0-4-1-60W",
+    "brand": "Intex",
+    "overview": "The Intex Speed Ultra 3.0 4-in-1 Cable is a versatile all-in-one charging solution designed for multiple devices. With up to 60W fast charging and 480 Mbps data transfer, it features interchangeable heads for Type-C, Lightning, and Micro USB devices. The nylon braided design ensures superior durability, flexibility, and tangle-free performance.",
+    "features": [
+      "60W fast charging output support",
+      "4-in-1 charging & data cable",
+      "Interchangeable heads for multi-device use",
+      "480 Mbps high-speed data transfer",
+      "1-metre cable length",
+      "Strong nylon braided material for durability",
+      "Tangle-free and flexible design",
+      "Universal compatibility across devices",
+      "Overheat protection for safe charging",
+      "20000+ bends tested for long lifespan"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SPEEDULTRA3.0_4-IN-1.jpg",
+        "alt": "Intex Speed Ultra 3.0 4-in-1 Data Cable with 60W Output",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "60W fast charging output support",
+        "Feature 2": "4-in-1 charging & data cable",
+        "Feature 3": "Interchangeable heads for multi-device use",
+        "Feature 4": "480 Mbps high-speed data transfer",
+        "Feature 5": "1-metre cable length",
+        "Feature 6": "Strong nylon braided material for durability",
+        "Feature 7": "Tangle-free and flexible design",
+        "Feature 8": "Universal compatibility across devices",
+        "Feature 9": "Overheat protection for safe charging",
+        "Feature 10": "20000+ bends tested for long lifespan"
+      },
+      "General": {
+        "Model": "3-0-4-1-60W"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Intex_Smart_Accessories_Catalogue_January_2026_1.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-speed-ultra-3-0-4-in-1-data-cable-with-60w-output"
+  }
+}

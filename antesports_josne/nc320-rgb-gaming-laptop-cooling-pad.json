@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC320 RGB Gaming Laptop Cooling Pad"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032866083",
+    "product_name": "NC320 RGB Gaming Laptop Cooling Pad",
+    "product_title": "NC320 RGB Gaming Laptop Cooling Pad",
+    "product_url": "https://antesports.com/products/nc320-rgb-gaming-laptop-cooling-pad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_ab0d01e7-0e84-4666-beff-bc1cfd065fcf.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc320-rgb-gaming-laptop-cooling-pad.html",
+  "detail": {
+    "title": "NC320 RGB Gaming Laptop Cooling Pad",
+    "model": "AEPP0207",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC320 centres on a single large 140mm fan with adjustable speed from 300-2200 RPM, delivering strong, focused airflow to combat overheating and throttling on laptops from 14 to 19 inches. Ten RGB lighting modes controlled via an LCD display add a personalized visual touch, while a detachable phone holder can be placed on either side of the stand for flexible positioning. Eight adjustable height levels across 7 viewing angles (20-45 degrees) provide genuine ergonomic comfort, reducing neck strain during long sessions, and quiet operation between 28-52 dBA keeps noise levels distraction-free. Two USB 2.0 ports round out a feature-rich cooling stand for gamers and power users alike.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_ab0d01e7-0e84-4666-beff-bc1cfd065fcf.png",
+        "alt": "NC320 RGB Gaming Laptop Cooling Pad - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fan": "1 x 140mm, 300-2200 RPM",
+        "Height Adjustment": "8 Stands, 7 Angles (20-45°)",
+        "Lighting": "10 RGB Modes, LCD Control",
+        "Noise Level": "28-52 dBA",
+        "USB Ports": "2 x USB 2.0",
+        "Compatibility": "Laptops 14-19 Inches",
+        "FAN": "1 x 140mm, 300-2200 RPM",
+        "HEIGHT ADJUSTMENT": "8 Stands, 7 Angles (20-45°)",
+        "LIGHTING": "10 RGB Modes, LCD Control",
+        "NOISE LEVEL": "28-52 dBA",
+        "USB PORTS": "2 x USB 2.0",
+        "COMPATIBILITY": "Laptops 14-19 Inches",
+        "SKU": "AEPP0207"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc320-rgb-gaming-laptop-cooling-pad"
+  }
+}

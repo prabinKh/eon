@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Core Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "series": "Core Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/core-switches",
+    "tab_title": "Core Switches",
+    "tab_id": "4321",
+    "breadcrumbs": [
+      "Transmission",
+      "Core Switches",
+      "Core Switches",
+      "Core Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "57477",
+    "product_name": "S8610",
+    "product_title": "L3 Managed S86 Series Switch with 10-Slot",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s8610",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20201027/S8610-1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s8610.html",
+  "detail": {
+    "title": "L3 Managed S86 Series Switch with 10-Slot",
+    "model": "S8610",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20201027/S8610-1_thumb.png",
+        "alt": "S8610",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/s8610"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "RFID Card Reader",
+    "series_url": "https://www.intex.in/collections/rfid-card-reader",
+    "tab_title": "Biometric",
+    "tab_id": "9397036548314",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Biometric",
+      "Intex RFID Card Reader"
+    ]
+  },
+  "card_info": {
+    "product_id": "9397036548314",
+    "product_name": "Intex RFID Card Reader",
+    "product_title": "Intex RFID Card Reader",
+    "product_url": "https://www.intex.in/products/intex-rfid-card-reader",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_1fa2f1d7-bdc6-4a3c-a941-6dd53ff28559.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 8879.0,
+      "display": "₹8,879.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-rfid-card-reader.html",
+  "detail": {
+    "title": "Intex RFID Card Reader",
+    "model": "Reader",
+    "brand": "Intex",
+    "overview": "Enhance your access control system with the Intex RFID Card Reader, designed for fast, secure, and reliable authentication. Operating at 125kHz, this reader supports RFID cards and delivers quick identification with a 2–4 cm reading distance. Compatible with Wiegand 26 and Wiegand 34 protocols, it integrates seamlessly with most access control panels. Its compact and durable design makes it ideal for offices, commercial buildings, residential societies, educational institutions, and industrial facilities.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_1fa2f1d7-bdc6-4a3c-a941-6dd53ff28559.jpg",
+        "alt": "Intex RFID Card Reader",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "RFID Card Reader",
+        "Card Type": "RFID 125kHz",
+        "Operating Voltage": "DC 12V / 2A",
+        "Reading Distance": "2–4 cm",
+        "Output Format": "Wiegand 26 / Wiegand 34",
+        "Installation": "Wall Mount",
+        "Application": "Access Control Systems",
+        "Compatibility": "Supports standard RFID-enabled access control panels",
+        "Model": "Reader"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Security_Surveillance_Brochure.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-rfid-card-reader"
+  }
+}

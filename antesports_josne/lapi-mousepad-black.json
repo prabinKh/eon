@@ -1,0 +1,70 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Lapi Gaming Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924178211",
+    "product_name": "Lapi Gaming Mouse Pad - Black",
+    "product_title": "Lapi Gaming Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/lapi-mousepad-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/31_c3b34306-8a7d-4ef7-9981-1d7efa3c793d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/lapi-mousepad-black.html",
+  "detail": {
+    "title": "Lapi Gaming Mouse Pad - Black",
+    "model": "AEPP0303",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Lapi mouse pad offers a smooth, consistent tracking surface suited to everyday office and gaming use, with a non-slip rubber base that keeps it firmly anchored on the desk during fast movements. Stitched edges add durability and resist fraying over time, making the Lapi a dependable, no-frills everyday mouse mat.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/31_c3b34306-8a7d-4ef7-9981-1d7efa3c793d.png",
+        "alt": "Lapi Gaming Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Base": "Non-Slip Rubber",
+        "Edges": "Stitched",
+        "Color": "Black",
+        "BASE": "Non-Slip Rubber",
+        "EDGES": "Stitched",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹129.00",
+        "MRP (INR)": "₹499.00",
+        "SKU": "AEPP0303"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/lapi-mousepad-black"
+  }
+}

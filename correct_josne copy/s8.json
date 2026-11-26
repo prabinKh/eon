@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "Mobile",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+    "series": "Dash Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+    "tab_title": "Dash Camera",
+    "tab_id": "17317",
+    "breadcrumbs": [
+      "Others",
+      "Mobile",
+      "Dash Camera",
+      "Dash Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "138557",
+    "product_name": "S8",
+    "product_title": "Dash Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/s8",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231204/s81_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/s8.html",
+  "detail": {
+    "title": "Dash Camera",
+    "model": "S8",
+    "brand": "Dahua",
+    "overview": "Favourite S8 Dash Camera Key Points Dual recording: 2K+1K GPS(APP playback); 3-inch touch screen; APP control Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231204/s81_thumb.png",
+        "alt": "S8",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13162-001/ProductImage/1900235813689_thumb.png",
+        "alt": "PHOTO-C230417.1248.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13162-001/ProductImage/1859489865549_thumb.png",
+        "alt": "PHOTO-C230417.1246.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13162-001/Others/1900161158055_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13162-001/ProductImage/1900305583780_thumb.png",
+        "alt": "PHOTO-C230417.1252.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13162-001/ProductImage/1900074752357_thumb.png",
+        "alt": "PHOTO-C230417.1250.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.9'' CMOS",
+        "Frame Rate": "Dual-Channel: 2560Px1440P@30FPS; 1920Px1080P@25FPS Single-Channel: 3840Px2160P@30FPS",
+        "Field of View": "D: 123°, H: 105°, V: 56°",
+        "Iris": "F1.5",
+        "Screen": "3'' touch screen with 320×640 resolution",
+        "Video Compression": "H.265",
+        "OSD": "Display time, date, etc.",
+        "Image format": "JPEG",
+        "Storage": "1 TF card (up to 128GB)",
+        "Communication Module": "WiFi AP",
+        "G-sensor": "Built in, supports locking video after collision."
+      },
+      "Interface": {
+        "Power Supply": "Mini USB",
+        "Audio Input": "Build-in microphone",
+        "Audio Output": "Build-in speaker"
+      },
+      "General": {
+        "Operating Temperature": "-20°C to 70°C(-4°F to 158°F)",
+        "Operating humidity": "<95%(No condensation)",
+        "Power Supply": "DC 5V/1.5A",
+        "Power Consumption": "5.5W",
+        "Dimensions": "91mm×58mm×39mm(3.58′′×2.28′′×1.54′′)",
+        "Weight": "≈108.9g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/138557/datasheet/S8_datasheet_20230718.pdf"
+      },
+      {
+        "name": "2023-12-03 #User Manual S8 User Manual Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78347/user_manual/S8_User_Manual.pdf"
+      },
+      {
+        "name": "2023-08-08 #Drawings S8_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78327/drawings/S6_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/s8"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "4-Wire Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series",
+    "series": "Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "5817",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "4-Wire Series",
+      "Door Station",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "140587",
+    "product_name": "VTH2624GW-WP",
+    "product_title": "4-wire Wi-Fi Hybrid Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/indoor-monitor/4-wire-hybrid-indoor-monitor/vth2624gw-wp",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12408/ProductImage/1_0_01_15_12408_527962595_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth2624gw-wp.html",
+  "detail": {
+    "title": "4-wire Wi-Fi Hybrid Indoor Monitor",
+    "model": "VTH2624GW-WP",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH2624GW-WP 4-wire Wi-Fi Hybrid Indoor Monitor Key Points • 7-inch TFT Capacitive Touch Screen, 1024 × 600 • Wi-Fi • H.264 Video Decoding • Connects to Analog and Digital VTOs, and Analog and Digital VTHs • Connects to IPCs • Features Group Call • Supports Recording Videos and Capturing Snapshots Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12408/ProductImage/1_0_01_15_12408_527962595_crop_thumb.png",
+        "alt": "VTH2624GW-WP_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12408/ProductImage/1_0_01_15_12408_527962593_crop_thumb.png",
+        "alt": "VTH2624GW-WP_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12408/ProductImage/1_0_01_15_12408_527962592_crop_thumb.png",
+        "alt": "VTH2624GW-WP_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12408/ProductImage/1_0_01_15_12408_527962594_crop_thumb.png",
+        "alt": "VTH2624GW-WP_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded operating system",
+        "Network Protocol": "UDP; TCP; FTP; IPv4; DNS; RTSP; SSH; SIP; P2P; RTP",
+        "Interoperability": "ONVIF"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7\" TFT",
+        "Screen Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio with VTO (half–duplex); Two-way audio with app (full–duplex)",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz; 16 Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital; Analog",
+        "Information Release": "Receive and view text information released by the management center",
+        "Leave Videos": "Yes (SD card needed)",
+        "DND Mode": "Do not disturb period can be set; Do not disturb mode can be set",
+        "Number of Extensions": "Villa: 9 digital extensions and 2 analog extensions Apartment: 4 digital extensions and 2 analog extensions",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b; 802.11g; 802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Storage": "Micro SD card (up to 64 GB)"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Power Output": "1 (12 V, 200 mA)",
+        "Door Bell": "Yes (use the alarm input port)",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port",
+        "4-wire": "4"
+      },
+      "Performance": {
+        "Casing Material": "PC and ABS"
+      },
+      "General": {
+        "Appearance Color": "White",
+        "Power Supply": "12 VDC, 1 A Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Included: Power cord 485 and Power output ribbon cable alarm ribbon cable bracket",
+        "Product Dimensions": "189.57 mm × 134.57 mm × 26 mm (7.46\" × 5.30\" × 1.02\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Operating Altitude": "0 m–3000 m (0 ft–9842.52 ft)",
+        "Power Consumption": "≤3.8 W (standby), ≤8.9 W (working)",
+        "Gross Weight": "604 g (1.33 lb)",
+        "Storage Temperature": "0 °C to 40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75%",
+        "Anti-corrosion Level": "Basic Protection",
+        "Operating Environment": "Indoor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH2624GW-WP_datasheet_20231026.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Digital Indoor Monitor_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008357/Digital_Indoor_Monitor_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Digital Indoor Monitor_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008357/Dahua_Digital_Indoor_Monitor_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Digital VTH (Version 4.7)_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008357/Digital_VTH_(Version_4.7)_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Digital Indoor Monitor_SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16787/user_manual/Dahua_Digital_Indoor_Monitor_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Dahua Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88312/user_manual/Dahua_Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.PDF"
+      },
+      {
+        "name": "2023-10-19 #Drawings VTH2624GW-WP_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/drawings/VTH2624GW-WP_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2023-10-19 #Drawings VTH2624GW-WP_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/drawings/VTH2624GW-WP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-10-19 #Drawings VTH2624GW-WP_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/drawings/VTH2624GW-WP_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-10-19 #Drawings VTH2624GW-WP_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/drawings/VTH2624GW-WP_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-03-02 #Firmware DH_VTHXXX4_MultiLang_SIP_CEE-Nordic_V4.700.0000000.4.R.260203 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/firmware/DH_VTHXXX4_MultiLang_SIP_CEE-Nordic_V4.700.0000000.4.R.260203.zip"
+      },
+      {
+        "name": "2026-03-02 #Firmware DH_VTHXXX4_MultiLang_SIP_Asia_V4.700.0000000.4.R.260203 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/firmware/DH_VTHXXX4_MultiLang_SIP_Asia_V4.700.0000000.4.R.260203.zip"
+      },
+      {
+        "name": "2026-03-02 #Firmware DH_VTHXXX4_MultiLang_SIP_EMEA_V4.700.0000000.4.R.260203 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/79147/firmware/DH_VTHXXX4_MultiLang_SIP_EMEA_V4.700.0000000.4.R.260203.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/indoor-monitor/4-wire-hybrid-indoor-monitor/vth2624gw-wp"
+  }
+}

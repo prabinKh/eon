@@ -1,0 +1,159 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "PoC Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series",
+    "tab_title": "5MP",
+    "tab_id": "7177",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "PoC Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "60847",
+    "product_name": "HAC-HDW2501T-Z-A-POC",
+    "product_title": "5MP Starlight HDCVI IR Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/5mp/pro/hac-hdw2501t-z-a-poc=s2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210201/0_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw2501t-z-a-poc-s2.html",
+  "detail": {
+    "title": "5MP Starlight HDCVI IR Eyeball Camera",
+    "model": "HAC-HDW2501T-Z-A-POC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW2501T-Z-A-POC 5MP Starlight HDCVI IR Eyeball Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • Motorized Varifocal Lens for Easy Installation and Monitoring • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 60m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • PoC：Power over Coax Technology Simplifies HDCVI System Deployment • 3DNR & 120dB WDR Ensures Clear Details in Strong Backlight Conditions • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210201/0_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210201/1_0_01_12_22003_1099776943_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "2880 (H) × 1620 (V)",
+        "Pixel": "5MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/3 s–1/100,000 s NTSC: 1/4 s–1/100,000 s",
+        "S/N Ratio": "> 65 dB",
+        "Min. Illumination": "0.001 Lux/F1.6; 30IRE; 0 Lux IR on",
+        "Illumination Distance": "60 m (196.9 ft)",
+        "Illuminator On/Off Control": "Auto/manual",
+        "Illuminator Number": "2 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Auto Focus": "Yes",
+        "Mount Type": "φ14",
+        "Focal Length": "2.7 mm–13.5 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 31.4°–113° V: 17.6°–58° D: 36°–138°",
+        "Iris Type": "Fixed",
+        "Close Focus Distance": "0.8 m (2.6 ft)",
+        "DORI distance": "Lens",
+        "2.7mm": "64.0 m (210.0 ft)",
+        "13.5mm": "210.0 m (689.0 ft)"
+      },
+      "Video": {
+        "Frame Rate": "CVI: PAL: 5M@25 fps; 4M@25 fps NTSC: 5M@25 fps; 4M@30 fps AHD: PAL: 4M@25 fps NTSC: 4M@30 fps TVI: PAL: 4M@25 fps NTSC: 4M@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "5M (2880 × 1620); 4M (2560 × 1440); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto(ICR)",
+        "BLC": "BLC/HLC/WDR/HLC-Pro",
+        "WDR": "120 dB",
+        "White Balance": "Auto/manual",
+        "Gain Control": "Auto/manual",
+        "Noise Reduction": "3D NR",
+        "Smart Illumination": "Yes",
+        "Digital Zoom": "4x",
+        "Defog": "Electronic defog",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032:2015, EN 61000-3-2:2014, EN 61000-3-3:2013, EN55024:2010+A1:2015, EN 55035:2017, EN50130-4:2011+A1:2014, EN 62368-1:2014+A11:2017) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Audio Interface": "One channel built-in mic",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "POC (only CVI)/12V±30% DC",
+        "Power Consumption": "Max 8.0W (12V DC, IR on); PoC (AT)"
+      },
+      "Environmental": {
+        "Operating Temperature": "–30°C to +60°C (–22°F to +140°F); < 95% (non-condensation)",
+        "Storage Temperature": "–30°C to +60°C (–22°F to +140°F); < 95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "Φ122.0 mm × 104.8 mm (Φ4.8\" × 4.13\")",
+        "Net Weight": "0.60 kg (1.30 lb)",
+        "Gross Weight": "0.76 kg (1.70 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HDW2501T-Z-A-POC_S2_datasheet_20221205.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83398/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83395/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85548/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2024-01-06 #Drawings HAC-HDW2501T-Z-A-POC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12507/drawings/HAC-HDW1231T-Z-A-DP_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-01-06 #Drawings HAC-HDW2501T-Z-A-POC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/12497/drawings/HAC-HDW1231T-Z-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/poc-series/5mp/pro/hac-hdw2501t-z-a-poc=s2"
+  }
+}

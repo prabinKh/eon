@@ -1,0 +1,204 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras",
+    "series": "SD6",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd6",
+    "tab_title": "SD6",
+    "tab_id": "16307",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI PTZ Cameras",
+      "SD6",
+      "SD6"
+    ]
+  },
+  "card_info": {
+    "product_id": "129017",
+    "product_name": "SD6C3225DB-HC",
+    "product_title": "2MP 25x Starlight IR HDCVI PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd6/sd6c3225db-hc",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14937/ProductImage/1_0_01_07_14937_224452455_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/sd6c3225db-hc.html",
+  "detail": {
+    "title": "2MP 25x Starlight IR HDCVI PTZ Camera",
+    "model": "SD6C3225DB-HC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD6C3225DB-HC 2MP 25x Starlight IR HDCVI PTZ Camera Key Points • High-Quality Imaging with 2MP Resolution • 25× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 200m IR Distance for 24/7 Monitoring • 4 in 1 (4 Signals Switchable TVI/AHD/CVI/CVBS) • Clear Imaging Against Strong Back Light Due to 120 dB True WDR Technology • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14937/ProductImage/1_0_01_07_14937_224452455_crop_thumb.png",
+        "alt": "SD6C3225DB-HC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14937/ProductImage/1_0_01_07_14937_224453781_crop_thumb.png",
+        "alt": "SD6C3225DB-HC_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14937/ProductImage/1_0_01_07_14937_224449110_crop_thumb.png",
+        "alt": "SD6C3225DB-HC_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14937/ProductImage/1_0_01_07_14937_224448977_crop_thumb.png",
+        "alt": "SD6C3225DB-HC_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14937/ProductImage/1_0_01_07_14937_224449111_crop_thumb.png",
+        "alt": "SD6C3225DB-HC_View_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Electronic Shutter Speed": "1/3 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE); 0.0005 lux@F1.6 (B/W, 30 IRE) 0 lux (IR light)",
+        "Illumination Distance": "200 m (656.17 ft) (IR)",
+        "Illuminator On/Off Control": "Zoom Prio; manual",
+        "Illuminator Number": "6 (IR)"
+      },
+      "Lens": {
+        "Focal Length": "4.8 mm–120 mm",
+        "Max. Aperture": "F1.6–F3.5",
+        "Field of View": "H: 60.6°–3.2°; V: 34.1°–1.8°; D: 69.4°–3.7°",
+        "Optical Zoom": "25×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "0.1 m–2 m (0.33 ft–6.56 ft)",
+        "Iris Control": "Auto; manual",
+        "DORI Distance": "Detect",
+        "1655.2 m (5430.45 ft)": "653.8 m (2145.01 ft)"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless; Tilt: –20° to +90°, auto flip 180°",
+        "Manual Control Speed": "Pan: 0.1°/s–240°/s; Tilt: 0.1°/s–120°/s",
+        "Preset Speed": "Pan: 240°/s; Tilt: 120°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Pattern;Preset;Scan;Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)"
+      },
+      "Video": {
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480)",
+        "Video Frame Rate": "1080p (25/30 fps); 720p (25/30/50/60 fps)",
+        "Day/Night": "Yes",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Defog": "Electronic",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Yes",
+        "S/N Ratio": "≥50 dB"
+      },
+      "Function": {
+        "CVI Product Output Mode": "TVI;CVI;CVBS;AHD (CVBS is only used for debugging)"
+      },
+      "Certification": {
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpart B, ANSI C63.4-2014 UL: UL60950-1+CAN/CSA C22.2, No.60950-1"
+      },
+      "Port": {
+        "Analog Output": "1 channel (CVBS/CVI output, BNC)",
+        "RS-485": "1 (baud rate range: 1200 bps–9600 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Alarm Input": "2 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "1",
+        "Alarm Linkage": "Scan; preset; tour; pattern; alarm digital output",
+        "Alarm Event": "Alarm input"
+      },
+      "Power": {
+        "Power Supply": "24 VDC, 2.5 A ± 25%",
+        "Power Consumption": "Basic: 9.5 W Max.: 25 W (PTZ + illuminator)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP66; TVS 6000V lightning proof; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "325.3 mm × Φ202.0 mm (12.81\" × Φ7.95\")",
+        "Net Weight": "4.6 kg (10.14 lb)",
+        "Gross Weight": "6.5 kg (14.33 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD6C3225DB-HC_S0_datasheet_20240116.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82244/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual HDCVI_Speed_Dome&PTZ_Camera_User's_Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007330/202411/HDCVI_Speed_Dome_26PTZ_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007330/202411/Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-05-16 #A&E Document SD6C3225DB-HC_A&E_20260917234118 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70517/a_e_document/1789659727828.docx"
+      },
+      {
+        "name": "2023-10-13 #Drawings SD6C3225DB-HC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/25147/drawings/SD6C3425XB-HNR-A-PV1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-10-13 #Drawings SD6C3225DB-HC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28347/drawings/SD6C3432XB-HNR-AGQ-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-09-26 #Firmware General_SD6C3XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212398/M/General_SD6C3XXX-HC_MAIN_MCU_Internal_NP_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "2023-06-27 #Firmware General_SD6C3XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212400/M/General_SD6C3XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd6/sd6c3225db-hc"
+  }
+}

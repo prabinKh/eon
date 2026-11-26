@@ -1,0 +1,221 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "140667",
+    "product_name": "IPMECS-2234",
+    "product_title": "Dahua 4MP Access ANPR Kit",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/access-anpr-cameras/ipmecs-2234",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15174/ProductImage/1_0_01_09_15174_533703720_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmecs-2234.html",
+  "detail": {
+    "title": "Dahua 4MP Access ANPR Kit",
+    "model": "IPMECS-2234",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMECS-2234 Dahua 4MP Access ANPR Kit Key Points •120+ countries license plate recognition with high accuracy ≥ 98% (EU) & 96% (others) • Integrated LED Display: Real-Time ID & Data Visualization. • Safer & Secure: Instantly spot unauthorized vehicles and identify critical details like vehicle brand, color, license status. • See better: Intelligent defogging technology ensures capture of over 99% of vehicles. • Auto-Sync Parking Access: Unified I/O control for barriers & electric gates. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15174/ProductImage/1_0_01_09_15174_533703720_crop_thumb.png",
+        "alt": "IPMECS-2234_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15174/ProductImage/1_0_01_09_15174_533703721_crop_thumb.png",
+        "alt": "IPMECS-2234_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15174/ProductImage/1_0_01_09_15174_533703718_crop_thumb.png",
+        "alt": "IPMECS-2234_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Image Resolution": "2688 (H) × 1520 (V) (OSD black edge is not included)",
+        "Electronic Shutter Speed": "Auto/Manual 1/25 s–1/10,000 s",
+        "Max. Detection Speed": "60 km/h",
+        "Min. Illumination": "0.001 lux@F1.4 (Color, 30 IRE) 0.0002 lux@F1.4 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "ROM": "4 GB",
+        "RAM": "2 GB",
+        "S/N Ratio": ">56 dB",
+        "Scanning System": "Progressive scanning",
+        "Focal Length": "2.7 mm–12 mm",
+        "Field of View": "H: 98.1°–46.1°; V: 54.0°–26.0°; D: 114.6°–52.8°",
+        "Focus Control": "Auto, area focus, manual",
+        "Number of Lens": "1",
+        "Lens Type": "Motorized vari-focal",
+        "Max. Aperture": "1.6",
+        "Iris Control": "Auto",
+        "DORI Distance": "Lens",
+        "W": "60.4 m (198.16 ft)",
+        "T": "128.7 m (422.24 ft)",
+        "Illuminator Number": "3 (White LED illuminator with IR light)",
+        "Illuminator Color Temperature": "3000 K",
+        "Illuminator Brightness Adjustment": "Auto, manual",
+        "Illuminator On/Off Control": "Auto, manual",
+        "Illumination Distance": "8 m (26.25 ft)",
+        "Smart Illumination": "According to the brightness of the environment, the camera automatically adjusts the intensity of its light to reveal the details of moving targets. Devices with warm light can automatically adjust the light intensity according to the time.",
+        "Infrared Wavelength": "850 nm",
+        "Video Resolution": "Main stream: 4MP (2688 × 1520)/1080p (1920 × 1080)/720p (1280 × 720) Sub stream: 960H (960 × 576)/D1 (704 × 576)",
+        "Video Frame Rate": "PAL: Main stream (2688 × 1520@25 fps, 1920 ×1080@25 fps, 1280 × 720@25 fps), sub stream (960 ×576@25 fps, 704 × 576@25 fps)",
+        "Video Compression": "H.264H; H.264B; H.265; MJPEG; H.264M",
+        "Video Bit Rate": "H.264B: 2,179 kbps–13,074 kbps; H.264M: 2,179 kbps–13,074 kbps; H.264H: 2,179 kbps–13,074 kbps; H.265: 2,179 kbps–13,074 kbps; MJPEG: 6,537 kbps–39,223 kbps",
+        "Scene Self-adaptation (SSA)": "Yes",
+        "Gain Control": "Manual; Auto",
+        "Noise Reduction": "3D NR",
+        "Region of Interest (RoI)": "Yes, 3",
+        "Image Tampering Prevention": "Yes. Watermarks can be added to videos and images. The watermark can also be verified.",
+        "Privacy Masking": "Yes",
+        "Bit Rate Control": "CBR/VBR",
+        "Network Protocol": "HTTP; Https; 802.1x; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; IPv4/v6; NTP; SFTP; DDNS; SNMP; PPPoE",
+        "API": "Yes",
+        "SDK": "Yes",
+        "Interoperability": "ONVIF (Profile S/Profile T/Profile M); CGI; ITSAPI; P2P",
+        "Management Software": "DSS Express; DSS Pro",
+        "Security": "Username and password; MAC address; HTTPS; IEEE 802.1x; network access control",
+        "Browser": "Plug in: IE 9, 10, 11. Chrome 52 and earlier versions Firefox 42 and earlier versions No plug in: Chrome 92 and later versions",
+        "Image Encoding Format": "JPEG",
+        "Image Setting": "Brightness; contrast; saturation; gamma; sharpness; gain; white balance",
+        "Day/Night": "IR filter, support three modes: color, B/W, auto",
+        "WDR": "140 dB",
+        "HLC": "Yes",
+        "BLC": "Yes",
+        "White Balance": "Auto; Regional Custom; Manual; Outdoor; Natural; Street Lamp",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "OSD Overlay": "Supports overlay of time, address (position of channel), lane (number/direction), plate (number and color), vehicle (color and type)",
+        "Audio Port": "Yes",
+        "Audio Input": "1 channel (terminal)",
+        "Audio Output": "1 channel (terminal)",
+        "Network Port": "RJ-45 (10/100 Mbps Ethernet port)",
+        "Storage": "Built-in one TF card port; TF card (up to 256 GB)",
+        "Alarm Input": "3 channel, optocoupler input (wet node on-off value: 5 V)",
+        "Alarm Output": "2 channel, relay output (2 A, 30 VDC/0.5 A, 125 VAC), which can connect to devices such as barriers",
+        "RS-485": "2 channel",
+        "Reset Button": "Yes",
+        "Number of Memory Slots": "1",
+        "Maximum Number of Passed Vehicles": "10000",
+        "Max. Number of Connections": "10",
+        "Blocklist/Allowlist": "Allowlist: 110,000 Blocklist: 110,000",
+        "Basic Event": "Alarms for events of no storage card, storage card no space, storage card error, network disconnection, IP conflict, and illegal access.",
+        "Alarm Linkage": "Upload to FTP/Memory card, notify monitoring center, send e-mail, trigger alert output.",
+        "Capture Distance": "2.5 m–6 m (8.20 ft–19.69 ft)",
+        "Detected Width": "3 m–4 m (9.84 ft–13.12 ft)",
+        "Automatic Network Replenishment (ANR)": "Yes, platform/FTP",
+        "Screen Bad Pixel Detection": "Yes",
+        "AI Recognition": "Recognizes vehicle types, vehicle signs, vehicle color, vehicle plate, vehicle without plate.",
+        "Video Metadata": "Displays the intelligent frame, plate and vehicle paths.",
+        "Vehicle Brand": "Recognizes 147 vehicle logos.",
+        "Vehicle Color": "Recognizes 12 colors: Grey, black, white, silver, blue, green, purple, red, orange, pink, brown, and yellow.",
+        "Vehicle Type Recognition": "Recognizes 10 vehicle types: Large Bus, Heavy Truck, Medium Truck, Sedan, Van, Light Truck, Medium Bus, SUV, MPV, Pickup",
+        "Country and Region Supported by ANPR": "Baseline support: 10 options (87 countries) General: Supports universal characters GCC (U.A.E., Saudi Arabia, Morocco, Oman, Iraq, Egypt, Jordan, Qatar, Kuwait, Bahrain, Lebanon) South Africa: South Africa, Tanzania, Mozambique, Zambia, Uganda, Equatorial Guinea, Mauritius, Kenya South Asia Region (India Region) : India, Maldives Europe (Netherlands, France, Germany, Britain, Italy, Poland, Belgium, Bulgaria, Serbia, Slovakia, Spain, Denmark, Turkey, Israel, Czech Republic, Bosnia and Herzegovina, Switzerland, Austria, Hungary, Romania, Lithuania, Latvia, Sweden, Estonia, Portugal, Greece, Slovenia, Luxembourg, Palestine, Lebanon, Ireland, Finland, Norway, Croatia, North Macedonia) South American Economies Collection (Uruguay, Paraguay, Brazil, Argentina, Chile, Colombia, Peru, Ecuador, Guyana, Bolivia ) Mexico and other countries: Mexico, Costa Rica, Curacao, Guatemala Eurasian Collection (Russia, Ukraine, Kazakhstan, Kyrgyzstan, Uzbekistan, Tajikistan, Moldova, Lithuania, Latvia, Georgia, Azerbaijan, Turkmenistan) North America (United States, Canada) North Africa Region Collection: Tunisia, Morocco, Algeria, Libya The baseline algorithm is supported for the following 19 countries: Republic of Korea, Indonesia, Singapore, Cambodia, Australia, Thailand, Bassett, Nigeria, Pakistan, Viet Nam, Mongolia, Bangladesh, Myanmar, Philippines, Laos, Iraq, Japan, Maldives, Nepal.",
+        "Capture Rate": "In the recommended installation and lighting condition, the vehicle capture rate ≥ 99%",
+        "Recognition Rate": "In the recommended installation and lighting condition, the recognition rate for positive and departing vehicles≥ 96%; the recognition rate for European vehicle plates ≥ 98%",
+        "Power Supply": "100–240 VAC",
+        "Power Consumption": "Max: 70 W",
+        "Defog (Glass Heating)": "Automatic defog",
+        "Protection": "IP54",
+        "Anti-corrosion Level": "Basic Protection",
+        "Material": "Metal + plastic",
+        "Product Dimensions": "380.9 mm × 320.0 mm × 1423.9 mm (15.00\" × 12.60\" × 56.06”)",
+        "Packaging Dimensions": "912.0 mm × 547.0 mm × 232.0 mm (35.91\" × 21.54\" ×9.13\")",
+        "Net Weight": "14.03 kg (30.93 lb)",
+        "Gross Weight": "17.34 kg (38.23 lb)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Certifications": "CE UKCA",
+        "Display Screen Type": "LED",
+        "Display Screen Dimensions": "256.0 mm × 256.0 mm (10.08″ × 10.08″)",
+        "Display Color": "RGB full color",
+        "Pixels Configuration": "p4 distance",
+        "Screen Resolution": "64 (H) × 64 (V)",
+        "Display Screen Lifespan": "100,000 hrs",
+        "Display Screen Brightness": "≥1500cd/m2"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-IPMECS-2234-IZ_datasheet_20251111.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Smart ANPR Camera_Web 5.0 Operation Manual_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/user_manual/Smart_ANPR_Camera_Web_5.0_Operation_Manual_V1.1.0.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Smart ANPR Camera_Installation Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008813/3447015/Smart_ANPR_Camera_Installation_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Smart ANPR Camera (With Poles)_Installation Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008813/3447016/Smart_ANPR_Camera_(With_Poles)_Installation_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Access ANPR Kit_Installation Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008813/3447014/Access_ANPR_Kit_Installation_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-11-11 #User Manual Dahua Smart ANPR Camera_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008813/3447011/Dahua_Smart_ANPR_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-12-26 #A&E Document IPMECS-2234_A&E_20260901205145 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78737/a_e_document/1788267160239.docx"
+      },
+      {
+        "name": "2024-01-05 #Drawings IPMECS-2234_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78737/drawings/IPMECS-2234_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-05 #Drawings IPMECS-2234_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78737/drawings/IPMECS-2234_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-10-17 #Firmware DH_ITC4XX-PX4D(PL8I)(PW9H)_MultiLang_PN_V5.004.0000000.1.R.250917 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57687/firmware/DH_ITC4XX-PX4D(PL8I)(PW9H)_MultiLang_PN_V5.004.0000000.1.R.250917.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/access-anpr-cameras/ipmecs-2234"
+  }
+}

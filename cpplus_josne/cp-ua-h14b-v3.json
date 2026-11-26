@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Housing",
+    "category_url": "https://cpplusworld.com/products/housing",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/housing",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "89",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Housing",
+      "CP-UA-H14B-V3"
+    ]
+  },
+  "card_info": {
+    "product_id": "2281",
+    "product_name": "CP-UA-H14B-V3",
+    "product_title": "CP-UA-H14B-V3",
+    "product_url": "https://cpplusworld.com/cp-ua-h14b-v3",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/83693e81-8c54-4b94-bbcc-dacda566f4d0.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-h14b-v3.html",
+  "detail": {
+    "title": "CP-UA-H14B-V3",
+    "model": "CP-UA-H14B-V3",
+    "brand": "CP Plus",
+    "overview": "14” Vandal Proof Camera Housing",
+    "features": [
+      "IP67, IK10,Housing",
+      "Water-proof coating film",
+      "Indoor/Outdoor Housing",
+      "Built-in heating and cooling system"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/83693e81-8c54-4b94-bbcc-dacda566f4d0.png",
+        "alt": "CP-UA-H14B-V3 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/743a15d5-c356-40a9-a85d-231089f0a64f.png",
+        "alt": "CP-UA-H14B-V3 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Auto Temperature Control": "Heating mode: ON: 5±5 °C/OFF: 15±5 °C <BR>Cooling mode: ON: 37±5 °C/OFF: 20±5 °C",
+        "Anti-corrosion": "Basic Protection",
+        "DIP Switch": "Support",
+        "Surge Protection Grade": "Common mode: 4 kV <BR> Different mode: 2 kV",
+        "Alarm Input": "2, used to control the IR light and wiper",
+        "Alarm Output": "2, used to control IR feedback and washer modules",
+        "RS-485": "1, used to control the IR light and wiper",
+        "Weatherproof Standard": "IP67, IK10",
+        "Internal Usable Space": "280 mm × 115 mm × 85 mm",
+        "Screw Thread Type": "G1/2",
+        "Appearance Color": "White top cover and black housing",
+        "Window Dimension": "Φ59.4 mm",
+        "Power Consumption": "15.5 W (without camera); Heater: 10.9 W; Fan: 0.2 W",
+        "Power Source": "24 VDC/24 VAC/36 VDC (the device requires an external power supply)",
+        "Power Supply for Camera": "12 VDC (12 VDC port that outputs power and provides power for the internal camera)",
+        "Operating Temperature": "–40°C to +60°C (–40°F to +140°F)",
+        "Operating Humidity": "<90% (RH)",
+        "Storage Temperature": "–40°C to +60°C (–40°F to +140°F)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Casing": "The top cover is made of plastic PC material and the housing is built of die-cast aluminium",
+        "Dimension": "404.3 mm × 163.8 mm × 131.8 mm",
+        "Weight": "2400g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-H14B-V3 .pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-h14b-v3"
+  }
+}

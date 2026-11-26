@@ -1,0 +1,180 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "EVS Series",
+    "tab_id": "569",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "EVS Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "155109",
+    "product_name": "EVS7248S",
+    "product_title": "Dahua 768CH 48-bay 6U Embedded Video Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7248s",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/image/1_0_01_05_10211_1989564797_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/evs7248s.html",
+  "detail": {
+    "title": "Dahua 768CH 48-bay 6U Embedded Video Storage",
+    "model": "EVS7248S",
+    "brand": "Dahua",
+    "overview": "Favourite EVS7248S Dahua 768CH 48-bay 6U Embedded Video Storage Key Points • Max 768-ch IP camera inputs • Max 1536/1536/1536 Mbps incoming/recording/outgoing bandwidth • 48 bays, SATA, Hot-Swap • Supports RAID 0/1/5/6/10/50/60, global and private hot standby • Supports video stream/picture direct storage mode and IPSAN storage mode • Supports N+M cluster • Modular and drawer-like design • 1+1 redundant 80PLUS platinum power Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/image/1_0_01_05_10211_1989564797_crop_thumb.PNG",
+        "alt": "EVS7248S_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/image/1_0_01_05_10211_1989564796_crop_thumb.PNG",
+        "alt": "EVS7248S_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/image/1_0_01_05_10211_1989628609_crop_thumb.PNG",
+        "alt": "EVS7248S_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/image/1_0_01_05_10211_2024463905_crop_thumb.PNG",
+        "alt": "EVS7248S_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Operating Interface": {},
+      "Controller": {},
+      "Cache": {},
+      "AI by Camera": {},
+      "Thermal": {},
+      "People Counting": {},
+      "Bullet-PTZ Smart Track": {},
+      "Fisheye Dewarp": {},
+      "High Toss": {},
+      "Cluster": {},
+      "Access Channel": {},
+      "Resolution": {},
+      "Multi-screen Display": {},
+      "Third-party Camera Access": {},
+      "Video Compression": {},
+      "Audio Compression": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Network Mode": {},
+      "Multi-channel Playback": {},
+      "Record Mode": {},
+      "Storage Method": {},
+      "Backup Method": {},
+      "Playback Function": {},
+      "Video Direct Storage (Private Protocol)": {},
+      "Video Direct Storage (Onvif)": {},
+      "Video Direct Storage (Auto Register)": {},
+      "Video Direct Storage (International Protocol)": {},
+      "Picture Direct Storage": {},
+      "Disk Group": {},
+      "Network Disk": {},
+      "Network Storage": {},
+      "RAID": {},
+      "Record Management": {},
+      "Storage Pool": {},
+      "Disk Quota": {},
+      "IPSAN Performance": {},
+      "General Alarm": {},
+      "Anomaly Alarm": {},
+      "Alarm Linkage": {},
+      "Disk Interface": {},
+      "eSATA": {},
+      "RS-232": {},
+      "USB": {},
+      "HDMI": {},
+      "VGA": {},
+      "Network Port": {},
+      "Power": {},
+      "Network Port Extension": {},
+      "Disk Bay": {},
+      "Form Factor": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Fan": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Installation": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/datasheet/DHI-EVS7248S_S0_datasheet_20260806_English.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual EVS HDD_Installation Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/EVS_HDD_Installation_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual Dahua Embedded Video Storage_User Manual_V5.3.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/Dahua_Embedded_Video_Storage_User_Manual_V5.3.6.pdf"
+      },
+      {
+        "name": "2025-08-05 #A&E Document EVS7248S_A&E_20260914200121 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/a_e_document/1789387843083.docx"
+      },
+      {
+        "name": "2026-04-21 #Drawings EVS7248S_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/drawings/1_0_01_05_10211_940648686.pdf"
+      },
+      {
+        "name": "2025-08-28 #Drawings EVS7248S_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/drawings/1_0_01_05_10211_835548616.pdf"
+      },
+      {
+        "name": "2025-08-28 #Drawings EVS7248S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87840/drawings/1_0_01_05_10211_835548615.pdf"
+      },
+      {
+        "name": "2026-06-09 #Firmware DH_EVS72(52)XX_MultiLang_V5.002.0000001.2.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87838/firmware/DH_EVS72(52)XX_MultiLang_V5.002.0000001.2.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7248s"
+  }
+}

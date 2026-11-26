@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "4 Ch.",
+    "category_url": "https://cpplusworld.com/products/4-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/4-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "28",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "4 Ch.",
+      "CP-UNR-4K2041-4PG"
+    ]
+  },
+  "card_info": {
+    "product_id": "1567",
+    "product_name": "CP-UNR-4K2041-4PG",
+    "product_title": "CP-UNR-4K2041-4PG",
+    "product_url": "https://cpplusworld.com/cp-unr-4k2041-4pg",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f5604af6-b160-461a-aee8-f098ec398d8e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k2041-4pg.html",
+  "detail": {
+    "title": "CP-UNR-4K2041-4PG",
+    "model": "CP-UNR-4K2041-4PG",
+    "brand": "CP Plus",
+    "overview": "4 Ch. 4G Network Video Recorder",
+    "features": [
+      "Support up to 4Ch. IP Camera Input",
+      "Instastream, H.265, H.264+, H.264, MJPEG",
+      "Support 4G",
+      "Max. 80/80/60 Mbps Incoming/ Recording/ Outgoing bandwidth",
+      "AI by NVR: Support 4 Channel IMD",
+      "AI by Camera: Support perimeter protection and IMD",
+      "Support one-click arming and disarming",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f5604af6-b160-461a-aee8-f098ec398d8e.png",
+        "alt": "CP-UNR-4K2041-4PG - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/0a63e733-a618-442c-b7f8-0e6806425f62.png",
+        "alt": "CP-UNR-4K2041-4PG - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "4 Channels",
+        "Operating System": "Embedded Linux",
+        "User Interface": "Web, Local GUI",
+        "AI by Camera": "Perimeter protection, IMD",
+        "AI by NVR": "IMD",
+        "Perimeter Performance of AI by Camera": "Human and vehicle detection on all channels, supporting up to 4 targets per second",
+        "Video Output": "1 HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720;                                                                         1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict,  MAC conflict), Video loss, Video tampering, Camera offline",
+        "IMD+ by NVR": "4 Channels: Secondary filtering for human and motor vehicle, Reducing false alarms caused by  leaves, Rain and lighting condition change",
+        "IMD+ by Camera": "Human and vehicle detection on all channels, supporting up to 8 targets per second",
+        "Resolution": "12MP, 8MP, 6MP, 5MP, 4MP, 3MP, 2MP, 720p, 960p, D1, CIF, QCIF",
+        "Network Bandwidth": "80 Mbps incoming, 80 Mbps recording and 60 Mbps outgoing",
+        "Decoding Capability": "AI disabled: 1 Channel 12MP@30 fps, 1 Channel 8MP@30 fps, 2 Channel 6MP@30 fps,                2 Channel 5MP@30 fps, 3 Channel 4MP@30 fps, 6 Channel 2MP@30 fps                                              AI enabled: 1 Channel 8MP@30 fps, 1 Channel 6MP@30 fps, 1 Channel 5MP@30 fps,                            2 Channel 4MP@30 fps, 4 Channel 2MP@30 fps",
+        "Video Display Split": "1/4",
+        "Record Mode": "General, Motion detection, Intelligent, Alarm",
+        "Video Compression": "Instastream, H.265, H.264+, H.264, MJPEG",
+        "Hard Disk": "1 SATA port. Each disk can contain up to 20 TB. this limit varies depending on the environment  temperature",
+        "General Alarm": "Motion detection, Camera external alarm, PIR alarm",
+        "4G": "Support",
+        "Intelligent Alarm": "Perimeter protection, IMD+",
+        "Alarm Linkage": "Recording, Snapshot, Buzzer, Log, Preset, Email, Tour",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Audio Input": "1 Channel RCA",
+        "Audio Output": "1 Channel RCA",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, UDP, NTP, DHCP, DNS, SMTP, IP Filter, DDNS, InstaOn, Auto  connect, ONVIF (Profile T, Profile S, Profile G), CGI, SDK",
+        "PoE Ports": "4 Ports, 10/100 Mbps, IEEE 802.3 af/at",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Multi-channel Playback": "Up to 4 Channels",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "Backup Mode": "USB device and network",
+        "Interface Ports": "2 USB (1 front USB 2.0 port, 1 rear USB 2.0 port), 1 HDMI, 1 VGA",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "53V DC, 1.22A",
+        "Power Consumption": "Total output of NVR is <10W (without HDD) Total output power of PoE is 36W, the maximum  output power of a single port is 25.5W",
+        "Operating Temperature": "–10°C to +55°C (14°F to +131°F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Storage Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Dimension": "260 mm × 232.5 mm × 47.6 mm",
+        "Weight": "850g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K2041-4PG.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k2041-4pg"
+  }
+}

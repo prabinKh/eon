@@ -1,0 +1,133 @@
+{
+  "hierarchy": {
+    "category": "Body Worn camera",
+    "category_url": "https://cpplusworld.com/products/body-worn-camera",
+    "subcategory": "Body Worn Solutions",
+    "subcategory_url": "https://cpplusworld.com/products/Body Worn Solutions/body-worn-camera",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Body Worn Solutions",
+    "tab_id": "55",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Body Worn Solutions",
+      "Body Worn camera",
+      "CP-EBK-1073-K"
+    ]
+  },
+  "card_info": {
+    "product_id": "2266",
+    "product_name": "CP-EBK-1073-K",
+    "product_title": "CP-EBK-1073-K",
+    "product_url": "https://cpplusworld.com/cp-ebk-1073-k",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/3a044996-72e8-4577-bd21-7094ed458e9d.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ebk-1073-k.html",
+  "detail": {
+    "title": "CP-EBK-1073-K",
+    "model": "CP-EBK-1073-K",
+    "brand": "CP Plus",
+    "overview": "2K Body Worn Camera Kit",
+    "features": [
+      "Support 2K resolution for recording",
+      "2.4 inch color touch screen",
+      "H.265, H.264, MP4, TVI Video compression",
+      "Support Built-in 4G for live video transmission",
+      "Support Built-in Wi-Fi for uploading",
+      "Support Built-in GPS for live tracking",
+      "Support optional G-sensor and Gyro",
+      "Support front and back two cameras",
+      "Hot-swappable 3050mAh lithium battery",
+      "Up to 256GB, standard is 128GB (Built-in Memory)",
+      "Support network PTT function"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3a044996-72e8-4577-bd21-7094ed458e9d.png",
+        "alt": "CP-EBK-1073-K - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/db649499-559f-41a2-9046-0232e3a25387.png",
+        "alt": "CP-EBK-1073-K - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Operating System": "Android 12",
+        "Screen": "2.4-inch colour touch screen",
+        "Image Sensor": "CMOS",
+        "Angle of View": "Horizontal: 110°, Diagonal: 140°",
+        "Video Compression": "H.265, H.264, MP4, TVI",
+        "Video format": "MP4",
+        "Video clip": "Auto, 1min, 3min, 5min, 10min, 20min, 30min",
+        "Picture format": "JPEG",
+        "Lens": "4MP Lens",
+        "white Light": "Manual",
+        "Resolution": "2K@30fps, 2MP@30fps, 1M@30fps, 480P@30fps",
+        "Live streaming resolution": "2K, 2M, 1M, 480P",
+        "Pre-recording": "Up to 60 seconds",
+        "Post-recording": "OFF, 10s, 30s, 1min, 2min, 5min, 10min, 30min",
+        "Burst interval": "2s, 3s, 5s, 10s, 20s, 30s",
+        "Bluetooth": "BT5.0, for wireless earphone",
+        "Indicator Light 1": "Video recording: red light is flashing, Audio recording: yellow light is flashing, Standby: green  light is always on, Live streaming: blue light is flashing",
+        "External Port": "Support Type-C USB 3.0",
+        "Protocol": "Support ONVIF, RTMP, RTSP,FTP, WebRTC and other streaming media protocols and SIP      protocol.",
+        "Wi-Fi": "2.4/5GHz , 802.11 a/b/g/n/ac",
+        "IR": "IR Distance Up to 10 Mtr.",
+        "IR Control": "Auto, Manual",
+        "Drop resistance": "2 Mtr.",
+        "Memory": "Built-in memory 32GB to 512GB",
+        "Snapshot": "52 Megapixel interpolation maximum",
+        "4G Network Band": "TDD-LTE Band 38/39/40/41 FDD-LTE Band 1/2/3/4/5/7/8/20/26 GSM  850/900/1800/1900  WCDMA Band 1/2/5/8 TD-SCDMA Band 34/Band39",
+        "Battery": "3050mAh",
+        "Battery backup": "About 48 hours",
+        "Working hours": "720P Continues working 16 Hours (8 Hrs. per Battery)",
+        "Charging time": "Less than 3 hours",
+        "Positioning": "GPS / GLONASS",
+        "Storage": "Up to 256GB, standard is 128GB (Built-in Memory)",
+        "Weatherproof Standard": "IP67",
+        "Operating Temperature": "-30°C ~+60°C",
+        "Dimension": "91mm x 58mm x 28mm",
+        "Weight": "160g",
+        "Input Power": "Type- C, DC 5V, 2A",
+        "Output Power": "DC 5V, 2A",
+        "Standby Power": "<0.5W",
+        "Recorder Screen": "Charging status, Data transfer status",
+        "Recorder Indicator": "Charging red light always on, Full charged",
+        "Docking Indicator": "Energized white light always on",
+        "Charge Efficiency": "≥95%",
+        "Operating  Temperature": "-10°C~55°C",
+        "Operating Humidity": "≤90% Non Condensing",
+        "Storage Temperature": "-20°C~60°C",
+        "Storage Humidity": "≤80% Non Condensing",
+        "Relative Humidity": "5%~95%",
+        "Material": "ABS fire retardant",
+        "Dimensions": "85mm x 62mm x 40mm",
+        "Weight.": "75g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-EBK-1073-K.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ebk-1073-k"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H950 USB RGB Wired Gaming Headset"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421352227",
+    "product_name": "H950 USB RGB Wired Gaming Headset",
+    "product_title": "H950 USB RGB Wired Gaming Headset",
+    "product_url": "https://antesports.com/products/ant-esports-h950-7-1-surround-usb-rgb-gaming-headset-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_a9283692-49ba-4977-ad72-dd5e5333d03f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-h950-7-1-surround-usb-rgb-gaming-headset-black.html",
+  "detail": {
+    "title": "H950 USB RGB Wired Gaming Headset",
+    "model": "H950 USB RGB Wired Gaming Headset",
+    "brand": "Ant Esports",
+    "overview": "Dominate every match with the Ant Esports H950 7.1 Pro Gaming Headset, engineered to deliver immersive virtual surround sound, crystal-clear communication, and all-day comfort. Equipped with high-performance 50mm drivers, 7.1 virtual surround sound, and a flexible condenser microphone, the H950 lets you hear every footstep, explosion, and in-game detail with exceptional accuracy.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_a9283692-49ba-4977-ad72-dd5e5333d03f.png",
+        "alt": "H950 USB RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_23ac44fb-a095-497d-b63b-d2e6088d32af.png",
+        "alt": "H950 USB RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_88901baa-4989-4eae-adc6-8333d34addcb.png",
+        "alt": "H950 USB RGB Wired Gaming Headset - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired",
+        "Driver Size": "50mm",
+        "Sound Enhancement": "7.1 Surround",
+        "Microphone Type": "Flexible, Condenser",
+        "Wire Length": "1.8m",
+        "Lighting Type": "Auto RGB",
+        "Connector Type": "1 x USB-A (Audio & RGB)",
+        "Compatibility": "Windows, Mac, XBOX, PS5",
+        "CONNECTIVITY": "Wired",
+        "DRIVER SIZE": "50mm",
+        "SOUND ENHANCEMENT": "7.1 Surround",
+        "MICROPHONE TYPE": "Flexible, Condenser",
+        "WIRE LENGTH": "1.8m",
+        "LIGHTING TYPE": "Auto RGB",
+        "CONNECTOR TYPE": "1 x USB-A (Audio & RGB)",
+        "COMPATIBILITY": "Windows, Mac, XBOX, PS5",
+        "Offer Price (INR)": "₹999.00",
+        "MRP (INR)": "₹2,999.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-h950-7-1-surround-usb-rgb-gaming-headset-black"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "8986290290906",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC 278A | Laser Toner Cartridge (up to 2200-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8986290290906",
+    "product_name": "Intex LTC 278A | Laser Toner Cartridge (up to 2200-page yield)",
+    "product_title": "Intex LTC 278A | Laser Toner Cartridge (up to 2200-page yield)",
+    "product_url": "https://www.intex.in/products/ltc-278a-laser-toner-cartridge",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-278A.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 999.0,
+      "display": "₹999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/ltc-278a-laser-toner-cartridge.html",
+  "detail": {
+    "title": "Intex LTC 278A | Laser Toner Cartridge (up to 2200-page yield)",
+    "model": "278A",
+    "brand": "Intex",
+    "overview": "Designed for smooth, everyday printing, the Intex LTC 278A offers high-efficiency performance with an excellent page yield of up to 2200 prints. This cartridge ensures precise output with deep blacks and clean lines, ideal for text-heavy documents. Equipped with a durable drum unit, it supports long-term use while maintaining print clarity. Best suited for HP LaserJet and Canon IC printer models, this toner is a value-driven solution for both professional and personal printing needs.",
+    "features": [
+      "Model: LTC 278A",
+      "Type: Laser Toner Cartridge",
+      "Page Yield: Up to 2200 pages",
+      "High-Quality Drum for long-lasting use",
+      "Superior Monochrome Print Quality",
+      "Compatible with HP and Canon printers"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-278A.jpg",
+        "alt": "Intex LTC 278A | Laser Toner Cartridge (up to 2200-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: LTC 278A",
+        "Feature 2": "Type: Laser Toner Cartridge",
+        "Feature 3": "Page Yield: Up to 2200 pages",
+        "Feature 4": "High-Quality Drum for long-lasting use",
+        "Feature 5": "Superior Monochrome Print Quality",
+        "Feature 6": "Compatible with HP and Canon printers"
+      },
+      "General": {
+        "Model": "278A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_CARTRIDGE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/ltc-278a-laser-toner-cartridge"
+  }
+}

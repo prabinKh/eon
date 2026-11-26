@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Software",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/software",
+    "series": "Software",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/software",
+    "tab_title": "Software",
+    "tab_id": "17397",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Software",
+      "Software",
+      "Software"
+    ]
+  },
+  "card_info": {
+    "product_id": "139277",
+    "product_name": "WIS",
+    "product_title": "Waythcan Intelligent System",
+    "product_url": "https://www.dahuasecurity.com/ph/products/security-screening-&-esl-&-eas/software/wis",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231219/wisicon_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/wis.html",
+  "detail": {
+    "title": "Waythcan Intelligent System",
+    "model": "WIS",
+    "brand": "Dahua",
+    "overview": "Favourite WIS Waythcan Intelligent System Key Points Lightweight Client Software, suit Windows OS Used in security screening scenarios designed to manage devices such as IP cameras, recorders (NVRs, XVRs), Walk through metal detector (WTMD), Security screening machine and other device. It provides multiple functionalities, including live view, playback, receiving of security screening events and alarms and security details. Free for 4 WTMDs and 2 Security screening machines Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231219/wisicon_thumb.png",
+        "alt": "wis.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/2.9.02.01.10853/ProductImage/1041361555918_thumb.jpg",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/2.9.02.01.10853/ProductImage/1041435107176_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System Requirements": {
+        "Configuration Requirements": "CPU: intel® Core™i5–6500 CPU@3.20GHz Memory: 8 GB HDD: 256 GB",
+        "System": "Windows 7 (64 bit), Windows 8 (64 bit), Windows 10 (64 bit)",
+        "Resolution": "1,280 × 800 or higher"
+      },
+      "Specifications": {
+        "Language": "English",
+        "Devices": "2 × X-ray machines + 4 × metal detectors",
+        "Video Channels": "64",
+        "Storage Time of Image and Video": "62 days by default (supports up to 365 days)",
+        "Storage Time of Data in Database": "62 days by default (supports up to 365 days)",
+        "Device Type": "X-Ray Machine, Metal Detector, IPC",
+        "Decode Type": "2 (Soft Decode/Hardware Decode)",
+        "Skin": "2 (Grayish White/Dusty Blue)"
+      },
+      "Video Monitoring": {
+        "Resolution": "4 MP; 3 MP; 1080p; 720p",
+        "Decoding Capability": "64-channel D1(720 × 576)(CPU: intel® Core™i5–6500 CPU@3.20GHz; Memory: 8 GB ; HDD: 256 GB)",
+        "Multi-screen Display": "Arbitrary split, up to 64–channel preview"
+      },
+      "Metal Detector": {
+        "Zone": "Supports 1–33 zones",
+        "Max. Number of Live View Devices": "4",
+        "Alarm Processing Capacity": "4 alarms/per device/second"
+      },
+      "X-Ray Machine": {
+        "View": "Supports single-view and dual-view, single-energy and dual-energy.",
+        "Tunnel Dimension": "500 mm × 300 mm to 1400 mm × 1000 mm (19.69\" × 11.81\" to 55.12\" × 39.37\" )",
+        "Structured Information": "Display of AI recognition item information",
+        "Zoom Rate": "20%-6400%"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/WIS_datasheet_20221110.pdf"
+      },
+      {
+        "name": "2023-12-20 #Firmware 1439702_General_WIS_Eng_Win64-Install_IS_V1.001.0000000.0.R.220829 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78377/firmware/1439702_General_WIS_Eng_Win64-Install_IS_V1.001.0000000.0.R.220829.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/security-screening-&-esl-&-eas/software/wis"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "Turbine 20 RGB Laptop Cooling Pad"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032898851",
+    "product_name": "Turbine 20 RGB Laptop Cooling Pad",
+    "product_title": "Turbine 20 RGB Laptop Cooling Pad",
+    "product_url": "https://antesports.com/products/turbine-20-rgb-laptop-cooling-pad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_6f9d7adc-90af-4d6b-b43e-ee8652f76af9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/turbine-20-rgb-laptop-cooling-pad.html",
+  "detail": {
+    "title": "Turbine 20 RGB Laptop Cooling Pad",
+    "model": "AEPP0314",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Turbine 20 is a compact RGB laptop cooling pad built with dual high-speed 65 x 15mm fans capable of reaching up to 3000 RPM, keeping temperatures steady during gaming, streaming and heavy workloads on laptops up to 17 inches. Ten RGB lighting modes let you personalize the visual look of your setup, while an adjustable height stand and fan speed control give you flexibility over both comfort and cooling intensity. A built-in LED display keeps current settings visible at a glance, and both Type-C and USB ports add versatile connectivity for accessories. Quiet operation ensures the extra cooling power doesn't come with distracting fan noise.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_6f9d7adc-90af-4d6b-b43e-ee8652f76af9.png",
+        "alt": "Turbine 20 RGB Laptop Cooling Pad - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "2 x 65x15mm, Up to 3000 RPM",
+        "Lighting": "10 RGB Modes",
+        "Display": "LED",
+        "Ports": "Type-C + USB",
+        "Compatibility": "Laptops up to 17 Inches",
+        "FANS": "2 x 65x15mm, Up to 3000 RPM",
+        "LIGHTING": "10 RGB Modes",
+        "DISPLAY": "LED",
+        "PORTS": "Type-C + USB",
+        "COMPATIBILITY": "Laptops up to 17 Inches",
+        "Offer Price (INR)": "₹930.00",
+        "MRP (INR)": "₹4,499.00",
+        "SKU": "AEPP0314"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/turbine-20-rgb-laptop-cooling-pad"
+  }
+}

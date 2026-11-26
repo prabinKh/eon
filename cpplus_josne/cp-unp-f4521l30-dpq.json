@@ -1,0 +1,157 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "Speed Dome(PTZ)",
+    "subcategory_url": "https://cpplusworld.com/products/speed-dome/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Speed Dome(PTZ)",
+    "tab_id": "24",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Speed Dome(PTZ)",
+      "Network",
+      "CP-UNP-F4521L30-DPQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "1984",
+    "product_name": "CP-UNP-F4521L30-DPQ",
+    "product_title": "CP-UNP-F4521L30-DPQ",
+    "product_url": "https://cpplusworld.com/cp-unp-f4521l30-dpq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d02acd70-16a7-430c-a2af-7a84f923761f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unp-f4521l30-dpq.html",
+  "detail": {
+    "title": "CP-UNP-F4521L30-DPQ",
+    "model": "CP-UNP-F4521L30-DPQ",
+    "brand": "CP Plus",
+    "overview": "2MP 45x Full HD Network IR PTZ Camera– 300 Mtr.",
+    "features": [
+      "1/2.8” 2MP PS CMOS Image sensor (0.9071 centimeter)",
+      "Max. 2MP (1920 × 1080)@1–25/30fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Penta Stream",
+      "Powerful 45x Optical and 16x Digital zoom",
+      "WDR(120dB), Day/Night(ICR), 2D NR/ 3D NR, ROI, Defog, AWB, AGC, BLC, HLC,",
+      "Up to 300 Presets, 5 Scan, 8 Tour, 5 Pattern",
+      "Support Starlight Technology",
+      "IR  Range of  300 Mtr.",
+      "Support PoE+, IP67",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d02acd70-16a7-430c-a2af-7a84f923761f.png",
+        "alt": "CP-UNP-F4521L30-DPQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/2eeb8b25-23ab-4e84-a5d0-730e2adb8565.png",
+        "alt": "CP-UNP-F4521L30-DPQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 2MP PS CMOS Image Sensor (0.9071 centimeter)",
+        "Effective Pixels": "1920(H) x 1080(V)",
+        "Minimum Illumination": "0.005 lux@F1.6 (Color, 30 IRE), 0.0005 lux@F1.6 (B/W, 30 IRE), 0 lux@F1.6 (illuminator on)",
+        "Focus Control": "Auto/Semi-Auto/Manual",
+        "RAM": "512 MB",
+        "ROM": "256 MB",
+        "White Balance": "Auto, Indoor, Outdoor, ATW, Manual, Sodium lamp, Natural light, Street lamp",
+        "Lens": "3.95 mm–177.75 mm",
+        "Max. Aperture": "F1.6–F4.95",
+        "Angle of view": "H: 65.7°–1.9°, V: 39.4°–1.1°, D: 73.1°–2.1°",
+        "Close Focus Distance": "0.1 Mtr.–1 Mtr.",
+        "Iris Control": "Auto/Manual",
+        "DORI Distance": "2451.7 Mtr. (Detect), 972.9 Mtr. (Observe), 490.3 Mtr. (Recognize), 245.2 Mtr. (Identify)",
+        "Electronic Shutter": "1/1 s–1/30,000 s",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "S/N Ratio": "≥ 55 dB",
+        "Optical Zoom": "45×",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "Pan & Tilt Range": "Pan: 0° to 360° endless, Tilt: –20° to +90°, auto flip 180°",
+        "Power-off Memory": "Support",
+        "Manual Speed": "Pan: 0.1° ~260° /s, Tilt: 0.1° ~120° /s",
+        "Preset Speed": "Pan: 0.1°/s~300°/s, Tilt: 0.1°/s~200°/s",
+        "Image Stabilization": "Electronic (EIS)",
+        "Privacy Masking": "Up to 24 Areas can be set, with up to 8 areas in the same view",
+        "Special Features": "Up to 300 Presets, 5 Pattern, 8  (up to 32 presets per tour) Tour, 5 Scan",
+        "Idle Motion": "Preset, Tour, Pattern, Scanning",
+        "Defog": "Electronic",
+        "IR Distance": "IR Range of 300 Mtr.",
+        "IR Number": "6 IR",
+        "IR Control": "Zoom Prio, Manual, Smart IR, Off",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "Gain Control": "Auto/Manual",
+        "Video Format": "PAL",
+        "Overlay": "Channel Title, Time Title, OSD Info (PTZ Coordinate, Zoom, North, Pattern, Temperature, Preset,  Location, Input Text, Text Alignment), Font Properties, Custom Title, Exception Overlay",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B MJPEG (Sub Stream)",
+        "Stream Capability": "Penta Stream",
+        "Frame Rate": "Main stream: 2MP (1920 × 1080)@1–25fps, 1MP (1280 × 720)@1–25fps, D1 (704 × 576) @1–25fps Sub stream 1:D1/CIF @(1–25 fps) Sub stream 2: 2MP (1920 × 1080)@1–25fps, 1MP (1280 × 720)@1–25fps, D1 (704 × 576) @1–25fps Sub stream 3:D1 @(1–25 fps) Sub stream 4:D1 @(1–25 fps)",
+        "Resolution": "2MP (1920 × 1080), 1MP (1280 × 720), D1 (704 × 576), CIF (352 × 288)",
+        "Bit Rate": "H265: 86 kbps–5632 kbps, H264: 216 kbps–8192 kbps",
+        "Bit Rate Control": "CBR/VBR",
+        "Motion Detection": "Support",
+        "ROI": "Support",
+        "Noise Reduction": "2D NR/3D NR",
+        "Audio In": "1 channel",
+        "Audio Out": "1 channel",
+        "Audio Compression": "PCM, G.711a, G.711Mu, G.726, MPEG2-Layer2, G722.1, AAC",
+        "Auto Tracking": "Support",
+        "Alarm IN": "7 Channel",
+        "Alarm Out": "2 Channel",
+        "User/Host": "20 (total bandwidth: 64 Mbps)",
+        "Ethernet": "1 × RJ-45 (10/100 Base-T)",
+        "Tracking Trigger Event": "Crossing virtual fence, Tripwire, Intrusion, Abandoned Object, Fast Moving, Parking Detection,  Loitering Detection",
+        "Reset Button": "Support",
+        "Alarm Linkage": "Capture, Recording, Send email, Preset, Tour, Pattern, Alarm digital output",
+        "Event Alarm": "Motion/tampering detection, Defocus Detection, Audio detection, SD Card Exception(No SD  card, Low SD card space, SD card error), Network Exception (Offline, IP Conflict), External  Alarm, IMD, Security Warning, AI Events",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, QoS,  UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3,  ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "IVS (Perimeter Protection)": "Crossing virtual fence, Tripwire, Intrusion, Abandoned Object, Fast Moving, Parking Detection,  Crowd Gathering, Missing Object, Loitering Detection, IMD",
+        "Face Detection": "Face detection, Face Enhancement, Face Cutout (Face/ One Inch Photo), Snapshot Mode (Real-Time/ Quality Priority), Optimal face snapshot upload, Quality Threshol",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs,  WSSE, Account lockout, Syslog, Video encryption, 802.1x, Allow list/Block list, HTTPS, Trusted  upgrade, Trusted boot, Firmware encryption",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Browser": "Microsoft Edge and Chrome",
+        "Weatherproof Standard": "IP67, IK10, TVS 8000V lightning proof, surge  protection, voltage transient protection",
+        "Hardware Reset Point": "Support",
+        "Certificates": "MTBF Certificate from STQC, EMI/EMC, ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS,  BIS",
+        "Power Source": "24 VDC, 2.5 A ± 25% PoE+ (802.3at)",
+        "Power Consumption": "24 VDC, 2.5 A ± 25%: Basic: 13 W; Max: 25 W (illuminator + PTZ) PoE+ (802.3at): Basic: 13 W;  Max: 25 W (illuminator + PTZ)",
+        "Operating Temperature": "–40 °C to +70 °C",
+        "Operating Humidity": "≤ 95% RH, Non condensing",
+        "Casing": "Metal",
+        "Dimension": "337.4mm × 209mm",
+        "Weight": "5900g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNP-F4521L30-DPQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unp-f4521l30-dpq"
+  }
+}

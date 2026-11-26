@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GP310R Wireless Gamepad with Neon RGB - D-Input & X-Input"
+    ]
+  },
+  "card_info": {
+    "product_id": "10343745192227",
+    "product_name": "GP310R Wireless Gamepad with Neon RGB - D-Input & X-Input",
+    "product_title": "GP310R Wireless Gamepad with Neon RGB - D-Input & X-Input",
+    "product_url": "https://antesports.com/products/gp310r-wireless-gamepad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_6c60ad81-8a19-4415-bada-5c90c5ac6a89.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gp310r-wireless-gamepad.html",
+  "detail": {
+    "title": "GP310R Wireless Gamepad with Neon RGB - D-Input & X-Input",
+    "model": "AEPP0039",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GP310R is a wireless gamepad built for gamers who don't want a cable holding them back, using a 2.4GHz USB dongle for lag-free, plug-and-play performance across Windows, PS3 and Android 4.0+ devices (OTG adapter required for Android). Its transparent ABS shell houses dual vibration motors under the joysticks, delivering timely tactile feedback that adds a layer of immersion beyond a standard wired pad. An 800mAh battery keeps it running for up to 12 hours of continuous play, and the ergonomically shaped shell stays comfortable and breathable through marathon gaming sessions. Supporting both D-Input and X-Input modes for Windows, it's a flexible, cable-free upgrade for PC and compatible console setups.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_6c60ad81-8a19-4415-bada-5c90c5ac6a89.jpg",
+        "alt": "GP310R Wireless Gamepad with Neon RGB - D-Input & X-Input - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless USB Dongle",
+        "Battery": "800mAh, Up to 12 Hours",
+        "Input Mode": "D-Input & X-Input",
+        "Vibration": "Dual Motor Feedback",
+        "Compatibility": "Windows, PS3, Android 4.0+ (OTG Required)",
+        "Color": "Black/Transparent",
+        "CONNECTIVITY": "2.4GHz Wireless USB Dongle",
+        "BATTERY": "800mAh, Up to 12 Hours",
+        "INPUT MODE": "D-Input & X-Input",
+        "VIBRATION": "Dual Motor Feedback",
+        "COMPATIBILITY": "Windows, PS3, Android 4.0+ (OTG Required)",
+        "COLOR": "Black/Transparent",
+        "Offer Price (INR)": "₹1,564.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0039"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GP310)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GP310.pdf"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gp310r-wireless-gamepad"
+  }
+}

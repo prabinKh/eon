@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "Master 55 Dual-Mode Wireless Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759455011",
+    "product_name": "Master 55 Dual-Mode Wireless Keyboard",
+    "product_title": "Master 55 Dual-Mode Wireless Keyboard",
+    "product_url": "https://antesports.com/products/master-55-dual-mode-wireless-keyboard-96-keys",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_92dd9361-6872-413f-afc1-9577f4ee0c1e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master-55-dual-mode-wireless-keyboard-96-keys.html",
+  "detail": {
+    "title": "Master 55 Dual-Mode Wireless Keyboard",
+    "model": "ANTR0152",
+    "brand": "Ant Esports",
+    "overview": "The Ant Master 55 is a compact 96-key dual-mode wireless keyboard offering both Bluetooth and 2.4GHz connectivity, letting it pair easily across Windows, Mac, Android and iOS devices. A rechargeable battery removes the need for disposable batteries, and water-resistant membrane keys add peace of mind against accidental spills during daily use. Its compact layout saves desk space while retaining the essential keys needed for everyday typing, making it a practical, multi-device keyboard for anyone who switches between a laptop, tablet and phone throughout the day.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_92dd9361-6872-413f-afc1-9577f4ee0c1e.png",
+        "alt": "Master 55 Dual-Mode Wireless Keyboard - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth + 2.4GHz",
+        "Keys": "96",
+        "Power": "Rechargeable Battery",
+        "Build": "Water-Resistant Membrane",
+        "Compatibility": "Windows, Mac, Android, iOS",
+        "Color": "Black",
+        "CONNECTIVITY": "Bluetooth + 2.4GHz",
+        "KEYS": "96",
+        "POWER": "Rechargeable Battery",
+        "BUILD": "Water-Resistant Membrane",
+        "COMPATIBILITY": "Windows, Mac, Android, iOS",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,149.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "ANTR0152"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master-55-dual-mode-wireless-keyboard-96-keys"
+  }
+}

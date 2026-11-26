@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "PBT Keycaps Set - Multicolor"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791476515",
+    "product_name": "PBT Keycaps Set - Multicolor",
+    "product_title": "PBT Keycaps Set - Multicolor",
+    "product_url": "https://antesports.com/products/pbt-keycaps-switches-multicolor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/38_0ae26ec6-fa5c-409e-96e2-d7ae5b83b2b2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/pbt-keycaps-switches-multicolor.html",
+  "detail": {
+    "title": "PBT Keycaps Set - Multicolor",
+    "model": "AEPP0321",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PBT Keycaps set brings a bold, artistic upgrade to any mechanical keyboard, crafted from high-quality PBT plastic for superior durability, fade resistance and a lasting texture that withstands heavy gaming and daily typing use. A unique multicolour Japanese-inspired design adds a distinctive visual accent, perfect for gamers, designers and collectors who want to personalize their setup. The set includes a keycap puller for effortless installation, and universal compatibility with all MX-style mechanical switches means it fits most popular keyboard brands without any modification needed.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/38_0ae26ec6-fa5c-409e-96e2-d7ae5b83b2b2.jpg",
+        "alt": "PBT Keycaps Set - Multicolor - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Material": "PBT Plastic",
+        "Design": "Multicolour Artistic Print",
+        "Included": "Keycap Puller",
+        "Compatibility": "MX-Style Mechanical Switches",
+        "MATERIAL": "PBT Plastic",
+        "DESIGN": "Multicolour Artistic Print",
+        "INCLUDED": "Keycap Puller",
+        "COMPATIBILITY": "MX-Style Mechanical Switches",
+        "Offer Price (INR)": "₹309.00",
+        "MRP (INR)": "₹1,499.00",
+        "SKU": "AEPP0321"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/pbt-keycaps-switches-multicolor"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Managed Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/managed-switch",
+    "tab_title": "Managed Switch",
+    "tab_id": "16417",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Managed Switch",
+      "Managed Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "142911",
+    "product_name": "SG5028X",
+    "product_title": "28-Port L2+ Managed Gigabit Switch with 4-Port 10G SFP+",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/sg5028x",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11345/ProductImage/1_0_01_20_11345_507211281_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sg5028x.html",
+  "detail": {
+    "title": "28-Port L2+ Managed Gigabit Switch with 4-Port 10G SFP+",
+    "model": "SG5028X",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_11345/ProductImage/1_0_01_20_11345_507211281_crop_thumb.png",
+        "alt": "SG5028X",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/sg5028x"
+  }
+}

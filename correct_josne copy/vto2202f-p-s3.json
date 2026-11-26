@@ -1,0 +1,184 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "2-Wire IP",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station",
+    "tab_title": "Villa Door Station",
+    "tab_id": "482",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "2-Wire IP",
+      "Apartment Door Station",
+      "Villa Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "146298",
+    "product_name": "VTO2202F-P-S3",
+    "product_title": "2-wire IP Villa Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/villa-door-station/pro-series/vto2202f-p-s3",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12554/ProductImage/1_0_01_15_12554_561377173_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto2202f-p-s3.html",
+  "detail": {
+    "title": "2-wire IP Villa Door Station",
+    "model": "VTO2202F-P-S3",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO2202F-P-S3 2-wire IP Villa Door Station Key Points • 2 MP Villa Door Station, Aluminum • IP65 & IK07 • Standard PoE & 2-Wire • Support Surface and Flush Mount • Device Port: 1-Channel Alarm Output, 1-Channel RS485, 2-Channel Locks (1 with Secure Model) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12554/ProductImage/1_0_01_15_12554_561377173_crop_thumb.png",
+        "alt": "VTO2202F-P-S3_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12554/ProductImage/1_0_01_15_12554_561377171_thumb.png",
+        "alt": "VTO2202F-P-S3_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12554/ProductImage/1_0_01_15_12554_561377170_crop_thumb.png",
+        "alt": "VTO2202F-P-S3_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12554/ProductImage/1_0_01_15_12554_561377172_crop_thumb.png",
+        "alt": "VTO2202F-P-S3_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux Operation System",
+        "Button Type": "Mechanical",
+        "Number of Buttons": "1",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "IPv4; RTSP; UDP; DNS; P2P; UPnP; RTP; TCP; SIP"
+      },
+      "Basic": {
+        "Camera": "1/2.9\" 2 MP CMOS",
+        "Field of View": "H: 168.6°, V: 87.1°, D: 176.7°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.265; H.264",
+        "Video Resolution": "Main stream: 720p; WVGA; D1; CIF Sub stream: 1080p; WVGA; D1; QVGA; CIF",
+        "Video Frame Rate": "25 fps",
+        "Video Bit Rate": "256 Kbps to 8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bits"
+      },
+      "Function": {
+        "Communication Mode": "Digital 2-wire",
+        "Unlock Mode": "Remote",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Supports Micro SD card (up to 256 GB)",
+        "Web Configuration": "Yes"
+      },
+      "Performance": {
+        "Casing Material": "Aluminum"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Output": "1",
+        "Power Output": "1 port, 12 V/600 mA",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45 port, 10/100 Mbps network port"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Appearance Color": "Silver",
+        "Power Supply": "Dahua 2-wire switch (max. power supply distance is 50 m) 48 VDC, 1 A; PoE (802.3af/at)",
+        "Power Adapter": "Optional",
+        "Installation": "Flush Mount; Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Surface mount box (optional); flush mount box (optional); rain cover (optional)",
+        "Product Dimensions": "130 mm × 96 mm × 28.5 mm (5.12\" × 3.78\" × 1.12\")",
+        "Protection": "IK07; IP65",
+        "Operating Temperature": "–30°C to +60°C (–22°F to +140°F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Environment": "Outdoor",
+        "Operating Altitude": "0 m–3000 m (0 ft–9842.52 ft)",
+        "Power Consumption": "≤4 W (standby), ≤5 W (working)",
+        "Gross Weight": "0.48 kg (1.06 lb)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%–75% (RH), non-condensing"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO2202F-P-S3_datasheet_20240626.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Villa Door Station_User Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010956/3480009/Villa_Door_Station_User_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-12-01 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-04-04 #Drawings VTO2202F-P-S3_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82128/drawings/VTO2202F-P-S3_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-05-21 #Drawings VTO2202F-P-S3_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82094/drawings/VTO2201F-P-S2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-05-21 #Drawings VTO2202F-P-S3_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82128/drawings/VTO2202F-P-S3_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_CEE-Nordic_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28807/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_Asia_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "2026-06-11 #Firmware DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28837/firmware/DH_VTOVilla_Vale_MultiLang_PN_128M_SIP_EMEA_V4.810.0000000.3.R.260528.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/villa-door-station/pro-series/vto2202f-p-s3"
+  }
+}

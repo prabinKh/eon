@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "85 Litre Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/85-litre-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "85 Litre Air Cooler",
+    "tab_id": "9135071396058",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "85 Litre Air Cooler",
+      "Intex ThunderCool HC 85 Desert Air Cooler - 85L Litres"
+    ]
+  },
+  "card_info": {
+    "product_id": "9135071396058",
+    "product_name": "Intex ThunderCool HC 85 Desert Air Cooler - 85L Litres",
+    "product_title": "Intex ThunderCool HC 85 Desert Air Cooler - 85L Litres",
+    "product_url": "https://www.intex.in/products/intex-thundercool-hc-85-desert-air-cooler-85l-capacity",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/12-THUNDERCOOL-HC-85.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 19990.0,
+      "display": "₹19,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-thundercool-hc-85-desert-air-cooler-85l-capacity.html",
+  "detail": {
+    "title": "Intex ThunderCool HC 85 Desert Air Cooler - 85L Litres",
+    "model": "ThunderCool HC 85",
+    "brand": "Intex",
+    "overview": "The Intex ThunderCool HC 85 Desert Air Cooler is built for powerful cooling in medium to large rooms. Featuring a large 85-litre water tank, it provides longer cooling duration with fewer refills. The cooler is equipped with 4-way air deflection for uniform air circulation and a high-performance motor that delivers strong air throw even during peak summer heat. The 3-side honeycomb cooling pads improve water retention and enhance cooling efficiency. Designed for convenience and durability, the HC 85 is inverter compatible, has a shock and rust-proof body, and comes with 360° moving wheels for effortless movement. It is an ideal solution for those seeking high-capacity, long-lasting summer cooling.",
+    "features": [
+      "Fan Blade Size: 16 inches"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/12-THUNDERCOOL-HC-85.jpg",
+        "alt": "Intex ThunderCool HC 85 Desert Air Cooler - 85L Litres",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "Desert Air Cooler",
+        "Model": "ThunderCool HC 85",
+        "Water Tank Capacity": "85 Litres",
+        "Room Size": "Medium to Large Rooms",
+        "Air Deflection": "4-Way Air Deflection",
+        "Cooling Pads": "3-Side Honeycomb Pads",
+        "Motor Type": "High-Performance Motor",
+        "Speed Control": "3-Speed Control",
+        "Inverter Compatibility": "Yes",
+        "Body Type": "Shock & Rust-Proof",
+        "Mobility": "360° Moving Wheels",
+        "Additional Features": "Water Level Indicator, Voltage Fluctuation Protection"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-thundercool-hc-85-desert-air-cooler-85l-capacity"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "101257",
+    "product_name": "ARM310-W2",
+    "product_title": "Wireless input expander",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm310-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211202/1_0_01_19_10610_106186641_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/arm310-w2.html",
+  "detail": {
+    "title": "Wireless input expander",
+    "model": "ARM310-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARM310-W2 Wireless input expander Key Points · Supports six types of alarm: intrusion, medical, fire, emergency, gas, and tamper. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211202/1_0_01_19_10610_106186641_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211202/1_0_01_19_10610_10618663_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211202/1_0_01_19_10610_10618665_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Port": {
+        "Indicator Light": "1 × green alarm indicator",
+        "Button": "1 × power button",
+        "Protection Zone": "1-channel dry contact input"
+      },
+      "Function": {
+        "Tampering Alarm": "Yes",
+        "Remote Upgrade": "Cloud update",
+        "Low Battery Alarm": "Yes",
+        "Test Mode": "Yes",
+        "Search": "Signal strength detection"
+      },
+      "Wireless": {
+        "Carrier Frequency": "433.1 MHz–434.6 MHz",
+        "Communication Distance": "Up to 1,000 m (3,280.84 ft) in an open space",
+        "Communication Mechanism": "Two-way",
+        "Frequency Hopping": "Yes",
+        "Encryption Mode": "AES128"
+      },
+      "General": {
+        "Power Supply Mode": "CR123A battery",
+        "Power Consumption": "Max. 70 mW",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Dimensions": "100.2mm × 20.8mm × 20.3mm (3.94\" × 0.82\" ×0.80\")",
+        "Package Dimensions": "135.0 mm × 98.5 mm × 27.8mm (5.31\" × 3.88\" × 1.09\")",
+        "Installation Mode": "Bracket mount",
+        "Net Weight": "70 g (0.15 lb)",
+        "Gross Weight": "115 g (0.25 lb)",
+        "Certification": "CE",
+        "Battery Life": "4 years (The external input type is NO) 2 years (The external input type is NC or Pulse)",
+        "Casing Material": "PC + ABS"
+      },
+      "Temperature": {
+        "Measurement Range": "–15 °C to +65 °C (+5 °F to +149 °F) (indoor)",
+        "Measurement Precision": "±1 °C (±1.8 °F)",
+        "Resolution": "1 °C (33.8 °F)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARM310-W2_datasheet_20230708.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Dahua Wireless Input Expander(1.0)_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005867/202507/Dahua_Wireless_Input_Expander(1.0)_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Wireless Input Expander_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005867/202507/Wireless_Input_Expander_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-11-06 #Drawings ARM310-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27597/drawings/ARM310-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-11-06 #Drawings ARM310-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27597/drawings/ARM310-W2_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-05-12 #Firmware General_ARM310-W2_433_V1.000.0000003.0.R.20230425 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2169570/M/General_ARM310-W2_433_V1.000.0000003.0.R.20230425.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/arm310-w2"
+  }
+}

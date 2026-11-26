@@ -1,0 +1,144 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "illumax",
+    "subcategory_url": "https://cpplusworld.com/products/illumax/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "illumax",
+    "tab_id": "169",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "illumax",
+      "Network",
+      "CP-UNC-DA81L3C-LQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2151",
+    "product_name": "CP-UNC-DA81L3C-LQ",
+    "product_title": "CP-UNC-DA81L3C-LQ",
+    "product_url": "https://cpplusworld.com/cp-unc-da81l3c-lq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/d0f1bf99-6395-4b8c-87c3-92ebf895f39a.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-da81l3c-lq.html",
+  "detail": {
+    "title": "CP-UNC-DA81L3C-LQ",
+    "model": "CP-UNC-DA81L3C-LQ",
+    "brand": "CP Plus",
+    "overview": "8MP Dual Light Dome Camera - 30Mtr.",
+    "features": [
+      "1/2.7\" 8MP PS CMOS Image Sensor (0.9407 Centimeters)",
+      "Max. 8MP (3840 × 2160)@1–20 fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Triple stream",
+      "DWDR, Day/Night(ICR), 2D NR, 3D NR, ROI, AWB, AGC, BLC, HLC, Digital watermarking",
+      "IR Range of 30 Mtr., Warm Light Range of 30 Mtr.",
+      "3.6mm Lens",
+      "Support Built-in Mic, PoE, IP67",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d0f1bf99-6395-4b8c-87c3-92ebf895f39a.png",
+        "alt": "CP-UNC-DA81L3C-LQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/b4fe8c68-b29d-4067-b771-7ced90293e6d.png",
+        "alt": "CP-UNC-DA81L3C-LQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" 8MP PS CMOS Image Sensor (0.9407 Centimeters)",
+        "Effective Pixels": "3840 (H) × 2160 (V)",
+        "Minimum Illumination": "0.001 lux@F1.4 (Color, 30 IRE), 0.0001 lux@F1.4 (B/W, 30 IRE), 0 lux (IR on)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360°",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "RAM": "256 MB",
+        "ROM": "128 MB",
+        "DORI Distance": "98.7 m (Detect), 39.5 m (Observe), 19.7 m (Recognize), 9.9 m (Identify)",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F1.4",
+        "Close Focus Distance": "1.9 m",
+        "Lens Mount": "M12",
+        "Lens": "3.6mm Lens",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by the sub stream)",
+        "S/N Ratio": ">56dB",
+        "IR Number": "1 (Multi-core (IR + warm) light)",
+        "IR": "IR Range of 30 Mtr.",
+        "Warm Light": "Warm Light Range of 30 Mtr.",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Angle of view": "H: 86°, V: 49°, D: 100°",
+        "Back Light Compensation": "BLC/ HLC/ DWDR",
+        "OTA (Over-The-Air)": "Support",
+        "Stream Capability": "Triple stream",
+        "Frame Rate": "Main stream: 8MP (3840 × 2160)@1-20fps, 6MP (3072 × 2048)@1-20fps, 5MP (3072 × <BR>  1728)@1-20fps, 4MP (2880 × 1620/ 2688 × 1520)@1-25/30fps, 3MP (2048 × 1536/2304 ×  <BR> 1296)@1-25/30fps, 2MP (1920 × 1080)@1-25/30fps, 1.3MP (1280 × 960)@1-25/30fps, 720p <BR>  (1280 × 720)@1-25/30fps  <BR> Sub Stream 1: D1 (704 × 576/ 704 × 480)@1-25/30fps, VGA (640 × 480)@1-25/30fps, CIF (352 <BR>  × 288/ 352 × 240)@1-25/30fps <BR> Sub stream 2: D1 (704 × 576/ 704 × 480)@1-25/30fps, VGA (640 × 480)@1-25/30fps, CIF (352 <br>  × 288/ 352 × 240)@1-25/30fps <BR>  *The sub streams max. frame rates depends on main stream frame rates",
+        "Smart search": "Work together with CP Plus AI NVR to perform refine AI search, event extraction and merging <BR> to event videos",
+        "Video Format": "PAL/NTSC",
+        "Privacy Mask": "4 areas",
+        "ROI": "Support (4 areas)",
+        "OSD": "Privacy Masking, Channel Title, Time Title, Location, Font Properties, Custom Title",
+        "Audio": "Built-in Mic",
+        "Audio Compression": "G.711a, G.711Mu, PCM, G.726, AAC",
+        "Bit Rate": "H.265: 3 kbps–8192 kbps, H.264: 3 kbps–8192 kbps",
+        "Bit Rate Control": "CBR/VBR",
+        "Protocol": "SFTP, IPv6, IPv4, DNS,RTCP, NTP, RTP, HTTP, HTTPS, SNMP  V3, TCP/IP, PPPoE, NFS, UPNP, <BR>  UDP, ICMP, SSL, DHCP, SMTP, RTSPS, ONVIF (Profile S, Profile G, Profile T), unicast, multicast, <BR>  TLS 1.2, 1.3, InstaOn",
+        "SDK and API": "Support",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Resolution": "8MP (3840 × 2160), 6MP (3072 × 2048), 5MP (3072 × 1728), 4MP (2880 × 1620/2688 × 1520), <BR>  3MP (2048 × 1536/2304 × 1296), 2MP (1920 × 1080), 1.3MP (1280 × 960), 720p (1280 × 720), <BR>  D1 (704 × 576/704 × 480), VGA (640 × 480), CIF (352 × 288/352 × 240)",
+        "Noise Reduction": "2D NR, 3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs, <BR> WSSE, account lockout, syslog, video encryption, IP/MAC filtering, HTTPS, trusted upgrade, <BR>  trusted boot",
+        "IMD (Intelligent motion detection)": "Support the classification and accurate detection of human and vehicle",
+        "Mirror Function": "Support",
+        "IR Control": "Auto, Manual",
+        "Iris Control": "Fixed",
+        "Storage": "SFTP, NAS",
+        "Smart IR": "Support",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688 ×1520 resolution and lower)",
+        "Alarm Event": "Network disconnection, IP conflict, illegal access, Motion detection, Video tampering, Audio <BR>  detection, IMD (Intelligent motion detection), Security exception",
+        "User/ Host": "6 (Total bandwidth: 48 M)",
+        "Browser": "IE, Chrome, Firefox, Microsoft Edge",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 2.5 W (12 VDC), 3.5 W (PoE) <BR>       Max.: 4.5 W (12 VDC), 5.8 W (PoE) (H.265 + intelligence  on+ DWDR + illuminator intensity)",
+        "Weatherproof Standard": "IP67",
+        "Operating Temperature": "–40°C to +55°C",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40°C to +60°C",
+        "Storage Humidity": "≤95%(RH), non-condensing",
+        "Dimension": "85.6 mm × 94.0 mm",
+        "Casing": "Metal + Plastic",
+        "Weight": "280g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-DA81L3C-LQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-da81l3c-lq"
+  }
+}

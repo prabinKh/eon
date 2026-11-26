@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "CarbonFlow 120mm Black Case Fan"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422040355",
+    "product_name": "CarbonFlow 120mm Black Case Fan",
+    "product_title": "CarbonFlow 120mm Black Case Fan",
+    "product_url": "https://antesports.com/products/ant-esports-carbonflow-120mm-black-case-fan",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/CARBONFLOW120mm_02_473f3458-9df3-439f-be9c-5527f733f3c9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-carbonflow-120mm-black-case-fan.html",
+  "detail": {
+    "title": "CarbonFlow 120mm Black Case Fan",
+    "model": "AESP0269",
+    "brand": "Ant Esports",
+    "overview": "High Airflow Design – 9-blade optimized fan profile for maximum cooling efficiency.Silent Operation – Low-noise fan motor engineered for quiet performance.Durable Hydro Bearing – Ensures long life, stability, and smooth rotation.Universal Compatibility – Fits standard 120mm fan mounts for cases, radiators & heatsinks.Anti-Vibration Rubber Pads – Reduces noise and absorbs vibration for stable operation.Sleek All-Black Finish – Premium matte black design for clean and stealthy builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/CARBONFLOW120mm_02_473f3458-9df3-439f-be9c-5527f733f3c9.png",
+        "alt": "CarbonFlow 120mm Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_76e5e3eb-ca26-40df-95bf-68ab54a61ad2.png",
+        "alt": "CarbonFlow 120mm Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_368c5018-8668-478b-90f7-c586c08cbcbd.png",
+        "alt": "CarbonFlow 120mm Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_497ad20a-61d3-445a-be17-b17ebc95de0b.png",
+        "alt": "CarbonFlow 120mm Black Case Fan - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "Single",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Non-RGB",
+        "FAN Speed (RPM)": "1300",
+        "FAN Airflow (CFM)": "40",
+        "FAN Static Pressure (mmH₂O)": "1",
+        "FAN Noise (dBA)": "28",
+        "FAN Direction": "Forward",
+        "Connection": "DC (Molex)",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "Single",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Non-RGB",
+        "FAN SPEED (RPM)": "1300",
+        "FAN AIRFLOW (CFM)": "40",
+        "FAN STATIC PRESSURE (MMH₂O)": "1",
+        "FAN NOISE (DBA)": "28",
+        "FAN DIRECTION": "Forward",
+        "CONNECTION": "DC (Molex)",
+        "Offer Price (INR)": "₹399.00",
+        "SKU": "AESP0269"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-carbonflow-120mm-black-case-fan"
+  }
+}

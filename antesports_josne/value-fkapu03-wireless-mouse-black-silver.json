@@ -1,0 +1,83 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Value FKAPU03 Wireless Mouse - Black/Silver"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341844353315",
+    "product_name": "Value FKAPU03 Wireless Mouse - Black/Silver",
+    "product_title": "Value FKAPU03 Wireless Mouse - Black/Silver",
+    "product_url": "https://antesports.com/products/value-fkapu03-wireless-mouse-black-silver",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/121.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/value-fkapu03-wireless-mouse-black-silver.html",
+  "detail": {
+    "title": "Value FKAPU03 Wireless Mouse - Black/Silver",
+    "model": "AVLP0001",
+    "brand": "Ant Esports",
+    "overview": "The Ant Value FKAPU03 is a simple, dependable 2.4GHz wireless mouse built for everyday desktop and laptop use at home or in the office. Its 1000 DPI optical sensor gives smooth, accurate cursor control for browsing, documents and general tasks, while an ambidextrous 3-button design with silent switches and a 250Hz polling rate keeps it comfortable and quiet for shared or late-night work. Powered by a single AAA battery and paired instantly with the included USB nano receiver, it offers straightforward plug-and-play setup up to a 10-metre range, with no software or drivers required on Windows, Mac or Linux.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/121.jpg",
+        "alt": "Value FKAPU03 Wireless Mouse - Black/Silver - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless (Nano Receiver)",
+        "DPI": "1000 Optical",
+        "Buttons": "3, Silent Click",
+        "Polling Rate": "250Hz",
+        "Power": "1 x AAA Battery",
+        "Range": "Up to 10m",
+        "Compatibility": "Windows, Mac, Linux",
+        "Color": "Black/Silver",
+        "CONNECTIVITY": "2.4GHz Wireless (Nano Receiver)",
+        "BUTTONS": "3, Silent Click",
+        "POLLING RATE": "250Hz",
+        "POWER": "1 x AAA Battery",
+        "RANGE": "Up to 10m",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "COLOR": "Black/Silver",
+        "Offer Price (INR)": "₹249.00",
+        "MRP (INR)": "₹899.00",
+        "SKU": "AVLP0001"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (VALUE)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Value-H81MAD3-N.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/value-fkapu03-wireless-mouse-black-silver"
+  }
+}

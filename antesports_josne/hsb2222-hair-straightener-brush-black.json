@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "HSB2222 Hair Straightener Brush - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341738348835",
+    "product_name": "HSB2222 Hair Straightener Brush - Black",
+    "product_title": "HSB2222 Hair Straightener Brush - Black",
+    "product_url": "https://antesports.com/products/hsb2222-hair-straightener-brush-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_b679442c-7e3e-46cd-9c9b-ed5ad29666c5.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/hsb2222-hair-straightener-brush-black.html",
+  "detail": {
+    "title": "HSB2222 Hair Straightener Brush - Black",
+    "model": "AEPP0169",
+    "brand": "Ant Esports",
+    "overview": "Ant Esports HSB2222 is a fast-heating straightening brush that reaches up to 200°C in 20 seconds. Combines anti-scald comb teeth, a heat-resistant protective plate and a 360° swivel power cord for safe, effortless, salon-quality styling at home or while travelling. Lightweight, dual-voltage design ideal for travel.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_b679442c-7e3e-46cd-9c9b-ed5ad29666c5.png",
+        "alt": "HSB2222 Hair Straightener Brush - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Heat-up Time": "200°C in ~20 sec",
+        "Cord": "360° swivel, anti-tangle",
+        "Safety": "Anti-scald comb teeth, On/Off switch",
+        "Voltage": "Dual voltage (travel-ready)",
+        "Dimensions": "9.68 x 2.17 x 0.98 inch",
+        "Color": "Black",
+        "HEAT-UP TIME": "200°C in ~20 sec",
+        "CORD": "360° swivel, anti-tangle",
+        "SAFETY": "Anti-scald comb teeth, On/Off switch",
+        "VOLTAGE": "Dual voltage (travel-ready)",
+        "DIMENSIONS": "9.68 x 2.17 x 0.98 inch",
+        "COLOR": "Black",
+        "SKU": "AEPP0169"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/hsb2222-hair-straightener-brush-black"
+  }
+}

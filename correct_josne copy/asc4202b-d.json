@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Controllers",
+    "tab_id": "546",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Controllers"
+    ]
+  },
+  "card_info": {
+    "product_id": "152224",
+    "product_name": "ASC4202B-D",
+    "product_title": "Dahua Double Door two-way Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/controllers/asc4202b-d",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12394/ProductImage/1_0_01_25_12394_696623924_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asc4202b-d.html",
+  "detail": {
+    "title": "Dahua Double Door two-way Access Controller",
+    "model": "ASC4202B-D",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASC4202B-D Dahua Double Door two-way Access Controller Key Points • Web-Based 2 Door 2 Way Networked Access Controller • 100,000 Users, 100,000 Passwords, 100,000 Cards, 10,000 Fingerprints and 500,000 Access Records • 5 x RS485 ports, 4 x Wiegand Ports • 4 Channel Alarm Input, 4 Channel Alam Output • Supplies Power to 2 Lock and 4 Card Readers When Controller Powered by DC12V Power Adapter • Supports Anti-Passback, Multi-Person Unlock, First-Card Unlock and Remote Verification • Features Fire Alarm Linkage • DC12V/PoE power Supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12394/ProductImage/1_0_01_25_12394_696623924_crop_thumb.png",
+        "alt": "ASC4202B-D_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12394/ProductImage/1_0_01_25_12394_696623925_crop_thumb.png",
+        "alt": "ASC4202B-D_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12394/ProductImage/1_0_01_25_12394_696623926_crop_thumb.png",
+        "alt": "ASC4202B-D_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12394/ProductImage/1_0_01_25_12394_696623927_crop_thumb.png",
+        "alt": "ASC4202B-D_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Network Protocol": {},
+      "OSDP Protocol": {},
+      "Interoperability": {},
+      "SDK": {},
+      "API": {},
+      "Product Type": {},
+      "Buzzer": {},
+      "Casing Material": {},
+      "Verification Method": {},
+      "Period List": {},
+      "Holiday Period": {},
+      "Network Update": {},
+      "First User Unlock": {},
+      "Remote Verification": {},
+      "Restricted List/Trusted List": {},
+      "Peripheral Card Reader": {},
+      "Multi-door Interlock": {},
+      "Multi-user Authentication": {},
+      "Real-time Monitoring": {},
+      "Multi-factor Authentication": {},
+      "Web Configuration": {},
+      "Unidirectional or Bidirectional": {},
+      "User (Card) Type": {},
+      "User Capacity": {},
+      "Fingerprint Capacity": {},
+      "Card Capacity": {},
+      "Record Capacity": {},
+      "RS-485": {},
+      "Wiegand": {},
+      "Network Port": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Exit Button": {},
+      "Door Status Detection": {},
+      "Lock Control": {},
+      "Anti-pass Back": {},
+      "Tamper Alarm": {},
+      "Duress Alarm": {},
+      "Door Sensor Timeout": {},
+      "Intrusion": {},
+      "Illegal Card Exceeding Threshold": {},
+      "Duress Fingerprint": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Environment": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83131/datasheet/DHI-ASC4202B-D_datasheet_20250124.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Access Controller_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83129/user_manual/Access_Controller_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Access Controller_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83129/user_manual/Access_Controller_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-10-27 #Drawings ASC4202B-D_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83131/drawings/ASC4202B-D_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2024-10-27 #Drawings ASC4202B-D_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83131/drawings/ASC4202B-D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-10-27 #Drawings ASC4202B-D_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83131/drawings/ASC4202B-D_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-08-01 #Firmware DH_ASCX2XX-A-RUSSELL-02_MultiLang_PN_V3.004.0000000.0.R.260630 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83131/firmware/DH_ASCX2XX-A-RUSSELL-02_MultiLang_PN_V3.004.0000000.0.R.260630.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/controllers/asc4202b-d"
+  }
+}

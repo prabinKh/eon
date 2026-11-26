@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Intelligent Computing",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/intelligent-computing",
+    "series": "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server",
+    "tab_title": "Event Detection Server",
+    "tab_id": "8317",
+    "breadcrumbs": [
+      "Network Products",
+      "Intelligent Computing",
+      "Dahua Event Detection Intelligent Server IVS-TB9000-3K-TS2",
+      "Event Detection Server"
+    ]
+  },
+  "card_info": {
+    "product_id": "154539",
+    "product_name": "IVS-TB9000-2K-TS2",
+    "product_title": "Dahua Event Detection Intelligent Server",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server/event-detection-server/ivs-tb9000-2k-ts2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/image/1_0_01_18_11085_690370498_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ivs-tb9000-2k-ts2.html",
+  "detail": {
+    "title": "Dahua Event Detection Intelligent Server",
+    "model": "IVS-TB9000-2K-TS2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IVS-TB9000-2K-TS2 Dahua Event Detection Intelligent Server Key Points Supports one-click deployment, mainly used in traffic management and road operation and maintenance scenarios such as expressways, urban expressways, viaducts, tunnels, and cross-sea bridge. Each intelligent analysis card supports analysis of 32 channels in 2 MP or 4 MP or 16 channels in 8 MP. 20 rules can be configured for each channel. You can configure detection for littering, smoke and heat for up to 16 of the 32 channels in 2 MP or 4 MP, or for 16 channels in 8 MP. Supports traffic parameters collection: Lane number, traffic flow, small-sized vehicles, passenger vehicles, trucks, average speed, time occupancy ratio, space occupancy ratio, queue length, the distance between two vehicles, and the time between two vehicles passing the detection line, and the status of the traffic. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/image/1_0_01_18_11085_690370498_crop_thumb.PNG",
+        "alt": "IVS-TB9000-2K-TS2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/image/1_0_01_18_11085_690370499_crop_thumb.PNG",
+        "alt": "IVS-TB9000-2K-TS2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/image/1_0_01_18_11085_690370500_crop_thumb.PNG",
+        "alt": "IVS-TB9000-2K-TS2_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Intelligence Analysis Card": {},
+      "Memory": {},
+      "Disk": {},
+      "Multi-rules Application": {},
+      "Setting of Detection Area and Exclusion Area": {},
+      "Real-time Display": {},
+      "Parking Detection": {},
+      "Pedestrian Detection": {},
+      "Non-motor Vehicle Detection": {},
+      "Traffic Congestion Detection": {},
+      "Traffic Flow Statistics": {},
+      "Dense Fog Detection": {},
+      "Road Debris Detection": {},
+      "Intrusion": {},
+      "Lane Change": {},
+      "Wrong-way Driving Detection": {},
+      "Illegal Backing Detection": {},
+      "Construction Detection": {},
+      "Roadblock Detection": {},
+      "Traffic Accident Detection": {},
+      "Heat Detection": {},
+      "Smoke Detection": {},
+      "Crossing Solid Line Detection": {},
+      "Speeding Detection": {},
+      "Driving Too Slow Detection": {},
+      "Truck Entered Prohibited Area": {},
+      "Hazardous Material Transport Vehicle Detection": {},
+      "Driving in Emergency Lane": {},
+      "Alarm Search": {},
+      "Scenario Type": {},
+      "Camera Installation Method": {},
+      "Camera Installation Height": {},
+      "Camera Installation Angle": {},
+      "Video Resolution": {},
+      "Camera Access": {},
+      "Access Channel": {},
+      "Network Bandwidth": {},
+      "Multi-channel Playback": {},
+      "Traffic Event Detection Type": {},
+      "Network Port": {},
+      "USB": {},
+      "VGA": {},
+      "Others": {},
+      "Power Supply": {},
+      "Power Redundancy": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Gross Weight": {},
+      "Net Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Installation": {},
+      "Certifications": {},
+      "Product Type": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/datasheet/DHI-IVS-TB9000-2K-TS2_datasheet_20260210.pdf"
+      },
+      {
+        "name": "2026-01-20 #User Manual Dahua Intelligent Video Analysis Server for Traffic Event Detection (TB9000-K)_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86429/user_manual/Dahua_Intelligent_Video_Analysis_Server_for_Traffic_Event_Detection_(TB9000-K)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-01-05 #A&E Document IVS-TB9000-2K-TS2_A&E_20260908111206 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/a_e_document/1788837643994.docx"
+      },
+      {
+        "name": "2026-06-04 #Drawings IVS-TB9000-2K-TS2_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/drawings/1_0_01_18_11085_951790208.pdf"
+      },
+      {
+        "name": "2026-06-04 #Drawings IVS-TB9000-2K-TS2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86430/drawings/1_0_01_18_11085_951790207.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/intelligent-computing/intelligent-video-server/event-detection-server/ivs-tb9000-2k-ts2"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://antesports.com/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://antesports.com/collections/gaming-cabinet",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "508204155171",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Gaming Cabinet",
+      "300 Air Mini Gaming Chassis - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315418992931",
+    "product_name": "300 Air Mini Gaming Chassis - Black",
+    "product_title": "300 Air Mini Gaming Chassis - Black",
+    "product_url": "https://antesports.com/products/ant-esports-chassis-300-air-mini-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_6e5c2bf6-8d49-4a6c-8e1a-0ee6828ff005.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-chassis-300-air-mini-black.html",
+  "detail": {
+    "title": "300 Air Mini Gaming Chassis - Black",
+    "model": "AESP0320",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Chassis 300 Air Mini - Black is a premium gaming cabinet designed to deliver excellent performance for gaming, content creation, and high-performance PC builds. Featuring support for M-ATX, M-ITX motherboards, 3(2x Front, 1xRear) pre-installed fans, and support for graphics cards up to 300mm long, it ensures reliability, durability, and compatibility with modern hardware. Whether you are building a new PC or upgrading your current setup, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and PC builders.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_6e5c2bf6-8d49-4a6c-8e1a-0ee6828ff005.png",
+        "alt": "300 Air Mini Gaming Chassis - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_5e8b20df-d452-4eda-8837-1ca3a3c74cb1.png",
+        "alt": "300 Air Mini Gaming Chassis - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_cf2d7956-1e18-40e7-aaf2-4f21ffd04384.png",
+        "alt": "300 Air Mini Gaming Chassis - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_6cbb153c-f1f9-4333-8b2b-f375a762a735.png",
+        "alt": "300 Air Mini Gaming Chassis - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Series": "MINI",
+        "Product Type": "Cabinet",
+        "Length (mm)": "352",
+        "Width (mm)": "220",
+        "Height (mm)": "400",
+        "Volume (liters)": "31",
+        "Motherboard Support": "M-ATX, M-ITX",
+        "ODD (5.25\") Bays": "None",
+        "HDD (3.5\") Bays": "2",
+        "SSD (2.5\") Bays": "1",
+        "Front FAN Support": "2x120mm",
+        "Top FAN Support": "2x120mm, 2x140mm",
+        "Bottom FAN Support": "2x120mm",
+        "Rear FAN Support": "1x120mm",
+        "Side FAN Support": "None",
+        "Front AIO Support": "None",
+        "Top AIO Support": "240mm",
+        "Bottom AIO Support": "None",
+        "Rear AIO Support": "120mm",
+        "Side AIO Support": "None",
+        "Pre-Installed FANs": "3(2x Front, 1xRear)",
+        "Max. VGA Card Length (mm)": "300",
+        "Max. CPU Cooler Height (mm)": "185",
+        "I/O Panel": "1xUSB 3.0, 2xUSB",
+        "Expansion Slots": "4",
+        "SERIES": "MINI",
+        "PRODUCT TYPE": "Cabinet",
+        "LENGTH (MM)": "352",
+        "WIDTH (MM)": "220",
+        "HEIGHT (MM)": "400",
+        "VOLUME (LITERS)": "31",
+        "MOTHERBOARD SUPPORT": "M-ATX, M-ITX",
+        "ODD (5.25\") BAYS": "None",
+        "HDD (3.5\") BAYS": "2",
+        "SSD (2.5\") BAYS": "1",
+        "FRONT FAN SUPPORT": "2x120mm",
+        "TOP FAN SUPPORT": "2x120mm, 2x140mm",
+        "BOTTOM FAN SUPPORT": "2x120mm",
+        "REAR FAN SUPPORT": "1x120mm",
+        "SIDE FAN SUPPORT": "None",
+        "FRONT AIO SUPPORT": "None",
+        "TOP AIO SUPPORT": "240mm",
+        "BOTTOM AIO SUPPORT": "None",
+        "REAR AIO SUPPORT": "120mm",
+        "SIDE AIO SUPPORT": "None",
+        "PRE-INSTALLED FANS": "3(2x Front, 1xRear)",
+        "MAX. VGA CARD LENGTH (MM)": "300",
+        "MAX. CPU COOLER HEIGHT (MM)": "185",
+        "I/O PANEL": "1xUSB 3.0, 2xUSB",
+        "EXPANSION SLOTS": "4",
+        "Offer Price (INR)": "₹3,599.00",
+        "MRP (INR)": "₹4,199.00",
+        "SKU": "AESP0320"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-chassis-300-air-mini-black"
+  }
+}

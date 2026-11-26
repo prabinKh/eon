@@ -1,0 +1,101 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "Wireless Transmitter",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/wireless-transmitter",
+    "tab_title": "Wireless Transmitter",
+    "tab_id": "13437",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "Wireless Transmitter",
+      "Wireless Transmitter"
+    ]
+  },
+  "card_info": {
+    "product_id": "100307",
+    "product_name": "PKP-WP0B",
+    "product_title": "Wireless Screen Sharing Cable",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/wireless-transmitter/pkp-wp0b",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211021/1_0_01_14_11158_2121169703_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/pkp-wp0b.html",
+  "detail": {
+    "title": "Wireless Screen Sharing Cable",
+    "model": "PKP-WP0B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite PKP-WP0B Wireless Screen Sharing Cable Key Points • 1080P Output, Delivering a Crisp Image • Plug and Play, No Need to Install Software or Drivers • Hassle-Free, No Need for Cables • Screen Projection with Just the Press of a Button • Compatibility with Mainstream Operating Systems Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211021/1_0_01_14_11158_2121169703_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Hardware": {
+        "Input Resolution": "1920 × 1200",
+        "Output Resolution": "1920 × 1080",
+        "Port": "1 × USB 2.0",
+        "Input Voltage": "5 VDC",
+        "Power Consumption": "2.5 W"
+      },
+      "System config": {
+        "Transmission Delay": "< 120 m/s",
+        "Operating System": "Windows 7, Windows 8, and Windows 10; Mac OS X 10.6, Mac OS X 10.7 and later",
+        "Encryption": "CCMP",
+        "Authentication Protocol": "WPA2-PSK",
+        "Wireless Transmission Protocol": "IEEE 802.11 a/g/n",
+        "Wireless Data Rate": "54 Mbps",
+        "Frame Rate": "Windows: 1920 × 1080@25 fps/1366 × 768@25 fps IOS: 1920 × 1080@30 fps/1366 × 768@30 fps"
+      },
+      "Structure": {
+        "Net Weight": "63.3 g (0.14 lb)",
+        "Dimensions": "61 mm × 156 mm × 17 mm (2.40'' × 6.14\" × 0.67\")"
+      },
+      "Environment": {
+        "Operating Temperature": "5 °C to 40 °C (41 °F to +104 °F)",
+        "Operating Humidity": "0%–80% ((no condensation)",
+        "Transmission Distance": "The distance between wireless projectors and the host is up to 15 m",
+        "Frequency Band": "2.4 GHz and 5 GHz (recommended)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DHI-PKP-WP0B_datasheet_20211019.pdf"
+      },
+      {
+        "name": "2023-11-09 #Drawings PKP-WP0B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/27557/drawings/PKP-WP0B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/wireless-transmitter/pkp-wp0b"
+  }
+}

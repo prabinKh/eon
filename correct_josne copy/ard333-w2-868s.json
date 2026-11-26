@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "153621",
+    "product_name": "ARD333-W2(868S)",
+    "product_title": "Dahua Wireless Door Detector",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard333-w2(868s)",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_854347561-Black_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard333-w2-868s.html",
+  "detail": {
+    "title": "Dahua Wireless Door Detector",
+    "model": "ARD333-W2(868S)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD333-W2(868S) Dahua Wireless Door Detector Key Points · An external input for connecting wired detector · Cloud update Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_854347561-Black_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_Other-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_823559428_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_823534800_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_823534801_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_854344841-Black_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_854344840-Black_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_45Right-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_854347560-Black_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/image/1_0_01_19_10989_854344842-Black_crop_thumb.PNG",
+        "alt": "ARD333-W2(868S)_Rendergraph_Rear-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Port": {
+        "Alarm Input": "1-channel external digital input"
+      },
+      "Function": {
+        "Indicator Light": "1 × green alarm indicator",
+        "Button": "1 × power button",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "Yes",
+        "Measuring Range (Temperature)": "–15 °C to +65 °C (+5 °F to +149 °F) (indoor)"
+      },
+      "Technical": {
+        "Sensor": "Reed switch",
+        "Movement Distance": "< 40 mm (1.57\")",
+        "Anti-EMI/RFI Interference": "Yes",
+        "Test Mode": "Yes",
+        "Scenario": "Non-metal doors"
+      },
+      "Wireless": {
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 25 mW",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "Up to 1,400 m (4,593.18 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "CR123A battery",
+        "Power Supply Type": "Type C",
+        "Battery Model": "CR123A",
+        "Battery Life": "A single CR123 battery can last for 4.6 years if alarms are triggered 2 times a day, with a battery efficiency of 80%.",
+        "Low Battery Threshold": "2.2V",
+        "Battery Restore Threshold": "2.6V",
+        "Power Consumption": "0.258 W (Max), 0.087 mW (Standby)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "101.0 mm × 21.0 mm × 22.2 mm (3.98\" × 0.83\" × 0.87\") (L × W × H)",
+        "Net Weight": "48.7 g (0.11 lb)",
+        "Gross Weight": "88 g (0.19 lb)",
+        "Installation": "Wall mount",
+        "Casing Material": "PC + ABS",
+        "Certifications": "CE",
+        "Packaging Dimensions": "110.0 mm × 75.0 mm × 33.0 mm (3.61\" × 2.46\" × 1.08\") (L × W × H)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ARD333-W2(868S)_datasheet_20250807.pdf"
+      },
+      {
+        "name": "2026-07-07 #User Manual Dahua Wireless Door Detector_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84610/user_manual/Dahua_Wireless_Door_Detector_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-07-07 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2026-07-07 #User Manual Wireless Door Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84609/user_manual/Wireless_Door_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-14 #Drawings ARD333-W2(868S)_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/drawings/1_0_01_19_11175_970444460.pdf"
+      },
+      {
+        "name": "2025-07-28 #Drawings ARD333-W2(868S)_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/drawings/1_0_01_19_11175_803523773.pdf"
+      },
+      {
+        "name": "2025-07-28 #Drawings ARD333-W2(868S)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/drawings/1_0_01_19_11175_798344651.pdf"
+      },
+      {
+        "name": "2025-07-28 #Drawings ARD333-W2(868S)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87986/drawings/1_0_01_19_11175_798344649.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard333-w2(868s)"
+  }
+}

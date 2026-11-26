@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC270 RGB Gaming Laptop Cooling Stand"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032800547",
+    "product_name": "NC270 RGB Gaming Laptop Cooling Stand",
+    "product_title": "NC270 RGB Gaming Laptop Cooling Stand",
+    "product_url": "https://antesports.com/products/nc270-rgb-gaming-laptop-cooling-stand",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_184f969e-ea20-402f-bf69-39c081982673.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc270-rgb-gaming-laptop-cooling-stand.html",
+  "detail": {
+    "title": "NC270 RGB Gaming Laptop Cooling Stand",
+    "model": "AEPP0206",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC270 packs a heterogeneous 5-fan setup into a rugged hexagonal design, combining four 140mm ducted fans (up to 900 RPM) with a mini 70mm centrifugal fan capable of reaching 2500 RPM for focused, rapid heat dissipation. Reinforced ABS plastic and aluminium construction with a metal grid top optimizes airflow for large, high-end gaming laptops, while a completely flat design keeps the pad sturdy and stable during marathon sessions. A front touch control bar lets you switch between auto and manual airflow modes across 6 total speed levels, and an LCD screen shows live settings at a glance. Two adjustable angles and dual USB ports round out a genuinely premium cooling solution built for laptops up to 17 inches.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_184f969e-ea20-402f-bf69-39c081982673.png",
+        "alt": "NC270 RGB Gaming Laptop Cooling Stand - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "5 (4x140mm + 1x70mm), Up to 2500 RPM",
+        "Display": "LCD Screen",
+        "Controls": "Touch Control Bar, Auto/Manual",
+        "Angle Adjustment": "2 Positions",
+        "USB Ports": "2",
+        "Compatibility": "Laptops up to 17 Inches",
+        "FANS": "5 (4x140mm + 1x70mm), Up to 2500 RPM",
+        "DISPLAY": "LCD Screen",
+        "CONTROLS": "Touch Control Bar, Auto/Manual",
+        "ANGLE ADJUSTMENT": "2 Positions",
+        "USB PORTS": "2",
+        "COMPATIBILITY": "Laptops up to 17 Inches",
+        "SKU": "AEPP0206"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc270-rgb-gaming-laptop-cooling-stand"
+  }
+}

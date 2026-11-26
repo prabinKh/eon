@@ -1,0 +1,93 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Webcam",
+    "subcategory_url": "https://antesports.com/collections/webcam",
+    "series": "Webcam Series",
+    "series_url": "https://antesports.com/collections/webcam",
+    "tab_title": "Webcam",
+    "tab_id": "509985947939",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Webcam",
+      "Iris Lite HD 720P Webcam"
+    ]
+  },
+  "card_info": {
+    "product_id": "10378760651043",
+    "product_name": "Iris Lite HD 720P Webcam",
+    "product_title": "Iris Lite HD 720P Webcam",
+    "product_url": "https://antesports.com/products/iris-lite-hd-720p-webcam",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_f6243898-2536-4238-9084-a6794fb76650.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/iris-lite-hd-720p-webcam.html",
+  "detail": {
+    "title": "Iris Lite HD 720P Webcam",
+    "model": "Iris Lite HD 720P Webcam",
+    "brand": "Ant Esports",
+    "overview": "The Ant 720P HD Webcam is a reliable and easy-to-use webcam designed for online meetings, virtual classes, interviews, streaming, and everyday video calls. Featuring 720P HD video at 30FPS with a 1MP sensor, it delivers clear and natural-looking visuals. The built-in omni-directional microphone captures your voice clearly, while Auto Exposure helps maintain balanced brightness in changing lighting conditions. With UVC Plug & Play connectivity, USB support, Fixed Focus, and a flexible rotatable clip with a 60° viewing angle, it offers convenient compatibility with Windows, macOS, ChromeOS, and Android devices. Its compact design and simple setup make it a practical choice for home, office, and remote communication.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_f6243898-2536-4238-9084-a6794fb76650.png",
+        "alt": "Iris Lite HD 720P Webcam - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Brand": "Ant",
+        "Product Type": "Webcam",
+        "Video Capture Resolution": "720p",
+        "Frame Rate": "30FPS",
+        "Sensor": "1MP",
+        "Connectivity Technology": "USB",
+        "Microphone": "Built-in Omni-Directional Microphone",
+        "Focus Type": "Fixed Focus",
+        "Exposure": "Auto Exposure",
+        "Viewing Angle": "60°",
+        "Mount Type": "Universal Rotatable Clip",
+        "Colour": "Black",
+        "Compatibility": "Windows, macOS, ChromeOS, Android",
+        "Plug & Play": "Yes",
+        "Camcorder Type": "Webcam",
+        "BRAND": "Ant",
+        "PRODUCT TYPE": "Webcam",
+        "VIDEO CAPTURE RESOLUTION": "720p",
+        "FRAME RATE": "30FPS",
+        "SENSOR": "1MP",
+        "CONNECTIVITY TECHNOLOGY": "USB",
+        "MICROPHONE": "Built-in Omni-Directional Microphone",
+        "FOCUS TYPE": "Fixed Focus",
+        "EXPOSURE": "Auto Exposure",
+        "VIEWING ANGLE": "60°",
+        "MOUNT TYPE": "Universal Rotatable Clip",
+        "COLOUR": "Black",
+        "COMPATIBILITY": "Windows, macOS, ChromeOS, Android",
+        "PLUG & PLAY": "Yes",
+        "CAMCORDER TYPE": "Webcam",
+        "Offer Price (INR)": "₹999.00",
+        "MRP (INR)": "₹1,499.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/iris-lite-hd-720p-webcam"
+  }
+}

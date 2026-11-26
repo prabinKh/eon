@@ -1,0 +1,196 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Video Doorbell",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell",
+    "series": "Doorbell",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/doorbell",
+    "tab_title": "Doorbell",
+    "tab_id": "18190",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Video Doorbell",
+      "Doorbell",
+      "Doorbell"
+    ]
+  },
+  "card_info": {
+    "product_id": "152479",
+    "product_name": "DB41AW",
+    "product_title": "4MP WiFi Video Doorbell",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/doorbell/db41aw",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766782_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/db41aw.html",
+  "detail": {
+    "title": "4MP WiFi Video Doorbell",
+    "model": "DB41AW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DB41AW 4MP WiFi Video Doorbell Key Points • 4MP HD Fisheye View • Compatible with 2.4G/5G Hz Wi-Fi 6 Network • Advanced H.265 Compression • AI Human & Vehicle Detection • IR Night Vision • Abnormal Sound Alarm • Fast Bluetooth Pairing • Micro SD Card Local Storage (Max. 256GB) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766782_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766784_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766783_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766781_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766775_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751757473_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766777_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751766653_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_43559/ProductImage/1_0_01_04_43559_751775500_crop_thumb.png",
+        "alt": "DB41AW_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 198,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "Illumination Distance": "Up to 10 m (32.81 ft) (IR)",
+        "Illuminator Number": "2 (IR LED)",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "2.3 mm",
+        "Max. Aperture": "F2.2",
+        "Field of View": "H: 120°; V: 66°; D: 143°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264; H.264H; H.264B",
+        "Video Frame Rate": "Main stream: 2560 × 1440@(1–15 fps)/920 × 1080@(1–15 fps)/1280 × 720@(1–15 fps) Sub stream: 640 × 360@(1–15 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.264: 32 kbps–8192 kbps; H.265: 32 kbps–8192 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM"
+      },
+      "Network": {
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.4000–2.4835 GHz, 2.4 G, EIRP≤20 dBm",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "DMSS",
+        "Mobile Client": "Android;iOS"
+      },
+      "General": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU",
+        "Power Supply": "USB (5 VDC±5%, 2 A) or binding post power supply (10–24 VDC/14–24 VAC, 1.0 A).",
+        "Power Consumption": "Basic: 1.7 W (5 VDC); 2.1 W (10–24 VDC); 2.2 W (14–24VAC, active power) Max.: 5.3 W (5 VDC); 6.8 W (10–24 VDC); 6.8 W (14–24 VAC, active power) (IR + white light + alarm on)",
+        "Operating Temperature": "–20 °C to +55 °C (–4 °F to +131 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP65",
+        "Camera Button": "One-click Call Button",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "135 mm × 45 mm × 24.2 mm (5.31\" × 1.77\" × 0.95\") (L × W × H)",
+        "Net Weight": "0.11 kg (0.24 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DB41AW_S0_datasheet_20250722.pdf"
+      },
+      {
+        "name": "2026-05-08 #User Manual Dahua DMSS_Operation Manual (Doorbell)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83302/user_manual/Dahua_DMSS_Operation_Manual_(Doorbell)_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-05-08 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2026-05-08 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2026-05-08 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2026-05-08 #User Manual Doorbell_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83302/user_manual/Doorbell_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-05-08 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2025-03-13 #A&E Document DB41AW_A&E_20260918030954 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83303/a_e_document/1789672250861.docx"
+      },
+      {
+        "name": "2026-02-02 #Drawings DB41AW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83302/drawings/DB41AB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-02 #Drawings DB41AW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83302/drawings/DB41AB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-07-02 #Firmware DH_IPC-WDB-Kant_MultiLang_PN_V2.860.0000000.26.R.260530 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83302/firmware/DH_IPC-WDB-Kant_MultiLang_PN_V2.860.0000000.26.R.260530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/video-doorbell/doorbell/db41aw"
+  }
+}

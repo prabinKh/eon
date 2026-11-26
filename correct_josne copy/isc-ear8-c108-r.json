@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "145606",
+    "product_name": "ISC-EAR8-C108-R",
+    "product_title": "Ultra Network Acrylic EAS RF Antenna",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear8-c108-r",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240425/11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-ear8-c108-r.html",
+  "detail": {
+    "title": "Ultra Network Acrylic EAS RF Antenna",
+    "model": "ISC-EAR8-C108-R",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAR8-C108-R Ultra Network Acrylic EAS RF Antenna Key Points · Under the laboratory circumstance, the max distance of the tag is from 1.6 m to 1.8 m (RF Square TagT004W), the max distance of the label is from 1.4 m to 1.6 m (RF Label 4040). · The high-performance signal transmission driver works perfectly with the multi-level operational signal receiving structure, which has features as stable operation, no temperature drift, and no performance degradation in long-term use. · Equipped with a sensitivity adjustment function, it can effectively reduce the interference of environmental noise on the Device. · A unique receiving signal filtering algorithm ensures accurate identification of tag signals with an extremely low false alarm rate. · Compatible with most RF tags and labels. · Made of acrylic material, transparent and elegant. Equipped with an LED backlight, it is suitable for all kinds of shopping malls Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/11_thumb.png",
+        "alt": "ISC-EAR8-C108-R_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/41_thumb.png",
+        "alt": "ISC-EAR8-C108-R_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/21_thumb.png",
+        "alt": "ISC-EAR8-C108-R_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240425/31_thumb.png",
+        "alt": "ISC-EAR8-C108-R_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAR8-C108-R",
+        "Technology": "Radio-Frequency (RF)",
+        "Detection Frequency Band": "8.2 MHz",
+        "Detection Distance of EAS Labels": "1.4 – 1.6 m (4.59 ft – 5.25 ft) (Distance of two antennas) * depending on environment",
+        "Detection Distance of EAS Tags": "1.6 – 1.8 m (5.25 ft – 5.91 ft) (Distance of two antennas) * depending on environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "RX Antenna",
+        "Adaptability": "A Single TX antenna can connect to two RX antennas simultaneously",
+        "Sound and Light Alarm": "Yes",
+        "Network Communication Protocol": "HTTP, TCP/IP",
+        "Open Protocols": "SDK",
+        "Supporting Software": "DSS Pro, Configtool, WISS",
+        "Configuration on Webpage": "Yes"
+      },
+      "Certifications": {
+        "Certifications": "IEC 60068-2-1 IEC 60068-2-2 CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments.",
+        "Safety": "ICNIRP 2010 Guidelines ICNIRP 1998 Guidelines EC directive 2013/35/EU EC recommendation 1999/519/EC IEEE C95.1:2005 EN IEC 62311:2020 EN 50364:2010 EN 62369-1:2010"
+      },
+      "Ports": {
+        "CCTV Port": "Output port for the linkage signal of the camera.",
+        "Network Interface": "RJ45",
+        "Power Interface": "4 Pin Terminal Block"
+      },
+      "Regular Parameters": {
+        "Shell Material": "Acrylic",
+        "Shell Color": "Transparent",
+        "Input Voltage": "24 VDC / 3 A",
+        "Output Voltage": "NA",
+        "Maximum Power Consumption": "5 W",
+        "Typical Power Consumption": "4 W",
+        "Overall Exterior Size": "1569 mm × 350 mm × 134 mm (61.77\" × 13.78\" × 5.28\")",
+        "Packing Size of Primary / Replica Antenna": "1690 mm × 464 mm × 213 mm (66.54\" × 18.27\" × 8.39\")",
+        "Net Weight": "15 kg (33.07 lb)",
+        "Gross Weight": "20 kg (44.09 lb)",
+        "Operating Temperature": "0 °C to 45 °C ( 32 °F to 113 °F)",
+        "Operating Humidity": "0 % – 95 % (RH)",
+        "Installation": "Vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAR8-C108-R_S0_datasheet_20240306.pdf"
+      },
+      {
+        "name": "2024-03-15 #User Manual 8 Series RF Anti-theft Antenna_User's Manual_V1.0.0 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/DOR/PUM0009038/8_Series_RF_Anti-theft_Antenna_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-03-05 #Firmware General_ISCEAR8C1xx_V1.000.0000000.1.R.250211 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3057813/M/General_ISCEAR8C1xx_V1.000.0000000.1.R.250211.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear8-c108-r"
+  }
+}

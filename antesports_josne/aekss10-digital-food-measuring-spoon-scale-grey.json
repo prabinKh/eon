@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Digital Food Measuring Spoon Scale - Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353571594531",
+    "product_name": "Digital Food Measuring Spoon Scale - Grey",
+    "product_title": "Digital Food Measuring Spoon Scale - Grey",
+    "product_url": "https://antesports.com/products/aekss10-digital-food-measuring-spoon-scale-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/56.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aekss10-digital-food-measuring-spoon-scale-grey.html",
+  "detail": {
+    "title": "Digital Food Measuring Spoon Scale - Grey",
+    "model": "ANTR0012",
+    "brand": "Ant Esports",
+    "overview": "The Ant AEKSS10 is a digital measuring spoon scale that combines a scoop and precision scale in one compact tool, weighing solids, liquids and powders up to 300g for accurate portion control in the kitchen. It supports 3 measurement units (grams, ounces, millilitres) with a tare function and an easy-to-read LCD screen, making it simple to zero out a container before adding ingredients. A detachable scoop design allows fast, thorough cleaning after each use, while a practical hanging loop keeps it neatly stored and within reach in any kitchen drawer or hook. Auto shut-off after 60 seconds of standby conserves battery, making the AEKSS10 a genuinely handy tool for home cooks, bakers, chefs, coffee brewers and even pet owners measuring food portions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/56.png",
+        "alt": "Digital Food Measuring Spoon Scale - Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Capacity": "300g",
+        "Units": "Grams, Ounces, Millilitres",
+        "Function": "Tare, Auto Shut-Off",
+        "Display": "LCD",
+        "Design": "Detachable Scoop with Hanging Loop",
+        "Color": "Grey",
+        "CAPACITY": "300g",
+        "UNITS": "Grams, Ounces, Millilitres",
+        "FUNCTION": "Tare, Auto Shut-Off",
+        "DISPLAY": "LCD",
+        "DESIGN": "Detachable Scoop with Hanging Loop",
+        "COLOR": "Grey",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹2,099.00",
+        "SKU": "ANTR0012"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aekss10-digital-food-measuring-spoon-scale-grey"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "PS431 Power Strip with Individual Switches - Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348822004003",
+    "product_name": "PS431 Power Strip with Individual Switches - Grey",
+    "product_title": "PS431 Power Strip with Individual Switches - Grey",
+    "product_url": "https://antesports.com/products/ps431-power-strip-individual-switch-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/33_20eecc24-4cd4-437f-be60-c5387d72084a.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps431-power-strip-individual-switch-grey.html",
+  "detail": {
+    "title": "PS431 Power Strip with Individual Switches - Grey",
+    "model": "ANTP0041",
+    "brand": "Ant Esports",
+    "overview": "The Ant PS431 is a 10ft universal extension cord featuring 4 AC outlets, 3 USB-A ports and 1 Type-C PD port, letting you power up to 8 devices at once. What sets it apart is a dedicated individual power switch for each outlet, letting you turn off unused sockets to improve safety, save electricity and skip the hassle of constantly plugging and unplugging devices. Built with a 10-foot heavy-duty pure copper cable rated for 10A / 2500W at 220-250V, it handles high-power devices reliably, while wide socket spacing accommodates large power adapters without blocking neighbouring outlets. A practical, safety-conscious extension cord for home, office or retail store use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/33_20eecc24-4cd4-437f-be60-c5387d72084a.jpg",
+        "alt": "PS431 Power Strip with Individual Switches - Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "AC Outlets": "4, Individual Switches",
+        "USB Ports": "3 x USB-A + 1 x Type-C PD",
+        "Cord Length": "10 ft",
+        "Max Power": "2500W / 10A, 220-250V",
+        "Color": "Grey",
+        "AC OUTLETS": "4, Individual Switches",
+        "USB PORTS": "3 x USB-A + 1 x Type-C PD",
+        "CORD LENGTH": "10 ft",
+        "MAX POWER": "2500W / 10A, 220-250V",
+        "COLOR": "Grey",
+        "Offer Price (INR)": "₹749.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "ANTP0041"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps431-power-strip-individual-switch-grey"
+  }
+}

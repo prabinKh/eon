@@ -1,0 +1,186 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizSense 2 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series",
+    "tab_title": "WizColor",
+    "tab_id": "18060",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizSense 2 Series",
+      "WizColor"
+    ]
+  },
+  "card_info": {
+    "product_id": "153549",
+    "product_name": "IPC-HFW2449M-S-B-PRO",
+    "product_title": "4MP WizColor Fixed-focal Bullet WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/wizcolor/ipc-hfw2449m-s-b-pro=s1",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47140/ProductImage/1_0_01_04_47140_676171429_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw2449m-s-b-pro-s1.html",
+  "detail": {
+    "title": "4MP WizColor Fixed-focal Bullet WizSense Network Camera",
+    "model": "IPC-HFW2449M-S-B-PRO",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW2449M-S-B-PRO 4MP WizColor Fixed-focal Bullet WizSense Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • Exceptional Image Quality in Low-Light Environments by WizColor Technology • Deep Learning-Based Human and Vehicle Classification • Built-in Mic for Real-Time Audio Security • Supports Max. 256G Micro SD card • Efficient H.264+/H.265+ Compression Technology • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47140/ProductImage/1_0_01_04_47140_676171429_crop_thumb.PNG",
+        "alt": "IPC-HFW2449M-S-B-PRO_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47140/ProductImage/1_0_01_04_47140_676171405_crop_thumb.PNG",
+        "alt": "IPC-HFW2449M-S-B-PRO_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_47140/ProductImage/1_0_01_04_47140_676171428_crop_thumb.PNG",
+        "alt": "IPC-HFW2449M-S-B-PRO_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 199,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Max. Resolution": "2688 (H) × 1520 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.0001 lux@F1.0",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "Up to 50 m (164.04 ft) (Warm light)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "4 (Warm light)",
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M16",
+        "Focal Length": "3.6 mm; 6 mm",
+        "Max. Aperture": "F1.0",
+        "Field of View": "3.6 mm: H: 89°; V: 48°; D: 105° 6 mm: H: 55°; V: 29°; D: 64°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "3.6 mm: 3.0 m (9.84 ft) 6 mm: 6.0 m (19.69 ft)",
+        "DORI Distance": "Lens",
+        "3.6 mm": "70.3 m (230.64 ft)",
+        "6 mm": "116.6 m (382.55 ft)",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of vehicle and human)",
+        "SMD": "SMD Plus",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Main stream: 2688 × 1520@(1–20 fps)/2560 × 1440@(1–25/30 fps) sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Streaming Capability": "2 streams",
+        "Resolution": "4M (2688 × 1520/2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "VBR; CBR",
+        "Video Bit Rate": "H.264: 32 kbps–6144 kbps; H.265: 12 kbps–6144 kbps",
+        "Day/Night": "Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2688 ×1520 resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "LDC": "Yes",
+        "Defog": "Yes",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; audio detection; voltage detection; SMD; security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; P2P; Bonjour; Auto Registration",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T & Profile M); CGI",
+        "User/Host": "20 (Total bandwidth: 48 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE; Chrome; Firefox",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "Android;iOS",
+        "Security": "Session security;Digest; WSSE; Account lockout; Trusted execution; Generation and importing of X.509 certification; 802.1x; Security logs; Security warning; IP/MAC filtering; HTTPS; Trusted upgrade; syslog; Trusted boot",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU",
+        "Power Supply": "12 VDC (±30%); PoE (802.3af)",
+        "Power Consumption": "Basic: 1.7 W (12 VDC); 2.0 W (PoE); Max.: 5.3 W (12 VDC); 6.3 W (PoE) (H.265+ intelligence on + WDR + illuminator intensity)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP67",
+        "Casing Material": "Metal + plastic",
+        "Product Dimensions": "201.0 mm × 103.8 mm × 97.8 mm (7.91\" × 4.09\" × 3.85\") (L × W × H)",
+        "Net Weight": "0.66 kg (1.46 lb)",
+        "Gross Weight": "1.12 kg (2.47 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-IPC-HFW2449M-S-B-PRO_S1_datasheet_20250909.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88203/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Bullet Network Camera Installation Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88203/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-01-24 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5137/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2025-07-11 #A&E Document IPC-HFW2449M-S-B-PRO_A&E_20260922103844 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84676/a_e_document/1790045442805.docx"
+      },
+      {
+        "name": "2025-06-21 #Drawings IPC-HFW2449M-S-B-PRO_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87636/drawings/IPC-HFW2449M-AS-B-PRO_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-06-21 #Drawings IPC-HFW2449M-S-B-PRO_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87636/drawings/IPC-HFW2449M-AS-B-PRO_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-06 #Firmware DH_IPC-HX2XXX-Hugo_MultiLang_PN_V3.120.0000000.38.R.260623 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84676/firmware/DH_IPC-HX2XXX-Hugo_MultiLang_PN_V3.120.0000000.38.R.260623.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizsense-2-series/wizcolor/ipc-hfw2449m-s-b-pro=s1"
+  }
+}

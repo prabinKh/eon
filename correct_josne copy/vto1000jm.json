@@ -1,0 +1,134 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "4-Wire Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series",
+    "series": "Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station",
+    "tab_title": "Door Station",
+    "tab_id": "5807",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "4-Wire Series",
+      "Door Station",
+      "Door Station"
+    ]
+  },
+  "card_info": {
+    "product_id": "62527",
+    "product_name": "VTO1000JM",
+    "product_title": "Analog Door Station",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station/vto1000jm",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210406/1_0_01_15_11668_1628762125_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vto1000jm.html",
+  "detail": {
+    "title": "Analog Door Station",
+    "model": "VTO1000JM",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTO1000JM Analog Door Station Key Points • Video Intercom Function: Unlock, Voice Call, Video Call and Volume • Multiple Bell Sounds • Supports Digital Wide Dynamic Range (DWDR) • Mechanical Button • Metallic Appearance • IK07 & IP66 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210406/1_0_01_15_11668_1628762125_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210406/1_0_01_15_11668_1628762124_thumb.png",
+        "alt": "VTO1000JM",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Button Type": "Mechanical"
+      },
+      "Basic": {
+        "Camera": "1/4\" 1.3 MP CMOS",
+        "Field of View": "Horizontal: 70° Vertical: 40°",
+        "WDR": "DWDR",
+        "Illuminator Type": "Auto IR",
+        "Day/Night": "ICR auto switch",
+        "Audio Input": "1 channel to the microphone; pickup distance 0.5 m",
+        "Audio Output": "1 channel to the speaker",
+        "Indicator Light": "1 indicator light; Green: Power on"
+      },
+      "Function": {
+        "Communication Method": "Analog",
+        "Unlock Mode": "Remote unlock"
+      },
+      "Performance": {
+        "Casing": "ADC12"
+      },
+      "Port": {
+        "Unlock Button": "1",
+        "Door Status Detection": "1"
+      },
+      "General": {
+        "Color": "Black",
+        "Power Supply": "Powered by indoor monitor",
+        "Installation": "Surface mount",
+        "Certifications": "CE/FCC",
+        "Accessory": "Rain cover (included)",
+        "Dimensions": "131.45 mm × 46.00 mm × 33.80 mm (5.18\" × 1.81\" × 1.33\")",
+        "Protection Grade": "IP66 (Apply silicon sealant to gaps between the device and the wall. Liquid sodium silicate is recommended. For details, see the quick start guide.)",
+        "Operating Temperature": "-30°C to +60°C (-22°F to +140°F)",
+        "Operating Humidity": "10%RH–95%RH",
+        "Power Consumption": "≤ 1W (standby) ≤ 3W (working)",
+        "Net Weight": "0.18 kg (0.40 lb)",
+        "Gross Weight": "0.40 kg (0.84 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTO1000JM_datasheet_20210603.pdf"
+      },
+      {
+        "name": "2026-01-16 #User Manual Analog 4-Wire Intercom_User Manual_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6997/user_manual/Analog_4-Wire_Intercom_User_Manual_V2.0.0.pdf"
+      },
+      {
+        "name": "2025-03-03 #Drawings VTO1000JM_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6987/drawings/VTH1020J_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2026-07-09 #Drawings VTO1000JM_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6997/drawings/1_0_01_15_11498_968896613.pdf"
+      },
+      {
+        "name": "2026-07-09 #Drawings VTO1000JM_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6997/drawings/1_0_01_15_11498_968896612.pdf"
+      },
+      {
+        "name": "2023-11-09 #Drawings VTO1000JM_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/6997/drawings/VTO1000J_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/4-wire-series/door-station/vto1000jm"
+  }
+}

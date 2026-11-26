@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "HSB1111 Hair Straightener - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341738316067",
+    "product_name": "HSB1111 Hair Straightener - Black",
+    "product_title": "HSB1111 Hair Straightener - Black",
+    "product_url": "https://antesports.com/products/hsb1111-hair-straightener-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_461198a6-e731-4a21-9105-3dd617501094.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/hsb1111-hair-straightener-black.html",
+  "detail": {
+    "title": "HSB1111 Hair Straightener - Black",
+    "model": "AEPP0168",
+    "brand": "Ant Esports",
+    "overview": "Ant Esports HSB1111 is a sleek, high-performance flat iron hair straightener featuring advanced ceramic-coated plates for even heat distribution and minimal hair damage. Delivers smooth, frizz-free, salon-finish results at home with fast heat-up, suitable for all hair types including straight, wavy and curly hair.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/7_461198a6-e731-4a21-9105-3dd617501094.png",
+        "alt": "HSB1111 Hair Straightener - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Type": "Flat Iron Straightener",
+        "Plates": "Ceramic Coated",
+        "Heat-up": "Fast heating",
+        "Use": "Straightening & light curling",
+        "Color": "Black",
+        "Style": "Compact, travel-friendly",
+        "TYPE": "Flat Iron Straightener",
+        "PLATES": "Ceramic Coated",
+        "HEAT-UP": "Fast heating",
+        "USE": "Straightening & light curling",
+        "COLOR": "Black",
+        "STYLE": "Compact, travel-friendly",
+        "SKU": "AEPP0168"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/hsb1111-hair-straightener-black"
+  }
+}

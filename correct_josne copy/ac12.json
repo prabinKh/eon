@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "Wireless Router",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/wireless-router",
+    "tab_title": "Wireless Router",
+    "tab_id": "16397",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "Wireless Router",
+      "Wireless Router"
+    ]
+  },
+  "card_info": {
+    "product_id": "129927",
+    "product_name": "AC12",
+    "product_title": "AC1200 Wireless Router",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/routers/wirelessrouter/ac12",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_83_10156/ProductImage/1_0_99_83_10156_411241266_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/ac12.html",
+  "detail": {
+    "title": "AC1200 Wireless Router",
+    "model": "AC12",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_83_10156/ProductImage/1_0_99_83_10156_411241266_thumb.png",
+        "alt": "AC12",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/routers/wirelessrouter/ac12"
+  }
+}

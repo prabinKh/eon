@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Heat Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/heat-alarms",
+    "tab_title": "Heat Alarms",
+    "tab_id": "16557",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Heat Alarms",
+      "Heat Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "154197",
+    "product_name": "HY-HT5MA",
+    "product_title": "Mains Heat Alarm with Rechargeable Lithium Battery Back-up",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/heat-alarms/hy-ht5ma",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15669/ProductImage/1_0_01_36_15669_535607563_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-ht5ma.html",
+  "detail": {
+    "title": "Mains Heat Alarm with Rechargeable Lithium Battery Back-up",
+    "model": "HY-HT5MA",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-HT5MA Mains Heat Alarm with Rechargeable Lithium Battery Back-up Key Points · Class A1 fire detection (54°C to 65°C) · Response times from typical application temperature · Built-in 10-year rechargeable lithium battery back-up · Hardwire interconnection up to 24 units · Wireless interconnected with maximum of 24 devices, compatible with WisuLink wireless interconnected module · Test and silence features in the central push button · Loud sound output over 85 dB(A) at 3 meters · Silenced by a working infrared remote controller Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15669/ProductImage/1_0_01_36_15669_535607563_crop_thumb.png",
+        "alt": "HY-HT5MA_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15669/ProductImage/1_0_01_36_15669_535607561_crop_thumb.png",
+        "alt": "HY-HT5MA_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15669/ProductImage/1_0_01_36_15669_535607562_thumb.png",
+        "alt": "HY-HT5MA_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15669/ProductImage/1_0_01_36_15669_535607560_thumb.png",
+        "alt": "HY-HT5MA_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15669/ProductImage/1_0_01_36_15669_535607564_crop_thumb.png",
+        "alt": "HY-HT5MA_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Collection Type": "Temperature",
+        "Sampling Period": "10 s",
+        "Sensor Type": "Thermistor",
+        "Alarm Type": "Heat alarm, fault warning, low battery warning",
+        "Alarm at Temperature Range": "+54°C to +65°C (+129°F to 149°F)",
+        "Alarm Volume": "≥ 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Silence Duration": "9 min",
+        "Silence by IR Remotes": "Support",
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator remains lit Alarm: Red indicator flashes once per second Sensor fault: Yellow indicator flashes twice per minute Low battery backup fault: Yellow indicator flashes once per minute",
+        "Maximum Number of Connected Units": "24 hardwire interconnected / 24 wirelessly interconnected with WisuLink wireless interconnected module",
+        "Power Source": "AC 100V - 250V, 50/60Hz",
+        "Battery Back-up": "10-year rechargeable lithium battery",
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)",
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "Φ148.6mm × H68.4mm (Φ5.85\" × H2.69\")",
+        "Weight": "310 g",
+        "Installation": "Ceiling Mount",
+        "Certifications": "CE,UKCA,RCM,PSTI,BSI,Activfire",
+        "Compliance Standard": "BS 5446-2:2003, AS 1603.3:2018"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82541/datasheet/1441314483026.pdf"
+      },
+      {
+        "name": "2026-06-22 #User Manual Mains Heat Alarm(DHI-HY-HT5MA)_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82541/user_manual/Mains_Heat_Alarm(DHI-HY-HT5MA)_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-12-22 #Drawings HY-HT5MA_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82541/drawings/HY-HT5MA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-12-22 #Drawings HY-HT5MA_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82541/drawings/1_0_01_36_15669_535607693.pdf"
+      },
+      {
+        "name": "2023-12-22 #Drawings HY-HT5MA_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82541/drawings/1_0_01_36_15669_535607690.pdf"
+      },
+      {
+        "name": "2023-12-22 #Drawings HY-HT5MA_EXPLODED_VIEW Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82541/drawings/1_0_01_36_15669_535607689.pdf"
+      },
+      {
+        "name": "2024-11-22 #Firmware DHI_HYHT5MA_Eng_MCU_V1.000.0000002.0.R.241118 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2926924/M/DHI_HYHT5MA_Eng_MCU_V1.000.0000002.0.R.241118.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/heat-alarms/hy-ht5ma"
+  }
+}

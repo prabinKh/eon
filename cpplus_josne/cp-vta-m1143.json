@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://cpplusworld.com/products/biometric",
+    "subcategory": "Time & Attendance",
+    "subcategory_url": "https://cpplusworld.com/products/time-attendence/biometric",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Time & Attendance",
+    "tab_id": "23",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Time & Attendance",
+      "Biometric",
+      "CP-VTA-M1143"
+    ]
+  },
+  "card_info": {
+    "product_id": "563",
+    "product_name": "CP-VTA-M1143",
+    "product_title": "CP-VTA-M1143",
+    "product_url": "https://cpplusworld.com/cp-vta-m1143",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/e1ef109b-df1f-4506-92bc-689a654ef448.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-vta-m1143.html",
+  "detail": {
+    "title": "CP-VTA-M1143",
+    "model": "CP-VTA-M1143",
+    "brand": "CP Plus",
+    "overview": "Face & Fingerprint Based Time Attendance Terminal",
+    "features": [
+      "2.8\" HVGA Display (0.9071 centimeters)",
+      "Support 1000 Face Recognition",
+      "Support 10000 Fingerprints",
+      "Support 200000 Storage Capacity",
+      "Support USB 2.0"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e1ef109b-df1f-4506-92bc-689a654ef448.png",
+        "alt": "CP-VTA-M1143 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d59b9525-fd7a-4a74-bceb-fa984af5aca1.png",
+        "alt": "CP-VTA-M1143 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Display Size": "2.8” HVGA display (0.9071 centimeters)",
+        "Keyboard": "4x4 keyboard",
+        "OS Version": "Linux",
+        "CPU": "Atmel",
+        "Fingerprint Capacity": "10000",
+        "ID Card Capacity": "1000",
+        "Facial Recognition": "1000",
+        "Storage Capacity": "200000",
+        "Recognition ways": "1:N, 1: 1",
+        "Identification Mode": "Fingerprint, facial, password and ID card",
+        "Facial Recognition speed": "≤1s",
+        "Fingerprint Recognition Speed": "0.7s",
+        "FAR": "≤0.0001%",
+        "FRR": "≤0.01%",
+        "Standard Function": "USB HOST and TCP/IP, push data",
+        "Access Control": "Support",
+        "Distance": "30-80cm",
+        "Built-in Battery": "Support",
+        "Power Supply": "DC12V",
+        "Working Humidity": "20%-80%",
+        "Working Temperature": "0°C-60°C",
+        "Dimension": "165mm x 90mm × 65mm",
+        "Price (MRP)": "₹6,499.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-VTA-M1143.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/58f9d9b4-9c6a-40ae-a337-837bb90a5b6b.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-vta-m1143"
+  }
+}

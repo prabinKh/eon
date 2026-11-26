@@ -1,0 +1,127 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "Intex B3",
+    "series_url": "https://www.intex.in/collections/intex-b3",
+    "tab_title": "Biometric",
+    "tab_id": "9011944587482",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Biometric",
+      "Intex B3 Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9011944587482",
+    "product_name": "Intex B3 Biometric",
+    "product_title": "Intex B3 Biometric",
+    "product_url": "https://www.intex.in/products/intex-b3-advanced-biometric",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_50403a22-7107-401f-b9fe-989222cbd051.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 17552.0,
+      "display": "₹17,552.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-b3-advanced-biometric.html",
+  "detail": {
+    "title": "Intex B3 Biometric",
+    "model": "B3",
+    "brand": "Intex",
+    "overview": "The Intex B3 is a smart and reliable biometric attendance device designed for businesses and institutions to simplify workforce management. With fingerprint, card, and password access, it offers seamless security and accurate time tracking. It comes with battery backup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_50403a22-7107-401f-b9fe-989222cbd051.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_d7b01910-b0d8-4dfa-8d14-6bb31605a96e.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_eb9e4323-6fd1-4832-99bd-83b72a38ee4d.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_c48bbdaf-c36e-4ad6-81a6-0a28c903543b.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_d2a915f4-9ae8-472e-876c-4b8d5bda55cb.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_9a6a89a9-fdc7-4656-aba4-6c5618d1b2cc.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_60b34054-5412-43a2-bf32-2e8597f32612.jpg",
+        "alt": "Intex B3 Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 7,
+    "specifications": {
+      "General": {
+        "Finger Capacity": "3000",
+        "Card Capacity": "3000",
+        "Password Capacity": "3000",
+        "Add User": "3000",
+        "Attendance Records": "150000",
+        "Fingerprint Verification Mode": "1:1, 1:N",
+        "Working Mode": "Online / Offline",
+        "Verification Mode": "Fingerprint / Password / Card",
+        "Screen": "2.4 Inch TFT Colour Touch Screen",
+        "Language": "English",
+        "Communication": "TCP/IP, USB",
+        "Power Supply": "DC 9V",
+        "Battery Backup": "Yes",
+        "Recognition Speed": "1s",
+        "Model": "B3"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_B3.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-b3-advanced-biometric"
+  }
+}

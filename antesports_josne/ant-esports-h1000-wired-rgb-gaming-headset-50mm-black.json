@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H1000 Wired RGB Black Headphone"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421548835",
+    "product_name": "H1000 Wired RGB Black Headphone",
+    "product_title": "H1000 Wired RGB Black Headphone",
+    "product_url": "https://antesports.com/products/ant-esports-h1000-wired-rgb-gaming-headset-50mm-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_ab023651-f1d5-480b-a47a-f880f4ba2165.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-h1000-wired-rgb-gaming-headset-50mm-black.html",
+  "detail": {
+    "title": "H1000 Wired RGB Black Headphone",
+    "model": "AESP0133",
+    "brand": "Ant Esports",
+    "overview": "Level up your gaming experience with the Ant Esports H1000 Wired RGB Gaming Headset. Designed for gamers who demand powerful sound, long-lasting comfort, and broad compatibility, the H1000 features large 50mm audio drivers, immersive Auto RGB lighting, and a lightweight ergonomic design for marathon gaming sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_ab023651-f1d5-480b-a47a-f880f4ba2165.png",
+        "alt": "H1000 Wired RGB Black Headphone - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_051ad620-f8fd-4d38-868b-e6f103e832d4.png",
+        "alt": "H1000 Wired RGB Black Headphone - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_96dc07ab-8913-4fe6-96b5-a00f67f3d3f8.png",
+        "alt": "H1000 Wired RGB Black Headphone - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_3d81d0e6-b2bb-4235-85f9-f0d104f3f792.png",
+        "alt": "H1000 Wired RGB Black Headphone - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_736fb103-827e-4f3f-ba2d-38e691b21f98.png",
+        "alt": "H1000 Wired RGB Black Headphone - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired",
+        "Driver Size": "50mm",
+        "Microphone Type": "Fixed, Condenser",
+        "Wire Length": "2m",
+        "Lighting Type": "Auto RGB",
+        "Connector Type": "1 x 3.5mm (Audio), 1 x USB-A (RGB), 2-to-1 3.5mm Splitter Cable In box",
+        "Volume Control": "Inline",
+        "Compatibility": "Windows, Mac, Android, XBOX 360, PS4, Nintendo Wii",
+        "CONNECTIVITY": "Wired",
+        "DRIVER SIZE": "50mm",
+        "MICROPHONE TYPE": "Fixed, Condenser",
+        "WIRE LENGTH": "2m",
+        "LIGHTING TYPE": "Auto RGB",
+        "CONNECTOR TYPE": "1 x 3.5mm (Audio), 1 x USB-A (RGB), 2-to-1 3.5mm Splitter Cable In box",
+        "VOLUME CONTROL": "Inline",
+        "COMPATIBILITY": "Windows, Mac, Android, XBOX 360, PS4, Nintendo Wii",
+        "Offer Price (INR)": "₹1,499.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AESP0133"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-h1000-wired-rgb-gaming-headset-50mm-black"
+  }
+}

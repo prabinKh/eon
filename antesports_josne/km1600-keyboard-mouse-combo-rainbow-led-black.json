@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM1600 Gaming Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923522851",
+    "product_name": "KM1600 Gaming Keyboard & Mouse Combo - Black",
+    "product_title": "KM1600 Gaming Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/km1600-keyboard-mouse-combo-rainbow-led-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/32.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km1600-keyboard-mouse-combo-rainbow-led-black.html",
+  "detail": {
+    "title": "KM1600 Gaming Keyboard & Mouse Combo - Black",
+    "model": "AEPP0068",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM1600 is a full-size 104-key gaming keyboard and mouse combo with double-shot ABS keycaps and durable membrane construction rated for up to 10 million keystrokes. Vibrant rainbow LED backlighting with multiple lighting modes adds a premium gaming atmosphere, while the included ambidextrous mouse features backlit RGB lighting, a precise optical sensor and customizable DPI up to 3200 for fast, accurate movements. Both devices use gold-plated USB connectors for superior conductivity and reduced lag, and broad compatibility across Windows, Mac and Linux makes the KM1600 a versatile, budget-friendly combo for gaming and everyday productivity.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/32.png",
+        "alt": "KM1600 Gaming Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard Keys": "104, Double-Shot ABS",
+        "Mouse DPI": "Up to 3200",
+        "Lighting": "Rainbow LED, Multiple Modes",
+        "Durability": "10 Million Keystrokes",
+        "Compatibility": "Windows, Mac, Linux",
+        "Color": "Black",
+        "KEYBOARD KEYS": "104, Double-Shot ABS",
+        "MOUSE DPI": "Up to 3200",
+        "LIGHTING": "Rainbow LED, Multiple Modes",
+        "DURABILITY": "10 Million Keystrokes",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹859.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0068"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km1600-keyboard-mouse-combo-rainbow-led-black"
+  }
+}

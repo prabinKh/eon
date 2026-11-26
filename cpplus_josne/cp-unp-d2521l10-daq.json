@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "Speed Dome(PTZ)",
+    "subcategory_url": "https://cpplusworld.com/products/speed-dome/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Speed Dome(PTZ)",
+    "tab_id": "24",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Speed Dome(PTZ)",
+      "Network",
+      "CP-UNP-D2521L10-DAQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2087",
+    "product_name": "CP-UNP-D2521L10-DAQ",
+    "product_title": "CP-UNP-D2521L10-DAQ",
+    "product_url": "https://cpplusworld.com/cp-unp-d2521l10-daq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/a41e74bf-cf8f-4d65-9a83-4b1c6c808a0b.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unp-d2521l10-daq.html",
+  "detail": {
+    "title": "CP-UNP-D2521L10-DAQ",
+    "model": "CP-UNP-D2521L10-DAQ",
+    "brand": "CP Plus",
+    "overview": "2MP WDR 25x IR Network PTZ Camera- 100 Mtr.",
+    "features": [
+      "1/2.8” 2MP PS CMOS Image sensor (0.9071 centimeters)",
+      "Max. 2MP (1920 × 1080)@1–25fps",
+      "Powerful 25x Optical and 16x Digital zoom",
+      "WDR(120dB), Day/Night(ICR), 2D NR/ 3D NR, Defog, AWB, AGC, BLC, HLC",
+      "Up to 300 Presets, 5 Scan, 8 Tour, 5 Pattern",
+      "Support Starlight Technology",
+      "IR Range of 100 Mtr., IP66, PoE",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a41e74bf-cf8f-4d65-9a83-4b1c6c808a0b.jpg",
+        "alt": "CP-UNP-D2521L10-DAQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e0bc8f34-7bef-48a9-8139-2f791a6df3b0.jpg",
+        "alt": "CP-UNP-D2521L10-DAQ - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 2MP PS CMOS Image sensor (0.9071 centimeters)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Electronic Shutter": "1/1 s–1/30,000 s",
+        "Max. Aperture": "F1.6–F3.5",
+        "RAM": "512 MB",
+        "ROM": "256 MB",
+        "Minimum Illumination": "0.005 lux@F1.6 (Color, 30 IRE), 0.0005 lux@F1.6 (B/W, 30 IRE), 0 lux (IR light)",
+        "White Balance": "Auto, Indoor, Outdoor, Tracking, Manual, Sodium  lamp, Natural light, Street lamp",
+        "S/N Ratio": "≥55 dB",
+        "Focus Control": "Auto, Semi-auto, Manual",
+        "Lens": "4.8 mm–120 mm",
+        "Close Focus Distance": "0.1 m–1.5m",
+        "Angle of View": "H: 60.6°–3.2°; V: 34.1°–1.8°; D: 69.4°–3.7°",
+        "Iris Control": "Auto, Manual",
+        "DORI Distance": "1655.2 mm (Detect), 653.8 mm (Observe), 331.0 mm (Recognize), 165.5 mm (Identify)",
+        "Back Light Compensation": "BLC/ HLC/ WDR(120dB)",
+        "IR Control": "Zoom Prio, Manual, Auto",
+        "IR Number": "3 IR",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "IR": "IR Range of 100 Mtr.",
+        "Video Format": "PAL",
+        "Bit Rate": "H265: 86 kbps–5632 kbps, H264: 256 kbps–8192 kbps",
+        "Overlay": "Channel Title, Time Title, OSD Info (PTZ Coordinate, Zoom, North, Pattern, Temperature,    <BR>  Preset, Location, Input Text, Text Alignment), Font Properties, Custom Title, Exception Overlay",
+        "Gain Control (AGC)": "Auto, Manual",
+        "Resolution": "2MP (1920 × 1080), 720p (1280 × 720), D1 (704 × 576), CIF (352 x 288)",
+        "Pan/Tilt Angle": "Pan: 0° to 360° endless, Tilt: –15° to +90°, auto flip 180°",
+        "Optical Zoom": "25×",
+        "Digital Zoom": "16x",
+        "Image Rotation": "180°",
+        "Defog": "Electronic",
+        "Special Features": "Up to 300 Presets, 5 Pattern, 8  (up to 32 presets per tour) Tour, 5 Scan",
+        "Frame Rate": "Main stream: 2MP (1920 × 1080)@1–25fps, 720p, D1@1–25fps <BR>  Sub stream 1: D1/CIF@1–25fps,    <BR>    Sub stream 2: 2MP (1920 × 1080)@1–25fps, 720p, D1@1–25fps <BR>  Sub stream 3: D1/CIF@1–25fps,  <BR>      Sub stream 4: D1/CIF@1–25fps",
+        "Bit Rate Control": "CBR/VBR",
+        "IMD": "Support",
+        "Noise Reduction": "2D NR, 3D NR",
+        "Stream Capability": "Penta stream",
+        "Idle Motion": "Pattern, Preset, Scan, Tour",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, <BR> QoS, UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and <BR> v1.3, ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "SDK and API": "Support",
+        "Power-off Memory": "Support",
+        "Manual Speed": "Pan: 0.1°–80°/s, Tilt: 0.1°–80/s",
+        "Preset Speed": "Pan: 80°/s, Tilt: 80°/s",
+        "Event Alarm": "Motion Detection, Defocus Detection, Disk Full, Disk Error, Video Tampering, External Alarm, <BR>  Security Warning, Audio Detection,  AI Event",
+        "Alarm Linkage": "Capture, Recording, Send email, Preset, Tour, Pattern, Alarm digital output",
+        "Privacy Mask": "Support",
+        "IVS (Perimeter Protection)": "Crossing virtual fence, Tripwire, Intrusion, Abandoned Object, Fast Moving, Parking <BR>  Detection, Crowd Gathering, Missing Object, Loitering Detection, Face Detection, IMD",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs, <BR>  WSSE, Account lockout, Syslog, Video encryption, 802.1x, Allow list/Block list, HTTPS, Trusted <BR>  upgrade, Trusted boot, Firmware encryption",
+        "Audio In": "1 Channel",
+        "Audio Out": "1 Channel",
+        "Alarm IN": "2 (on-off value input: 0–5 VDC)",
+        "Alarm Out": "1 Channel",
+        "Reset Button": "Support",
+        "Weatherproof Standard": "IP66, TVS 6000V lightning proof, Surge protection, Voltage transient protection",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE, <BR> FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC (PoE), 3 A ± 10%",
+        "Power Consumption": "Basic: 6.5 W  Max.: 17.25 W",
+        "Operating Temperature": "–40 °C to +65 °C",
+        "Operating Humidity": "≤ 95% (RH)",
+        "Dimension": "270.4 mm × 160.0 mm",
+        "Weight": "2400g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNP-D2521L10-DAQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unp-d2521l10-daq"
+  }
+}

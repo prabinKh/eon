@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "SOHO Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/soho-switch",
+    "tab_title": "SOHO Switch",
+    "tab_id": "16407",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "SOHO Switch",
+      "SOHO Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "130217",
+    "product_name": "PFS3008-8ET-L",
+    "product_title": "8-Port Unmanaged Ethernet Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/plasticswitch/pfs3008-8et-l",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220804/PFS3008-8ET-L_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfs3008-8et-l.html",
+  "detail": {
+    "title": "8-Port Unmanaged Ethernet Switch",
+    "model": "PFS3008-8ET-L",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220804/PFS3008-8ET-L_1_thumb.png",
+        "alt": "PFS3008-8ET-L",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/home/sohoswitches/plasticswitch/pfs3008-8et-l"
+  }
+}

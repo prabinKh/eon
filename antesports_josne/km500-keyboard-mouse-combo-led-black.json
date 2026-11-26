@@ -1,0 +1,80 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM500 RGB Keyboard & Mouse Combo - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791771427",
+    "product_name": "KM500 RGB Keyboard & Mouse Combo - Black",
+    "product_title": "KM500 RGB Keyboard & Mouse Combo - Black",
+    "product_url": "https://antesports.com/products/km500-keyboard-mouse-combo-led-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/74.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km500-keyboard-mouse-combo-led-black.html",
+  "detail": {
+    "title": "KM500 RGB Keyboard & Mouse Combo - Black",
+    "model": "AEPP0271",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM500 pairs a brushed-aluminium finish keyboard with per-key backlit double-shot ABS keycaps and a 6D optical mouse, delivering a complete gaming setup in one affordable combo. The keyboard's reinforced aluminium plate prevents warping over time, while a comfortable anti-slip rubberized mouse coating paired with a highly sensitive optical sensor makes for precise, comfortable control. A dedicated DPI toggle button switches between 800 and 3200 DPI to suit different gaming genres and productivity tasks, and integrated wrist support on the keyboard keeps hands comfortable during long sessions. True plug-and-play compatibility spans Windows and Mac, with no extra software required.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/74.png",
+        "alt": "KM500 RGB Keyboard & Mouse Combo - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Mouse DPI": "800-3200",
+        "Keyboard Finish": "Brushed Aluminium",
+        "Extras": "Integrated Wrist Support",
+        "Compatibility": "Windows, Mac",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired USB",
+        "MOUSE DPI": "800-3200",
+        "KEYBOARD FINISH": "Brushed Aluminium",
+        "EXTRAS": "Integrated Wrist Support",
+        "COMPATIBILITY": "Windows, Mac",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹999.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0271"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km500-keyboard-mouse-combo-led-black"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "U156",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u156",
+    "tab_title": "U156",
+    "tab_id": "12637",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "U156",
+      "U156"
+    ]
+  },
+  "card_info": {
+    "product_id": "98227",
+    "product_name": "USB-U156-20-16GB",
+    "product_title": "USB Flash Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u156/usb-u156-20-16gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210825/13_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-u156-20-16gb.html",
+  "detail": {
+    "title": "USB Flash Drive",
+    "model": "USB-U156-20-16GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-U156-20-16GB USB Flash Drive Key Points · Compact and portable. · Rotating design protection interface. · Multiple choices with various capacities. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210825/13_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210825/111_thumb.png",
+        "alt": "USB-U156-20-16GB",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210825/121_thumb.png",
+        "alt": "USB-U156-20-16GB",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Specification": {
+        "Product Model": "DHI-USB-U156-20-8GB",
+        "Interface": "USB2.0",
+        "Capacity": "8 GB",
+        "Read Speed": "10 MB/s–25 MB/s",
+        "Write Speed": "3 MB/s–10 MB/s",
+        "File System": "FAT32",
+        "Operating System": "Windows 7/8/10; macOS10.5+; Linux 2.4.x+"
+      },
+      "General": {
+        "Product Dimensions": "41.1 mm × 14.8 mm × 6.7 mm (1.62\" × 0.58\" × 0.26\")",
+        "Packaging Dimensions": "132 mm × 100 mm × 7.8 mm (5.20\" × 3.94\" × 0.31\")",
+        "Operating Temperature": "0 °C to +60 °C (+32 °F to +140 °F)",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Net Weight": "8 g (0.02 lb)",
+        "Gross Weight": "20 g (0.04 lb)",
+        "Max Operating Voltage": "5 V",
+        "Max Operating Current": "150 mA",
+        "Warranty": "5-year limited warranty"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DHI-USB-U156-20_datasheet_20210330.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/u156/usb-u156-20-16gb"
+  }
+}

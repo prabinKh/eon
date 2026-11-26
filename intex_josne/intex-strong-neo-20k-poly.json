@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "20K Poly Power Bank",
+    "subcategory_url": "https://www.intex.in/collections/20k-poly-power-bank",
+    "series": "20K Power Bank",
+    "series_url": "https://www.intex.in/collections/20k-power-bank",
+    "tab_title": "20K Poly Power Bank",
+    "tab_id": "9216038142170",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "20K Poly Power Bank",
+      "INTEX Strong Neo 20K Poly"
+    ]
+  },
+  "card_info": {
+    "product_id": "9216038142170",
+    "product_name": "INTEX Strong Neo 20K Poly",
+    "product_title": "INTEX Strong Neo 20K Poly",
+    "product_url": "https://www.intex.in/products/intex-strong-neo-20k-poly",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Strong20kPDP.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 3999.0,
+      "display": "₹3,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-strong-neo-20k-poly.html",
+  "detail": {
+    "title": "INTEX Strong Neo 20K Poly",
+    "model": "20K",
+    "brand": "Intex",
+    "overview": "Power up your day with the massive 20000mAh INTEX Strong Neo 20K Poly Power Bank. Designed for heavy-duty performance, it ensures long-lasting backup for smartphones, tablets, wearables, and more. With fast charging support, dual outputs, Type-C input/output, and multi-layer circuit protection, this power bank delivers safety, speed, and superior reliability.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Strong20kPDP.jpg",
+        "alt": "INTEX Strong Neo 20K Poly",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Battery Capacity": "20000mAh",
+        "Output Power": "22.5W Fast Charging",
+        "Ports": "Dual USB Output Ports",
+        "Input/Output": "Type-C PD 3.0",
+        "Input Options": "Dual Input – Type-C & Micro USB",
+        "Indicators": "LED Power Indicator Lights",
+        "Protection": "Short Circuit Protection",
+        "Build": "Strong Poly Body",
+        "Ideal For": "Phones, Tablets, Accessories",
+        "Model": "20K"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Strong_Neo_20K_Power_Bank_Launch_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-strong-neo-20k-poly"
+  }
+}

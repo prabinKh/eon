@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series",
+    "tab_title": "5MP",
+    "tab_id": "9462",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Lite Series",
+      "5MP"
+    ]
+  },
+  "card_info": {
+    "product_id": "153435",
+    "product_name": "HAC-HDW1549X-IL-A-PRO",
+    "product_title": "5MP WizColor HDCVI Fixed-focal Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/5mp/wizcolor/hac-hdw1549x-il-a-pro",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27155/ProductImage/1_0_01_12_27155_758157874_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw1549x-il-a-pro.html",
+  "detail": {
+    "title": "5MP WizColor HDCVI Fixed-focal Eyeball Camera",
+    "model": "HAC-HDW1549X-IL-A-PRO",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW1549X-IL-A-PRO 5MP WizColor HDCVI Fixed-focal Eyeball Camera Key Points • High-Quality Imaging with 5MP 16:9 Resolution • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • WizColor Technology: Exceptional Image Quality in Low-Light Conditions • Built-In Dual Mic : Enhances Video Assistance with Dual Mic Technology • Smart Light+ : Clear Details with Advanced LED Processing Technology • 3DNR & DWDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • Effortless Signal Selection with DIP Switch • Time-saving Installation with Quick-to-install Structure • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27155/ProductImage/1_0_01_12_27155_758157874_crop_thumb.png",
+        "alt": "HAC-HDW1549X-IL-A-PRO_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27155/ProductImage/1_0_01_12_27155_746524312_crop_thumb.png",
+        "alt": "HAC-HDW1549X-IL-A-PRO_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_12_27155/ProductImage/1_0_01_12_27155_758157873_crop_thumb.png",
+        "alt": "HAC-HDW1549X-IL-A-PRO_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.8 mm": "63.8 m( 209.32 ft)",
+        "3.6 mm": "77.8 m( 255.25 ft)"
+      },
+      "*DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {
+        "Lens": "Detect",
+        "2.8 mm": "63.8 m( 209.32 ft)",
+        "3.6 mm": "77.8 m( 255.25 ft)"
+      },
+      "Video Frame Rate": {},
+      "Resolution": {},
+      "Day/Night": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Illumination Mode": {},
+      "Mirror": {},
+      "Certifications": {},
+      "Built-in Mic": {},
+      "Camera Audio": {},
+      "Pick-up Distance": {},
+      "Video Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84486/datasheet/HAC-HDW1549X-IL-A-PRO_S0_datasheet_20251017.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-27 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88085/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2025-04-24 #Drawings HAC-HDW1549X-IL-A-PRO_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88089/drawings/1_0_01_12_28457_749113308.pdf"
+      },
+      {
+        "name": "2025-04-24 #Drawings HAC-HDW1549X-IL-A-PRO_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88089/drawings/1_0_01_12_28457_749120269.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/lite-series/5mp/wizcolor/hac-hdw1549x-il-a-pro"
+  }
+}

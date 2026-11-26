@@ -1,0 +1,213 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 5 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series",
+    "tab_title": "Anti-Corrosion",
+    "tab_id": "118221",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 5 Series",
+      "Anti-Corrosion"
+    ]
+  },
+  "card_info": {
+    "product_id": "154625",
+    "product_name": "IPC-HFW5259E1-ZE-IL-ATC",
+    "product_title": "2MP Smart Dual Light Anti-Corrosion Vari-focal Bullet WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/anti-corrosion/ipc-hfw5259e1-ze-il-atc",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/image/1_0_01_04_48019_924640149_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfw5259e1-ze-il-atc.html",
+  "detail": {
+    "title": "2MP Smart Dual Light Anti-Corrosion Vari-focal Bullet WizMind Network Camera",
+    "model": "IPC-HFW5259E1-ZE-IL-ATC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW5259E1-ZE-IL-ATC 2MP Smart Dual Light Anti-Corrosion Vari-focal Bullet WizMind Network Camera Key Points • Xinghan Vision Models: Comprehensive Enhancement of Target Detection, Imaging • Longer Detection Distance with Xinghan Vision Models • Supports Over 7 AI Functions, Applicable for Multi-scenario Targets Detection and Analysis • Built-in Mic for Real-Time Audio Security • IP67 and IK10 Ratings for Protection Against Harsh Environments • Anti-Corrosion Design (NEMA 4X, C5-H) for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/image/1_0_01_04_48019_924640149_crop_thumb.PNG",
+        "alt": "IPC-HFW5259E1-ZE-IL-ATC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/image/1_0_01_04_48019_924640159_crop_thumb.PNG",
+        "alt": "IPC-HFW5259E1-ZE-IL-ATC_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/image/1_0_01_04_48019_924640157_crop_thumb.PNG",
+        "alt": "IPC-HFW5259E1-ZE-IL-ATC_Rendergraph_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/image/1_0_01_04_48019_924640151_crop_thumb.PNG",
+        "alt": "IPC-HFW5259E1-ZE-IL-ATC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/image/1_0_01_04_48019_924640161_crop_thumb.PNG",
+        "alt": "IPC-HFW5259E1-ZE-IL-ATC_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Iris Control Type": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "45.1 m( 147.97 ft)",
+        "T": "139.3 m( 457.02 ft)"
+      },
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "AcuPick": {},
+      "AI SSA": {},
+      "Face Detection": {},
+      "People Counting": {},
+      "Heat Map": {},
+      "Video Metadata": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "LDC": {},
+      "Built-in MIC": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Dual Power Backup": {},
+      "Power Consumption": {},
+      "ePoE": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Anti-Corrosion Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/datasheet/DH-IPC-HFW5259E1-ZE-IL-ATC_S0_datasheet_20260810_English.pdf"
+      },
+      {
+        "name": "2026-09-08 #User Manual Dahua IR Bullet Network Camera_Quick Start Guide_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/19997/user_manual/Dahua_IR_Bullet_Network_Camera_Quick_Start_Guide_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-09-08 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2026-09-08 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-09-08 #User Manual Bullet Network Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/19997/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-05-23 #A&E Document IPC-HFW5259E1-ZE-IL-ATC_A&E_20260918061207 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86532/a_e_document/1789683655341.docx"
+      },
+      {
+        "name": "2026-03-18 #Drawings IPC-HFW5259E1-ZE-IL-ATC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88041/drawings/1_0_01_04_49709_926645711.pdf"
+      },
+      {
+        "name": "2026-03-18 #Drawings IPC-HFW5259E1-ZE-IL-ATC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88041/drawings/1_0_01_04_49709_926645709.pdf"
+      },
+      {
+        "name": "2026-08-03 #Firmware DH_IPC-HX5XXX-Fourier_MultiLang_PN_Stream4_V3.146.0000000.8.R.260720 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86527/firmware/DH_IPC-HX5XXX-Fourier_MultiLang_PN_Stream4_V3.146.0000000.8.R.260720.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/anti-corrosion/ipc-hfw5259e1-ze-il-atc"
+  }
+}

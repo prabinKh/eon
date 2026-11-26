@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM60 RGB Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923129635",
+    "product_name": "GM60 RGB Gaming Mouse - Black",
+    "product_title": "GM60 RGB Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/gm60-programmable-mouse-led-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_94d2613f-5099-48aa-96b6-8d29d38d5810.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm60-programmable-mouse-led-black.html",
+  "detail": {
+    "title": "GM60 RGB Gaming Mouse - Black",
+    "model": "AEPP0015",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM60 is built for gamers who want elegant gear that performs without hassle. Its contoured shell and ergonomic design fit comfortably in the palm for hours of gaming without wrist fatigue, while a subtle RGB ring running along the rear perimeter gives it a floating-light effect without distracting in dark rooms. Smooth PTFE feet paired with a 3600 DPI optical sensor ensure swift, low-friction glides and a lower lift-off distance for precise flick shots. A skin-friendly, anti-sweat rubber coating on top adds comfort for long sessions, and a 1.5m braided cable with gold-plated USB port ensures durable, minimal-delay signal transfer. Universally compatible with Windows, Mac and Linux with no drivers required.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14_94d2613f-5099-48aa-96b6-8d29d38d5810.jpg",
+        "alt": "GM60 RGB Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "3600",
+        "Sensor": "Optical",
+        "Lighting": "RGB Ring",
+        "Cable": "1.5m Braided",
+        "Compatibility": "Windows, Mac, Linux",
+        "Color": "Black",
+        "SENSOR": "Optical",
+        "LIGHTING": "RGB Ring",
+        "CABLE": "1.5m Braided",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹349.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AEPP0015"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm60-programmable-mouse-led-black"
+  }
+}

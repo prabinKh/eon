@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "98597",
+    "product_name": "ASI6213J-FT1",
+    "product_title": "Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/pro/asi6213j-ft1",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210901/ASI6213J-FT1-8_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi6213j-ft1.html",
+  "detail": {
+    "title": "Face Recognition Access Controller",
+    "model": "ASI6213J-FT1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI6213J-FT1 Face Recognition Access Controller Key Points Temperature monitoring face recognition standalone. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210901/ASI6213J-FT1-8_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210901/ASI6213J-FT1-7_thumb.png",
+        "alt": "ASI6213J-FT1-3",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210901/ASI6213J-FT1-6_thumb.png",
+        "alt": "ASI6213J-FT1-2",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210901/ASI6213J-FT1-5_thumb.png",
+        "alt": "ASI6213J-FT1-1",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Network Protocol": "IPv4, RTSP, RTP, TCP, UDP, P2P, SIP",
+        "OSDP Protocol": "Yes",
+        "Interoperability": "ONVIF; CGI",
+        "SDK and API": "Yes"
+      },
+      "Basic": {
+        "Display Screen": "4.3-inch display screen",
+        "Screen Type": "Capacitive screen",
+        "Resolution": "272 (H) × 480 (V)",
+        "Camera": "1/2.7\" 2MP CMOS high definition dual camera",
+        "WDR": "DWDR",
+        "Light Compensation": "Auto white light Auto IR light",
+        "Voice Prompt": "Yes",
+        "Casing": "Aluminium alloy/PC"
+      },
+      "Function": {
+        "Unlock Mode": "Card/remote/password/face unlock and unlock through their cmbinations; Face unlock under temperature monitoring mode only.",
+        "Card Reading Type": "IC card Felica card",
+        "Period List": "128",
+        "Holiday Period": "128",
+        "First-User Unlock": "Yes",
+        "Remote Verification": "Yes",
+        "Peripheral Card Reader": "1 RS-485 1 Wiegand",
+        "Multiple User Unlock": "Yes",
+        "Real-Time Surveillance": "Yes",
+        "Web Configuration": "Yes"
+      },
+      "Performance": {
+        "Face Recognition Distance": "Face-camera distance: 0.3 m–1.5 m Human height: 0.9 m–2.4 m",
+        "Face Verification Accuracy": "≥ 99.8%",
+        "Face Recognition Time": "0.2 s",
+        "Temperature Monitoring Range": "+30 °C to +45 °C (+86 °F to +113 °F)",
+        "Temperature Monitoring Error": "≤ 0.5 °C",
+        "Temperature Monitoring Distance": "0.3 m–1.2 m",
+        "Temperature Monitoring Height": "140 cm–210 cm (when temperature monitoring distance is 1.2 m)"
+      },
+      "Capacity": {
+        "User Capacity": "6,000",
+        "Face Image Capacity": "6,000",
+        "Card Capacity": "6,000",
+        "Password Capacity": "6,000",
+        "Record Capacity": "150,000 records"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1 (input or output)",
+        "USB": "1 USB2.0 port",
+        "Network": "1 10/100 Mbps network port",
+        "Alarm Input": "1 (Switch quantity)",
+        "Alarm Linkage": "Yes",
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1"
+      },
+      "Alarm": {
+        "Anti-Passback": "Yes",
+        "Tamper": "Yes",
+        "Duress": "Yes",
+        "Door Sensor Timeout": "Yes",
+        "Intrusion": "Yes",
+        "Illegal Card Exceeding Threshold": "Yes"
+      },
+      "General": {
+        "Power Supply": "DC 12 V 2 A",
+        "Power Consumption": "≤ 24 W",
+        "Product Dimensions": "206.4 mm × 87.5 mm × 26.5 mm (8.13\" × 3.44\" × 1.04\" ) (H × W × D)",
+        "Packaging Dimensions": "219 mm × 122 mm × 111 mm (8.62\"\" × 4.80\"\" × 4.37\"\") (H × W × D)",
+        "Operating Temperature": "Temperature monitoring mode disabled: –10 °C to +55 °C (+14 °F to +131 °F) Temperature monitoring mode enabled: +10 °C to +35 °C (+50 °F to +95 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "0.86 kg (1.896 lb)",
+        "Installation": "Surface mount",
+        "Certifications": "CE/FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASI6213J-FT1_datasheet_20210518.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Face Recognition Access Controller with Temperature Monitoring Unit_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005458/202505/Face_Recognition_Access_Controller_with_Temperature_Monitoring_Unit_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-08-06 #User Manual Face Recognition Access Controller_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005458/202505/Face_Recognition_Access_Controller_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2021-05-25 #Drawings ASI6213J-FT1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/25687/drawings/ASI6213J-FT1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-06-09 #Firmware General_ASIX21XJ-MCU_V2.000.0000000.0.R.210521 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/1784722/General_ASIX21XJ-MCU_V2.000.0000000.0.R.210521.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/pro/asi6213j-ft1"
+  }
+}

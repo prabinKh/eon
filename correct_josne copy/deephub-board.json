@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Software",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software",
+    "series": "Software",
+    "series_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software",
+    "tab_title": "Software",
+    "tab_id": "14617",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Software",
+      "Software",
+      "Software"
+    ]
+  },
+  "card_info": {
+    "product_id": "139097",
+    "product_name": "DeepHub Board",
+    "product_title": "Educational Software Series",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software/deephub-board",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231218/depp1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/deephub-board.html",
+  "detail": {
+    "title": "Educational Software Series",
+    "model": "DeepHub Board",
+    "brand": "Dahua",
+    "overview": "Favourite DeepHub Board Educational Software Series Key Points • Multiple Creative Tools Including Brushes, Notes, Images, Documents, and Hyperlinks • Variety of Free Templates to Suit Your Scene • Storage and Management of Documents and Projects • Variety of Emojis and Graphics to Facilitate Communication During Meetings • Schedule Sharing and Interactive Presentation Tools • Advanced AI tools Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231218/depp1_thumb.png",
+        "alt": "DeepHub Board",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231218/depp2_thumb.png",
+        "alt": "DeepHub Board",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231218/depp3_thumb.png",
+        "alt": "DeepHub Board",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231218/depp4_thumb.png",
+        "alt": "DeepHub Board",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231218/depp5_thumb.png",
+        "alt": "DeepHub Board",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "General": {
+        "Resource Tool": "Local Image",
+        "Image Search": "Insert images obtained from search.",
+        "YouTube Videos": "Insert YouTube videos through search.",
+        "Insert Links": "Insert hyperlinks.",
+        "Vectograph": "Insert common vectograph.",
+        "Template Library": "Use the templates in the template library for custom projects.",
+        "Shape Tool": "Shape Type",
+        "Shape Category": "Hand-drawn shapes are recognized as standard shapes.",
+        "Fill": "Use fill colors.",
+        "Border": "Edit the color, thickness and type of line of borders.",
+        "Transparency": "Control the transparency of shapes.",
+        "Text Tool": "Typeface",
+        "Layout": "Align, center, and indent",
+        "Symbol": "Enter symbols and numbers in lists.",
+        "Mathematical Formula": "Enter numbers, mathematical formulas, functions, fractions, and Greek letters.",
+        "Text Box": "For text boxes, you can edit their width, transparency level, fill color and the color of the border.",
+        "Note": "Insert notes.",
+        "Painting Tool": "Brush",
+        "Toolbox": "Use protractors, rulers and compasses to assist with drawing.",
+        "Paint Bucket": "Select the fill background color.",
+        "Clear": "Clear the canvas with one click.",
+        "Whiteboard Function Tool": "Search",
+        "Flow Chart": "Insert editable flowcharts.",
+        "Mind Map": "Insert editable mind maps.",
+        "Table": "Insert tables.",
+        "Edit": "Lock the canvas.",
+        "Sharing and Cooperation": "Move, zoom in and out, and rotate the canvas.",
+        "Save": "Flip the canvas.",
+        "Activity Tool": "Chat",
+        "Review": "Add comments.",
+        "Outline": "Edit meeting outlines on the whiteboard.",
+        "Time": "Built-in stopwatch for timing."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20231214/DHI-TSW-DeepHubBoard_datasheet_20231207.pdf"
+      },
+      {
+        "name": "2025-08-08 #User Manual Dahua DeepHub Board_User's manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008826/Dahua_DeepHub_Board_User_27s_manual_V1.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/software/deephub-board"
+  }
+}

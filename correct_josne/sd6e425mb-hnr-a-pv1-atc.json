@@ -1,0 +1,215 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "Special Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/special-series",
+    "tab_title": "Anti-Corrosion Cameras",
+    "tab_id": "1281",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "Special Series",
+      "Anti-Corrosion Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "155453",
+    "product_name": "SD6E425MB-HNR-A-PV1-ATC",
+    "product_title": "4MP 25× Anti-corrosion WizSense PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/anti-corrosion-cameras/sd6e425mb-hnr-a-pv1-atc",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/image/1_0_01_07_16649_962776090_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd6e425mb-hnr-a-pv1-atc.html",
+  "detail": {
+    "title": "4MP 25× Anti-corrosion WizSense PTZ Camera",
+    "model": "SD6E425MB-HNR-A-PV1-ATC",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite SD6E425MB-HNR-A-PV1-ATC 4MP 25× Anti-corrosion WizSense PTZ Camera Key Points • High-Quality Imaging with 4MP Resolution • 25× Optical Zoom Provide Close Up Views Over Expansive Areas • Smart Dual Light: Expansive Night View with up to 250m IR Distance and 100m Warm Light • Red & Blue Warning Lights and Alarm Sounds for Active Deterrence • Built-in Dual Mic & Speaker: Secure Real-Time Talk • IP67 and IK10 Ratings for Protection Against Harsh Environments • Anti-Corrosion Design (NEMA 4X, C5-H) for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/image/1_0_01_07_16649_962776090_crop_thumb.PNG",
+        "alt": "SD6E425MB-HNR-A-PV1-ATC_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/image/1_0_01_07_16649_962776094_crop_thumb.PNG",
+        "alt": "SD6E425MB-HNR-A-PV1-ATC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/image/1_0_01_07_16649_962776082_crop_thumb.PNG",
+        "alt": "SD6E425MB-HNR-A-PV1-ATC_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Optical Zoom": {},
+      "Hybrid Zoom": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Iris Control Type": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "100.0 m( 328.08 ft)",
+        "T": "2500.0 m( 8202.10 ft)"
+      },
+      "Intelligence Notes": {},
+      "IVS (Perimeter Protection)": {},
+      "Smart Object Detection": {},
+      "SMD": {},
+      "AcuPick": {},
+      "Face Detection": {},
+      "PPE Detection": {},
+      "Video Metadata": {},
+      "Video Compression": {},
+      "Smart Codec": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Smart Illumination": {},
+      "Smart Dual Light": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Heater (Window Heating)": {},
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset": {},
+      "Preset Speed": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Anti-Corrosion Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/datasheet/DH-SD6E425MB-HNR-A-PV1-ATC_S0_datasheet_20260727_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network Camera_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87963/user_manual/Dahua_Network_Camera_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87963/user_manual/Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87963/user_manual/Dahua_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-06-26 #A&E Document SD6E425MB-HNR-A-PV1-ATC_A&E_20260918070712 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/a_e_document/1789686651514.docx"
+      },
+      {
+        "name": "2026-06-27 #Drawings SD6E425MB-HNR-A-PV1-ATC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/drawings/1_0_01_07_16649_964571523.pdf"
+      },
+      {
+        "name": "2026-06-30 #Drawings SD6E425MB-HNR-A-PV1-ATC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/drawings/1_0_01_07_16649_965355632.pdf"
+      },
+      {
+        "name": "2026-07-02 #Firmware DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-NormalLLM2Cloud_V3.211.0000013.1.R.260619 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/firmware/DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-NormalLLM2Cloud_V3.211.0000013.1.R.260619.zip"
+      },
+      {
+        "name": "2026-07-08 #Firmware General_SD6C3XXX-HN-A-PV1_MCU_V2.401.0000003.22.R.260608 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/firmware/General_SD6C3XXX-HN-A-PV1_MCU_V2.401.0000003.22.R.260608.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/special-series/anti-corrosion-cameras/sd6e425mb-hnr-a-pv1-atc"
+  }
+}

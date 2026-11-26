@@ -1,0 +1,206 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras",
+    "series": "Bullet Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/bullet-series",
+    "tab_title": "Bullet Series",
+    "tab_id": "18161",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3+3MP Outdoor WizColor Wi-Fi Dual-Lens Pan & Tilt Camera P3D-3F-PV-P",
+      "Bullet Series",
+      "Bullet Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "105117",
+    "product_name": "IPC-HFW1430DS-SAW",
+    "product_title": "4MP IR Fixed-focal Wi-Fi Bullet Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/bullet-series/ipc-hfw1430ds-saw",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38064/ProductImage/1_0_01_04_38064_347555128_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/ipc-hfw1430ds-saw.html",
+  "detail": {
+    "title": "4MP IR Fixed-focal Wi-Fi Bullet Network Camera",
+    "model": "IPC-HFW1430DS-SAW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW1430DS-SAW 4MP IR Fixed-focal Wi-Fi Bullet Network Camera Key Points • IP67 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38064/ProductImage/1_0_01_04_38064_347555128_crop_thumb.png",
+        "alt": "IPC-HFW1430DS-SAW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38064/ProductImage/1_0_01_04_38064_347555127_crop_thumb.png",
+        "alt": "IPC-HFW1430DS-SAW_View_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_38064/ProductImage/1_0_01_04_38064_347555129_crop_thumb.png",
+        "alt": "IPC-HFW1430DS-SAW_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "ROM": "16 MB",
+        "RAM": "64 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.03 Lux@F2.0 (Color, 30 IRE) 0.003 Lux@F2.0 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "30 m (98.43 ft) (IR LED)",
+        "Illuminator On/Off Control": "Auto; manual",
+        "Illuminator Number": "1 (IR LED)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "2.8 mm: Horizontal: 90°; Vertical: 50°; Diagonal: 107° 3.6 mm: Horizontal: 76°; Vertical: 40°; Diagonal: 92°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 1.0 m (3.28 ft) 3.6 mm: 1.4 m (4.59 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "68 m (223.10 ft)",
+        "3.6 mm": "85.2 m (279.53 ft)"
+      },
+      "Video": {
+        "Video Compression": "H.264B; H.264; H.264H; H.265",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Main stream: 2560 × 1440 (1–20 fps) Sub stream: 640 × 480@(1–25 fps) 640 × 480@(1–30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "2 streams",
+        "Resolution": "2560 × 1440 (2560 × 1440); 2304 × 1296 (2304 × 1296); 1080p (1920 × 1080); 1.3M(1280 × 960); 720p (1280 × 720)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H264: 24 kbps–4096 kbps H265: 9 kbps–4096 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/180°",
+        "Mirror": "Yes"
+      },
+      "Audio": {
+        "Built-in MIC": "Yes"
+      },
+      "Alarm": {
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering;audio detection; intensity change"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE802.11b/g/n 2.4~2.4835GHz",
+        "Wireless Range": "Up to 80 m (The performance varies based on actual environment)",
+        "SDK and API": "Yes",
+        "Cyber Security": "Video encryption; Configuration encryption; Digest; WSSE; Account lockout; Security logs; Generation and importing of X.509 certification; HTTPS; Trusted boot; Trusted execution; Trusted upgrade",
+        "Network Protocol": "IPv4; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; DHCP; DNS; NTP; Multicast;",
+        "Interoperability": "ONVIF (Profile S/Profile G); CGI; P2P",
+        "User/Host": "6 (Total bandwidth: 36 M)",
+        "Storage": "Micro SD card (support max. 256 GB, sold separately)",
+        "Browser": "IE Chrome Firefox",
+        "Management Software": "Smart PSS; DSS; DMSS",
+        "Mobile Client": "iOS; Android"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU; FCC: 47 CFR FCC Part 15, Subpart B; FCC ID: FCC PART 15C"
+      },
+      "Power": {
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Basic: 2 W (12 VDC) Max. (H.265+IR intensity): 4.1 W (12 VDC)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)",
+        "Protection": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal",
+        "Product Dimensions": "166.2 mm × 70.0 mm × 128.6 mm (6.53\" × 2.76\" × 5.06\")",
+        "Net Weight": "477.9 g (1.05 lb)",
+        "Gross Weight": "696.5 g (1.50 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HFW1430DS-SAW_datasheet_20231121.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.2.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.2.5.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/54247/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006242/202508/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Dahua Bullet Network Camera_Application Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006242/202508/Dahua_Bullet_Network_Camera_Application_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-15 #User Manual Dahua Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006242/202508/Dahua_Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-03-21 #A&E Document IPC-HFW1430DS-SAW_A&E_20260917191943 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43777/a_e_document/1789644710291.docx"
+      },
+      {
+        "name": "2022-04-02 #Drawings IPC-HFW1430DS-SAW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43777/drawings/IPC-HFW1430DS-SAW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-04-02 #Drawings IPC-HFW1430DS-SAW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43777/drawings/IPC-HFW1430DS-SAW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-07-25 #Firmware DH_IPC-WX-Web-Hertz2_EngRusSpn_PN_V2.800.0000000.23.R.250704 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3295021/M/DH_IPC-WX-Web-Hertz2_EngRusSpn_PN_V2.800.0000000.23.R.250704.zip"
+      },
+      {
+        "name": "2025-07-25 #Firmware DH_IPC-WX-Web-Hertz2_EngRusSpn_NP_V2.800.0000000.23.R.250704 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3295029/M/DH_IPC-WX-Web-Hertz2_EngRusSpn_NP_V2.800.0000000.23.R.250704.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/outdoor-cameras/bullet-series/ipc-hfw1430ds-saw"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Standalone",
+    "tab_id": "545",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "151938",
+    "product_name": "ASI1201BL",
+    "product_title": "Dahua IC Card Access Standalone",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/lite/asi1201bl",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20250207/DHI-ASI1201BL_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi1201bl.html",
+  "detail": {
+    "title": "Dahua IC Card Access Standalone",
+    "model": "ASI1201BL",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI1201BL Dahua IC Card Access Standalone Key Points • Card and Password Access Standalone • 30,000 Cards and 30,000 Passwords • DC12V1A Power Output for Lock and Card Reader • Doorbell Function • Buzzer and Indicator Light • Mechnical Keypad for Operation Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250207/DHI-ASI1201BL_1_thumb.png",
+        "alt": "ASI1201BL_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250207/DHI-ASI1201BL_2_thumb.png",
+        "alt": "ASI1201BL_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250207/DHI-ASI1201BL_3_thumb.png",
+        "alt": "ASI1201BL_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Button Type": "Mechanical"
+      },
+      "Basic": {
+        "Product Type": "Standalone",
+        "Buzzer": "Yes",
+        "Casing Material": "ABS"
+      },
+      "Function": {
+        "Verification Method": "Card;Password",
+        "Card Type": "IC Card",
+        "Issuing Card by Master Card": "Yes"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–5 cm"
+      },
+      "User": {
+        "User (Card) Type": "General card"
+      },
+      "Capacity": {
+        "User Capacity": "3000",
+        "Card Capacity": "3000",
+        "Password Capacity": "3,500 (includes 3,000 user passwords and 500 public passwords)"
+      },
+      "Port": {
+        "Doorbell": "1 channel",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel"
+      },
+      "Alarm": {
+        "Door Sensor Timeout": "Yes"
+      },
+      "General": {
+        "Power Adapter": "Optional",
+        "Power Supply": "12 VDC, 1A (the device does not provide power to the lock) 12 VDC, 2A (the device provides power to the lock and the current of the lock does not exceed 1A. If it exceeds, the lock will require an extra power supply)",
+        "Power Consumption": "≤12 W (The device does not provide power to the lock) If the device provides power to the lock, power consumption must be calculated based on the actual power of the lock.",
+        "Product Dimensions": "130 mm × 90 mm × 26 mm (5.12\" × 3.54\" × 1.02\")(H × W × D)",
+        "Packaging Dimensions": "55 mm × 161 mm × 101 mm (7.56\" × 19.66\" × 16.81\")(H × W × D, 1 inner carton)",
+        "Transport Package Dimensions": "192 mm × 500 mm × 427 mm (7.56\" × 19.66\" × 16.81\")(H × W × D)",
+        "Operating Temperature": "–30 °C to +60°C (–22 °F to +140 °F)",
+        "Operating Humidity": "0%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–1,300 m (0 ft – 4,265.09 ft)",
+        "Operating Environment": "Indoor",
+        "Gross Weight": "1.0 kg (2.20 lb)",
+        "Installation": "Surface Mount;86 mm Junction Box Mount",
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASI1201BL_datasheet_20240912.pdf"
+      },
+      {
+        "name": "2026-02-05 #User Manual Access Standalone_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82851/user_manual/Access_Standalone_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-03-15 #Drawings ASI1201BL_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82851/drawings/ASI1201BL_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-03-15 #Drawings ASI1201BL_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82852/drawings/ASI1201BL-D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/standalone/lite/asi1201bl"
+  }
+}

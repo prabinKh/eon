@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8795391197402",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Washing Machine",
+      "SA75RDPT | 7.5 KG Semi-Automatic Washing Machine (Red & White | Grey & White)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8795391197402",
+    "product_name": "SA75RDPT | 7.5 KG Semi-Automatic Washing Machine (Red & White | Grey & White)",
+    "product_title": "SA75RDPT | 7.5 KG Semi-Automatic Washing Machine (Red & White | Grey & White)",
+    "product_url": "https://www.intex.in/products/sa75rdpt-7-5-kg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA75RDPT---7.5-KG.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 14999.0,
+      "display": "₹14,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa75rdpt-7-5-kg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "SA75RDPT | 7.5 KG Semi-Automatic Washing Machine (Red & White | Grey & White)",
+    "model": "SA75RDPT-7-5",
+    "brand": "Intex",
+    "overview": "The Intex SA75RDPT 7.5 KG Semi-Automatic Washing Machine is designed for efficiency, durability, and powerful cleaning. Its anti-corrosive, rust-free body ensures longevity, while the 3-fins pulsator and scrubber technology provide deep cleaning action for stubborn stains. The hydraulic wash lid allows for smooth operation, and the powerful motor ensures noise-free spinning for faster drying. With an easy-to-use water level indicator, a lint filter to keep clothes fresh, and an end-cycle buzzer for convenience, this washing machine makes laundry effortless.",
+    "features": [
+      "7.5 KG semi-automatic washing machine",
+      "Anti-corrosive rust-free body for long-lasting durability",
+      "2 wash programs for efficient cleaning",
+      "3-fins pulsator design for powerful stain removal",
+      "Hydraulic wash lid for smooth and safe operation",
+      "Powerful motor with noise-free spinning for faster drying",
+      "Lint filter to keep clothes fresh and residue-free",
+      "Water level indicator for optimized washing performance",
+      "End-cycle buzzer for added convenience",
+      "Scrubber technology for effective dirt removal"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA75RDPT---7.5-KG.jpg",
+        "alt": "SA75RDPT | 7.5 KG Semi-Automatic Washing Machine (Red & White | Grey & White)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "7.5 KG semi-automatic washing machine",
+        "Feature 2": "Anti-corrosive rust-free body for long-lasting durability",
+        "Feature 3": "2 wash programs for efficient cleaning",
+        "Feature 4": "3-fins pulsator design for powerful stain removal",
+        "Feature 5": "Hydraulic wash lid for smooth and safe operation",
+        "Feature 6": "Powerful motor with noise-free spinning for faster drying",
+        "Feature 7": "Lint filter to keep clothes fresh and residue-free",
+        "Feature 8": "Water level indicator for optimized washing performance",
+        "Feature 9": "End-cycle buzzer for added convenience",
+        "Feature 10": "Scrubber technology for effective dirt removal"
+      },
+      "General": {
+        "Model": "SA75RDPT-7-5"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa75rdpt-7-5-kg-semi-automatic-washing-machine"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Entrance and Exit",
+    "tab_id": "18135",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Entrance and Exit"
+    ]
+  },
+  "card_info": {
+    "product_id": "130687",
+    "product_name": "IPMECD-105X",
+    "product_title": "Barrier",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/ipmecd-105x",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230711/se1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/ipmecd-105x.html",
+  "detail": {
+    "title": "Barrier",
+    "model": "IPMECD-105X",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPMECD-105X Barrier Key Points • Barrier arms need to be purchased separately • Rapid-Access: Adjustable door opening speed, with a maximum speed of 1.5s • Enhanced durability: Adopts brush-less DC motor with 3 million lifespan, and multiple anti-smash modes such as IR, loop, radars to extend the barrier service life. Built-in DC 12V output, can directly power external devices • Long-lasting springs: Return Spring | 800k-cycle Lifespan • User-friendly: Supports remote control within 50m. The barrier arm supports obstacle contact rebound, and auto-on when power outage. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se1_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se8_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se2_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se7_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se3_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se6_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se4_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230711/se5_thumb.png",
+        "alt": "IPMECD-105X",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Arm Type": {},
+      "Arm Length": {},
+      "Arm Model": {},
+      "Opening Time": {},
+      "Motor Type": {},
+      "Spring": {},
+      "Sub 1G Modulation Type": {},
+      "Sub 1G Frequency Range": {},
+      "Sub 1G Power Transmission": {},
+      "RS-485": {},
+      "I/O": {},
+      "Status Output": {},
+      "Anti-drop": {},
+      "Auto Lifting against Obstruction": {},
+      "Count Mode": {},
+      "Hand Crank Control in Power Failure": {},
+      "Limit Description": {},
+      "Remote Control": {},
+      "Number of Pairable Remote Controllers": {},
+      "Power Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Spring Lifespan": {},
+      "Motor Lifespan": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71807/datasheet/DHI-IPMECD-1053-RM45-T60_datasheet_20260514.pdf"
+      },
+      {
+        "name": "2026-03-06 #User Manual Dahua Boom Gate (DHI-IPMECD-105X Series)_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71807/user_manual/Dahua_Boom_Gate_(DHI-IPMECD-105X_Series)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-06-03 #A&E Document IPMECD-105X_A&E_20260901173149 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71807/a_e_document/1788255720805.docx"
+      },
+      {
+        "name": "2023-05-26 #Drawings IPMECD-105X_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71807/drawings/IPMECD-105X_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-05-26 #Drawings IPMECD-105X_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/71807/drawings/IPMECD-105X_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit/barrier/ipmecd-105x"
+  }
+}

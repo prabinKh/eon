@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "WK250 Wireless Keyboard & Mouse Combo - White Silver"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356792033571",
+    "product_name": "WK250 Wireless Keyboard & Mouse Combo - White Silver",
+    "product_title": "WK250 Wireless Keyboard & Mouse Combo - White Silver",
+    "product_url": "https://antesports.com/products/wk250-keyboard-combo-white-silver",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/17_3c290938-2a59-4cf9-b7dc-2414c4b66571.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/wk250-keyboard-combo-white-silver.html",
+  "detail": {
+    "title": "WK250 Wireless Keyboard & Mouse Combo - White Silver",
+    "model": "ANTP0045",
+    "brand": "Ant Esports",
+    "overview": "The Ant WK250 is a full-size wireless keyboard and mouse combo featuring a 102-key membrane layout with a dedicated number pad for efficient data entry, office tasks and multitasking. Low-profile keys reduce typing fatigue and offer a familiar, laptop-like typing experience, while the included ergonomic wireless mouse fits naturally into the hand for extended daily use. A single 2.4GHz nano receiver connects both devices for a stable, clutter-free wireless connection with a working range up to 10 metres, and the sleek white-and-silver colour scheme gives it a clean, modern desk presence.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/17_3c290938-2a59-4cf9-b7dc-2414c4b66571.png",
+        "alt": "WK250 Wireless Keyboard & Mouse Combo - White Silver - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Wireless, Single Nano Receiver",
+        "Keys": "102",
+        "Range": "Up to 10m",
+        "Design": "Low-Profile, Full-Size",
+        "Color": "White Silver",
+        "CONNECTIVITY": "2.4GHz Wireless, Single Nano Receiver",
+        "KEYS": "102",
+        "RANGE": "Up to 10m",
+        "DESIGN": "Low-Profile, Full-Size",
+        "COLOR": "White Silver",
+        "Offer Price (INR)": "₹1,229.00",
+        "MRP (INR)": "₹3,499.00",
+        "SKU": "ANTP0045"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/wk250-keyboard-combo-white-silver"
+  }
+}

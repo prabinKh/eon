@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "GPL300 Wired PC Controller - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869878051",
+    "product_name": "GPL300 Wired PC Controller - Black",
+    "product_title": "GPL300 Wired PC Controller - Black",
+    "product_url": "https://antesports.com/products/gpl300-wired-controller-dual-vibration-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9_0c37cf14-1405-49a1-ab3b-a92699a27caa.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gpl300-wired-controller-dual-vibration-black.html",
+  "detail": {
+    "title": "GPL300 Wired PC Controller - Black",
+    "model": "AEPP0238",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GPL300 is a wired PC and PS3 controller built for reliable, dependable performance across Windows 11, 10, 8 and 7, as well as Android TV and TV Box setups. Its dual vibration controller design delivers timely, immersive feedback for a more engaging gaming experience, while a stable wired connection ensures zero input lag through intense gameplay. Compatible with Steam and a wide range of PC gaming platforms, the GPL300 offers a straightforward, no-fuss controller experience for anyone who wants dependable performance without wireless pairing complexity.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9_0c37cf14-1405-49a1-ab3b-a92699a27caa.jpg",
+        "alt": "GPL300 Wired PC Controller - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired",
+        "Vibration": "Dual",
+        "Compatibility": "Windows 11/10/8/7, PS3, Android TV/TV Box, Steam",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired",
+        "VIBRATION": "Dual",
+        "COMPATIBILITY": "Windows 11/10/8/7, PS3, Android TV/TV Box, Steam",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,199.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0238"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gpl300-wired-controller-dual-vibration-black"
+  }
+}

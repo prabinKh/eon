@@ -1,0 +1,123 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "UPS",
+    "subcategory_url": "https://www.intex.in/collections/ups",
+    "series": "UPS Series",
+    "series_url": "https://www.intex.in/collections/ups-series",
+    "tab_title": "UPS",
+    "tab_id": "7486482383066",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "UPS",
+      "UPS Gamma 1000"
+    ]
+  },
+  "card_info": {
+    "product_id": "7486482383066",
+    "product_name": "UPS Gamma 1000",
+    "product_title": "UPS Gamma 1000",
+    "product_url": "https://www.intex.in/products/ups-gamma-1000",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_71fb897b-e605-4444-a8dc-220bb51b5edd.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 6999.0,
+      "display": "₹6,999.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/ups-gamma-1000.html",
+  "detail": {
+    "title": "UPS Gamma 1000",
+    "model": "1187-1001-2",
+    "brand": "Intex",
+    "overview": "This UPS has a massive power capacity of 600W and produces less than 40db noise level. It has 4 output sockets and provides battery backup up to 1 hour for 1 PC. The transfer time is 4-8ms and it comes with a 2-year warranty with 1 year warranty on battery.",
+    "features": [
+      "Massive 600W Power Capacity UPS",
+      "Less than 40dB Noise Level",
+      "4 Output Sockets",
+      "1 Hour Battery Backup for 1 PC",
+      "Excellent microprocessor control gaurantees high reliability",
+      "Typical 4-8ms Transfer Time",
+      "8 hours up to 90% capacity ​​Typical Recharge Time",
+      "2 YEAR (One year on battery)"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/1_71fb897b-e605-4444-a8dc-220bb51b5edd.jpg",
+        "alt": "UPS Gamma 1000",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/2.jpg",
+        "alt": "UPS Gamma 1000",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/3_a7dc8691-2b7b-4ee0-86b7-0004a45ee5f4.jpg",
+        "alt": "UPS Gamma 1000",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/4_67caeb77-420a-482e-a850-e3f2391ff13e.jpg",
+        "alt": "UPS Gamma 1000",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/5_acb106dc-b7c7-4766-b8db-342bb0f56c10.jpg",
+        "alt": "UPS Gamma 1000",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/products/6_9fd1f244-3bd2-481d-8a7c-a610096cbb4e.jpg",
+        "alt": "UPS Gamma 1000",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Massive 600W Power Capacity UPS",
+        "Feature 2": "Less than 40dB Noise Level",
+        "Feature 3": "4 Output Sockets",
+        "Feature 4": "1 Hour Battery Backup for 1 PC",
+        "Feature 5": "Excellent microprocessor control gaurantees high reliability",
+        "Feature 6": "Typical 4-8ms Transfer Time",
+        "Feature 7": "8 hours up to 90% capacity ​​Typical Recharge Time",
+        "Feature 8": "2 YEAR (One year on battery)"
+      },
+      "General": {
+        "Model": "1187-1001-2"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/ups-gamma-1000"
+  }
+}

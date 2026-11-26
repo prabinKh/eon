@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://www.intex.in/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://www.intex.in/collections/mouse-series",
+    "tab_title": "Mouse",
+    "tab_id": "8687039545562",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Mouse",
+      "Flow Wireless Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "8687039545562",
+    "product_name": "Flow Wireless Mouse",
+    "product_title": "Flow Wireless Mouse",
+    "product_url": "https://www.intex.in/products/flow-wireless-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_3.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 899.0,
+      "display": "₹899.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/flow-wireless-mouse.html",
+  "detail": {
+    "title": "Flow Wireless Mouse",
+    "model": "Mouse",
+    "brand": "Intex",
+    "overview": "Experience the future of computing with our dual-mode wireless mouse. Enjoy the quietest clicks with our silent technology, while the 1600 DPI accuracy ensures precise cursor control. The smart auto sleep mode conserves battery life, so you can focus on your work without interruption. The perfect mouse for modern professionals!",
+    "features": [
+      "Switch seamlessly with dual wireless ease",
+      "Smart auto sleep – save power, stay efficient",
+      "Silent clicks, maximum focus",
+      "Precision at your fingertips – 1600 DPI accuracy",
+      "Glide through tasks with smooth scrolling"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-1_3.jpg",
+        "alt": "Flow Wireless Mouse",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Switch seamlessly with dual wireless ease",
+        "Feature 2": "Smart auto sleep – save power, stay efficient",
+        "Feature 3": "Silent clicks, maximum focus",
+        "Feature 4": "Precision at your fingertips – 1600 DPI accuracy",
+        "Feature 5": "Glide through tasks with smooth scrolling"
+      },
+      "General": {
+        "Model": "Mouse"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Flow_Mouse_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/flow-wireless-mouse"
+  }
+}

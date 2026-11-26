@@ -1,0 +1,196 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizMind Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizmind-series",
+    "tab_title": "SD8",
+    "tab_id": "8952",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizMind Series",
+      "SD8"
+    ]
+  },
+  "card_info": {
+    "product_id": "118537",
+    "product_name": "SD8C448PA-HNF",
+    "product_title": "4M 48x Starlight IR WizMind Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizmind-series/sd8/sd8c448pa-hnf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221213/SD8C448PA-HNF_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd8c448pa-hnf.html",
+  "detail": {
+    "title": "4M 48x Starlight IR WizMind Network PTZ Camera",
+    "model": "SD8C448PA-HNF",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD8C448PA-HNF 4M 48x Starlight IR WizMind Network PTZ Camera Key Points • High-Quality Imaging with 4MP Resolution • 48× Optical Zoom Provide Close Up Views Over Expansive Areas • 1/1.8\" CMOS Sensor Ensures Premium Images • Smart Dual Light: Expansive Night View with up to 250m IR Distance and 80m White Light • Video Metadata: Multi-Target Detection and Analysis with Real-Time Tracking • Face Recognition: Supports Face Information Collection, Property Expression Fetching, Face Database Management and Comparison • Real-Time Communication via Built-In Two-Way Audio • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221213/SD8C448PA-HNF_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221213/SD8C448PA-HNF_3_thumb.png",
+        "alt": "SD8C448PA-HNF",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221213/SD8C448PA-HNF_2_thumb.png",
+        "alt": "SD8C448PA-HNF",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/1.8\" CMOS",
+        "Pixel": "4 MP",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "ROM": "8 GB",
+        "RAM": "2 GB",
+        "Electronic Shutter Speed": "1/1 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.001 lux@F1.4 B/W: 0.0001 lux@F1.4 0 lux (dual light fusion on)",
+        "Illumination Distance": "80 m (262.46 ft) (dual light fusion-only white light on) 250 m (1,476.38 ft) (dual light fusion-only IR light on)",
+        "Illuminator On/Off Control": "Zoom Prio; Manual; Smart IR; Off",
+        "Illuminator Number": "10 (dual light fusion)",
+        "Wiper": "Yes",
+        "Focal Length": "6.25 mm–300 mm",
+        "Max. Aperture": "F1.4–F4.5",
+        "Field of View": "H: 62.4°–1.7°; V: 36.6°–1.0°; D: 69.8°–2.0°",
+        "Optical Zoom": "48×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "0.5 m–2 m (1.64–6.56 ft)",
+        "Iris Control": "Auto; manual",
+        "DORI Distance": "Detect",
+        "6,000 m (19,685.04 ft)": "2,381 m (7,811.68 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 360° endless Tilt: –20° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s–240°/s Tilt: 0.1°/s–100°/s",
+        "Preset Speed": "Pan: 0.1°/s–200°/s; Tilt: 0.1°/s–60°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset; Pattern; Tour; Scan",
+        "PTZ Protocol": "DH-SD Pelco-P/D (auto recognition)",
+        "Video Metadata": "Support human body, human face, motor vehicle and non-motor vehicle image capture and attributes extraction.",
+        "IVS (Perimeter Protection)": "Tripwire and intrusion. Support alarm triggering by target types (human and vehicle). Support filtering false alarms caused by animals, rustling leaves, bright lights, etc.",
+        "Face Recognition": "Yes",
+        "Video Compression": "H.265; H.264M; H.264H; MJPEG; Smart H.265; Smart H.264",
+        "Streaming Capability": "3 streams",
+        "Resolution": "4M (2560 × 1440); 1080p (1920 × 1080); 960p (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Video Frame Rate": "Main stream: 4M/1080p/960p/720p (1–50/60 fps) Sub stream 1: D1/VGA/CIF (1–25/30 fps) Sub stream 2: 1080p/960p/720p (1–25/30 fps)",
+        "Bit Rate Control": "CBR; VBR",
+        "Video Bit Rate": "H264: 512 kbps–13056 kbps H265: 204 kbps–7936 kbps",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Defog": "Optical",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Up to 24 areas can be set, with up to 8 areas in the same view",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "G.711a; G.711Mu; G.726; MPEG2-Layer2; G722.1; G729; PCM",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "HTTP; HTTPS; IPv4; RTSP; UDP; SMTP; NTP; DHCP; DNS; DDNS; IPv6; 802.1x; QoS; FTP; UPnP; ICMP; SNMP; IGMP; RTP; PPPoE; RTMP; TCP",
+        "Interoperability": "ONVIF (Profle S&G&T); GB/T28181; CGI",
+        "Streaming Method": "Unicast; Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP; Micro SD card (512 GB); NAS",
+        "Browser": "IE 7 and later versions Chrome 45 and later versions Firefox 52ESR and earlier versions Safari",
+        "Management Software": "Smart PSS; DSS; IVSS",
+        "Mobile Client": "iOS; Android",
+        "Analog Output": "1 channel (CVBS output, BNC)",
+        "RS-485": "1 (baud rate: 1200 bps–115200 bps)",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Audio Output": "1 channel (LINE OUT, bare wire)",
+        "Two-way Audio": "Yes",
+        "Alarm Input": "7 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "2",
+        "Alarm Linkage": "Capture; preset; tour; pattern; recordings on SD card; alarm digital input; client E-map; send email",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; decoder state detection; memory card state detection; memory space detection; power exception detection",
+        "Power Supply": "36 VDC, 2.23 A (± 25%), Hi-PoE",
+        "Power Consumption": "Basic: 18 W Max.: 33 W (illuminator + PTZ)",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP67; TVS 8000 V lightning proof; surge protection; voltage transient protection",
+        "Product Dimensions": "442 mm × Φ262 mm (17.40\" × Φ10.31\")",
+        "Net Weight": "10.3 kg (22.71 lb)",
+        "Gross Weight": "12.5 kg (27.56 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD8C448PA-HNF_S0_datasheet_20250109.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Installation Guide (8C1)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44917/user_manual/Installation_Guide_(8C1)_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70457/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-11-01 #A&E Document SD8C448PA-HNF_A&E_20260917190037 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61877/a_e_document/1789644099533.docx"
+      },
+      {
+        "name": "2025-09-12 #Drawings SD8C448PA-HNF_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44917/drawings/SD8C440FD-HNF_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2021-10-26 #Drawings SD8C448PA-HNF_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85032/drawings/SD8X442FA-HNF_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-08-30 #Firmware DH_SD-Darwin_MultiLang_PN_Stream3_V2.821.0000004.5.R.250707 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/41267/firmware/DH_SD-Darwin_MultiLang_PN_Stream3_V2.821.0000004.5.R.250707.zip"
+      },
+      {
+        "name": "2022-08-04 #Firmware General_SD8A1XXX-HN-WD-HK_MCU_V2.401.0000002.10.R.220616 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/1832555/M/General_SD8A1XXX-HN-WD-HK_MCU_V2.401.0000002.10.R.220616.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizmind-series/sd8/sd8c448pa-hnf"
+  }
+}

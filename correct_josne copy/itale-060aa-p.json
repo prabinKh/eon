@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Supplement Lights",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Supplement Lights",
+    "tab_id": "606",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Supplement Lights",
+      "Supplement Lights"
+    ]
+  },
+  "card_info": {
+    "product_id": "1861",
+    "product_name": "ITALE-060AA-P",
+    "product_title": "White Strobe Lamp",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/strobe-light/itale-060aa-p",
+    "card_image": "https://material.dahuasecurity.com/upfiles/ITALE-060AA-P1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itale-060aa-p.html",
+  "detail": {
+    "title": "White Strobe Lamp",
+    "model": "ITALE-060AA-P",
+    "brand": "Dahua",
+    "overview": "Favourite ITALE-060AA-P White Strobe Lamp Key Points • LED Chips With Long Lifespan, Good Stability and High Luminous Efficiency • Light Uniformity and Distinct Target Spot • Illumination Distance 18 m–25 m • Easy Installation and Easy Configuration • Continuous Light, White Light Source, 16 Lamp Beads • Power Consumption : ≤ 40 W Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "Technical Data": {
+        "Main Processor": "ATMEL AVR MCU",
+        "LED Lamp Beads": "16 crees, White light LED lamp",
+        "User Interface": "RS485",
+        "Parameter Setting": "Web/Client",
+        "Cascading": "Support 4 devices cascading",
+        "Video/Strobeflash Synchronization": "Support",
+        "Snapshot/Strobeflash Synchronization": "Support",
+        "Remote Control": "Support",
+        "Pattern of Strobeflash": "Active/Passive Mode",
+        "Brightness of Strobeflash": "Adjustable",
+        "Frequency of Strobeflash": "50/60/75/90/100/120Hz",
+        "Brightness of Environment": "Support adjustment 1~6",
+        "Recycle Time": "≤20us",
+        "Best Lighting Distance": "18~25 meters"
+      },
+      "Power,Size,Environment": {
+        "Power": "AC90~285V, Strobe flash Max. 40W",
+        "Color Temperature": "6500K",
+        "Working Temperature": "-30℃~+70℃(-40℉~+158℉)",
+        "Working Humidity": "10%~95%"
+      },
+      "Certifications": {
+        "CE": "SECE1608064",
+        "FCC": "SEFV1608064"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180307/ITALE-060AA-P.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual ITALE-060AA-P LED Light User's Manual V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002869/202411/ITALE-060AA-P_LED_Light_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual ITALE-060AA-P LED Light_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002869/202411/ITALE-060AA-P_LED_Light_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-09-06 #Drawings ITALE-060AA-P_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84889/drawings/ITALE-060AA-P_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-11-03 #Drawings ITALE-060AA-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84889/drawings/ITALE-060AA-P_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-08-11 #Firmware General_ITALE-060AA-P_STM8_MCU_V1.000.0000000.2.R.191015 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq//General_ITALE-060AA-P_STM8_MCU_V1.000.0000000.2.R.191015.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/supplement-lights/strobe-light/itale-060aa-p"
+  }
+}

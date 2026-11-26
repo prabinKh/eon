@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 30 Dual-Mode Wireless Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341843632419",
+    "product_name": "Globe 30 Dual-Mode Wireless Mouse",
+    "product_title": "Globe 30 Dual-Mode Wireless Mouse",
+    "product_url": "https://antesports.com/products/globe-30-wireless-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22_d0ea1e97-b135-4cb7-ad2a-81d5c262efe3.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-30-wireless-mouse.html",
+  "detail": {
+    "title": "Globe 30 Dual-Mode Wireless Mouse",
+    "model": "ANTR0055",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 30 is a dual-mode wireless mouse that switches effortlessly between 2.4GHz USB receiver and Bluetooth connections, making it easy to hop between a laptop, desktop, tablet or smartphone. Its ergonomically sculpted, matte-finish body sits comfortably in the palm, with a centrally placed DPI switch for instant sensitivity adjustment between detail-focused editing and quick browsing. Silent 4-button clicks keep it quiet enough for offices, shared spaces and late-night sessions, while the precision optical sensor delivers lag-free, consistent tracking. Long battery life and a clean, professional design round it out as a dependable daily-use mouse.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22_d0ea1e97-b135-4cb7-ad2a-81d5c262efe3.jpg",
+        "alt": "Globe 30 Dual-Mode Wireless Mouse - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz USB + Bluetooth",
+        "Sensor": "Precision Optical",
+        "Buttons": "4, Silent Click",
+        "Controls": "Central DPI Adjustment Switch",
+        "Build": "Ergonomic Matte Finish",
+        "Compatibility": "Windows, Mac, Linux",
+        "CONNECTIVITY": "2.4GHz USB + Bluetooth",
+        "SENSOR": "Precision Optical",
+        "BUTTONS": "4, Silent Click",
+        "CONTROLS": "Central DPI Adjustment Switch",
+        "BUILD": "Ergonomic Matte Finish",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "Offer Price (INR)": "₹590.00",
+        "MRP (INR)": "₹1,299.00",
+        "SKU": "ANTR0055"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-30-wireless-mouse"
+  }
+}

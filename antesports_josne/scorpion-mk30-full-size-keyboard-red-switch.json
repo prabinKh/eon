@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "Scorpion MK30 Mechanical Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "10356791574819",
+    "product_name": "Scorpion MK30 Mechanical Keyboard",
+    "product_title": "Scorpion MK30 Mechanical Keyboard",
+    "product_url": "https://antesports.com/products/scorpion-mk30-full-size-keyboard-red-switch",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24_8d65cc0b-2fba-4657-a87f-21fcf4aa2b05.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/scorpion-mk30-full-size-keyboard-red-switch.html",
+  "detail": {
+    "title": "Scorpion MK30 Mechanical Keyboard",
+    "model": "AEPP0313",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Scorpion MK30 delivers true mechanical performance in a full-size 104-key layout, giving dedicated number keys, function keys and navigation controls perfect for FPS, MOBA, MMO gaming and everyday productivity. Linear Red mechanical switches make every keystroke feel smooth, quick and effortless, helping you react faster and play longer without fatigue. Dynamic rainbow RGB lighting adds immersive visuals while keeping keys clearly visible during night gaming sessions, and anti-ghosting with N-key rollover ensures reliable performance during high-intensity gaming across a robust chassis.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/24_8d65cc0b-2fba-4657-a87f-21fcf4aa2b05.jpg",
+        "alt": "Scorpion MK30 Mechanical Keyboard - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Layout": "Full-Size, 104 Keys",
+        "Switch Type": "Linear Red Mechanical",
+        "Lighting": "Rainbow RGB",
+        "Build": "Robust Chassis",
+        "LAYOUT": "Full-Size, 104 Keys",
+        "SWITCH TYPE": "Linear Red Mechanical",
+        "LIGHTING": "Rainbow RGB",
+        "BUILD": "Robust Chassis",
+        "Offer Price (INR)": "₹1,249.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AEPP0313"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/scorpion-mk30-full-size-keyboard-red-switch"
+  }
+}

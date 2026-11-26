@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "G10 Gaming Mouse"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925325091",
+    "product_name": "G10 Gaming Mouse",
+    "product_title": "G10 Gaming Mouse",
+    "product_url": "https://antesports.com/products/g10-gaming-mouse-7-buttons",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_6b59501c-1230-40b4-a944-10a710fdcd96.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/g10-gaming-mouse-7-buttons.html",
+  "detail": {
+    "title": "G10 Gaming Mouse",
+    "model": "ANTP0038",
+    "brand": "Ant Esports",
+    "overview": "The Ant G10 is a wired gaming mouse built around a high-end optical engine reaching up to 7200 DPI, adjustable across 5 levels (1000/1600/2400/3200/7200) with a distinct LED indicator colour for each setting. Its 7 responsive buttons give quick access to extra shortcuts and macros beyond a standard 3-button mouse, while RGB breathing lights create an immersive, mysterious gaming atmosphere. An all-copper cable core with a magnetic ring and anti-jamming PU sheathing ensures durable, tangle-resistant use, and an ergonomic design keeps hands comfortable through long sessions. Wide compatibility spans Windows, Mac, Linux and Chrome OS.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_6b59501c-1230-40b4-a944-10a710fdcd96.jpg",
+        "alt": "G10 Gaming Mouse - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI Levels": "1000 / 1600 / 2400 / 3200 / 7200",
+        "Buttons": "7",
+        "Lighting": "RGB Breathing",
+        "Cable": "Copper Core, Anti-Jamming PU",
+        "Compatibility": "Windows, Mac, Linux, Chrome OS",
+        "DPI LEVELS": "1000 / 1600 / 2400 / 3200 / 7200",
+        "BUTTONS": "7",
+        "LIGHTING": "RGB Breathing",
+        "CABLE": "Copper Core, Anti-Jamming PU",
+        "COMPATIBILITY": "Windows, Mac, Linux, Chrome OS",
+        "Offer Price (INR)": "₹349.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "ANTP0038"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/g10-gaming-mouse-7-buttons"
+  }
+}

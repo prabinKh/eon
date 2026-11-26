@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "IT Channel Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products",
+    "series": "PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/it-channel-products/poe-switch",
+    "tab_title": "PoE Switch",
+    "tab_id": "16427",
+    "breadcrumbs": [
+      "Transmission",
+      "IT Channel Products",
+      "PoE Switch",
+      "PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "129797",
+    "product_name": "SG1018LP-2F",
+    "product_title": "18-Port Economical Gigabit PoE Switch with 16-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sg1018lp-2f",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230627/1018_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/sg1018lp-2f.html",
+  "detail": {
+    "title": "18-Port Economical Gigabit PoE Switch with 16-Port PoE",
+    "model": "SG1018LP-2F",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230627/1018_thumb.png",
+        "alt": "SG1018LP-2F",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchesforit/sg1018lp-2f"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10382405959971",
+    "product_name": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White",
+    "product_title": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White",
+    "product_url": "https://antesports.com/products/quartzflow-3x120mm-case-fan-kit-argb-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_W_c40c94d5-1e9a-4dcb-b395-ea80f44d3a7e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/quartzflow-3x120mm-case-fan-kit-argb-white.html",
+  "detail": {
+    "title": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White",
+    "model": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White",
+    "brand": "Ant Esports",
+    "overview": "Experience the future of PC building with the Ant Esports Quartzflow 120mm ARGB Fan Kit. Engineered for enthusiasts who prioritize clean aesthetics and effortless installation, this 3-fan pack removes cable clutter and delivers superior cooling performance.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_W_c40c94d5-1e9a-4dcb-b395-ea80f44d3a7e.png",
+        "alt": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_W_fd2e41e2-b986-4933-9f20-612cf77d5f8f.png",
+        "alt": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_W_a8b36e24-ea05-41ea-9f23-040b28c7096a.png",
+        "alt": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_W_8a24e11b-47ab-4df6-883b-b3eda565747e.png",
+        "alt": "QUARTZFLOW 3x120MM CASE FAN KIT ARGB -  White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "2000",
+        "FAN Airflow (CFM)": "75",
+        "FAN Static Pressure (mmH₂O)": "2.05",
+        "FAN Noise (dBA)": "30",
+        "FAN Direction": "Reversible",
+        "Connection": "PWM + ARGB",
+        "Stackable": "Yes",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "75",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.05",
+        "FAN NOISE (DBA)": "30",
+        "FAN DIRECTION": "Reversible",
+        "CONNECTION": "PWM + ARGB",
+        "STACKABLE": "Yes",
+        "Offer Price (INR)": "₹3,649.00",
+        "MRP (INR)": "₹5,999.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/quartzflow-3x120mm-case-fan-kit-argb-white"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "PoE Midspan",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/poe-midspan",
+    "tab_title": "PoE Midspan",
+    "tab_id": "13697",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "PoE Midspan",
+      "PoE Midspan"
+    ]
+  },
+  "card_info": {
+    "product_id": "23617",
+    "product_name": "TAM1GT1GT-30",
+    "product_title": "30W PoE+ Midspan",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poemidspan/tam1gt1gt-30",
+    "card_image": "https://material.dahuasecurity.com/product/20180620/TAM1GT1GT-30_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/tam1gt1gt-30.html",
+  "detail": {
+    "title": "30W PoE+ Midspan",
+    "model": "TAM1GT1GT-30",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/product/20180620/TAM1GT1GT-30_thumb.png",
+        "alt": "TAM1GT1GT-30",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poemidspan/tam1gt1gt-30"
+  }
+}

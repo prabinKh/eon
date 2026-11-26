@@ -1,0 +1,88 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Washer",
+    "subcategory_url": "https://www.intex.in/collections/washer",
+    "series": "Washing Machine",
+    "series_url": "https://www.intex.in/collections/washing-machine",
+    "tab_title": "Washer",
+    "tab_id": "8993307295962",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Washer",
+      "Intex 7.5 KG Washer | WS75PLRD (Red & White)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8993307295962",
+    "product_name": "Intex 7.5 KG Washer | WS75PLRD (Red & White)",
+    "product_title": "Intex 7.5 KG Washer | WS75PLRD (Red & White)",
+    "product_url": "https://www.intex.in/products/intex-7-5-kg-washer-ws75plrd",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WhatsApp_Image_2025-09-17_at_4.02.36_PM.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 9999.0,
+      "display": "₹9,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-7-5-kg-washer-ws75plrd.html",
+  "detail": {
+    "title": "Intex 7.5 KG Washer | WS75PLRD (Red & White)",
+    "model": "WS75PLRD",
+    "brand": "Intex",
+    "overview": "The WS75PLRD 7.5 KG semi-automatic washing machine offers efficient cleaning in a durable, rust-free body. Equipped with 2 wash programs, a triple wave pulsator, and a powerful motor with TOP technology, it ensures excellent washing performance for all types of laundry. The opaque top lid provides added privacy and style, while the lint and magic filters keep clothes cleaner and fresher. Perfect for households that value reliability, performance, and vibrant design.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/WhatsApp_Image_2025-09-17_at_4.02.36_PM.jpg",
+        "alt": "Intex 7.5 KG Washer | WS75PLRD (Red & White)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Model": "WS75PLRD",
+        "Capacity": "7.5 kg",
+        "Body": "Anti-Corrosive Rust-Free",
+        "Wash Programs": "2",
+        "Pulsator": "Triple Wave",
+        "Motor": "Powerful Motor with TOP Technology",
+        "Lid": "Opaque Top Lid",
+        "Filters": "Lint Filter, Magic Filter",
+        "Available Colours": "Red & White",
+        "Warranty": "2 Years on Product, 5 Years on Wash Motor"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/WS75GLBG_7.0_kg_811fb18e-b90a-4789-a322-86d7ebee5e35.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-7-5-kg-washer-ws75plrd"
+  }
+}

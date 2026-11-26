@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Mic",
+    "category_url": "https://cpplusworld.com/products/mic",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/mic",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "161",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Mic",
+      "CP-UA-M180J"
+    ]
+  },
+  "card_info": {
+    "product_id": "2243",
+    "product_name": "CP-UA-M180J",
+    "product_title": "CP-UA-M180J",
+    "product_url": "https://cpplusworld.com/cp-ua-m180j",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/feecd27b-0845-489d-8520-44b6a08a0c19.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ua-m180j.html",
+  "detail": {
+    "title": "CP-UA-M180J",
+    "model": "CP-UA-M180J",
+    "brand": "CP Plus",
+    "overview": "Condenser Microphone",
+    "features": [
+      "Aluminium alloy body, Rugged Build",
+      "Omnidirectional polar pattern",
+      "5–180㎡ with high-sensitivity mic",
+      "DSP chip with adaptive noise reduction",
+      "ONVIF, RTSP, RTSPS, PoE via M12",
+      "ESD, Lightning protection, Web management"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/feecd27b-0845-489d-8520-44b6a08a0c19.png",
+        "alt": "CP-UA-M180J - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/915556c0-922e-4202-a079-25a7508893e3.png",
+        "alt": "CP-UA-M180J - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Sound Pickup Range": "5-180 ㎡(Adjustable)",
+        "Polar Pattern": "Omnidirectional",
+        "Mic Type": "Condenser microphone",
+        "Sensitivity": "-35dB",
+        "S/N Ratio": "80dB",
+        "Frequency Response": "20Hz~20kHz",
+        "Noise Cancellation": "Active Noise Cancellation 20dB",
+        "Ethernet": "10BASE-T/100BASE-TX RJ45",
+        "Protocols": "HTTP, TCP/IP, ONVIF (Profile S), RTSP, RTSPS",
+        "User Interface": "Web",
+        "Flush Mounting": "Non-Protruding, Flush type Mic",
+        "Weatherproof Standard": "IP67",
+        "Connection Mode": "An M12 aviation-grade connector",
+        "Power Supply": "PoE (IEEE802.3at/af)",
+        "Power Consumption": "<5 W",
+        "Operating Temperature": "-25°C to +85°C",
+        "Operating Humidity": "0%~95% RH non-condensing",
+        "Casing": "Metal",
+        "Dimensions": "φ96mm x 26mm",
+        "Weight": "477g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UA-M180J.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/58b391ab-2e7c-46ae-bb3c-2e91d0803dd5.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ua-m180j"
+  }
+}

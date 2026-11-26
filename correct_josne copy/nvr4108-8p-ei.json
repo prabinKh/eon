@@ -1,0 +1,163 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series",
+    "tab_title": "NVR 4-EI Series",
+    "tab_id": "15457",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "WizSense Series",
+      "NVR 4-EI Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "123367",
+    "product_name": "NVR4108-8P-EI",
+    "product_title": "8CH Smart 1U 8PoE 1HDD WizSense Network Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr-4-ei-series/nvr4108-8p-ei",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230131/NVR4108-8P-EI_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr4108-8p-ei.html",
+  "detail": {
+    "title": "8CH Smart 1U 8PoE 1HDD WizSense Network Video Recorder",
+    "model": "NVR4108-8P-EI",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR4108-8P-EI 8CH Smart 1U 8PoE 1HDD WizSense Network Video Recorder Key Points • Max. 256/256/256 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 16 × 1080p@30 fps • IP Cameras Resolution Up to 16 MP • 1 Bay. Each HDD Storage Capacity Up to 20TB • AI by Recorder: 1-ch Face Detection and Recognition, 4-ch SMD, 2-ch Perimeter Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230131/NVR4108-8P-EI_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230131/NVR4108-8P-EI_3_thumb.png",
+        "alt": "NVR4108-8P-EI",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230131/NVR4108-8P-EI_2_thumb.png",
+        "alt": "NVR4108-8P-EI",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Operating Interface": {},
+      "AI by Recorder": {},
+      "AI by Camera": {},
+      "Perimeter Performance AI by Recorder (Number of Channels)": {},
+      "Perimeter Performance of AI by Camera (Number of Channels)": {},
+      "Face Attributes": {},
+      "Face Detection Performance of AI by Recorder (Number of Channels)": {},
+      "Face Detection Performance of AI by Camera (Number of Channels)": {},
+      "Face Database Capacity": {},
+      "Face Recognition Performance of AI by Recorder (Number of Channels)": {},
+      "Face Recognition Performance of AI by Camera (Number of Channels)": {},
+      "SMD Plus by Recorder": {},
+      "SMD by Camera": {},
+      "Access Channel": {},
+      "Network Bandwidth": {},
+      "Resolution": {},
+      "Decoding Capability": {},
+      "Video Output": {},
+      "Multi-screen Display": {},
+      "Third-party Camera Access": {},
+      "Video Compression": {},
+      "Audio Compression": {},
+      "Network Protocol": {},
+      "Mobile Phone Access": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Multi-channel Playback": {},
+      "Record Mode": {},
+      "Backup Method": {},
+      "Playback Mode": {},
+      "General Alarm": {},
+      "Anomaly Alarm": {},
+      "Intelligent Alarm": {},
+      "Alarm Linkage": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Disk Interface": {},
+      "USB": {},
+      "HDMI": {},
+      "VGA": {},
+      "Network Port": {},
+      "PoE Port": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57547/datasheet/NVR4108-8P-EI_S0_datasheet_20251203.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual HDD INSTALLATION GUIDE_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Dahua Network Video Recorder_User Manual_V2.4.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Dahua_Network_Video_Recorder_User_Manual_V2.4.2.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Network Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-11-24 #A&E Document NVR4108-8P-EI_A&E_20260924151336 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57547/a_e_document/1790234469047.docx"
+      },
+      {
+        "name": "2022-11-23 #Drawings NVR4108-8P-EI_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57547/drawings/NVR4108-8P-EI_PORT.pdf"
+      },
+      {
+        "name": "2022-11-23 #Drawings NVR4108-8P-EI_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/57547/drawings/NVR4108-8P-EI_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-01-12 #Firmware DH_NVR4x-EI_MultiLang_V4.005.0000001.6.R.251219 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/65357/firmware/DH_NVR4x-EI_MultiLang_V4.005.0000001.6.R.251219.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr-4-ei-series/nvr4108-8p-ei"
+  }
+}

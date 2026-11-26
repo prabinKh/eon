@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Projectors",
+    "subcategory_url": "https://antesports.com/collections/projectors",
+    "series": "Projectors Series",
+    "series_url": "https://antesports.com/collections/projectors",
+    "tab_title": "Projectors",
+    "tab_id": "508173222179",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Projectors",
+      "View 515 Plus HD Smart Projector"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420401955",
+    "product_name": "View 515 Plus HD Smart Projector",
+    "product_title": "View 515 Plus HD Smart Projector",
+    "product_url": "https://antesports.com/products/ant-esports-view-515-plus",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_2ef57990-998f-48df-a17c-5068942a1e10.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-view-515-plus.html",
+  "detail": {
+    "title": "View 515 Plus HD Smart Projector",
+    "model": "ATPRJ0020",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports View 515 Plus is a premium smart projector designed to deliver bright and immersive visuals for home entertainment, office presentations, and multimedia applications. Featuring 4000 lumens brightness, HD resolution, Android 11, manual focus, Auto Keystone, and IR Remote, it ensures a smooth viewing experience, reliable performance, and excellent compatibility with modern devices. Backed by a 1 Year Limited Warranty, it's an excellent choice for home users, professionals, and entertainment enthusiasts.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_2ef57990-998f-48df-a17c-5068942a1e10.png",
+        "alt": "View 515 Plus HD Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_6a5585d8-ef9d-4981-8fed-d9702194296d.png",
+        "alt": "View 515 Plus HD Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_15168232-d2b2-47c4-8c97-1ffe1c93e856.png",
+        "alt": "View 515 Plus HD Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_71399b16-aaf4-4536-851b-9c34f2cbcf9e.png",
+        "alt": "View 515 Plus HD Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_0211e4dd-5666-4c98-95b1-80ba31b47160.png",
+        "alt": "View 515 Plus HD Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_4d50040b-f48f-45c4-b9d6-7f376c891bb4.png",
+        "alt": "View 515 Plus HD Smart Projector - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 6,
+    "specifications": {
+      "General": {
+        "Category": "Projector",
+        "Type": "Angle Adjustable",
+        "Lumens": "4000",
+        "Contrast Ratio": "1500:1",
+        "Projection Size (inches)": "130",
+        "Resolution": "HD",
+        "Ports": "HDMI, USB, AUX",
+        "Android Version": "11",
+        "Licensed OTT": "No",
+        "Expected Lamp Life (Hours)": "50,000",
+        "Auto Focus": "No",
+        "Auto Keystone": "Yes",
+        "Remote Type": "IR Remote",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "Projector",
+        "TYPE": "Angle Adjustable",
+        "LUMENS": "4000",
+        "CONTRAST RATIO": "1500:1",
+        "PROJECTION SIZE (INCHES)": "130",
+        "RESOLUTION": "HD",
+        "PORTS": "HDMI, USB, AUX",
+        "ANDROID VERSION": "11",
+        "LICENSED OTT": "No",
+        "EXPECTED LAMP LIFE (HOURS)": "50,000",
+        "AUTO FOCUS": "No",
+        "AUTO KEYSTONE": "Yes",
+        "REMOTE TYPE": "IR Remote",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹24,999.00",
+        "SKU": "ATPRJ0020"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (VIEW)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=View-811-Firmware.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-view-515-plus"
+  }
+}

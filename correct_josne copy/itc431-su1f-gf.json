@@ -1,0 +1,181 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "ITC",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "ITC",
+    "tab_id": "721",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "ITC",
+      "ITC"
+    ]
+  },
+  "card_info": {
+    "product_id": "146075",
+    "product_name": "ITC431-SU1F-GF",
+    "product_title": "4MP Smart Vehicle Detector",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/4mp/itc431-su1f-gf",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15189/ProductImage/1_0_01_09_15189_324350224_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc431-su1f-gf.html",
+  "detail": {
+    "title": "4MP Smart Vehicle Detector",
+    "model": "ITC431-SU1F-GF",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC431-SU1F-GF 4MP Smart Vehicle Detector Key Points • 1.8\" CMOS Image Sensor with A Resolution of 2688 × 1520 • Covers Up to 2 Lanes(ANPR); 4 Lanes(traffic flow) • Supports Up to 128 Objects Detection • Detection Region Covers Up to 250 m • Speeds Up to 250 km/h • IP66 Waterproof Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15189/ProductImage/1_0_01_09_15189_324350224_crop_thumb.png",
+        "alt": "ITC431-SU1F-GF_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15189/ProductImage/1_0_01_09_15189_324350227_crop_thumb.png",
+        "alt": "ITC431-SU1F-GF_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15189/ProductImage/1_0_01_09_15189_324350230_crop_thumb.png",
+        "alt": "ITC431-SU1F-GF_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15189/ProductImage/1_0_01_09_15189_324350717_crop_thumb.png",
+        "alt": "ITC431-SU1F-GF_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Image Sensor": {},
+      "Shutter Mode": {},
+      "Electronic Shutter Speed": {},
+      "Exposure Mode": {},
+      "Iris Control": {},
+      "Image Resolution": {},
+      "Pixel": {},
+      "Video Resolution": {},
+      "Video Frame Rate": {},
+      "Video Bit Rate": {},
+      "Video Compression": {},
+      "Field of View": {},
+      "Image Encoding Format": {},
+      "Min. Illumination": {},
+      "WDR": {},
+      "White Balance": {},
+      "Noise Reduction": {},
+      "HLC": {},
+      "Bad Pixel Correction": {},
+      "Edge Enhancement": {},
+      "Expansion Module": {},
+      "Radar Transmission Frequency": {},
+      "Radar Antenna Beamwidth": {},
+      "Speed Measurement Range": {},
+      "Speed Measurement Accuracy": {},
+      "Detection Region": {},
+      "Measurement Error": {},
+      "4G Frequency Range": {},
+      "4G Power Transmission": {},
+      "Composite Image": {},
+      "Trigger Mode": {},
+      "OSD Overlay": {},
+      "Storage": {},
+      "Alarm Event": {},
+      "Automatic Network Replenishment (ANR)": {},
+      "Image Tampering Prevention": {},
+      "Positioning": {},
+      "Timing": {},
+      "Attitude Detection": {},
+      "Security Mode": {},
+      "Auto Registration": {},
+      "Target Detection": {},
+      "ANPR": {},
+      "Vehicle Type Recognition": {},
+      "Vehicle Color Recognition": {},
+      "Traffic Flow Detection": {},
+      "Traffic Event": {},
+      "Lens Mount": {},
+      "Network Port": {},
+      "GPS": {},
+      "4G Port": {},
+      "RS-485": {},
+      "RS-232": {},
+      "I/O": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Certifications": {},
+      "Installation": {},
+      "Power Adapter": {},
+      "Lens": {},
+      "Focal Length": {},
+      "Lens Type": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81997/datasheet/ITC431-SU1F-GF_datasheet_20260205.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua All-in-one AI Traffic Camera_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008716/202411/Dahua_All-in-one_AI_Traffic_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual All-in-one AI Traffic Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008716/202411/All-in-one_AI_Traffic_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-11-28 #A&E Document ITC431-SU1F-GF_A&E_20260902012055 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81997/a_e_document/1788283869746.docx"
+      },
+      {
+        "name": "2025-05-14 #Drawings ITC431-SU1F-GF_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81996/drawings/ITC431-SU1F-FIR_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-09-08 #Drawings ITC431-SU1F-GF_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81996/drawings/ITC431-SU1F-FIR_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-17 #Firmware General_ITC431-SU1F-F(IR)_Eng_PN_Oversea_V2.3_V2.923.0000000.2.R.250312 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3134212/M/General_ITC431-SU1F-F(IR)_Eng_PN_Oversea_V2.3_V2.923.0000000.2.R.250312.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/itc/4mp/itc431-su1f-gf"
+  }
+}

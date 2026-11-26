@@ -1,0 +1,168 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series",
+    "tab_title": "NVR2-I2 Series",
+    "tab_id": "14167",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "WizSense Series",
+      "NVR2-I2 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "103867",
+    "product_name": "NVR2108-I2",
+    "product_title": "8 Channel Smart 1U 1HDD WizSense Network Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr2-i2-series/nvr2108-i2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220322/nvr11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr2108-i2.html",
+  "detail": {
+    "title": "8 Channel Smart 1U 1HDD WizSense Network Video Recorder",
+    "model": "NVR2108-I2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR2108-I2 8 Channel Smart 1U 1HDD WizSense Network Video Recorder Key Points • Max. 80/80/60 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 6 × 1080p@30 fps • IP Cameras Resolution Up to 12 MP • 1 Bay. Each HDD Storage Capacity Up to 10TB • AI by Recorder: 1-ch Face Detection and Recognition, 4-ch SMD, 1-ch Perimeter Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220322/nvr11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220322/nvr21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220322/nvr31_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "General": {
+        "Main Processor": "Industrial-grade embedded processor",
+        "Operating System": "Embedded Linux",
+        "Operation Interface": "Web; local GUI",
+        "AI by Camera": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "AI by Device": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "Perimeter Performance AI by Device(Number of Channels)": "1",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "4",
+        "Face Attributes": "6 attibutes: Gender; age group (6); glasses; expressions (8); mouth mask; beard",
+        "Face Detection Performance of AI by Device (1080P) (Number of Channels)": "1 (up to 12 face images/second)",
+        "Face Detection Performance of AI by Camera (Number of Channels)": "5",
+        "Face Database Capacity": "Up to 10 face databases with 5,000 images",
+        "Face Recognition Performance of AI by Device (1080P) (Number of Channels)": "1 (up to 4 face images/second)",
+        "Face Recognition Performance of AI by Camera (Number of Channels)": "5",
+        "SMD Plus by Device": "4",
+        "SMD Plus by Camera": "6-channel SMD Plus (AI by camera): Detects tripwire and intrustion of human or vehicle; filters false alarms caused by leaves, raindrops and change of brightness away",
+        "Access Channel": "8 channels",
+        "Network Bandwidth": "80 Mbps for access, 80 Mbps for storage and 60 Mbps for forwarding.",
+        "Resolution": "12MP; 8MP; 5MP; 4MP; 3MP; 2MP; 720p; D1",
+        "Decoding Capability": "AI disabled: 1-channel 12MP@30 fps; 1-channel 8MP@30 fps; 2-channel 5MP@30 fps; 3-channel 4MP@30 fps; 6-channel 1080p@30 fps AI enabled: 1-channel 8MP@30 fps; 1-channel 5MP@30 fps; 2-channel 4MP@30 fps; 4-channel 1080p@30 fps",
+        "Video Output": "1 × VGA, 1 × HDMI (simultaneous)",
+        "Multi-screen Display": "1, 4, 8, 9 views",
+        "Third Party Camera Access": "Onvif",
+        "Video": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio": "PCM; G711A; G711U; G726",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; RTSP; UDP; NTP; DHCP; DNS; SMTP; UPnP; IP Filter; DDNS; Alarm Server; IP Search (Supports Dahua IP camera, DVR, NVS, etc.); P2P;Auto Registration",
+        "Mobile Phone Access": "Android; iOS",
+        "Interoperability": "ONVIF (profile T; profile S; profile G); CGI; SDK",
+        "Browser": "Chrome; IE9 or later; Firefox",
+        "Multi-channel Playback": "Up to 8 channels",
+        "Record Mode": "Manual record; alarm recordings; motion detection recordings; scheduled recordings",
+        "Storage": "Local HDD and network",
+        "Backup": "USB device",
+        "Playback Function": "1. Play; pause; stop; fast forward; fast backward; rewind; play by frame 2. Full screen; backup (vide clip/file); partially zom in; audio on/off",
+        "General Alarm": "Motion detection; privacy masking; video loss; PIR alarm; IPC alarm",
+        "Anomaly Alarm": "Camera offline; storage error; disk full; IP conflict; MAC conflict; login lock; cyber security exception",
+        "Intelligent Alarm": "Face detection; face recognition; perimeter protection (intrusion and tripwire); IVS; SMD Plus",
+        "Alarm Linkage": "Recording; snapshot; buzzer; log; preset; email; tour",
+        "HDD": "1 SATA port, up to 10 TB. The maximum HDD capacity varies with environment temperature",
+        "USB": "2 rear USB 2.0 ports",
+        "HDMI": "1 (max. resolution: 4K)",
+        "VGA": "1",
+        "Network": "1 × RJ-45 (10 or 100 Mbps)",
+        "RCA Input": "1",
+        "RCA Output": "1",
+        "Power Supply": "12 V DC, 1.5 A",
+        "Power Consumption": "Total output of NVR is ≤ 10 W (without HDD)",
+        "Net Weight": "0.45 kg (0.99 lb)",
+        "Gross weight": "1.07 kg (3.04 lb)",
+        "Product Dimensions": "204.6 mm × 206.4 mm × 48.1 mm(8.06\" × 8.13\" × 1.89\") (W × L × H)",
+        "Package Dimensions": "96 mm × 364 mm × 261 mm (3.78\" × 14.33\" × 10.28\") (W × L × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Temperature": "0 °C to 40 °C (32 °F to 104 °F)",
+        "Operating Humidity": "10%–93%",
+        "Storage Humidity": "30%–85%",
+        "Operating Altitude": "3,000 m (9,842.52 ft)",
+        "Installation": "Desktop",
+        "Certifications": "FCC:47 CFR FCC Part15,SubpartB,Class A CE-EMC:EN 55032:2015,Class A;EN IEC 61000-3-2:2019;EN 61000-3-3:2013+A1:2019;EN 55024:2010+A1:2015;EN 55035:2017;EN 50130-4:2011+A1:2014 CE-LVD:EN 62368-1:2014+A11:2017"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/NVR2108-I2_datasheet_20220614.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual HDD INSTALLATION GUIDE_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Dahua Network Video Recorder_User Manual_V2.4.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Dahua_Network_Video_Recorder_User_Manual_V2.4.2.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Network Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2021-04-21 #A&E Document NVR2108-I2_A&E_20260924151219 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43477/a_e_document/1790235082198.docx"
+      },
+      {
+        "name": "2022-03-07 #Drawings NVR2108-I2_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3117/drawings/NVR2116-I_PORT.pdf"
+      },
+      {
+        "name": "2021-04-16 #Drawings NVR2108-I2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3117/drawings/NVR2116-I_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-27 #Firmware DH_NVR2XXX-I2_Mul_V4.002.0000001.5.R.260706 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43407/firmware/DH_NVR2XXX-I2_Mul_V4.002.0000001.5.R.260706.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/wizsense-series/nvr2-i2-series/nvr2108-i2"
+  }
+}

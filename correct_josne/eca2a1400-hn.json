@@ -1,0 +1,168 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Optical Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+    "tab_title": "Optical Series",
+    "tab_id": "1501",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Optical Series",
+      "Optical Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "113167",
+    "product_name": "ECA2A1400-HN",
+    "product_title": "4MP Starlight IR Explosion-proof Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/eca2a1400-hn",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10234/ProductImage/1_0_01_08_10234_299049183_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/eca2a1400-hn.html",
+  "detail": {
+    "title": "4MP Starlight IR Explosion-proof Camera",
+    "model": "ECA2A1400-HN",
+    "brand": "Dahua",
+    "overview": "Favourite ECA2A1400-HN 4MP Starlight IR Explosion-proof Camera Key Points • High-Quality Imaging with 4MP Resolution • Expansive Night View With up to 30m IR Distance for 24/7 Monitoring • Efficient H.265 Compression for Reduced Bandwidth and Storage • Deep Learning-Based Human and Vehicle Classification • IP68 Protection, Suitable for Outdoor Environments • Supports 304L Stainless Steel, Anti-Corrosion Design for Reliable Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10234/ProductImage/1_0_01_08_10234_299049183_crop_thumb.png",
+        "alt": "ECA2A1400-HN_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10234/ProductImage/1_0_01_08_10234_299049184_crop_thumb.png",
+        "alt": "ECA2A1400-HN_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10234/ProductImage/1_0_01_08_10234_299049185_crop_thumb.png",
+        "alt": "ECA2A1400-HN_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "4 MP",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "ROM": "128 MB",
+        "RAM": "128 MB",
+        "Electronic Shutter Speed": "1/1 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.005 lux@F1.8 B/W: 0.0005 lux@F1.8",
+        "Illumination Distance": "30 m (98.43 ft) (IR)",
+        "Illuminator On/Off Control": "Manual; Smart IR; Off",
+        "Illuminator Number": "1 (IR)",
+        "Focal Length": "6 mm; 4 mm",
+        "Max. Aperture": "F1.8",
+        "Field of View": "H: 49°; V: 37°; D: 61°;H: 81°; V: 59°; D: 106°",
+        "Optical Zoom": "1",
+        "Close Focus Distance": "0.2 m (0.66 ft); 0.6 m (1.97 ft);",
+        "Iris Control": "Fixed",
+        "IVS": "Tripwire; intrusion",
+        "Human Detection": "Yes",
+        "SMD": "Yes",
+        "Video Compression": "H.264B; Smart H.265+; H.264; H.265; MJPEG (Sub Stream); Smart H.264+",
+        "Streaming Capability": "2 streams",
+        "Resolution": "4M (2560 × 1440); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576); CIF (352 × 288)",
+        "Video Frame Rate": "Main stream: 4M/1080p/1.3M/720p@(1–25/30 fps) Sub stream: D1/CIF@(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–8192 kbps H.265: 32 kbps–8192 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "Yes",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "180°",
+        "S/N Ratio": "≥ 55 dB",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "UDP;TCP;FTP;RTMP;IPv6;IPv4;IP Filter;DNS;RTCP;HTTP;NTP;SSL;DHCP;RTP;SMTP;HTTPS;TCP/IP;RTSP;DDNS;ARP",
+        "Interoperability": "CGI; ONVIF",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20",
+        "Storage": "FTP; Micro SD card (512 GB)",
+        "Browser": "IE 7 and later versions Chrome 42 and earlier versions Firefox 52 and earlier versions Safari",
+        "Management Software": "Player;Smart Player ;Imou;DMSS;ConfigTool;NVR;Smart PSS",
+        "Mobile Client": "iPhone;Windows Phone;iPad;iOS;Android",
+        "Certifications": "FCC: 47 CFR FCC Part15, Subpart B, ClassA CE: EN 55032/EN IEC 61000-3-2/EN 61000-3-3/EN 55024/EN 55035/EN 50130-4/EN 62368-1 ATEX: EN 60079-0/EN 60079-1/EN60079-31 IECE: IEC 60079-0/IEC 60079-1/IEC 60079-31",
+        "Alarm Linkage": "Capture; recordings; send emails",
+        "Alarm Event": "Motion/tampering detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Power Supply": "12 VDC/1.5 A ± 10% PoE (802.3af)",
+        "Power Consumption": "Basic: 2 W Max.: 3.5 W (illuminator)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP68 (2 m/2 h), TVS 6000V lightning proof; surge protection; voltage transient protection",
+        "Casing Material": "Stainless steel",
+        "Product Dimensions": "173.3 mm × 144 mm × 126.5 mm (6.82\" × 5.67\" × 4.98\")",
+        "Net Weight": "2.3 kg (5.07 lb)",
+        "Gross Weight": "3 kg (6.61 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ECA2A1400-HN_S0_datasheet_20240611.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Dahua Explosion-Proof Camera (ECA7B1)_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87910/user_manual/Dahua_Explosion-Proof_Camera_(ECA7B1)_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Installation Guide_V1.0.0_(ECA2A) Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50047/user_manual/Installation_Guide_V1.0.0_(ECA2A).pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Dahua Explosion-Proof Camera Web 3.0 User's Manual_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/user_manual/Dahua_Explosion-Proof_Camera_Web_3.0_User_27s_Manual_V2.0.0.pdf"
+      },
+      {
+        "name": "2022-04-14 #A&E Document ECA2A1400-HN_A&E_20260917193619 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50047/a_e_document/1789645330816.docx"
+      },
+      {
+        "name": "2022-11-17 #Drawings ECA2A1400-HN_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50047/drawings/ECA2A1400-HN_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-11-17 #Drawings ECA2A1400-HN_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50047/drawings/ECA2A1400-HN_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-09-22 #Firmware DH_SD-Hertz_MultiLang_PN_V2.811.0000020.0.R.250830 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3386196/M/DH_SD-Hertz_MultiLang_PN_V2.811.0000020.0.R.250830.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/eca2a1400-hn"
+  }
+}

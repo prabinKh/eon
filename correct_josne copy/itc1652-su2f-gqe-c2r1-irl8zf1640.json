@@ -1,0 +1,209 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Spotter Series",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Spotter Series",
+    "tab_id": "14727",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Spotter Series",
+      "Spotter Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "128007",
+    "product_name": "ITC1652-SU2F-GQE-C2R1-IRL8ZF1640",
+    "product_title": "16MP All-in-one IR AI Traffic Camera",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/spotter-series/spotter-sky/itc1652-su2f-gqe-c2r1-irl8zf1640",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14719/ProductImage/1_0_01_09_14719_27504407_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itc1652-su2f-gqe-c2r1-irl8zf1640.html",
+  "detail": {
+    "title": "16MP All-in-one IR AI Traffic Camera",
+    "model": "ITC1652-SU2F-GQE-C2R1-IRL8ZF1640",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITC1652-SU2F-GQE-C2R1-IRL8ZF1640 16MP All-in-one IR AI Traffic Camera Key Points • 16MP Ultra HD with 1.1-inch Global Sensor • Covers up to 4 Lanes • Vehicle Analytics and Classfication • Smart Violation Detection • Radar and Video Fusion Technology • Capture Vehicles at Speeds up to 300km/h • Water and Dust Resistant(lP66) Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14719/ProductImage/1_0_01_09_14719_27504407_crop_thumb.png",
+        "alt": "ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14719/ProductImage/1_0_01_09_14719_27504406_crop_thumb.png",
+        "alt": "ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_14719/ProductImage/1_0_01_09_14719_27504408_crop_thumb.png",
+        "alt": "ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1.1\" GS-CMOS",
+        "Shutter Mode": "Single shutter; Double shutters; Three shutters",
+        "Electronic Shutter Speed": "Auto/Manual 1/50 s–1/100,000 s",
+        "Noise Reduction": "3D NR",
+        "S/N": "48 dB",
+        "WDR": "120 dB",
+        "Minimum intensity": "0.001 lux",
+        "Day/Night": "Supports ICR auto switch: IR cut-off filter (IRCF) with the polarizing filter is used during the daytime, and switches to the IR transmitting filter at night"
+      },
+      "Illuminator": {
+        "Illuminator Number": "16",
+        "IR": "850 nm",
+        "Illumination Distance": "23 m–50 m (75.46 ft–164.04 ft) (adjustable brightness)",
+        "IR Covered lane": "Center mount: 5 lanes Side mount: 4 lanes"
+      },
+      "Radar": {
+        "Central Frequency": "24.05 to 24.25 GHz",
+        "Measurement Accuracy": "±2 km/h",
+        "Velocity Range": "5 to 300 km/h",
+        "Tracking Target": "Up to 64",
+        "Certification": "OIML R91"
+      },
+      "Lens": {
+        "Lens Type": "Motorized vari-focal",
+        "Focal Length": "16 mm–40 mm",
+        "Max. Aperture": "F1.4",
+        "Aperture Type": "P iris",
+        "Field of View": "Horizontal: 21.4°–50.6° Vertical: 12.3°–28.9° Diagonal: 24.4°–58°"
+      },
+      "Function": {
+        "Trigger Mode": "Video trigger/Radar trigger",
+        "OSD Overlay": "Time, location, lane (number/direction), plate (number/color), and more.",
+        "Alarm Event": "Storage full; storage error; external alarm; no storage card; license plate blocklist; illegal access; network disconnection; IP conflict",
+        "Automatic Network Replenishment (ANR)": "Platform, FTP (TF card is required)",
+        "Power Transmission": "4G: Power class3: 23 dBm ± 2 dB",
+        "4G": "Yes operating frequency band: LTE FDD: Band 1,3,5,7,8,20,28 LTE TDD: Band 38,40,41 WCDMA/HSPA+: Band 1,5,8 GSM/GPRS/EDGE: 850/900/1800MHz",
+        "Auto Registration": "Yes"
+      },
+      "Intelligence": {
+        "Target Detection": "Motor vehicle; motorcycle",
+        "Face Detection": "Detects the driver and front-seat passenger of motor vehicles, and motorcycle drivers; extracts face images",
+        "ANPR": "Adopts developed algorithms to recognize license plate numbers and letters",
+        "Vehicle Type Recognition": "Vehicle head: SUV, Large bus, sedan, light truck, pickup, heavy truck, medium truck, van, medium bus, MPV Vehicle tail: SUV, large bus, sedan, light truck, pickup, heavy truck, medium truck, van",
+        "Vehicle Color Recognition": "White, pink, black, red, yellow, gray, blue, green, orange, purple, brown, and silver gray (color recognition is not supported during the nighttime)",
+        "Vehicle logo": "Vehicle head mode: Acura, Alfaromeo, Ashokleyland, Astonmartin, Audi, Baic, Bently, Benz, BMW, Buick, BYD, Cadillac, Chery, Chevrolet, Chrysler, Citroen, Dacia, Daihatsu, Datsun, Dodge, DS, Ferrari, Fiat, Force, Ford, Foton, Geely, GMC, Greatwall, Hino, Honda, Hyundai, Infiniti, Isuzu, Iveco, Jac, Jaguar, Jeep, Kia, Kinglong, Land, Lexus, Lifan, Lincoln, Mahindra, MAN, Maserati, Mazda, Mercury, MG, Mini, Mitsubishi, Nissan, Opel, Peugeot, Porsche, Renault, Rollsroyce, Saab, Scania, Seat, Skoda, Smart, Subaru, Suzuki, Tata, Tesla, Toyota, UD, Volkswagen, Volvo",
+        "Motor Vehicle Violation Snapshot": "ANPR mode: Wrong-way driving, overspeed, driving slow, crossing the solid white line, crossing the solid yellow line, illegal lane change, not wearing seatbelt, calling while driving, smoking while driving E-Police mode: Running a red light, overspeed, wrong-way driving, crossing the solid white line, crossing the solid yellow line, disobeying the direction arrow, illegal left turn, illegal right turn, illegal U-turn (not supported by side-mounted cameras), and crossing the stop line",
+        "Motorcycle vehicle Violation Capture": "Captures traffic violations including carrying passenger, not wearing helmet, and wrong-way driving",
+        "Traffic Flow Detection": "Generates statistics on vehicle flow, queue length, average speed, lane occupancy, and more",
+        "Traffic Event": "Detects parking violations of motor vehicles, wrong-way driving, and traffic congestion"
+      },
+      "Video": {
+        "Video Compression": "H.265; H.264M; H.264H; MJPEG",
+        "Video Resolution": "5320 (H) × 3032 (V)",
+        "Video Frame Rate": "50Hz: Maximum 25 fps; default main stream (4096 × 2160@12.5fps), sub stream (1600 × 1200@12.5 fps) 30Hz: Maximum 30 fps; default main stream (4096 × 2160@15 fps), sub stream (1600 × 1200@15 fps)",
+        "Video Bit Rate": "H.264: 32 kbps–32768 kbps H.265: 32 kbps–32768 kbps MJPEG: 512 kbps–32768 kbps",
+        "Bit Rate Control": "CBR; VBR",
+        "White Balance": "Auto/night/custom color temperature",
+        "Edge Enhancement": "Yes",
+        "HLC": "Yes",
+        "BLC": "Yes",
+        "Bad Pixel Correction": "Yes",
+        "Gain Scope": "0–100"
+      },
+      "Image": {
+        "Composite Image": "Supports combining up to 4 images into a composite image",
+        "Image Resolution": "5320 (H) × 3032 (V) (OSD black strip excluded)",
+        "Image Encoding Format": "JPEG",
+        "Image Tampering Prevention": "Watermark and verification are available for videos and images"
+      },
+      "Network": {
+        "Network Port": "1 × RJ-45 Ethernet port, 10/100/1000 M network transmission",
+        "SDK and API": "Yes",
+        "Security": "Authorized username and password, MAC address binding, HTTPS encryption, and network access control",
+        "Protocol": "IPv4; IPv6; HTTP; TCP; IP; UDP; NTP; DHCP",
+        "Interoperability": "ONVIF (Profile S/Profile G/Profile T)",
+        "Browser": "IE: IE 9–IE 11 Chrome: Chrome 41 and earlier Firefox: Firefox 49 and earlier Win10 needs to open the browser with administrator rights",
+        "Positioning": "GPS",
+        "Time Synchronization": "NTP; GPS"
+      },
+      "Port": {
+        "Frequency Source Sync": "1, supports synchronizing the camera with the mains electricity",
+        "Peripheral Light": "5, optocoupler signal output (can be configured as flashing light or LED strobe sync output port, frequency adjustable)",
+        "RS-485": "1, connects to devices such as signal detector, strobe, continuous light, and all-in-one illuminator",
+        "Alarm Output": "1 (can be configured as an alarm output port)",
+        "Alarm In": "1"
+      },
+      "General": {
+        "Power Supply": "100–240 VAC, 50 Hz/60 Hz",
+        "Power Consumption": "≤45 W",
+        "Operating Temperature": "−40 °C to +65 °C (−40 °F to +149 °F)",
+        "Storage Temperature": "−40 °C to +70 °C (−40 °F to +154 °F)",
+        "Operating Humidity": "10%-90% (RH)",
+        "Storage Humidity": "10%-90% (RH)",
+        "Product Dimensions": "435.4 mm × 416.0 mm × 173.8 mm (17.14'' × 16.38'' × 6.84'') (L × W × H)",
+        "Certifications": "CE LVD: EN62368 CE EMC: EN55032; EN55035; EN61000-3-2; EN61000-3-3 CE RED: EN301511; EN301908; EN300440; EN62311; EN301489; EN303413 IP66",
+        "Net Weight": "9.3 kg (20.50 lb)",
+        "Gross Weight": "14.3 kg (31.53 lb)",
+        "Installation": "Center mount; Side mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_datasheet_20240926.pdf"
+      },
+      {
+        "name": "2024-12-20 #User Manual Dahua All-in-one AI Traffic Camera_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007870/202412/Dahua_All-in-one_AI_Traffic_Camera_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-12-20 #User Manual All-in-one AI Traffic Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81882/user_manual/All-in-one_AI_Traffic_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-05-18 #User Manual Spotter Sky QSG Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69757/user_manual/Spotter_Sky_QSG.pdf"
+      },
+      {
+        "name": "2023-04-12 #A&E Document ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_A&E_20260901211040 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69757/a_e_document/1788268259130.docx"
+      },
+      {
+        "name": "2023-04-14 #Drawings ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69757/drawings/ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-04-14 #Drawings ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/69757/drawings/ITC1652-SU2F-GQE-C2R1-IRL8ZF1640_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-20 #Firmware General_ITCXX52-AF5F(SU2F)_PN_Oversea_V5.003.0000000.1.R.260522 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84604/firmware/General_ITCXX52-AF5F(SU2F)_PN_Oversea_V5.003.0000000.1.R.260522.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/spotter-series/spotter-sky/itc1652-su2f-gqe-c2r1-irl8zf1640"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "Combatant II RGB Wireless Smartphone Gamepad"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869288227",
+    "product_name": "Combatant II RGB Wireless Smartphone Gamepad",
+    "product_title": "Combatant II RGB Wireless Smartphone Gamepad",
+    "product_url": "https://antesports.com/products/combatant-ii-rgb-wireless-smartphone-gamepad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_d211a724-f0ab-4249-b383-aa51025d7d00.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/combatant-ii-rgb-wireless-smartphone-gamepad.html",
+  "detail": {
+    "title": "Combatant II RGB Wireless Smartphone Gamepad",
+    "model": "AEPP0300",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Combatant II is an RGB wireless gamepad built specifically for smartphones, using Magnetic Hall 3D joysticks that eliminate drift and dead zones for lasting precision. It's compatible with Xbox Game Pass, Steam Link, GeForce NOW and other cloud platforms, letting you play Fortnite, Call of Duty, Minecraft and Roblox seamlessly on Android or iPhone. Two programmable rear buttons can be remapped to A/B/X/Y or triggers for faster reactions, while Hall Effect triggers offer ultra-responsive hair-trigger action for competitive play. Dual vibration motors and 10 dynamic RGB lighting modes add immersion and visual flair, and the expandable clamp fits phones from 4 to 7 inches without needing to remove the case. An 800mAh battery delivers 6+ hours of continuous gaming, and the Key Linker app lets you remap buttons, update firmware and fine-tune dead zones for a fully personalized setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_d211a724-f0ab-4249-b383-aa51025d7d00.jpg",
+        "alt": "Combatant II RGB Wireless Smartphone Gamepad - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Joystick Type": "Magnetic Hall 3D, Drift-Free",
+        "Connectivity": "Bluetooth",
+        "Battery": "800mAh, 6+ Hours",
+        "Phone Fit": "4-7 Inch, No Case Removal",
+        "Lighting": "10 RGB Modes",
+        "Compatibility": "Android, iPhone, Xbox Game Pass, Steam Link",
+        "JOYSTICK TYPE": "Magnetic Hall 3D, Drift-Free",
+        "CONNECTIVITY": "Bluetooth",
+        "BATTERY": "800mAh, 6+ Hours",
+        "PHONE FIT": "4-7 Inch, No Case Removal",
+        "LIGHTING": "10 RGB Modes",
+        "COMPATIBILITY": "Android, iPhone, Xbox Game Pass, Steam Link",
+        "Offer Price (INR)": "₹2,499.00",
+        "MRP (INR)": "₹4,999.00",
+        "SKU": "AEPP0300"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/combatant-ii-rgb-wireless-smartphone-gamepad"
+  }
+}

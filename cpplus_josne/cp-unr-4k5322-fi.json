@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "32 Ch.",
+    "category_url": "https://cpplusworld.com/products/32-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/32-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "31",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "32 Ch.",
+      "CP-UNR-4K5322-FI"
+    ]
+  },
+  "card_info": {
+    "product_id": "1779",
+    "product_name": "CP-UNR-4K5322-FI",
+    "product_title": "CP-UNR-4K5322-FI",
+    "product_url": "https://cpplusworld.com/cp-unr-4k5322-fi",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/77aa92a7-9136-4d2c-a1d9-dde0f0fbedb4.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k5322-fi.html",
+  "detail": {
+    "title": "CP-UNR-4K5322-FI",
+    "model": "CP-UNR-4K5322-FI",
+    "brand": "CP Plus",
+    "overview": "32Ch. 4K AI Network Video Recorder",
+    "features": [
+      "Up to 32 channel IP camera input",
+      "Max. 384 Mbps Incoming/ Recording/ Outgoing bandwidth",
+      "Instastream, H.265, Smart H.264+, H.264, MJPEG codec decoding",
+      "AI by Recorder: 2 Channel face detection or recognition, 4 Channel perimeter protection,  8 Channel IMD+.",
+      "AI by camera: Face detection and recognition, Perimeter protection, IMD+, Metadata,  ANPR, Stereo analysis, Heat map, and people counting.",
+      "Support N+M cluster",
+      "Support 2 SATA HDDs up to 16TB Each, 2 USB Ports (1 USB 3.0)",
+      "HDMI/ VGA simultaneous video output",
+      "Support Multi-brand network cameras",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/77aa92a7-9136-4d2c-a1d9-dde0f0fbedb4.jpg",
+        "alt": "CP-UNR-4K5322-FI - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/01385e1a-5bcf-4f2a-b9c4-4c1d4c814e83.jpg",
+        "alt": "CP-UNR-4K5322-FI - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "32 channel",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "Video Output": "1 Channel VGA, 1 Channel HDMI video output.                              Heterogeneous video source output for HDMI and VGA Supports 4K display",
+        "Video Compression": "H.265, Smart H.264+, H.264, MJPEG",
+        "Encode Strategy": "Instastream",
+        "Decoding Capability": "AI disabled: 2 Channel 32MP@20 fps, 2 Channel 24MP@20 fps, 4 Channel 16MP@30 fps,        5 Channel 12MP@30fps, 8 Channel 8MP@30 fps, 12 Channel 5MP@30fps, 16 Channel  4MP@30 fps, 32 Channel 1080p@30fps  AI enabled: 1 Channel 32MP@20 fps, 1 Channel 24MP@20 fps, 2 Channel 16MP@30 fps,        4 Channel 12MP@30 fps, 4 Channel 8MP@30 fps, 8 Channel 5MP@30 fps, 12 Channel             4MP@30 fps, 24 Channel 1080p@30fps",
+        "AI by NVR": "Face detection, Face recognition, Perimeter protection, IMD+",
+        "AI by Camera": "Face detection, Face recognition, Video metadata (Human, Motor vehicles, and non-motor  vehicles), Perimeter protection, IMD+, Stereo analysis, Crowd distribution, People counting,  ANPR, Vehicle density, Heat map",
+        "Resolution": "32MP, 24MP, 16MP, 12MP, 8MP, 5MP, 4MP, 1080p, 720p, D1, CIF, QCIF",
+        "Network Bandwidth": "AI disabled: 384 Mbps Incoming, 384 Mbps Recording and 384 Mbps Outgoing                               AI enabled: 200 Mbps Incoming, 200 Mbps Recording and 200 Mbps Outgoing",
+        "Video Display Split": "Main screen: 1/4/8/9/16/25/36 Sub screen: 1/4/8/9/16",
+        "Perimeter Performance AI by NVR (Number of Channels)": "4 Channels, 10 IVS rules for each channel",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "Human and vehicle detection on all channels, supporting up to 16 targets per second",
+        "Face Attributes": "Gender, Age group, Glasses, Expressions, Face mask, Beard",
+        "Face Detection Performance of AI by NVR (Number of Channels)": "2 Channels (up to 12 face images/s each channel)",
+        "Face Detection Performance of AI by Camera (Number of Channels)": "16 Channels",
+        "Face Database Capacity": "Up to 20 face databases with 20,000 images, with a total capacity of 2.5 G. Name, Gender,  Birthday, Address, Credential type, Credential No., Countries & Regions and state can be  added to each face image",
+        "Face Recognition Performance of AI by NVR (Number of Channels)": "1.16 Channel FD (by camera) + FR (by recorder), image stream: 16 face images/s 2.2 Channel FD (by recorder) + FR (by recorder), video stream: 12 face images/s",
+        "Face Recognition Performance  of AI by Camera": "16 channels",
+        "IMD+ by NVR": "8 Channels: Secondary filtering for human and motor vehicle, reducing false alarms caused  by leaves, rain and lighting condition change",
+        "IMD By Camera": "Human and vehicle detection on all channels, supporting up to 32 targets per second",
+        "Metadata Performance of AI by Camera (Number of Channels)": "8 channels",
+        "Human Attributes": "Top color, Top type, Bottom color, Bottom type, Hat, Bag, Age, Gender and umbrella",
+        "Motor Vehicle Attributes": "License plate, Plate color, Vehicle body, Vehicle model, Vehicle logo, Calling, Seatbelt,  Vehicle interior, Vehicle registration location",
+        "Non-motor Vehicle Attributes": "Vehicle model, Vehicle color, Number of persons, Helmet",
+        "ANPR by Camera (Number of Channels)": "Human and vehicle detection on all channels, Supporting up to 8 targets per second",
+        "License Plate Database Capacity": "1. Create up to 20,000 plate numbers  2. Blocklist and allow list",
+        "Intelligent Alarm": "Face detection, Perimeter protection, Face recognition, Video metadata (Human, Motor    vehicles, and non-motor vehicles), IMD+, Stereo analysis, Crowd distribution, People  counting, ANPR, Vehicle density, Heat map",
+        "Abnormality Alarm": "Camera offline, Storage error, Disk full, IP conflict, MAC conflict, Login lock, Abnormal  behaviour of fan, Cyber security exception",
+        "General Alarm": "Motion detection, Privacy masking, Local alarm",
+        "Alarm Linkage": "Record, Snapshot (panoramic), Local alarm output, IPC external alarm output, Access  controller, Audio, Buzzer, Log, Preset, Email",
+        "Audio Input": "1-channel RCA",
+        "Audio Output": "1-channel RCA",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Disk Group": "Support",
+        "Alarm Input": "4 channel",
+        "Alarm Output": "2 channel",
+        "Hard Disk": "2 SATA ports, up to 16TB. The maximum HDD capacity varies with environment temperature",
+        "Multi-channel Playback": "Up to 16 channels",
+        "Record Mode": "General, Motion detection, Intelligent, Alarm, POS",
+        "Browser": "Chrome, IE9 or later, Firefox",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback (face  and motion detection)",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Backup Mode": "USB Device/Network",
+        "Interface Ports": "2 USB Ports (1 Rear USB 3.0 , 1 Front USB 2.0 ), 1 RS232, 1 RS485",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4/IPv6, RTSP, UDP, SNMP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter,  PPPoE, FTP, DDNS, Alarm Server, IP Search, Multicast, InstaOn, Auto Connect, ONVIF (Profile T,  Profile S, Profile G), CGI, SDK",
+        "Ethernet": "1 x (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 4Amp",
+        "Power Consumption": "≤ 10 W (without HDD)",
+        "Operating Temperature": "-10 °C to +55 °C (14 °F to +131 °F)",
+        "Operating Humidity": "10%–93% (RH)",
+        "Storage Temperature": "-20 °C to +60 °C (–4 °F to +140 °F)",
+        "Dimensions": "375.0 mm × 284.4 mm x 56.0mm",
+        "Weight": "1570g (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K5322-FI.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/57bbc2f5-ed46-46b8-bc19-9ddaf3899a35.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k5322-fi"
+  }
+}

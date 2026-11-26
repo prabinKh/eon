@@ -1,0 +1,192 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizsense-series",
+    "tab_title": "SD5",
+    "tab_id": "8512",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizSense Series",
+      "SD5"
+    ]
+  },
+  "card_info": {
+    "product_id": "133987",
+    "product_name": "SD5A825GB-HNR",
+    "product_title": "8MP 25× Starlight IR WizSense Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd5/sd5a825gb-hnr",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15201/ProductImage/1_0_01_07_15201_871372052_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd5a825gb-hnr.html",
+  "detail": {
+    "title": "8MP 25× Starlight IR WizSense Network PTZ Camera",
+    "model": "SD5A825GB-HNR",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD5A825GB-HNR 8MP 25× Starlight IR WizSense Network PTZ Camera Key Points • High-Quality Imaging with 8MP Resolution • 25× Optical Zoom Provide Close Up Views Over Expansive Areas • Expansive Night View With up to 150m IR Distance for 24/7 Monitoring • AcuPick Enables Fast and Precise Human&Vehicle Search • Auto Tracking 3.0：Effective Target Monitoring with Detailed Intruder Trajectories • IP67 and IK10 Ratings for Protection Against Harsh Environments • Supports PoE+ Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15201/ProductImage/1_0_01_07_15201_871372052_crop_thumb.png",
+        "alt": "SD5A825GB-HNR_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15201/ProductImage/1_0_01_07_15201_871345739_crop_thumb.png",
+        "alt": "SD5A825GB-HNR_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "8 MP",
+        "Max. Resolution": "3840 (H) × 2160 (V)",
+        "ROM": "4 GB",
+        "RAM": "1 GB",
+        "Electronic Shutter Speed": "1s–1/30,000s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE); 0.0005 lux@F1.6 (B/W, 30 IRE); 0 lux (IR light on)",
+        "Illumination Distance": "150 m (492.13 ft) (IR)",
+        "Illuminator On/Off Control": "Zoom Prio; manual; auto; off",
+        "Illuminator Number": "4 (IR)",
+        "Focal Length": "5 mm–125 mm",
+        "Max. Aperture": "F1.6–F3.6",
+        "Field of View": "H: 55.6°–3.2°; V: 32.2°–1.8°; D: 62.5°–3.7°",
+        "Optical Zoom": "25×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "0.1 m–2 m (0.33 ft–6.6 ft)",
+        "Iris Control": "Auto; manual",
+        "DORI Distance": "Detect",
+        "3,333.3 m (10,936.02 ft)": "1,316.7 m (4,319.88 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 360° endless; Tilt: –15° to +90°, auto flip 180°",
+        "Manual Control Speed": "Pan: 0.1°/s–300°/s Tilt: 0.1°/s–200°/s",
+        "Preset Speed": "Pan: 400°/s; Tilt: 300°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Pattern;Preset;Scan;Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; crossing fence detection; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; vehicle/human alarm classification; linkage tracking",
+        "Face Detection": "Supports face detection, capturing snapshots, uploading face snapshots, enhancing face images, and selecting a preferred image among a group of snapshots. Attribute extraction is also supported.",
+        "People Counting": "Uses advanced image processing technology to extract depth information from images. The extracted information is then processed by advanced, deep learning algorithms to analyze and detect human bodies, and track targets in real time. The camera provides statistics for separate individuals' entrance and exit with up to 95% counting accuracy.",
+        "Auto Tracking": "Yes",
+        "SMD": "SMD 4.0",
+        "Auto Patrol": "It triggers the IVS rule when a target is detected and makes the camera link with the PTZ to rotate to the position of the target and patrol based on its presets.",
+        "Video Compression": "H.264H;H.264B;Smart H.265+;H.264;H.265;Smart H.264+;MJPEG",
+        "Streaming Capability": "3 streams",
+        "Resolution": "4K (3840 × 2160); 4M (2560 × 1440); 3M (2048 × 1536); 3M (2304 × 1296); 1080p (1920 × 1080); 960p (1920 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); CIF (352 × 288/352 × 240); VGA (640 × 480)",
+        "Video Frame Rate": "Main stream: 4K/4M/3M/1080p/1.3M/720p @(1–25/30 fps) Sub stream 1: D1/CIF/VGA @ (1–25/30 fps) Sub stream 2: 1080p/1.3M/720p @(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H264: 128 kbps–16384 kbps H265: 51 kbps–12288 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "EIS",
+        "Defog": "Electronic",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "Privacy Masking": "Up to 24 areas can be set, with up to 8 areas in the same view; multiple colors available",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726; MPEG2-Layer2; G722.1; G729; G723",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "FTP;RTMP;IPv6;Bonjour;IPv4;DNS;RTCP;PPPoE;NTP;RTP;802.1x;HTTPS;SNMP;TCP/IP;DDNS;UPnP;NFS;ICMP;UDP;IGMP;HTTP;SSL;DHCP;SMTP;Qos;RTSP;ARP",
+        "Interoperability": "CGI;SDK;ONVIF (Profile S&G&T)",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "Micro SD card (512 GB); FTP/SFTP; NAS",
+        "Browser": "IE 9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Management Software": "DSS;DMSS;Easy4ip;Smart PSS;IVSS",
+        "Mobile Client": "iOS;Android",
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpartB, ANSI C63.4-2014 UL: UL60950-1+CAN/CSA C22.2, No.60950-1",
+        "Alarm Input": "2 (on-off value input: 0–5 VDC)",
+        "Alarm Output": "1",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Audio Output": "1 channel (LINE OUT,bare wire)",
+        "Alarm Linkage": "Capture; recording; send email; preset; tour; pattern; alarm digital output; audio",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card status detection; memory space detection",
+        "Power Supply": "24 VDC, 2.5 A ± 25% PoE+ (802.3at)",
+        "Power Consumption": "Basic: 12 W Max : 21 W (illuminator+ PTZ + Heater + Fan)",
+        "Operating Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP67, IK10, TVS 6000 V lightning proof; surge protection; voltage transient protection",
+        "Product Dimensions": "Φ190.0 mm × 332.0 mm (Φ7.48\" × 13.07\")",
+        "Net Weight": "4.7 kg (10.36 lb)",
+        "Gross Weight": "8.0 kg (17.64 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD5A825GB-HNR_S0_datasheet_20250111.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Speed Dome & PTZ Camera_Installation Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81091/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49667/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-06-08 #A&E Document SD5A825GB-HNR_A&E_20260917234151 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75927/a_e_document/1789659723197.docx"
+      },
+      {
+        "name": "2023-06-27 #Drawings SD5A825GB-HNR_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87901/drawings/1_0_01_07_16554_425478096.pdf"
+      },
+      {
+        "name": "2023-06-27 #Drawings SD5A825GB-HNR_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87901/drawings/1_0_01_07_16554_425478095.pdf"
+      },
+      {
+        "name": "2026-05-29 #Firmware DH_SD-Taurus_MultiLang_PN_Stream3-Normal-M_V3.200.0000028.6.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/75927/firmware/DH_SD-Taurus_MultiLang_PN_Stream3-Normal-M_V3.200.0000028.6.R.260514.zip"
+      },
+      {
+        "name": "2023-08-25 #Firmware General_SD5AXXXG-HN-V_MCU_V2.401.0000001.69.R.230523 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2286822/M/General_SD5AXXXG-HN-V_MCU_V2.401.0000001.69.R.230523.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd5/sd5a825gb-hnr"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Recorders",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/network-recorders",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series",
+    "tab_title": "NVR2 Series",
+    "tab_id": "16977",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Recorders",
+      "Lite Series",
+      "NVR2 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "136337",
+    "product_name": "NVR2108HS-4KS3",
+    "product_title": "8CH Compact 1U 1HDD Lite Network Video Recorder",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series/nvr2-series/nvr2108hs-4ks3",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15752/ProductImage/1_0_01_23_15752_11737914_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/nvr2108hs-4ks3.html",
+  "detail": {
+    "title": "8CH Compact 1U 1HDD Lite Network Video Recorder",
+    "model": "NVR2108HS-4KS3",
+    "brand": "Dahua",
+    "overview": "Compare Favourite NVR2108HS-4KS3 8CH Compact 1U 1HDD Lite Network Video Recorder Key Points • Max. 80/80/60 Mbps Incoming/Recording/Outgoing Bandwidth • Max. Decoding Capability: 6 × 1080p@30 fps • IP Cameras Resolution Up to 12MP • 1 Bay. Each HDD Storage Capacity Up to 20TB • AI by Recorder: 4-ch SMD Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15752/ProductImage/1_0_01_23_15752_11737914_crop_thumb.png",
+        "alt": "NVR2108HS-4KS3_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15752/ProductImage/1_0_01_23_15752_11737915_crop_thumb.png",
+        "alt": "NVR2108HS-4KS3_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_23_15752/ProductImage/1_0_01_23_15752_11737916_crop_thumb.png",
+        "alt": "NVR2108HS-4KS3_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Main Processor": "Industrial-grade processor",
+        "Operating System": "Embedded Linux",
+        "Operating Interface": "Web, Local GUI",
+        "AI by Recorder": "SMD",
+        "AI by Camera": "Perimeter protection; SMD",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "All channels (4 targets/s)",
+        "SMD Plus by Recorder": "4 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "All channels (8 targets/s)",
+        "Access Channel": "8 channels",
+        "Network Bandwidth": "80 Mbps incoming, 80 Mbps recording and 60 Mbps outgoing",
+        "Resolution": "12 MP;8 MP;6 MP;5 MP;4 MP;3 MP;1080p;720p;960p;D1;CIF;QCIF",
+        "Decoding Capability": "AI disabled: 1-channel 12 MP@30 fps; 1-channel 8 MP@30 fps; 2-channel 6 MP@30 fps; 2-channel 5 MP@30 fps; 3-channel 4 MP@30 fps; 6-channel 1080p@30 fps AI enabled: 1-channel 8 MP@30 fps; 1-channel 6 MP@30 fps; 1-channel 5 MP@30 fps; 2-channel 4 MP@30 fps; 4-channel 1080p@30 fps",
+        "Video Output": "1 HDMI, 1 VGA HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Multi-screen Display": "1/4/8/9",
+        "Third-party Camera Access": "ONVIF",
+        "Video Compression": "Smart H.265+; H.265; Smart H.264+; H.264; MJPEG",
+        "Audio Compression": "G.711a; G.711u; PCM; G726;",
+        "Network Protocol": "HTTP; HTTPS; TCP/IP; IPv4; IPv6; UDP; NTP; DHCP; DNS; SMTP; IP Filter; DDNS; IP Search (Supports IP camera, DVR, NVS, etc.); P2P; Auto Registration",
+        "Mobile Phone Access": "iOS; Android",
+        "Interoperability": "ONVIF 23.12(Profile T; Profile S; Profile G); CGI; SDK",
+        "Browser": "Chrome; IE; Safari; Edge; Firefox",
+        "Multi-channel Playback": "Up to 8 channels",
+        "Record Mode": "General, motion detection; intelligent; alarm",
+        "Backup Method": "USB device and network",
+        "Playback Mode": "Instant playback; general playback; event playback; tag playback; smart playback",
+        "General Alarm": "Motion detection; camera external alarm; PIR alarm",
+        "Anomaly Alarm": "Error (no disk, disk error, low space, low quota space; network disconnection; IP conflict; MAC conflict); video loss; video tampering; camera offline",
+        "Intelligent Alarm": "Perimeter protection; SMD Plus",
+        "Alarm Linkage": "Recording; snapshot; buzzer; log; preset; email; tour",
+        "Audio Input": "1-channel RCA",
+        "Audio Output": "1-channel RCA",
+        "Alarm Input": "NA (2 channels are optional)",
+        "Alarm Output": "NA (1-channel 12 V 1 A output is optional)",
+        "Disk Interface": "1 SATA port. Each disk can contain up to 20 TB. this limit varies depending on the environment temperature.",
+        "USB": "2 (1 front USB 2.0 port, 1 rear USB 2.0 port)",
+        "HDMI": "1",
+        "VGA": "1",
+        "Network Port": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 1.5 A",
+        "Power Consumption": "<10 W (without HDD)",
+        "Net Weight": "0.85 kg (1.87 lb)",
+        "Gross Weight": "1.39 kg (3.06 lb)",
+        "Product Dimensions": "260.0 mm × 232.5 mm × 47.6 mm(10.24\" × 9.15\" × 1.87\") (W × D × H)",
+        "Packaging Dimensions": "334.0 mm × 89.0 mm × 314.0 mm(13.15\" × 3.50\" × 12.36\")(W × D × H)",
+        "Operating Temperature": "–10 °C to +55 °C (14 °F to +131 °F)",
+        "Storage Temperature": "–20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–93% (RH), non-condensing",
+        "Certifications": "CE-LVD: IEC 62368-1:2014 CE-EMC: EN IEC 61000-3-2:2019, EN 61000-3-3:2013+A1:2019, EN 55032:2015+A11:2020, EN 55035:2017+A11:2020, EN 55024:2010+A1:2015, EN 50130-4:2011+A1:2014"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/NVR2108HS-4KS3_S0_datasheet_20241119.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual HDD INSTALLATION GUIDE_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/HDD_INSTALLATION_GUIDE_V1.0.3.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Dahua Network Video Recorder_User Manual_V2.4.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Dahua_Network_Video_Recorder_User_Manual_V2.4.2.pdf"
+      },
+      {
+        "name": "2026-05-27 #User Manual Network Video Recorder_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61587/user_manual/Network_Video_Recorder_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-23 #A&E Document NVR2108HS-4KS3_A&E_20260923194515 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76747/a_e_document/1790164260733.docx"
+      },
+      {
+        "name": "2023-09-29 #Drawings NVR2108HS-4KS3_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76277/drawings/NVR4104HS-P-4KS3_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-09-29 #Drawings NVR2108HS-4KS3_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76287/drawings/NVR4104HS-4KS3_PORT.pdf"
+      },
+      {
+        "name": "2026-07-31 #Firmware DH_NVR2X-4KS3_MultiLang_V4.005.0000000.7.R.260616 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/76727/firmware/DH_NVR2X-4KS3_MultiLang_V4.005.0000000.7.R.260616.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-recorders/lite-series/nvr2-series/nvr2108hs-4ks3"
+  }
+}

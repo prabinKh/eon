@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-KH27B"
+    ]
+  },
+  "card_info": {
+    "product_id": "2267",
+    "product_name": "CP-KH27B",
+    "product_title": "CP-KH27B",
+    "product_url": "https://cpplusworld.com/cp-kh27b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/25b4ee41-6f9f-4f91-bc32-2bd9ef58bffd.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-kh27b.html",
+  "detail": {
+    "title": "CP-KH27B",
+    "model": "CP-KH27B",
+    "brand": "CP Plus",
+    "overview": "CarKam 4G 2MP with Rear Camera, Hardwire Kit",
+    "features": [
+      "2MP Resolution",
+      "G-Sensor",
+      "Support 4G/5G SIM",
+      "Time Lapse",
+      "Parking Mode"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/25b4ee41-6f9f-4f91-bc32-2bd9ef58bffd.png",
+        "alt": "CP-KH27B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/33a8af00-5a13-4b8c-a482-b3261a6cd549.png",
+        "alt": "CP-KH27B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "Front Camera:H-115°, D-136°, V-61° <br/>Rear Camera: H-102°, D-124°, V-53°",
+        "Image Sensor": "Front Camera: 1/2.9” Image sensor (0.8758 centimeters) <br/>Rear Camera: 1/2.9” Image sensor (0.8758 centimeters)",
+        "Lens": "Front Camera: 3.0 mm, <BR>Rear Camera: 3.35mm",
+        "Max. Aperture": "Front Camera: F1.5 <br/>Rear Camera: F2.0",
+        "Resolution": "Front Camera: 2MP (1920 x 1080p), <BR> Rear Camera: 2MP (1920 x 1080p)",
+        "Video Format": "MP4",
+        "Video resolution": "2MP (1920x1080P)@25fps + 2MP (1920 x 1080P)@25fps",
+        "Microphone": "Support",
+        "Photo Format": "JPG",
+        "Smart Features": "Voice Prompt, Time Lapse , GPS Tracking, Parking Mode , Motion Detection, G-Sensor, Collision Detection, HDR",
+        "Record Type": "Audio Recording, Regular Recording, Parking mode , Time-Lapse",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Connection": "4G LTE",
+        "4G/5G SIM": "Support",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Mobile App": "ezyLiv+ (Available for iOS and Android Devices)",
+        "Casing": "PC + ABS",
+        "Power Source": "Type C 5V/3.4A",
+        "Operating Temperature": "-10℃~60℃",
+        "Storage temperature": "-10℃~60℃",
+        "Dimensions (W × D × H)": "105.5 mm x 42.5 mm x 39 mm (including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, ISO 14001 : 2015, ISO 45001 : 2018, ISO 50001:2018, CE, FCC, RoHS and BIS",
+        "Input voltage": "11.6VDC-28VDC",
+        "Max input DC current": "1.5A",
+        "Inrush current (cold start)": "5A at 12VDC",
+        "Efficiency (full load)": "≥80%",
+        "Low voltage protection": "11.5V ±0.2V / 23.5V ±0.3V",
+        "Parking monitoring ACC  monitoring": "With ACC output",
+        "Output voltage": "5VDC",
+        "Voltage Accuracy": "±5%",
+        "Load Regulation": "±0.25V",
+        "Rated Current": "2.3A",
+        "Output Power": "11.5W",
+        "Ripple and Noise": "100mV",
+        "Operating Ambient Temperature": "-20℃~+50℃",
+        "Operating Humidity": "5%RH~90%RH",
+        "Non-Operating Humidity": "5%RH-95%RH",
+        "Non-Operating Ambient Temperature": "-30°C~+80°C"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-KH27B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/9d8b1d79-a603-415e-865f-55c053b01858.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-kh27b"
+  }
+}

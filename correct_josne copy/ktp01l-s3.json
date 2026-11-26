@@ -1,0 +1,241 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "155866",
+    "product_name": "KTP01L",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp01l=s3",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/image/1_0_01_15_12932_977387175_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktp01l-s3.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTP01L",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite KTP01L Video Intercom KIT Key Points 7-inch Screen VTH Metal VTO PoE Connection App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/image/1_0_01_15_12932_977387176_crop_thumb.PNG",
+        "alt": "KTP01L_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/image/1_0_01_15_12932_977387175_crop_thumb.PNG",
+        "alt": "KTP01L_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/image/1_0_01_15_12932_977387177_crop_thumb.PNG",
+        "alt": "KTP01L_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/image/1_0_01_15_12932_977387178_crop_thumb.PNG",
+        "alt": "KTP01L_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/image/1_0_01_15_12932_977387280_crop_thumb.PNG",
+        "alt": "KTP01L_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Technical Speciﬁcation": {},
+      "System(VTO)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF;CGI",
+        "Network Protocol": "SIP; TCP; RTP; UPnP; P2P; DNS; UDP; RTSP; IPv4"
+      },
+      "Basic(VTO)": {
+        "Camera": "1/2.9\" 2 MP CMOS",
+        "Field of View": "H: 168.6°; V:87.1°; D:176.7°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR",
+        "Video Compression": "H.265; H.264",
+        "Video Resolution": "Main stream: 720p; WVGA; D1; CIF; Sub stream: 1080p; WVGA; D1; QVGA; CIF",
+        "Video Frame Rate": "25 fps",
+        "Video Bit Rate": "256 Kbps to 8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W;Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz, 16 bits"
+      },
+      "Function(VTO)": {
+        "Communication Mode": "Full digital",
+        "Verification Method": "Remote",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Supports Micro SD card (up to 512 GB)",
+        "Web Configuration": "Yes"
+      },
+      "Performance(VTO)": {
+        "Casing Material": "Aluminum alloy"
+      },
+      "Port(VTO)": {
+        "RS-485": "1 channel",
+        "Alarm Output": "1 channel",
+        "Power Output": "1 port (12 V, 600 mA)",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel",
+        "Network Port": "1 × RJ-45 port, 10/100 Mbps network port"
+      },
+      "Alarm(VTO)": {
+        "Tamper Alarm": "Yes"
+      },
+      "General(VTO)": {
+        "Appearance Color": "Silver",
+        "Power Supply": "12 VDC, 2 A; PoE (802.3af/at)",
+        "Power Adapter": "Optional",
+        "Installation": "Flush mount (The flush mount kit comes with the flush mount bracket)",
+        "Certifications": "CE",
+        "Accessory": "Flush mount box (included)",
+        "Product Dimensions": "130 mm × 96 mm × 28.5 mm (5.12\" × 3.78\" × 1.12\") (L × W × H)",
+        "Protection": "IK07;IP65",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "≤4 W (standby), ≤5 W (working)",
+        "Gross Weight": "0.48 kg (1.06 lb)",
+        "Storage Humidity": "30%–75% (RH)",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)"
+      },
+      "System(VTH)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux"
+      },
+      "Basic(VTH)": {
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 KHz, 16 bits",
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7-inch display screen",
+        "Screen Resolution": "1024 (H) × 600 (V)"
+      },
+      "Function(VTH)": {
+        "Communication Mode": "Full digital",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Built-in 8 GB Micro SD card, maximum memory capacity 512 GB",
+        "Information Release": "Receive and view the published information from the management center",
+        "DND Mode": "Yes",
+        "Number of Extensions": "Villa: 9 extensions; Apartment: 4 extensions"
+      },
+      "Port(VTH)": {
+        "Alarm Output": "1 channel",
+        "Network Port": "One 10 Mbps/100 Mbps Ethernet port",
+        "Alarm Input": "6 channels",
+        "Doorbell": "Yes (use the alarm input port)"
+      },
+      "Alarm(VTH)": {
+        "SOS Alarm": "Yes"
+      },
+      "Performance(VTH)": {
+        "Casing Material": "PC + ABS"
+      },
+      "General(VTH)": {
+        "Appearance Color": "White",
+        "Power Supply": "12 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE",
+        "Accessory": "Included: bracket and alarm cable.",
+        "Product Dimensions": "221.5 mm × 119.6 mm × 23.5 mm(8.72\" × 4.71\" × 0.93\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Less than 3,000 meters",
+        "Operating Environment": "Indoor",
+        "Power Consumption": "≤3 W (standby), ≤7 W (working)",
+        "Gross Weight": "0.661 kg (1.46 lb)",
+        "Storage Humidity": "30%–75%",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)"
+      },
+      "System(Networking Device)": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Port(Networking Device)": {
+        "Network Port": "4 × PoE ports with 10/100 Mbps Base-TX; 2 × uplink ports with 10/100 Mbps Base-TX"
+      },
+      "General(Networking Device)": {
+        "Appearance Color": "Black",
+        "Power Supply": "Built-in power supply: 100–240 VAC",
+        "Certifications": "CE; FCC",
+        "Product Dimensions": "194.0 mm × 108.1 mm × 35.0 mm (7.64\" × 4.26\" × 1.38\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Power Consumption": "Idling: 0.5 W; Full load: 36 W",
+        "Gross Weight": "1.11 kg (2.45 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/datasheet/DHI-KTP01L(F)_S3_datasheet_20260817_English.pdf"
+      },
+      {
+        "name": "2026-08-05 #Drawings KTP01L_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/drawings/1_0_01_15_12932_980051295.pdf"
+      },
+      {
+        "name": "2026-08-12 #Drawings KTP01L_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/drawings/1_0_01_15_12932_981382632.pdf"
+      },
+      {
+        "name": "2026-08-12 #Drawings KTP01L_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/drawings/1_0_01_15_12932_981382631.pdf"
+      },
+      {
+        "name": "2026-08-12 #Drawings KTP01L_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88314/drawings/1_0_01_15_12932_981382630.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp01l=s3"
+  }
+}

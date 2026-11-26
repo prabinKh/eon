@@ -1,0 +1,195 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "WizSense Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/wizsense-series",
+    "tab_title": "SD4",
+    "tab_id": "8522",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "WizSense Series",
+      "SD4"
+    ]
+  },
+  "card_info": {
+    "product_id": "152563",
+    "product_name": "SD4D825MB-HNR",
+    "product_title": "8MP 25x Smart Dual Light WizSense Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd4/sd4d825mb-hnr",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16060/ProductImage/1_0_01_07_16060_755685940_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd4d825mb-hnr.html",
+  "detail": {
+    "title": "8MP 25x Smart Dual Light WizSense Network PTZ Camera",
+    "model": "SD4D825MB-HNR",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD4D825MB-HNR 8MP 25x Smart Dual Light WizSense Network PTZ Camera Key Points • High-Quality Imaging with 8MP Resolution • 25× Optical Zoom Provide Close Up Views Over Expansive Areas • Smart Dual Light: Expansive Night View with up to 100m IR Distance and 100m White Light • Supports Automatically Detect Again Along the Preset Route After the IVS Event Ends • WizTracking：Effective Target Monitoring with Detailed Intruder Trajectories • AcuPick Enables Fast and Precise Human&Vehicle Search • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16060/ProductImage/1_0_01_07_16060_755685940_crop_thumb.png",
+        "alt": "SD4D825MB-HNR_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_16060/ProductImage/1_0_01_07_16060_755685939_crop_thumb.png",
+        "alt": "SD4D825MB-HNR_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 189,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Optical Zoom": {},
+      "Focus Control": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "W": "137.9 m( 452.52 ft)",
+        "T": "3,448.3 m( 11,313.10 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "IVS (Perimeter Protection)": {},
+      "Face Detection": {},
+      "Smart Tracking": {},
+      "SMD": {},
+      "AcuPick": {},
+      "Auto Patrol": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Defog": {},
+      "Digital Zoom": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Alarm I/O": {},
+      "Audio I/O": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83405/datasheet/SD4D825MB-HNR_S0_datasheet_20260115.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47087/user_manual/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-10 #User Manual Network Speed Dome & PTZ Camera_Installation Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77527/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-03-06 #A&E Document SD4D825MB-HNR_A&E_20260918030936 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83405/a_e_document/1789672250705.docx"
+      },
+      {
+        "name": "2025-03-06 #Drawings SD4D825MB-HNR_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5327/drawings/SD49225-HC-LA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-03-06 #Drawings SD4D825MB-HNR_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/26147/drawings/SD49425XB-HNR-S3_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-12 #Firmware DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-NormalLLM_V3.211.0000010.2.R.260424 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83405/firmware/DH_SD-Vodka_MultiLang_PN_Stream3-ITOP-NormalLLM_V3.211.0000010.2.R.260424.zip"
+      },
+      {
+        "name": "2026-01-14 #Firmware General_SD49XXX-HN-MTRS_MCU_V2.401.0000003.16.R.251117 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83405/firmware/General_SD49XXX-HN-MTRS_MCU_V2.401.0000003.16.R.251117.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/wizsense-series/sd4/sd4d825mb-hnr"
+  }
+}

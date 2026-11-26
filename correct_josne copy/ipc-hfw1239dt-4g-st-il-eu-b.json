@@ -1,0 +1,196 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "4MP Smart Dual Light Fixed-focal Bullet 4G Solar Power Network Camera IPC-HFW2441DG-4G-SP-B-MAX",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/4g-cameras",
+    "series": "Wired Cameras",
+    "series_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras",
+    "tab_title": "Wired Cameras",
+    "tab_id": "118200",
+    "breadcrumbs": [
+      "Wireless Products",
+      "4MP Smart Dual Light Fixed-focal Bullet 4G Solar Power Network Camera IPC-HFW2441DG-4G-SP-B-MAX",
+      "Wired Cameras",
+      "Wired Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "146336",
+    "product_name": "IPC-HFW1239DT-4G-ST-IL-EU-B",
+    "product_title": "2MP Entry Dual Illumination Fixed-focal 4G Bullet Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/4g-cameras/wired-cameras/ipc-hfw1239dt-4g-st-il-eu-b",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_41309/ProductImage/1_0_01_04_41309_348916145_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/ipc-hfw1239dt-4g-st-il-eu-b.html",
+  "detail": {
+    "title": "2MP Entry Dual Illumination Fixed-focal 4G Bullet Network Camera",
+    "model": "IPC-HFW1239DT-4G-ST-IL-EU-B",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HFW1239DT-4G-ST-IL-EU-B 2MP Entry Dual Illumination Fixed-focal 4G Bullet Network Camera Key Points • IP67 Protection • Expands your Connectivity with 4G • Built-in Mic & Speaker, Support Two-way Talk • See in Color Only When It Counts —Smart Dual Light Gives Discreet Monitoring That Brightens on Motion. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_41309/ProductImage/1_0_01_04_41309_348916145_crop_thumb.png",
+        "alt": "IPC-HFW1239DT-4G-ST-IL-EU-B_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_41309/ProductImage/1_0_01_04_41309_348916146_crop_thumb.png",
+        "alt": "IPC-HFW1239DT-4G-ST-IL-EU-B_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "128 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.005 lux@F1.6(Color,30 IRE) 0.0005 lux@F1.6(B/W,30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": "> 56 dB",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "2 (IR LED); 2 (Warm light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm;3.6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "2.8 mm: H: 108°; V: 58°; D: 127° 3.6 mm: H: 82°; V: 42°; D: 99°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "2.8 mm: 0.7 m (2.30 ft) 3.6 mm: 1.3m (4.27 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "44.2 m (140.01 ft)",
+        "3.6 mm": "59.6 m (195.54 ft)"
+      },
+      "Video": {
+        "Video Compression": "H.265; H.264; H.264B; MJPEG (Only supported by the sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Main stream: 1920 × 1080@(1–25/30 fps) Sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Stream Capability": "2 streams",
+        "Resolution": "1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 32 kbps–6144 kbps H.265: 12 kbps–6144 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "DWDR",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto; Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 1080p resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas"
+      },
+      "Audio": {
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726"
+      },
+      "Alarm": {
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; voltage detection; SMD (human); security exception"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Carrier Network": "4G: FDD-LTE:B1/B3/B5/B7/B8/B20/B28 TDD-LTE: B38/B40/B41 Power class3: 23dBm ±2.7dB",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; Boujour",
+        "Interoperability": "ONVIF (Profile S; Profile G; Profile T); CGI",
+        "User/Host": "20 (Total bandwidth: 48 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE: IE7; Chrome; Firefox",
+        "Management Software": "SmartPSS Lite; DSS; DMSS",
+        "Mobile Client": "iOS; Android",
+        "Cyber Security": "Configuration encryption; trusted execution; Digest; security logs; WSSE; account lockout; syslog; Video encryption; 802.1x; IP/MAC filtering; HTTPS; trusted upgrade; trusted boot; firmware encryption; generation and importing of X.509 certification"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN62368-1 CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU"
+      },
+      "Power": {
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Basic: 2.3 W (12 VDC) Max. (H.265 + max. resolution + main stream + WDR + warm light intensity +IVS+4G): 7 W (12 VDC)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Protection": "IP67"
+      },
+      "Structure": {
+        "Casing Material": "Metal + plastic",
+        "Product Dimensions": "192.3 mm × 88 mm × 87.3 mm (7.56\" × 3.46\" × 3.43\") (L × W × H)",
+        "Net Weight": "0.58 kg (1.28 lb)",
+        "Gross Weight": "1.06 kg (2.33 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-HFW1239DT-4G-ST-IL-EU-B_S0_datasheet_20240725.pdf"
+      },
+      {
+        "name": "2026-02-14 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.2.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.2.5.pdf"
+      },
+      {
+        "name": "2026-02-14 #User Manual Dahua Bullet Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/user_manual/Dahua_Bullet_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-02-14 #User Manual Bullet Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/user_manual/Bullet_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-02-14 #User Manual Dahua Network Camera Web 3.0_Operation Manual_V2.1.8 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_3.0_Operation_Manual_V2.1.8.pdf"
+      },
+      {
+        "name": "2023-03-10 #A&E Document IPC-HFW1239DT-4G-ST-IL-EU-B_A&E_20260917224600 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/a_e_document/1789658488791.docx"
+      },
+      {
+        "name": "2023-03-11 #Drawings IPC-HFW1239DT-4G-ST-IL-EU-B_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/drawings/IPC-HFW1239DT-4G-ST-IL-EU-B_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-03-11 #Drawings IPC-HFW1239DT-4G-ST-IL-EU-B_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82197/drawings/IPC-HFW1239DT-4G-ST-IL-EU-B_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-03-19 #Firmware DH_IPC-HX1XXX-Molec_MultiLang_PN_V2.820.0000000.65.R.250121 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3055928/M/DH_IPC-HX1XXX-Molec_MultiLang_PN_V2.820.0000000.65.R.250121.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/4g-cameras/wired-cameras/ipc-hfw1239dt-4g-st-il-eu-b"
+  }
+}

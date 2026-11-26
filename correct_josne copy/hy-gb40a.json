@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Gas Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/gas-alarms",
+    "tab_title": "Gas Alarms",
+    "tab_id": "12767",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Gas Alarms",
+      "Gas Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "108797",
+    "product_name": "HY-GB40A",
+    "product_title": "LPG Gas Alarm",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gas-alarms/hy-gb40a",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220610/gas1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-gb40a.html",
+  "detail": {
+    "title": "LPG Gas Alarm",
+    "model": "HY-GB40A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-GB40A LPG Gas Alarm Key Points · High-performance sensor, intelligent and accurate detection of gas leakage, and send out alarm signal timely · Operate stably and identify gas type effectively · Intelligent linkage to close pipeline valve and start exhausting fan · A built-in high-volume buzzer, 70dB (A) at 1m (3.28 feet) · Three indicator lights for displaying device status clearly Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220610/gas1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220610/gas2_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220610/gas3_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220610/gas4_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "DHI-HY-GB40A",
+        "Gas Type": "Propane (C3H8)",
+        "Alarm Threshold": "10% LEL",
+        "Response Time": "≤30 s",
+        "Supply Voltage": "DC12V",
+        "Power Consumption": "≤0.8W",
+        "Output": "1 valve output, 1 relay output",
+        "Operating Temperature": "–10°C to +55°C (+14°F to +131°F)",
+        "Relative Humidity": "≤95% RH (non condensing)",
+        "Warm-up Period": "180 s",
+        "Alarm Method": "Visual and audible alarm",
+        "Alarm Sound Output": "70dB (A) at 1m (3.28 feet)",
+        "Silence": "Support",
+        "Dimensions": "86.6 mm × 86.6 mm × 29.2 mm (3.41\" × 3.41\" × 1.15\")",
+        "Installation": "Wall mount",
+        "Certification": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/108797/datasheet/HY-GB40A_Datasheet_20220608.pdf"
+      },
+      {
+        "name": "2022-06-10 #User Manual Standalone LPG Alarm_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47067/user_manual/1352425004694.pdf"
+      },
+      {
+        "name": "2022-06-10 #Drawings HY-GB40A_Dimensions Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/47067/drawings/2142387181247.pdf"
+      },
+      {
+        "name": "2022-06-10 #Drawings HY-GB40A_Installation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28237/drawings/HY-GA40A_Installation.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/gas-alarms/hy-gb40a"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Android Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series",
+    "tab_title": "Pro Series",
+    "tab_id": "18231",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Android Series",
+      "Pro Series",
+      "Pro Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "105037",
+    "product_name": "VTH8A21KMS-W",
+    "product_title": "Android IP & Wi-Fi Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series/pro-series/vth8a21kms-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11840/ProductImage/1_0_01_15_11840_528227322_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth8a21kms-w.html",
+  "detail": {
+    "title": "Android IP & Wi-Fi Indoor Monitor",
+    "model": "VTH8A21KMS-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH8A21KMS-W Android IP & Wi-Fi Indoor Monitor Key Points • 7-inch Colorful Touch Screen with 1024 × 600 Resolution • Built-In Android 8.1 System • Wi-Fi Support • Supports Android App Installation • Device Port: 6-Channel Alarm Input, 1-Channel Alarm Output • TF Card, Max 64G • Casing: Aluminum + ABS Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11840/ProductImage/1_0_01_15_11840_528227322_crop_thumb.png",
+        "alt": "VTH8A21KMS-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11840/ProductImage/1_0_01_15_11840_528227323_crop_thumb.png",
+        "alt": "VTH8A21KMS-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11840/ProductImage/1_0_01_15_11840_528227324_crop_thumb.png",
+        "alt": "VTH8A21KMS-W_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11840/ProductImage/1_0_01_15_11840_528229825_crop_thumb.png",
+        "alt": "VTH8A21KMS-W_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_11840/ProductImage/1_0_01_15_11840_528227325_crop_thumb.png",
+        "alt": "VTH8A21KMS-W_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Operating System": "Android 8.1",
+        "Network Protocol": "IPv4; TCP; SIP; UDP; RTSP"
+      },
+      "Basic": {
+        "Screen Type": "7\" full-color TFT",
+        "Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1–ch omnidirectional microphone",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way voice call",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Information Release": "Receive and view information released by the management center",
+        "DND Mode": "Do not disturb period can be set.",
+        "Number of Extensions": "Villa: 9 Apartment: 4 Wi-Fi intercom: 1 main monitor, 2 extension monitors",
+        "Wi-Fi": "Yes"
+      },
+      "Performance": {
+        "Casing": "Alluminum+ ABS"
+      },
+      "Port": {
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Network Port": "RJ-45 port, 10/150 Mbps self-adaptive"
+      },
+      "Alarm": {
+        "SOS": "Yes"
+      },
+      "General": {
+        "Appearance Color": "Silver",
+        "Power Supply": "12–24 VDC, 1 A; Standard PoE",
+        "Power Adapter": "Not Standard",
+        "Installation": "Surface",
+        "Accessory": "Surface mount bracket: Included Alarm ribbon cable: Included Power cord: Included RS-485 and power output ribbon cable: Included SD card: Optional (<64G)",
+        "Product Dimensions": "185 mm × 147 mm × 23.3 mm (7.28\" × 5.79\" × 0.92\")",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Power Consumption": "≤ 1 W (standby), ≤ 6 W (working)",
+        "Gross Weight": "0.41 kg (0.90 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH8A21KMS-W_datasheet_20230520.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual 7-inch and 10-inch Android Indoor Monitor_User's Manual_V1.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006059/202502/7-inch_and_10-inch_Android_Indoor_Monitor_User_s_Manual_V1.0.3.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual 7-inch and10-inch Android Indoor Monitor_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006059/202502/7-inch_and10-inch_Android_Indoor_Monitor_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-01-20 #Drawings VTH8A21KMS-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44167/drawings/1_0_01_15_11907_21347621.pdf"
+      },
+      {
+        "name": "2022-01-20 #Drawings VTH8A21KMS-W_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44167/drawings/VTH8A21KMS-CW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-01-20 #Drawings VTH8A21KMS-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44177/drawings/1_0_01_15_11840_21347620.pdf"
+      },
+      {
+        "name": "2023-04-26 #Firmware DH_VTHXAX1_MultiLang_SIP_V4.400.0000001.2.R.20230308 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2150787/M/DH_VTHXAX1_MultiLang_SIP_V4.400.0000001.2.R.20230308.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series/pro-series/vth8a21kms-w"
+  }
+}

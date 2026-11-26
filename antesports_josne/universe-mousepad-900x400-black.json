@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Universe Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925161251",
+    "product_name": "Universe Mouse Pad - Black",
+    "product_title": "Universe Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/universe-mousepad-900x400-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/40_2feb42c2-6272-41d6-920a-6bd017da7c86.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/universe-mousepad-900x400-black.html",
+  "detail": {
+    "title": "Universe Mouse Pad - Black",
+    "model": "AEPP0212",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Universe is a large extended mouse pad measuring 900 x 400 x 2mm, featuring a cosmic space-themed design that adds a distinctive visual centerpiece to any gaming desk. Its generous size comfortably fits a keyboard and mouse together, while a durable, non-slip base ensures it stays firmly in place through daily gaming or office sessions.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/40_2feb42c2-6272-41d6-920a-6bd017da7c86.png",
+        "alt": "Universe Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "900 x 400 x 2mm",
+        "Design": "Universe Print",
+        "Base": "Non-Slip",
+        "Color": "Black",
+        "DIMENSIONS": "900 x 400 x 2mm",
+        "DESIGN": "Universe Print",
+        "BASE": "Non-Slip",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹399.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "AEPP0212"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/universe-mousepad-900x400-black"
+  }
+}

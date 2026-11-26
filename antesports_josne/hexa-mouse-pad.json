@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Hexa Gaming Mouse Pad - 260x210mm"
+    ]
+  },
+  "card_info": {
+    "product_id": "10342289146147",
+    "product_name": "Hexa Gaming Mouse Pad - 260x210mm",
+    "product_title": "Hexa Gaming Mouse Pad - 260x210mm",
+    "product_url": "https://antesports.com/products/hexa-mouse-pad",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/21_931cc390-d82d-4696-a54e-9a2aa192f753.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/hexa-mouse-pad.html",
+  "detail": {
+    "title": "Hexa Gaming Mouse Pad - 260x210mm",
+    "model": "AEPP0247",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Hexa Mouse Pad brings a distinctive hexagon-patterned surface to everyday desk setups, sized at a compact 260 x 210 x 3mm that suits both office and gaming use. Its multi-spandex cloth surface is treated for a lasting colour-lock finish and wipes clean of liquid spills without fading over repeated use. A dense, anti-slip natural rubber base keeps the pad firmly gripped to the desktop during fast mouse movements, and anti-fray stitched edges prevent wear at the borders over time. Compatible with both laser and optical mice, it's a reliable everyday mat for home, office or gaming.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/21_931cc390-d82d-4696-a54e-9a2aa192f753.png",
+        "alt": "Hexa Gaming Mouse Pad - 260x210mm - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "260 x 210 x 3mm",
+        "Surface Material": "Multi-Spandex Cloth",
+        "Base": "Non-Slip Natural Rubber",
+        "Edges": "Anti-Fray Stitching",
+        "Compatibility": "Laser & Optical Mice",
+        "Design": "Hexagon Pattern",
+        "DIMENSIONS": "260 x 210 x 3mm",
+        "SURFACE MATERIAL": "Multi-Spandex Cloth",
+        "BASE": "Non-Slip Natural Rubber",
+        "EDGES": "Anti-Fray Stitching",
+        "COMPATIBILITY": "Laser & Optical Mice",
+        "DESIGN": "Hexagon Pattern",
+        "Offer Price (INR)": "₹109.00",
+        "MRP (INR)": "₹499.00",
+        "SKU": "AEPP0247"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/hexa-mouse-pad"
+  }
+}

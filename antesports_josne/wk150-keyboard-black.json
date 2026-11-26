@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Keyboards",
+    "subcategory_url": "https://antesports.com/collections/gaming-keyboards",
+    "series": "Gaming Keyboards Series",
+    "series_url": "https://antesports.com/collections/gaming-keyboards",
+    "tab_title": "Gaming Keyboards",
+    "tab_id": "508172861731",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Keyboards",
+      "WK150 Wired Keyboard - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759651619",
+    "product_name": "WK150 Wired Keyboard - Black",
+    "product_title": "WK150 Wired Keyboard - Black",
+    "product_url": "https://antesports.com/products/wk150-keyboard-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_8e5713ee-6c47-405f-94c5-5abc7a16def9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/wk150-keyboard-black.html",
+  "detail": {
+    "title": "WK150 Wired Keyboard - Black",
+    "model": "ANTP0043",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports WK150 is a straightforward wired keyboard built for everyday computing, offering reliable USB plug-and-play connectivity with no drivers or setup required. Its full-size layout suits general office work, browsing and typing tasks, with a durable build designed for daily use at home or in the office. A dependable, budget-friendly choice for anyone who needs a simple, no-fuss keyboard for standard desktop or laptop use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_8e5713ee-6c47-405f-94c5-5abc7a16def9.png",
+        "alt": "WK150 Wired Keyboard - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB",
+        "Layout": "Full-Size",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired USB",
+        "LAYOUT": "Full-Size",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹749.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "ANTP0043"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/wk150-keyboard-black"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Notebook Coolers",
+    "subcategory_url": "https://antesports.com/collections/cooling-pad",
+    "series": "Notebook Coolers Series",
+    "series_url": "https://antesports.com/collections/cooling-pad",
+    "tab_title": "Notebook Coolers",
+    "tab_id": "508173123875",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Notebook Coolers",
+      "NC150 Notebook Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "10349032702243",
+    "product_name": "NC150 Notebook Cooler",
+    "product_title": "NC150 Notebook Cooler",
+    "product_url": "https://antesports.com/products/nc150-notebook-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_50e0b557-de78-45ff-9433-e1b93502a7d7.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/nc150-notebook-cooler.html",
+  "detail": {
+    "title": "NC150 Notebook Cooler",
+    "model": "AEPP0116",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports NC150 is a dual-fan notebook cooler built to keep laptops up to 15.6 inches running at optimal temperatures during demanding tasks or extended gaming sessions. Two efficient 125mm fans provide effective heat dissipation, preventing overheating even under sustained load, while 5 adjustable inclination steps let you dial in the perfect ergonomic angle for typing or viewing. Two USB Type-A ports add handy pass-through connectivity for accessories, and a built-in mobile stand keeps a smartphone within easy reach during work or gaming. Anti-skid rubber pads on the feet and two secure locks keep the laptop firmly in place, preventing unwanted slips during use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_50e0b557-de78-45ff-9433-e1b93502a7d7.png",
+        "alt": "NC150 Notebook Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Fans": "2 x 125mm",
+        "Height Adjustment": "5 Levels",
+        "USB Ports": "2 x USB Type-A",
+        "Extras": "Built-in Mobile Stand",
+        "Compatibility": "Laptops up to 15.6 Inches",
+        "FANS": "2 x 125mm",
+        "HEIGHT ADJUSTMENT": "5 Levels",
+        "USB PORTS": "2 x USB Type-A",
+        "EXTRAS": "Built-in Mobile Stand",
+        "COMPATIBILITY": "Laptops up to 15.6 Inches",
+        "SKU": "AEPP0116"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/nc150-notebook-cooler"
+  }
+}

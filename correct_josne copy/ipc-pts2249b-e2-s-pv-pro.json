@@ -1,0 +1,182 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series",
+    "tab_title": "MultiVision",
+    "tab_id": "18207",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "8MP WizColor Active Deterrence WizSense Network PT Camera IPC-PT2849C1-S-PV-PRO",
+      "MultiVision"
+    ]
+  },
+  "card_info": {
+    "product_id": "152082",
+    "product_name": "IPC-PTS2249B-E2-S-PV-PRO",
+    "product_title": "2+2 MP WizColor Active Deterrance Dual-lens Fixed-focal Pan & Tilt WizSense Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series/multivision/ipc-pts2249b-e2-s-pv-pro",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20250307/IPC-PTS2249B-E2-S-PV-PRO2_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-pts2249b-e2-s-pv-pro.html",
+  "detail": {
+    "title": "2+2 MP WizColor Active Deterrance Dual-lens Fixed-focal Pan & Tilt WizSense Network Camera",
+    "model": "IPC-PTS2249B-E2-S-PV-PRO",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PTS2249B-E2-S-PV-PRO 2+2 MP WizColor Active Deterrance Dual-lens Fixed-focal Pan & Tilt WizSense Network Camera Key Points • Versatile Pan-Tilt for Wide-Area Security Monitoring • Dual Lenses, Double Protection. Dual 2MP Fixed and PT Lenses Protect Two Areas, Reducing Blind Spots • Exceptional Image Quality in Low-Light Environments by WizColor Technology • Deep Learning-Based Human and Vehicle Classification • Instant Sound and Light Alerts Deter Intruders & Reduce Incidents • Supports Max. 256G Micro SD card • Efficient H.264+/H.265+ Compression Technology • IP66 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250307/IPC-PTS2249B-E2-S-PV-PRO2_thumb.png",
+        "alt": "IPC-PTS2249B-E2-S-PV-PRO_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20250307/IPC-PTS2249B-E2-S-PV-PRO1_thumb.png",
+        "alt": "IPC-PTS2249B-E2-S-PV-PRO_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "General": {
+        "Image Sensor": "Channel 1 (PT Lens): 1/2.9\" CMOS Channel 2 (Fixed Lens): 1/2.9\" CMOS",
+        "Max. Resolution": "Channel 1 (PT Lens): 1920 (H) × 1080 (V) Channel 2 (Fixed Lens): 1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.0006 lux@F1.0",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "4 (Warm light)",
+        "Lens Type": "Channel 1 (PT Lens): Fixed-focal Channel 2 (Fixed Lens): Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "Channel 1 (PT Lens): 3.6 mm Channel 2 (Fixed Lens): 3.6 mm",
+        "Max. Aperture": "Channel 1 (PT Lens): F1.0 Channel 2 (Fixed Lens): F1.0",
+        "Field of View": "Channel 1 (PT Lens): H: 81°; V: 44°; D: 95° Channel 2 (Fixed Lens): H: 81°; V: 44°; D: 95°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "Channel 1 (PT Lens): 1.7 m (5.58 ft) Channel 2 (Fixed Lens): 1.7 m (5.58 ft)",
+        "DORI Distance": "Lens",
+        "Channel 1 (PT Lens)": "55.7 m (182.74 ft)",
+        "Channel 2 (Fixed Lens)": "55.7 m (182.74 ft)",
+        "IVS (Perimeter Protection)": "Intrusion, tripwire (the two functions support the classification and accurate detection of vehicle and human)",
+        "SMD": "SMD Plus",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Channel 1 (PT Lens): Main stream: 1920 × 1080@(1–25/30 fps) sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) Channel 2 (Fixed Lens): Main stream: 1920 × 1080@(1–25/30 fps) sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Streaming Capability": "2 streams",
+        "Resolution": "Channel 1 (PT Lens): 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240) Channel 2 (Fixed Lens): 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "VBR; CBR",
+        "Video Bit Rate": "H.264: 32 kbps–4096 kbps; H.265: 12 kbps–4096 kbps",
+        "Day/Night": "Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 1080p resolution and lower)",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "LDC": "Yes",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; tripwire; intrusion; audio detection; voltage detection; SMD; security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; SFTP; DHCP; DNS; DDNS; QoS; UPnP; NTP; Multicast; ICMP; IGMP; NFS; PPPoE; P2P; Bonjour; Auto Registration",
+        "Security": "Digest; WSSE; Account lockout; Security logs; IP/MAC filtering; Generation and importing of X.509 certification; syslog; HTTPS; 802.1x; Trusted boot; Trusted execution; Trusted upgrade; Session security; Security warning",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI",
+        "User/Host": "20 (Total bandwidth: 48 M)",
+        "Storage": "FTP; SFTP; Micro SD card (support max. 256 GB); NAS",
+        "Browser": "IE; Chrome; Firefox",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "Android;iOS",
+        "Light Warning": "Warm light warning Flash/Solid on duration: 5 s–30 s Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 3 sound alarms and supports importing custom sound alarms. Sound: 0–100. Play times can be set from 1 to 10.",
+        "Pan/Tilt Range": "Channel 1 (PT Lens): Pan: 0° to 350°; Tilt: 0° to 90°; Channel 2 (Fixed Lens): Pan: 0° to 326°; Tilt: –10° to 15°",
+        "Manual Control Speed": "Pan: 0.1°/s–55.4°/s; Tilt: 0.1°/s–29.3°/s",
+        "Preset": "300",
+        "Preset Speed": "Pan: 55.4°/s; Tilt: 29.3°/s",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Tour;Preset",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU",
+        "Power Supply": "12 VDC (±30%); PoE (802.3af)",
+        "Power Consumption": "Basic: 2.3 W (12 VDC); 3.1 W (PoE); Max.: 9.2 W (12 VDC); 10.5 W (PoE) (intelligence on + WDR + illuminator on + PT rotation + speaker on)",
+        "Operating Temperature": "–40 °C to +50 °C (–40 °F to +122 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +50 °C (–40 °F to +122 °F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP66",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "159.4 mm × 110.1 mm × 210 mm (6.28\" × 4.33\" × 8.27\") (L × W × H)",
+        "Net Weight": "0.62 kg (1.37 lb)",
+        "Gross Weight": "0.87 kg (1.92 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-PTS2249B-E2-S-PV-PRO_S0_datasheet_20250729.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua PanTilt Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84321/user_manual/Dahua_PanTilt_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-12-12 #A&E Document IPC-PTS2249B-E2-S-PV-PRO_A&E_20260918024936 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82990/a_e_document/1789671089857.docx"
+      },
+      {
+        "name": "2024-12-24 #Drawings IPC-PTS2249B-E2-S-PV-PRO_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84321/drawings/IPC-PTS1439B-E2-S-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-11-02 #Drawings IPC-PTS2249B-E2-S-PV-PRO_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82990/drawings/IPC-PTS2249B-E2-S-PV-PRO_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-07-06 #Firmware DH_IPC-HX2XXX-DC-Hugo_MultiLang_PN_V3.120.0000000.38.R.260623 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82990/firmware/DH_IPC-HX2XXX-DC-Hugo_MultiLang_PN_V3.120.0000000.38.R.260623.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-2-series/multivision/ipc-pts2249b-e2-s-pv-pro"
+  }
+}

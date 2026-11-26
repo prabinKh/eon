@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "8986296484058",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC 2612A | Laser Toner Cartridge (up to 2200-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8986296484058",
+    "product_name": "Intex LTC 2612A | Laser Toner Cartridge (up to 2200-page yield)",
+    "product_title": "Intex LTC 2612A | Laser Toner Cartridge (up to 2200-page yield)",
+    "product_url": "https://www.intex.in/products/itc-2612a-laser-toner-cartridge",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-2612A.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 949.0,
+      "display": "₹949.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/itc-2612a-laser-toner-cartridge.html",
+  "detail": {
+    "title": "Intex LTC 2612A | Laser Toner Cartridge (up to 2200-page yield)",
+    "model": "2612A",
+    "brand": "Intex",
+    "overview": "The Intex LTC 2612A toner cartridge is designed for users who demand quality, reliability, and cost-efficiency. With a high yield of up to 2200 pages, it provides sharp, dark text and exceptional clarity in every print. Built with a high-quality drum and refillable design, it offers a sustainable solution for your printing needs. Compatible with a wide range of HP LaserJet and Canon printer models, the LTC 2612A ensures a seamless and professional printing experience.",
+    "features": [
+      "Model: LTC 2612A",
+      "Type: Laser Toner Cartridge",
+      "Page Yield: Up to 2200 pages",
+      "Refillable Cartridge",
+      "High-Quality Drum for long-lasting performance",
+      "Superior Monochrome Print Quality",
+      "Compatible with HP and Canon printers"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-2612A.jpg",
+        "alt": "Intex LTC 2612A | Laser Toner Cartridge (up to 2200-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: LTC 2612A",
+        "Feature 2": "Type: Laser Toner Cartridge",
+        "Feature 3": "Page Yield: Up to 2200 pages",
+        "Feature 4": "Refillable Cartridge",
+        "Feature 5": "High-Quality Drum for long-lasting performance",
+        "Feature 6": "Superior Monochrome Print Quality",
+        "Feature 7": "Compatible with HP and Canon printers"
+      },
+      "General": {
+        "Model": "2612A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_CARTRIDGE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/itc-2612a-laser-toner-cartridge"
+  }
+}

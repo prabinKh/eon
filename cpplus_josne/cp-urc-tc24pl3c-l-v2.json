@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "2.4 MP",
+    "category_url": "https://cpplusworld.com/products/2.4-mp",
+    "subcategory": "Analog HD Camera",
+    "subcategory_url": "https://cpplusworld.com/products/analog-hd-camera/2-4-mp",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Analog HD Camera",
+    "tab_id": "71",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Analog HD Camera",
+      "2.4 MP",
+      "CP-URC-TC24PL3C-L-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2033",
+    "product_name": "CP-URC-TC24PL3C-L-V2",
+    "product_title": "CP-URC-TC24PL3C-L-V2",
+    "product_url": "https://cpplusworld.com/cp-urc-tc24pl3c-l-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/5a5c0312-1ef9-4e57-affe-c40d5d121eae.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-urc-tc24pl3c-l-v2.html",
+  "detail": {
+    "title": "CP-URC-TC24PL3C-L-V2",
+    "model": "CP-URC-TC24PL3C-L-V2",
+    "brand": "CP Plus",
+    "overview": "2.4MP Dual Light Bullet Camera - 30Mtr.",
+    "features": [
+      "2.4MP PS CMOS Image Sensor",
+      "Max. 2.4MP (1920×1080)@25/30fps",
+      "DWDR, Day/Night (ICR), 2D DNR, BLC, HLC",
+      "3.6mm Fixed Lens (2.8 mm and 6mm optional)",
+      "IR Range of 30 Mtrs., Warm Light Range of 20 Mtrs., Smart IR",
+      "4 Signals over 1 Coaxial Cable",
+      "Support Built-in Mic, IP67"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/5a5c0312-1ef9-4e57-affe-c40d5d121eae.jpg",
+        "alt": "CP-URC-TC24PL3C-L-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e1d9b0ba-3280-4d47-ad67-b07188222ebf.jpg",
+        "alt": "CP-URC-TC24PL3C-L-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "2.4MP PS CMOS Image Sensor",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Minimum Illumination": "0.02 lux F2.0 (Color, 30 IRE), 0.002 lux F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Angle Adjustment": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°",
+        "Shutter Speed": "PAL: 1/25 s–1/100,000 s, NTSC: 1/30 s–1/100,000 s",
+        "White Balance": "Auto, Area white balance",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "3.6 mm: 0.8 m, 2.8 mm: 0.5 m, 6 mm: 2.4 m",
+        "Gain Control (AGC)": "Auto, Manual",
+        "Max. Aperture": "F2.0",
+        "DORI Distance": "Lens 3.6 mm: 55.0 m (Detect), 22.0 m (Observe), 11.0 m (Recognize), 5.5 m (Identify)  Lens 2.8 mm: 44.7 m (Detect), 17.9 m (Observe), 8.9 m (Recognize), 4.5 m (Identify)  Lens 6 mm: 102.9 m (Detect), 41.1 m (Observe), 20.6 m (Recognize), 10.3 m (Identify)",
+        "Lens": "3.6 mm (2.8 mm and 6 mm Optional)",
+        "Lens Type": "Fixed- Focal",
+        "Angle of View": "3.6 mm: H: 80°, V: 43°, D: 94°; 2.8 mm: H: 100°, V: 54°, D: 117°; 6 mm: H: 43°, V: 24°, D: 50°",
+        "Back Light Compensation": "BLC/ HLC/ DWD",
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port",
+        "Resolution": "1080p (1920 × 1080), 960H (960 × 576/960 × 480)",
+        "Frame Rate": "CVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps AHD: PAL: 1080p@25 fps NTSC: 1080p@30 fps  TVI: PAL: 1080p@25 fps NTSC: 1080p@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Noise Reduction": "2D DNR",
+        "Privacy Mask": "Off/On (8 areas, rectangle)",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "Iris Control": "Fixed",
+        "IR Control": "Auto, Manual",
+        "IR Number": "2 (Warm light), 2 (IR light)",
+        "IR": "IR Range of 30 Mtr.,",
+        "IR Mode": "Smart IR&WL, WL Mode, IR",
+        "Mirror Function": "Support",
+        "Weatherproof Standard": "IP66",
+        "Power Source": "12 VDC ±30%",
+        "Power Consumption": "Max 3.3 W (12 VDC, LED on)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing",
+        "Dimension": "146.1 mm × 70.0 mm × 69.8 mm",
+        "Weight": "0.1"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-URC-TC24PL3C-L-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/352863a0-a169-4b1a-b082-9eaf1d76c102.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-urc-tc24pl3c-l-v2"
+  }
+}

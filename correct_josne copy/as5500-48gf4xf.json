@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Aggregation Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "series": "Aggregation Switches",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/aggregation-switches",
+    "tab_title": "Aggregation Switches",
+    "tab_id": "691",
+    "breadcrumbs": [
+      "Transmission",
+      "Aggregation Switches",
+      "Aggregation Switches",
+      "Aggregation Switches"
+    ]
+  },
+  "card_info": {
+    "product_id": "104837",
+    "product_name": "AS5500-48GF4XF",
+    "product_title": "48 Ports Managed Switch",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/as5500-48gf4xf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220331/550012_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/as5500-48gf4xf.html",
+  "detail": {
+    "title": "48 Ports Managed Switch",
+    "model": "AS5500-48GF4XF",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220331/550012_thumb.png",
+        "alt": "AS5500-48GF4XF",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/aggregationcoreswitch/as5500-48gf4xf"
+  }
+}

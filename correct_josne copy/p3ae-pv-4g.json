@@ -1,0 +1,191 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "4MP Smart Dual Light Fixed-focal Bullet 4G Solar Power Network Camera IPC-HFW2441DG-4G-SP-B-MAX",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/4g-cameras",
+    "series": "Wired Cameras",
+    "series_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras",
+    "tab_title": "Wired Cameras",
+    "tab_id": "118200",
+    "breadcrumbs": [
+      "Wireless Products",
+      "4MP Smart Dual Light Fixed-focal Bullet 4G Solar Power Network Camera IPC-HFW2441DG-4G-SP-B-MAX",
+      "Wired Cameras",
+      "Wired Cameras"
+    ]
+  },
+  "card_info": {
+    "product_id": "147170",
+    "product_name": "P3AE-PV-4G",
+    "product_title": "3MP Fixed-focal 4G Pan & Tilt Network Camera",
+    "product_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras/p3ae-pv-4g",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/image/20241218/P5AE-PV-4G-EAU_View_45left-logo3_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/p3ae-pv-4g.html",
+  "detail": {
+    "title": "3MP Fixed-focal 4G Pan & Tilt Network Camera",
+    "model": "P3AE-PV-4G",
+    "brand": "Dahua",
+    "overview": "Compare Favourite P3AE-PV-4G 3MP Fixed-focal 4G Pan & Tilt Network Camera Key Points • IP66 Protection • Built-in Mic & Speaker, Support Two-way Talk • AI Human & Vehicle Detection • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • Expands your Connectivity with 4G • Automatic Tracking of Targets Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/image/20241218/P5AE-PV-4G-EAU_View_45left-logo3_thumb.png",
+        "alt": "P3AE-PV-4G-LA_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15668/ProductImage/1_0_01_07_15668_561158851_thumb.png",
+        "alt": "P3AE-PV-4G-LA_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15668/ProductImage/1_0_01_07_15668_561158845_thumb.png",
+        "alt": "P3AE-PV-4G-LA_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15668/ProductImage/1_0_01_07_15668_561147594_thumb.png",
+        "alt": "P3AE-PV-4G-LA_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15668/ProductImage/1_0_01_07_15668_561147595_thumb.png",
+        "alt": "P3AE-PV-4G-LA_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15668/ProductImage/1_0_01_07_15668_561147593_thumb.png",
+        "alt": "P3AE-PV-4G-LA_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_15668/ProductImage/1_0_01_07_15668_561147596_thumb.png",
+        "alt": "P3AE-PV-4G-LA_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Illumination Distance": "30 m (98.43 ft) (warm light); 30 m (98.43 ft) (IR)",
+        "Electronic Shutter Speed": "1/25 s–1/100,000 s",
+        "Illuminator Number": "2 (IR light); 2 (warm light)"
+      },
+      "Lens": {
+        "Focal Length": "4.0 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 73.85°; V: 43.43°; D: 86.56°",
+        "Iris Control": "Fixed"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 345° Tilt: 0° to +90°"
+      },
+      "Smart Event": {
+        "IVS": "Tripwire and intrusion",
+        "Human Detection": "Human detection; Auto-tracking",
+        "Vehicle Detection": "Yes"
+      },
+      "Intelligence": {
+        "SMD": "SMD 3.0"
+      },
+      "Video": {
+        "Video Compression": "Smart H.265+;H.265;Smart H.264+;H.264B;H.264M;H.264H;MJPEG(Sub Stream 1)",
+        "Video Frame Rate": "Main stream: 3M/720p/640 × 360@ (1–25/30 fps) Sub stream 1: D1/VGA/CIF@(1–25/30 fps)",
+        "Video Bit Rate": "H264: 64–8,192 kbps H265: 25–6,400 kbps",
+        "Day/Night": "Auto (ICR); Color/B/W",
+        "WDR": "DWDR",
+        "Motion Detection": "Yes",
+        "Image Rotation": "180°"
+      },
+      "Audio": {
+        "Audio Compression": "PCM; G.711a; G.711Mu; G.726",
+        "Built-in MIC": "Yes",
+        "Built-in Speaker": "Yes"
+      },
+      "Network": {
+        "Wireless Carrier Frequency Band": "EU LTE-FDD: B1/B3/B5/B7/B8/B20/B28 LA LTE-FDD: B2/B3/B4/B5/B7/B8/B28/B66",
+        "Max. Transmission Power": "4G: Power class3:23 dBm ± 2 dB",
+        "Storage": "Micro SD card (support max. 256 GB);",
+        "Management Software": "DMSS",
+        "Mobile Client": "iOS; Android"
+      },
+      "General": {
+        "Certifications": "CE",
+        "Power Supply": "12 VDC, 1 A ± 10%",
+        "Power Consumption": "Basic: 3W Max: 9 W (illuminator + PTZ)",
+        "Power Adapter": "Included",
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "TVS 2000 V lightning proof; surge protection; voltage transient protection;Waterproof and Dustproof",
+        "Camera Button": "Reset button",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "140.5 mm × Φ111.0 mm (5.53\" × Φ4.37\")",
+        "Net Weight": "0.5 kg (1.10 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/P3AE-PV-4G-LA_S0_datasheet_20241023.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87720/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Network Camera (Pan and Tilt-Outdoor-4G)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83458/user_manual/Network_Camera_(Pan_and_Tilt-Outdoor-4G)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual 4G Network Camera (Outdoor Pan-Tilt) User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83128/user_manual/4G_Network_Camera_(Outdoor_Pan-Tilt)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-19 #User Manual Dahua Network Camera (Pan and Tilt-Outdoor-Eur)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83458/user_manual/Dahua_Network_Camera_(Pan_and_Tilt-Outdoor-Eur)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-05-25 #A&E Document P3AE-PV-4G_A&E_20260918012442 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83458/a_e_document/1789666264243.docx"
+      },
+      {
+        "name": "2024-04-28 #Drawings P3AE-PV-4G_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82661/drawings/P3AE-PV-4G-LA_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-04-28 #Drawings P3AE-PV-4G_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82661/drawings/P3AE-PV-4G-LA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-28 #Firmware DH_SD-Kant-Dual_Normal_MultiLang_PN_V2.820.0000029.0.R.260115 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83444/firmware/DH_SD-Kant-Dual_Normal_MultiLang_PN_V2.820.0000029.0.R.260115.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/wireless-products/4g-cameras/wired-cameras/p3ae-pv-4g"
+  }
+}

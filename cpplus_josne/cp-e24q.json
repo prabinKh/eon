@@ -1,0 +1,125 @@
+{
+  "hierarchy": {
+    "category": "ezyKam+",
+    "category_url": "https://cpplusworld.com/products/ezykam+",
+    "subcategory": "EzyHome",
+    "subcategory_url": "https://cpplusworld.com/products/ezyhome/ezykam",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "EzyHome",
+    "tab_id": "34",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "EzyHome",
+      "ezyKam+",
+      "CP-E24Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2100",
+    "product_name": "CP-E24Q",
+    "product_title": "CP-E24Q",
+    "product_url": "https://cpplusworld.com/cp-e24q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/7c7cb9f6-9a8b-4658-a999-94838e13838c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-e24q.html",
+  "detail": {
+    "title": "CP-E24Q",
+    "model": "CP-E24Q",
+    "brand": "CP Plus",
+    "overview": "2MP Wi-Fi PT Camera",
+    "features": [
+      "1/3.2” 2MP PS CMOS Image Sensor (0.7937 centimeters)",
+      "4mm Lens",
+      "H.265 Video compression",
+      "Wi-Fi Support",
+      "Support Press to Call",
+      "Max. 20fps@2MP",
+      "IR Distance of 15 Mtr.",
+      "Work With Google Home"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/7c7cb9f6-9a8b-4658-a999-94838e13838c.png",
+        "alt": "CP-E24Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f696a72a-3bbf-4bdc-8733-565de0a3d7f9.png",
+        "alt": "CP-E24Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/3.2” 2MP PS CMOS Image Sensor (0.7937 centimeters)",
+        "Minimum Illumination": "Color: 0. 1Lux, B/W: 0.01Lux",
+        "FPS": "20fps",
+        "Lens": "4mm",
+        "Max. Aperture": "F2.0",
+        "Video Compression": "H.265",
+        "Angle of View": "Diagonal: 107°, Horizontal: 89°, Vertical: 48°",
+        "Back Light Compensation": "DWDR",
+        "S/N Ratio": "≥38.5dB",
+        "Exposure Conditions": "Auto-adjust AWB, AGC, BLC",
+        "Picture Adjustment": "Auto-adjust Contrast, Brightness, Saturation",
+        "Resolution": "2MP(1920 x 1080)",
+        "Electronic Shutter": "1/50s(1/60s)-1/100,000s",
+        "Noise Reduction": "3D DNR",
+        "Motion detection": "Support",
+        "Motion Tracking": "Support",
+        "Audio Compression": "G.711A",
+        "Sound Detection": "Support",
+        "Built-in Siren": "Support",
+        "Echo Cancellation": "Support",
+        "Human Body Detection": "Support",
+        "Alarm Notification Push": "Support",
+        "Wireless Standard": "Wi-Fi 802.11 b/g/n",
+        "IR Distance": "IR Distance of 15 Mtr.",
+        "IR Number": "6pcs IR LEDs",
+        "Wi-Fi": "Support",
+        "Work with Alexa": "Support",
+        "Work With Google Home": "Support",
+        "IR Cut Filter": "Auto",
+        "Smart Phone": "Android, iOS",
+        "Pan/Tilt Angle": "Pan:355°, Tilt:66°",
+        "Audio": "Built-in Mic",
+        "Built-in Speaker": "Support",
+        "Storage": "Micro SD card (up to 256GB)",
+        "Wireless Frequency": "2.4GHz",
+        "Two-way talk": "Support",
+        "Mobile App": "ezyKam+",
+        "Application Environment": "Indoor",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, CE, FCC, RoHS, BIS, WPC",
+        "Power Consumption": "Max. 5W",
+        "Power Supply": "DC 5V, 1A (USB Type C)",
+        "Operating Temperature": "-20°C~60°C",
+        "Operating Humidity": "<95% (no condensation)",
+        "Dimension": "73mm x 73mm x 119mm",
+        "Casing": "ABS Plastic",
+        "Weight": "171.5g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-E24Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/54a1add1-9320-4165-845e-e2471e93ed49.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-e24q"
+  }
+}

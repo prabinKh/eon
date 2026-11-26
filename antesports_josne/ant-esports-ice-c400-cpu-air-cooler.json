@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Air Coolers",
+    "subcategory_url": "https://antesports.com/collections/air-coolers",
+    "series": "Air Coolers Series",
+    "series_url": "https://antesports.com/collections/air-coolers",
+    "tab_title": "Air Coolers",
+    "tab_id": "508173025571",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Air Coolers",
+      "ICE-C400 CPU Air Cooler"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422302499",
+    "product_name": "ICE-C400 CPU Air Cooler",
+    "product_title": "ICE-C400 CPU Air Cooler",
+    "product_url": "https://antesports.com/products/ant-esports-ice-c400-cpu-air-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ICE-C400_02_2cbc25c1-92e6-456c-9dc8-ea2a735b942f.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-ice-c400-cpu-air-cooler.html",
+  "detail": {
+    "title": "ICE-C400 CPU Air Cooler",
+    "model": "AESP0289",
+    "brand": "Ant Esports",
+    "overview": "High Cooling Efficiency with Single Tower Design: The Ant Esports ICE-C400, part of the high-performance ICE series, offers exceptional cooling capacity with its single tower design. The cooler is equipped with four 6mm thick copper heatpipes, closely packed to maximize thermal transfer efficiency. This design ensures optimal heat dissipation, making it an excellent choice for users seeking reliable and efficient cooling for their CPUs.Vibrant Rainbow LED Fan with PWM Control: The ICE-C400 comes with a 120mm rainbow LED fan, adding a vibrant touch to the system's aesthetics. The fan is PWM compatible, allowing users to control the fan speed through the BIOS. This flexibility enables users to strike a balance between cooling performance and noise levels, tailoring the cooler to their specific preferences.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/ICE-C400_02_2cbc25c1-92e6-456c-9dc8-ea2a735b942f.png",
+        "alt": "ICE-C400 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_5171796b-91f1-4eab-a78d-fa483630c20e.png",
+        "alt": "ICE-C400 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_cab2e77d-dbf1-4cf8-b18b-2fe593bbea6b.png",
+        "alt": "ICE-C400 CPU Air Cooler - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Product Type": "AIR COOLER",
+        "AMD Socket Support": "AM5, AM4, AM3+, AM3, AM2+, FM2, FM1",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA115X, LGA1200, LGA1366, LGA775",
+        "Cooler Type": "Tower",
+        "No. of Heatpipes": "4",
+        "No. of Cooling Towers": "1",
+        "Fan Size (mm)": "120",
+        "Fan Speed (RPM)": "1500",
+        "Fan Noise (dBA)": "21",
+        "FAN Airflow (CFM)": "65",
+        "FAN Static Pressure (mmH₂O)": "1.2",
+        "Cooler Height (mm)": "148",
+        "Rated TDP (w)": "90",
+        "PRODUCT TYPE": "AIR COOLER",
+        "AMD SOCKET SUPPORT": "AM5, AM4, AM3+, AM3, AM2+, FM2, FM1",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA115X, LGA1200, LGA1366, LGA775",
+        "COOLER TYPE": "Tower",
+        "NO. OF HEATPIPES": "4",
+        "NO. OF COOLING TOWERS": "1",
+        "FAN SIZE (MM)": "120",
+        "FAN SPEED (RPM)": "1500",
+        "FAN NOISE (DBA)": "21",
+        "FAN AIRFLOW (CFM)": "65",
+        "FAN STATIC PRESSURE (MMH₂O)": "1.2",
+        "COOLER HEIGHT (MM)": "148",
+        "RATED TDP (W)": "90",
+        "Offer Price (INR)": "₹1,149.00",
+        "MRP (INR)": "₹1,799.00",
+        "SKU": "AESP0289"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-ice-c400-cpu-air-cooler"
+  }
+}

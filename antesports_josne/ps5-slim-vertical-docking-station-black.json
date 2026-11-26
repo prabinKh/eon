@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "PS5 Slim Vertical Docking Station Stand - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353570906403",
+    "product_name": "PS5 Slim Vertical Docking Station Stand - Black",
+    "product_title": "PS5 Slim Vertical Docking Station Stand - Black",
+    "product_url": "https://antesports.com/products/ps5-slim-vertical-docking-station-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps5-slim-vertical-docking-station-black.html",
+  "detail": {
+    "title": "PS5 Slim Vertical Docking Station Stand - Black",
+    "model": "AEPP0208",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS5 Slim Vertical Docking Station is a purpose-built stand for PS5 Slim Disc and Digital editions, holding the console securely upright to save desk space. RGB lighting with a fixed blue mode and adjustable light switch lets you set the mood for different games, with a memory function that remembers your last chosen setting. A bundled safety screw firmly secures the console to the stand for extra stability, preventing accidental knocks or tip-overs, while anti-slip pads on the base add further security. Two extra USB ports let you charge controllers or other PS5 accessories directly from the stand, rounding out a compact, one-minute-install solution for any PS5 Slim setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/9.png",
+        "alt": "PS5 Slim Vertical Docking Station Stand - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Lighting": "RGB with Memory Function",
+        "Mounting": "Safety Screw Included",
+        "USB Ports": "2 Extra",
+        "Compatibility": "PS5 Slim Disc & Digital",
+        "Color": "Black",
+        "LIGHTING": "RGB with Memory Function",
+        "MOUNTING": "Safety Screw Included",
+        "USB PORTS": "2 Extra",
+        "COMPATIBILITY": "PS5 Slim Disc & Digital",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹1,002.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0208"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps5-slim-vertical-docking-station-black"
+  }
+}

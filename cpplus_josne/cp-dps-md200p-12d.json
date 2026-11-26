@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Power Supply",
+    "category_url": "https://cpplusworld.com/products/power-supply",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/power-supply",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "86",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Power Supply",
+      "CP-DPS-MD200P-12D"
+    ]
+  },
+  "card_info": {
+    "product_id": "1692",
+    "product_name": "CP-DPS-MD200P-12D",
+    "product_title": "CP-DPS-MD200P-12D",
+    "product_url": "https://cpplusworld.com/cp-dps-md200p-12d",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/3f5742eb-d03e-4610-bbbd-0f5bbbcbdb81.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-dps-md200p-12d.html",
+  "detail": {
+    "title": "CP-DPS-MD200P-12D",
+    "model": "CP-DPS-MD200P-12D",
+    "brand": "CP Plus",
+    "overview": "Metal Case Power Supply (Premium Series)",
+    "features": [
+      "Wide range of Input voltage 190~250V AC",
+      "Add more cameras with higher power budget 12V, 20A",
+      "Built-in EMI filter to nullify interference",
+      "Voltage regulator switch for voltage adjustment",
+      "Protections: Overload / Over Voltage / Short Circuit",
+      "Metal Housing for uniform/quick heat dissipation"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3f5742eb-d03e-4610-bbbd-0f5bbbcbdb81.jpg",
+        "alt": "CP-DPS-MD200P-12D - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/e9a743ea-ed2e-4a4d-80af-094433538276.jpg",
+        "alt": "CP-DPS-MD200P-12D - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Input voltage": "190~250V AC",
+        "Output voltage": "12V DC",
+        "Current Range": "0~20A",
+        "Rated Power": "240W",
+        "Ripple & Noise (max.)": "100mVp-p",
+        "Voltage Adj. Range": "11.4~13.2V",
+        "Line Regulation": "±1.0%",
+        "Voltage Tolerance": "±2.0%",
+        "Setup Rise time": "600ms, 30ms at full load",
+        "Hold Up Time (Typ.)": "13ms at full load",
+        "Load Regulation": "±5.0%",
+        "Temperature coefficient": "±0.03%/°C (0~50°C)",
+        "Frequency Range": "47~63HZ",
+        "Efficiency (Typ.)": "84%",
+        "AC Current (Typ.)": "5A/115VAC 3A/230VAC",
+        "Inrush Current (Typ.)": "20A/115VAC 40A/230VAC",
+        "Leakage Current": "<2mA / 240VAC",
+        "Over Load": "110~200% rated output power, Protection type: Shut down O/P, re-power",
+        "Isolation Resistance": "I/P-O/P, I/P-FG, O/P-FG:100M Ohms / 500VDC / 25°C/ 70% RH",
+        "Working Humidity": "20~90% RH Non-condensing",
+        "Vibration": "10 ~ 500Hz, 3G 10min./1 cycle,60min.each along X, Y, Z axes",
+        "Dimension": "196(L) x 114(W) x 55mm(H)",
+        "Store temperature": "-20~+85°C, 10~95%RH",
+        "Working temperature": "-20~+40°C",
+        "Withstand Voltage": "I/P-O/P: 1.5KVAC I/P-FG: 1.5KVAC O/P-FG:0.5KVAC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-DPS-MD200P-12D.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/4653205f-e834-4981-a2d4-59d2f7447c81.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-dps-md200p-12d"
+  }
+}

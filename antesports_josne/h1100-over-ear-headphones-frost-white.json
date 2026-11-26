@@ -1,0 +1,82 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H1100 Over-Ear Gaming Headphones - Frost White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444033827",
+    "product_name": "H1100 Over-Ear Gaming Headphones - Frost White",
+    "product_title": "H1100 Over-Ear Gaming Headphones - Frost White",
+    "product_url": "https://antesports.com/products/h1100-over-ear-headphones-frost-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/39.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/h1100-over-ear-headphones-frost-white.html",
+  "detail": {
+    "title": "H1100 Over-Ear Gaming Headphones - Frost White",
+    "model": "AEPP0023",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports H1100 is an over-ear gaming headset built around 50mm directional drivers that position sound directly into the ear for precise, gaming-grade audio across PC, PS4, PS5, Xbox One and Nintendo Switch. A flip-to-mute noise-cancellation microphone keeps voice chat clear while making it easy to quickly mute during offline moments, and in-line controls let you adjust volume on the go without reaching for a software panel. Breathable memory foam ear cushions and a self-adjusting headband keep the lightweight 302g frame comfortable through extended sessions, while closed-back, 3D-draping ear cups deliver strong noise isolation to keep you focused on the game. Auto RGB lighting adds a vibrant finishing touch, and the universal 3.5mm wired connection works across virtually any gaming platform.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/39.jpg",
+        "alt": "H1100 Over-Ear Gaming Headphones - Frost White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Driver Size": "50mm",
+        "Microphone": "Flip-to-Mute, Noise Cancelling",
+        "Connectivity": "Wired, 3.5mm",
+        "Weight": "302g",
+        "Lighting": "Auto RGB",
+        "Compatibility": "PC, PS4, PS5, Xbox One, Nintendo Switch",
+        "Color": "Frost White",
+        "DRIVER SIZE": "50mm",
+        "MICROPHONE": "Flip-to-Mute, Noise Cancelling",
+        "CONNECTIVITY": "Wired, 3.5mm",
+        "WEIGHT": "302g",
+        "LIGHTING": "Auto RGB",
+        "COMPATIBILITY": "PC, PS4, PS5, Xbox One, Nintendo Switch",
+        "COLOR": "Frost White",
+        "Offer Price (INR)": "₹1,449.00",
+        "MRP (INR)": "₹3,999.00",
+        "SKU": "AEPP0023"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (H110)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=H110.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/h1100-over-ear-headphones-frost-white"
+  }
+}

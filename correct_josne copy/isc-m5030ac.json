@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Security Screening Machine",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine",
+    "series": "Scanner",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner",
+    "tab_title": "Scanner",
+    "tab_id": "16317",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Security Screening Machine",
+      "Scanner",
+      "Scanner"
+    ]
+  },
+  "card_info": {
+    "product_id": "137797",
+    "product_name": "ISC-M5030AC",
+    "product_title": "Security Screening Machine",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner/isc-m5030ac",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093357_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-m5030ac.html",
+  "detail": {
+    "title": "Security Screening Machine",
+    "model": "ISC-M5030AC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-M5030AC Security Screening Machine Key Points ●500mm×300mm ●Speed 0.2 m/s ●Wire Resolution：Typical: 40 AWG; Standard: 38 AWG ●Penetration(Steel)：Typical: 9mm; Standard: 7mm Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093357_thumb.png",
+        "alt": "ISC-M5030AC_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093354_thumb.png",
+        "alt": "ISC-M5030AC_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093355_thumb.png",
+        "alt": "ISC-M5030AC_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093356_thumb.png",
+        "alt": "ISC-M5030AC_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093358_thumb.png",
+        "alt": "ISC-M5030AC_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10163/ProductImage/1_0_01_46_10163_395093360_thumb.png",
+        "alt": "ISC-M5030AC_View_Lot-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "System": {
+        "CPU": "Intel quad-core processor",
+        "RAM": "4 GB",
+        "Operating System": "Embedded Linux OS",
+        "User Interface": "Local GUI (full functions); Web interface"
+      },
+      "Basic": {
+        "Tunnel size": "500 mm × 300 mm",
+        "X-ray Tube Anode Voltage": "80 kV",
+        "X-ray Tube Cooling": "Sealed oil bath with forced air / 100%",
+        "Wire Resolution": "Typical: 40AWG, Standard: 38AWG *",
+        "Penetration(steel)": "Typical: 9 mm; Standard: 7 mm *",
+        "Detector Channels": "384 Channels",
+        "Leakage Dose-rate": "≤ 0.9 μSv/h(μGy/h)",
+        "Noise Level": "≤ 65 dB",
+        "Conveyor Speed": "0.2 m/s",
+        "Maximum Belt Load": "80 kg (176.37 lb)",
+        "Conveyor Hight": "670 mm to 760 mm adjustable",
+        "Current Leakage": "≤ 0.25 mA",
+        "Film Safety": "ISO 1600 (33 DIN)",
+        "Graphics Output": "1-channel HDMI video output: Up to 1920 (H) × 1080 (V) @60 Hz",
+        "Monitor": "1 × 21.5\" monitor",
+        "Audio output": "1-channel MIC Out (3.5 mm)",
+        "Built-in Disks": "Supports up to 6 T SATA disks and configures 1T disk by default",
+        "Ethernet Ports": "1 RJ-45 10 M/100 M/1000 M self-adaptive Ethernet ports",
+        "Internet Protocols": "HTTP, HTTPS, TCP/IP, UDP, RTSP, IPv4, NTP, DHCP, DNS, IP Filter",
+        "Interoperability": "SDK and more"
+      },
+      "Intelligent Analysis": {
+        "Preview": "Real-time display of X-ray package image",
+        "Image Storage": "Stores as much as 1 million images with information. Original images can both be viewed.",
+        "Baggage Search": "Search, play back, and export baggage images according to time, and more",
+        "Report Search": "Generate and export reports according to time",
+        "Backup": "USB/Network"
+      },
+      "Performance": {
+        "Self-inspection": "Automatically detects system failures and prompts error codes",
+        "Image Processing": "Enhancement functions include color/black and white, local enhancement, super enhancement, edge enhancement, image scanning, inverse, Penetration enhancement, light, dark, high density alert, AI overlay, vertical flip, pseudo color and more",
+        "Image playback": "Supports playback of 10 images",
+        "Image Zooming": "Zoom in X-ray images up to 64x. Drag the focus position using a mouse or direction- keys",
+        "Device Diagnosis": "Supports diagnosis of key components such as the detector, motor, IR sensor",
+        "Detection Configuration": "Key function configuration; image display configuration (vertical flip and max zoom times), scan mode configuration (double direction, forward scan), baggage counter configuration and person-package linkage configuration"
+      },
+      "Ports": {
+        "RS 232 Port": "1-channel RS-232 port",
+        "Power port": "1-channel port for monitor power supply 12V1A power output",
+        "USB Port": "2-channel USB3.0 for controlling the operation keyboard and mouse",
+        "Display Port": "2-channel HDMI outputs (same source)",
+        "Alarm Port": "2-channel alarm output; 2-channel alarm input",
+        "Emergency Stop Button": "2 (on the machine body)",
+        "Power Button": "1 (on the machine top)",
+        "Key Switch": "1 (on the machine top)",
+        "Indicator light": "On the machine: Power indicator: Turns solid green when the machine is working and flashes during updates and when an error occurs X-ray indicators: the red light is always on when X-ray is turned on, but not when X-ray is turned off Key switch indicator: The green light is always on when the key is turned to on, but not on when the key is turned to off"
+      },
+      "Regular": {
+        "Power Supply": "220–240 VAC, 50/60 Hz; 100–130 VAC, 50/60 Hz (optional)",
+        "Typical Power Consumption": "220 W",
+        "Maximum Power Consumption": "500 W",
+        "Intelligent Temperature Control": "Detects the temperature of main board and HDD and automatically adjusts fan speed to make it work stably and quietly",
+        "Operating Temperature": "0 °C to +45 °C (32 °F to +113 °F)",
+        "Operating Humidity": "0%–95% (RH), non-condensing",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "0%–95% (RH), non-condensing",
+        "Dimensions": "1665 mm × 766 mm × 1237 mm",
+        "Package Size": "1805 mm × 1026 mm × 1425 mm",
+        "Net Weight": "300 kg (661.39 lb)",
+        "Gross Weight": "400 kg (881.85 lb)",
+        "Installation Mode": "Floor installation"
+      },
+      "* Measured by Dahua Imaging Test Kit": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/137797/datasheet/ISC-M5030AC_datasheet_20230709.pdf"
+      },
+      {
+        "name": "2025-10-30 #User Manual X-ray Security Screening System_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77847/user_manual/X-ray_Security_Screening_System_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-10 #Drawings ISC-M5030AC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87580/drawings/ISC-M5030_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-07-11 #Drawings ISC-M5030AC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77847/drawings/1_0_01_46_10417_818880649.pdf"
+      },
+      {
+        "name": "2026-03-07 #Firmware DH_ISC-MXXXXAC_Server_Eng_V1.010.0000000.0.R.260130 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77847/firmware/DH_ISC-MXXXXAC_Server_Eng_V1.010.0000000.0.R.260130.zip"
+      },
+      {
+        "name": "2025-01-20 #Firmware General_ISC-MXXXXAC_MainBoard_V1.010.0000000.0.R.250102 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77847/firmware/General_ISC-MXXXXAC_MainBoard_V1.010.0000000.0.R.250102.zip"
+      },
+      {
+        "name": "2025-01-20 #Firmware DH_ISC-MXXXXAC_Server_Eng_V1.010.0000000.0.R.250102 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77847/firmware/DH_ISC-MXXXXAC_Server_Eng_V1.010.0000000.0.R.250102.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/security-screening-machine/scanner/isc-m5030ac"
+  }
+}

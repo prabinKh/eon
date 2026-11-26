@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "PoE Switches",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/poe-switches",
+    "series": "Desktop PoE Switch",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/poe-switches/desktop-poe-switch",
+    "tab_title": "Desktop PoE Switch",
+    "tab_id": "8367",
+    "breadcrumbs": [
+      "Transmission",
+      "PoE Switches",
+      "Desktop PoE Switch",
+      "Desktop PoE Switch"
+    ]
+  },
+  "card_info": {
+    "product_id": "131457",
+    "product_name": "S3226-24ET-360",
+    "product_title": "26-Port Unmanaged Switch with 24-Port PoE",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s3226-24et-360",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_10970/ProductImage/1_0_01_20_10970_1227831379_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/s3226-24et-360.html",
+  "detail": {
+    "title": "26-Port Unmanaged Switch with 24-Port PoE",
+    "model": "S3226-24ET-360",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_20_10970/ProductImage/1_0_01_20_10970_1227831379_crop_thumb.png",
+        "alt": "S3226-24ET-360",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/switches/poeswitchforsecurity/s3226-24et-360"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "152179",
+    "product_name": "KTP10",
+    "product_title": "Video Intercom KIT",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp10",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12783/ProductImage/1_0_01_15_12783_769998355_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktp10.html",
+  "detail": {
+    "title": "Video Intercom KIT",
+    "model": "KTP10",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTP10 Video Intercom KIT Key Points • DHI-VTO3311Q-WP + DHI-VTH2621GW-WP + DH-PFS3006-4ET-36 • 7-inch Screen VTH • 4-in-1 Button Metal VTO • PoE Connection • App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12783/ProductImage/1_0_01_15_12783_769998355_crop_thumb.png",
+        "alt": "KTP10_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12783/ProductImage/1_0_01_15_12783_765778581_crop_thumb.png",
+        "alt": "KTP10_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12783/ProductImage/1_0_01_15_12783_765778580_crop_thumb.png",
+        "alt": "KTP10_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12783/ProductImage/1_0_01_15_12783_765778578_crop_thumb.png",
+        "alt": "KTP10_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System(DHI-VTO3311Q-WP)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "RTSP; DNS; P2P; UPnP; RTP; RTMP; SIP; SSH; HTTP/HTTPS; ONVIF"
+      },
+      "Basic(DHI-VTO3311Q-WP)": {
+        "Camera": "1/2.8\" 2 MP CMOS HD camera",
+        "Field of View": "H: 125°; V: 65°; D: 139°",
+        "WDR": "120 dB",
+        "Noise Reduction": "2D NR;3D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, CIF Sub stream: 1080p, WVGA, D1, QVGA, CIF",
+        "Video Frame Rate": "PAL: 25 fps NTSC: 30 fps",
+        "Video Bit Rate": "768 kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto(ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function(DHI-VTO3311Q-WP)": {
+        "Communication Mode": "Full digital",
+        "Verification Method": "Indoor monitor; App; Card",
+        "Auto Snapshot": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Storage": "Supports Micro SD card (up to 256 GB)",
+        "Web Configuration": "Yes"
+      },
+      "RFID(DHI-VTO3311Q-WP)": {
+        "Card Type": "IC card",
+        "Modulation Type": "AM",
+        "Frequency Range": "13.56 MHz",
+        "Max. Transmission Power": "42 dBuA/m @10 m"
+      },
+      "Wi-Fi(DHI-VTO3311Q-WP)": {
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE 802.11b; IEEE 802.11g; IEEE 802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Max. Transmission Power": "≤20 dBm@2,400–2,483.5 MHz"
+      },
+      "Performance(DHI-VTO3311Q-WP)": {
+        "Card Reading Distance": "0 cm–3.5 cm (0\"–1.38\")",
+        "Issue Card Locally": "Yes",
+        "Casing Material": "Aluminum alloy"
+      },
+      "Capacity(DHI-VTO3311Q-WP)": {
+        "Card Capacity": "3,000"
+      },
+      "Port(DHI-VTO3311Q-WP)": {
+        "RS-485": "1",
+        "Alarm Input": "1",
+        "Alarm Output": "1 channel",
+        "Power Output": "1 port (12 V, 200 mA)",
+        "Exit Button": "1 channel",
+        "Door Status Detection": "1 channel",
+        "Lock Control": "1 channel",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port"
+      },
+      "Alarm(DHI-VTO3311Q-WP)": {
+        "Tamper Alarm": "Yes"
+      },
+      "General(DHI-VTO3311Q-WP)": {
+        "Appearance Color": "Grey",
+        "Power Supply": "12 VDC, 1 A Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Included: Alarm power ribbon cable, rain cover",
+        "Product Dimensions": "188.1 mm × 107.2 mm × 30 mm (7.41\" × 4.22\" × 1.18\") (H × W × D)",
+        "Protection": "IP65; IK08",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "10%–90%",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.52 ft)",
+        "Operating Environment": "Outdoor",
+        "Power Consumption": "≤ 3 W (standby), ≤ 6 W (working)",
+        "Gross Weight": "0.81 kg (1.79 lb)"
+      },
+      "System(DHI-VTH2621GW-WP)": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Network Protocol": "RTSP; DNS; RTP; SIP; SSH"
+      },
+      "Basic(DHI-VTH2621GW-WP)": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "7-inch display screen",
+        "Screen Resolution": "1024 (H) × 600 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 kHz, 16 bit"
+      },
+      "Function(DHI-VTH2621GW-WP)": {
+        "Communication Mode": "Full digital",
+        "Information Release": "Receive and view text information released by the management center",
+        "DND Mode": "Do not disturb period can be set; Do not disturb mode can be set",
+        "Number of Extensions": "Villa: 9 Apartment: 4"
+      },
+      "Wi-Fi(DHI-VTH2621GW-WP)": {
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE 802.11b; IEEE 802.11g; IEEE 802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Max. Transmission Power": "≤20 dBm@2,400–2,483.5MHz"
+      },
+      "Port(DHI-VTH2621GW-WP)": {
+        "RS-485": "1",
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Door Bell": "Yes (use any alarm input port)",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port"
+      },
+      "Performance(DHI-VTH2621GW-WP)": {
+        "Casing Material": "PC + ABS"
+      },
+      "General(DHI-VTH2621GW-WP)": {
+        "Appearance Color": "White",
+        "Power Supply": "12 VDC, 1 A Standard PoE",
+        "Power Adapter": "Not included",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Included: Bracket, alarm power ribbon cable",
+        "Product Dimensions": "189.6 mm × 134.6 mm × 26.0 mm (7.46\" × 5.30\" × 1.02\") (L × W × H)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% (RH), non-condensing",
+        "Operating Altitude": "Beneath 3,000 m (9,842.52 ft)",
+        "Operating Environment": "Indoor",
+        "Power Consumption": "≤ 2 W (standby), ≤ 6 W (working)",
+        "Gross Weight": "575 g (1.27 lb)"
+      },
+      "Hardware (DH-PFS3006-4ET-36)": {
+        "Data Transmission Port": "4 PoE ports with 10/100 Mbps Base-TX 2 uplink ports with 10/100 Mbps Base-TX",
+        "Power Supply": "VAC 100–240",
+        "Operating Temperature": "–10°C to +55°C (–14°F to 131°F)",
+        "Operating Humidity": "10%–90%",
+        "Power Consumption": "Idling: 0.5 W Full load: 36 W"
+      },
+      "PoE (DH-PFS3006-4ET-36)": {
+        "PoE Budget": "Port1-4 ≤30 W, whole PoE budget ≤36 W",
+        "PoE Standard": "IEEE802.3af, IEEE802.3at",
+        "PoE Pin Assignment": "PoE: 1, 2, 4, 5(V+), 3, 6, 7, 8(V-)"
+      },
+      "Performance (DH-PFS3006-4ET-36)": {
+        "Switching Capacity": "1.2 Gbps",
+        "Packet Forwarding Rate": "0.89 Mpps",
+        "MAC Table Size": "2 K",
+        "Jumbo Frame": "2,048 bytes",
+        "Communication Standard": "IEEE 802.3, IEEE 802.3u, IEEE 802.3X",
+        "ESD": "Air discharge: 8 kV Contact discharge: 6 kV",
+        "Thunderproof": "Common mode: 6 kV Differential mode: 4 kV",
+        "Net Weight": "0.56 kg (1.23 lb)",
+        "Gross Weight": "1.11 kg (2.15 lb)",
+        "Product Dimensions (W × L × H)": "194.0 mm × 108.1 mm × 35.0 mm (7.64\" × 4.26\" × 1.38\")",
+        "Certifications": "CE: EN60950; FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/KTP10_S0_datasheet_20250227.pdf"
+      },
+      {
+        "name": "2025-06-15 #User Manual Villa Door Station_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010335/202506/Villa_Door_Station_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-06-15 #User Manual Video Door Phone (Version 4.8)_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010928/3480508/Video_Door_Phone_(Version_4.8)_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktp10"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Keyboard",
+    "subcategory_url": "https://www.intex.in/collections/keyboard",
+    "series": "Keyboard Series",
+    "series_url": "https://www.intex.in/collections/keyboard-series",
+    "tab_title": "Keyboard",
+    "tab_id": "8022120235226",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Keyboard",
+      "Classy (IT-KB335) Wired USB Keyboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "8022120235226",
+    "product_name": "Classy (IT-KB335) Wired USB Keyboard",
+    "product_title": "Classy (IT-KB335) Wired USB Keyboard",
+    "product_url": "https://www.intex.in/products/classy-it-kb335-wired-usb-keyboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_1.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1099.0,
+      "display": "₹1,099.00",
+      "original_price": 0.0,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/classy-it-kb335-wired-usb-keyboard.html",
+  "detail": {
+    "title": "Classy (IT-KB335) Wired USB Keyboard",
+    "model": "1147-3102-006",
+    "brand": "Intex",
+    "overview": "A game-changing masterpiece that redefines performance. With UV Coated colored keys and an exceptional Key Life, this keyboard sets the bar for durability and reliability. Its effortless USB plug-and-play setup seamlessly integrates with your device, getting you right into the zone of productivity. This keyboard's sleek design and low-profile style offer an unparalleled typing experience, with precise, lightning-fast, and supremely comfortable keystrokes. Experience a new level of work efficiency with the precision and speed of the Classy Wired Keyboard.",
+    "features": [
+      "UV Coated Colored Keys",
+      "Splash Proof Technology",
+      "Effortless Smooth Typing",
+      "Plug & Play Setup",
+      "Ergonomic Design",
+      "Adjustable Height",
+      "USB Interface"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_1.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_7.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_12.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_11.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_10.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_9.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_8.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_6.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_5.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_4.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_3.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/ClassyKeyboard_PDP_2.jpg",
+        "alt": "Classy (IT-KB335) Wired USB Keyboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 12,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "UV Coated Colored Keys",
+        "Feature 2": "Splash Proof Technology",
+        "Feature 3": "Effortless Smooth Typing",
+        "Feature 4": "Plug & Play Setup",
+        "Feature 5": "Ergonomic Design",
+        "Feature 6": "Adjustable Height",
+        "Feature 7": "USB Interface"
+      },
+      "General": {
+        "Model": "1147-3102-006"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/CLASSY_KEYBOARD_PPT__WP.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/classy-it-kb335-wired-usb-keyboard"
+  }
+}

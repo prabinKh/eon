@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Accessories",
+    "subcategory_url": "https://antesports.com/collections/gaming-accessories",
+    "series": "Gaming Accessories Series",
+    "series_url": "https://antesports.com/collections/gaming-accessories",
+    "tab_title": "Gaming Accessories",
+    "tab_id": "508173091107",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Accessories",
+      "NEON GLOW 24 PIN"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315416863011",
+    "product_name": "NEON GLOW 24 PIN",
+    "product_title": "NEON GLOW 24 PIN",
+    "product_url": "https://antesports.com/products/ant-esports-neon-glow-24-pin-new",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11_a8a2fecb-33f7-443c-b8eb-53ea8d8a7269.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-neon-glow-24-pin-new.html",
+  "detail": {
+    "title": "NEON GLOW 24 PIN",
+    "model": "Neon Glow 24 PIN",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS Neon Glow 24 Pin ARGB PSU Cable Extension is designed to transform your gaming PC with vibrant addressable RGB lighting while maintaining reliable power delivery. Featuring premium 18AWG braided extension cables with an integrated optical fiber light guide, it delivers smooth and uniform ARGB illumination. Compatible with major motherboard RGB synchronization software, the Neon Glow 24 Pin allows users to create stunning lighting effects that perfectly match the rest of their gaming setup. Its flexible construction ensures effortless cable management and clean-looking PC builds.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/11_a8a2fecb-33f7-443c-b8eb-53ea8d8a7269.png",
+        "alt": "NEON GLOW 24 PIN - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_e488e8c6-e3a3-47b7-b0b6-16b94a7b2529.png",
+        "alt": "NEON GLOW 24 PIN - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_f68a1eec-eeeb-4e75-a312-fdd6ff0840c1.png",
+        "alt": "NEON GLOW 24 PIN - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Category": "Mod Cable",
+        "Model": "Neon Glow 24 PIN",
+        "Cable Type": "24-Pin ATX PSU Extension Cable",
+        "Wire Gauge": "18 AWG",
+        "Cable Length": "300 mm",
+        "Lighting": "Addressable RGB (ARGB)",
+        "LED Design": "Double-Sided Optical Fiber",
+        "ARGB Connector": "5V 3-Pin",
+        "Motherboard Sync": "ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, ASRock Polychrome Sync",
+        "Compatibility": "24-Pin ATX Power Supply",
+        "Color": "White",
+        "Warranty": "1 Year Limited",
+        "CATEGORY": "Mod Cable",
+        "MODEL": "Neon Glow 24 PIN",
+        "CABLE TYPE": "24-Pin ATX PSU Extension Cable",
+        "WIRE GAUGE": "18 AWG",
+        "CABLE LENGTH": "300 mm",
+        "LIGHTING": "Addressable RGB (ARGB)",
+        "LED DESIGN": "Double-Sided Optical Fiber",
+        "ARGB CONNECTOR": "5V 3-Pin",
+        "MOTHERBOARD SYNC": "ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, ASRock Polychrome Sync",
+        "COMPATIBILITY": "24-Pin ATX Power Supply",
+        "COLOR": "White",
+        "WARRANTY": "1 Year Limited",
+        "Offer Price (INR)": "₹2,899.00",
+        "MRP (INR)": "₹5,499.00",
+        "SKU": "AESP0307"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-neon-glow-24-pin-new"
+  }
+}

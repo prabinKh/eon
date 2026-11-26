@@ -1,0 +1,75 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Mouse",
+    "subcategory_url": "https://antesports.com/collections/gaming-mouse",
+    "series": "Gaming Mouse Series",
+    "series_url": "https://antesports.com/collections/gaming-mouse",
+    "tab_title": "Gaming Mouse",
+    "tab_id": "508172927267",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Mouse",
+      "GM600 RGB Gaming Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923195171",
+    "product_name": "GM600 RGB Gaming Mouse - Black",
+    "product_title": "GM600 RGB Gaming Mouse - Black",
+    "product_url": "https://antesports.com/products/gm600-huano-switches-mouse",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13_f94a2f80-de00-4507-bcd6-16863da00df2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gm600-huano-switches-mouse.html",
+  "detail": {
+    "title": "GM600 RGB Gaming Mouse - Black",
+    "model": "AEPP0021",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GM600 is built around a high-precision 7200 DPI Instant725F optical sensor with on-the-fly sensitivity adjustment through reprogrammable dedicated DPI buttons, suiting both gaming and creative work. Huano mechanical switches under the left and right buttons deliver up to 50 million clicks of durability, keeping performance hassle-free through years of use. Provided software adds macro support, letting each button be customized with combinations to suit individual needs, while a ridged, rubberized scroll wheel increases grip and precision in high-stakes gaming moments. A 1.5m long braided cable and gold-plated USB port round out a durable, minimal-delay connection.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13_f94a2f80-de00-4507-bcd6-16863da00df2.jpg",
+        "alt": "GM600 RGB Gaming Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "DPI": "7200",
+        "Switches": "Huano Mechanical, 50M Click Rated",
+        "Cable": "1.5m Braided",
+        "Software": "Macro Support",
+        "SWITCHES": "Huano Mechanical, 50M Click Rated",
+        "CABLE": "1.5m Braided",
+        "SOFTWARE": "Macro Support",
+        "Offer Price (INR)": "₹603.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "AEPP0021"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GM600)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-GM600.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gm600-huano-switches-mouse"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 18 Wired Office Mouse with Type-C Adapter - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341843861795",
+    "product_name": "Globe 18 Wired Office Mouse with Type-C Adapter - Black",
+    "product_title": "Globe 18 Wired Office Mouse with Type-C Adapter - Black",
+    "product_url": "https://antesports.com/products/globe-18-wired-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/19_d093fa34-6fc4-490f-93ed-50d1d2881920.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-18-wired-mouse-black.html",
+  "detail": {
+    "title": "Globe 18 Wired Office Mouse with Type-C Adapter - Black",
+    "model": "ANTR0172",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 18 is a corded office mouse with an adjustable 800/1200/1600 DPI optical sensor and a fast 3300 fps tracking rate, giving smooth, low-delay cursor movement for office work, online classes and daily browsing. Its compact, ergonomic shape fits naturally in hand for fatigue-free all-day use, and a durable ABS build with switches rated for 1,000,000 clicks ensures long-term reliability. The 1.2m USB cable offers plug-and-play setup with no software required on Windows, Mac or Linux, and the package includes a bonus USB to Type-C OTG adapter for compatibility with newer laptops that lack a Type-A port.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/19_d093fa34-6fc4-490f-93ed-50d1d2881920.jpg",
+        "alt": "Globe 18 Wired Office Mouse with Type-C Adapter - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Wired USB (1.2m Cable)",
+        "DPI": "800 / 1200 / 1600 Adjustable",
+        "Tracking Rate": "3300 FPS",
+        "Bundled Accessory": "USB to Type-C OTG Adapter",
+        "Build": "ABS, 1M-Click Rated Switches",
+        "Compatibility": "Windows, Mac, Linux",
+        "Color": "Black",
+        "CONNECTIVITY": "Wired USB (1.2m Cable)",
+        "TRACKING RATE": "3300 FPS",
+        "BUNDLED ACCESSORY": "USB to Type-C OTG Adapter",
+        "BUILD": "ABS, 1M-Click Rated Switches",
+        "COMPATIBILITY": "Windows, Mac, Linux",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹149.00",
+        "MRP (INR)": "₹699.00",
+        "SKU": "ANTR0172"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-18-wired-mouse-black"
+  }
+}

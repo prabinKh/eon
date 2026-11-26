@@ -1,0 +1,149 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "Indoor Monitor",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "5787",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "Indoor Monitor",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "33457",
+    "product_name": "VTH2421FB/VTH2421FW",
+    "product_title": "IP Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/indoor-monitor/pro-series/vth2421fb/vth2421fw",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231215/1_0_01_15_10984_531011830_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth2421fw.html",
+  "detail": {
+    "title": "IP Indoor Monitor",
+    "model": "VTH2421FB/VTH2421FW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH2421FB/VTH2421FW IP Indoor Monitor Key Points > 7\" TFT Capacitive touch screen, 1024x600 > IPC surveillance > Alarm integration > High performance & Cost-effective Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231215/1_0_01_15_10984_531011830_thumb.png",
+        "alt": "VTH2421FB/FW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.01.15.11120/ProductImage/1141315852920_thumb.png",
+        "alt": "VTH2421FB-P_Image.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Model": "VTH2421FB/FW"
+      },
+      "System": {
+        "Main Processor": "Embedded Micro Processor",
+        "Operation System": "Embedded LINUX OS"
+      },
+      "Video": {
+        "Video Compression": "H.264"
+      },
+      "Audio": {
+        "Audio Compression": "G.711",
+        "Audio Input": "All-direction Microphone",
+        "Audio Output": "Built-in Loudspeaker",
+        "Bidirectional Talk": "Support Dual-way Bidirectional talk"
+      },
+      "Display": {
+        "LCD Screen": "7“ 1024x600, Capacitive"
+      },
+      "Operation Mode": {
+        "Input": "Touch Screen"
+      },
+      "Interface": {
+        "Alarm In": "6",
+        "Alarm Out": "1"
+      },
+      "Network": {
+        "Ethernet": "10M/100Mbps Self-adaptive",
+        "Network Protocol": "TCP/IP",
+        "Installation": "Surface & Desktop",
+        "Power": "DC 12V",
+        "Power Consumption": "Standby ≤1W, Work ≤7W",
+        "Working Temperature": "﹣10°C~+55°C",
+        "Relative Humidity": "10%~90%RH",
+        "Dimensions": "119.6mm×221.5mm×21.5mm",
+        "Weight": "0.35Kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/soft/20190412/VTH2421FBFW_Datasheet_20181212.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/user_manual/Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Digital VTH (Version 4.8.1)_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Digital_VTH_(Version_4.8.1)_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84192/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings VTH2421FW_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/drawings/VTH2421FW_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings VTH2421FW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/drawings/VTH2421FW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-11-21 #Drawings VTH2421FW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/drawings/VTH2421FW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-06-12 #Firmware General_VTHX421H_MultiLang_SIP_EMEA_V4.810.0000000.4.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/firmware/General_VTHX421H_MultiLang_SIP_EMEA_V4.810.0000000.4.R.260527.zip"
+      },
+      {
+        "name": "2026-06-12 #Firmware General_VTHX421H_MultiLang_SIP_CEE-Nordic_V4.810.0000000.4.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/firmware/General_VTHX421H_MultiLang_SIP_CEE-Nordic_V4.810.0000000.4.R.260527.zip"
+      },
+      {
+        "name": "2026-06-12 #Firmware General_VTHX421H_MultiLang_SIP_Asia_V4.810.0000000.4.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85427/firmware/General_VTHX421H_MultiLang_SIP_Asia_V4.810.0000000.4.R.260527.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/indoor-monitor/pro-series/vth2421fb/vth2421fw"
+  }
+}

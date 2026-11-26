@@ -1,0 +1,85 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Wifi Adapter",
+    "subcategory_url": "https://antesports.com/collections/dongles",
+    "series": "Wifi Adapter Series",
+    "series_url": "https://antesports.com/collections/dongles",
+    "tab_title": "Wifi Adapter",
+    "tab_id": "508173320483",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Wifi Adapter",
+      "AE200M WIRELESS NANO USB DONGLE"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315417452835",
+    "product_name": "AE200M WIRELESS NANO USB DONGLE",
+    "product_title": "AE200M WIRELESS NANO USB DONGLE",
+    "product_url": "https://antesports.com/products/ant-esports-wireless-nano-usb-donggle-ae200m-eta-sd-20230807211-aepp0155",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_51f277b6-e7b3-47b6-8baa-f4c9c7515cae.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-wireless-nano-usb-donggle-ae200m-eta-sd-20230807211-aepp0155.html",
+  "detail": {
+    "title": "AE200M WIRELESS NANO USB DONGLE",
+    "model": "AEPP0155",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS WIRELESS NANO USB DONGLE is a premium wireless USB dongle designed to deliver excellent performance for fast, stable wireless connectivity on PCs and laptops. Featuring IEEE 802.11B/G/N wireless standard support, speeds of up to 150 Mbps, and a USB 2.0 interface, it ensures reliability, durability, and compatibility with modern devices. Whether you are upgrading your PC's wireless connectivity or replacing a faulty adapter, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and everyday PC users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_51f277b6-e7b3-47b6-8baa-f4c9c7515cae.png",
+        "alt": "AE200M WIRELESS NANO USB DONGLE - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_ac49d9dd-3486-4b56-8c6e-a8850761030c.png",
+        "alt": "AE200M WIRELESS NANO USB DONGLE - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Wireless Standard": "IEEE 802.11B/G/N",
+        "Max. Bandwidth": "150 Mbps",
+        "WiFi Band": "2.4G Single Band",
+        "Interface": "USB 2.0",
+        "WiFi Security": "WPA3, WPA2, WPA, 64/128-bit WEP",
+        "Size": "Nano",
+        "WIRELESS STANDARD": "IEEE 802.11B/G/N",
+        "MAX. BANDWIDTH": "150 Mbps",
+        "WIFI BAND": "2.4G Single Band",
+        "INTERFACE": "USB 2.0",
+        "WIFI SECURITY": "WPA3, WPA2, WPA, 64/128-bit WEP",
+        "SIZE": "Nano",
+        "Offer Price (INR)": "₹199.00",
+        "MRP (INR)": "₹699.00",
+        "SKU": "AEPP0155"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (200M)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=AE-200M-Driver.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-wireless-nano-usb-donggle-ae200m-eta-sd-20230807211-aepp0155"
+  }
+}

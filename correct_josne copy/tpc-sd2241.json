@@ -1,0 +1,245 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/lite-series",
+    "tab_title": "TPC 2 Series",
+    "tab_id": "12117",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Lite Series",
+      "TPC 2 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "106917",
+    "product_name": "TPC-SD2241",
+    "product_title": "Thermal Network Hybrid Speed Dome Camera",
+    "product_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/lite-series/tpc-2-series/tpc-sd2241",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220513/TPC-SD2241-_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-sd2241.html",
+  "detail": {
+    "title": "Thermal Network Hybrid Speed Dome Camera",
+    "model": "TPC-SD2241",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-SD2241 Thermal Network Hybrid Speed Dome Camera Key Points • Thermal and Visible Dual Channels for 7×24h Monitoring • Tripwire & Intrusion, Human & Vehicle Classification • Integrates Multiple Advanced Perimeter Algorithms, with High Precision and Low False Alarms • Smoking & Call Detection • Built-in White Light & Audio Alarm Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220513/TPC-SD2241-_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220513/TPC-SD2241-_2_thumb.png",
+        "alt": "TPC-SD2241_2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Thermal": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "256 (H) × 192 (V)",
+        "Pixel Pitch": "12 μm",
+        "Spectral Range": "8 μm–14 μm",
+        "Sensitivity (NETD)": "≤40 mK@f/1.0",
+        "Focal Length": "3.5 mm; 7 mm; 10 mm",
+        "Field of View": "3.5 mm: H: 50.6°; V: 37.8° 7 mm: H: 24°; V: 18° 10 mm: H: 17.3° V: 13.1°",
+        "Thermal Focus Control": "Fixed-focal",
+        "Close Focus Distance": "3.5 mm: 0.5 m (1.64 ft) 7 mm: 1 m (3.28 ft) 10 mm: 1 m (3.28 ft)",
+        "Digital Detail Enhancement (DDE)": "Yes",
+        "Digital Zoom": "16 levels",
+        "Thermal AGC": "Auto/Manual",
+        "Thermal Noise Reduction": "2D NR/3D NR",
+        "Image Flip": "180°",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)"
+      },
+      "Visible": {
+        "Image Sensor": "1/2.7\" CMOS",
+        "Max. Resolution": "2336 (H) × 1752 (V)",
+        "Pixel": "4 MP",
+        "Horizontal Definition": "≥1600 TVL",
+        "Min. Illumination": "Color: 0.05 lux B/W: 0.005 lux 0 lux (IR on)",
+        "Visible AGC": "Auto/Manual",
+        "Visible Noise Reduction": "2D NR/3D NR",
+        "S/N Ratio": "≥55 dB",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; natural; street lamp",
+        "Defog": "Electronic defog",
+        "Electronic Shutter Speed": "1 s–1/30,000 s (auto/manual)",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "HLC": "Yes",
+        "Day/Night": "Auto (ICR); Color; B/W",
+        "Iris Control": "Fixed",
+        "Image Flip": "180°",
+        "Exposure Compensation": "Yes",
+        "Visible Focus Control": "Fixed-focal",
+        "Focal Length": "4 mm; 8 mm; 12 mm",
+        "Field of View": "4 mm: H: 71.2°; V: 52° 8 mm: H: 33.4°; V: 25° 12 mm: H: 22° V: 16.6°",
+        "Close Focus Distance": "4 mm: 1 m (3.28 ft) 8 mm: 2.5 m (8.20 ft) 12 mm: 2.5 m (8.20 ft)",
+        "Aperture": "4 mm: F1.6 8 mm: F2.0 12 mm: F2.0",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illumination Distance": "4 mm: 35 m (114.83 ft) 8 mm: 50 m (164.04 ft) 12 mm: 50 m (164.04 ft)"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.265; H.264; H.264H",
+        "Resolution": "Thermal: Main stream: 1.3M (1280 × 960); XVGA (1024 × 768); VGA (640 ×480/256 × 192); 1280 × 960 (default) Sub stream: VGA (640 ×480/256 × 192); 256 × 192 (default) Visible: Main stream: 2336 × 1752; 1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576); 2336 × 1752 (default) Sub stream: 720p (1280 × 720); D1 (704 × 576); CIF (352 × 288); 352 × 288 (default)",
+        "Video Frame Rate": "Thermal: Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default Visible: Main stream: 1 fps–25 fps, 25 fps by default Sub stream: 1 fps–25 fps, 15 fps by default",
+        "Audio Compression": "G.711a; G.711mu; PCM",
+        "Image Encoding Format": "JPEG"
+      },
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 360° endless Tilt: –15° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s –200°/s Tilt: 0.1°/s –120°/s",
+        "Preset Speed": "Pan: 240°/s Tilt: 200°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Pattern": "5",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Privacy Masking": "4 areas in the same view",
+        "Idle Motion": "Activate Preset/Scan/Tour/Pattern/Pan"
+      },
+      "Function": {
+        "Two-way Audio": "Yes",
+        "Sound and Light Alarm": "Yes",
+        "Network Protocol": "HTTPS; HTTP; TCP; ARP; RTSP; RTP; UDP; RTCP; SMTP; FTP; DHCP; DNS; DDNS; PPPOE; IPv4/v6; SNMP; QoS; UPnP; NTP",
+        "Region of Interest (RoI)": "Yes",
+        "Storage": "Micro SD card",
+        "Micro SD Card (Max.)": "256 GB",
+        "Interoperability": "ONVIF; CGI; Dahua SDK",
+        "Browser": "IE: IE 9 and later (Edge is not supported) Chrome: 42 and earlier Firefox: 42 and earlier",
+        "User/Host": "Up to 10 (total bandwidth: 100 MB)",
+        "Security": "Authorized username and password; attached MAC address; encrypted HTTPS; IEEE 802.1x; controlled network access",
+        "User Management": "Up to 10 users; supports multi-level user permissions (2 levels): management group and user group",
+        "Malfunction Detection": "Network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Fusion Mode": "Warm color; cold color; fuse with iron oxide red",
+        "PIP": "Yes (Intelligence automatically turns off when PIP is on)"
+      },
+      "Intelligence": {
+        "Heat Detection": "Yes",
+        "Cold/Hot Spot Trace": "Yes",
+        "IVS (Perimeter Protection)": "Yes. Supports tripwire and intrusion.",
+        "Target Distinction": "Human/Vehicle Classification",
+        "Smoking Detection": "Yes",
+        "Call Detection": "Yes"
+      },
+      "Port": {
+        "Analog Output": "1-ch CVBS output, BNC port",
+        "Network Port": "1 × RJ-45 (10/100 Base-T)",
+        "Alarm Input": "2",
+        "Alarm Output": "1",
+        "Audio Input": "1",
+        "Audio Output": "1",
+        "RS-485": "1"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 20%, PoE+ (802.3at)",
+        "Power Consumption": "Basic: <10.4 W (12 VDC); 10.5 W (PoE) Max: < 19.4 W (12 VDC); 19.6 W (PoE)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Storage Temperature": "–40 °C to +70 °C (–40 °F to +158 °F)"
+      },
+      "Physical Characteristics": {
+        "Protection": "IP66",
+        "Reliability": "Surge protection: 6 kV Air discharge of 15 kV Contact discharge of 8 kV"
+      },
+      "Structure": {
+        "Product Dimensions": "295 mm × Φ160 mm (11.61\" × Φ6.30\")",
+        "Packaging Dimensions": "267 mm × 267 mm × 437 mm (10.51\" × 10.51\" × 17.20\") (W × L × H)",
+        "Net Weight": "≤3.2 kg (7.05 lb)",
+        "Gross Weight": "≤4.7 kg (10.36 lb)"
+      },
+      "Heat Detection Distance": {
+        "Focal Length": "Max. Distance",
+        "3.5 mm": "45 m (147.64 ft)",
+        "7 mm": "86 m (282.15 ft)",
+        "10 mm": "123 m (403.54 ft)"
+      },
+      "Note: The table displays the measured distances obtained from using the target size 0.2 m × 0.2 m for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {},
+      "Perimeter Protection Distance (IVS Distance)": {
+        "Focal Length": "Distance (Vehicle)",
+        "3.5 mm": "73.5 m (241.14 ft)",
+        "7 mm": "147 m (482.28 ft)",
+        "10 mm": "210 m (688.98 ft)"
+      },
+      "Note: The table displays the optimal distance obtained from using the target sizes 1.8 m × 0.5 m (human) and 4 m × 1.4 m (vehicle) for testing in an environment where the temperature is 23 °C and the relative humidity is below 60%. The table is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more.": {},
+      "DRI Distance": {
+        "Focal Length": "Detection Distance①",
+        "3.5 mm": "Vehicle: 447 m (1,466.54 ft); Human: 146 m (479.00 ft)",
+        "7 mm": "Vehicle: 894 m (2,933.07 ft); Human: 292 m (958.01 ft)",
+        "10 mm": "Vehicle: 1,278 m (4,192.91 ft); Human: 417 m (1,368.11 ft)"
+      },
+      "①Detection Distance: Detects objects, but cannot recognize their characteristics (objects must cover more than 1.5 pixels of the image). ②Recognition Distance: Classifies objects into general categories, such as human, vehicle (the object must cover more than 6 pixels of the image). ③Identification Distance: Classifies objects into specific categories based on their characteristics, such as engineering truck, car (the object must cover more than 12 pixels of the image).": {},
+      "Note: The table is the standard theoretical calculation and is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. For the intelligent detection distance, refer to the table of Perimeter Protection Distance (IVS Distance) above.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/TPC-SD2241_datasheet_20250421.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network PTZ Camera_Web5.0 Operation Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16717/user_manual/Thermal_Network_PTZ_Camera_Web5.0_Operation_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network PTZ Camera_Web3.0 Operation Manual_V2.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16717/user_manual/Thermal_Network_PTZ_Camera_Web3.0_Operation_Manual_V2.0.5.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network Mini Hybrid Speed Dome_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16717/user_manual/Thermal_Network_Mini_Hybrid_Speed_Dome_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-11 #User Manual Thermal Network Mini Hybrid Speed Dome_Quick Start Guide_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16717/user_manual/Thermal_Network_Mini_Hybrid_Speed_Dome_Quick_Start_Guide_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-01-12 #A&E Document TPC-SD2241_A&E_20260313191950 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45887/a_e_document/1779421912417.docx"
+      },
+      {
+        "name": "2021-12-31 #Drawings TPC-SD2241_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45877/drawings/TPC-SD2241-T_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-06-05 #Firmware General_TPC-NYX5203-TBWXA_V1.000.0000000.0.R.20260429 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/45877/firmware/General_TPC-NYX5203-TBWXA_V1.000.0000000.0.R.20260429.zip"
+      },
+      {
+        "name": "2022-01-15 #Firmware General_TPC-SD49XXX-HN_MCU_V2.401.0000000.1.R.191031 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/60237/firmware/General_TPC-SD49XXX-HN_MCU_V2.401.0000000.1.R.191031.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/lite-series/tpc-2-series/tpc-sd2241"
+  }
+}

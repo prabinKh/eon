@@ -1,0 +1,150 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series",
+    "tab_title": "1080P",
+    "tab_id": "9442",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Pro Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "99077",
+    "product_name": "HAC-HDW2249TLM-A-LED",
+    "product_title": "2MP Full-color HDCVI Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/1080p/full-color/hac-hdw2249tlm-a-led",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210915/DH-HAC-HDW2249TLM-A-LED_Image_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hdw2249tlm-a-led.html",
+  "detail": {
+    "title": "2MP Full-color HDCVI Eyeball Camera",
+    "model": "HAC-HDW2249TLM-A-LED",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HDW2249TLM-A-LED 2MP Full-color HDCVI Eyeball Camera Key Points • High-Quality Imaging with 1080P Resolution • Full-color: 24/7 color monitoring collects highly detailed information • 20 m Illumination Distance for Superior Camera Image Quality • Built-In Mic : Enhances Video Assistance with Audio Technology • 3DNR & 130dB WDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions • Effortless Signal Selection with DIP Switch • IP67 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210915/DH-HAC-HDW2249TLM-A-LED_Image_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Image Sensor": {
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Pixel": "2MP",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/3 s–1/100,000 s NTSC: 1/4 s–1/100,000 s",
+        "S/N Ratio": "> 65 dB",
+        "Min. Illumination": "0.0002 Lux/F1.0, 0 Lux White Light on",
+        "Illumination Distance": "20 m (65.6 ft)",
+        "Illuminator On/Off Control": "Auto; manual",
+        "Illuminator Number": "1",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°\""
+      },
+      "Lens": {
+        "Lens Type": "Fixed lens",
+        "Mount Type": "M12",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F1.0",
+        "Field of View": "2.8 mm: H: 106°; V: 55°; D: 125° 3.6 mm: H: 84°; V: 44°; D: 99°\"",
+        "Iris Type": "Fixed iris",
+        "Close Focus Distance": "2.8 mm: 1 m (3.3 ft) 3.6 mm: 1.7 m (5.6 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "45.5 m (149.3 ft)",
+        "3.6 mm": "55.2 m (181.1 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Frame Rate": "CVI: PAL: 1080P@25fps NTSC: 1080P@30fps AHD: PAL: 1080P@25fps NTSC: 1080P@30fps TVI: PAL: 1080P@25fps NTSC: 1080P@30fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "1080P (1920×1080); (960H×960× 576/960×480)",
+        "BLC": "BLC/HLC/WDR/HLC-Pro",
+        "WDR": "120dB",
+        "White Balance": "Auto; Area white balance",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "3D NR",
+        "Smart Light": "Yes",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (8 area, rectangle)"
+      },
+      "Certifications": {
+        "Certifications": "CE (EN55032, EN55024, EN50130-4, EN62368-1) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014) UL (UL60950-1+CAN/CSA C22.2 No.60950-1)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port (DIP Switch)",
+        "Audio Input": "One channel built-in mic"
+      },
+      "Power": {
+        "Power Supply": "12V ±30% DC",
+        "Power Consumption": "Max 4.2W (12V DC, warm light on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40°C to +60°C (–40°F to 140°F) ; < 95% (non-condensation)",
+        "Storage Temperature": "–40°C to +60°C (–40°F to 140°F) ; < 95% (non-condensation)",
+        "Protection Grade": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal throughout the whole casing",
+        "Camera Dimensions": "φ94 mm × 78 mm (φ3.7\" × 3.1\")",
+        "Net Weight": "0.34 kg (0.75 lb)",
+        "Gross Weight": "0.48 kg (1.06 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HDW2249TLM-A-LED_S0_datasheet_20240701.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87648/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2021-08-17 #Drawings HAC-HDW2249TLM-A-LED_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84299/drawings/HAC-HDW1801TLM-IL-A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-02-22 #Drawings HAC-HDW2249TLM-A-LED_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84452/drawings/HAC-HDW1500TLM-A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/pro-series/1080p/full-color/hac-hdw2249tlm-a-led"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "C800Lite",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c800lite",
+    "tab_title": "C800Lite",
+    "tab_id": "18234",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "C800Lite",
+      "C800Lite"
+    ]
+  },
+  "card_info": {
+    "product_id": "153079",
+    "product_name": "SSD-C800RS1TB",
+    "product_title": "2.5 inch SATA SSD",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c800lite/ssd-c800rs1tb",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10804/ProductImage/1_0_01_06_10804_644588253_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-c800rs1tb.html",
+  "detail": {
+    "title": "2.5 inch SATA SSD",
+    "model": "SSD-C800RS1TB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-C800RS1TB 2.5 inch SATA SSD Key Points · Adopts high-quality wafer level chip. · Supports SATA III protocol with transmission speed up to 540 MB/s. · View information through S.M.A.R.T. · Provides better read and write performance with TRIM and NCQ. · Low power consumption management. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10804/ProductImage/1_0_01_06_10804_644588253_crop_thumb.PNG",
+        "alt": "SSD-C800RS1TB_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10804/ProductImage/1_0_01_06_10804_644589265_crop_thumb.PNG",
+        "alt": "SSD-C800RS1TB_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_06_10804/ProductImage/1_0_01_06_10804_644588250_crop_thumb.PNG",
+        "alt": "SSD-C800RS1TB_View_Bottom-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-SSD-C800RS1000G",
+        "Capacity1": "1000GB",
+        "Form Factor": "2.5 inch",
+        "Port": "SATA III 6Gb/s",
+        "Net Weight": "max 40g",
+        "Product Dimensions2": "100.20 mm × 69.90 mm × 7.00 mm (3.94\" × 2.75\" × 0.28\")",
+        "Packaging Dimensions": "130 mm × 104 mm × 17 mm (5.12\" × 4.09\" × 0.67\")",
+        "Memory Component": "3D NAND FLASH",
+        "Power Consumption2": "0.80W (idle) 1.96W (max)",
+        "S.M.A.R.T": "Support",
+        "TRIM": "Support",
+        "Garbage Collection": "Support",
+        "Sequential Read2": "up to 450MB/s",
+        "Sequential Write2": "up to 350MB/s",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0°C to +70°C (+32°F to +158°F)",
+        "Storage Temperature": "–40°C to +85°C (–40°F to +185°F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10-200Hz, 0.5G",
+        "TBW": "400TB",
+        "Warranty3": "3-year limited warranty",
+        "Reference Information": "1. Capacity calculation: 1GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partition, operating system applications, or other necessary usage). 2.System configuration of performance test: Chip-AMD Ryzen 5 5600X 6-Core Processor 3.70GHz, 8GB DDR4, operating system-Windows 10 x64, testing tool-CrystalDiskMark 8.0.4 x64. 3.Warranty period or maximum write amount (TBW), whichever comes first. 4.High performance SLC cache has been enabled. 5. The data comes from Zhejiang Huayixin Technology Co., Ltd Laboratory. The actual performance might differ depending on the device it is being used with."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-C800RS128G_Datasheet_20240808.pdf"
+      },
+      {
+        "name": "2025-07-09 #User Manual SSD-2.5 inch-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010080/202507/SSD-2.5_inch-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings SSD-C800RS1TB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49837/drawings/SSD-C800AS2000G_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-06-04 #Drawings SSD-C800RS1TB_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48397/drawings/SSD-S820GS1TB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c800lite/ssd-c800rs1tb"
+  }
+}

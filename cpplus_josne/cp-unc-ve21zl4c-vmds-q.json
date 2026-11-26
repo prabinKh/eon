@@ -1,0 +1,180 @@
+{
+  "hierarchy": {
+    "category": "2 MP",
+    "category_url": "https://cpplusworld.com/products/2-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/2-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "40",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "2 MP",
+      "CP-UNC-VE21ZL4C-VMDS-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "1981",
+    "product_name": "CP-UNC-VE21ZL4C-VMDS-Q",
+    "product_title": "CP-UNC-VE21ZL4C-VMDS-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-ve21zl4c-vmds-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/82711636-2b6d-4454-8b3b-1070eb60d811.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-ve21zl4c-vmds-q.html",
+  "detail": {
+    "title": "CP-UNC-VE21ZL4C-VMDS-Q",
+    "model": "CP-UNC-VE21ZL4C-VMDS-Q",
+    "brand": "CP Plus",
+    "overview": "2MP Network IR Vandal Dome Camera - 40Mtr.",
+    "features": [
+      "1/2.8” 2MP PS CMOS Image Sensor (0.9071 Centimeter)",
+      "Max. 2MP (1920 × 1080)@1–25/30 fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG, Quad Stream",
+      "WDR(120dB), Day/Night(ICR), 3D NR, Defog, BLC, HLC, AWB, AGC",
+      "2.7mm ~13.5mm Motorized lens",
+      "IR Range of 40 Mtr.",
+      "Support Starlight Technology",
+      "Built in Mic, Digital, Micro SD, IP67, IK10, PoE",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/82711636-2b6d-4454-8b3b-1070eb60d811.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/4b6a4b71-f81a-48c5-a9ac-7716057d24c3.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8c3426b5-8341-4c2b-84e5-2ed62fdfd495.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3b5afa8b-425e-4898-9a24-856e5af2a6f5.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ec1cec40-b863-48b5-8886-f6c3a6b55264.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/851a7f0d-6c4c-4f77-a9f9-096ca6a1080a.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/07a82055-f81a-403d-8c0c-56b52ff7871e.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/7faefca2-ae63-4642-b633-4a8450682f86.png",
+        "alt": "CP-UNC-VE21ZL4C-VMDS-Q - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8” 2MP PS CMOS Image Sensor (0.9071 Centimeter)",
+        "Minimum Illumination": "0.006 Lux@F1.6(Color,30IRE), 0.0006 Lux@F1.6(B/W,30IRE), 0 lux (IR on)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Angle Adjustment": "Pan: 0°–355°, Tilt: 0°–65°, Rotation: 0°–355°",
+        "RAM": "512 MB",
+        "ROM": "128 MB",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "Lens": "2.7mm~13.5mm",
+        "Gain Control(AGC)": "Auto",
+        "Lens Mount": "φ14",
+        "Lens Type": "Motorized vari-focal",
+        "IR Number": "3 IR LED",
+        "IR": "IR Range of  40 Mtr.",
+        "Max. Aperture": "F1.6",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "0.8 Mtr.",
+        "DORI Distance": "Lens W: 44.1 Mtr. (Detect), 17.7 Mtr. (Observe), 8.8 Mtr. (Recognize), 4.4 Mtr.(Identify)                    Lens T: 144.8 Mtr. (Detect), 57.9Mtr. (Observe), 29.0Mtr. (Recognize), 14.5 Mtr. (Identify)",
+        "Back Light Compensation": "BLC / HLC / WDR(120dB)",
+        "Angle of view": "H: 109°–30°, V: 56°–17°, D: 131°–35°",
+        "S/N Ratio": ">56 dB",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by the sub stream)",
+        "Resolution": "2MP(1920 × 1080), 1.3MP(1280 × 960), 1MP(1280 × 720), D1(704 × 576/ 704 × 480), VGA(640  × 480), CIF(352 × 288/ 352 × 240)",
+        "Video Format": "PAL/NTSC",
+        "Stream Capability": "Quad Stream",
+        "Frame Rate": "Main stream: 2MP/1.3MP/1MP @(1-25/30fps)                                                                                                  Sub stream 1: D1/VGA/CIF@(1-25/30fps)                                                                                                     Sub stream 2: 2MP/1.3MP/1MP/D1@(1-25/30fps)                                                                                          Sub stream 3: D1/VGA/CIF@(1-25/30fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265: 3 kbps–8192 kbps, H.264: 3 kbps–8192 kbps",
+        "Noise Reduction": "3D NR",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "Motion Detection": "OFF/ON (4 Areas, Rectangular)",
+        "Privacy Mask": "4 Area",
+        "ROI": "Support (4 Areas)",
+        "Overlay": "Privacy Masking, Channel Title, Time Title, Location, Custom Title, Face Statistics",
+        "OTA (Over-The-Air)": "Support",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, DDNS,  QoS, UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3,  ONVIF (Profile S, Profile G, Profile T), InstaOn",
+        "IVS (Perimeter Protection)": "Intrusion, Tripwire, Abandon Object, Crowd gathering, Missing Object, Loitering Detection,  IMD (support the classification and accurate detection of vehicle and human), Loitering                 detection",
+        "Face Detection": "Face detection, Target Box Overlay,  Remove Duplicate, Faces  Face Cutout (Face/ One Inch  Photo/ Custom) , Snapshot Mode (Real- Time/ Optimized/ Quality Priority), Optimal face snap shot upload; face attributes extraction including 6 attributes and 8 expressions; snapshot  strategies (real-time snapshot, quality priority and optimization snapshot); face angle filter;  Optimized Duration, Quality Threshold, Snapshot Sensitivity",
+        "People Counting": "Tripwire people counting, generating and exporting report (day/week/month/year), people  counting in area and queue management, generating and exporting report (day/week/ month); 4 rules can be set for tripwire, people counting in area and queue management",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 1080p resolution and lower)",
+        "Mirror Function": "Support",
+        "Audio": "Built in Mic",
+        "Audio Compression": "PCM, G.711a, G.711Mu, G.726, AAC",
+        "Two-way talk": "Support",
+        "Audio Input": "1 Channel (RCA port)",
+        "Audio Output": "1 Channel (RCA port)",
+        "Alarm IN": "1 Channels in: 5mA 3V–5V DC",
+        "Alarm Out": "1 Channel out: 300mA 12V DC",
+        "SDK and API": "Support",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Event Alarm": "No SD card, SD card full, SD card error, Network disconnection, IP conflict, Motion detection,  Video tampering, Tripwire, Intrusion, Abandoned object, Missing object, Loitering detection,  Crowd gathering, Scene changing, Audio detection, Voltage detection, External alarm, Face  detection, IMD, People counting in area, Stay detection, People counting, Abnormal Number  of People, Queue people number alarm, Queue time alarm, Security exception, Defocus               detection",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, trusted execution, Digest, security logs,  WSSE, account lockout, syslog, video encryption, 802.1x, Allow list/Block list, HTTPS, trusted  upgrade, trusted boot, firmware encryption",
+        "User/Host": "20 (Total bandwidth: 80 Mbps)",
+        "Defog": "Support",
+        "Reset Button": "Support",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512GB)",
+        "Browser": "Microsoft, Edge and Chrome",
+        "Certificates": "MTBF Certificate from STQC, ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC  approved compliance report",
+        "Weatherproof Standard": "IP67 & IK10",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95% RH, non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "10%–95% RH, non-condensing",
+        "Power Source": "12 VDC/24 VAC/PoE (802.3af)",
+        "Power Consumption": "Basic: 1.6 W (12 VDC), 1.9 W (24 VAC), 3.1 W (PoE)                                                                                     Max. (H.265 + WDR + Intelligence on + IR on: 7.9 W (12 VDC), 9.5 W (24 VAC), 9.9W (PoE)",
+        "Casing": "Metal + Plastic",
+        "Dimension": "159.1 mm × 118.1 mm",
+        "Weight": "910g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-VE21ZL4C-VMDS-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-ve21zl4c-vmds-q"
+  }
+}

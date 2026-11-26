@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Dash cam",
+    "category_url": "https://cpplusworld.com/products/dash-cam",
+    "subcategory": "CarKam",
+    "subcategory_url": "https://cpplusworld.com/products/CarKam/dashcam",
+    "series": "CarKam",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "CarKam",
+    "tab_id": "119",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "CarKam",
+      "Dash cam",
+      "CP-F89B"
+    ]
+  },
+  "card_info": {
+    "product_id": "2251",
+    "product_name": "CP-F89B",
+    "product_title": "CP-F89B",
+    "product_url": "https://cpplusworld.com/cp-f89b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/3714e3fe-de20-4ba9-9fdb-f09ba7bd93c9.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-f89b.html",
+  "detail": {
+    "title": "CP-F89B",
+    "model": "CP-F89B",
+    "brand": "CP Plus",
+    "overview": "CarKam 8MP with Rear Camera",
+    "features": [
+      "4K Resolution",
+      "Support SD Card upto 1TB (Class 10 U3)",
+      "Sony Starvis 2",
+      "G-Sensor (Emergency Recording)",
+      "Time Lapse",
+      "Built-in GPS",
+      "Built-in Display"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3714e3fe-de20-4ba9-9fdb-f09ba7bd93c9.png",
+        "alt": "CP-F89B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/3baf0173-d2c0-4432-8984-b79a615a1461.png",
+        "alt": "CP-F89B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Angle of view": "Front Camera: H=112°, D=129°, V=61° <br/>Rear Camera: H=102°, D=124°, V=53°",
+        "Image Sensor": "Front Camera: 1/1.8” Image sensor (1.411 centimeters) , <BR> Rear Camera: 1/2.9” Image sensor (0.8758 centimeters)",
+        "Lens": "Front Camera: 4.05 mm, <BR>Rear Camera: 3.35 mm",
+        "Max. Aperture": "Front Camera:  F1.8, <BR> Rear Camera: F2.0",
+        "Compression": "Front Camera: H.265",
+        "Resolution": "Front Camera: 8MP, <BR> Rear Camera: 2MP",
+        "Screen type": "IPS (In-Plane Switching)",
+        "Screen size": "3",
+        "Screen Resolution": "360 x 640 (RGB)",
+        "Video Format": "MP4",
+        "Video resolution": "8MP (3840 x 2160P)@25fps + 2MP (1920 x 1080P)@25fps",
+        "Smart Features": "Voice Prompt, G-Sensor (Emergency Recording), Built-in GPS, Parking Mode*, WDR",
+        "Record Type": "Audio Recording, Regular Recording, Emergency Recording, Time-Lapse*",
+        "Parking Mode": "Support (Type C Hardwire Kit)",
+        "Mobile App": "CarKam (Available for iOS and Android)",
+        "SD Card": "1TB Max. (Class 10 U3 Category)",
+        "Microphone": "Support",
+        "Speaker": "Support",
+        "Casing": "PC+ABS",
+        "Power Source": "5V/4.8A Type C",
+        "Operating Temperature": "-10°C~60°C",
+        "Storage temperature": "-20°C~70°C",
+        "Dimensions": "93.25mm x 50.75mm x 41mm(including lens)",
+        "Certificates": "ISO 9001: 2015, ISO 14001 : 2015, ISO 45001 : 2018, ISO 20000-1 : 2018, ISO 50001:2018, CE, FCC and RoHS, BIS"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-F89B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/de3e18e5-a415-4861-94f8-1474925a2f0c.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-f89b"
+  }
+}

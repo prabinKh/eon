@@ -1,0 +1,165 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Spotter Series",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Spotter Series",
+    "tab_id": "14727",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Spotter Series",
+      "Spotter Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "111767",
+    "product_name": "HWS1600D",
+    "product_title": "Speed Measuring System",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/spotter-series/spotter-mobile/hws1600d",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220802/HWS1600D_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/hws1600d.html",
+  "detail": {
+    "title": "Speed Measuring System",
+    "model": "HWS1600D",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HWS1600D Speed Measuring System Key Points 1. Monitors real-time conditions through LCD display or the web page of the device. 2. Supports traffic flow statistics by minute. 3. Detection of traffic violations such as overspeed, underspeed, wrong-way driving, and more. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220802/HWS1600D_thumb.png",
+        "alt": "HWS1600D",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Snapshot Resolution": "16 MP, 5320 × 3032 pixels",
+        "Video Resolution": "16 MP, 5320 × 3032 pixels",
+        "Image Sensor": "1.1'' GS CMOS",
+        "Transmission Mode": "TCP/IP, FTP",
+        "Image Compression": "JPEG",
+        "Video Format": "H.265/H.264M/H.264H/H.264B/MJPEG",
+        "Video Frame Rate": "1 fps–30 fps",
+        "Lane Coverage": "1–4 lane(s)",
+        "Speed Measurement Range": "5 km/h–300 km/h",
+        "Speed Measurement Accuracy": "Simulated Speed Measurement Error Range: ± 1km/h"
+      },
+      "On-site Speed Measurement Error Range: Vehicle speed <100 km/h: ±2km/h Vehicle speed ≥100 km/h: ±2%": {
+        "Radar Response Time": "30 ms",
+        "Transmit Power": "<20 dBm (100 mW)",
+        "Storage Capacity": "1000 GB (standard), PCIe 2280 M.2 SSD",
+        "Radar Frequency": "24.00 GHz–24.25 GHz",
+        "Beam Width": "Horizontal: ±23° (–3 dB), Pitch angle: ±12° (–3 dB)",
+        "White Balance": "Full-automation;High color temperature;Partial auto;Low color temperature;Autocolor temerature",
+        "Data Ports": "1 RS-232 port, 1 RS-485 port, 1 1000M Ethernet port, 1 USB3.0 port",
+        "Lithium Battery Port": "1 port of 14.4 V 12.12 AH lithium battery",
+        "Power Input Port": "24 VDC;power adapter supports 100 VAC to 240 VAC, 50 Hz–60 Hz",
+        "Power Output Port": "1 12 VDC power output port, with maximum power of 12 W",
+        "Flash Sync Port": "2",
+        "Lens Mount": "C mount",
+        "Lens": "Included",
+        "Focal": "16mm-40mm",
+        "Lens Type": "Motorized vari-focal"
+      },
+      "Capture Triggering Mode": {
+        "Triggered by Radar": "Yes"
+      },
+      "Special Function": {
+        "License Plate Recognition": "≥95%",
+        "License Plate Cutout": "Yes",
+        "Multi-target Tracking and Recognition": "Recognizes more than 64 vehicles at distance of 15 m–60 m (49.21 ft–196.85 ft)",
+        "Positioning": "GPS positioning",
+        "Composite Image": "Yes, 1, 2, 3 or 4 snapshot (s) can be composited, and composition method can be selected",
+        "Image Wireless Transmission": "3G/4G, WIFI",
+        "3G/4G Type": "GSM/WCDMA/LTE",
+        "3G/4G Frequency Range": "LTE FDD:B1/B3/B7/B8/B20/B28 LTE TDD:B38/B40 WCDMA:B1/B8 GSM:900/1800 MHz",
+        "3G/4G Power Transmission": "LTE: Power class3: 23 dBm ± 2 dB WCDMA: Power class3: 24 dBm+1/-3 dB GSM: Power class0: 30 dBm ± 2 dB (GSM1800) Power class5: 33 dBm ± 2 dB (GSM900)",
+        "WIFI Standard": "802.11b/g/n",
+        "WIFI Frequency Range": "2400–2483.5 MHz",
+        "WIFI Power Transmission": "CE EIRP: ≤20 dBm@2400–2483.5 MHz",
+        "Auto Registration": "Yes",
+        "Automatic Network Replenishment (ANR)": "Yes",
+        "Time Synchronization": "Local/GPS/NTP",
+        "Speed Overlay": "Overlays vehicle speed to the front or rear side of a vehicle in the video image",
+        "Video Storage": "Records and stores videos of traffic violations by periods",
+        "Storage Space": "Supports setting picture and video storage quota to ensure enough storage space of pictures",
+        "ICR Switch": "Day/night ICR switch",
+        "Remote Control": "Remote control through the web interface or the client",
+        "OSD Overlay": "Supports overlaying date, time, location, plate number, plate color, model, vehicle speed, speed limit, radar direction, violation code, device No., anti-counterfeit code, and more",
+        "Watermark": "Watermark verification on the web interface",
+        "Image Tampering Prevention": "Yes. Watermark is available for pictures and videos"
+      },
+      "General": {
+        "Operating Voltage": "24 VDC; power adapter supports 100 VAC to 240 VAC, 50 Hz–60 Hz",
+        "Average Power Consumption": "<25 W (in screen saver mode)",
+        "Operating Temperature": "Lithium battery included: –20 °C to +60 °C (–4 °F to +140 °F)"
+      },
+      "Lithium battery excluded: –40 °C to +65 °C (–40 °F to +149 °F)": {
+        "Relative Humidity": "20%–90% (RH, non-condensing)",
+        "Dimensions": "238.0 mm × 196.0 mm × 277.6 mm (9.37'' × 7.72'' × 10.93'') (L × W × H)",
+        "Net Weight": "6.5kg(14.3lb)",
+        "Gross Weight": "9.0 kg (19.84 lb)",
+        "Protection": "IP54",
+        "Certifications": "CE-LVD: EN61010-1 CE-EMC: EN300440; EN301908; EN300328; EN301489; EN62311 CE-RED: EN55032; EN55035; EN61000-3-2; EN61000-3-3; OIML R91 (for built-in radar)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49347/datasheet/HWS1600D_datasheet_20260304.pdf"
+      },
+      {
+        "name": "2025-01-06 #User Manual Speed Measuring Device_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006761/202501/Speed_Measuring_Device_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-01-06 #User Manual Dahua Speed Measuring Device_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0006761/202501/Dahua_Speed_Measuring_Device_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-10-22 #A&E Document HWS1600D_A&E_20260901230058 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49347/a_e_document/1788275456837.docx"
+      },
+      {
+        "name": "2022-11-01 #Drawings HWS1600D_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49347/drawings/HWS1600D_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-11-01 #Drawings HWS1600D_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/49347/drawings/HWS1600D_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-05-09 #Firmware General_HWS1600D_Eng_PN_Oversea_4G_V4.000.0000000.2.R.250410 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3172129/M/General_HWS1600D_Eng_PN_Oversea_4G_V4.000.0000000.2.R.250410.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/spotter-series/spotter-mobile/hws1600d"
+  }
+}

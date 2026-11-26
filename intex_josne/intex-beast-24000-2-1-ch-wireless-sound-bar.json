@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "Sound Bar",
+    "subcategory_url": "https://www.intex.in/collections/sound-bar",
+    "series": "soundbar",
+    "series_url": "https://www.intex.in/collections/soundbar",
+    "tab_title": "Sound Bar",
+    "tab_id": "8900298113242",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "Sound Bar",
+      "Intex Beast 24000 2.1 Ch Wireless Sound Bar"
+    ]
+  },
+  "card_info": {
+    "product_id": "8900298113242",
+    "product_name": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+    "product_title": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+    "product_url": "https://www.intex.in/products/intex-beast-24000-2-1-ch-wireless-sound-bar",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_a3ca4cb0-2a55-4223-9035-187321d943b2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 19499.0,
+      "display": "₹19,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-beast-24000-2-1-ch-wireless-sound-bar.html",
+  "detail": {
+    "title": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+    "model": "24000-2-1",
+    "brand": "Intex",
+    "overview": "Intex Beast 24000 2.1 Ch Bluetooth/Wireless Sound Bar Ditch the tiny TV speakers and transform your living room into a sonic sanctuary with 240W of immersive sound, a wireless subwoofer that delivers gut-punching bass, and media controls that put the power at your fingertips. This sleek 2.1 channel marvel boasts a design so sophisticated, it'll blend seamlessly with your setup, leaving only the mind-blowing audio experience for you to marvel at.",
+    "features": [
+      "240W Power for intense and dynamic sound",
+      "2.1 Channels give an immersive audio experience",
+      "8\" Subwoofer for deep, resonant bass",
+      "Wireless setup for clutter-free convenience",
+      "Elegant design that complements any decor",
+      "Media Control with intuitive playback controls"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_a3ca4cb0-2a55-4223-9035-187321d943b2.jpg",
+        "alt": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_49c80272-7207-4165-9e06-89da0e000a3d.jpg",
+        "alt": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_8c289cb9-1dc0-4c15-af97-293b0bc1e67e.jpg",
+        "alt": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-9_1bc2ce97-66a1-4979-bc8d-f85d0176fe2e.jpg",
+        "alt": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-10.jpg",
+        "alt": "Intex Beast 24000 2.1 Ch Wireless Sound Bar",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "240W Power for intense and dynamic sound",
+        "Feature 2": "2.1 Channels give an immersive audio experience",
+        "Feature 3": "8\" Subwoofer for deep, resonant bass",
+        "Feature 4": "Wireless setup for clutter-free convenience",
+        "Feature 5": "Elegant design that complements any decor",
+        "Feature 6": "Media Control with intuitive playback controls"
+      },
+      "General": {
+        "Model": "24000-2-1"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Beast_24000_W__PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-beast-24000-2-1-ch-wireless-sound-bar"
+  }
+}

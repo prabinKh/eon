@@ -1,0 +1,196 @@
+{
+  "hierarchy": {
+    "category": "Thermal Products",
+    "category_url": "https://www.dahuasecurity.com/products/thermal-products",
+    "subcategory": "Thermal Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras",
+    "series": "Pro Series",
+    "series_url": "https://www.dahuasecurity.com/products/thermal-products/thermal-cameras/pro-series",
+    "tab_title": "TPC 5 Series",
+    "tab_id": "12127",
+    "breadcrumbs": [
+      "Thermal Products",
+      "Thermal Cameras",
+      "Pro Series",
+      "TPC 5 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "155041",
+    "product_name": "TPC-BF5601",
+    "product_title": "Thermal Network Bullet Camera",
+    "product_url": "https://www.dahuasecurity.com/my/products/thermal-products/thermal-cameras/pro-series/tpc-5-series/tpc-bf5601",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/image/1_0_01_34_14536_372238256_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "thermal-products/products/tpc-bf5601.html",
+  "detail": {
+    "title": "Thermal Network Bullet Camera",
+    "model": "TPC-BF5601",
+    "brand": "Dahua",
+    "overview": "Compare Favourite TPC-BF5601 Thermal Network Bullet Camera Key Points • Thermal Channels for 7×24h Monitoring • Integrates Multiple Advanced Perimeter Algorithms, with High Precision and Low False Alarms • ePoE Supports Up to 800m Long Transmission Distance (CAT-6 Cable) • Multiple Output Interface (CVBS Output; BNC Port) • IP67 Protection and Operates from -40°C to +70°C for Extreme Environmental Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/image/1_0_01_34_14536_372238256_crop_thumb.png",
+        "alt": "TPC-BF5601_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/image/1_0_01_34_14536_372238257_crop_thumb.png",
+        "alt": "TPC-BF5601_View_Lot-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/image/1_0_01_34_14536_372238258_crop_thumb.png",
+        "alt": "TPC-BF5601_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/image/1_0_01_34_14536_887470605_temporary_thumb.png",
+        "alt": "TPC-BF5601_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Thermal Camera": {
+        "Detector Type": "Vanadium oxide uncooled focal plane detector",
+        "Effective Pixels": "640 (H) × 512 (V)",
+        "Pixel Size": "17 μm",
+        "Thermal Sensitivity (NETD)": "40 mK",
+        "Spectral Range": "8 μm–14 μm",
+        "Image Setting": "Brightness/Sharpness/ROI/AGC/FFC/3D DNR",
+        "Color Palettes": "18 (white hot/black hot/fusion/rainbow/golden autumn/midday/iron red/amber/jade/sunset/icefire/painting/pomegranate/emerald /spring/summer/autumn/winter)"
+      },
+      "Thermal Lens": {
+        "Lens Type": "Fixed/F1.0",
+        "Focus Control": "Athermalized, Focus-free",
+        "Focal Length": "7.5 mm; 13 mm; 25 mm; 35 mm",
+        "Angle of View": "7.5 mm: H: 91.2°; V: 70.3° 13 mm: H: 48.9°; V: 38.8° 25 mm:H: 24.6°; V: 19.8° 35 mm:H: 17.6°; V: 14.1°"
+      },
+      "Video": {
+        "Compression": "H.265; H.264; MJPEG",
+        "Frame Rate": "Main Stream: Thermal: 1280 × 1024; 720p; 640 × 512@25/30 fps Sub Stream: Thermal: 640 × 512; 320 × 256@25/30 fps",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.264: 640–8192 Kbps",
+        "Motion Detection": "Off/On (4 zone, Rectangle)",
+        "Region of Interest": "Off/On (4 zone)",
+        "Digital Zoom": "4 × (24 levels)",
+        "Flip": "180°",
+        "Mirror": "Off/On",
+        "Privacy Masking": "Off/On (4 area, Rectangle)"
+      },
+      "Audio": {
+        "Compression": "G.711A; G.711Mu; AAC; PCM"
+      },
+      "Intelligence": {
+        "IVS": "Tripwire, Intrusion",
+        "Advanced Intelligent Functions": "Heat detection & alarm, Cold/Hot spot trace, Human/Vehicle classification"
+      },
+      "Network": {
+        "Ethernet": "RJ-45",
+        "Protocol": "IPv4/IPv6; HTTP; HTTPS; SSL; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP; RTSP; RTP; SMTP; NTP; DHCP; DNS; PPPOE; DDNS; FTP; IP Filter; QoS; Bonjour; 802.1x",
+        "Interoperability": "ONVIF Profile S & G, API",
+        "Streaming Method": "Unicast/Multicast",
+        "Max. User Access": "10 Users/20 Users",
+        "Edge Storage": "Micro SD (256GB) Memory status display (Normal / Error / Active / Formatting / Lock), NAS (Network Attached Storage), Local PC for instant recording",
+        "Web Viewer": ">IE8;",
+        "Management Software": "SmartPSS; DSS",
+        "Smart Phone": "Android; iOS"
+      },
+      "Certifications": {
+        "Certification": "CE (EN 60950: 2000); FCC (FCC Part 15 SubpartB )"
+      },
+      "Port": {
+        "Video Interface": "1 Port (CVBS/BNC)",
+        "Audio Interface": "1/1 In/Out",
+        "RS485": "Yes",
+        "Alarm": "2/2 In/Out"
+      },
+      "Electrical": {
+        "Power Supply": "12 VDC/PoE/ePoE",
+        "Power Consumption": "Max. 13 W"
+      },
+      "Environmental": {
+        "Operating Condition": "–40°C to +70°C (–40°F to +158°F)/Less than 95% RH * Start up should be done at above -40°C (-40°F)",
+        "Storage Conditions": "–40°C to +70°C (–40°F to +158°F)/Less than 95% RH",
+        "Ingress Protection": "IP67"
+      },
+      "Construction": {
+        "Casing": "Metal",
+        "Dimensions": "291 mm × 103 mm × 97 mm (11.46\" × 4.06\" × 3.82\") (L × W × H)",
+        "Net Weight": "1.5 Kg (3.31 lb)",
+        "Gross Weight": "1.9 Kg (4.19 lb)"
+      },
+      "DRI Distance": {
+        "Focal Length": "Detection Distance①",
+        "7.5 mm": "Vehicle: 676 m (2,217.85 ft); Human: 221 m (725.07 ft)",
+        "13 mm": "Vehicle: 1,173 m (3,848.43 ft); Human: 382 m (1,253.28 ft)",
+        "25 mm": "Vehicle: 2,255 m (7,398.29 ft); Human: 735 m (2,411.42 ft)1",
+        "35 mm": "Vehicle: 3,157 m (10,357.61 ft); Human: 1,029 m (3,375.98 ft)"
+      },
+      "①Detection Distance: Detects objects, but cannot recognize their characteristics (objects must cover more than 1.5 pixels of the image). ②Recognition Distance: Classifies objects into general categories, such as human, vehicle (the object must cover more than 6 pixels of the image). ③Identification Distance: Classifies objects into specific categories based on their characteristics, such as engineering truck, car (the object must cover more than 12 pixels of the image).": {},
+      "Note: The table is the standard theoretical calculation and is for reference only. The distances within it are subject to actual conditions including atmospheric conditions, target size, the installation site, and more. For the intelligent detection distance, refer to the table of Perimeter Protection Distance (IVS Distance) above.": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/my/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/my/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28957/datasheet/DHI-TPC-BF5601_datasheet_20250421.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Network Bullet Camera_Web3.0 Operation Manual_V2.0.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82473/user_manual/Thermal_Network_Bullet_Camera_Web3.0_Operation_Manual_V2.0.6.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Network Bullet Camera_Quick Start Guide V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86206/user_manual/Thermal_Network_Bullet_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-04-29 #User Manual Thermal Network Bullet Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86206/user_manual/Thermal_Network_Bullet_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-09-22 #A&E Document TPC-BF5601_A&E_20260921104240 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/a_e_document/1789959060733.docx"
+      },
+      {
+        "name": "2023-05-19 #Drawings TPC-BF5601_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86206/drawings/1_0_01_34_14293_32871923.pdf"
+      },
+      {
+        "name": "2023-05-19 #Drawings TPC-BF5601_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86206/drawings/1_0_01_34_14293_23685005.pdf"
+      },
+      {
+        "name": "2026-05-21 #Firmware DH_TPC-BF5X01-TB-S2_MultiLang_PN_V3.651.0000000.2.R.260423 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/28967/firmware/DH_TPC-BF5X01-TB-S2_MultiLang_PN_V3.651.0000000.2.R.260423.zip"
+      },
+      {
+        "name": "2025-08-09 #Firmware General_TPC-NYX5600-BCXA_V1.000.0000000.10.R.250510 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86205/firmware/General_TPC-NYX5600-BCXA_V1.000.0000000.10.R.250510.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/my/products/thermal-products/thermal-cameras/pro-series/tpc-5-series/tpc-bf5601"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "IP Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "series": "KIT",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series",
+    "tab_title": "KIT",
+    "tab_id": "12802",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "IP Series",
+      "KIT",
+      "KIT"
+    ]
+  },
+  "card_info": {
+    "product_id": "102397",
+    "product_name": "KTW02",
+    "product_title": "Wi-Fi Villa Door Station& IP Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktw02",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12004/ProductImage/1_0_01_15_12004_775782767_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/ktw02.html",
+  "detail": {
+    "title": "Wi-Fi Villa Door Station& IP Indoor Monitor",
+    "model": "KTW02",
+    "brand": "Dahua",
+    "overview": "Compare Favourite KTW02 Wi-Fi Villa Door Station& IP Indoor Monitor Key Points • DHI-VTO2311R-WP + DHI-VTH2621G-WP • 7-inch Screen VTH • Plastic VTO • Wi-Fi Connection • App Management Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12004/ProductImage/1_0_01_15_12004_775782767_thumb.png",
+        "alt": "KTW02_View_Other-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12004/ProductImage/1_0_01_15_12004_531204950_crop_thumb.png",
+        "alt": "KTW02_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12004/ProductImage/1_0_01_15_12004_531204951_thumb.png",
+        "alt": "KTW02_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "DHI-VTO2311R-WP": {},
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Button Type": "Mechanical",
+        "Interoperability": "ONVIF; CGI",
+        "Network Protocol": "RTSP; RTP; SIP; DNS; SSH"
+      },
+      "Basic": {
+        "Camera": "1/2.8\" CMOS 2-MP HD camera",
+        "Field of View": "H: 110°; V: 62°; D: 133°",
+        "WDR": "120 dB",
+        "Noise Reduction": "3D NR; 2D NR",
+        "Video Compression": "H.264; H.265",
+        "Video Resolution": "Main stream: 720p, WVGA, D1, and CIF Sub stream: 1080p, WVGA, D1, QVGA, and CIF",
+        "Video Frame Rate": "PAL: 25 fps NTSC: 30 fps",
+        "Video Bit Rate": "768 kbps–8 Mbps",
+        "Light Compensation": "Auto IR",
+        "Day/Night": "Auto (ICR)/Color/B/W; Color/B/W",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1",
+        "Audio Output": "Built-in speaker",
+        "Audio Mode": "Two-way Audio",
+        "Audio Enhancement": "Echo suppression",
+        "Audio Bit Rate": "16 kHz; 16 bit",
+        "Screen Type": "Capacitive touchscreen",
+        "Display": "7\" TFT",
+        "Screen Resolution": "1024 × 600"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Unlock Mode": "Card; app; indoor monitor",
+        "Card Type": "IC card",
+        "Auto Snapshot": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Leave Videos": "Yes (SD card is inserted in the indoor monitor or door station)",
+        "Web Configuration": "Yes",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE 802.11b; IEEE 802.11g; IEEE 802.11n",
+        "Wireless Frequency Range": "2.4 GHz",
+        "Storage": "Micro SD card (max. 256 GB)",
+        "Information Release": "Receive and view text information released by the management center",
+        "DND Mode": "Do not disturb period can be set; Do not disturb mode",
+        "Number of Extensions": "Villa: 9 Apartment: 4",
+        "Wireless Security Encryption": "WPA/WPA2; WPA-PSK/WPA2-PSK"
+      },
+      "Performance": {
+        "Card Reading Distance": "0 cm–3 cm (0\"–1.18\")",
+        "Issue Card Locally": "Yes",
+        "Casing": "PC + ABS"
+      },
+      "Capacity": {
+        "Card Capacity": "3000"
+      },
+      "Port": {
+        "Exit Button": "1",
+        "Door Status Detection": "1",
+        "Lock Control": "1",
+        "Network Port": "1 × RJ-45 10/100 Mbps Ethernet port",
+        "Alarm Input": "6",
+        "Alarm Output": "1",
+        "Power Output": "1 (12 V/200 mA)",
+        "Door Bell": "Yes (use any alarm input port)",
+        "Network": "1 × RJ-45 10/100 Mbps Ethernet port"
+      },
+      "Alarm": {
+        "SOS": "Yes"
+      },
+      "General": {
+        "Appearance color": "Light grey",
+        "Power Supply": "12 VDC 1A Standard PoE",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Certifications": "CE; FCC",
+        "Accessory": "Bracket and alarm ribbon cable (included)",
+        "Product Dimensions": "160 mm × 50 mm × 30 mm (6.30\" × 1.97\" × 1.18\")",
+        "Protection": "IP65",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–95% RH (non-condensing)",
+        "Operating Altitude": "0 m–3,000 m (0 ft–9,842.51 ft)",
+        "Power Consumption": "≤2 W (standby); ≤6 W (working)",
+        "Gross Weight": "0.58 kg (1.27 lb)",
+        "Net Weight": "0.34 kg (0.74 lb)",
+        "Color": "Black",
+        "Dimensions": "189.6 mm × 134.6 mm × 26.0 mm (7.50\" × 5.30\" × 1.00\")"
+      },
+      "DHI-VTH2621G-WP": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/KTW02_datasheet_20211222.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/ip-series/kit/ip-kit/ktw02"
+  }
+}

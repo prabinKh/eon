@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Intelligent Traffic Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "series": "Traffic Sensors",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products",
+    "tab_title": "Traffic Sensors",
+    "tab_id": "607",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Intelligent Traffic Products",
+      "Traffic Sensors",
+      "Traffic Sensors"
+    ]
+  },
+  "card_info": {
+    "product_id": "1801",
+    "product_name": "ITARD-024SA-ST",
+    "product_title": "Narrow Wave Tablet Radar",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-sensors/itard-024sa-st",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200430/ITARD-024SA-ST_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itard-024sa-st.html",
+  "detail": {
+    "title": "Narrow Wave Tablet Radar",
+    "model": "ITARD-024SA-ST",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITARD-024SA-ST Narrow Wave Tablet Radar Key Points • Lane Coverage: 1 Lane\" • Detection Range: 10 km/h–250 km/h\" • Detection Distance: 18 m–28 m\" • Fast Response Ensures High Capture Rate and Real-time Signal Processing • New Algorithm for Enhanced Location Stability and Prolonged Operation Sustainability • Ideal for Flexible and Extensive Applications • Low Microwave Radiation and Power Consumption, Long Service Life, and High Stability and Reliability Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200430/ITARD-024SA-ST_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Basic": {
+        "Antenna": "Miscrostrip planar array antenna",
+        "Modulation": "Continuous wave (CW) modulation",
+        "Frequency": "(24.150 ± 0.045) GHz",
+        "Transmit Power": "20 dBm",
+        "Antenna 3dB Beamwidth": "6° (H) × 6° (V)",
+        "AD Sampling Frequency": "37 KHz",
+        "Communication": "RS-232",
+        "Cable": "Red: + 12 VDC Black: – 12 VDC Yellow: RS-232 RXD Green: RS-232 TXD Brown: RS-232 GND"
+      },
+      "Performance": {
+        "Distance Accuracy": "± 1 m (3.28 ft)",
+        "Lane Coverage": "1 lane",
+        "Object Data": "Vehicle speed (instantaneous)",
+        "Capture Rate": "≥ 99% (when traffic is smooth)",
+        "Indoor Speed Simulation Error": "± 1 km/h",
+        "Speed Error during Road Test": "Error when vehicle speed < 100 km/h:± 2 km/h Error when vehicle speed ≥ 100 km/h: ± 2%",
+        "Speed Detection Range": "10 km/h–250 km/h",
+        "Capture Distance": "18 m–28 m (59.06 ft–91.86 ft) when the radar is installed at around 6 m (19.69 ft) high"
+      },
+      "General": {
+        "Power Input": "12 VDC, with over-voltage, over-current, and reverse connection protection for safe and stable power input",
+        "Interface Protection": "Output interfaces are designed with over-current and over-voltage protection",
+        "Operating Environment": "Operating temperature: –40°C to +80°C (–40°F to +176°F) Operating humidity: 10%–90% (RH)",
+        "Dimensions": "Radar: 209.9 mm × 210.0 mm × 35.0 mm (8.27'' × 8.27'' × 1.38'') Bracket: 163.4 mm × 100.0 mm × 155.0 mm (6.43'' × 3.94'' × 6.10'')",
+        "Weight": "1 kg (2.2 lb) (bracket excluded)",
+        "Accessory": "Bracket",
+        "Installation": "Center mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITARD-024SA-ST_datasheet_20210715.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Narrow Wave Tablet Radar_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004870/202411/Narrow_Wave_Tablet_Radar_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Narrow Wave Tablet Radar_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004870/202411/Dahua_Narrow_Wave_Tablet_Radar_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2022-10-06 #A&E Document ITARD-024SA-ST_A&E_20260904163349 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/74997/a_e_document/1788511242473.docx"
+      },
+      {
+        "name": "2021-10-25 #Drawings ITARD-024SA-ST_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/74997/drawings/ITARD-024SA-ST_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2021-10-25 #Drawings ITARD-024SA-ST_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/74997/drawings/ITARD-024SA-ST_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/intelligent-traffic-products/traffic-sensors/itard-024sa-st"
+  }
+}

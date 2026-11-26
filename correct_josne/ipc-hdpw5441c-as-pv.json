@@ -1,0 +1,181 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Network Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/network-products/network-cameras",
+    "series": "WizMind 5 Series",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series",
+    "tab_title": "Elevator Camera",
+    "tab_id": "18265",
+    "breadcrumbs": [
+      "Network Products",
+      "Network Cameras",
+      "WizMind 5 Series",
+      "Elevator Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "153396",
+    "product_name": "IPC-HDPW5441C-AS-PV",
+    "product_title": "4MP IR Fixed-focal Dome WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/elevator-camera/ipc-hdpw5441c-as-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46582/ProductImage/1_0_01_04_46582_785642016_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hdpw5441c-as-pv.html",
+  "detail": {
+    "title": "4MP IR Fixed-focal Dome WizMind Network Camera",
+    "model": "IPC-HDPW5441C-AS-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-HDPW5441C-AS-PV 4MP IR Fixed-focal Dome WizMind Network Camera Key Points • High-Quality Imaging with 4MP Resolution • Built-in Air Pressure Sensor Enables Precise Floor Number Identification • Multiple Elevator Status Detection, Door status, Speed, Temperature, and more • People Counting for Customer Traffic Analytics • Built-in Mic & Speaker: Secure Real-Time Talk Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46582/ProductImage/1_0_01_04_46582_785642016_crop_thumb.PNG",
+        "alt": "IPC-HDPW5441C-AS-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46582/ProductImage/1_0_01_04_46582_785642012_crop_thumb.PNG",
+        "alt": "IPC-HDPW5441C-AS-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46582/ProductImage/1_0_01_04_46582_785642011_crop_thumb.PNG",
+        "alt": "IPC-HDPW5441C-AS-PV_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Angle Adjustment": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "2.1 mm": "50.6 m( 166.01 ft)"
+      },
+      "Face Detection": {},
+      "People Counting": {},
+      "Elevator Detection": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "LDC": {},
+      "Built-in MIC": {},
+      "Built-in Speaker": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84514/datasheet/IPC-HDPW5441C-AS-PV_S0_datasheet_20250903.pdf"
+      },
+      {
+        "name": "2025-05-28 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.2.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83449/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.2.3.pdf"
+      },
+      {
+        "name": "2025-05-28 #User Manual Dome Network Camera_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010899/202505/Dome_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-05 #A&E Document IPC-HDPW5441C-AS-PV_A&E_20260918035535 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84514/a_e_document/1789675860405.docx"
+      },
+      {
+        "name": "2025-04-22 #Drawings IPC-HDPW5441C-AS-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84514/drawings/IPC-HDPW5441C-AS-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-22 #Drawings IPC-HDPW5441C-AS-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84514/drawings/IPC-HDPW5441C-AS-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX5(4)XXX-DT256-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84514/firmware/DH_IPC-HX5(4)XXX-DT256-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/network-cameras/wizmind-5-series/elevator-camera/ipc-hdpw5441c-as-pv"
+  }
+}

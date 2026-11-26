@@ -1,0 +1,119 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "Internal SSD",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/internal-ssd",
+    "series": "C970 Pro",
+    "series_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c970-pro",
+    "tab_title": "C970 Pro",
+    "tab_id": "14507",
+    "breadcrumbs": [
+      "Memory",
+      "Internal SSD",
+      "C970 Pro",
+      "C970 Pro"
+    ]
+  },
+  "card_info": {
+    "product_id": "108437",
+    "product_name": "SSD-C970PN1TB",
+    "product_title": "NVMe M.2 PCIe Gen4x4 Solid State Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c970-pro/ssd-c970pn1tb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220530/pro1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ssd-c970pn1tb.html",
+  "detail": {
+    "title": "NVMe M.2 PCIe Gen4x4 Solid State Drive",
+    "model": "SSD-C970PN1TB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SSD-C970PN1TB NVMe M.2 PCIe Gen4x4 Solid State Drive Key Points 1.Original, high-quality DDR4 cache and 3D NAND Flash memory chip 2.Ultra high speed up to 7400MB/s Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220530/pro1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220530/pro3_thumb.png",
+        "alt": "SSD-C970PN1TB_3",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220530/pro2_thumb.png",
+        "alt": "SSD-C970PN1TB_2",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-SSD-C970PN1TB",
+        "Capacity1": "1024 GB",
+        "Form Factor": "M.2 2280",
+        "Port": "PCIe Gen 4.0 x 4",
+        "Net Weight": "Max. 8 g (0.02 lb)",
+        "Product Dimensions2": "80.00 mm × 22.00 mm × 3.60 mm (3.15\" × 0.87\" × 0.14\")",
+        "Packaging Dimensions": "140.5 mm × 105.5 mm × 15.50 mm (5.53\" × 4.15\" × 0.61\")",
+        "Memory Component": "3D TLC",
+        "Power Consumption3": "5.64 W (max); 1.69 W (idle)",
+        "S.M.A.R.T": "Yes",
+        "TRIM": "Yes",
+        "Garbage Collection": "Yes",
+        "Sequential Read3": "Up to 7,070 MB/s",
+        "Sequential Write3": "Up to 5,280MB/s",
+        "4K Random Read3": "Up to 888,200",
+        "4K Random Write3": "Up to 1028,380",
+        "MTBF": "1,500,000 hours",
+        "Operating Temperature": "0 °C to +70 °C (+32 °F to +158 °F)",
+        "Storage Temperature": "–40 °C to +85 °C (–40 °F to +185 °F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Vibration Resistance": "10-1000 Hz, 2.4 G",
+        "TBW": "1900 TB",
+        "Warranty4": "3-year limited warranty",
+        "Reference Information": "1. Capacity calculation: 1 GB = 1 billion bytes (IDEMA). Actual available capacity might be reduced (due to formatting, partition, operating system applications, or other necessary usage). 2. The speed data comes from Dahua Memory Lab. System configuration of performance test: Chip-AMD Ryzen 5 5600X 6-Core Processor 3.70 GHz, 8G-DDR4, operating system-Windows 10 x64, testing tool-CrystalDiskMark 6.0.0 x64. 3. Warranty period or maximum write amount (TBW), whichever comes first. 4. High performance SLC cache has been enabled."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SSD-C970PN1TB_Datasheet_20230725.pdf"
+      },
+      {
+        "name": "2025-05-12 #User Manual SSD NVMe M.2 2280-Quick Start Guide Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010004/202505/SSD_NVMe_M.2_2280-Quick_Start_Guide.pdf"
+      },
+      {
+        "name": "2024-03-26 #Drawings SSD-C970PN1TB_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/25497/drawings/SSD-C800N1TB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2022-12-08 #Drawings SSD-C970PN1TB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46867/drawings/SSD-C970PN1TB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/internal-ssd/c970-pro/ssd-c970pn1tb"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "MP290 Mouse Pad - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924309283",
+    "product_name": "MP290 Mouse Pad - Black",
+    "product_title": "MP290 Mouse Pad - Black",
+    "product_url": "https://antesports.com/products/mp290-mousepad-large-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/PNG_1.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/mp290-mousepad-large-black.html",
+  "detail": {
+    "title": "MP290 Mouse Pad - Black",
+    "model": "AEPP0037",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports MP290 is a large mouse pad built with a waterproof, stitched-edge surface for durable, everyday gaming and office use. Its non-slip base keeps the pad firmly anchored during fast mouse movements, while the generous large size gives plenty of room for both precise aiming and everyday desk work.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/PNG_1.png",
+        "alt": "MP290 Mouse Pad - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Size": "Large",
+        "Surface": "Waterproof",
+        "Base": "Non-Slip",
+        "Edges": "Stitched",
+        "Color": "Black",
+        "SIZE": "Large",
+        "SURFACE": "Waterproof",
+        "BASE": "Non-Slip",
+        "EDGES": "Stitched",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹249.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AEPP0037"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/mp290-mousepad-large-black"
+  }
+}

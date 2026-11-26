@@ -1,0 +1,95 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "motherboard",
+    "subcategory_url": "https://www.intex.in/collections/motherboard",
+    "series": "motherboard Series",
+    "series_url": "https://www.intex.in/collections/motherboard-series",
+    "tab_title": "motherboard",
+    "tab_id": "9474809233626",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "motherboard",
+      "Intex H-110 Micro ATX Gaming Motherboard"
+    ]
+  },
+  "card_info": {
+    "product_id": "9474809233626",
+    "product_name": "Intex H-110 Micro ATX Gaming Motherboard",
+    "product_title": "Intex H-110 Micro ATX Gaming Motherboard",
+    "product_url": "https://www.intex.in/products/intex-h-110-micro-atx-gaming-motherboard",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/H-81-Motherboard.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 6999.0,
+      "display": "₹6,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-h-110-micro-atx-gaming-motherboard.html",
+  "detail": {
+    "title": "Intex H-110 Micro ATX Gaming Motherboard",
+    "model": "H-110",
+    "brand": "Intex",
+    "overview": "The Intex H-110 Motherboard is a compact and reliable Micro ATX motherboard designed for everyday computing, home use, office systems, and entry-level gaming builds. Powered by the Intel H110 chipset and featuring an LGA 1151 socket, it supports compatible Intel Core processors for smooth and dependable performance. With support for dual-channel DDR4 memory up to 32GB, the motherboard provides efficient multitasking and responsive system performance. Its M.2 PCIe 3.0 x4 NVMe/SATA SSD support enables faster storage performance and quick system boot times. Multiple USB, HDMI, VGA, LAN, and audio connectivity options provide convenient compatibility with a wide range of peripherals and displays. The compact 190 × 170 mm Micro ATX form factor makes the Intex H-110 suitable for space-efficient PC builds while offering essential features for a practical and versatile computing setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/H-81-Motherboard.jpg",
+        "alt": "Intex H-110 Micro ATX Gaming Motherboard",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Brand": "Intex",
+        "Model": "H-110",
+        "Chipset": "Intel H110",
+        "Supported CPU": "Intel Socket 1151, 6th/7th/8th/9th Generation Intel Core i3/i5/i7/Core i9 Processors",
+        "Memory Type": "Dual Channel DDR4 2133MHz",
+        "Maximum Memory": "Up to 32GB",
+        "M.2 Support": "PCIe 3.0 x4 NVMe SSD & SATA 3.0 SSD",
+        "ATX Power Connector": "1 x 24-Pin ATX Power Connector",
+        "USB 3.0": "1 x USB 3.0 Header supporting additional 2 USB 3.0 ports",
+        "USB 2.0": "2 x USB 2.0 Pin Header supporting additional 4 USB 2.0 ports",
+        "Front Panel Audio": "1 x Front Panel Audio Connector",
+        "System Panel": "1 x System Panel Connector",
+        "Back I/O Ports": "2 x USB 2.0, 1 x VGA, 1 x HDMI, 2 x USB 2.0, 2 x USB 3.0, 1 x LAN Jack, 3 x Audio Jacks",
+        "BIOS": "AMI BIOS",
+        "LAN": "10/100 Mbps",
+        "Form Factor": "Micro ATX",
+        "Dimensions": "190 × 170 mm"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/H81_Motherboard_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-h-110-micro-atx-gaming-motherboard"
+  }
+}

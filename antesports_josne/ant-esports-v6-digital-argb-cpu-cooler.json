@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Air Coolers",
+    "subcategory_url": "https://antesports.com/collections/air-coolers",
+    "series": "Air Coolers Series",
+    "series_url": "https://antesports.com/collections/air-coolers",
+    "tab_title": "Air Coolers",
+    "tab_id": "508173025571",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Air Coolers",
+      "V6 Digital CPU Air Cooler with Temperature Display"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315422171427",
+    "product_name": "V6 Digital CPU Air Cooler with Temperature Display",
+    "product_title": "V6 Digital CPU Air Cooler with Temperature Display",
+    "product_url": "https://antesports.com/products/ant-esports-v6-digital-argb-cpu-cooler",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_dfab8b1d-a542-4dc2-b642-fb966337f084.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-v6-digital-argb-cpu-cooler.html",
+  "detail": {
+    "title": "V6 Digital CPU Air Cooler with Temperature Display",
+    "model": "AESP0379",
+    "brand": "Ant Esports",
+    "overview": "High-Performance Cooling with 6 Copper Heat Pipes (Φ6mm)Ensures rapid heat transfer and excellent thermal stability for modern Intel & AMD CPUs.Digital Temperature Display on Top CoverReal-time CPU temperature monitoring with ARGB & SRGB illuminated display for a premium aesthetic.120mm ARGB Fan with 28 LEDsDelivers vibrant lighting effects and optimized airflow with 9-blade hydro-bearing fan.71.66 CFM High Airflow + 2.54mmH₂O Static PressureIdeal for performance builds, ensuring efficient cooling even in high-load scenarios.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_dfab8b1d-a542-4dc2-b642-fb966337f084.png",
+        "alt": "V6 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_5bd1625f-be0d-4e2b-98fe-d11153420f13.png",
+        "alt": "V6 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_1dcb1bae-2325-4bc6-bb20-b9254fd02cae.png",
+        "alt": "V6 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_8461c2a5-3a09-4295-b3d2-aeff4c720c2d.png",
+        "alt": "V6 Digital CPU Air Cooler with Temperature Display - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "AIR COOLER",
+        "AMD Socket Support": "AM5, AM4",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA1200, LGA115X",
+        "Cooler Type": "Tower",
+        "No. of Heatpipes": "6",
+        "No. of Cooling Towers": "1",
+        "Fan Size (mm)": "120",
+        "Fan Speed (RPM)": "1800",
+        "Fan Noise (dBA)": "33.5",
+        "FAN Airflow (CFM)": "71.65",
+        "FAN Static Pressure (mmH₂O)": "2.54",
+        "Cooler Height (mm)": "160",
+        "Rated TDP (w)": "175",
+        "Temp. Display": "Yes",
+        "PRODUCT TYPE": "AIR COOLER",
+        "AMD SOCKET SUPPORT": "AM5, AM4",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA1200, LGA115X",
+        "COOLER TYPE": "Tower",
+        "NO. OF HEATPIPES": "6",
+        "NO. OF COOLING TOWERS": "1",
+        "FAN SIZE (MM)": "120",
+        "FAN SPEED (RPM)": "1800",
+        "FAN NOISE (DBA)": "33.5",
+        "FAN AIRFLOW (CFM)": "71.65",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.54",
+        "COOLER HEIGHT (MM)": "160",
+        "RATED TDP (W)": "175",
+        "TEMP. DISPLAY": "Yes",
+        "Offer Price (INR)": "₹2,949.00",
+        "MRP (INR)": "₹3,799.00",
+        "SKU": "AESP0379"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-v6-digital-argb-cpu-cooler"
+  }
+}

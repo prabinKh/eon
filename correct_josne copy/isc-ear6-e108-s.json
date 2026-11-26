@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "152255",
+    "product_name": "ISC-EAR6-E108-S",
+    "product_title": "Lite Network Aluminum Alloy EAS RF Antenna (MONO)",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear6-e108-s",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10388/ProductImage/1_0_01_46_10388_545227573_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-ear6-e108-s.html",
+  "detail": {
+    "title": "Lite Network Aluminum Alloy EAS RF Antenna (MONO)",
+    "model": "ISC-EAR6-E108-S",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAR6-E108-S Lite Network Aluminum Alloy EAS RF Antenna (MONO) Key Points · Superior detection distance, max detection distance can be 0.9 meters (RF Square Tag DHI-ISC-ETR5-T004W). · Excellent anti-interference capacity, continuous working in complex electromagnetic environment. · Supports network platform connection such as DSS Pro platform. · Supports cloud services and remote configuration. · Supports multiple languages (Optional). · Supports CCTV linkage. · Supports alarm duration adjustment. · Supports alarm tone adjustment. · Supports sound and light alarm tests. · Support tag too close alarm. · Supports firmware upgrade. · Supports transmission strength adjustment. · Supports noise reduction level adjustment. · Supports alarm counting. · Supports web configuration. · Supports label protection. · Supports the display of waveform graphs. · The local logs can be viewed and exported. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10388/ProductImage/1_0_01_46_10388_545227573_crop_thumb.png",
+        "alt": "ISC-EAR6-E108-S_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10388/ProductImage/1_0_01_46_10388_545227574_crop_thumb.png",
+        "alt": "ISC-EAR6-E108-S_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10388/ProductImage/1_0_01_46_10388_545227575_crop_thumb.png",
+        "alt": "ISC-EAR6-E108-S_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10388/ProductImage/1_0_01_46_10388_545227576_crop_thumb.png",
+        "alt": "ISC-EAR6-E108-S_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAR6-E108-S",
+        "Technology": "Radio-Frequency (RF)",
+        "Detection Frequency": "8.2 MHz",
+        "Max. Detection Distance of Tags(High Signal Side)": "0.9 m(2.95 ft)(48 x 42 mm RF tags) (one side of one antenna) depending on the site environment",
+        "Max. Detection Distance of Labels(High Signal Side)": "0.8 m(2.62 ft)(40 x 40 mm RF labels) (one side of one antenna) depending on the site environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "Integrated transceiver antenna",
+        "Sound & Light Alarm": "Integrated transceiver antenna",
+        "Signal Strength Display": "Integrated transceiver antenna"
+      },
+      "Certifications": {
+        "Certifications": "CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments."
+      },
+      "Ports": {
+        "Alarm Output Port": "For Camera Linkage",
+        "Network Port": "RJ45",
+        "Network Protocol": "HTTP, TCP/IP",
+        "Open Protocol": "SDK",
+        "Supporting Software": "DSS Pro, Configtool, WISS"
+      },
+      "Regular": {
+        "Shell Material": "Aluminum Alloy",
+        "Shell Color": "Silver+Black",
+        "Input Voltage": "100 – 240V AC @ 50 Hz / 60 Hz",
+        "Maximum Power Consumption": "17W",
+        "Typical Power Consumption": "15.5W",
+        "Overall Exterior Dimensions": "1622mm x 406mm x 45mm (63.86\"*15.98\"*1.77\")",
+        "Packing Dimensions of Antenna": "1720mm × 510mm × 125 mm(67.72\"*20.08\"*4.92\")",
+        "Net Weight": "5.8kg(12.79lb)",
+        "Total Weight": "9kg (19.84lb)",
+        "Operating Temperature": "0 °C – 45 °C ( 32 °F – 113 °F)",
+        "Operating Humidity": "5 % – 95 % (RH)",
+        "Installation": "Vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAR6-E108-S_S0_datasheet_20240701.pdf"
+      },
+      {
+        "name": "2024-03-22 #User Manual 6-Series EAS RF Transceiver Antenna_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009111/6-Series_EAS_RF_Transceiver_Antenna_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-02-29 #Drawings ISC-EAR6-E108-S_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83024/drawings/ISC-EAR6-E108-S_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-02-29 #Drawings ISC-EAR6-E108-S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83024/drawings/ISC-EAR6-E108-S_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-03-21 #Firmware General_ISCEAR6E1xx_V1.000.0000000.1.R.250211 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3057811/M/General_ISCEAR6E1xx_V1.000.0000000.1.R.250211.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system/isc-ear6-e108-s"
+  }
+}

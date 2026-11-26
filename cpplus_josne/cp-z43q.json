@@ -1,0 +1,130 @@
+{
+  "hierarchy": {
+    "category": "ezyKam+",
+    "category_url": "https://cpplusworld.com/products/ezykam+",
+    "subcategory": "EzyHome",
+    "subcategory_url": "https://cpplusworld.com/products/ezyhome/ezykam",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "EzyHome",
+    "tab_id": "34",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "EzyHome",
+      "ezyKam+",
+      "CP-Z43Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "2112",
+    "product_name": "CP-Z43Q",
+    "product_title": "CP-Z43Q",
+    "product_url": "https://cpplusworld.com/cp-z43q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/546853be-646d-4b94-8595-95c32fe0976a.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-z43q.html",
+  "detail": {
+    "title": "CP-Z43Q",
+    "model": "CP-Z43Q",
+    "brand": "CP Plus",
+    "overview": "4MP Wi-Fi Full Color PT Camera",
+    "features": [
+      "1/2.9” 4MP CMOS Image Sensor (0.8758 centimeter)",
+      "4mm Lens",
+      "H.265 Video Compression",
+      "Wi-Fi Support",
+      "Max. 20fps@4MP",
+      "IR Distance of 15 Mtr.",
+      "White LED Distance of 8-10 Mtr.",
+      "Works with Google Home"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/546853be-646d-4b94-8595-95c32fe0976a.jpg",
+        "alt": "CP-Z43Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/505700e3-bab5-4cfa-beb8-7c2534814062.jpg",
+        "alt": "CP-Z43Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.9” 4MP CMOS Image Sensor (0.8758 centimeter)",
+        "Minimum Illumination": "Color: 0. 1Lux, B/W: 0.01Lux",
+        "FPS": "20fps",
+        "Lens": "4mm",
+        "Max. Aperture": "F1.6",
+        "S/N Ratio": "≥39dB",
+        "Back Light Compensation": "DWDR",
+        "Angle of View": "Diagonal: 108°, Horizontal: 91.3°, Vertical: 49°",
+        "Video Compression": "H.265",
+        "Resolution": "4MP (2560 x 1440)",
+        "Picture Adjustment": "Auto-adjust Contrast, Brightness, Saturation",
+        "Exposure Conditions": "Auto-adjust AWB, AGC, BLC",
+        "Electronic Shutter": "1/50s(1/60s)-1/100,000s",
+        "Noise Reduction": "3D DNR",
+        "Motion Detection": "Support",
+        "Motion Tracking": "Support",
+        "Audio Compression": "G.711A",
+        "IR Number": "8 pcs IR LEDs",
+        "IR Distance": "IR Distance of 15 Mtr.",
+        "White LED Number": "8 pcs LEDs.",
+        "White LED Distance": "White LED Distance of 8-10 Mtr.",
+        "Sound Detection": "Support",
+        "Built-in Siren": "Support",
+        "Echo Cancellation": "Support",
+        "Human Body Detection": "Support",
+        "Full Color Night Vision": "Support",
+        "Alarm Notification Push": "Support",
+        "Wireless Standard": "Wi-Fi 802.11 b/g/n",
+        "Wi-Fi": "Support",
+        "IR Cut Filter": "Auto",
+        "Work with Alexa": "Support",
+        "Work with Google Home": "Support",
+        "Smart Phone": "Android, iOS",
+        "Pan/Tilt Angle": "Pan:345°, Tilt:70°",
+        "Audio": "Built-in Mic",
+        "Built-in Speaker": "Support",
+        "Two-way talk": "Support",
+        "Wireless Frequency": "2.4GHz",
+        "Storage": "Micro SD card (up to 256GB)",
+        "Ethernet": "Support",
+        "Application Environment": "Outdoor",
+        "Mobile App": "ezyKam+",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1: 2018, CE, FCC, RoHS, BIS, WPC",
+        "Power Supply": "DC 5V, 1A (USB Type A)",
+        "Power Consumption": "Max. 5W",
+        "Operating Temperature": "-20℃~60℃",
+        "Operating Humidity": "<95%(no condensation)",
+        "Weatherproof Standard": "IP65",
+        "Dimension": "155mm x 100mm x 143mm",
+        "Casing": "ABS Plastic",
+        "Weight": "377g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-Z43Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/b9d28708-73fe-4822-9516-608c903e0190.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-z43q"
+  }
+}

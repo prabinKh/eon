@@ -1,0 +1,93 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://www.intex.in/collections/biometric",
+    "subcategory": "Biometric",
+    "subcategory_url": "https://www.intex.in/collections/biometric",
+    "series": "Intex Time Access",
+    "series_url": "https://www.intex.in/collections/intex-time-access",
+    "tab_title": "Biometric",
+    "tab_id": "9011914571994",
+    "breadcrumbs": [
+      "Home",
+      "Biometric",
+      "Biometric",
+      "Intex Time Access Biometric"
+    ]
+  },
+  "card_info": {
+    "product_id": "9011914571994",
+    "product_name": "Intex Time Access Biometric",
+    "product_title": "Intex Time Access Biometric",
+    "product_url": "https://www.intex.in/products/intex-time-access-biometric",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-Front_INTEX_Time_Access.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 11047.0,
+      "display": "₹11,047.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-time-access-biometric.html",
+  "detail": {
+    "title": "Intex Time Access Biometric",
+    "model": "Biometric",
+    "brand": "Intex",
+    "overview": "Intex Time Access – Smart Biometric Attendance System The Intex Time Access device is designed for accurate, secure, and efficient attendance management. With multiple authentication modes and high storage capacity, it ensures smooth access control for offices, schools, and organizations.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-Front_INTEX_Time_Access.jpg",
+        "alt": "Intex Time Access Biometric",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Finger Capacity": "3000",
+        "Card Capacity": "3000",
+        "Password Capacity": "3000",
+        "Add User": "3000",
+        "Attendance Records": "200000",
+        "Fingerprint Verification Mode": "1:1, 1:N",
+        "Working Mode": "Offline",
+        "Verification Mode": "Fingerprint / Password / Card",
+        "Screen": "2.8 Inch Touch Screen",
+        "Language": "English",
+        "Communication": "USB",
+        "Power Supply": "DC 5V",
+        "Battery Backup": "No",
+        "Recognition Speed": "<0.8s",
+        "Model": "Biometric"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/TIME_ACCESS.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-time-access-biometric"
+  }
+}

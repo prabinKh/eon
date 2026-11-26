@@ -1,0 +1,107 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "ECO600 Non Modular Gaming Power Supply"
+    ]
+  },
+  "card_info": {
+    "product_id": "10371104964899",
+    "product_name": "ECO600 Non Modular Gaming Power Supply",
+    "product_title": "ECO600 Non Modular Gaming Power Supply",
+    "product_url": "https://antesports.com/products/eco600-non-modular-gaming-power-supply-high-performance-psu-for-pc-with-cooling-fan",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_40336466-0ca8-42fa-a67d-3c1944b29fa3.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/eco600-non-modular-gaming-power-supply-high-performance-psu-for-pc-with-cooling-fan.html",
+  "detail": {
+    "title": "ECO600 Non Modular Gaming Power Supply",
+    "model": "ECO600",
+    "brand": "Ant Esports",
+    "overview": "TheAnt Value ECO600is a 600W power supply designed for entry-level desktop PCs, gaming, office, and everyday computing. It features a120mm cooling fan, flat cables for easy cable management, and essential motherboard, CPU, SATA, and Molex connectors for a clean and reliable PC build.",
+    "features": [
+      "TheAnt Value ECO600is a 600W power supply designed for entry-level desktop PCs, gaming, office, and everyday computing. It features a120mm cooling fan, flat cables for easy cable management, and essential motherboard, CPU, SATA, and Molex connectors for a clean and reliable PC build."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_40336466-0ca8-42fa-a67d-3c1944b29fa3.png",
+        "alt": "ECO600 Non Modular Gaming Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_7c3fc8e0-6292-4fcf-8ae0-16316f6c7e06.png",
+        "alt": "ECO600 Non Modular Gaming Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_5b6e23ed-7aba-4226-91c5-cefe647107e0.png",
+        "alt": "ECO600 Non Modular Gaming Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_abd70e4b-df8f-4039-bd13-a32b298214c9.png",
+        "alt": "ECO600 Non Modular Gaming Power Supply - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Power Supply",
+        "Model": "ECO600",
+        "Brand": "Ant Value",
+        "Power Output": "600W",
+        "Cooling Fan": "120mm",
+        "Motherboard Connector": "1x 20+4 Pin",
+        "CPU Connector": "1x 4+4 Pin (8 Pin)",
+        "SATA Connectors": "3",
+        "Molex Connectors": "1",
+        "Cable Design": "Flat Cables",
+        "Compatible Devices": "Desktop PC",
+        "Connector Type": "SATA",
+        "Use Case": "Gaming, Office, Home Computing, Streaming",
+        "Power Delivery": "Constant Power Delivery",
+        "PRODUCT TYPE": "Power Supply",
+        "MODEL": "ECO600",
+        "BRAND": "Ant Value",
+        "POWER OUTPUT": "600W",
+        "COOLING FAN": "120mm",
+        "MOTHERBOARD CONNECTOR": "1x 20+4 Pin",
+        "CPU CONNECTOR": "1x 4+4 Pin (8 Pin)",
+        "SATA CONNECTORS": "3",
+        "MOLEX CONNECTORS": "1",
+        "CABLE DESIGN": "Flat Cables",
+        "COMPATIBLE DEVICES": "Desktop PC",
+        "CONNECTOR TYPE": "SATA",
+        "USE CASE": "Gaming, Office, Home Computing, Streaming",
+        "POWER DELIVERY": "Constant Power Delivery",
+        "Offer Price (INR)": "₹2,999.00"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/eco600-non-modular-gaming-power-supply-high-performance-psu-for-pc-with-cooling-fan"
+  }
+}

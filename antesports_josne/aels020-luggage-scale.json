@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Home Appliances",
+    "subcategory_url": "https://antesports.com/collections/home-appliances",
+    "series": "Home Appliances Series",
+    "series_url": "https://antesports.com/collections/home-appliances",
+    "tab_title": "Home Appliances",
+    "tab_id": "508173517091",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Home Appliances",
+      "AELS020 Luggage Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341738512675",
+    "product_name": "AELS020 Luggage Scale",
+    "product_title": "AELS020 Luggage Scale",
+    "product_url": "https://antesports.com/products/aels020-luggage-scale",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_1f407c9b-fddb-4f58-ba12-aea82594efe8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/aels020-luggage-scale.html",
+  "detail": {
+    "title": "AELS020 Luggage Scale",
+    "model": "AVLP0071",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AELS020 Portable Digital Luggage Scale is built for the modern traveler, offering a 50Kg maximum weighing capacity so you stay within airline limits. Features a tare function, auto On/Off, overload indicator and low-battery warning, all readable via a bright LED backlit display. Durable strap and stainless-steel hook for reliable, portable use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_1f407c9b-fddb-4f58-ba12-aea82594efe8.png",
+        "alt": "AELS020 Luggage Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Capacity": "Up to 50 Kg",
+        "Display": "LED backlit",
+        "Functions": "Tare, Auto On/Off, Overload Indicator, Low Battery Warning",
+        "Build": "Durable strap + stainless steel hook",
+        "Use": "Travel/luggage weighing",
+        "CAPACITY": "Up to 50 Kg",
+        "DISPLAY": "LED backlit",
+        "FUNCTIONS": "Tare, Auto On/Off, Overload Indicator, Low Battery Warning",
+        "BUILD": "Durable strap + stainless steel hook",
+        "USE": "Travel/luggage weighing",
+        "Offer Price (INR)": "₹315.00",
+        "MRP (INR)": "₹1,599.00",
+        "SKU": "AVLP0071"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aels020-luggage-scale"
+  }
+}

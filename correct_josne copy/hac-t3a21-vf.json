@@ -1,0 +1,164 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Cooper Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series",
+    "tab_title": "1080P",
+    "tab_id": "6422",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Cooper Series",
+      "1080P"
+    ]
+  },
+  "card_info": {
+    "product_id": "26627",
+    "product_name": "HAC-T3A21-VF",
+    "product_title": "2MP HDCVI IR Eyeball Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-t3a21-vf",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20200921/21_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-t3a21-vf.html",
+  "detail": {
+    "title": "2MP HDCVI IR Eyeball Camera",
+    "model": "HAC-T3A21-VF",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-T3A21-VF 2MP HDCVI IR Eyeball Camera Key Points 1. Max 30fps@1080P 2. 2.7-12mm vari-focal 3. Max. IR length 40m, Smart IR 4. Plastic dome cover+metal upper cover+plastic lower dome Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200921/21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20200921/12_thumb.png",
+        "alt": "HAC-T3A21-VF-1",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20181022/DH-HAC-T3A21-VF-1_thumb.png",
+        "alt": "DH-HAC-T3A21-VF-side",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Pixel": "2 MP",
+        "Image Sensor": "2MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100,000 s NTSC: 1/30 s–1/100,000 s",
+        "Min. Illumination": "0.04 lux@F1.7 (Color, 30 IRE) 0.004 lux@F1.7 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "40 m (131.23 ft)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "2 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–355° Tilt: 0°–75° Rotation: 0°–355°"
+      },
+      "Lens": {
+        "Lens Type": "Manual Vari-focal",
+        "Lens Mount": "φ14",
+        "Focal Length": "2.7 - 12 mm",
+        "Max. Aperture": "F1.7",
+        "Field of View": "H: 102°–32°; V: 54°–18°; D: 121°–37°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "0.8 m (2.62 ft)",
+        "DORI Distance": "Lens",
+        "W": "45.5 m (149.28 ft)",
+        "T": "137.9 m (452.43 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080p@25 fps; 720p@25 fps NTSC: 1080p@30 fps; 720p@30 fps TVI: PAL: 1080p@25 fps; 720p@25 fps NTSC: 1080p@30 fps; 720p@30 fps AHD: PAL: 1080p@25 fps; 720p@25 fps NTSC: 1080p@30 fps; 720p@30 fps CVBS: PAL: 960H NTSC: 960H",
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); 960H (960 × 576/960 × 480)",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "BLC; HLC; DWDR",
+        "WDR": "DWDR",
+        "White Balance": "Auto; Area white balance",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D NR",
+        "Smart Illumination": "Yes",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certification": {
+        "Certifications": "CE (EN55032: 2015, EN61000-3-2: 2014, EN61000-3-3: 2013, EN55024: 2010+A1: 2015, EN55035: 2017, EN50130-4: 2011+A1: 2014, EN62368-1: 2014+A11: 2017) FCC (CFR 47 FCC Part 15 subpartB, ANSI C63.4-2014)"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 30%",
+        "Power Consumption": "Max. 4.6 W (12 VDC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to 140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Protection": "IP67"
+      },
+      "Structure": {
+        "Casing": "Metal dome top + plastic",
+        "Product Dimensions": "Φ122 mm × 106.2 mm (Φ4.80\" × 4.18\")",
+        "Packaging Dimensions": "155 mm × 155 mm × 135 mm (6.10\" × 6.10\" × 5.31\")",
+        "Net Weight": "0.39 kg (0.86 lb)",
+        "Gross Weight": "0.51 kg (1.12 lb)",
+        "Installation": "Wall mount; ceiling mount; horizontal pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-HAC-T3A21-VF_S0_datasheet_20240306.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31927/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/31927/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Eyeball Camera_Installation Guide_V1.0.4-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86617/user_manual/HDCVI_Eyeball_Camera_Installation_Guide_V1.0.4-Eng.pdf"
+      },
+      {
+        "name": "2023-09-28 #Drawings HAC-T3A21-VF_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/1627/drawings/HAC-T3A21-Z_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-09-28 #Drawings HAC-T3A21-VF_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/15967/drawings/HAC-T3A21-VF_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/cooper-series/1080p/hac-t3a21-vf"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "Other Wireless Bridge",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/other-wireless-bridge",
+    "tab_title": "Other Wireless Bridge",
+    "tab_id": "8627",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "Other Wireless Bridge",
+      "Other Wireless Bridge"
+    ]
+  },
+  "card_info": {
+    "product_id": "152990",
+    "product_name": "WB5-8AC-20",
+    "product_title": "Long Range 5GHz Wireless Bridge",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/otherwirelessbridge/wb5-8ac-20",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_83_10230/ProductImage/1_0_99_83_10230_724328194_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/wb5-8ac-20.html",
+  "detail": {
+    "title": "Long Range 5GHz Wireless Bridge",
+    "model": "WB5-8AC-20",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_83_10230/ProductImage/1_0_99_83_10230_724328194_crop_thumb.png",
+        "alt": "WB5-8AC-20",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/otherwirelessbridge/wb5-8ac-20"
+  }
+}

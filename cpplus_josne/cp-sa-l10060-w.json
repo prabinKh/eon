@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "Illuminators",
+    "category_url": "https://cpplusworld.com/products/illuminators",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/illuminators",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "88",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Illuminators",
+      "CP-SA-L10060-W"
+    ]
+  },
+  "card_info": {
+    "product_id": "1702",
+    "product_name": "CP-SA-L10060-W",
+    "product_title": "CP-SA-L10060-W",
+    "product_url": "https://cpplusworld.com/cp-sa-l10060-w",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/427c82b1-d9f9-491f-a8dd-d5a9caef7156.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-sa-l10060-w.html",
+  "detail": {
+    "title": "CP-SA-L10060-W",
+    "model": "CP-SA-L10060-W",
+    "brand": "CP Plus",
+    "overview": "IR Illuminator - 100 Meter",
+    "features": [
+      "Improve performance of camera to get better pictures at night time.",
+      "Accurate constant circuit drive develops excellent performance of LED; Using high power LED, high efficacy and long service life.",
+      "Fill Light for night vision camera.",
+      "Indoor/Outdoor use.",
+      "Easy installation."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/427c82b1-d9f9-491f-a8dd-d5a9caef7156.jpg",
+        "alt": "CP-SA-L10060-W - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8db77d5f-ae5d-4036-830e-1e04418a7bf6.jpg",
+        "alt": "CP-SA-L10060-W - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "LED Type": "12PCS 2W High Power LED",
+        "Wavelength": "850nm",
+        "Beam Angle": "60°",
+        "Day and night switch": "Auto",
+        "IR Distance": "100 Mtr.",
+        "Bracket": "Mounting",
+        "Temperature": "-40°C to +50°C",
+        "Ingress Protection": "IP65, IP66(optional)",
+        "Color": "Gray",
+        "Housing": "Aluminum Die Casting",
+        "Panel": "Tempered glass panel",
+        "Voltage": "AC110-220V/AC24V/DC12V",
+        "Plug": "AC110-220V (standard), other voltage optional",
+        "Wire": "If 12VDC/24VAC : 45 cm",
+        "Power Consumption": "31W",
+        "Packing Dimension": "29mm x 25mm x 18mm",
+        "Net Weight": "2.28kg",
+        "Gross weight": "2.7kg"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-SA-L10060-W.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-sa-l10060-w"
+  }
+}

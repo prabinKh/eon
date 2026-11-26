@@ -1,0 +1,129 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "EAS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas",
+    "series": "EAS System",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/eas/eas-system",
+    "tab_title": "EAS System",
+    "tab_id": "13897",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "EAS",
+      "EAS System",
+      "EAS System"
+    ]
+  },
+  "card_info": {
+    "product_id": "137267",
+    "product_name": "ISC-EAA2-C208-P",
+    "product_title": "Network EAS AM Antenna",
+    "product_url": "https://www.dahuasecurity.com/ph/products/security-screening-&-esl-&-eas/eas/eas-system/isc-eaa2-c208-p",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA8-C208-P_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-eaa2-c208-p.html",
+  "detail": {
+    "title": "Network EAS AM Antenna",
+    "model": "ISC-EAA2-C208-P",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ISC-EAA2-C208-P Network EAS AM Antenna Key Points EAS Label and Tag Detection It can effectively detect AM frequency band labels and tags within the coverage range. Once the product with a label or tag passes through the antenna, a sound and light alarm will be triggered, and the alarm volume can be adjusted as needed. Anti-inference Adjustment Supports configurations such as multi-level alarm sensitivity and threshold, antenna gain, multi-mode transmission, and real-time interference indicator. It is beneficial for the equipment to effectively adapt to the vast majority of interference environments. And the parameters and phase synchronization can be easily set through the buttons and screen. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA8-C208-P_1_thumb.png",
+        "alt": "ISC-EAA2-C208-P_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA8-C208-P_2_thumb.png",
+        "alt": "ISC-EAA2-C208-P_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231103/ISC-EAA8-C208-P_3_thumb.png",
+        "alt": "ISC-EAA2-C208-P_View_Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Performance": {
+        "Model": "DHI-ISC-EAA2-C201-P",
+        "Technology": "Acousto-Magnetic Antenna",
+        "Detection Frequency Band": "58 kHz",
+        "Detection Distance of EAS Labels": "1.8 – 2.0 m (5.91 ft – 6.56 ft) (Distance of two antennas) * depending on environment",
+        "Detection Distance of EAS Tags": "2.0 – 2.4 m (6.56 ft – 7.87 ft) (Distance of two antennas) * depending on environment",
+        "Alarm Volume": "Max 90 dB (Adjustable)",
+        "Antenna Type": "Primary antenna",
+        "Adaptability": "A Single primary antenna can connect to two replica antennas simultaneously",
+        "Sound and Light Alarm": "Primary and Replica Antenna"
+      },
+      "Certifications": {
+        "Certifications": "IEC 60068-2-1 IEC 60068-2-2 CE-LVD: Low Voltage Directive 2014/35/EU CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU CE-RED: Radio Equipment Directive 2014/53/EU",
+        "RoHS": "Conform with RoHS Directive 2011/65/EU, 2015/863/EU and REACH regulations as defined in EC No 1907/2006 and subsequent amendments.",
+        "Safety": "ICNIRP 2010 Guidelines ICNIRP 1998 Guidelines EC directive 2013/35/EU EC recommendation 1999/519/EC IEEE C95.1:2005 EN IEC 62311:2020 EN 50364:2010 EN 62369-1:2010"
+      },
+      "Ports": {
+        "TR Board Port (CH1, CH2, CH3)": "CH1 integrates into the main board, CH2 and CH3 can connect to the TR board as needed",
+        "CCTV Port": "Output port for the linkage signal of the camera, up to 3 cameras can be connected simultaneously.",
+        "Network Interface": "RJ45",
+        "Power Interface": "DSS Pro, Configtool"
+      },
+      "Regular Parameters": {
+        "Shell Material": "ABS",
+        "Shell Color": "White",
+        "Input Voltage": "220 – 240 VAC @ 50 Hz / 60 Hz",
+        "Output Voltage": "24 VAC / 3 A",
+        "Maximum Power Consumption": "25 W",
+        "Typical Power Consumption": "20 W",
+        "Overall Exterior Size": "1500 mm × 400 mm × 120 mm (59.06'' × 15.75'' × 4.72'')",
+        "Packing Size of Primary / Replica Antenna": "1590 mm × 490 mm × 200 mm (62.60'' × 19.30'' × 7.87'')",
+        "Gross Weight": "8.50 kg (18.74 lb)",
+        "Operating Temperature": "0 °C to 45 °C ( 32 °F to 113 °F)",
+        "Operating Humidity": "0 % – 95 % (RH)",
+        "Installation": "Vertical pole mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-EAA2-C208-P_datasheet_20230922.pdf"
+      },
+      {
+        "name": "2025-11-30 #User Manual 2 Series AM Network Antenna 220_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0008508/3478070/2_Series_AM_Network_Antenna_220_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2023-10-09 #Drawings ISC-EAA2-C208-P_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51527/drawings/ISC-EAA2-C001-P_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-01-08 #Firmware General_ISCEAA2C2xx_V1.001.0000000.0.R.251124 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/77407/firmware/General_ISCEAA2C2xx_V1.001.0000000.0.R.251124.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/security-screening-&-esl-&-eas/eas/eas-system/isc-eaa2-c208-p"
+  }
+}

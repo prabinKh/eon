@@ -1,0 +1,167 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "Android Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series",
+    "series": "Lite Series",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series",
+    "tab_title": "Lite Series",
+    "tab_id": "18232",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "Android Series",
+      "Lite Series",
+      "Lite Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "40997",
+    "product_name": "VTH5341G-W",
+    "product_title": "Android IP & Wi-Fi Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series/lite-series/vth5341g-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221220/VTH5341G-W_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth5341g-w.html",
+  "detail": {
+    "title": "Android IP & Wi-Fi Indoor Monitor",
+    "model": "VTH5341G-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH5341G-W Android IP & Wi-Fi Indoor Monitor Key Points • 10-inch Colorful Touch Screen with 1024 × 600 Resolution • Built-In Android 8.1 System • Wi-Fi Support • Supports Android App Installation • Device Port: 8-Channel Alarm Input, 1-Channel Alarm Output, 1-Channel RS485 • TF Card, Max 256G Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221220/VTH5341G-W_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221220/VTH5341G-W_3_thumb.png",
+        "alt": "VTH5341G-W",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221220/VTH5341G-W_2_thumb.png",
+        "alt": "VTH5341G-W",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded processor",
+        "Operating System": "Android 8.1",
+        "Network Protocol": "IPv4, TCP, SIP, UDP, RTSP"
+      },
+      "Basic": {
+        "Screen Type": "Capacitive screen",
+        "Display Screen": "10 inch TFT LCD",
+        "Resolution": "1024×600",
+        "Video Compression": "H.264",
+        "Audio Compression": "PCM",
+        "Audio Input": "1 omnidirectional microphone",
+        "Audio Output": "Built-in 1.5W speaker",
+        "Audio Mode": "Two-way voice call",
+        "Audio Enhancement": "Echo suppression/DNR",
+        "Audio Bit Rate": "16KHz, 16Bit"
+      },
+      "Function": {
+        "Information Release": "Text announcements released by the management center can be viewed",
+        "Communication Mode": "Full digital",
+        "Elevator Control": "You can control the elevator through the indoor monitor",
+        "Leave Videos or Text Messages": "Yes (SD card is needed)",
+        "DND Mode": "Do not disturb period can be set.",
+        "Extension Number": "Villa: 4 Apartment: 9",
+        "Wi-Fi": "Yes (Video/voice calls can be made only when the indoor monitor is connected to wired networks.)",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4GHz",
+        "Wireless Security-Encryption": "64/128bit WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS",
+        "Storage": "Micro SD storage, the maximum space is 256GB"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Alarm Input": "8",
+        "Alarm Output": "1",
+        "Power Output": "1 12V/100mA",
+        "Door Bell": "Yes, use alarm input port",
+        "Network Port": "1 10M/100M Ethernet"
+      },
+      "Alarm": {
+        "SOS": "Yes"
+      },
+      "Performance": {
+        "Housing Material": "PC+ABS"
+      },
+      "Regular": {
+        "Color": "Black",
+        "Power Supply": "12V DC 1A Standard POE",
+        "Installation": "Surface mount",
+        "Certifications": "CE FCC",
+        "Accessory": "Surface mount bracket, alarm ribbon cable, RS-485 cable, and power-supply pins are provided",
+        "Product Dimensions": "260 mm×170 mm×15 mm (10.24\"×6.69\"×0.59\") (ports are not counted) 260 mm×170 mm×25.4 mm (convex) (10.24\"×6.69\"×1\") (ports are counted)",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "10%RH–95%RH (Non-condensing)",
+        "Operating Altitude": "Less than 3,000 meters (9842.52 ft)",
+        "Power Consumption": "≤1.5W (standby), ≤7W (working)",
+        "Net Weight": "770g (1.70lb)",
+        "Gross Weight": "1.1kg (2.43lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH5341G-W_S0_datasheet_20230522.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual IP Indoor Monitor_User's Manual_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42537/user_manual/IP_Indoor_Monitor_User_27s_Manual_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-02-26 #User Manual IP Indoor Monitor_Quick Start Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/42537/user_manual/IP_Indoor_Monitor_Quick_Start_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2021-01-07 #A&E Document VTH5341G-W_A&E_20210107123649 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16797/a_e_document/VTH5341G-W_A_E_20210107123649.docx"
+      },
+      {
+        "name": "2025-08-15 #Drawings VTH5341G-W_EXPLODED_VIEW Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/16797/Drawings/VTH5341G-W_EXPLODED_VIEW.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings VTH5341G-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/16797/Drawings/VTH5341G-W_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings VTH5341G-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/16797/drawings/1_0_01_15_11348_836658860.pdf"
+      },
+      {
+        "name": "2026-04-18 #Firmware DH_VTH53X1_MultiLang_SIP_V4.400.0000003.5.R.20260403 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85421/firmware/DH_VTH53X1_MultiLang_SIP_V4.400.0000003.5.R.20260403.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/android-series/lite-series/vth5341g-w"
+  }
+}

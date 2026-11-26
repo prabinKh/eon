@@ -1,0 +1,85 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Wifi Adapter",
+    "subcategory_url": "https://antesports.com/collections/dongles",
+    "series": "Wifi Adapter Series",
+    "series_url": "https://antesports.com/collections/dongles",
+    "tab_title": "Wifi Adapter",
+    "tab_id": "508173320483",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Wifi Adapter",
+      "AE300D WIRELESS USB DONGLE"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315417354531",
+    "product_name": "AE300D WIRELESS USB DONGLE",
+    "product_title": "AE300D WIRELESS USB DONGLE",
+    "product_url": "https://antesports.com/products/ant-esports-wireless-usb-donggle-ae300d-with-cd-eta-sd-20230807261-aepp0156",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_05ccfca0-be03-4da3-a22b-7540af3ca2ef.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-wireless-usb-donggle-ae300d-with-cd-eta-sd-20230807261-aepp0156.html",
+  "detail": {
+    "title": "AE300D WIRELESS USB DONGLE",
+    "model": "AEPP0156",
+    "brand": "Ant Esports",
+    "overview": "The ANT ESPORTS WIRELESS USB DONGLE is a premium wireless USB dongle designed to deliver excellent performance for fast, stable wireless connectivity on PCs and laptops. Featuring IEEE 802.11B/G/N wireless standard support, speeds of up to 300 Mbps, and a USB 2.0 interface, it ensures reliability, durability, and compatibility with modern devices. Whether you are upgrading your PC's wireless connectivity or replacing a faulty adapter, it provides dependable performance and essential functionality. Backed by 1 Year Limited, it's an excellent choice for gamers and everyday PC users.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_05ccfca0-be03-4da3-a22b-7540af3ca2ef.png",
+        "alt": "AE300D WIRELESS USB DONGLE - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_57b4023d-ecb5-4adf-a0ac-a7794058c159.png",
+        "alt": "AE300D WIRELESS USB DONGLE - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Wireless Standard": "IEEE 802.11B/G/N",
+        "Max. Bandwidth": "300 Mbps",
+        "WiFi Band": "2.4G Single Band",
+        "Interface": "USB 2.0",
+        "WiFi Security": "WPA3, WPA2, WPA, 64/128-bit WEP",
+        "Size": "Mini",
+        "WIRELESS STANDARD": "IEEE 802.11B/G/N",
+        "MAX. BANDWIDTH": "300 Mbps",
+        "WIFI BAND": "2.4G Single Band",
+        "INTERFACE": "USB 2.0",
+        "WIFI SECURITY": "WPA3, WPA2, WPA, 64/128-bit WEP",
+        "SIZE": "Mini",
+        "Offer Price (INR)": "₹699.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AEPP0156"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (300D)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=AE-300D-Driver.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-wireless-usb-donggle-ae300d-with-cd-eta-sd-20230807261-aepp0156"
+  }
+}

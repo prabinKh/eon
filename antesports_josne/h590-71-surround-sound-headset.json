@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Headphones",
+    "subcategory_url": "https://antesports.com/collections/gaming-headphones",
+    "series": "Gaming Headphones Series",
+    "series_url": "https://antesports.com/collections/gaming-headphones",
+    "tab_title": "Gaming Headphones",
+    "tab_id": "508173156643",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Headphones",
+      "H590 7.1 Surround Sound USB Gaming Headset - Red LED"
+    ]
+  },
+  "card_info": {
+    "product_id": "10351444361507",
+    "product_name": "H590 7.1 Surround Sound USB Gaming Headset - Red LED",
+    "product_title": "H590 7.1 Surround Sound USB Gaming Headset - Red LED",
+    "product_url": "https://antesports.com/products/h590-71-surround-sound-headset",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/33.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/h590-71-surround-sound-headset.html",
+  "detail": {
+    "title": "H590 7.1 Surround Sound USB Gaming Headset - Red LED",
+    "model": "AEPP0285",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports H590 is a USB-wired gaming headset delivering immersive 7.1 surround sound through 50mm drivers, producing deep bass, clear mids and crisp highs across games, movies and music. A flexible, omnidirectional noise-cancelling microphone ensures clear voice communication even in noisy environments, while red LED lighting adds a bold visual accent to any gaming setup. Its sturdy yet lightweight frame features an adjustable head beam and soft protein-leather earmuffs for long-lasting comfort during extended sessions. Plug-and-play USB connectivity makes it instantly compatible with PC, PS5, PS4, Xbox One and laptops, with no drivers required for setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/33.jpg",
+        "alt": "H590 7.1 Surround Sound USB Gaming Headset - Red LED - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Audio": "7.1 Surround Sound",
+        "Driver Size": "50mm",
+        "Connectivity": "USB Wired",
+        "Microphone": "Omnidirectional, Noise Cancelling",
+        "Lighting": "Red LED",
+        "Compatibility": "PC, PS5, Xbox, Laptop",
+        "AUDIO": "7.1 Surround Sound",
+        "DRIVER SIZE": "50mm",
+        "CONNECTIVITY": "USB Wired",
+        "MICROPHONE": "Omnidirectional, Noise Cancelling",
+        "LIGHTING": "Red LED",
+        "COMPATIBILITY": "PC, PS5, Xbox, Laptop",
+        "Offer Price (INR)": "₹1,199.00",
+        "MRP (INR)": "₹2,999.00",
+        "SKU": "AEPP0285"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/h590-71-surround-sound-headset"
+  }
+}

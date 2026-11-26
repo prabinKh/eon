@@ -1,0 +1,77 @@
+{
+  "hierarchy": {
+    "category": "Racks",
+    "category_url": "https://cpplusworld.com/products/racks",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/racks",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "109",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Racks",
+      "CP-KA-PE1311T1"
+    ]
+  },
+  "card_info": {
+    "product_id": "2209",
+    "product_name": "CP-KA-PE1311T1",
+    "product_title": "CP-KA-PE1311T1",
+    "product_url": "https://cpplusworld.com/cp-ka-pe1311t1-",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f161b38b-a070-44ed-88c4-f33737af5034.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ka-pe1311t1-.html",
+  "detail": {
+    "title": "CP-KA-PE1311T1",
+    "model": "CP-KA-PE1311T1",
+    "brand": "CP Plus",
+    "overview": "PVC Enclosure",
+    "features": [
+      "Suitable for Mini DVR (4 & 8 Channel)",
+      "Compatible with NVR and PoE Switch",
+      "Made of high-quality Polypropylene material",
+      "Dimensions: 33.02 × 27.94 × 11.43 cm",
+      "Net weight: 1.050 kg, color: White",
+      "Equipped with heavy metal lock and two keys",
+      "Includes 1-meter, 3-core power cable",
+      "Fitted with rubber bedding for protection",
+      "Comes with 3-socket PDU, 4 screws, and 4 fishers inside"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f161b38b-a070-44ed-88c4-f33737af5034.jpg",
+        "alt": "CP-KA-PE1311T1 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f1a25949-4f34-47de-a554-7ac5fea9e071.png",
+        "alt": "CP-KA-PE1311T1 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-KA-PE1311T1 .pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ka-pe1311t1-"
+  }
+}

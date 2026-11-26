@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "4.1 Home Speaker Online",
+    "subcategory_url": "https://www.intex.in/collections/4-1-home-speaker-online",
+    "series": "4.1 Home Theater Online",
+    "series_url": "https://www.intex.in/collections/4-1-home-theater-online",
+    "tab_title": "4.1 Home Speaker Online",
+    "tab_id": "8811951522010",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "4.1 Home Speaker Online",
+      "Roar 4701 (301 Pro) | 4.1 Multimedia Speaker - 70W (Bluetooth, USB, AUX, & FM playback)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8811951522010",
+    "product_name": "Roar 4701 (301 Pro) | 4.1 Multimedia Speaker - 70W (Bluetooth, USB, AUX, & FM playback)",
+    "product_title": "Roar 4701 (301 Pro) | 4.1 Multimedia Speaker - 70W (Bluetooth, USB, AUX, & FM playback)",
+    "product_url": "https://www.intex.in/products/roar-4701-multimedia-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Roar-4701-_301-PRO.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 6499.0,
+      "display": "₹6,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/roar-4701-multimedia-speaker.html",
+  "detail": {
+    "title": "Roar 4701 (301 Pro) | 4.1 Multimedia Speaker - 70W (Bluetooth, USB, AUX, & FM playback)",
+    "model": "4701",
+    "brand": "Intex",
+    "overview": "Elevate your audio experience with the Intex Roar 4701 (301 Pro), featuring a powerful 70W sound output and multiple playback options including Bluetooth, USB, AUX, and FM. The rotary-type volume, treble, and bass controls allow for customized sound adjustments. With an informative LED display and a fully functional IR remote, controlling your music has never been easier. The 10.16 cm (4-inch) woofer delivers deep bass and powerful sound effects, making it a perfect companion for any occasion.",
+    "features": [
+      "70W powerful sound output for superior audio quality",
+      "Multimode playability: Bluetooth, USB, AUX, and FM",
+      "Rotary controls for volume, treble, and bass adjustments",
+      "Fully functional IR remote for easy operation",
+      "Informative LED display for clear status updates",
+      "Portable design with a 10-meter Bluetooth range",
+      "High-performance 10.16 cm (4-inch) woofer for deep bass",
+      "Premium sound effects for rich and clear audio"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Roar-4701-_301-PRO.jpg",
+        "alt": "Roar 4701 (301 Pro) | 4.1 Multimedia Speaker - 70W (Bluetooth, USB, AUX, & FM playback)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "70W powerful sound output for superior audio quality",
+        "Feature 2": "Multimode playability: Bluetooth, USB, AUX, and FM",
+        "Feature 3": "Rotary controls for volume, treble, and bass adjustments",
+        "Feature 4": "Fully functional IR remote for easy operation",
+        "Feature 5": "Informative LED display for clear status updates",
+        "Feature 6": "Portable design with a 10-meter Bluetooth range",
+        "Feature 7": "High-performance 10.16 cm (4-inch) woofer for deep bass",
+        "Feature 8": "Premium sound effects for rich and clear audio"
+      },
+      "General": {
+        "Model": "4701"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/roar-4701-multimedia-speaker"
+  }
+}

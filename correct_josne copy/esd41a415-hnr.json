@@ -1,0 +1,187 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Optical Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+    "tab_title": "Optical Series",
+    "tab_id": "1501",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Optical Series",
+      "Optical Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "145741",
+    "product_name": "ESD41A415-HNR",
+    "product_title": "4MP 15X Starlight Non Compensation Light Explosion-proof Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/esd41a415-hnr",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10510/ProductImage/1_0_01_08_10510_1526768055_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/esd41a415-hnr.html",
+  "detail": {
+    "title": "4MP 15X Starlight Non Compensation Light Explosion-proof Camera",
+    "model": "ESD41A415-HNR",
+    "brand": "Dahua",
+    "overview": "Favourite ESD41A415-HNR 4MP 15X Starlight Non Compensation Light Explosion-proof Camera Key Points • High-Quality Imaging with 4MP Resolution • 15× Optical Zoom Provide Close Up Views Over Expansive Areas • Auto Tracking 3.0：Effective Target Monitoring with Detailed Intruder Trajectories • Video Metadata: Multi-Target Detection and Analysis with Real-Time Tracking • Face Detection：Leveraging Facial Data to Enhance Analytics Accuracy • Explosion-proof Design, Certified by ATEX and IECEx • IP68 Protection, Suitable for Outdoor Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10510/ProductImage/1_0_01_08_10510_1526768055_crop_thumb.png",
+        "alt": "ESD41A415-HNR_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10510/ProductImage/1_0_01_08_10510_1526768054_crop_thumb.png",
+        "alt": "ESD41A415-HNR_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "Effective Pixels": "4MP",
+        "ROM": "1GB",
+        "RAM": "4GB",
+        "Electronic Shutter Speed": "1/3s~1/100000s",
+        "Scanning Mode": "Progressive",
+        "Minimum Illumination": "0.05lux@F1.6 (Color, 30 IRE); 0.005lux@F1.6 (B/W, 30 IRE)",
+        "Focal Length": "4.77mm~71.55 mm",
+        "Aperture": "F1.6~ F2.8",
+        "Field of View": "H: 60.4°–4.3°; V: 34.5°–2.4°; D: 68.5°–5°",
+        "Optical Zoom": "15x",
+        "Focus Control": "Auto/Semi-auto/Manual",
+        "Close Focus Distance": "1m-1.5 m (3.28 ft-4.92 ft)",
+        "Iris Control": "Auto/Manual",
+        "DORI Distance": "Detect",
+        "1431 m (4694.88 ft)": "565 m (1853.67 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 360° endless ; Tilt: 0° to +90°, auto flip 180°",
+        "Manual Control Speed": "Panorama: 0.1°/s–130°/s; Tilt: 0.1°/s–57°/s",
+        "Preset Speed": "Pan: 280°/s; Tilt: 216°/s",
+        "Presets": "300",
+        "Tour": "8(up to 32 preset per tour)",
+        "Pattern Number": "5",
+        "Scanning Number": "5",
+        "Speed Adjustment": "Support",
+        "Power-off Memory": "Support",
+        "Idle Motion": "Preset/Tour/Pattern/Scanning",
+        "Protocol": "IPv4; IPv6; HTTP; HTTPS; 802.1x; Qos; FTP; SMTP; UPnP; SNMPv1/v2c/v3(MIB-2); DNS; DDNS; NTP; RTSP; RTP; TCP; UDP; IGMP; ICMP; DHCP; PPPoE; ARP; RTCP",
+        "Perimeter Protection": "Tripwire and intrusion. Support alarm triggering by target types (human and vehicle). Support filtering false alarms caused by animals, rustling leaves, bright lights, etc.",
+        "Auto Tracking": "Support",
+        "Event Trigger": "Motion detection, video tampering, scene changing, Network disconnection, IP address conflict, illegal access, and storage anomaly.",
+        "General IVS": "Object Abandoned/Missing",
+        "Compression": "H.265/H.265+/H.264+/H.264/MJPEG(Sub Stream)",
+        "Streaming Capability": "3 Streams",
+        "Resolution": "4M (2560 × 1440); 3M (2048 × 1536); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Frame Rate": "Main stream: 4M/3M(1–25/30fps), 1080P/1.3M/720P(1–25/30fps) Sub stream 1: D1/CIF(1–25/30fps) Sub stream 2: 1080P/1.3M/720P(1–25/30fps), D1/CIF(1–25/30fps)",
+        "Bit Rate Control": "Variable Bit Rate/Constant Bit Rate",
+        "Bit Rate": "H.264: 96 kbps–14848 kbps H.265: 38 kbps–8960 kbps",
+        "Day/Night": "Support",
+        "BLC": "Support",
+        "WDR": "120dB",
+        "HLC": "Support",
+        "White Balance": "Auto/Indoor/Outdoor/Tracking/Manual/Sodium lamp/Natural/Street lamp",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D/3D",
+        "Motion Detection": "Support",
+        "Region of Interest (RoI)": "Support",
+        "Electronic Image Stabilization (EIS)": "Support",
+        "Optical Defog": "Electronic Defog",
+        "Digital Zoom": "15x",
+        "Flip": "0°/180°",
+        "Privacy Masking": "Up to 24 areas",
+        "Certification": "CE; IECEX/ATEX; NEMA 4X",
+        "Audio Compression": "G.711A; G.711Mu; G.726; AAC; G.722.1; G.723; G.729; PCM; MPEG2-Layer2",
+        "Audio In": "1 (LINE IN; bare wire)",
+        "Audio Out": "1 (LINE OUT; bare wire)",
+        "Alarm Port": "2 alarm input port; 1 alarm output port",
+        "Ethernet Port": "1 RJ-45 Port 10/100Base-T",
+        "Interoperability": "ONVIF Profile S&G CGI",
+        "Streaming Method": "Unicast/Multicast",
+        "Max. User Access": "20 (Total bandwidth 48M)",
+        "Edge Storage": "FTP; Micro SD card (256G); P2P",
+        "Browser": "IE7 and newer versions Chrome 42 and older versions Firefox 52 and older versions",
+        "Management Software": "Smart Player Smart PSS DSS Easy4ip",
+        "Smart Phone": "IOS/Android/Windows Phone",
+        "Power Supply": "100-240 VAC or PoE (AT standard)",
+        "Power Consumption": "Basic: 18 W Max: 21 W (Basic power consumption + PTZ operation )",
+        "Operating Conditions": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95%RH",
+        "Ingress Protection": "IP68, TVS 6000 V lightning proof; surge protection; voltage transient protection",
+        "Dimensions": "ø184*277.4mm",
+        "Weight": "Net Weight: 6.9 kg (15.21 lb); Gross Weight: 9.4 kg (20.72 lb)",
+        "Casing": "SUS304/SUS316L"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ESD41A415-HNR_S0_datasheet_20250115.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide (ESD-41A)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/user_manual/Installation_Guide_(ESD-41A)_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Explosion-Proof Camera (ESD-41A)_Installation Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/user_manual/Dahua_Explosion-Proof_Camera_(ESD-41A)_Installation_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Explosion-Proof Camera Web 3.0 User's Manual_V2.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/user_manual/Dahua_Explosion-Proof_Camera_Web_3.0_User_27s_Manual_V2.0.0.pdf"
+      },
+      {
+        "name": "2024-02-22 #A&E Document ESD41A415-HNR_A&E_20260918004800 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/a_e_document/1789664442697.docx"
+      },
+      {
+        "name": "2025-05-14 #Drawings ESD41A415-HNR_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/drawings/ESD41A415-HNR_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-05-14 #Drawings ESD41A415-HNR_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81816/drawings/ESD41A415-HNR_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-29 #Firmware DH_SD-Taurus_MultiLang_PN_Stream3-Normal_V3.200.0000016.14.R.260514 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82979/firmware/DH_SD-Taurus_MultiLang_PN_Stream3-Normal_V3.200.0000016.14.R.260514.zip"
+      },
+      {
+        "name": "2022-08-06 #Firmware General_SD50XXX-HN_MCU_V2.401.0000001.35.R.220610 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/61257/firmware/General_SD50XXX-HN_MCU_V2.401.0000001.35.R.220610.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/esd41a415-hnr"
+  }
+}

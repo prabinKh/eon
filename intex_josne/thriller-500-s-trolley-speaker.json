@@ -1,0 +1,99 @@
+{
+  "hierarchy": {
+    "category": "Speakers",
+    "category_url": "https://www.intex.in/collections/speakers",
+    "subcategory": "Trolley Speaker",
+    "subcategory_url": "https://www.intex.in/collections/trolley-speaker",
+    "series": "Trolley Speaker Series",
+    "series_url": "https://www.intex.in/collections/trolley-speaker-series",
+    "tab_title": "Trolley Speaker",
+    "tab_id": "8686985937114",
+    "breadcrumbs": [
+      "Home",
+      "Speakers",
+      "Trolley Speaker",
+      "Thriller 500 (S) Trolley Speaker"
+    ]
+  },
+  "card_info": {
+    "product_id": "8686985937114",
+    "product_name": "Thriller 500 (S) Trolley Speaker",
+    "product_title": "Thriller 500 (S) Trolley Speaker",
+    "product_url": "https://www.intex.in/products/thriller-500-s-trolley-speaker",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-THRILLER-500.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 11499.0,
+      "display": "₹11,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/thriller-500-s-trolley-speaker.html",
+  "detail": {
+    "title": "Thriller 500 (S) Trolley Speaker",
+    "model": "500",
+    "brand": "Intex",
+    "overview": "Get ready to rock the party with Thriller 500. It is gonna be your go-to speaker for big sound in a small package. With its 50W power and 8-inch woofer, you'll feel the beat in every room.",
+    "features": [
+      "Feel the 50W power, hear the difference",
+      "Portable and ready to move with you",
+      "Cordless mic, effortless performance",
+      "Deep, rich bass from the 8-inch woofer",
+      "TWS connectivity – double the sound, double the fun",
+      "Connect your way with versatile options"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-THRILLER-500.jpg",
+        "alt": "Thriller 500 (S) Trolley Speaker",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP-THRILLER-500a.jpg",
+        "alt": "Thriller 500 (S) Trolley Speaker",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Feel the 50W power, hear the difference",
+        "Feature 2": "Portable and ready to move with you",
+        "Feature 3": "Cordless mic, effortless performance",
+        "Feature 4": "Deep, rich bass from the 8-inch woofer",
+        "Feature 5": "TWS connectivity – double the sound, double the fun",
+        "Feature 6": "Connect your way with versatile options"
+      },
+      "General": {
+        "Model": "500"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/thriller-500-s-trolley-speaker"
+  }
+}

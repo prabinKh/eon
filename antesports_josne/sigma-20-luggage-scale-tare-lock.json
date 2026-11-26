@@ -1,0 +1,74 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Sigma 20 Digital Luggage Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348816957731",
+    "product_name": "Sigma 20 Digital Luggage Scale",
+    "product_title": "Sigma 20 Digital Luggage Scale",
+    "product_url": "https://antesports.com/products/sigma-20-luggage-scale-tare-lock",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/59.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/sigma-20-luggage-scale-tare-lock.html",
+  "detail": {
+    "title": "Sigma 20 Digital Luggage Scale",
+    "model": "ANTR0080",
+    "brand": "Ant Esports",
+    "overview": "The Ant Sigma 20 is a compact hanging luggage scale built for travellers who want to avoid overweight baggage fees at the airport. Its tare function lets you subtract the weight of a bag or strap for a clean net reading, while the lock function holds the display steady so you can read the result even after removing the load. A clear LCD display shows results at a glance, and auto-off functionality helps conserve the included battery between trips. Lightweight and portable enough to toss in a suitcase pocket, it's a practical everyday travel companion for checking baggage weight before heading to the airport.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/59.png",
+        "alt": "Sigma 20 Digital Luggage Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Function": "Tare & Lock",
+        "Display": "LCD",
+        "Power": "Auto Off, Battery Included",
+        "Use Case": "Travel, Baggage Weighing",
+        "FUNCTION": "Tare & Lock",
+        "DISPLAY": "LCD",
+        "POWER": "Auto Off, Battery Included",
+        "USE CASE": "Travel, Baggage Weighing",
+        "SKU": "ANTR0080"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/sigma-20-luggage-scale-tare-lock"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "10000 MAh Power Bank Online",
+    "subcategory_url": "https://www.intex.in/collections/10000-mah-power-bank-online",
+    "series": "10K MAh Power Bank Online",
+    "series_url": "https://www.intex.in/collections/10k-mah-power-bank-online",
+    "tab_title": "10000 MAh Power Bank Online",
+    "tab_id": "9069163053274",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "10000 MAh Power Bank Online",
+      "Intex Strong Comet 10k Poly Power Bank (Black, White)"
+    ]
+  },
+  "card_info": {
+    "product_id": "9069163053274",
+    "product_name": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+    "product_title": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+    "product_url": "https://www.intex.in/products/intex-strong-comet-10k-poly-power-bank",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/STRONGCOMET10KPOLYblack.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2999.0,
+      "display": "₹2,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-strong-comet-10k-poly-power-bank.html",
+  "detail": {
+    "title": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+    "model": "Strong Comet 10k Poly",
+    "brand": "Intex",
+    "overview": "Stay powered on the go with the Intex Strong Comet 10k Poly Power Bank — combining high power, smart design, and advanced protection features. With a massive 10000mAh capacity, dual input ports, Type-C PD output, and a digital display for real-time battery status, it’s built to keep your devices charged anytime, anywhere.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/STRONGCOMET10KPOLYblack.jpg",
+        "alt": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/STRONGCOMET10KPOLYwhite.jpg",
+        "alt": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/STRONG_COMET_10K_POLY_black.jpg",
+        "alt": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/STRONG_COMET_10K_POLY_white.jpg",
+        "alt": "Intex Strong Comet 10k Poly Power Bank (Black, White)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Model": "Strong Comet 10k Poly",
+        "Battery Capacity": "10000mAh",
+        "Input Ports": "Type-C & Micro USB",
+        "Output Port": "Type-C PD Output",
+        "Display": "Digital Display (Battery Percentage)",
+        "Protection Features": "Overcharge, Over-discharge, Short Circuit, Smart IC Layers",
+        "Material": "Polycarbonate Body",
+        "Color Options": "Black / White"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Strong_Comet_10_k_Poly.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-strong-comet-10k-poly-power-bank"
+  }
+}

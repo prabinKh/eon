@@ -1,0 +1,118 @@
+{
+  "hierarchy": {
+    "category": "Audio & Sensing",
+    "category_url": "https://www.dahuasecurity.com/products/audio-&-sensing",
+    "subcategory": "General Audio",
+    "subcategory_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "series": "Outdoor Pickups",
+    "series_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio",
+    "tab_title": "Outdoor Pickups",
+    "tab_id": "18104",
+    "breadcrumbs": [
+      "Audio & Sensing",
+      "General Audio",
+      "Outdoor Pickups",
+      "Outdoor Pickups"
+    ]
+  },
+  "card_info": {
+    "product_id": "20727",
+    "product_name": "HAP320-V",
+    "product_title": "Hi-fidelity Pickup",
+    "product_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/outdoor-pickups/hap320-v",
+    "card_image": "https://material.dahuasecurity.com/product/20180316/DH-HAP320-V_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "audio-&-sensing/products/hap320-v.html",
+  "detail": {
+    "title": "Hi-fidelity Pickup",
+    "model": "HAP320-V",
+    "brand": "Dahua",
+    "overview": "Favourite HAP320-V Hi-fidelity Pickup Key Points Hi-fidelity Pickup(Water-proof & Vandal-proof ), IP66; Used for sound acquisition within 5~100 square meters. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/Network_Cameras_2.png",
+        "alt": "Network Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads_formal/image/20260311/PTZ_Cameras.png",
+        "alt": "PTZ Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250910/PT_1.png",
+        "alt": "PT Cameras",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_3.png",
+        "alt": "Network Recorders",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4.png",
+        "alt": "Explosion-Proof",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/new_uploads/image/20250519/Web_1920_cctv_products_img_4-1.png",
+        "alt": "Intelligent Computing",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 180,
+    "specifications": {
+      "General": {
+        "Model": "DH-HAP320-V",
+        "Scope": "5~100 m2",
+        "Sensitivity": "-24±3dB",
+        "Frequency response": "20Hz～20kHz",
+        "Directional characteristic": "Omni-directional",
+        "SNR(re 94dBSPL=1Pa@1KHz)": "68dB",
+        "Dynamic range": "84dB",
+        "Max. sustainable sound pressure": "110dBSPL (1KHz, THD 1%)",
+        "Output impedance": "100Ω(non-equilibrium)",
+        "Output signal amplitude": "2.5Vpp/90dBSPL",
+        "Microphone": "High-fidelity waterproof microphone",
+        "Working voltage": "DC 12V",
+        "Working current": "60mA",
+        "Working temperature": "-30ºC~+70ºC(-22℉~+158℉)",
+        "Material": "Metal",
+        "Protection": "IP66, IK10",
+        "Color": "Silver",
+        "Dimension": "Φ80mm×23.5mm (Φ3.15”x0.93”)",
+        "Weight": "185g(0.41lb)",
+        "Certification": "CE/FCC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/product/20180408/DH-HAP320-V_datasheet.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/audio-&-sensing/general-audio/outdoor-pickups/hap320-v"
+  }
+}

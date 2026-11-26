@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "Cat 7 Ethernet Cable 10 Meters -  Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353570251043",
+    "product_name": "Cat 7 Ethernet Cable 10 Meters -  Black",
+    "product_title": "Cat 7 Ethernet Cable 10 Meters -  Black",
+    "product_url": "https://antesports.com/products/aec7110-cat7-cable-600mhz-10m",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/51_8e7cbd39-eca3-449c-a8b9-836d66342ff4.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/aec7110-cat7-cable-600mhz-10m.html",
+  "detail": {
+    "title": "Cat 7 Ethernet Cable 10 Meters -  Black",
+    "model": "AEPP0268",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC7110 is a 10-metre Cat 7 Ethernet cable rated for 600MHz bandwidth, offering a meaningful step up in shielding and data performance over standard Cat 6 cables. Enhanced shielding reduces interference for a stable connection even over this longer run, making it a strong choice for gaming setups, home offices or media streaming across larger rooms. A durable black build ensures reliable, long-term performance across everyday wired networking tasks.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/51_8e7cbd39-eca3-449c-a8b9-836d66342ff4.png",
+        "alt": "Cat 7 Ethernet Cable 10 Meters -  Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Category": "Cat 7",
+        "Bandwidth": "600MHz",
+        "Length": "10 Meters",
+        "Color": "Black",
+        "CATEGORY": "Cat 7",
+        "BANDWIDTH": "600MHz",
+        "LENGTH": "10 Meters",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹899.00",
+        "MRP (INR)": "₹1,299.00",
+        "SKU": "AEPP0268"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec7110-cat7-cable-600mhz-10m"
+  }
+}

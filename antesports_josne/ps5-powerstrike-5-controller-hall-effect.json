@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "PS5 POWERSTRIKE 5 Controller"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348870107427",
+    "product_name": "PS5 POWERSTRIKE 5 Controller",
+    "product_title": "PS5 POWERSTRIKE 5 Controller",
+    "product_url": "https://antesports.com/products/ps5-powerstrike-5-controller-hall-effect",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_7d6974bb-9099-4312-b481-92abc6d967e2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ps5-powerstrike-5-controller-hall-effect.html",
+  "detail": {
+    "title": "PS5 POWERSTRIKE 5 Controller",
+    "model": "AEPP0297",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PS5 POWERSTRIKE 5 is a wireless controller built for gamers who want precision, comfort and versatility across PS5, PC, Mac, iOS, Android and Steam Deck. Ultra-precise Hall Effect joysticks and adaptive triggers deliver zero drift with 256-level pressure sensitivity and sub-0.1ms latency, giving racing, FPS and action titles genuinely responsive control. A 3.5mm headset jack and interactive multi-touch touchpad support swipe, tap and gesture navigation, while dual vibration motors with 4 strength levels and a 3-speed turbo function add depth for competitive play. Customizable RGB lighting with 7 colours and 4 dynamic modes lets you match the glow to your setup, and a 6-axis motion sensor with programmable buttons rounds out a genuinely feature-rich controller. A rechargeable battery delivers extended gameplay across Bluetooth wireless or USB wired connections.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/6_7d6974bb-9099-4312-b481-92abc6d967e2.jpg",
+        "alt": "PS5 POWERSTRIKE 5 Controller - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Joystick Type": "Hall Effect, 256-Level Pressure",
+        "Connectivity": "Bluetooth + USB Wired",
+        "Vibration": "Dual Motor, 4 Levels",
+        "Lighting": "7-Colour RGB, 4 Modes",
+        "Motion": "6-Axis Gyro Sensor",
+        "Compatibility": "PS5, PC, Mac, iOS, Android, Steam Deck",
+        "JOYSTICK TYPE": "Hall Effect, 256-Level Pressure",
+        "CONNECTIVITY": "Bluetooth + USB Wired",
+        "VIBRATION": "Dual Motor, 4 Levels",
+        "LIGHTING": "7-Colour RGB, 4 Modes",
+        "MOTION": "6-Axis Gyro Sensor",
+        "COMPATIBILITY": "PS5, PC, Mac, iOS, Android, Steam Deck",
+        "Offer Price (INR)": "₹4,499.00",
+        "MRP (INR)": "₹8,499.00",
+        "SKU": "AEPP0297"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ps5-powerstrike-5-controller-hall-effect"
+  }
+}

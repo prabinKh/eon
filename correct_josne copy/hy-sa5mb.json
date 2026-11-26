@@ -1,0 +1,148 @@
+{
+  "hierarchy": {
+    "category": "Fire Alarm",
+    "category_url": "https://www.dahuasecurity.com/products/fire-alarm",
+    "subcategory": "Residential Fire Alarm Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products",
+    "series": "Smoke Alarms",
+    "series_url": "https://www.dahuasecurity.com/my/products/fire-alarm/residential-fire-alarm-products/smoke-alarms",
+    "tab_title": "Smoke Alarms",
+    "tab_id": "14227",
+    "breadcrumbs": [
+      "Fire Alarm",
+      "Residential Fire Alarm Products",
+      "Smoke Alarms",
+      "Smoke Alarms"
+    ]
+  },
+  "card_info": {
+    "product_id": "154194",
+    "product_name": "HY-SA5MB",
+    "product_title": "Mains Smoke Alarm with Replaceable 9V Battery Back-up",
+    "product_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa5mb",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426647_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "fire-alarm/products/hy-sa5mb.html",
+  "detail": {
+    "title": "Mains Smoke Alarm with Replaceable 9V Battery Back-up",
+    "model": "HY-SA5MB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HY-SA5MB Mains Smoke Alarm with Replaceable 9V Battery Back-up Key Points Mains Powered Smoke Alarm with Replaceable Battery Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426647_thumb.png",
+        "alt": "HY-SA5MB_Rendergraph_30Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426648_thumb.png",
+        "alt": "HY-SA5MB_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426649_crop_thumb.png",
+        "alt": "HY-SA5MB_Rendergraph_Bottom-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426650_thumb.png",
+        "alt": "HY-SA5MB_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426651_thumb.png",
+        "alt": "HY-SA5MB_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_36_15599/ProductImage/1_0_01_36_15599_531426652_thumb.png",
+        "alt": "HY-SA5MB_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 186,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Collection Type": "Smoke",
+        "Sampling Period": "10 s",
+        "Sensor Type": "Photoelectric",
+        "Alarm Type": "Smoke alarm, fault warning, low battery warning",
+        "Alarm Response Threshold": "0.2dB/m-0.3dB/m",
+        "Alarm Volume": "≥ 85dB (A) at 3 m (9.84 ft)",
+        "Alarm Mode": "Visual and audible alarm",
+        "Silencing Function": "Yes",
+        "Silence Duration": "9 min",
+        "Silence by IR Remotes": "Support",
+        "Indicator Light": "Alarm, fault and operation indicator",
+        "LED Instructions": "Standby: Green indicator remains lit Alarm: Red indicator flashes once per second Sensor fault: Yellow indicator flashes twice per minute Low battery backup fault: Yellow indicator flashes once per minute",
+        "Maximum Number of Connected Units": "24 hardwire interconnected / 24 wirelessly interconnected with WisuLink wireless interconnected module",
+        "Power Source": "AC 100V - 250V, 50/60Hz",
+        "Battery Back-up": "Replaceable 9V alkaline battery",
+        "Battery Life": "1 year",
+        "Operating Environment": "Indoor",
+        "Operating Temperature": "-10°C to +55°C (+14°F to +131°F)",
+        "Operating Humidity": "≤95% RH (non condensing)",
+        "Color": "White",
+        "Casing": "PC+ABS",
+        "Dimensions": "φ148.6mm × H55.5mm (φ5.85\" × H2.19\")",
+        "Weight": "330 g",
+        "Installation": "Ceiling Mount",
+        "Certifications": "CE,UKCA,RCM,PSTI,BSI,Activfire",
+        "Compliance Standard": "EN 14604:2005+AC:2008 and AS 3786:2014"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82534/datasheet/1448471679544.pdf"
+      },
+      {
+        "name": "2026-01-13 #User Manual Mains Smoke Alarm(DHI-HY-SA5MA)_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82534/user_manual/Mains_Smoke_Alarm(DHI-HY-SA5MA)_User_s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2024-01-05 #Drawings HY-SA5MB_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82533/drawings/HY-SA5MA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-01-05 #Drawings HY-SA5MB_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82534/drawings/1_0_01_36_15599_535524231.pdf"
+      },
+      {
+        "name": "2024-01-05 #Drawings HY-SA5MB_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82534/drawings/1_0_01_36_15599_535524234.pdf"
+      },
+      {
+        "name": "2024-01-05 #Drawings HY-SA5MB_EXPLODED_VIEW Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82534/drawings/1_0_01_36_15599_535524230.pdf"
+      },
+      {
+        "name": "2025-10-15 #Firmware DHI_HYSA5MB_Eng_MCU_V1.000.0000006.0.R.251013 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3414370/M/DHI_HYSA5MB_Eng_MCU_V1.000.0000006.0.R.251013.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/fire-alarm/residential-fire-alarm-products/smoke-alarms/hy-sa5mb"
+  }
+}

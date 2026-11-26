@@ -1,0 +1,170 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/storage",
+    "series": "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/storage/ip-storage",
+    "tab_title": "EVS Series",
+    "tab_id": "569",
+    "breadcrumbs": [
+      "Network Products",
+      "Storage",
+      "Dahua 768CH 24-bay 4U Embedded Video Storage EVS7224S",
+      "EVS Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "155110",
+    "product_name": "EVS7275S",
+    "product_title": "Dahua 1024CH 75-bay 4U Embedded Video Storage",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7275s",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/image/1_0_01_05_10623_933322751_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/evs7275s.html",
+  "detail": {
+    "title": "Dahua 1024CH 75-bay 4U Embedded Video Storage",
+    "model": "EVS7275S",
+    "brand": "Dahua",
+    "overview": "Compare Favourite EVS7275S Dahua 1024CH 75-bay 4U Embedded Video Storage Key Points • Max 1024-ch IP camera inputs • Max 2048 Mbps incoming/recording/forwarding bandwidth • 75 bays, SAS/SATA, Hot-Swap • Supports RAID 0/1/5/6/10/50/60, Hot spare • Supports video stream direct storage mode and IPSAN storage mode • Supports N+M cluster • Modular and drawer-like design • 3+1 redundant 80PLUS platinum power supply Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/image/1_0_01_05_10623_933322751_crop_thumb.PNG",
+        "alt": "EVS7275S_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/image/1_0_01_05_10623_933328058_crop_thumb.PNG",
+        "alt": "EVS7275S_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/image/1_0_01_05_10623_933322750_crop_thumb.PNG",
+        "alt": "EVS7275S_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Operating System": {},
+      "Operating Interface": {},
+      "Controller": {},
+      "Cache": {},
+      "AI by Camera": {},
+      "Thermal": {},
+      "People Counting": {},
+      "Bullet-PTZ Smart Track": {},
+      "Fisheye Dewarp": {},
+      "High Toss": {},
+      "Cluster": {},
+      "Access Channel": {},
+      "Resolution": {},
+      "Multi-screen Display": {},
+      "Third-party Camera Access": {},
+      "Video Compression": {},
+      "Audio Compression": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Browser": {},
+      "Network Mode": {},
+      "Multi-channel Playback": {},
+      "Record Mode": {},
+      "Storage Method": {},
+      "Backup Method": {},
+      "Playback Function": {},
+      "Video Direct Storage (Private Protocol)": {},
+      "Video Direct Storage (Onvif)": {},
+      "Video Direct Storage (Auto Register)": {},
+      "Picture Direct Storage": {},
+      "Disk Group": {},
+      "Network Disk": {},
+      "RAID": {},
+      "Record Management": {},
+      "Storage Pool": {},
+      "IPSAN Performance": {},
+      "General Alarm": {},
+      "Anomaly Alarm": {},
+      "Alarm Linkage": {},
+      "Disk Interface": {},
+      "RS-232": {},
+      "USB": {},
+      "VGA": {},
+      "Network Port": {},
+      "Power": {},
+      "Network Port Extension": {},
+      "Disk Bay": {},
+      "Form Factor": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Fan": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Installation": {},
+      "Certifications": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/datasheet/DHI-EVS7275S_datasheet_20260806_English.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual Dahua Embedded Video Storage_User Manual_V5.3.6 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/Dahua_Embedded_Video_Storage_User_Manual_V5.3.6.pdf"
+      },
+      {
+        "name": "2026-06-26 #User Manual EVS HDD_Installation Guide_V1.1.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/3207/user_manual/EVS_HDD_Installation_Guide_V1.1.0.pdf"
+      },
+      {
+        "name": "2026-04-23 #A&E Document EVS7275S_A&E_20260914190614 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/a_e_document/1789384242287.docx"
+      },
+      {
+        "name": "2026-04-03 #Drawings EVS7275S_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/drawings/1_0_01_05_10623_732200085.pdf"
+      },
+      {
+        "name": "2026-04-21 #Drawings EVS7275S_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/drawings/1_0_01_05_10623_940701271.pdf"
+      },
+      {
+        "name": "2026-05-08 #Drawings EVS7275S_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/drawings/1_0_01_05_10623_946220026.pdf"
+      },
+      {
+        "name": "2026-05-15 #Firmware DH_EVS7275S_MultiLang_V5.002.0000001.1.R.260414 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87647/firmware/DH_EVS7275S_MultiLang_V5.002.0000001.1.R.260414.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/storage/ip-storage/evs-series/evs7275s"
+  }
+}

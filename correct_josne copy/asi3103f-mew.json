@@ -1,0 +1,185 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "154551",
+    "product_name": "ASI3103F-MEW",
+    "product_title": "Dahua QR Code,Face Recognition,Card Swiping,Remote Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi3103f-mew",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/image/1_0_01_25_12640_900240222_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi3103f-mew.html",
+  "detail": {
+    "title": "Dahua QR Code,Face Recognition,Card Swiping,Remote Face Recognition Access Controller",
+    "model": "ASI3103F-MEW",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASI3103F-MEW Dahua QR Code,Face Recognition,Card Swiping,Remote Face Recognition Access Controller Key Points • Slim Design to Fit Narrow Door Frame • 10,000 Faces, 10,000 Cards and 300,000 Records • 2-MP CMOS Dual-lens Camera, DWDR • 12V 1A Power Output for External Lock and Reader • Mechanical Vistor Call Button with Breathing Light • Easy Configuration via Wi-Fi AP Mode and Mobile Web Client • Remote Unlock via Bluetooth Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/image/1_0_01_25_12640_900240222_crop_thumb.PNG",
+        "alt": "ASI3103F-MEW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/image/1_0_01_25_12640_900240221_crop_thumb.PNG",
+        "alt": "ASI3103F-MEW_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/image/1_0_01_25_12640_900240223_crop_thumb.PNG",
+        "alt": "ASI3103F-MEW_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/image/1_0_01_25_12640_900240225_crop_thumb.PNG",
+        "alt": "ASI3103F-MEW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Network Protocol": {},
+      "OSDP Protocol": {},
+      "SDK and API": {},
+      "Product Type": {},
+      "Camera": {},
+      "WDR": {},
+      "Light Compensation": {},
+      "Voice Prompt": {},
+      "Speaker": {},
+      "Casing Material": {},
+      "Verification Method": {},
+      "Frequency Range": {},
+      "Max. Transmission Power": {},
+      "Period List": {},
+      "Holiday Period": {},
+      "Network Update": {},
+      "First User Unlock": {},
+      "Remote Verification": {},
+      "Restricted List/Trusted List": {},
+      "Bluetooth": {},
+      "Bluetooth Standard": {},
+      "Peripheral Card Reader": {},
+      "Multi-user Authentication": {},
+      "Real-time Monitoring": {},
+      "Multi-factor Authentication": {},
+      "Capture Function": {},
+      "Web Configuration": {},
+      "Auto Registration": {},
+      "Card Type": {},
+      "Modulation Type": {},
+      "Wi-Fi": {},
+      "Wireless Standard": {},
+      "Wireless Frequency Range": {},
+      "Card Reading Distance": {},
+      "Face Recognition Height Range": {},
+      "Face Recognition Distance": {},
+      "Face Recognition Accuracy": {},
+      "Face Recognition Time": {},
+      "User (Card) Type": {},
+      "Face Image Capacity": {},
+      "User Capacity": {},
+      "Card Capacity": {},
+      "Record Capacity": {},
+      "RS-485": {},
+      "Wiegand": {},
+      "USB": {},
+      "Network Port": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Exit Button": {},
+      "Door Status Detection": {},
+      "Lock Control": {},
+      "Power Output Port": {},
+      "Anti-pass Back": {},
+      "Tamper Alarm": {},
+      "Duress Alarm": {},
+      "Door Sensor Timeout": {},
+      "Intrusion": {},
+      "Illegal Card Exceeding Threshold": {},
+      "Power Adapter": {},
+      "Power Supply": {},
+      "Protection": {},
+      "Power Consumption": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Transport Package Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Operating Environment": {},
+      "Gross Weight": {},
+      "Accessory": {},
+      "Installation": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/datasheet/DHI-ASI3103F-MEW_datasheet_20260107.pdf"
+      },
+      {
+        "name": "2026-05-22 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86460/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-05-22 #User Manual Face Recognition Access Controller_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86460/user_manual/Face_Recognition_Access_Controller_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-12-23 #Drawings ASI3103F-MEW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86460/drawings/ASI3103F-MEPW_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-12-23 #Drawings ASI3103F-MEW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86460/drawings/ASI3103F-MEPW_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-12-23 #Drawings ASI3103F-MEW_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86460/drawings/ASI3103F-MEPW_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2026-09-18 #Firmware DH_ASIX2XX-A-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86461/firmware/DH_ASIX2XX-A-Freyja-B2_MultiLang_PN_V3.004.0000005.3.R.260903.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/lite/asi3103f-mew"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Education Series",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series",
+    "series": "ST430 Series",
+    "series_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series/st430-series",
+    "tab_title": "ST430 Series",
+    "tab_id": "18241",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Education Series",
+      "ST430 Series",
+      "ST430 Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "153405",
+    "product_name": "LPH65-ST430",
+    "product_title": "65 inch Smart Interactive Whiteboard",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series/st430-series/lph65-st430",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_12_10686/ProductImage/1_0_99_12_10686_813006228_crop_thumb.JPEG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/lph65-st430.html",
+  "detail": {
+    "title": "65 inch Smart Interactive Whiteboard",
+    "model": "LPH65-ST430",
+    "brand": "Dahua",
+    "overview": "Compare Favourite LPH65-ST430 65 inch Smart Interactive Whiteboard Key Points • Android 14, Enhanced Security and Data Protection • CPU: Quad-Core A73 • 8 GB RAM + 128 GB ROM • Brightness: 400 cd/m² • Speaker: 2 × 20 W • Google EDLA Certified • Pre-installed Google Apps (Chrome, YouTube, Play Store) • Google Play Store, Seamless Use of Third-Party Android Apps Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_12_10686/ProductImage/1_0_99_12_10686_813006228_crop_thumb.JPEG",
+        "alt": "LPH65-ST430_Rendergraph_45Left-logo.jpg",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_12_10686/ProductImage/1_0_99_12_10686_823169568_crop_thumb.JPEG",
+        "alt": "LPH65-ST430_Rendergraph_Front-logo.jpg",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Built-in System": {
+        "Operating System": "Android 14",
+        "CPU": "Quad core Cortex-A73",
+        "CPU Frequency": "1.5 GHz",
+        "GPU": "Mali G52MC1",
+        "RAM": "8 GB",
+        "ROM": "128 GB"
+      },
+      "General": {
+        "Operating System of External Module": "Windows 7/8/10/11",
+        "Power Supply": "100–240 VAC, 50/60 Hz",
+        "Power Consumption": "138 W (basic), 240 W (max)",
+        "Standby Power Consumption": "≤0.5 W",
+        "Operating Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Temperature": "–10 °C to +50 °C (+14 °F to +122 °F)",
+        "Operating Humidity": "10%–90%, 101 kPa",
+        "Storage Humidity": "10%–90%, 101 kPa",
+        "Product Material": "Metal casing",
+        "Glass": "4 mm anti-glare tempered glass",
+        "Casing Color (Frame/Rear)": "Black",
+        "Product Dimensions": "1,485.2 mm × 116.5 mm × 916.6 mm (58.47\" × 4.59\" × 36.09\") (L × W × H)",
+        "Frame Size": "Top frame: 28.7 mm (1.13\"); Left and right frame: 17.9 mm (0.71\"); Bottom frame: 61.6 mm (2.43\")",
+        "Packaging Dimensions": "1,580.0 mm × 200.0 mm × 1,000 mm (62.20\" × 7.87\" × 39.37\") (L × W × H)",
+        "Net Weight": "35 kg (77.16 lb)",
+        "Gross Weight": "44 kg (97.00 lb)",
+        "Holes Distance": "500 mm × 400 mm (19.69\" × 15.75\")",
+        "Installation": "Wall mount or mobile bracket",
+        "Packing List": "1 × Smart Interactive Whiteboard 1 × Power Cord 2 × Stylus Pen 1 × Quick Start Guide 1 × Wall Mount Bracket 1 × Remote Control 1 × Legal and Regulatory Information 1 × Wall-mount Screw Pack 2 × Aerial Rod"
+      },
+      "LCD Panel": {
+        "Screen Size": "65 inch",
+        "Backlight": "DLED",
+        "Aspect Ratio": "16:9",
+        "Brightness": "400 cd/m² (typ.)",
+        "Static Contrast Ratio": "VA: 4000: 1 (typ.); IPS: 1200: 1 (typ.)",
+        "Resolution": "3840 (H) × 2160 (V)",
+        "Viewing Angle": "178° (H)/178° (V)",
+        "Lifespan": "≥50,000 hrs",
+        "Display Color": "72% NTSC",
+        "Response Time": "≤ 8 ms",
+        "Refresh Rate": "60 Hz"
+      },
+      "Device Ports": {
+        "Light Sensor": "1",
+        "Front Button": "1 button：Power supply",
+        "Front Ports": "1 × USB Touch Type-B 2.0 port 1 × HDMI IN (4K@60 Hz) port 2 × USB 2.0 Type A (switchable) port 1 × TYPE-C (USB data transmission，5 V 1 A charge) port",
+        "Rear Port": "1 × RS-232 port 1 × USB Touch Type-B 2.0 port 2 × HDMI IN (4K@60 Hz) port 1 × RJ-45 IN (10/100 Mbps) port 1 × USB 2.0 Type A (switchable) port 1 × USB 3.2 Gen1 Type-A port 1 × MIC IN port 1 × LINE OUT port 1 × OPTICAL port",
+        "Others": "1 × OPS port",
+        "Wi-Fi": "YES",
+        "Wi-Fi Standard": "802.11 a/b/g/n/ac/ax",
+        "Wi-Fi Frequency Range": "2400–2483.5 MHz 5150–5250 MHz 5250–5350 MHz 5470–5725 MHz 5725–5850 MHz",
+        "MAX Power Transmission (Wi-Fi)": "≤20 dBm@2400–2483.5 MHz ≤23 dBm@5150–5250 MHz ≤20 dBm@5250–5350 MHz ≤27 dBm@5470–5725 MHz ≤14 dBm@5725–5850 MHz",
+        "Bluetooth": "YES",
+        "Bluetooth Standard": "BR/EDR/BLE, BT5.4",
+        "Bluetooth Frequency Range": "2400–2483.5 MHz",
+        "MAX Power Transmission (Bluetooth)": "≤20 dBm@2400–2483.5 MHz"
+      },
+      "Function": {
+        "IR Receiver": "1"
+      },
+      "Touchscreen": {
+        "Touch Technology": "Infrared",
+        "Attachment Method": "Zero Air Gap",
+        "Response Time": "≤5 ms",
+        "Touch Points": "Windows: 40 points Android: 32 points",
+        "Touch Accuracy": "±1.5 mm",
+        "Valid Touch": "2 mm (0.08\") (covers 90% of the area)",
+        "Touch Height": "≤2 mm",
+        "Writing Mode": "Finger and stylus pen (magnetic)",
+        "Communication Mode": "USB + UART",
+        "Anti-light Interference": "Anti-glare tempered glass",
+        "Surface Hardness": "≥ 9 H",
+        "Touch Resolution": "32767 × 32767"
+      },
+      "Speaker": {
+        "Built-in Speaker": "2 full-range speakers; The power of a single speaker is not less than 20 W",
+        "Power": "2.0 sound channel, front-end: 2 × 20 W",
+        "Frequency": "140 Hz–20 kHz"
+      },
+      "Certification": {
+        "Certifications": "CE; EDLA; Energy Star"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84358/datasheet/DHI-LPH65-ST430_datasheet_20250730.pdf"
+      },
+      {
+        "name": "2025-08-09 #User Manual Dahua Smart Interactive Whiteboard_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010862/3318671/Dahua_Smart_Interactive_Whiteboard_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-08-09 #User Manual Dahua Smart Interactive Whiteboard_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010862/202508/Dahua_Smart_Interactive_Whiteboard_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-15 #A&E Document LPH65-ST430_A&E_20260901170411 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84358/a_e_document/1788253849279.docx"
+      },
+      {
+        "name": "2025-07-02 #Drawings LPH65-ST430_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84344/drawings/DHI-LPH65-ST430_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-07-02 #Drawings LPH65-ST430_PORT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84344/drawings/DHI-LPH65-ST430_PORT.pdf"
+      },
+      {
+        "name": "2025-07-02 #Drawings LPH65-ST430_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84345/drawings/DHI-LPH75-ST430_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-08-14 #Firmware DHI_DeepHubEdlaLite_V1.001.0000000.1.R.20250707-release Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3315121/DHI_DeepHubEdlaLite_V1.001.0000000.1.R.20250707-release.zip"
+      },
+      {
+        "name": "2025-08-14 #Firmware DHI_DeepHubEdlaLite_V1.001.0000000.1.R.20250707-ota Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3315831/DHI_DeepHubEdlaLite_V1.001.0000000.1.R.20250707-ota.zip"
+      },
+      {
+        "name": "2025-08-14 #Firmware DHI_DeepHubEdlaLite_V1.001.0000000.1.R.20250707-local-OTA Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3318251/DHI_DeepHubEdlaLite_V1.001.0000000.1.R.20250707-local-OTA.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/education-series/st430-series/lph65-st430"
+  }
+}

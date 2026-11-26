@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Power Strips",
+    "subcategory_url": "https://antesports.com/collections/power-strips",
+    "series": "Power Strips Series",
+    "series_url": "https://antesports.com/collections/power-strips",
+    "tab_title": "Power Strips",
+    "tab_id": "508173418787",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Power Strips",
+      "ELECTRAPOLE Tower Power Strip"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348821938467",
+    "product_name": "ELECTRAPOLE Tower Power Strip",
+    "product_title": "ELECTRAPOLE Tower Power Strip",
+    "product_url": "https://antesports.com/products/electrapole-tower-power-strip-8-socket-2",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35_89405e6c-6c7a-47f6-948e-eaf9b61ad1b2.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/electrapole-tower-power-strip-8-socket-2.html",
+  "detail": {
+    "title": "ELECTRAPOLE Tower Power Strip",
+    "model": "ANTR0093",
+    "brand": "Ant Esports",
+    "overview": "The Ant ELECTRAPOLE is a vertical tower power strip that packs 8 universal AC sockets, 4 USB ports and 2 USB Type-C ports into a single space-saving column, letting you power laptops, monitors, routers, speakers and gaming accessories from one compact unit without extra adapters. Rated for 2500W / 10A, it's built for demanding home, office and gaming setups, while a flame-retardant ABS body and copper conductor deliver durability alongside a Child Safety Shutter, Overload Protector and One-Key master switch for safe everyday use. An LED indicator shows live power status at a glance, and a 3-metre cord offers flexible placement across desks, TV units or workstations, all wrapped in a vertical design that keeps clutter off the desktop.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/35_89405e6c-6c7a-47f6-948e-eaf9b61ad1b2.jpg",
+        "alt": "ELECTRAPOLE Tower Power Strip - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Sockets": "8 Universal AC",
+        "USB Ports": "4 x USB + 2 x Type-C",
+        "Power Rating": "2500W / 10A",
+        "Cord Length": "3 Meter",
+        "Design": "Vertical Tower",
+        "Protection": "Child Safety Shutter, Overload Protector",
+        "SOCKETS": "8 Universal AC",
+        "USB PORTS": "4 x USB + 2 x Type-C",
+        "POWER RATING": "2500W / 10A",
+        "CORD LENGTH": "3 Meter",
+        "DESIGN": "Vertical Tower",
+        "PROTECTION": "Child Safety Shutter, Overload Protector",
+        "Offer Price (INR)": "₹649.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0093"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/electrapole-tower-power-strip-8-socket-2"
+  }
+}

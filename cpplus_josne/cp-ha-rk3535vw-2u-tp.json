@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Racks",
+    "category_url": "https://cpplusworld.com/products/racks",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/racks",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "109",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Racks",
+      "CP-HA-RK3535VW-2U-TP"
+    ]
+  },
+  "card_info": {
+    "product_id": "2196",
+    "product_name": "CP-HA-RK3535VW-2U-TP",
+    "product_title": "CP-HA-RK3535VW-2U-TP",
+    "product_url": "https://cpplusworld.com/cp-ha-rk3535vw-2u-tp",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/dc4dcc06-3def-4413-9d9b-4ceda3a728a4.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-ha-rk3535vw-2u-tp.html",
+  "detail": {
+    "title": "CP-HA-RK3535VW-2U-TP",
+    "model": "CP-HA-RK3535VW-2U-TP",
+    "brand": "CP Plus",
+    "overview": "2U DVR/NVR Wall Mount Rack",
+    "features": [
+      "Easy Wall-Mounting Design",
+      "Suitable for Networking, Telecom & CCTV Applications",
+      "Built with high-quality CRC sheet 0.45mm (CR2 Grade)",
+      "Lockable Front Door",
+      "Top & Bottom Cable Entry Provision with Rubber Edge Protection",
+      "Finished with powder coating",
+      "Powder-Coated Durable Finish (RAL 7035 Grey)",
+      "8kg Load Bearing Capacity"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/dc4dcc06-3def-4413-9d9b-4ceda3a728a4.jpg",
+        "alt": "CP-HA-RK3535VW-2U-TP - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/695a4d17-c995-496a-b3bf-78f8ff01777f.jpg",
+        "alt": "CP-HA-RK3535VW-2U-TP - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {},
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-HA-RK3535VW-2U-TP.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-ha-rk3535vw-2u-tp"
+  }
+}

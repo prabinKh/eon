@@ -1,0 +1,190 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "View All",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-1-series",
+    "tab_title": "MultiVision",
+    "tab_id": "18205",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "View All",
+      "MultiVision"
+    ]
+  },
+  "card_info": {
+    "product_id": "153117",
+    "product_name": "IPC-PTS1439B-E2-S-PV",
+    "product_title": "4+4MP Active Deterrance Dual-lens Fixed-focal Entry Network PT Camera",
+    "product_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/ip-pt-1-series/multivision/ipc-pts1439b-e2-s-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46495/ProductImage/1_0_01_04_46495_784663042_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-pts1439b-e2-s-pv.html",
+  "detail": {
+    "title": "4+4MP Active Deterrance Dual-lens Fixed-focal Entry Network PT Camera",
+    "model": "IPC-PTS1439B-E2-S-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite IPC-PTS1439B-E2-S-PV 4+4MP Active Deterrance Dual-lens Fixed-focal Entry Network PT Camera Key Points • Versatile Pan-Tilt for Wide-Area Security Monitoring • Dual Lenses, Double Protection. Dual 4MP Fixed and PT Lenses Protect Two Areas, Reducing Blind Spots • Smart Dual Light: Built-in IR and LED Lights with 3 Illumination Modes Supported • Deep Learning-Based Human and Vehicle Classification • Built-in Mic & Speaker: Secure Real-Time Talk • Efficient H.264+/H.265+ Compression Technology • IP66 Ratings for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46495/ProductImage/1_0_01_04_46495_784663042_crop_thumb.PNG",
+        "alt": "IPC-PTS1439B-E2-S-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46495/ProductImage/1_0_01_04_46495_784663050_crop_thumb.PNG",
+        "alt": "IPC-PTS1439B-E2-S-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46495/ProductImage/1_0_01_04_46495_784663041_crop_thumb.PNG",
+        "alt": "IPC-PTS1439B-E2-S-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_46495/ProductImage/1_0_01_04_46495_784663051_crop_thumb.PNG",
+        "alt": "IPC-PTS1439B-E2-S-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "General": {
+        "Image Sensor": "Channel 1 (PT Lens): 1/3\" CMOS Channel 2 (Fixed Lens): 1/3\" CMOS",
+        "Max. Resolution": "Channel 1 (PT Lens): 2560 (H) × 1440 (V) Channel 2 (Fixed Lens): 2560 (H) × 1440 (V)",
+        "ROM": "128 MB",
+        "RAM": "512 MB",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "Min. Illumination": "0.008 lux@F1.6 (Color,30 IRE) 0.0008 lux@F1.6( B/W,30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">56 dB",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator On/Off Control": "Auto; Manual",
+        "Illuminator Number": "4 (IR LED); 4 (Warm light)",
+        "Lens Type": "Channel 1 (PT Lens): Fixed-focal Channel 2 (Fixed Lens): Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "Channel 1 (PT Lens): 3.6 mm Channel 2 (Fixed Lens): 3.6 mm",
+        "Max. Aperture": "Channel 1 (PT Lens): F1.6 Channel 2 (Fixed Lens): F1.6",
+        "Field of View": "Channel 1 (PT Lens): H: 78°; V: 42°; D: 92° Channel 2 (Fixed Lens): H: 78°; V: 42°; D: 92°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "Channel 1 (PT Lens): 1.5 m (4.92 ft) Channel 2 (Fixed Lens): 1.5 m (4.92 ft)",
+        "DORI Distance": "Lens",
+        "Channel 1 (PT Lens)": "78.0 m (255.91 ft)",
+        "Channel 2 (Fixed Lens)": "78.0 m (255.91 ft)",
+        "SMD": "SMD Plus",
+        "Smart Search": "Work together with Smart NVR to perform refine intelligent search, event extraction and merging to event videos",
+        "Video Compression": "H.265; H.264; H.264H; H.264B; MJPEG (Only supported by sub stream)",
+        "Smart Codec": "Smart H.265+; Smart H.264+",
+        "Video Frame Rate": "Channel 1 (PT Lens): Main stream: 2560 × 1440@(1–25 fps) sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–25 fps) Channel 2 (Fixed Lens): Main stream: 2560 × 1440@(1–25 fps) sub stream: 704 × 576@(1–25 fps)/704 × 480@(1–25 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Streaming Capability": "2 streams",
+        "Resolution": "Channel 1 (PT Lens): 4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240); Channel 2 (Fixed Lens): 4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Bit Rate Control": "VBR; CBR",
+        "Video Bit Rate": "H.264: 32 kbps–6144 kbps; H.265: 32 kbps–6144 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "BLC": "Yes",
+        "HLC": "Yes",
+        "WDR": "120 dB",
+        "White Balance": "Auto; natural; street lamp; outdoor; manual; regional custom",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Region of Interest (RoI)": "Yes (4 areas)",
+        "Smart Illumination": "Yes",
+        "Smart Dual Light": "Yes",
+        "Image Rotation": "0°/180°",
+        "Mirror": "Yes",
+        "Privacy Masking": "4 areas",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM; G.726",
+        "Alarm Event": "No SD card; SD card full; SD card error; network disconnection; IP conflict; illegal access; motion detection; video tampering; audio detection; SMD; security exception",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "SDK and API": "Yes",
+        "Network Protocol": "IPv4; IPv6; HTTP; TCP; UDP; ARP; RTP; RTSP; RTCP; RTMP; SMTP; FTP; DHCP; DNS; DDNS; NTP; Multicast; ICMP; IGMP; P2P; Auto Registration",
+        "Security": "HTTPS; Trusted upgrade;Digest; WSSE; Account lockout; Trusted execution; Generation and importing of X.509 certification; Security logs; Trusted boot",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI",
+        "User/Host": "20 (Total bandwidth: 48 M)",
+        "Storage": "FTP; Micro SD card (support max. 256 GB)",
+        "Browser": "IE; Chrome; Firefox",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "Android;iOS",
+        "Light Warning": "Warm light warning Flash/Solid on duration: 5 s–180 s Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 3 sound alarms and supports importing custom sound alarms. Sound: 0-100. Play times can be set from 1 to 10.",
+        "Pan/Tilt Range": "Channel 1 (PT Lens): Pan: 0° to 350°; Tilt: 0° to 90°; Channel 2 (Fixed Lens): Pan: 0° to 326°; Tilt: –10° to 15°",
+        "Manual Control Speed": "Pan: 0.1°/s–55.4°/s; Tilt: 0.1°/s–29.3°/s",
+        "Preset": "50",
+        "Preset Speed": "Pan: 55.4°/s; Tilt: 29.3°/s",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset",
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU",
+        "Power Supply": "12 VDC (±30%); PoE (802.3af)",
+        "Power Consumption": "Basic: 3.2 W (12 VDC); 4.2 W (PoE); Max.: 8.6 W (12 VDC); 10.5 W (PoE) (intelligence on + WDR + illuminator on + PT rotation + speaker on)",
+        "Operating Temperature": "–40 °C to +50 °C (–40 °F to +122 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +50 °C (–40 °F to +122 °F)",
+        "Storage Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP66",
+        "Casing Material": "Plastic",
+        "Product Dimensions": "159.4 mm × 110.1 mm × 210 mm (6.28\" × 4.33\" × 8.27\") (L × W × H)",
+        "Net Weight": "0.62 kg (1.37 lb)",
+        "Gross Weight": "0.85 kg (1.87 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/IPC-PTS1439B-E2-S-PV_S0_datasheet_20250729.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-02 #User Manual Dahua PanTilt Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84321/user_manual/Dahua_PanTilt_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-06-09 #A&E Document IPC-PTS1439B-E2-S-PV_A&E_20260918035608 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84321/a_e_document/1789675860264.docx"
+      },
+      {
+        "name": "2025-04-12 #Drawings IPC-PTS1439B-E2-S-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84321/drawings/IPC-PTS1439B-E2-S-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-04-12 #Drawings IPC-PTS1439B-E2-S-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82990/drawings/IPC-PTS2249B-E2-S-PV-PRO_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2026-07-07 #Firmware DH_IPC-HX1XXX-DC-Hugo_EngSpnRusUkr_PN_V3.120.0000000.38.R.260623 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84321/firmware/DH_IPC-HX1XXX-DC-Hugo_EngSpnRusUkr_PN_V3.120.0000000.38.R.260623.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/ip-pt-1-series/multivision/ipc-pts1439b-e2-s-pv"
+  }
+}

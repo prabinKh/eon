@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Gaming Cabinet",
+    "subcategory_url": "https://www.intex.in/collections/gaming-cabinet",
+    "series": "Gaming Cabinet Series",
+    "series_url": "https://www.intex.in/collections/gaming-cabinet-series",
+    "tab_title": "Gaming Cabinet",
+    "tab_id": "8613536858330",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Gaming Cabinet",
+      "Computer Gaming Cabinet Core"
+    ]
+  },
+  "card_info": {
+    "product_id": "8613536858330",
+    "product_name": "Computer Gaming Cabinet Core",
+    "product_title": "Computer Gaming Cabinet Core",
+    "product_url": "https://www.intex.in/products/computer-gaming-cabinet-core",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 5499.0,
+      "display": "₹5,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/computer-gaming-cabinet-core.html",
+  "detail": {
+    "title": "Computer Gaming Cabinet Core",
+    "model": "Core",
+    "brand": "Intex",
+    "overview": "Unleash your gaming beast with the Core mid-tower case. Its sleek design, featuring a tempered glass side panel and vibrant LED fans, showcases your high-performance rig in style. Built tough with ample space for top-tier components, the Core ensures optimal cooling and smooth gameplay.",
+    "features": [
+      "3x120mm Front Rainbow LED Fans",
+      "Clear Tempered Side Glass Panel",
+      "USB 3.0 Ready",
+      "ABS+Steel Net Front Panel",
+      "Smooth Airflow",
+      "ATX/M-ATX/ITX"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP.png",
+        "alt": "Computer Gaming Cabinet Core",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "3x120mm Front Rainbow LED Fans",
+        "Feature 2": "Clear Tempered Side Glass Panel",
+        "Feature 3": "USB 3.0 Ready",
+        "Feature 4": "ABS+Steel Net Front Panel",
+        "Feature 5": "Smooth Airflow",
+        "Feature 6": "ATX/M-ATX/ITX"
+      },
+      "General": {
+        "Model": "Core"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Gaming_Cabinet_Core_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/computer-gaming-cabinet-core"
+  }
+}

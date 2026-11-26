@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "Biometric",
+    "category_url": "https://cpplusworld.com/products/biometric",
+    "subcategory": "Time & Attendance",
+    "subcategory_url": "https://cpplusworld.com/products/time-attendence/biometric",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Time & Attendance",
+    "tab_id": "23",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Time & Attendance",
+      "Biometric",
+      "CP-VTA-T2324-U"
+    ]
+  },
+  "card_info": {
+    "product_id": "6",
+    "product_name": "CP-VTA-T2324-U",
+    "product_title": "CP-VTA-T2324-U",
+    "product_url": "https://cpplusworld.com/cp-vta-t2324-u",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/9718ecf1-4016-40c9-af55-e46bd5beebe5.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-vta-t2324-u.html",
+  "detail": {
+    "title": "CP-VTA-T2324-U",
+    "model": "CP-VTA-T2324-U",
+    "brand": "CP Plus",
+    "overview": "Fingerprint Time Attendance",
+    "features": [
+      "2.4\" high-definition color Display (6.096 cm)",
+      "Fingerprint capturing: Optical Sensor",
+      "Failed Recognition Rate: <=0.0001%",
+      "False Acceptance Rate: <=0.01%",
+      "Recognition Speed: <1s",
+      "Recognition ways: 1:N, 1:1",
+      "Fingerprint capacity: 1000"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/9718ecf1-4016-40c9-af55-e46bd5beebe5.png",
+        "alt": "CP-VTA-T2324-U - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8c6eefa4-6bfe-4415-9497-f74dd39cd9fa.png",
+        "alt": "CP-VTA-T2324-U - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "LCD": "2.4\" high-definition color Display (6.096 cm)",
+        "Fingerprint capturing": "Optical Sensor",
+        "Failed Recognition Rate": "<=0.0001%",
+        "False Acceptance Rate": "<=0.01%",
+        "Recognition Speed": "<1s",
+        "Recognition ways": "1:N, 1:1",
+        "Fingerprint Capacity": "1000",
+        "Password Capacity": "1000",
+        "Card Capacity": "1000",
+        "Storage Capacity": "100000",
+        "Identification Mode": "Fingerprint, Card and Password",
+        "Communication": "USB Flash Drive, Host",
+        "Operating Temperature": "-0°C - 60°C",
+        "Humidity": "20% -80%",
+        "Power": "DC5V",
+        "Color": "Black",
+        "Dimension": "170mm × 120mm × 35mm",
+        "Weight": "230g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-VTA-T2324-U.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/8252ac93-dd65-404f-8ca3-bed8cf74dc97.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-vta-t2324-u"
+  }
+}

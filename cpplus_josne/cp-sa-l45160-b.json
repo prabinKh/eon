@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "Illuminators",
+    "category_url": "https://cpplusworld.com/products/illuminators",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/illuminators",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "88",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Illuminators",
+      "CP-SA-L45160-B"
+    ]
+  },
+  "card_info": {
+    "product_id": "476",
+    "product_name": "CP-SA-L45160-B",
+    "product_title": "CP-SA-L45160-B-IR Illuminator - 160-100 Meter | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-sa-l45160-b",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/da8bfe78-6290-468a-ae44-70f86c35a4d7.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-sa-l45160-b.html",
+  "detail": {
+    "title": "CP-SA-L45160-B-IR Illuminator - 160-100 Meter | Cp Plus | Cpplusworld.com",
+    "model": "CP-SA-L45160-B",
+    "brand": "CP Plus",
+    "overview": "IR Illuminator - 160-100 Meter",
+    "features": [
+      "The Function of video analysis at night",
+      "Reduce signal noise and other image distortion",
+      "Conventional night monitoring",
+      "To improve performance of the weak light camera and enhancing the picture effects at night.",
+      "Reduce the network bandwidth requirements",
+      "Energy saving by power factor correction"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/da8bfe78-6290-468a-ae44-70f86c35a4d7.jpg",
+        "alt": "CP-SA-L45160-B - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/944bbfeb-e495-4a91-b225-b6c69ee40582.jpg",
+        "alt": "CP-SA-L45160-B - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Material": "Aluminium",
+        "Mount": "Wall mouting",
+        "LED Type": "18pcs 2W dot-matrix IR LED",
+        "Panel": "High light transmittance toughened glass",
+        "BeamAngle": "15° - 45°",
+        "Day and night switch": "Auto (build in photocell)",
+        "IR": "160-100 Mtr.",
+        "Operating Temperature": "-40°C to 50°C",
+        "Power Consumption": "36W (850nm)",
+        "Cable Length": "1.3 meter",
+        "Net Weight(g)": "3kg",
+        "Dimension": "280mm x 105mm x 88mm",
+        "Power Source": "AC85-265V/DC12V/AC24V",
+        "Weatherproof Standard": "IP66"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-SA-L45160-B.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-sa-l45160-b"
+  }
+}

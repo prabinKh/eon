@@ -1,0 +1,179 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "View All",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-1-series",
+    "tab_title": "Single Lens",
+    "tab_id": "18204",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "View All",
+      "Single Lens"
+    ]
+  },
+  "card_info": {
+    "product_id": "143911",
+    "product_name": "SD2A500NB-GNY-A-PV",
+    "product_title": "5MP Smart Dual Light Network PT Camera",
+    "product_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/ip-pt-1-series/single-lens/sd2a500nb-gny-a-pv",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240328/1_0_01_07_15509_11121576341_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd2a500nb-gny-a-pv.html",
+  "detail": {
+    "title": "5MP Smart Dual Light Network PT Camera",
+    "model": "SD2A500NB-GNY-A-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD2A500NB-GNY-A-PV 5MP Smart Dual Light Network PT Camera Key Points • High-Quality Imaging with 5MP Resolution • Expansive Night View With up to 50 m IR Distance for 24/7 Monitoring • Smart Dual Light: Expansive Night View with up to 50m IR Distance and 50m White Light • Deep Learning-Based Human and Vehicle Classification • Active Deterrence: Audible and Visual Alarms Can Be Triggered by Certain Events to Drive Away the Target • Real-Time Communication via Built-In Two-Way Talk • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240328/1_0_01_07_15509_11121576341_thumb.png",
+        "alt": "SD2A500NB-GNY-A-PV_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240328/1_0_01_07_151509_1112576371_thumb.png",
+        "alt": "SD2A500NB-GNY-A-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "5 MP",
+        "Max. Resolution": "2560 (H) × 1920(V)",
+        "ROM": "128 MB",
+        "RAM": "128 MB",
+        "Electronic Shutter Speed": "1 s–1/100,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.05 lux@F1.6 (Color, 30 IRE); 0.005 lux@F1.6 (B/W, 30 IRE);",
+        "Illumination Distance": "30 m (98.43 ft) (warm light); 30 m (98.43 ft) (IR);",
+        "Illuminator On/Off Control": "Manual; auto; off",
+        "Illuminator Number": "2 (IR light); 2 (warm light)",
+        "Focal Length": "4.0 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "H: 80.4°; V: 58.1°; D: 104.8°",
+        "Close Focus Distance": "0.3 m (0.98 ft)",
+        "Iris Control": "Fixed",
+        "DORI Distance": "Lens",
+        "4.0 mm": "77.4 m ( 253.94 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 345°; Tilt: 0° to +80°",
+        "Manual Control Speed": "Pan: 0.1°–74°/s; Tilt: 0.1°–36.4°/s",
+        "Preset Speed": "Pan: 0.1°–62°/s; Tilt: 0.1°–36.3°/s",
+        "Preset": "300",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset",
+        "IVS": "Tripwire; intrusion",
+        "Human Detection": "Yes",
+        "SMD": "SMD 3.0",
+        "Light Warning": "Warm light warning; Flash duration: 5 s–30 s; Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 1 sound alarm and 10 custom sound alarms can be imported; Sound can be set from 0%–100%; Play times can be set from 1-10.",
+        "Video Compression": "Smart H.265+;H.265;Smart H.264+;H.264B;H.264M;H.264H;MJPEG(Sub Stream 1)",
+        "Streaming Capability": "2 streams",
+        "Resolution": "5M (2560 × 1920); 4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480); CIF (352 × 288/352 × 240)",
+        "Video Frame Rate": "Main stream: 5M/4M/3M/1080p/1.3M/720p@(1–25/30 fps) Sub stream 1: D1/VGA/CIF@(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H264: 104 kbps-8,192 kbps H265: 41 kbps-8,192 kbps",
+        "Day/Night": "Auto (ICR); Color/B/W",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Defog": "Electronic",
+        "Image Rotation": "180°",
+        "Privacy Masking": "4 area",
+        "S/N Ratio": "≥55 dB",
+        "Audio Compression": "PCM；G.711a；G.711Mu；G.726；AAC；",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "HTTP;HTTPS;TCP/IP;IPv4;RTSP;UDP;SMTP;NTP;DHCP;DNS;DDNS;IPv6;SSL;FTP;ARP;RTCP;RTP;IP Filter;RTMP",
+        "Interoperability": "CGI;SDK;ONVIF (Profile S & Profile T);RTMP;P2P",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "Micro SD card (256 GB); FTP",
+        "Browser": "IE: IE 7 and later versions; Chrome; Firefox; Safari",
+        "Management Software": "Smart PSS;DMSS;Player;ConfigTool;NVR;Smart Player",
+        "Mobile Client": "iOS;Android",
+        "Certifications": "CE: EN55032/EN50130-4/EN IEC61000-3-3/EN IEC61000- 3-2/EN55024/EN55035/EN62368-1 FCC: 47 CFR FCC Part15, Subpart B, ANSI C63.4:2014",
+        "Audio Input": "1 channel (built-in mic)",
+        "Audio Output": "1 channel (built-in speaker)",
+        "Alarm Linkage": "Capture; preset; recording; audio; sending email",
+        "Alarm Event": "Motion/Tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Power Supply": "12 VDC/1.5 A ± 10% PoE (802.3af)",
+        "Power Consumption": "Basic: 3.5 W; Max: 10 W (illuminator)",
+        "Power Adapter": "Optional",
+        "Operating Temperature": "–30 °C to +55 °C (–22 °F to +131 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "TVS 2000 V lightning proof; surge protection; voltage transient protection;Waterproof and Dustproof",
+        "Product Dimensions": "140.5 mm × Φ111.0 mm (5.53\" × Φ4.37\")",
+        "Net Weight": "0.5 kg (1.10 lb)",
+        "Gross Weight": "1 kg (2.20 lb)",
+        "Remarks": "* The precision of the presets for PTZ cameras might vary depending on different series. For scenes with high requirements on the precision, contact your local sales representative for assistance with selecting the model"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/ph/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/ph/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-SD2A500NB-GNY-A-PV_S0_datasheet_20250924.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User's_Manual_V3.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/user_manual/Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User_27s_Manual_V3.0.3.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Installation Guide_V1.0.0_(SD2A-POE) Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/user_manual/Installation_Guide_V1.0.0_(SD2A-POE).pdf"
+      },
+      {
+        "name": "2024-03-18 #A&E Document SD2A500NB-GNY-A-PV_A&E_20260918004238 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80771/a_e_document/1789663897424.docx"
+      },
+      {
+        "name": "2023-12-07 #Drawings SD2A500NB-GNY-A-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/drawings/SD2A300NB-GNY-A-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-09-10 #Drawings SD2A500NB-GNY-A-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/drawings/SD2A300NB-GNY-A-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-09-10 #Firmware DH_SD-Kant_MultiLang_PN_V2.820.0000017.0.R.250821 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86390/firmware/DH_SD-Kant_MultiLang_PN_V2.820.0000017.0.R.250821.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/ph/products/network-products/pt-cameras/ip-pt-1-series/single-lens/sd2a500nb-gny-a-pv"
+  }
+}

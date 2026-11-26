@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "Lenses",
+    "category_url": "https://cpplusworld.com/products/lenses",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://cpplusworld.com/products/accessories/lenses",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Accessories",
+    "tab_id": "87",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Accessories",
+      "Lenses",
+      "CP-UML-AF550-V2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2279",
+    "product_name": "CP-UML-AF550-V2",
+    "product_title": "CP-UML-AF550-V2",
+    "product_url": "https://cpplusworld.com/cp-uml-af550-v2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/f9251b98-967b-422d-b8e0-110fbeca162c.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-uml-af550-v2.html",
+  "detail": {
+    "title": "CP-UML-AF550-V2",
+    "model": "CP-UML-AF550-V2",
+    "brand": "CP Plus",
+    "overview": "6MP 1/2.7” 5-50mm Vari-focal Lens",
+    "features": [
+      "1/2.7” 6MP Image sensor (0.9407 centimeter)",
+      "6MP Lens",
+      "CS Mount"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f9251b98-967b-422d-b8e0-110fbeca162c.png",
+        "alt": "CP-UML-AF550-V2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/cec833f7-504c-44d7-984f-de1ee0e22025.png",
+        "alt": "CP-UML-AF550-V2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7” 6MP Image sensor (0.9407 centimeter)",
+        "Focal length(mm)": "5–50 mm",
+        "Lens Pixel": "6MP",
+        "Aperture(F)": "F1.6",
+        "IR Light": "Support",
+        "Total Optical Length": "91 mm ± 1 mm (3.54",
+        "Flange Back Focal Length": "12.53 mm ± 0.2 mm (0.49",
+        "Mechanical Back Focal Length": "6.8 mm ± 0.2 mm (0.27",
+        "Angle of View": "W: 65.7° × 49.6° × 36.9°                                                                                                                                             T: 8.7° × 7° × 5.2°",
+        "TV Distortion": "–8% @Ф6.6 mm",
+        "Zoom": "Manual",
+        "Focus Control": "Manual",
+        "Iris Control": "DC-Iris",
+        "Mount": "CS",
+        "Color": "Black",
+        "Operating temperature": "–30°C to +70°C (–22°F to +158°F)",
+        "Operating Humidity": "95% (RH)",
+        "Storage Temperature": "–40°C to +80°C (–40°F to +176°F)",
+        "Storage Humidity": "95% (RH)",
+        "Casing": "Metal, plastic",
+        "Dimension": "Φ44 mm × 85.7 mm",
+        "Weight": "200g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UML-AF550-V2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uml-af550-v2"
+  }
+}

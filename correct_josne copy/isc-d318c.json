@@ -1,0 +1,153 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "153797",
+    "product_name": "ISC-D318C",
+    "product_title": "Walk-through Metal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d318c",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_756729557_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-d318c.html",
+  "detail": {
+    "title": "Walk-through Metal Detector",
+    "model": "ISC-D318C",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-D318C Walk-through Metal Detector Key Points ●Supports 6-12-18 Zone ●Display: 3.5-Inch LCD Screen ●Supports Remote Control With A Distance Of Up To 20 Meters ●Sensitivity: 255 Levels Adjustable ●Supports Outdoor Installation With IP65 Waterproof Rating ●Enables Operation Via Remote Control With A Distance Of 20 Meters ●Supports A Maximum Of 4 Detectors Used Side By Side Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_756729557_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_756729558_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_756729559_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_756729556_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_809596192_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_809596194_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_809596165_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10471/ProductImage/1_0_01_46_10471_809596190_crop_thumb.PNG",
+        "alt": "ISC-D318C_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Technology": {
+        "Detection Type": "Minimum detection type: a No.8 folding knife.",
+        "Precise Positioning": "Equipped with dual-sided transmission and dual-sided reception capabilities, this system features 18 overlapping mesh detection areas that enable precise localization of detected objects. The detector panels are integrated with a row of LED indicators, providing a visual display of the alarm zones.",
+        "Multi-zone Alarm": "Supports 6-12-18 zone settings, multiple positions of metal can be located simultaneously.",
+        "IR Sensor": "Scattered infrared device reduces false and missed alarms, and achieves automatic statistics of alarm number and pass number.",
+        "Adjustable Sensitivity": "Adjustable sensitivity: 256-level sensitivity available for each detection zone (0–255), which can be adjusted to the appropriate sensitivity according to the detection requirements (the larger the sensitivity value, the higher the sensitivity).",
+        "Leakage Current": "The leakage current of the device during operation meets the safety requirements of electronic devices, less than 0.5mA."
+      },
+      "Regular": {
+        "Operating Voltage": "12 VDC, equipped with 100-240 V, 50/60 Hz power adapter.",
+        "Max. Power Consumption": "35 W",
+        "Typical Power Consumption": "31.8 W",
+        "Whole Machine Weight": "32 kg (70.55 lb)",
+        "Packaging Weight": "38 kg (83.77 lb)",
+        "Product Dimensions": "2,280 mm × 1,038 mm × 346 mm (89.76'' × 40.87'' × 13.6'') (H x W x D)",
+        "Packaging Dimensions": "2,406 mm × 694 mm × 439 mm (94.65'' × 27.36'' × 17.28'') (L x W x H)",
+        "Operating Temperature": "–20 °C to 60 °C (–4 °F to 140 °F)",
+        "Working Humidity": "0% to 95%",
+        "Storage Temperature/Humidity": "–20 °C to 60 °C (–4 °F to 140 °F)/ 0% to 95%",
+        "Power Button": "The main power buttons locate on two sides of the detector.",
+        "Indicator": "Green Working Indicator",
+        "Human-shaped Alarm Zone Prompt": "18-Zone Human-shaped Alarm Panel",
+        "Environment Noise": "Supports environment noise detection and interface dynamic real-time display signal level.",
+        "Installation": "Vertical Mount"
+      },
+      "Port": {
+        "RS-485 Port": "*1",
+        "Alarm Input/Output": "1-channel Input / 1-channel Output",
+        "Network Port": "*1 RJ-45, 100 Mbps Ethernet port",
+        "Power Output": "12 VDC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DHI-ISC-D318C_datasheet_20250409.pdf"
+      },
+      {
+        "name": "2025-07-31 #User Manual Outdoor Walk-through Metal Detector_User's Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010696/202507/Outdoor_Walk-through_Metal_Detector_User_27s_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-06-29 #Drawings ISC-D318C_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85024/drawings/ISC-D318C_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-03-31 #Drawings ISC-D318C_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85024/drawings/ISC-D318C_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-07-13 #Firmware General_ISCD-D318C_Eng_V1.000.0000000.0.R.250418 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85024/firmware/General_ISCD-D318C_Eng_V1.000.0000000.0.R.250418.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d318c"
+  }
+}

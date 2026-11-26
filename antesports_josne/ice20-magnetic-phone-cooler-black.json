@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Mobile Accessories",
+    "subcategory_url": "https://antesports.com/collections/mobile-accessories",
+    "series": "Mobile Accessories Series",
+    "series_url": "https://antesports.com/collections/mobile-accessories",
+    "tab_title": "Mobile Accessories",
+    "tab_id": "508173648163",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Mobile Accessories",
+      "ICE20 Magnetic Phone Cooling Fan with Temperature Display - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10343745552675",
+    "product_name": "ICE20 Magnetic Phone Cooling Fan with Temperature Display - Black",
+    "product_title": "ICE20 Magnetic Phone Cooling Fan with Temperature Display - Black",
+    "product_url": "https://antesports.com/products/ice20-magnetic-phone-cooler-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ice20-magnetic-phone-cooler-black.html",
+  "detail": {
+    "title": "ICE20 Magnetic Phone Cooling Fan with Temperature Display - Black",
+    "model": "ANTR0034",
+    "brand": "Ant Esports",
+    "overview": "The Ant ICE20 is a magnetic semiconductor phone cooler designed for mobile gamers, live streamers and content creators who need their device to stay cool through long recording or gaming sessions. It offers two mounting options — magnetic attachment or back-clip fixation — so it fits comfortably with most phone sizes and cases. Three adjustable quick-cooling levels let you dial in the intensity based on how hot the device is running, while a large chilling plate delivers rapid heat reduction as soon as it's powered on. A built-in LED temperature display shows live readings, and colourful ambient lighting plus a mech-inspired alloy, PC and carbon-fibre-textured body give it a distinct look on any streaming or gaming setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13.png",
+        "alt": "ICE20 Magnetic Phone Cooling Fan with Temperature Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Cooling Tech": "Semiconductor Refrigeration",
+        "Cooling Levels": "3 Adjustable",
+        "Mounting": "Magnetic + Back-Clip",
+        "Display": "LED Temperature Readout",
+        "Lighting": "RGB Ambient",
+        "Build Material": "Alloy, PC, Silicone, Carbon Fibre Texture",
+        "Color": "Black",
+        "COOLING TECH": "Semiconductor Refrigeration",
+        "COOLING LEVELS": "3 Adjustable",
+        "MOUNTING": "Magnetic + Back-Clip",
+        "DISPLAY": "LED Temperature Readout",
+        "LIGHTING": "RGB Ambient",
+        "BUILD MATERIAL": "Alloy, PC, Silicone, Carbon Fibre Texture",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹849.00",
+        "MRP (INR)": "₹2,499.00",
+        "SKU": "ANTR0034"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ice20-magnetic-phone-cooler-black"
+  }
+}

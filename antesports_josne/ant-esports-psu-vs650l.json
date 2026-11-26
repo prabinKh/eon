@@ -1,0 +1,100 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "VS650L Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421155619",
+    "product_name": "VS650L Power Supply Unit",
+    "product_title": "VS650L Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-vs650l",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_942f8476-0db9-41cf-902c-225bd7e1f178.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-psu-vs650l.html",
+  "detail": {
+    "title": "VS650L Power Supply Unit",
+    "model": "AESP0324",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU VS650L is a dependable 650W power supply designed for gaming PCs and high-performance desktop systems. Featuring a non-modular design with essential 24-pin, CPU, PCIe, SATA, and Molex connectors, it delivers stable and efficient power to keep your components running reliably. Built for durability and consistent performance, it's an ideal choice for mainstream gaming builds and PC upgrades.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_942f8476-0db9-41cf-902c-225bd7e1f178.png",
+        "alt": "VS650L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5_92efdade-28cc-4732-a489-39824856135c.png",
+        "alt": "VS650L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_de8ca49c-b68f-431e-8864-68ae0cb11f2a.png",
+        "alt": "VS650L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_bc2714be-689e-4187-b389-61621518c096.png",
+        "alt": "VS650L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_2a0d79d3-4bc5-40cb-afa6-a30cd79d8e31.png",
+        "alt": "VS650L Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Series": "VS Series",
+        "Category": "Power Supply",
+        "Rated Wattage": "650",
+        "Modularity": "Non-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "1 (8-Pin)",
+        "PCIe (8-Pin)": "1",
+        "SATA": "4",
+        "Molex": "2",
+        "SERIES": "VS Series",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "650",
+        "MODULARITY": "Non-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "1",
+        "MOLEX": "2",
+        "Offer Price (INR)": "₹2,849.00",
+        "MRP (INR)": "₹3,599.00",
+        "SKU": "AESP0324"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-vs650l"
+  }
+}

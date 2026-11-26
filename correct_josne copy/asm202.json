@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Modules",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules",
+    "series": "Modules",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules",
+    "tab_title": "Modules",
+    "tab_id": "603",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Modules",
+      "Modules",
+      "Modules"
+    ]
+  },
+  "card_info": {
+    "product_id": "29187",
+    "product_name": "ASM202",
+    "product_title": "Fingerprint Enrollment Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules/asm202",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20190214/ASM202_1_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asm202.html",
+  "detail": {
+    "title": "Fingerprint Enrollment Reader",
+    "model": "ASM202",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASM202 Fingerprint Enrollment Reader Key Points • Fingerprint Enrollment Reader • USB Communication • Plug and Play Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20190214/ASM202_1_thumb.PNG",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20190214/ASM202_2_thumb.PNG",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Mode": "ASM202"
+      },
+      "System": {
+        "Respectively Rate": "500 DPI",
+        "Collection Window": "L18xW15mm",
+        "Entry Time": "≤350ms",
+        "FAR": "≤0.0001%",
+        "FRR": "≤0.014%",
+        "Compare time": "≤1.5s"
+      },
+      "General": {
+        "Power Supply": "DC 3.8–7",
+        "Communication interface": "USB",
+        "Operating Temperature": "0°C to +55°C",
+        "Working Humidity": "20%–90% (no frost)",
+        "Dimension(W×D×H)": "87.55mm×66.64mm×40mm",
+        "Working Environment": "Indoor"
+      },
+      "Certificates": {
+        "CE": "Yes",
+        "FCC": "Yes"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84736/datasheet/1706113676307.pdf"
+      },
+      {
+        "name": "2025-08-03 #User Manual Fingerprint Enrollment Reader_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0002345/202501/Fingerprint_Enrollment_Reader_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-11-24 #Drawings ASM202_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84736/drawings/ASM202_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-11-18 #Drawings ASM202_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84736/drawings/ASM202_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/modules/asm202"
+  }
+}

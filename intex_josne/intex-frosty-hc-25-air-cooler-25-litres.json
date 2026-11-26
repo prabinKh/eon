@@ -1,0 +1,102 @@
+{
+  "hierarchy": {
+    "category": "Cooler",
+    "category_url": "https://www.intex.in/collections/cooler",
+    "subcategory": "25L Air Cooler",
+    "subcategory_url": "https://www.intex.in/collections/25l-air-cooler",
+    "series": "Air Cooler",
+    "series_url": "https://www.intex.in/collections/air-cooler",
+    "tab_title": "25L Air Cooler",
+    "tab_id": "9136124559578",
+    "breadcrumbs": [
+      "Home",
+      "Cooler",
+      "25L Air Cooler",
+      "Intex Frosty HC 25 Air Cooler – 25 Litres"
+    ]
+  },
+  "card_info": {
+    "product_id": "9136124559578",
+    "product_name": "Intex Frosty HC 25 Air Cooler – 25 Litres",
+    "product_title": "Intex Frosty HC 25 Air Cooler – 25 Litres",
+    "product_url": "https://www.intex.in/products/intex-frosty-hc-25-air-cooler-25-litres",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FROSTY-HC-25.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 10990.0,
+      "display": "₹10,990.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-frosty-hc-25-air-cooler-25-litres.html",
+  "detail": {
+    "title": "Intex Frosty HC 25 Air Cooler – 25 Litres",
+    "model": "25-25",
+    "brand": "Intex",
+    "overview": "The Intex Frosty HC 25 is a compact yet powerful air cooler designed for efficient cooling in small to medium rooms. With a 25-litre water tank, strong air throw, and 4-way air deflection, it ensures uniform cooling throughout the space. Built with a shock- and rust-proof body and inverter compatibility, this cooler delivers reliable performance even during power fluctuations.",
+    "features": [
+      "Water Tank Capacity: 25 Litres",
+      "3-Speed Powerful Air Throw",
+      "4-Way Air Deflection",
+      "Fan Blade Size: 30.6 cm (12\")",
+      "Shock & Rust Proof Body",
+      "360° Moving Wheels",
+      "Water Level Indicator",
+      "Inverter Compatible",
+      "Honeycomb Cooling Pads",
+      "Voltage Fluctuation T.O.P. Cover Motor"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/FROSTY-HC-25.jpg",
+        "alt": "Intex Frosty HC 25 Air Cooler – 25 Litres",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Water Tank Capacity: 25 Litres",
+        "Feature 2": "3-Speed Powerful Air Throw",
+        "Feature 3": "4-Way Air Deflection",
+        "Feature 4": "Fan Blade Size: 30.6 cm (12\")",
+        "Feature 5": "Shock & Rust Proof Body",
+        "Feature 6": "360° Moving Wheels",
+        "Feature 7": "Water Level Indicator",
+        "Feature 8": "Inverter Compatible",
+        "Feature 9": "Honeycomb Cooling Pads",
+        "Feature 10": "Voltage Fluctuation T.O.P. Cover Motor"
+      },
+      "General": {
+        "Model": "25-25"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Cooler_Catalogue_July_2026_c8ce7571-21ef-4e23-b8ca-45c68add2e43.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-frosty-hc-25-air-cooler-25-litres"
+  }
+}

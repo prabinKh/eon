@@ -1,0 +1,126 @@
+{
+  "hierarchy": {
+    "category": "32 Ch.",
+    "category_url": "https://cpplusworld.com/products/32-ch.",
+    "subcategory": "Network Video Recorder (NVR)",
+    "subcategory_url": "https://cpplusworld.com/products/nvr/32-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Video Recorder (NVR)",
+    "tab_id": "31",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Video Recorder (NVR)",
+      "32 Ch.",
+      "CP-UNR-4K4324-FI"
+    ]
+  },
+  "card_info": {
+    "product_id": "1931",
+    "product_name": "CP-UNR-4K4324-FI",
+    "product_title": "CP-UNR-4K4324-FI",
+    "product_url": "https://cpplusworld.com/cp-unr-4k4324-fi",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/1dae7933-6e69-4b9f-8f5c-db26ccff2f56.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-unr-4k4324-fi.html",
+  "detail": {
+    "title": "CP-UNR-4K4324-FI",
+    "model": "CP-UNR-4K4324-FI",
+    "brand": "CP Plus",
+    "overview": "32 Ch. H.265 Network Video Recorder",
+    "features": [
+      "Up to 32 channel IP camera input",
+      "AI disabled: 2-channel 16 MP@30 fps, AI enabled: 1-channel 16 MP@30 fps",
+      "H.265, H.264, MJPEG",
+      "Up to 16Mp Video Resolution",
+      "AI disabled: 256 Mbps incoming, AI enabled: 180 Mbps incoming",
+      "Support 4 SATA ports, up to 16TB each, 3 USB (1 front USB 2.0 port, 2 rear USB3.0  ports)",
+      "1 HDMI, 1 VGA simultaneous video output",
+      "Support ONVIF",
+      "Support SMD Plus",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/1dae7933-6e69-4b9f-8f5c-db26ccff2f56.png",
+        "alt": "CP-UNR-4K4324-FI - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/6b89f611-9fde-465d-b50e-5b82262776de.png",
+        "alt": "CP-UNR-4K4324-FI - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "IP Camera Input": "32 Channel",
+        "Operating System": "Embedded LINUX",
+        "User Interface": "Web, Local GUI",
+        "Video Output": "1-channel VGA, 1-channel HDMI video output. HDMI: 3840 × 2160, 1920 × 1080, 1280 × 1024, 1280 × 720 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720 *Simultaneous/heterogeneous video sources output for VGA and HDMI is configurable.",
+        "Compression": "H.265, H.264, MJPEG",
+        "Encode Strategy": "Instastream",
+        "Decoding Capability": "AI disabled: 2-channel 16 MP@30 fps, 2-channel 12 MP@30 fps, 4-channel 8 MP@30 fps, 6-channel 5 MP@30 fps, 8-channel 4 MP@30 fps, 16-channel 1080p@30 fps AI enabled: 1-channel 16 MP@30 fps, 2-channel 12 MP@30 fps, 3-channel 8 MP@30 fps, 4-channel 5 MP@30 fps, 6-channel 4 MP@30 fps, 12-channel 1080p@30 fps",
+        "AI by NVR": "Face detection; face recognition; perimeter protection; SMD Plus",
+        "Resolution": "32 MP; 24 MP; 16 MP; 12 MP; 8 MP; 5 MP; 4 MP; 1080p; 720p; D1; CIF; QCIF",
+        "Network Bandwidth": "32 MP; 24 MP; 16 MP; 12 MP; 8 MP; 5 MP; 4 MP; 1080p; 720p; D1; CIF; QCIF",
+        "Video Display Split": "Main screen: 1/4/8/9/16/25 Sub screen: 1/4/8/9/16",
+        "Perimeter Performance AI by NVR (Number of Channels)": "2 channels, 10 IVS rules for each channel",
+        "Perimeter Performance of AI by Camera (Number of Channels)": "16 channels",
+        "Face Attributes": "Gender; age group; glasses; expressions; face mask; beard",
+        "Face Detection Performance of AI by Recorder (Number of Channels)": "2 channels (up to 12 face images/s each channel)",
+        "Face Detection Performance of AI by Camera (Number of Channels)": "8 channels",
+        "Face Database Capacity": "Up to 20 face databases with 10,000 images, with a total capacity of 2.5 G. Name, gender,  birthday, address, credential type, credential No., countries & regions and state can be added  to each face image.",
+        "Face Recognition Performance of AI by Camera (Number of Channels)": "16 channels",
+        "SMD Plus by NVR": "8 channels: Secondary filtering for human and motor vehicle, reducing false alarms caused by  leaves, rain and lighting condition change",
+        "SMD Plus by Camera": "16 channels",
+        "Metadata Performance of AI by Camera (Number of Channels)": "16 channels",
+        "Human Attributes": "Top color, top type, bottom color, bottom type, hat, bag, age, gender and umbrella",
+        "License Plate Database Capacity": "1. Create up to 20,000 plate numbers. 2. Blocklist and allow list",
+        "Alarm Linkage": "Record, snapshot, IPC external alarm output, audio, buzzer, log, preset, email",
+        "Audio Input": "1-channel RCA",
+        "Audio Output": "2-channel RCA",
+        "Audio Compression": "G.711a, G.711u, PCM, G726, AAC",
+        "Disk Group": "Support",
+        "Hard Disk": "4 SATA ports, up to 16TB each. The maximum HDD capacity varies with environment temperature",
+        "Multi-channel Playback": "Up to 16 channels",
+        "Record Mode": "General, motion detection; intelligent; alarm; POS",
+        "Playback Mode": "Instant playback, general playback, event playback, tag playback, smart playback (face and motion detection)",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Interface Ports": "3(1 front USB 2.0 port, 2 rear USB 3.0 ports), 1 HDMI, 1 VGA, 1 RS232, 1 eSATA Port, 1 RS485",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4/IPv6, RTSP, UDP, SNMP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, PPPoE, FTP, DDNS, Alarm Server, IP Search, DH, Multicast, InstaOn cloud, Auto Registration, ONVIF 21.12(Profile T, Profile S, Profile G)",
+        "Ethernet": "2 (10/100/1000 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "100–240 VAC, 50-60 Hz",
+        "Power Consumption": "≤ 10 W (without HDD)",
+        "Operating Temperature": "-20 °C to +60 °C (–4 °F to +140 °F)",
+        "Operating Humidity": "10%–93% (RH)",
+        "Storage Temperature": "-20 °C to +60 °C (–4 °F to +140 °F)",
+        "Dimensions": "440.0 mm × 415.1 mm x 70.0 mm",
+        "Weight": "4250 g (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNR-4K4324-FI.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/95c3171d-1c55-4487-9f4f-a3d7ffb76c76.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unr-4k4324-fi"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "hierarchy": {
+    "category": "Interactive Whiteboards",
+    "category_url": "https://www.dahuasecurity.com/products/interactive-whiteboards",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories",
+    "series": "OPS",
+    "series_url": "https://www.dahuasecurity.com/my/products/interactive-whiteboards/accessories/ops",
+    "tab_title": "OPS",
+    "tab_id": "13427",
+    "breadcrumbs": [
+      "Interactive Whiteboards",
+      "Accessories",
+      "OPS",
+      "OPS"
+    ]
+  },
+  "card_info": {
+    "product_id": "144251",
+    "product_name": "SP-PI7B82IS-ZW(without system)",
+    "product_title": "Open Pluggable Specification",
+    "product_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/ops/sp-pi7b82is-zw(without-system)",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240401/1_0_99_02_10999-004_372108830_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "interactive-whiteboards/products/sp-pi7b82is-zw-without-system.html",
+  "detail": {
+    "title": "Open Pluggable Specification",
+    "model": "SP-PI7B82IS-ZW(without system)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SP-PI7B82IS-ZW(without system) Open Pluggable Specification Key Points • Intel® Tiger Lake-H i7-11390H, 3.4 GHz • Intel® Iris® Xe Graphics • 1 × SO-DIMM DDR4 2400 MHz, 8 GB • 1 × M.2 2280 SSD, NVMe/SATA, 256 GB • 1 × M.2 2230 PCIe/USB 2.0, Wi-Fi/BT Module • 1 × HDMI 1.4, 2 × USB 3.1, 1 × USB 2.0 Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240401/1_0_99_02_10999-004_372108830_thumb.png",
+        "alt": "SP-PI7B82IS-ZW(without system)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240401/1_0_99_02_10999-004_372108831_thumb.png",
+        "alt": "SP-PI7B82IS-ZW(without system)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240401/1_0_99_02_10999-004_384751555_thumb.png",
+        "alt": "SP-PI7B82IS-ZW(without system)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Function": {
+        "Processor": "Intel® Tiger lake-H i7-11390H, 3.4 GHz",
+        "Chip": "SOC",
+        "BIOS": "AMI UEFI BIOS",
+        "Integrated Graphics Card": "Intel® Iris® Xe Graphics"
+      },
+      "Realtek ALC897": {
+        "Memory": "8 GB",
+        "Disk": "256 GB",
+        "Wireless": "1 × M.2 2230 PCIE/USB 2.0, WIFI/BT Module",
+        "Button": "Front, 1 × power button, 1 × resetting button (recessed socket)",
+        "Operating System": "Windows 11 Pro"
+      },
+      "function": {
+        "Number of Cores": "4",
+        "Number of Threads": "8",
+        "Level 3 Cache": "12 MB"
+      },
+      "Device Ports": {
+        "Power": "1 × DC IN",
+        "Network Port": "1 × RJ-45 (10/100/1000 Mbps) port",
+        "USB": "2 × USB 3.1 Type-A, 1 × USB 2.0 Type-A",
+        "Type-C Port": "1 × USB 3.1 Type-C",
+        "HDMI": "1 × HDMI 1.4 out, Max.4K/30 Hz",
+        "Audio Port": "1 × Line-out and MIC-In, 2-in-1 connector",
+        "Extension Interface": "1 × 80 pin JAE port"
+      },
+      "Power": {
+        "Operating Voltage": "12–19 VDC",
+        "Standby Power Consumption": "0.8 W",
+        "Power Consumption": "Basic: 44.7 W; Max: 57.7 W"
+      },
+      "Environment": {
+        "Operating Temperature": "–5 °C to +45 °C (+23 °F to +113 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "–20 °C to +70 °C (–4 °F to +158 °F)",
+        "Storage Humidity": "10%–90% (RH), non-condensing"
+      },
+      "Structure": {
+        "Casing Material": "SGCC",
+        "Product Dimensions": "119 mm × 180 mm × 30 mm (4.69\" × 7.09\" × 1.18\")",
+        "Packaging Dimensions": "254 mm × 196 mm × 77mm (10.00\" × 7.72\" × 3.03\")",
+        "Net Weight": "0.75 kg (1.65 lb)",
+        "Gross Weight": "0.95 kg (2.09 lb)",
+        "Casing Color": "Black",
+        "Accessory": "2 × antennas, 2 × M3 screws, 1 × desiccant, 1 × user's manual"
+      },
+      "Certifications": {
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SP-PI7B82IS-ZW(without_system)_datasheet_20240116.pdf"
+      },
+      {
+        "name": "2024-03-20 #User Manual OPS PC Module_User's Manual_V1.0.0 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/DOR/PUM0008011/OPS_PC_Module_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-13 #A&E Document SP-PI7B82IS-ZW(without system)_A&E_20250512173359 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81371/a_e_document/SP-PI7B82IS-ZW(without_system)_A_E_20250512173359.docx"
+      },
+      {
+        "name": "2024-03-20 #Drawings SP-PI7B82IS-ZW(without system)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81371/drawings/SP-PI7B82IS-ZW(without_system)_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/interactive-whiteboards/accessories/ops/sp-pi7b82is-zw(without-system)"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "116777",
+    "product_name": "ARD912-W2(868)",
+    "product_title": "Wireless Water Leak Detector",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard912-w2(868)",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221118/ARD912-W2(868)_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard912-w2-868.html",
+  "detail": {
+    "title": "Wireless Water Leak Detector",
+    "model": "ARD912-W2(868)",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD912-W2(868) Wireless Water Leak Detector Key Points · Easy to install with no wiring. · Sensitivity adjustment. · Frequency hopping function and two-way communication technology ensure communication stability. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221118/ARD912-W2(868)_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221118/ARD912-W2(868)_2_thumb.png",
+        "alt": "ARD912-W2(868)",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221118/ARD912-W2(868)_3_thumb.png",
+        "alt": "ARD912-W2(868)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Function": {
+        "Indicator Light": "1 for multiple statuses (pairing, power status, and alarm)",
+        "Button": "Power switch button",
+        "Remote Update": "Cloud update",
+        "Low Battery Detection": "Yes",
+        "Tamper": "No"
+      },
+      "Technical": {
+        "Sensor": "Water leak detector",
+        "Sensitivity": "Adjustable",
+        "Operating Current": "28.5 uA",
+        "Alarm Current": "5.8 mA"
+      },
+      "Wireless": {
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Communication Mechanism": "Two-way",
+        "Communication Distance": "Up to 1,200 m (3937.01 ft) in an open space",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "CR123A × 1",
+        "Battery Life": "3 years when triggered once a day.",
+        "Power Consumption": "Max 144 mW",
+        "Operating Temperature": "Indoor: –10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Storage Humidity": "10%–90% (RH)",
+        "Product Dimensions": "84.7 mm × 84.7 mm × 32.5 mm (3.33\" × 3.33\" × 1.28\")",
+        "Packaging Dimensions": "135.0 mm × 98.0 mm × 56.0 mm (5.32\" × 3.86\" × 2.20\")",
+        "Net Weight": "0.1 kg (0.22 lb)",
+        "Gross Weight": "0.2 kg (0.44 lb)",
+        "Installation": "Plane mount",
+        "Casing Material": "PC + ABS",
+        "Protection": "IPX5",
+        "Certifications": "CE"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARD912-W2(868)_datasheet_20221212.pdf"
+      },
+      {
+        "name": "2025-07-29 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35127/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Wireless Water Leak Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007042/202507/Wireless_Water_Leak_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-29 #User Manual Dahua Wireless Water Leak Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007042/202507/Dahua_Wireless_Water_Leak_Detector_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-11-11 #Drawings ARD912-W2(868)_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52027/drawings/ARD912-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-11-11 #Drawings ARD912-W2(868)_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/52037/drawings/ARD912-W2(868)_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-05-30 #Firmware General_ARD912-W2_868_V1.000.0000001.0.R.20230519 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2191639/M/General_ARD912-W2_868_V1.000.0000001.0.R.20230519.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard912-w2(868)"
+  }
+}

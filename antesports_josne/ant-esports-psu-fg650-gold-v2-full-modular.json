@@ -1,0 +1,92 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Power Supply Units",
+    "subcategory_url": "https://antesports.com/collections/power-supply-units",
+    "series": "Power Supply Units Series",
+    "series_url": "https://antesports.com/collections/power-supply-units",
+    "tab_title": "Power Supply Units",
+    "tab_id": "508172828963",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Power Supply Units",
+      "FG650 Power Supply Unit"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420959011",
+    "product_name": "FG650 Power Supply Unit",
+    "product_title": "FG650 Power Supply Unit",
+    "product_url": "https://antesports.com/products/ant-esports-psu-fg650-gold-v2-full-modular",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_6e380b41-6db2-4910-9c79-046738e86c17.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/ant-esports-psu-fg650-gold-v2-full-modular.html",
+  "detail": {
+    "title": "FG650 Power Supply Unit",
+    "model": "AESP0362",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports PSU FG650 Gold V2 Full Modular is a high-performance 650W power supply built for gaming PCs and advanced desktop systems. Featuring 80 Plus Gold certification and a fully modular design, it delivers exceptional power efficiency, cleaner cable management, and dependable performance. With dual CPU, multiple PCIe, SATA, and Molex connectors, it's an excellent choice for modern gaming rigs and high-performance builds requiring stable, efficient power delivery.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_6e380b41-6db2-4910-9c79-046738e86c17.png",
+        "alt": "FG650 Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_bc69ce96-df11-4465-b1a8-e43f98742a49.png",
+        "alt": "FG650 Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_de545c81-35ca-4ee4-afba-76ac6d3339df.png",
+        "alt": "FG650 Power Supply Unit - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 3,
+    "specifications": {
+      "General": {
+        "Series": "FG V2 Series (80+ Gold)",
+        "Category": "Power Supply",
+        "Rated Wattage": "650",
+        "Rating": "80 Plus Gold",
+        "Modularity": "Fully-Modular",
+        "Motherboard (24-Pin)": "1",
+        "CPU (EPS)": "2 (8-Pin)",
+        "PCIe (8-Pin)": "4",
+        "SATA": "6",
+        "Molex": "3",
+        "SERIES": "FG V2 Series (80+ Gold)",
+        "CATEGORY": "Power Supply",
+        "RATED WATTAGE": "650",
+        "RATING": "80 Plus Gold",
+        "MODULARITY": "Fully-Modular",
+        "MOTHERBOARD (24-PIN)": "1",
+        "PCIE (8-PIN)": "4",
+        "MOLEX": "3",
+        "Offer Price (INR)": "₹5,649.00",
+        "MRP (INR)": "₹7,599.00",
+        "SKU": "AESP0362"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-psu-fg650-gold-v2-full-modular"
+  }
+}

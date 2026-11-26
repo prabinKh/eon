@@ -1,0 +1,132 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Access Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control",
+    "series": "Controllers",
+    "series_url": "https://www.dahuasecurity.com/my/products/access-control-&-time-attendance/access-control/controllers",
+    "tab_title": "Readers",
+    "tab_id": "547",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Access Control",
+      "Controllers",
+      "Readers"
+    ]
+  },
+  "card_info": {
+    "product_id": "118997",
+    "product_name": "ASR2100H",
+    "product_title": "Access Reader",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr2100h",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221216/ASR2100H-ASR2100H-D_left1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asr2100h.html",
+  "detail": {
+    "title": "Access Reader",
+    "model": "ASR2100H",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASR2100H Access Reader Key Points • Water-proof Card Reader • RS-485 and Wiegand 34 Protocol • Mifare Classic 1K Card (13.56MHz) Reading • Prompts Using The Buzzer and Indicator Light • IP66 Protection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221216/ASR2100H-ASR2100H-D_left1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221216/ASR2100H-ASR2100H-D_front1_thumb.png",
+        "alt": "ASR2100H_front",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221216/ASR2100H-ASR2100H-D_right1_thumb.png",
+        "alt": "ASR2100H_right",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "OSDP Protocol": "Yes"
+      },
+      "Basic": {
+        "Product Type": "Card reader",
+        "Buzzer": "Yes",
+        "Casing Material": "PC + ABS"
+      },
+      "Function": {
+        "Unlock Mode": "Card",
+        "Card Type": "IC card"
+      },
+      "Performance": {
+        "Response Time": "0.1 s",
+        "Card Reading Distance": "0 cm–8cm (0\"–3.15\")"
+      },
+      "Port": {
+        "RS-485": "1",
+        "Wiegand": "1 channel output"
+      },
+      "Alarm": {
+        "Tamper Alarm": "Yes"
+      },
+      "General": {
+        "Power Supply": "12 VDC, 0.5 A",
+        "Protection": "IP66",
+        "Power Consumption": "≤ 0.48 W (standby), ≤ 1.2 W (working)",
+        "Product Dimensions": "127 mm × 46 mm × 20 mm (5.00\" × 1.81\" × 0.79\")",
+        "Packaging Dimensions": "139 mm × 73 mm × 48 mm (5.47\" × 2.87\" × 1.89\")",
+        "Operating Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)",
+        "Operating Humidity": "≤ 95% (RH)",
+        "Operating Environment": "Outdoor",
+        "Gross Weight": "104 g (0.23 lb)",
+        "Installation": "Surface Mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASR2100H_datasheet_20221122.pdf"
+      },
+      {
+        "name": "2025-08-07 #User Manual Access Reader_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007110/202501/Access_Reader_User_s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2022-11-13 #Drawings ASR2100H_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/62127/drawings/ASR2100H_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2022-11-13 #Drawings ASR2100H_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/62127/drawings/ASR2100H_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-06-14 #Firmware General_ASR2XXXFH_MCU_V1.000.0000000.2.R.230530 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2214089/M/General_ASR2XXXFH_MCU_V1.000.0000000.2.R.230530.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/access-control/readers/asr2100h"
+  }
+}

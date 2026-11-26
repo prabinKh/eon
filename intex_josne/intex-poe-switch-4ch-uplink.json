@@ -1,0 +1,91 @@
+{
+  "hierarchy": {
+    "category": "Security & Surveillance",
+    "category_url": "https://www.intex.in/collections/security-surveillance",
+    "subcategory": "4CH Uplink",
+    "subcategory_url": "https://www.intex.in/collections/4ch-uplink",
+    "series": "PoE",
+    "series_url": "https://www.intex.in/collections/poe",
+    "tab_title": "4CH Uplink",
+    "tab_id": "9383074660570",
+    "breadcrumbs": [
+      "Home",
+      "Security & Surveillance",
+      "4CH Uplink",
+      "Intex PoE Switch 4CH Uplink - 4+2 Uplink"
+    ]
+  },
+  "card_info": {
+    "product_id": "9383074660570",
+    "product_name": "Intex PoE Switch 4CH Uplink - 4+2 Uplink",
+    "product_title": "Intex PoE Switch 4CH Uplink - 4+2 Uplink",
+    "product_url": "https://www.intex.in/products/intex-poe-switch-4ch-uplink",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_594f66ca-2b35-466e-bbee-99ac1f0d8e37.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2399.0,
+      "display": "₹2,399.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-poe-switch-4ch-uplink.html",
+  "detail": {
+    "title": "Intex PoE Switch 4CH Uplink - 4+2 Uplink",
+    "model": "4CH",
+    "brand": "Intex",
+    "overview": "The Intex PoE Switch 4CH Uplink is a reliable networking solution designed for CCTV surveillance systems, IP cameras, and network devices. It supports 10/100 Mbps Full Duplex & Half Duplex transmission with efficient Power over Ethernet (PoE) capability, eliminating the need for separate power cables. With up to 25.4W power output per port, this switch ensures stable power delivery to connected PoE devices. Its lightweight, heat-resistant design and durable metal housing provide reliable performance for long-term usage. The switch also features AI surge protection to safeguard connected devices against electrical fluctuations. Ideal for homes, offices, shops, warehouses, and professional security installations.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_594f66ca-2b35-466e-bbee-99ac1f0d8e37.jpg",
+        "alt": "Intex PoE Switch 4CH Uplink - 4+2 Uplink",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "PoE Ethernet Switch",
+        "Port Configuration": "4CH/8CH PoE Ports with Uplink Port",
+        "Network Speed": "10/100 Mbps",
+        "Transmission Mode": "Full Duplex & Half Duplex",
+        "PoE Power Output": "Up to 25.4W Per Port",
+        "PoE Support": "Power Over Ethernet for IP Cameras & Network Devices",
+        "Transmission Distance": "Normal Mode Up to 90 Meters; Uplink Mode Up to 250 Meters",
+        "Protection": "AI Surge Protection",
+        "Housing Material": "Durable Metal Housing",
+        "Design": "Lightweight & Heat Resistant",
+        "Application": "CCTV Surveillance, IP Cameras, Networking Systems",
+        "Installation": "Plug & Play Setup",
+        "Model": "4CH"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/Security_Surveillance_Brochure.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-poe-switch-4ch-uplink"
+  }
+}

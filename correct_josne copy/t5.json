@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "Mobile",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+    "series": "Dash Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+    "tab_title": "Dash Camera",
+    "tab_id": "17317",
+    "breadcrumbs": [
+      "Others",
+      "Mobile",
+      "Dash Camera",
+      "Dash Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "138597",
+    "product_name": "T5",
+    "product_title": "Dash Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/t5",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13322/ProductImage/1754128836074_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/t5.html",
+  "detail": {
+    "title": "Dash Camera",
+    "model": "T5",
+    "brand": "Dahua",
+    "overview": "Favourite T5 Dash Camera Key Points 9.66 \" touch screen; APP control; Reverse image; 4K+1080P dual recording Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13322/ProductImage/1754128836074_thumb.png",
+        "alt": "966E-PHOTO-DH.887.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13322/ProductImage/1754267963585_thumb.jpg",
+        "alt": "966E-PHOTO-OK.379.jpg",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13322/ProductImage/1754189519336_thumb.jpg",
+        "alt": "966E-PHOTO-OK.378.jpg",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13322/Others/1754452637093_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8'' CMOS",
+        "Resolution": "Front: 3840×2160P@25FPS Rear: 1920×1080P@25FPS",
+        "Field of View": "Front: D=123°, H=105°, V=56° Rear: D=136°, H=111°, V=58°",
+        "Iris": "Front: F1.5 Rear: F1.8",
+        "Video Compression": "H.265",
+        "OSD": "Display time, date, etc.",
+        "Image format": "JPEG",
+        "Storage": "1 TF card (up to 128GB)",
+        "Communication Module": "WiFi AP",
+        "G-sensor": "G-Sensor",
+        "Screen": "9.66''(1920×480dpi)"
+      },
+      "Interface": {
+        "Power Supply": "Type C",
+        "Audio Input": "Build-in microphone",
+        "Audio Output": "Build-in speaker"
+      },
+      "General": {
+        "Operating Temperature": "-20°C to 70°C(-4°F to 158°F)",
+        "Operating Humidity": "<95%(No condensation)",
+        "Power Supply": "5V DC/3A",
+        "Power Consumption": "≤15W",
+        "Dimensions": "256mm×73mm×40mm(10.07′′×2.87′′×1.57′′)",
+        "Weight": "Approx. 338.4 g (0.75 lb.)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/138597/datasheet/T5_datasheet_20231201.pdf"
+      },
+      {
+        "name": "2023-12-02 #User Manual T5 User Manual Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78297/user_manual/T5__User_Manual.pdf"
+      },
+      {
+        "name": "2023-12-08 #Drawings T5_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78297/drawings/1753448133240.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/t5"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Pro Gamepads",
+    "subcategory_url": "https://antesports.com/collections/pro-gamepads",
+    "series": "Pro Gamepads Series",
+    "series_url": "https://antesports.com/collections/pro-gamepads",
+    "tab_title": "Pro Gamepads",
+    "tab_id": "508173386019",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Pro Gamepads",
+      "JS55 Flight Simulator Joystick with Throttle Control"
+    ]
+  },
+  "card_info": {
+    "product_id": "10348869943587",
+    "product_name": "JS55 Flight Simulator Joystick with Throttle Control",
+    "product_title": "JS55 Flight Simulator Joystick with Throttle Control",
+    "product_url": "https://antesports.com/products/js55-flight-simulator-joystick",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_64fb4c58-e109-493c-bab3-8b9afa090082.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/js55-flight-simulator-joystick.html",
+  "detail": {
+    "title": "JS55 Flight Simulator Joystick with Throttle Control",
+    "model": "AEPP0154",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports JS55 is a joystick purpose-built for flight simulation, delivering high-precision control that enhances the realism of virtual flying across titles like Microsoft Flight Simulator, X-Plane 11 and War Thunder. It's loaded with 12 programmable buttons and 8-way hat switch functionality, letting you assign commands and functions for a genuinely personalized flying setup, while a dedicated throttle control system and acceleration button add authentic depth to takeoffs and combat manoeuvres. Vibrational feedback delivers tactile rumble that mimics engine vibrations and turbulence, deepening immersion in the cockpit. A heavy, stable base keeps the joystick planted during intense sessions, and true plug-and-play USB connectivity means it works instantly on any Windows-based PC or laptop with no drivers needed.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/8_64fb4c58-e109-493c-bab3-8b9afa090082.jpg",
+        "alt": "JS55 Flight Simulator Joystick with Throttle Control - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Buttons": "12 Programmable",
+        "Hat Switch": "8-Way",
+        "Feedback": "Vibrational",
+        "Controls": "Throttle, Acceleration Button",
+        "Compatibility": "PC / Windows XP-10 Only",
+        "BUTTONS": "12 Programmable",
+        "HAT SWITCH": "8-Way",
+        "FEEDBACK": "Vibrational",
+        "CONTROLS": "Throttle, Acceleration Button",
+        "COMPATIBILITY": "PC / Windows XP-10 Only",
+        "Offer Price (INR)": "₹2,533.00",
+        "MRP (INR)": "₹7,999.00",
+        "SKU": "AEPP0154"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (JS55)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=Ant-Esports-JS55-Joystick.zip"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/js55-flight-simulator-joystick"
+  }
+}

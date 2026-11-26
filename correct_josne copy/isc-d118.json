@@ -1,0 +1,137 @@
+{
+  "hierarchy": {
+    "category": "Security Screening & ESL & EAS",
+    "category_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas",
+    "subcategory": "Metal Detector",
+    "subcategory_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "series": "Metal Detector",
+    "series_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector",
+    "tab_title": "Metal Detector",
+    "tab_id": "11667",
+    "breadcrumbs": [
+      "Security Screening & ESL & EAS",
+      "Metal Detector",
+      "Metal Detector",
+      "Metal Detector"
+    ]
+  },
+  "card_info": {
+    "product_id": "96107",
+    "product_name": "ISC-D118",
+    "product_title": "Walk-through Metal Detector",
+    "product_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d118",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10313/ProductImage/1_0_01_46_10313_1850134691_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "security-screening-&-esl-&-eas/products/isc-d118.html",
+  "detail": {
+    "title": "Walk-through Metal Detector",
+    "model": "ISC-D118",
+    "brand": "Dahua",
+    "overview": "Favourite ISC-D118 Walk-through Metal Detector Key Points ●18 Zone Metal Detect ●3.5-Inch Color Screen ●Auto Search Frequency ●12 Built-In Security Programs ●Ir Remote Control ●Ambient Signal Interference Detection Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10313/ProductImage/1_0_01_46_10313_1850134691_crop_thumb.png",
+        "alt": "ISC-D118_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10313/ProductImage/1_0_01_46_10313_1850134690_crop_thumb.png",
+        "alt": "ISC-D118_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_46_10313/ProductImage/1_0_01_46_10313_1850134689_crop_thumb.png",
+        "alt": "ISC-D118_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical": {
+        "Detection Sensitivity": "NILECJ-STD-0601.00 Level 5",
+        "Precise Positioning": "18 overlapping detection zones, bilateral transmission and receipt of detection signals; 2-panel indicator lights",
+        "Zone Indication": "6, 12, or 18 independent zones selectable, and multiple metal items can be located simultaneously",
+        "IR Sensor": "Infrared sensor can reduce false alarms; automatic alarm statistics and pass/return statistics",
+        "Adjustable Sensitivity": "255 adjustable sensitivity levels in each detection zone (sensitivity increases by levels)",
+        "Remote Control": "Comes with a infrared remote controller with the maximum remote control range of 2 m (6.56 ft)",
+        "Leakage Current": "< 0.5 mA, complying with safety requirements for electronic devices"
+      },
+      "Regular": {
+        "Operating Voltage": "12 V DC, power adapter (included): 100 V–240 V AC, 50/60 Hz",
+        "Maximum Power Consumption": "11 W",
+        "Typical Power Consumption": "7.8 W",
+        "Gross Weight": "47 kg (103.62 lb)",
+        "Net Weight": "37.5 kg (82.67 lb)",
+        "Passageway Interior Size": "2003 mm x 720 mm x 393 mm (78.9\" × 28.3\" × 15.5\")",
+        "Overall Exterior Size": "Bare: 2209 mm × 866 mm × 489 mm (87.0\" × 34.1\" × 19.3\")",
+        "Packing Size": "2275 mm × 700 mm × 220 mm (89.6\" × 27.6\" × 8.7\")",
+        "Operating Temperature": "–20 °C to +65 °C (–4 °F to +149 °F)",
+        "Operating Humidity": "0-95% (RH), non-condensing",
+        "Storage Temperature/Humidity": "–20 °C to +65 °C (–4 °F to +149 °F)/0-95% (RH), non-condensing",
+        "Power Button": "Power switch on both door panels, and metal detection power switch on the front panel",
+        "Indicator Light": "One green indicator",
+        "Human Shape Display": "18 detection zones",
+        "Environmental Noise": "Monitors and displays real-time signal strength of environmental interferences",
+        "Installation": "Vertical mounting"
+      },
+      "Certifications": {
+        "Certifications": "GB15210-2018 IEC 60068-2-1 IEC 60068-2-2 CE-LVD: EN62368-1 CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU FCC: 47 CFR FCC Part 15, Subpart B"
+      },
+      "Ports": {
+        "RS-485": "1",
+        "Alarm In/Out": "1-channel input, and 1-channel output",
+        "Network Port": "1 RJ-45, 100 Mbps",
+        "Power Output": "12 V DC"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ISC-D118_datasheet_20220112.pdf"
+      },
+      {
+        "name": "2024-10-29 #User Manual Walk-through Metal Detector_User's Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009141/Walk-through_Metal_Detector_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-05-17 #Drawings ISC-D118_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14397/drawings/ISC-D118_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-05-17 #Drawings ISC-D118_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/14397/drawings/ISC-D118_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-12-19 #Firmware General_ISCD-D118_Eng_V1.002.0000000.0.R.231205 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/2444369/General_ISCD-D118_Eng_V1.002.0000000.0.R.231205.zip"
+      },
+      {
+        "name": "2022-05-21 #Firmware General_ISCD-D118_Eng_V1.000.0000000.0.R.220506 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/1792461/General_ISCD-D118_Eng_V1.000.0000000.0.R.220506.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/security-screening-&-esl-&-eas/metal-detector/isc-d118"
+  }
+}

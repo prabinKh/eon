@@ -1,0 +1,117 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Liquid Coolers",
+    "subcategory_url": "https://antesports.com/collections/liquid-coolers",
+    "series": "Liquid Coolers Series",
+    "series_url": "https://antesports.com/collections/liquid-coolers",
+    "tab_title": "Liquid Coolers",
+    "tab_id": "508173189411",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Liquid Coolers",
+      "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315420664099",
+    "product_name": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black",
+    "product_title": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black",
+    "product_url": "https://antesports.com/products/ant-esports-liquid-cooler-icestorm-360-argb-360mm-with-digital-temperature-display-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_95e96518-3a8a-4877-9112-b5f7b7e60483.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-liquid-cooler-icestorm-360-argb-360mm-with-digital-temperature-display-black.html",
+  "detail": {
+    "title": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black",
+    "model": "AESP0374",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Liquid Cooler  IceStorm 360 ARGB 360mm With Digital Temperature Display - Black is a high-performance liquid CPU cooler built for gamers, creators, and PC enthusiasts. Featuring a 360mm radiator with digital temperature display, it delivers efficient heat dissipation for processors up to 320W TDP while maintaining reliable and quiet operation. Compatible with the latest Intel and AMD platforms, it offers excellent cooling performance, vibrant aesthetics, and dependable durability for modern PC builds. Backed by a 3 Year Limited, it is an ideal choice for new builds and system upgrades.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/1_95e96518-3a8a-4877-9112-b5f7b7e60483.png",
+        "alt": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/4_fc7cb96d-2556-48bc-ac9e-3eabff0ba2a9.png",
+        "alt": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_5fdf78d0-4b22-422f-a05a-5d42298a7ed5.png",
+        "alt": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/3_29d9aec8-a353-40b2-a36b-8a766fec253b.png",
+        "alt": "IceStorm 360 ARGB Liquid Cooler With Digital Temperature Display - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 4,
+    "specifications": {
+      "General": {
+        "Product Type": "Liquid Cooler",
+        "Radiator Size": "360mm",
+        "Radiator Thickness": "27mm",
+        "Display": "Digital Temperature Display",
+        "Pump Speed (RPM)": "2650",
+        "Pump Noise (dBA)": "27",
+        "Fans Included": "3 x 120mm",
+        "Fan Size (mm)": "120 x 120 x 25",
+        "Fan Speed (RPM)": "2000",
+        "Fan Airflow (CFM)": "89.33",
+        "Fan Static Pressure (mmH₂O)": "2.12",
+        "Fan Noise (dBA)": "29.5",
+        "Rated TDP (Watts)": "320",
+        "Tube Length (mm)": "400",
+        "AMD Socket Support": "FM1, FM2, AM3, AM4, AM5",
+        "Intel Socket Support": "LGA1851, LGA1700, LGA115X, LGA20XX",
+        "Warranty": "3 Year Limited",
+        "PRODUCT TYPE": "Liquid Cooler",
+        "RADIATOR SIZE": "360mm",
+        "RADIATOR THICKNESS": "27mm",
+        "DISPLAY": "Digital Temperature Display",
+        "PUMP SPEED (RPM)": "2650",
+        "PUMP NOISE (DBA)": "27",
+        "FANS INCLUDED": "3 x 120mm",
+        "FAN SIZE (MM)": "120 x 120 x 25",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "89.33",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.12",
+        "FAN NOISE (DBA)": "29.5",
+        "RATED TDP (WATTS)": "320",
+        "TUBE LENGTH (MM)": "400",
+        "AMD SOCKET SUPPORT": "FM1, FM2, AM3, AM4, AM5",
+        "INTEL SOCKET SUPPORT": "LGA1851, LGA1700, LGA115X, LGA20XX",
+        "WARRANTY": "3 Year Limited",
+        "Offer Price (INR)": "₹6,349.00",
+        "MRP (INR)": "₹8,999.00",
+        "SKU": "AESP0374"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-liquid-cooler-icestorm-360-argb-360mm-with-digital-temperature-display-black"
+  }
+}

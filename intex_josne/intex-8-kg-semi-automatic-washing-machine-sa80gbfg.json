@@ -1,0 +1,148 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8989300261082",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Washing Machine",
+      "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG"
+    ]
+  },
+  "card_info": {
+    "product_id": "8989300261082",
+    "product_name": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+    "product_title": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+    "product_url": "https://www.intex.in/products/intex-8-kg-semi-automatic-washing-machine-sa80gbfg",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_e899f082-41cb-4ce9-8365-467dae10179d.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 18499.0,
+      "display": "₹18,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-8-kg-semi-automatic-washing-machine-sa80gbfg.html",
+  "detail": {
+    "title": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+    "model": "SA80GBFG",
+    "brand": "Intex",
+    "overview": "Intex 8 KG Semi-Automatic Washing Machine Designed for Indian households, it features a rust-free body, dual wash programs, roller jet with mini pulsator, and a powerful motor with TOP technology. The hydraulic lid and full toughened glass with flower print add elegance, while practical features like water level adjuster, dual waterfall, and magic filter ensure efficient, deep cleaning every time.",
+    "features": [
+      "Model: SA80GBFG",
+      "Washing Capacity: 8 Kg",
+      "Body Type: Anti-Corrosive Rust-Free Body",
+      "Wash Programs: 2",
+      "Motor: Powerful Motor with TOP Technology",
+      "Wash Technology: Roller Jet with Mini Pulsator Design",
+      "Lid: Hydraulic Wash Lid with Full Toughened Glass (Flower Design)",
+      "Filter: Magic Filter",
+      "Additional Features: Water Level Adjuster, Dual Waterfall",
+      "Warranty: 2 Years on Product | 5 Years on Wash Motor",
+      "Available Colour: Black & Orange"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_e899f082-41cb-4ce9-8365-467dae10179d.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_8e7abad5-cbad-4a99-9d72-8b073d71df36.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/3_1a3a880c-54e2-42c0-a618-edfc26a7f791.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/4_6812db58-d1f8-4d6b-bff9-546114221b42.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/5_7cf1a1a8-847a-44ec-98cd-8232ad95c43f.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/1_57a0de2c-78ae-40d6-b0d3-467f97549024.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/2_0f2f2c19-bf05-4414-b34e-90c11023889a.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/7_9aa4bdb0-a62b-4563-8333-56b4b1256054.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/6_9bb8fd36-8677-45c0-ba72-81a85b0f0bbd.jpg",
+        "alt": "Intex 8 KG Semi-Automatic Washing Machine (Black & Grey) - SA80GBFG",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 9,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: SA80GBFG",
+        "Feature 2": "Washing Capacity: 8 Kg",
+        "Feature 3": "Body Type: Anti-Corrosive Rust-Free Body",
+        "Feature 4": "Wash Programs: 2",
+        "Feature 5": "Motor: Powerful Motor with TOP Technology",
+        "Feature 6": "Wash Technology: Roller Jet with Mini Pulsator Design",
+        "Feature 7": "Lid: Hydraulic Wash Lid with Full Toughened Glass (Flower Design)",
+        "Feature 8": "Filter: Magic Filter",
+        "Feature 9": "Additional Features: Water Level Adjuster, Dual Waterfall",
+        "Feature 10": "Warranty: 2 Years on Product | 5 Years on Wash Motor",
+        "Feature 11": "Available Colour: Black & Orange"
+      },
+      "General": {
+        "Model": "SA80GBFG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/SA80GBFG.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-8-kg-semi-automatic-washing-machine-sa80gbfg"
+  }
+}

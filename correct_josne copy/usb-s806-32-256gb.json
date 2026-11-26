@@ -1,0 +1,116 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "USB Flash Drives",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives",
+    "series": "S806",
+    "series_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/s806",
+    "tab_title": "S806",
+    "tab_id": "13947",
+    "breadcrumbs": [
+      "Memory",
+      "USB Flash Drives",
+      "S806",
+      "S806"
+    ]
+  },
+  "card_info": {
+    "product_id": "102127",
+    "product_name": "USB-S806-32-256GB",
+    "product_title": "Solid State USB Disk",
+    "product_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/s806/usb-s806-32-256gb",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20211228/1_0_99_80_10400_104763722_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/usb-s806-32-256gb.html",
+  "detail": {
+    "title": "Solid State USB Disk",
+    "model": "USB-S806-32-256GB",
+    "brand": "Dahua",
+    "overview": "Compare Favourite USB-S806-32-256GB Solid State USB Disk Key Points 1.Ultra high-speed solid state USB Drive with transmission speed up to 520MB/s Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211228/1_0_99_80_10400_104763722_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211228/1_0_99_80_10400_104763732_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211228/1_0_99_80_10400_104763741_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211228/1_0_99_80_10400_104775511_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20211228/1_0_99_80_10400_104775521_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-USB-S806-32-128GB",
+        "Port": "USB3.2 Gen2",
+        "Capacity": "128 GB",
+        "Read Speed": "Up to 520 MB/s",
+        "Write Speed": "Up to 460 MB/s",
+        "File System": "exFAT",
+        "Operating System": "Windows 7/8/10; macOS 10.5+; Linux 2.4.x+"
+      },
+      "General": {
+        "Product Dimensions": "69 mm × 20 mm × 7.5 mm (2.72\" × 0.79\" × 0.30\")",
+        "Packaging Dimensions": "141 mm × 74 mm × 31 mm (5.55\" × 2.91\" × 1.22\")",
+        "Operating Temperature": "0 °C to +50 °C (+32 °F to +122 °F)",
+        "Storage Temperature": "–20 °C to +70 °C ( –4 °F to +158 °F)",
+        "Net Weight": "About 33 g (0.07 lb)",
+        "Gross Weight": "About 108 g (0.24 lb)",
+        "Max Operating Voltage": "5 V",
+        "Max Operating Current": "380 mA",
+        "Warranty": "3-year limited warranty",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB = 1 billion bytes, and the nominal capacity is not all for data storage. According to internal testing, the transmission speed varies with the devices, ports, environments, and other factors. 3. Warranty period or maximum write amount (TBW), whichever comes first. *Above data based on internal testing of Dahua Memory Laboratory"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/USB-S806-32-256GB_Datasheet_20220812.pdf"
+      },
+      {
+        "name": "2025-08-20 #User Manual USB Flash Drive Quick Start Guide-V1.0.0-20250711 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/9907/user_manual/USB_Flash_Drive_Quick_Start_Guide-V1.0.0-20250711.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/usb-flash-drives/s806/usb-s806-32-256gb"
+  }
+}

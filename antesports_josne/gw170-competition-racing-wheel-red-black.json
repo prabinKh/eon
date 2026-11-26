@@ -1,0 +1,79 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Racing Wheels",
+    "subcategory_url": "https://antesports.com/collections/wheels",
+    "series": "Racing Wheels Series",
+    "series_url": "https://antesports.com/collections/wheels",
+    "tab_title": "Racing Wheels",
+    "tab_id": "508173680931",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Racing Wheels",
+      "GW170 Competition Racing Wheel with Pedals - Universal"
+    ]
+  },
+  "card_info": {
+    "product_id": "10342319980835",
+    "product_name": "GW170 Competition Racing Wheel with Pedals - Universal",
+    "product_title": "GW170 Competition Racing Wheel with Pedals - Universal",
+    "product_url": "https://antesports.com/products/gw170-competition-racing-wheel-red-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_67295fd8-a698-45d1-9032-8c49e9c8fdd7.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/gw170-competition-racing-wheel-red-black.html",
+  "detail": {
+    "title": "GW170 Competition Racing Wheel with Pedals - Universal",
+    "model": "AEPP0152",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports GW170 is a competition-style racing wheel with a 10-inch diameter and bimaterial covering, striking a balance between good looks and a confident, secure grip through every turn. It offers three customizable sensitivity levels — Arcade, Pro and Expert — so you can dial in responsiveness to suit casual arcade racing or more nuanced simulation play, alongside on-wheel customizable buttons for quick access to key functions during a race. Built-in dual-motor vibration adds realistic feedback synced to in-game events, while the ergonomically located pedal shifters round out a genuinely immersive setup. Universal compatibility across PC, PS3, PS4, Xbox One, Xbox Series S|X, Nintendo Switch and Android TV makes it a flexible choice for almost any racing rig.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/2_67295fd8-a698-45d1-9032-8c49e9c8fdd7.png",
+        "alt": "GW170 Competition Racing Wheel with Pedals - Universal - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Wheel Diameter": "10 Inch, Bimaterial Grip",
+        "Vibration": "Dual Motor",
+        "Sensitivity Modes": "Arcade, Pro, Expert",
+        "Included": "Wheel and Pedal Set",
+        "Color": "Red/Black",
+        "WHEEL DIAMETER": "10 Inch, Bimaterial Grip",
+        "VIBRATION": "Dual Motor",
+        "SENSITIVITY MODES": "Arcade, Pro, Expert",
+        "INCLUDED": "Wheel and Pedal Set",
+        "COMPATIBILITY": "PC, PS3, PS4, Xbox One, Xbox Series X",
+        "COLOR": "Red/Black",
+        "Offer Price (INR)": "₹4,498.00",
+        "MRP (INR)": "₹7,499.00",
+        "SKU": "AEPP0152"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (GW170)",
+        "url": "https://downloads.antesports.com/get.php?type=manual&file=GW170-%28MANUAL%29.jpg"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/gw170-competition-racing-wheel-red-black"
+  }
+}

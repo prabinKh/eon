@@ -1,0 +1,94 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Cartridge",
+    "subcategory_url": "https://www.intex.in/collections/cartridge",
+    "series": "Cartridge Series",
+    "series_url": "https://www.intex.in/collections/cartridge-series",
+    "tab_title": "Cartridge",
+    "tab_id": "8986274955482",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Cartridge",
+      "Intex LTC TN 2365 | Laser Toner Cartridge (up to 2600-page yield)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8986274955482",
+    "product_name": "Intex LTC TN 2365 | Laser Toner Cartridge (up to 2600-page yield)",
+    "product_title": "Intex LTC TN 2365 | Laser Toner Cartridge (up to 2600-page yield)",
+    "product_url": "https://www.intex.in/products/laser-toner-cartridge-ltc-tn-2365",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-TN-2365.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 999.0,
+      "display": "₹999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/laser-toner-cartridge-ltc-tn-2365.html",
+  "detail": {
+    "title": "Intex LTC TN 2365 | Laser Toner Cartridge (up to 2600-page yield)",
+    "model": "2365",
+    "brand": "Intex",
+    "overview": "The Intex LTC TN 2365 laser toner cartridge is engineered to deliver consistent, high-quality prints with excellent page yield. Ideal for heavy-duty printing environments, it features a high-quality drum and advanced toner formulation that enhances text sharpness and print longevity. Compatible with a wide array of Brother printers, this cartridge provides a smooth printing experience, ensuring every page meets professional standards.",
+    "features": [
+      "Model: LTC TN 2365",
+      "Type: Laser Toner Cartridge",
+      "Maximum Page Yield",
+      "High-Quality Drum",
+      "Superior Print Quality",
+      "Compatible with multiple Brother printer models"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/LTC-TN-2365.jpg",
+        "alt": "Intex LTC TN 2365 | Laser Toner Cartridge (up to 2600-page yield)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: LTC TN 2365",
+        "Feature 2": "Type: Laser Toner Cartridge",
+        "Feature 3": "Maximum Page Yield",
+        "Feature 4": "High-Quality Drum",
+        "Feature 5": "Superior Print Quality",
+        "Feature 6": "Compatible with multiple Brother printer models"
+      },
+      "General": {
+        "Model": "2365"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_CARTRIDGE.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/laser-toner-cartridge-ltc-tn-2365"
+  }
+}

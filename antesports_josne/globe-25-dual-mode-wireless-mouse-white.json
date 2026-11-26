@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "Globe 25 Dual-Mode Wireless Mouse - 30Hr Playtime, White"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341844058403",
+    "product_name": "Globe 25 Dual-Mode Wireless Mouse - 30Hr Playtime, White",
+    "product_title": "Globe 25 Dual-Mode Wireless Mouse - 30Hr Playtime, White",
+    "product_url": "https://antesports.com/products/globe-25-dual-mode-wireless-mouse-white",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15_f109c68d-7515-4326-a428-c693d21af821.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/globe-25-dual-mode-wireless-mouse-white.html",
+  "detail": {
+    "title": "Globe 25 Dual-Mode Wireless Mouse - 30Hr Playtime, White",
+    "model": "ANTR0156",
+    "brand": "Ant Esports",
+    "overview": "The Ant Globe 25 is a slim, portable dual-mode mouse offering both Bluetooth and 2.4GHz USB connectivity, ideal for switching between a laptop, MacBook, iPad or PC. A rechargeable internal battery delivers up to 30 hours of use from a 2-hour charge via micro-USB, so it rarely needs topping up. The optical sensor adjusts across 800/1200/1600 DPI with a 125Hz polling rate for accurate tracking, while a silent 4-button layout rated for 3,000,000 clicks keeps it distraction-free in shared spaces. Its ultra-slim, lightweight ABS body slips easily into a laptop bag or pocket for travel.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/15_f109c68d-7515-4326-a428-c693d21af821.jpg",
+        "alt": "Globe 25 Dual-Mode Wireless Mouse - 30Hr Playtime, White - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "Bluetooth + 2.4GHz USB",
+        "DPI Levels": "800 / 1200 / 1600",
+        "Battery Life": "Up to 30 Hours per Charge",
+        "Charging": "Micro-USB, ~2hr Full Charge",
+        "Buttons": "4, Silent Click",
+        "Compatibility": "Laptop, MacBook, iPad, PC",
+        "Color": "White",
+        "CONNECTIVITY": "Bluetooth + 2.4GHz USB",
+        "DPI LEVELS": "800 / 1200 / 1600",
+        "BATTERY LIFE": "Up to 30 Hours per Charge",
+        "CHARGING": "Micro-USB, ~2hr Full Charge",
+        "BUTTONS": "4, Silent Click",
+        "COMPATIBILITY": "Laptop, MacBook, iPad, PC",
+        "COLOR": "White",
+        "SKU": "ANTR0156"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/globe-25-dual-mode-wireless-mouse-white"
+  }
+}

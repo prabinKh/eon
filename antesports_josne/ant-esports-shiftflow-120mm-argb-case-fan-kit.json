@@ -1,0 +1,106 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Case Fans",
+    "subcategory_url": "https://antesports.com/collections/case-fans",
+    "series": "Case Fans Series",
+    "series_url": "https://antesports.com/collections/case-fans",
+    "tab_title": "Case Fans",
+    "tab_id": "508172960035",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Case Fans",
+      "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK)"
+    ]
+  },
+  "card_info": {
+    "product_id": "10315421679907",
+    "product_name": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK)",
+    "product_title": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK)",
+    "product_url": "https://antesports.com/products/ant-esports-shiftflow-120mm-argb-case-fan-kit",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SHIFTFLOWKIT120MM3-IN-1CASEFANKITARGB_02_f3953495-5b36-466e-96fd-93835e535b6e.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/ant-esports-shiftflow-120mm-argb-case-fan-kit.html",
+  "detail": {
+    "title": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK)",
+    "model": "AESP0339",
+    "brand": "Ant Esports",
+    "overview": "Upgrade your PC’s aesthetics and thermal efficiency with the Ant Esports Shiftflow 120mm ARGB Fan Kit. This 3-fan solution is engineered for builders who demand superior cooling performance, clean cable management, and stunning visuals.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/SHIFTFLOWKIT120MM3-IN-1CASEFANKITARGB_02_f3953495-5b36-466e-96fd-93835e535b6e.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/01_B_1aaa2c06-21f0-4fe5-ac34-3fcb160d73e6.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/02_B_4e2b235e-0032-4ae3-8ee6-db1676b6185b.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/03_B_64005db9-c8c3-4dff-bd7f-f6d5116a3a1e.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK) - Gallery Image",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/04_B_475448c5-ad91-427c-9dc7-ff7808e3fc15.png",
+        "alt": "SHIFTFLOW KIT 3x120MM CASE FAN KIT ARGB (BLACK) - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 5,
+    "specifications": {
+      "General": {
+        "Product Type": "Fan",
+        "Kit/Single": "3-in-1 Kit",
+        "FAN Size (mm)": "120",
+        "Lighting Type": "Addressable RGB",
+        "FAN Speed (RPM)": "2000",
+        "FAN Airflow (CFM)": "75",
+        "FAN Static Pressure (mmH₂O)": "2.05",
+        "FAN Noise (dBA)": "29.2",
+        "FAN Direction": "Reversible",
+        "Connection": "PWM + ARGB",
+        "Stackable": "Yes",
+        "PRODUCT TYPE": "Fan",
+        "KIT/SINGLE": "3-in-1 Kit",
+        "FAN SIZE (MM)": "120",
+        "LIGHTING TYPE": "Addressable RGB",
+        "FAN SPEED (RPM)": "2000",
+        "FAN AIRFLOW (CFM)": "75",
+        "FAN STATIC PRESSURE (MMH₂O)": "2.05",
+        "FAN NOISE (DBA)": "29.2",
+        "FAN DIRECTION": "Reversible",
+        "CONNECTION": "PWM + ARGB",
+        "STACKABLE": "Yes",
+        "Offer Price (INR)": "₹3,399.00",
+        "MRP (INR)": "₹5,799.00",
+        "SKU": "AESP0339"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/ant-esports-shiftflow-120mm-argb-case-fan-kit"
+  }
+}

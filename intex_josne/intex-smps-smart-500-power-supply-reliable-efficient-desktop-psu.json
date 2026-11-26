@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "SMPS",
+    "subcategory_url": "https://www.intex.in/collections/smps",
+    "series": "SMPS Power Supply",
+    "series_url": "https://www.intex.in/collections/smps-power-supply",
+    "tab_title": "SMPS",
+    "tab_id": "9174219325658",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "SMPS",
+      "INTEX SMPS Smart 500 Power Supply – Desktop PSU"
+    ]
+  },
+  "card_info": {
+    "product_id": "9174219325658",
+    "product_name": "INTEX SMPS Smart 500 Power Supply – Desktop PSU",
+    "product_title": "INTEX SMPS Smart 500 Power Supply – Desktop PSU",
+    "product_url": "https://www.intex.in/products/intex-smps-smart-500-power-supply-reliable-efficient-desktop-psu",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP_500.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2199.0,
+      "display": "₹2,199.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-smps-smart-500-power-supply-reliable-efficient-desktop-psu.html",
+  "detail": {
+    "title": "INTEX SMPS Smart 500 Power Supply – Desktop PSU",
+    "model": "500",
+    "brand": "Intex",
+    "overview": "The INTEX SMPS Smart 500 Power Supply is engineered to deliver stable and efficient power performance for desktop PCs. Designed for reliability and consistent output, it ensures smooth system operation while protecting internal components from voltage fluctuations and short circuits. Built with advanced safety features and durable internal components, Smart 500 is ideal for home, office, and commercial desktop setups. It offers optimized energy efficiency, stable voltage output, and dependable long-term performance, making it a smart choice for everyday computing needs. Whether you are assembling a new PC or replacing an existing power unit, INTEX Smart 500 ensures safe, stable, and uninterrupted power delivery.",
+    "features": [
+      "Model: INTEX SMPS Smart 500",
+      "Power Output: 500W",
+      "High Efficiency Power Conversion",
+      "Stable Voltage Output",
+      "Over Voltage Protection (OVP)",
+      "Over Power Protection (OPP)",
+      "Short Circuit Protection (SCP)",
+      "Heavy Duty Transformer",
+      "Silent Cooling Fan",
+      "Compatible with Standard Desktop PCs",
+      "Durable Internal Components",
+      "Reliable Performance for Home & Office Use"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP_500.jpg",
+        "alt": "INTEX SMPS Smart 500 Power Supply – Desktop PSU",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Model: INTEX SMPS Smart 500",
+        "Feature 2": "Power Output: 500W",
+        "Feature 3": "High Efficiency Power Conversion",
+        "Feature 4": "Stable Voltage Output",
+        "Feature 5": "Over Voltage Protection (OVP)",
+        "Feature 6": "Over Power Protection (OPP)",
+        "Feature 7": "Short Circuit Protection (SCP)",
+        "Feature 8": "Heavy Duty Transformer",
+        "Feature 9": "Silent Cooling Fan",
+        "Feature 10": "Compatible with Standard Desktop PCs",
+        "Feature 11": "Durable Internal Components",
+        "Feature 12": "Reliable Performance for Home & Office Use"
+      },
+      "General": {
+        "Model": "500"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_SMPS_Smart_500_Power_Supply_Launch_PPT.pdf"
+      },
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-smps-smart-500-power-supply-reliable-efficient-desktop-psu"
+  }
+}

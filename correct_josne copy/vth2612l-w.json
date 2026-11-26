@@ -1,0 +1,183 @@
+{
+  "hierarchy": {
+    "category": "Video Intercoms",
+    "category_url": "https://www.dahuasecurity.com/products/video-intercoms",
+    "subcategory": "2-Wire IP",
+    "subcategory_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip",
+    "series": "Apartment Door Station",
+    "series_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/apartment-door-station",
+    "tab_title": "Indoor Monitor",
+    "tab_id": "484",
+    "breadcrumbs": [
+      "Video Intercoms",
+      "2-Wire IP",
+      "Apartment Door Station",
+      "Indoor Monitor"
+    ]
+  },
+  "card_info": {
+    "product_id": "115277",
+    "product_name": "VTH2612L-W",
+    "product_title": "2-wire IP & Wi-Fi Indoor Monitor",
+    "product_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/indoor-monitor/lite-series/vth2612l-w",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12171/ProductImage/1_0_01_15_12171_528294339_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "video-intercoms/products/vth2612l-w.html",
+  "detail": {
+    "title": "2-wire IP & Wi-Fi Indoor Monitor",
+    "model": "VTH2612L-W",
+    "brand": "Dahua",
+    "overview": "Compare Favourite VTH2612L-W 2-wire IP & Wi-Fi Indoor Monitor Key Points • 4.3-inch TFT Capacitive 480 * 272 Touchscreen • Device Port: 4-Channel Alarm Input and 1-Channel Alarm Output • Supports Standard PoE & 2-Wire • Ethernet and Wi-Fi Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12171/ProductImage/1_0_01_15_12171_528294339_crop_thumb.png",
+        "alt": "VTH2612L-W_View_Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12171/ProductImage/1_0_01_15_12171_63708942_crop_thumb.png",
+        "alt": "VTH2612L-W_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12171/ProductImage/1_0_01_15_12171_63708943_crop_thumb.png",
+        "alt": "VTH2612L-W_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_15_12171/ProductImage/1_0_01_15_12171_63717174_crop_thumb.png",
+        "alt": "VTH2612L-W_View_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 185,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor",
+        "Operating System": "Embedded Linux OS",
+        "Network Protocol": "UDP; TCP; IPv4; RTSP; SIP; RTP"
+      },
+      "Baisc": {
+        "Screen Type": "Capacitive Touchscreen",
+        "Display Screen": "4.3\" TFT display",
+        "Screen Resolution": "480 (H) × 272 (V)",
+        "Audio Compression": "G.711a; G.711u; PCM",
+        "Audio Input": "1 channel",
+        "Audio Output": "1 built-in speaker and 1 receiver speaker",
+        "Audio Mode": "Two-way audio",
+        "Audio Enhancement": "Echo suppression/digital noise reduction",
+        "Audio Bit Rate": "16 kHz, 16 Bit"
+      },
+      "Function": {
+        "Communication Mode": "Full digital",
+        "Information Release": "Text messages can be received and viewed on the indoor monitor",
+        "Elevator Control": "You can control the elevator through the indoor monitor",
+        "DND Mode": "Do not disturb period can be set.",
+        "Number of Extensions": "Apartment: 4 Villa: 9",
+        "Wi-Fi": "Yes",
+        "Wireless Standard": "IEEE802.11b/802.11g/802.11n",
+        "Wireless Frequency Range": "2.4 GHz"
+      },
+      "Port": {
+        "Alarm Input": "4",
+        "Alarm Output": "1",
+        "Network Port": "1 × two-wire port and 1 × 10 Mbps/100 Mbps Ethernet port (one of them can be selected)"
+      },
+      "Alarm": {
+        "SOS Alarm": "Yes"
+      },
+      "Performance": {
+        "Casing Material": "ABS"
+      },
+      "General": {
+        "Appearance Color": "White",
+        "Power Supply": "48 VDC, 1A; two-wire switch (max power transmission distance: 50 m)",
+        "Power Adapter": "Optional",
+        "Installation": "Surface Mount",
+        "Accessory": "Surface mount bracket, alarm ribbon cable, and power-supply pins are provided",
+        "Product Dimensions": "136.0 mm × 140.0 mm × 25.5 mm (5.35\" × 5.51\" × 1.00\") (W × H × D)",
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Power Consumption": "≤4 W (standby), ≤6 W (working)",
+        "Gross Weight": "0.21 kg (0.46 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/VTH2612L-W_datasheet_20230520.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Digital VTH (Version 4.8.1)_User Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Digital_VTH_(Version_4.8.1)_User_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Video Door Phone_(Version 4.8.1)_(VTO, VTS, DSS Agile VDP, DMSS, DoLynk Care, and DoLynk Pro)_Quick Start Guide_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Video_Door_Phone_(Version_4.8.1)_(VTO_2c_VTS_2c_DSS_Agile_VDP_2c_DMSS_2c_DoLynk_Care_2c_and_DoLynk_Pro)_Quick_Start_Guide_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Dahua Digital Indoor Monitor_SOFTWARE LICENSE AGREEMENT Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Dahua_Digital_Indoor_Monitor_SOFTWARE_LICENSE_AGREEMENT.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Dahua Digital Indoor Monitor_Privacy Policy Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Dahua_Digital_Indoor_Monitor_Privacy_Policy.pdf"
+      },
+      {
+        "name": "2025-07-24 #User Manual Dahua Digital Indoor Monitor_OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/85431/user_manual/Dahua_Digital_Indoor_Monitor_OPEN_SOURCE_SOFTWARE_NOTICE.PDF"
+      },
+      {
+        "name": "2022-09-15 #Drawings VTH2612L-W_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50907/drawings/VTH2612L_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2022-09-15 #Drawings VTH2612L-W_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50907/drawings/VTH2612L_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-09-15 #Drawings VTH2612L-W_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/50907/drawings/VTH2612L_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2026-06-12 #Firmware DH_VTH26XXL_L_MultiLang_SIP_EMEA_V4.810.0000000.4.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48437/firmware/DH_VTH26XXL_L_MultiLang_SIP_EMEA_V4.810.0000000.4.R.260527.zip"
+      },
+      {
+        "name": "2026-06-12 #Firmware DH_VTH26XXL_L_MultiLang_SIP_CEE-Nordic_V4.810.0000000.4.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48437/firmware/DH_VTH26XXL_L_MultiLang_SIP_CEE-Nordic_V4.810.0000000.4.R.260527.zip"
+      },
+      {
+        "name": "2026-06-12 #Firmware DH_VTH26XXL_L_MultiLang_SIP_Asia_V4.810.0000000.4.R.260527 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48437/firmware/DH_VTH26XXL_L_MultiLang_SIP_Asia_V4.810.0000000.4.R.260527.zip"
+      },
+      {
+        "name": "2026-05-13 #Firmware DH_VTH26XXL_L_MultiLang_SIP_EMEA_V4.810.0000000.3.R.260410 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/48437/firmware/DH_VTH26XXL_L_MultiLang_SIP_EMEA_V4.810.0000000.3.R.260410.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/video-intercoms/2-wire-ip/indoor-monitor/lite-series/vth2612l-w"
+  }
+}

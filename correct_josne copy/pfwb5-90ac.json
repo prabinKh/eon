@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Wireless Devices",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices",
+    "series": "V-Radio Wireless Bridge",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/wireless-devices/v-radio-wireless-bridge",
+    "tab_title": "V-Radio Wireless Bridge",
+    "tab_id": "8617",
+    "breadcrumbs": [
+      "Transmission",
+      "Wireless Devices",
+      "V-Radio Wireless Bridge",
+      "V-Radio Wireless Bridge"
+    ]
+  },
+  "card_info": {
+    "product_id": "24847",
+    "product_name": "PFWB5-90ac",
+    "product_title": "V-Radio Outdoor 11ac 5G Wireless Bridge (Base Station)",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/v-radioseries/pfwb5-90ac",
+    "card_image": "https://material.dahuasecurity.com/product/20180803/DH-PFWB5-90ac_Image1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/pfwb5-90ac.html",
+  "detail": {
+    "title": "V-Radio Outdoor 11ac 5G Wireless Bridge (Base Station)",
+    "model": "PFWB5-90ac",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/product/20180803/DH-PFWB5-90ac_Image1_thumb.png",
+        "alt": "PFWB5-90ac",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/wirelessbridges/v-radioseries/pfwb5-90ac"
+  }
+}

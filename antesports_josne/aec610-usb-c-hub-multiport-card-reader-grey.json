@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "6-in-1 USB-C Hub - Grey"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353569562915",
+    "product_name": "6-in-1 USB-C Hub - Grey",
+    "product_title": "6-in-1 USB-C Hub - Grey",
+    "product_url": "https://antesports.com/products/aec610-usb-c-hub-multiport-card-reader-grey",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/aec610-usb-c-hub-multiport-card-reader-grey.html",
+  "detail": {
+    "title": "6-in-1 USB-C Hub - Grey",
+    "model": "AEPP0195",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC610 is a 6-in-1 USB-C hub combining a USB 3.0 port, two USB 2.0 ports and an SD/Micro SD card reader in one compact splitter, adding a full set of essential connections to any modern USB-C laptop or MacBook. VGA output supports 1080p@60Hz while HDMI covers up to 4K@30Hz, letting you connect a high-quality monitor, TV or projector for presentations or media. OTG compatibility extends its usefulness to a wider range of devices, and true plug-and-play operation means no drivers are needed on Windows, MacBook or Notebook systems. A compact, portable build makes it easy to carry the AEC610 in a laptop bag for everyday multiport expansion on the go.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/13.jpg",
+        "alt": "6-in-1 USB-C Hub - Grey - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Ports": "1x USB 3.0 + 2x USB 2.0 + 1x SD Reader",
+        "HDMI Output": "Up to 4K @ 30Hz",
+        "VGA Output": "Up to 1080p @ 60Hz",
+        "Compatibility": "Windows, MacBook, Notebook, OTG",
+        "Color": "Grey",
+        "PORTS": "1x USB 3.0 + 2x USB 2.0 + 1x SD Reader",
+        "HDMI OUTPUT": "Up to 4K @ 30Hz",
+        "VGA OUTPUT": "Up to 1080p @ 60Hz",
+        "COMPATIBILITY": "Windows, MacBook, Notebook, OTG",
+        "COLOR": "Grey",
+        "SKU": "AEPP0195"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec610-usb-c-hub-multiport-card-reader-grey"
+  }
+}

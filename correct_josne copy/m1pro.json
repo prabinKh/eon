@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "Mobile",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+    "series": "Dash Camera",
+    "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+    "tab_title": "Dash Camera",
+    "tab_id": "17317",
+    "breadcrumbs": [
+      "Others",
+      "Mobile",
+      "Dash Camera",
+      "Dash Camera"
+    ]
+  },
+  "card_info": {
+    "product_id": "138587",
+    "product_name": "M1pro",
+    "product_title": "Dash Camera",
+    "product_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/m1pro",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20231204/m1pro_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/m1pro.html",
+  "detail": {
+    "title": "Dash Camera",
+    "model": "M1pro",
+    "brand": "Dahua",
+    "overview": "Favourite M1pro Dash Camera Key Points 1080P；360 ° rotation shooting； Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20231204/m1pro_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13323/ProductImage/1715529332510_thumb.png",
+        "alt": "2.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13323/ProductImage/1715588185092_thumb.png",
+        "alt": "1.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13323/ProductImage/1716036882983_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13323/ProductImage/1716152587278_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13323/ProductImage/1716220400748_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1.0.99.01.13323/ProductImage/1716293855947_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/3.0'' CMOS",
+        "Resolution": "1920×1080P@30FPS",
+        "Field of View": "D: 121°, H: 101°, V: 53°",
+        "Iris": "F2.0",
+        "Video Compression": "H.265",
+        "OSD": "Display time, date, etc.",
+        "Image format": "JPEG",
+        "Storage": "1 TF card (up to 128GB)",
+        "Communication Module": "WiFi AP",
+        "G-sensor": "G-Sensor"
+      },
+      "Interface": {
+        "Power Supply": "Mini USB",
+        "Audio Input": "Build-in microphone",
+        "Audio Output": "Build-in speaker"
+      },
+      "General": {
+        "Operating Temperature": "-20°C to 70°C(-4°F to 158°F)",
+        "Operating Humidity": "<95%(No condensation)",
+        "Power Supply": "5V DC/1.5A",
+        "Power Consumption": "≤1.5W",
+        "Dimensions": "80mm×48mm×28.8mm(3.15′′×1.89′′×1.13′′)",
+        "Weight": "Approx. 42 g (0.093 lb.)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/138587/datasheet/M1pro_datasheet_20231227.pdf"
+      },
+      {
+        "name": "2023-12-03 #User Manual M1pro User Manual Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78317/user_manual/M1pro_User_Manual.pdf"
+      },
+      {
+        "name": "2023-12-03 #Drawings M1pro_Dimension Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78317/drawings/M1pro_Dimension.pdf"
+      },
+      {
+        "name": "2023-12-07 #Drawings M1pro_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78297/drawings/T5_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera/m1pro"
+  }
+}

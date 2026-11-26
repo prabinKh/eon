@@ -1,0 +1,202 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "AI",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai",
+    "series": "Standalone",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone",
+    "tab_title": "Standalone",
+    "tab_id": "10237",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "AI",
+      "Standalone",
+      "Standalone"
+    ]
+  },
+  "card_info": {
+    "product_id": "155766",
+    "product_name": "ASI7213G-PW",
+    "product_title": "Dahua 7-inch POE Face Recognition Access Controller",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/pro/asi7213g-pw",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/image/1_0_01_25_12691_978642518_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asi7213g-pw.html",
+  "detail": {
+    "title": "Dahua 7-inch POE Face Recognition Access Controller",
+    "model": "ASI7213G-PW",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite ASI7213G-PW Dahua 7-inch POE Face Recognition Access Controller Key Points • Visible Light Facial Recognition and Liveness Detection • 100,000 Faces, 500,000 Cards and 100,000 Passwords • 4MP Visible Light Camera and 2MP IR Camera with WDR • 7-inch Touch Screen with Resolution of 600 × 1024 • Face Recognition Duration< 0.1s/person, Accuracy rate ≥ 99.9% • Supports Full-Color Display even in Dark Environment • POE and Power Output to Simplify the Wiring • Wi-Fi AP Mode, IP65 Protection, Modular Design Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/image/1_0_01_25_12691_978642518_crop_thumb.PNG",
+        "alt": "ASI7213G-PW_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/image/1_0_01_25_12691_960226130_crop_thumb.PNG",
+        "alt": "ASI7213G-PW_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/image/1_0_01_25_12691_978642516_crop_thumb.PNG",
+        "alt": "ASI7213G-PW_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/image/1_0_01_25_12691_978642517_crop_thumb.PNG",
+        "alt": "ASI7213G-PW_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Main Processor": {},
+      "Button Type": {},
+      "Network Protocol": {},
+      "OSDP Protocol": {},
+      "Interoperability": {},
+      "SDK and API": {},
+      "Product Type": {},
+      "Display Screen": {},
+      "Screen Type": {},
+      "Screen Resolution": {},
+      "Camera": {},
+      "WDR": {},
+      "Light Compensation": {},
+      "Voice Prompt": {},
+      "Speaker": {},
+      "Casing Material": {},
+      "Verification Method": {},
+      "Sub-Module Expansion": {},
+      "Sub-Module Verification Method": {},
+      "Door Open Notification Mode": {},
+      "Frequency Range": {},
+      "Max. Transmission Power": {},
+      "Period List": {},
+      "Holiday Period": {},
+      "Network Update": {},
+      "First User Unlock": {},
+      "Remote Verification": {},
+      "Restricted List/Trusted List": {},
+      "Bluetooth": {},
+      "Bluetooth Standard": {},
+      "Advertisement Playing": {},
+      "Peripheral Card Reader": {},
+      "Multi-user Authentication": {},
+      "Real-time Monitoring": {},
+      "Multi-factor Authentication": {},
+      "Capture Function": {},
+      "Web Configuration": {},
+      "Auto Registration": {},
+      "Card Type": {},
+      "Modulation Type": {},
+      "Wi-Fi": {},
+      "Wireless Standard": {},
+      "Wireless Frequency Range": {},
+      "Wireless Security Encryption": {},
+      "Card Reading Distance": {},
+      "Face Recognition Height Range": {},
+      "Face Recognition Distance": {},
+      "Face Recognition Accuracy": {},
+      "Face Recognition Time": {},
+      "User (Card) Type": {},
+      "Face Image Capacity": {},
+      "User Capacity": {},
+      "Card Capacity": {},
+      "Password Capacity": {},
+      "Record Capacity": {},
+      "RS-485": {},
+      "RS-232": {},
+      "Wiegand": {},
+      "USB": {},
+      "Network Port": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Doorbell": {},
+      "Exit Button": {},
+      "Door Status Detection": {},
+      "Lock Control": {},
+      "Audio Port": {},
+      "Power Output Port": {},
+      "Audio Output Port": {},
+      "Anti-pass Back": {},
+      "Tamper Alarm": {},
+      "Duress Alarm": {},
+      "Door Sensor Timeout": {},
+      "Intrusion": {},
+      "Illegal Card Exceeding Threshold": {},
+      "Power Adapter": {},
+      "Power Supply": {},
+      "Protection": {},
+      "Power Consumption": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {},
+      "Transport Package Dimensions": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Operating Altitude": {},
+      "Operating Environment": {},
+      "Gross Weight": {},
+      "Accessory": {},
+      "Installation": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/datasheet/DHI-ASI7213G-PW_datasheet_20260720_English.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Face Recognition Access Controller_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88278/user_manual/Face_Recognition_Access_Controller_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-08-05 #User Manual Face Recognition Access Controller Web 5.0_User Manual_V1.5.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88278/user_manual/Face_Recognition_Access_Controller_Web_5.0_User_Manual_V1.5.0.pdf"
+      },
+      {
+        "name": "2026-05-26 #Drawings ASI7213G-PW_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/drawings/1_0_01_25_12691_937573984.pdf"
+      },
+      {
+        "name": "2026-05-26 #Drawings ASI7213G-PW_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/drawings/1_0_01_25_12691_933577031.pdf"
+      },
+      {
+        "name": "2026-05-26 #Drawings ASI7213G-PW_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/drawings/1_0_01_25_12691_933576322.pdf"
+      },
+      {
+        "name": "2026-09-18 #Firmware DH_ASIX2XX-D-V-Vodka-A3_MultiLang_PN_V3.004.0000005.3.R.260902 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88260/firmware/DH_ASIX2XX-D-V-Vodka-A3_MultiLang_PN_V3.004.0000005.3.R.260902.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/ai/standalone/pro/asi7213g-pw"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "hierarchy": {
+    "category": "Wireless Products",
+    "category_url": "https://www.dahuasecurity.com/products/wireless-products",
+    "subcategory": "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+    "subcategory_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras",
+    "series": "Turret Series",
+    "series_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/turret-series",
+    "tab_title": "Turret Series",
+    "tab_id": "18158",
+    "breadcrumbs": [
+      "Wireless Products",
+      "3MP Indoor Fixed-focal Wi-Fi Pan & Tilt Network Camera Hero H3JS",
+      "Turret Series",
+      "Turret Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152046",
+    "product_name": "T3A-PV",
+    "product_title": "3MP Fixed-focal Wi-Fi Turret Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/turret-series/t3a-pv",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45431/ProductImage/1_0_01_04_45431_508628723_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "wireless-products/products/t3a-pv.html",
+  "detail": {
+    "title": "3MP Fixed-focal Wi-Fi Turret Network Camera",
+    "model": "T3A-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite T3A-PV 3MP Fixed-focal Wi-Fi Turret Network Camera Key Points • Built-in Mic & Speaker, Support Two-way Talk • IP67 Protection • Wi-Fi 6 Delivers High Speed with Strong Anti-Interference Performance • Fast Pairing with Bluetooth • AI Human & Vehicle Detection • Trigger Immediate Alerts with Both Sound and Light to Deter Intruders • See in Color Only When It Counts —Smart Dual Light Gives Discreet Monitoring That Brightens on Motion Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45431/ProductImage/1_0_01_04_45431_508628723_crop_thumb.png",
+        "alt": "T3A-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45431/ProductImage/1_0_01_04_45431_508628724_crop_thumb.png",
+        "alt": "T3A-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45431/ProductImage/1_0_01_04_45431_530372222.png",
+        "alt": "T3A-PV_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_04_45431/ProductImage/1_0_01_04_45431_530372225.png",
+        "alt": "T3A-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 190,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Max. Resolution": "2304 (H) × 1296 (V)",
+        "Min. Illumination": "0.005 lux@F1.6 (Color, 30 IRE) 0.0005 lux@F1.6 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "Illumination Distance": "Up to 30 m (98.43 ft) (IR) Up to 30 m (98.43 ft) (Warm light)",
+        "Illuminator Number": "1 (IR LED); 1 (Warm light)",
+        "Angle Adjustment": "Pan: 0°–360° Tilt: 0°–78° Rotation: 0°–360°",
+        "Lens Type": "Fixed-focal",
+        "Focal Length": "2.8 mm; 3.6 mm",
+        "Max. Aperture": "F1.6",
+        "Field of View": "2.8 mm: H: 103°; V: 55°; D: 123° 3.6 mm: H: 85°; V: 46°; D: 100°"
+      },
+      "Intelligence": {
+        "Human Detection": "Yes",
+        "Vehicle Detection": "Yes"
+      },
+      "Audio and Video": {
+        "Video Compression": "H.264B; H.264; H.264H; H.265;",
+        "Video Frame Rate": "Main stream: 2304 × 1296@(1–25/30 fps) sub stream: 640 × 360@(1–25/30 fps) *The values above are the max. frame rates of each stream; for multiple streams, the values will be subjected to the total encoding capacity.",
+        "Video Bit Rate": "H.264: 32 kbps–4096 kbps H.265: 32 kbps–4096 kbps",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "WDR": "DWDR",
+        "Image Rotation": "0°/180°",
+        "Built-in MIC": "Yes, built-in Mic",
+        "Built-in Speaker": "Yes, built-in speaker",
+        "Audio Compression": "G.711a; G.711Mu; PCM"
+      },
+      "Network": {
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Wi-Fi": "IEEE 802.11b/g/n/ax 2.4000–2.4835 GHz, 2.4 G, EIRP≤20 dBm",
+        "Wi-Fi Pairing": "Bluetooth pairing",
+        "Interoperability": "ONVIF (Profile S & Profile G & Profile T); CGI",
+        "Storage": "Micro SD card (support max. 256 GB)",
+        "Management Software": "Smart PSS Lite; DSS; DMSS",
+        "Mobile Client": "iOS;Android"
+      },
+      "General": {
+        "Certifications": "CE-LVD: EN62368-1; CE-EMC: Electromagnetic Compatibility Directive 2014/30/EU; CE-RED: Radio Equipment Directive 2014/53/EU",
+        "Power Supply": "12 VDC",
+        "Power Consumption": "Basic: 1.9 W (12 VDC); Max.: 6.9 W (12 VDC) (H.265 + warm light on+ sound and light alarm)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Protection": "IP67",
+        "Camera Button": "Reset button",
+        "Casing Material": "Metal + plastic",
+        "Product Dimensions": "102.2 mm × Φ109.9 mm (4.02\" × Φ4.33\")",
+        "Net Weight": "0.32 kg (0.71 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/T3A-PV_S0_datasheet_20250214.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua PRODUCT PRIVACY POLICY Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_PRODUCT_PRIVACY_POLICY.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Eyeball Network Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010292/202411/Dahua_Eyeball_Network_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Eyeball Network Camera Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0010292/202411/Eyeball_Network_Camera_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua OPEN SOURCE SOFTWARE NOTICE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_OPEN_SOURCE_SOFTWARE_NOTICE.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua SOFTWARE LICENSE AGREEMEN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_SOFTWARE_LICENSE_AGREEMEN.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Dahua Security Commitment and Recommendation Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/user_manual/Dahua_Security_Commitment_and_Recommendation.pdf"
+      },
+      {
+        "name": "2024-11-22 #A&E Document T3A-PV_A&E_20260918024630 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82881/a_e_document/1789671097309.docx"
+      },
+      {
+        "name": "2024-12-06 #Drawings T3A-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82874/drawings/IPC-HDW1539DA-SAW-IL_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2024-12-06 #Drawings T3A-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82874/drawings/IPC-HDW1539DA-SAW-IL_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-15 #Firmware DH_IPC-WHX2XXX-Kant_MultiLang_PN_V2.860.0000000.26.R.260423 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86476/firmware/DH_IPC-WHX2XXX-Kant_MultiLang_PN_V2.860.0000000.26.R.260423.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/wireless-products/indoor-cameras/turret-series/t3a-pv"
+  }
+}

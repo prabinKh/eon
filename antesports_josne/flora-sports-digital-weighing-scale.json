@@ -1,0 +1,124 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Health Companion",
+    "subcategory_url": "https://antesports.com/collections/health-companion",
+    "series": "Health Companion Series",
+    "series_url": "https://antesports.com/collections/health-companion",
+    "tab_title": "Health Companion",
+    "tab_id": "508173549859",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Health Companion",
+      "Flora Sports Digital Weighing Scale"
+    ]
+  },
+  "card_info": {
+    "product_id": "10340660379939",
+    "product_name": "Flora Sports Digital Weighing Scale",
+    "product_title": "Flora Sports Digital Weighing Scale",
+    "product_url": "https://antesports.com/products/flora-sports-digital-weighing-scale",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/60.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/flora-sports-digital-weighing-scale.html",
+  "detail": {
+    "title": "Flora Sports Digital Weighing Scale",
+    "model": "Flora Sports",
+    "brand": "Ant Esports",
+    "overview": "TheANT Flora Sports Digital Weighing Scaleis designed for accurate and convenient body weight tracking at home. Featuring ahigh-precision strain sensor, it measures weights from5kg to 180kgwith50g graduation, making it suitable for everyday fitness and weight monitoring.",
+    "features": [
+      "TheANT Flora Sports Digital Weighing Scaleis designed for accurate and convenient body weight tracking at home. Featuring ahigh-precision strain sensor, it measures weights from5kg to 180kgwith50g graduation, making it suitable for everyday fitness and weight monitoring.",
+      "The scale features a durable5mm tempered glass platformwith a premium ABS base and smoothR2 rounded edgesfor enhanced durability and safety. Its26 × 26cm platformprovides stable footing, while the60 × 26mm LCD displaydelivers clear and easy-to-read weight measurements.",
+      "Simply install2 AAA batteries, place the scale on a hard, flat surface and step onto the platform for a quick weight reading inkilograms (kg). Batteries are not included. The package includes the weighing scale and user manual and is backed by a30-month international warranty."
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/60.png",
+        "alt": "Flora Sports Digital Weighing Scale - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Product Type": "DIGITAL PERSONAL WEIGHING SCALE",
+        "Brand": "ANT",
+        "Model": "Flora Sports",
+        "Colour": "Black",
+        "Recommended For": "Humans",
+        "Maximum Capacity (kg)": "180",
+        "Minimum Capacity (kg)": "5",
+        "Accuracy / Graduation (g)": "50",
+        "Display Type": "LCD",
+        "Display Size (mm)": "60 × 26",
+        "Sensor Type": "High-Precision Strain Sensor",
+        "Platform Material": "5mm Tempered Glass",
+        "Base Material": "ABS Plastic",
+        "Platform Size (cm)": "26 × 26",
+        "Edge Design": "R2 Rounded Edges",
+        "Weight Unit": "kg",
+        "Automatic Weight Detection": "Yes",
+        "Auto Zero Reset": "Yes",
+        "Auto Switch-Off": "Yes",
+        "Low Voltage Indicator": "Yes",
+        "Overload Indicator": "O-Ld",
+        "Circuit Breaker Display": "LCER",
+        "Power Supply": "2 × AAA Batteries",
+        "Batteries Included": "No",
+        "Package Contents": "1 × ANT Esports Flora Sports Digital Weighing Scale, 1 × User Manual",
+        "Warranty": "30 Months International Warranty",
+        "Recommended Uses": "Body Weight Measurement, Fitness Tracking, Home Use",
+        "PRODUCT TYPE": "DIGITAL PERSONAL WEIGHING SCALE",
+        "BRAND": "ANT",
+        "MODEL": "Flora Sports",
+        "COLOUR": "Black",
+        "RECOMMENDED FOR": "Humans",
+        "MAXIMUM CAPACITY (KG)": "180",
+        "MINIMUM CAPACITY (KG)": "5",
+        "ACCURACY / GRADUATION (G)": "50",
+        "DISPLAY TYPE": "LCD",
+        "DISPLAY SIZE (MM)": "60 × 26",
+        "SENSOR TYPE": "High-Precision Strain Sensor",
+        "PLATFORM MATERIAL": "5mm Tempered Glass",
+        "BASE MATERIAL": "ABS Plastic",
+        "PLATFORM SIZE (CM)": "26 × 26",
+        "EDGE DESIGN": "R2 Rounded Edges",
+        "WEIGHT UNIT": "kg",
+        "AUTOMATIC WEIGHT DETECTION": "Yes",
+        "AUTO ZERO RESET": "Yes",
+        "AUTO SWITCH-OFF": "Yes",
+        "LOW VOLTAGE INDICATOR": "Yes",
+        "OVERLOAD INDICATOR": "O-Ld",
+        "CIRCUIT BREAKER DISPLAY": "LCER",
+        "POWER SUPPLY": "2 × AAA Batteries",
+        "BATTERIES INCLUDED": "No",
+        "PACKAGE CONTENTS": "1 × ANT Esports Flora Sports Digital Weighing Scale, 1 × User Manual",
+        "WARRANTY": "30 Months International Warranty",
+        "RECOMMENDED USES": "Body Weight Measurement, Fitness Tracking, Home Use",
+        "SKU": "AVLP0068"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (DIGITAL)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=CRYSTAL-X6-DIGITAL.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/flora-sports-digital-weighing-scale"
+  }
+}

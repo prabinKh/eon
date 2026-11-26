@@ -1,0 +1,193 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "X-Spans Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/x-spans-series",
+    "tab_title": "Project",
+    "tab_id": "18225",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "X-Spans Series",
+      "Project"
+    ]
+  },
+  "card_info": {
+    "product_id": "154258",
+    "product_name": "SDT3A400-GA-HNP-BX",
+    "product_title": "4MP Starlight+ White Light Network PT Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt3a400-ga-hnp-bx",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/image/1_0_01_07_16153_783185537_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sdt3a400-ga-hnp-bx.html",
+  "detail": {
+    "title": "4MP Starlight+ White Light Network PT Camera",
+    "model": "SDT3A400-GA-HNP-BX",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SDT3A400-GA-HNP-BX 4MP Starlight+ White Light Network PT Camera Key Points • 4MP STARVIS™ CMOS Ensures High-Quality Imaging Performance • Starlight+ Technology Delivers Superior Low-Light Visibility • Built-In Millimeter-Wave Radar Enables Precise Water Monitoring • ±1mm Error Accuracy Provides Reliable Measurement Results • 40m Measurement Range Covers Wide Water Level Detection • IP66 Rating Ensures Durability In Harsh Outdoor Environments • White Light Illumination Extends Visibility Up To 30m • Built-In Speaker Facilitates Audio Alerts And Communication Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/image/1_0_01_07_16153_783185537_crop_thumb.PNG",
+        "alt": "SDT3A400-GA-HNP-BX_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/image/1_0_01_07_16153_783185536_crop_thumb.PNG",
+        "alt": "SDT3A400-GA-HNP-BX_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/image/1_0_01_07_16153_783185538_crop_thumb.PNG",
+        "alt": "SDT3A400-GA-HNP-BX_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "4 mm": "70.3 m( 230.64 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Tour": {},
+      "Pattern": {},
+      "Scan": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "PTZ Protocol": {},
+      "IVS (Perimeter Protection)": {},
+      "Hydrological Monitoring": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Image Stabilization": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Built-in Speaker": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "RS-485": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/datasheet/DH-SDT3A400-GA-HNP-BX_S0_datasheet_20260104.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide(SDT3A400)_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/user_manual/Installation_Guide(SDT3A400)_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-05-31 #A&E Document SDT3A400-GA-HNP-BX_A&E_20260918035405 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/a_e_document/1789675250033.docx"
+      },
+      {
+        "name": "2025-12-26 #Drawings SDT3A400-GA-HNP-BX_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/drawings/SDT3A400-GA-HNP-BX_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-12-26 #Drawings SDT3A400-GA-HNP-BX_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/drawings/SDT3A400-GA-HNP-BX_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-12 #Firmware DH_SD-Taurus_MultiLang_PN_Stream3-Normal-R_V3.200.0000031.2.R.260421 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84569/firmware/DH_SD-Taurus_MultiLang_PN_Stream3-Normal-R_V3.200.0000031.2.R.260421.zip"
+      },
+      {
+        "name": "2025-07-09 #Firmware General_SD3AXXX-HN-BGQ_MCU_V2.401.0000003.6.R.250512 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/SWR/3270227/M/General_SD3AXXX-HN-BGQ_MCU_V2.401.0000003.6.R.250512.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt3a400-ga-hnp-bx"
+  }
+}

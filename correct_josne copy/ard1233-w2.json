@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Detectors",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/detectors",
+    "tab_title": "Detectors",
+    "tab_id": "961",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Detectors",
+      "Detectors"
+    ]
+  },
+  "card_info": {
+    "product_id": "93637",
+    "product_name": "ARD1233-W2",
+    "product_title": "Wireless PIR Detector",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard1233-w2",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_835743901_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard1233-w2.html",
+  "detail": {
+    "title": "Wireless PIR Detector",
+    "model": "ARD1233-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD1233-W2 Wireless PIR Detector Key Points · Provides Pet immunity function · Supports 3-level sensitivity adjustment · Frequency hopping function and two-way communication technology ensure communication stability Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_835743901_crop_thumb.PNG",
+        "alt": "ARD1233-W2_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_835743903_crop_thumb.PNG",
+        "alt": "ARD1233-W2_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_835744011_crop_thumb.PNG",
+        "alt": "ARD1233-W2_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_835743904_crop_thumb.PNG",
+        "alt": "ARD1233-W2_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_767150053-Black_crop_thumb.PNG",
+        "alt": "ARD1233-W2_Rendergraph_Front-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_767150051-Black_crop_thumb.PNG",
+        "alt": "ARD1233-W2_Rendergraph_45Left-logo-Black.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/image/1_0_01_19_10554_767150052-Black_crop_thumb.PNG",
+        "alt": "ARD1233-W2_Rendergraph_45Right-logo-Black.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "Port": {
+        "Indicator Light": "1 × green alarm indicator",
+        "Button": "1 × power button"
+      },
+      "Function": {
+        "Tamper Alarm": "Yes",
+        "Remote Update": "Cloud update",
+        "Search": "Signal strength detection",
+        "Low Battery Alarm": "Yes"
+      },
+      "Wireless Parameters": {
+        "Carrier Frequency": "868.0 MHz–868.6 MHz",
+        "Transmitter Power (EIRP)": "Limit 25 mW",
+        "Communication Distance": "Up to 1,600 m (5,249.34 ft) in an open space",
+        "Communication Mechanism": "Two-way",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Power Supply": "CR123A battery",
+        "Battery Life": "4 years",
+        "Power Consumption": "Max. 120 mW",
+        "Operating Environment": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "104.0 mm × 60.0 mm × 50.0 mm (4.09\" × 2.36\" × 1.97\") (L × W × H)",
+        "Installation": "Wall mount",
+        "Net Weight": "100 g (0.22 lb)",
+        "Gross Weight": "170 g (0.37 lb)",
+        "Casing Material": "PC + ABS",
+        "Certifications": "CE; EN 50131-1:2006+A1:2009+A2:2017+A3:2020; EN 50131-2-2:2017; EN 50131-6:2017; EN 50131-5-3:2017; Security Grade 2; Environmental Class II",
+        "Packaging Dimensions": "135.0 mm × 98.5 mm × 56.8 mm (5.31\" × 3.88\" × 2.24\") (L × W × H)"
+      },
+      "Temperature": {
+        "Measuring Range (Temperature)": "–15 °C to +65 °C (+5 °F to +149 °F) (indoor)",
+        "Measuring Precision (Temperature)": "± 1 °C (± 1.8 °F)",
+        "Resolution (Temperature)": "1 °C (33.8 °F)"
+      },
+      "Technical Parameter": {
+        "Detection Mode": "PIR",
+        "Sensor": "Dual elements low-noise PIR sensor",
+        "Test Mode": "Yes",
+        "Detection Range": "12 m (39.37 ft) (90°) with installation height of 2.2 m (7.21 ft)",
+        "Detection Speed": "0.3 m/s–3 m/s (0.98 ft/s–9.84 ft/s)",
+        "Pet Immunity Level": "≤ 18 kg (39.68 lb)",
+        "White Light Resistance Level": "2000 lx",
+        "Two-way Digital Temperature Compensation": "Yes",
+        "Sensitivity": "3 levels adjustable"
+      },
+      "Ordering Information": {
+        "Type": "Model",
+        "Wireless PIR Detector": "DHI-ARD1233-W2(868)",
+        "Accessories (Optional)": "DHI-ARA33A"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/13047/datasheet/DHI-ARD1233-W2_S0_datasheet_20260914_English.pdf"
+      },
+      {
+        "name": "2025-07-29 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/35207/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2025-08-05 #User Manual Wireless PIR Detector_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/user_manual/Wireless_PIR_Detector_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-07-29 #User Manual Dahua Wireless PIR Detector_User's Manual_V2.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/user_manual/Dahua_Wireless_PIR_Detector_User_27s_Manual_V2.0.2.pdf"
+      },
+      {
+        "name": "2025-08-15 #Drawings ARD1233-W2_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/drawings/1_0_01_19_10945_837744042.pdf"
+      },
+      {
+        "name": "2021-04-17 #Drawings ARD1233-W2_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/drawings/1_0_01_19_10945_1653148451.pdf"
+      },
+      {
+        "name": "2021-04-17 #Drawings ARD1233-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88287/drawings/1_0_01_19_10945_1653148450.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/detectors/ard1233-w2"
+  }
+}

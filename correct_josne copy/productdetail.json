@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Display & Control",
+    "category_url": "https://www.dahuasecurity.com/products/display-&-control",
+    "subcategory": "Control",
+    "subcategory_url": "https://www.dahuasecurity.com/products/display-&-control/control",
+    "series": "Decoders",
+    "series_url": "https://www.dahuasecurity.com/products/display-&-control/control/decoders",
+    "tab_title": "Decoders",
+    "tab_id": "43",
+    "breadcrumbs": [
+      "Display & Control",
+      "Control",
+      "Decoders",
+      "Decoders"
+    ]
+  },
+  "card_info": {
+    "product_id": "138437",
+    "product_name": "NVD1605DU-4I-8K-2U2H",
+    "product_title": "Dahua 16CH UHD NETWORK VIDEO DECODER",
+    "product_url": "https://display.dahuasecurity.com/business/en/products/productdetail",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16253/ProductImage/1_0_01_01_16253_395423238_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "display-&-control/products/productdetail.html",
+  "detail": {
+    "title": "Dahua 16CH UHD NETWORK VIDEO DECODER",
+    "model": "NVD1605DU-4I-8K-2U2H",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_01_16253/ProductImage/1_0_01_01_16253_395423238_crop_thumb.png",
+        "alt": "NVD1605DU-4I-8K-2U2H",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://display.dahuasecurity.com/business/en/products/productdetail"
+  }
+}

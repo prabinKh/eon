@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "Outdoor Parking",
+    "tab_id": "18133",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "Outdoor Parking"
+    ]
+  },
+  "card_info": {
+    "product_id": "108097",
+    "product_name": "ITSXS-1301-32",
+    "product_title": "Outdoor Guidance Screen",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/led-screens/itsxs-1301-32",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220524/1301_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/itsxs-1301-32.html",
+  "detail": {
+    "title": "Outdoor Guidance Screen",
+    "model": "ITSXS-1301-32",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ITSXS-1301-32 Outdoor Guidance Screen Key Points • Supports Chinese characters, letters, numbers, arrows, the handicap parking sign, etc. in red, green, yellow color • 10mm Ultra-Dense Pixel Pitch – clearly displays 4 large characters per line, supporting up to 6 lines. • Super High Brightness (≥6,000+nits) – brilliant visibility under direct sunlight • Long-lasting Service Life: 100,000 hours with IP54 protection level Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220524/1301_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Basic": {
+        "Monitor": "LED (Display in red, green, and yellow colors)",
+        "Dimensions": "320 mm × 160 mm (12.60\" × 6.30\") (L × W) 320 mm × 320 mm (12.60\" × 12.60\") (L × W) 320 mm × 480 mm (12.60\" × 18.90\") (L × W)",
+        "Display Content": "Chinese characters, letters, numbers, arrows, the handicap parking sign, and more",
+        "Pixels Configuration": "1R1PG",
+        "Resolution": "512 dots (32 × 16); 1 line; pixel pitch: 10 mm (0.39\") 1024 dots (32 × 32); 2 line; pixel pitch: 10 mm (0.39\") 1536 dots (32 × 48); 3 lines; pixel pitch: 10 mm (0.39\")",
+        "Service Life": "100,000 hours",
+        "Screen Brightness": "6000 cd/m2 (adjustable)"
+      },
+      "Port": {
+        "Network Port": "1 × 100 Mbps Ethernet port (RJ-45)"
+      },
+      "General": {
+        "Power Supply": "100 V–240 V AC",
+        "Power Consumption": "30 W, 60W, 90W",
+        "Operating Temperature": "–30 °C to +70 °C (–22 °F to +158 °F)",
+        "Operating Humidity": "10%–90% (non-condensing)",
+        "IP Rating": "IP54",
+        "Product Dimensions": "362 mm × 110 mm × 202 mm (14.25\" × 4.33\" × 7.95\") (L × W × H) 362 mm × 110 mm × 362 mm (14.25\" × 4.33\" × 14.25\") (L × W × H) 362 mm × 110 mm × 522 mm (14.25\" × 4.33\" × 20.55\") (L × W × H)",
+        "Net Weight": "3 kg (6.61 lb), 6 kg (13.23 lb), 9 kg (19.84 lb)",
+        "Gross Weight": "3.5 kg (7.71 lb), 7 kg (15.43 lb), 10.5 kg (23.15 lb)",
+        "Installation": "Pole mount; Pole mount bracket"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ITSXS-1301-12_datasheet_20230901.pdf"
+      },
+      {
+        "name": "2024-11-26 #User Manual Dahua Outdoor Guidance Screen_User's Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0005527/202411/Dahua_Outdoor_Guidance_Screen_User_27s_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2022-05-18 #A&E Document ITSXS-1301-32_A&E_20240817002617 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46737/a_e_document/ITSXS-1301-32_A_E_20240817002617.docx"
+      },
+      {
+        "name": "2023-07-06 #Drawings ITSXS-1301-32_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46737/drawings/1_0_99_12_10117_448768535.pdf"
+      },
+      {
+        "name": "2023-07-06 #Drawings ITSXS-1301-32_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46737/drawings/ITSXS-1301-32_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-03-24 #Firmware General_T4-V7.93DH-RAM Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/46717/firmware/General_T4-V7.93DH-RAM.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/outdoor-parking/led-screens/itsxs-1301-32"
+  }
+}

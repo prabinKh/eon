@@ -1,0 +1,179 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras",
+    "series": "SD2",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd2",
+    "tab_title": "SD2",
+    "tab_id": "9322",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI PTZ Cameras",
+      "SD2",
+      "SD2"
+    ]
+  },
+  "card_info": {
+    "product_id": "128967",
+    "product_name": "SD22204DB-GC",
+    "product_title": "2MP 4x Starlight HDCVI PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd2/sd22204db-gc",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14991/ProductImage/1_0_01_07_14991_169191128_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/sd22204db-gc.html",
+  "detail": {
+    "title": "2MP 4x Starlight HDCVI PTZ Camera",
+    "model": "SD22204DB-GC",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD22204DB-GC 2MP 4x Starlight HDCVI PTZ Camera Key Points 1. Mini size design, bring better convenience to the installer; 2. Pan(0-355°) and tilt(0-90°) capabilities make camera monitoring more flexible, and zoom(4x) in on detail; 3. IP66&IK10 protection, excellent waterproof, dustproof and anti-damage capability; 4. 3 Signals over 1 Coaxial Cable: HDCVI technology supports 3 signals (video, audio* and data) which are simultaneously transmitted over a coaxial cable. 5. 3DNR technology: reduces image noise with little to no impact on image sharpness, especially in poor lighting conditions. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14991/ProductImage/1_0_01_07_14991_169191128_crop_thumb.png",
+        "alt": "SD22204DB-GC_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14991/ProductImage/1_0_01_07_14991_169191129_crop_thumb.png",
+        "alt": "SD22204DB-GC_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_07_14991/ProductImage/1_0_01_07_14991_169191130_crop_thumb.png",
+        "alt": "SD22204DB-GC_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 188,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "2 MP",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "ROM": "128 MB",
+        "RAM": "256 MB",
+        "Electronic Shutter Speed": "1/3 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "0.005lux@F1.6 (Color, 30 IRE); 0.0005lux@F1.6 (B/W, 30 IRE)"
+      },
+      "Lens": {
+        "Focal Length": "2.7 mm–11 mm",
+        "Max. Aperture": "F1.6–F3.0",
+        "Field of View": "H: 99.1°–31.9° V: 53.4°–18.0° D: 117.7°–36.6°",
+        "Optical Zoom": "4×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "1 m (3.28 ft)",
+        "DORI Distance": "Detect",
+        "151.7 m (497.70 ft)": "59.9 m (196.52 ft)"
+      },
+      "DORI (Detect, Observe, Recognize, Identify) is a standard system (EN-62676-4) for defining the ability of a person viewing the video to distinguish persons or objects within a covered area. The numbers in this table do not reflect intelligent function distances. For intelligent function distances, refer to installation and commissioning manual/project design tool.": {},
+      "PTZ": {
+        "Pan/Tilt Range": "Pan: 0° to 355°; Tilt: 0° to +90° (When the vertical field of view is between 0° and 10°, the device case will block part of the image)",
+        "Manual Control Speed": "Pan: 0.1°–100°/s Tilt: 0.1°–60°/s",
+        "Preset Speed": "Pan: 100°/s; Tilt: 60°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset; Tour",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)"
+      },
+      "Video": {
+        "Resolution": "1080p (1920 × 1080); 720p (1280 × 720); D1 (704 × 576/704 × 480)",
+        "Video Frame Rate": "1080p (25/30 fps); 720p (25/30/50/60 fps)",
+        "Day/Night": "Yes",
+        "BLC": "Yes",
+        "WDR": "DWDR",
+        "HLC": "Yes",
+        "White Balance": "Auto/Indoor/Outdoor/Tracking/Manual/Sodium lamp/Natural/Street lamp",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Defog": "Electronic",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "S/N Ratio": "≥50 dB"
+      },
+      "Function": {
+        "CVI Product Output Mode": "TVI;CVI;CVBS;AHD (CVBS is only used for debugging)"
+      },
+      "Certification": {
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpart B, ANSI C63.4-2014 UL: UL60950-1+CAN/CSA C22.2, No.60950-1"
+      },
+      "Port": {
+        "Analog Output": "1 channel (CVBS/CVI output, BNC)",
+        "RS-485": "1 (baud rate range: 1200 bps–9600 bps)"
+      },
+      "Power": {
+        "Power Supply": "12VDC,1.5 A ± 10%",
+        "Power Consumption": "Basic: 7 W Max.: 9 W (PTZ)"
+      },
+      "Environment": {
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH)",
+        "Protection": "IP66; IK10; TVS 6000V lightning proof; surge protection; voltage transient protection"
+      },
+      "Structure": {
+        "Product Dimensions": "88.9 mm × Φ122.0 mm (3.50\" × Φ4.80\")",
+        "Net Weight": "0.6 kg (1.32 lb)",
+        "Gross Weight": "0.65 kg (1.43 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/SD22204DB-GC_S0_datasheet_20250115.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/82244/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0004836/202411/Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2024-11-27 #User Manual HDCVI_Speed_Dome&PTZ_Camera_User's_Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0007330/202411/HDCVI_Speed_Dome_26PTZ_Camera_User_27s_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-05-16 #A&E Document SD22204DB-GC_A&E_20260917234119 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70467/a_e_document/1789659727098.docx"
+      },
+      {
+        "name": "2023-01-09 #Drawings SD22204DB-GC_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8787/drawings/SD22204-GC-LB_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-01-09 #Drawings SD22204DB-GC_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/8787/drawings/SD22204-GC-LB_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-06-13 #Firmware General_SD22XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2212382/M/General_SD22XXX-HC_MAIN_MCU_Internal_PN_V2.202.0000000.19.R.230424.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-ptz-cameras/sd2/sd22204db-gc"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "58",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "16 Ch.",
+      "CP-UVR-1601F1-IC"
+    ]
+  },
+  "card_info": {
+    "product_id": "1542",
+    "product_name": "CP-UVR-1601F1-IC",
+    "product_title": "CP-UVR-1601F1-IC-16Ch. 5M-N Digital Video Recorder | Cp Plus | Cpplusworld.com",
+    "product_url": "https://cpplusworld.com/cp-uvr-1601f1-ic",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/992b30a1-b3c4-4289-af54-52d59064dfff.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-1601f1-ic.html",
+  "detail": {
+    "title": "CP-UVR-1601F1-IC-16Ch. 5M-N Digital Video Recorder | Cp Plus | Cpplusworld.com",
+    "model": "CP-UVR-1601F1-IC",
+    "brand": "CP Plus",
+    "overview": "16Ch. 5M-N Digital Video Recorder",
+    "features": [
+      "Supports HDCVI/AHD/TVI/CVBS/IP video inputs",
+      "Max 24 channels IP camera inputs, each channel up to 6MP",
+      "Supports Full-channel AI Instastream",
+      "Instastream/H.265 dual-stream video compression",
+      "Up to 16 channels video stream (analog channel) SMD Plus",
+      "Support 1 SATA HDD up to 16TB Each, 2 USB Ports",
+      "1 HDMI / 1 VGA Simultaneous Video Output",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/992b30a1-b3c4-4289-af54-52d59064dfff.jpg",
+        "alt": "CP-UVR-1601F1-IC - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/161285d4-5ae2-47bd-b8b0-6fa278327922.jpg",
+        "alt": "CP-UVR-1601F1-IC - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Embedded processor",
+        "Operating System": "Embedded LINUX",
+        "IP Camera Input": "16+8 channels, each channel up to 6MP",
+        "Two-way Talk": "Reuse audio in/out, RCA",
+        "User Interface": "GUI",
+        "Video Output": "1 HDMI, 1 VGA",
+        "Video Resolution": "VGA: 1920 × 1080, 1280 × 1024, 1280 × 720 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Video Compression": "AI Instastream/Instastream/H.265/H.264+/H.264",
+        "Video Recording": "Main stream: All channel 5M-N (1 fps–10fps); 4M-N/1080p (1 fps–15fps); 1080N/720p/960H D1/CIF (1 fps–25/30fps) Sub Stream: D1/CIF (1 fps–15fps)",
+        "Video Display Split": "1/4/8/9/16",
+        "Resolution": "4M-N; 1080P; 1080N; 720P; 960H; D1; CIF",
+        "Bit Rate": "32 kbps–6144 kbps per channel",
+        "Video Channel": "16 channel, BNC",
+        "Audio Compression": "G.711A, G.711U, PCM",
+        "Audio Input": "1 Ch., RCA (external) ; 16 Ch., BNC (coaxial)",
+        "Audio Output": "1 channel, RCA",
+        "Motion Detection": "Support",
+        "Video Loss": "Support",
+        "Smart Phone": "iPhone, iPad, Android Phone",
+        "Hard Disk": "1 SATA port, up to 16TB Each",
+        "Camera Blank": "Support",
+        "Search Mode": "Time/Date, MD & Exact search (accurate to second)",
+        "Backup Mode": "USB Device/Network",
+        "Playback": "Play, Pause, Stop, Rewind, Fast play, Slow play, Next file, Previous file, Next camera, Previous camera, Full screen, Repeat, Shuffle, Backup, selection, Digital zoom",
+        "Max User Account": "128 users",
+        "Record Interval": "1~60 min (default: 60 min), Pre-record: 1~30 sec, Post-record: 10~300 sec",
+        "Ethernet": "1 RJ-45 port (10/100/1000MB)",
+        "Interface Ports": "2 USB Ports (USB 2.0)",
+        "Protocols": "TTP; HTTPS; TCP/IP; IPv4/IPv6; Wi-Fi; 3G/4G; SNMP; UPnP; RTSP; UDP; SMTP; NTP; DHCP; DNS; IP Filter; PPPoE; DDNS; FTP; Alarm Server; InstaOn; IP Search, ONVIF 16.12, CGI Conformant",
+        "Power Supply": "DC12V/2A",
+        "Power Consumption": "<12W (without HDD)",
+        "Working Temp": "-10°C ~ +45°C (+14°F ~ +113°F), 0 ~ 90% RH",
+        "Dimension": "260.0 mm × 231.4 mm × 47.6 mm (W × D × H)",
+        "Weight": "0.93 kg (without HDD)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-1601F1-IC.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/99f1600c-79d8-4a3a-97f8-fd8e5280b853.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-1601f1-ic"
+  }
+}

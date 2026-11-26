@@ -1,0 +1,178 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "View All",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-1-series",
+    "tab_title": "Single Lens",
+    "tab_id": "18204",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "View All",
+      "Single Lens"
+    ]
+  },
+  "card_info": {
+    "product_id": "143891",
+    "product_name": "SD2A300NB-GNY-A-PV",
+    "product_title": "3MP Smart Dual Light NETWORK PT CAMERA",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-1-series/single-lens/sd2a300nb-gny-a-pv",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20240328/1_0_01_07_15509_1112157634_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd2a300nb-gny-a-pv.html",
+  "detail": {
+    "title": "3MP Smart Dual Light NETWORK PT CAMERA",
+    "model": "SD2A300NB-GNY-A-PV",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD2A300NB-GNY-A-PV 3MP Smart Dual Light NETWORK PT CAMERA Key Points • High-Quality Imaging with 3MP Resolution • Expansive Night View With up to 50 m IR Distance for 24/7 Monitoring • Smart Dual Light: Expansive Night View with up to 50m IR Distance and 50m White Light • Deep Learning-Based Human and Vehicle Classification • Active Deterrence: Audible and Visual Alarms Can Be Triggered by Certain Events to Drive Away the Target • Real-Time Communication via Built-In Two-Way Talk • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240328/1_0_01_07_15509_1112157634_thumb.png",
+        "alt": "SD2A300NB-GNY-A-PV_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20240328/1_0_01_07_151509_111257637_thumb.png",
+        "alt": "SD2A300NB-GNY-A-PV_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Image Sensor": {},
+      "Pixel": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Electronic Shutter Speed": {},
+      "Scanning System": {},
+      "Min. Illumination": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Close Focus Distance": {},
+      "Iris Control": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "4.0 mm": "53.6 m( 175.85 ft)"
+      },
+      "Pan/Tilt Range": {},
+      "Manual Control Speed": {},
+      "Preset Speed": {},
+      "Preset": {},
+      "Power-off Memory": {},
+      "Idle Motion": {},
+      "IVS": {},
+      "Human Detection": {},
+      "SMD": {},
+      "Light Warning": {},
+      "Sound Warning": {},
+      "Video Compression": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Video Frame Rate": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "WDR": {},
+      "HLC": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Privacy Masking": {},
+      "S/N Ratio": {},
+      "Audio Compression": {},
+      "Network Port": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "Streaming Method": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Linkage": {},
+      "Alarm Event": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Power Adapter": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Protection": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/datasheet/SD2A300NB-GNY-A-PV_S0_datasheet_20250924.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Installation Guide_V1.0.0_(SD2A-POE) Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/user_manual/Installation_Guide_V1.0.0_(SD2A-POE).pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-08-29 #User Manual Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User's_Manual_V3.0.3 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/user_manual/Dahua_Network_Speed_Dome_PTZ_Camera_Web_3.0_User_27s_Manual_V3.0.3.pdf"
+      },
+      {
+        "name": "2024-03-18 #A&E Document SD2A300NB-GNY-A-PV_A&E_20260918004237 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/a_e_document/1789663897468.docx"
+      },
+      {
+        "name": "2023-12-07 #Drawings SD2A300NB-GNY-A-PV_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/drawings/SD2A300NB-GNY-A-PV_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-09-10 #Drawings SD2A300NB-GNY-A-PV_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/80761/drawings/SD2A300NB-GNY-A-PV_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2025-09-10 #Firmware DH_SD-Kant_MultiLang_PN_V2.820.0000017.0.R.250821 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86390/firmware/DH_SD-Kant_MultiLang_PN_V2.820.0000017.0.R.250821.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-1-series/single-lens/sd2a300nb-gny-a-pv"
+  }
+}

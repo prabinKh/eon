@@ -1,0 +1,98 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "Full HD Auto Focus USB Webcam with Microphone",
+    "subcategory_url": "https://www.intex.in/collections/full-hd-auto-focus-usb-webcam-with-microphone",
+    "series": "USB Webcam",
+    "series_url": "https://www.intex.in/collections/usb-webcam",
+    "tab_title": "Full HD Auto Focus USB Webcam with Microphone",
+    "tab_id": "9152805437658",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "Full HD Auto Focus USB Webcam with Microphone",
+      "Intex Full HD Auto Focus USB Webcam with Microphone"
+    ]
+  },
+  "card_info": {
+    "product_id": "9152805437658",
+    "product_name": "Intex Full HD Auto Focus USB Webcam with Microphone",
+    "product_title": "Intex Full HD Auto Focus USB Webcam with Microphone",
+    "product_url": "https://www.intex.in/products/intex-full-hd-auto-focus-usb-webcam-with-microphone",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP1_2167b028-5a23-4df2-a6ca-fa075b169951.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 2749.0,
+      "display": "₹2,749.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-full-hd-auto-focus-usb-webcam-with-microphone.html",
+  "detail": {
+    "title": "Intex Full HD Auto Focus USB Webcam with Microphone",
+    "model": "Microphone",
+    "brand": "Intex",
+    "overview": "Experience clear and smooth video communication with the Intex Full HD Webcam. Designed for work, online classes, streaming, and video calls, it offers plug-and-play installation, auto focus clarity, and built-in voice support for seamless communication.",
+    "features": [
+      "USB Interface for easy connectivity",
+      "1.5-Metre Long Cable for flexible setup",
+      "Easy Mount Design with Plug & Play installation",
+      "Auto Focus for fast and precise video clarity",
+      "Full HD Video & Chat support",
+      "2MP Image Sensor for clear visuals",
+      "30 FPS Frame Rate for smooth video output",
+      "Built-in support for easy voice chat"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/PDP1_2167b028-5a23-4df2-a6ca-fa075b169951.jpg",
+        "alt": "Intex Full HD Auto Focus USB Webcam with Microphone",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "USB Interface for easy connectivity",
+        "Feature 2": "1.5-Metre Long Cable for flexible setup",
+        "Feature 3": "Easy Mount Design with Plug & Play installation",
+        "Feature 4": "Auto Focus for fast and precise video clarity",
+        "Feature 5": "Full HD Video & Chat support",
+        "Feature 6": "2MP Image Sensor for clear visuals",
+        "Feature 7": "30 FPS Frame Rate for smooth video output",
+        "Feature 8": "Built-in support for easy voice chat"
+      },
+      "General": {
+        "Model": "Microphone"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Download brochure",
+        "url": "https://www.intex.in/cdn/shop/files/INTEX_Web_Pro_Vision_Launch_PPT.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-full-hd-auto-focus-usb-webcam-with-microphone"
+  }
+}

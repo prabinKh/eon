@@ -1,0 +1,120 @@
+{
+  "hierarchy": {
+    "category": "Intelligent Traffic",
+    "category_url": "https://www.dahuasecurity.com/products/intelligent-traffic",
+    "subcategory": "Smart Parking Products",
+    "subcategory_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products",
+    "series": "Entrance and Exit",
+    "series_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/entrance-and-exit",
+    "tab_title": "RFID",
+    "tab_id": "118203",
+    "breadcrumbs": [
+      "Intelligent Traffic",
+      "Smart Parking Products",
+      "Entrance and Exit",
+      "RFID"
+    ]
+  },
+  "card_info": {
+    "product_id": "153539",
+    "product_name": "DHIYT009E",
+    "product_title": "Integrated Antenna Reader",
+    "product_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/dhiyt009e",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15793/ProductImage/1_0_01_09_15793_811287456_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "intelligent-traffic/products/dhiyt009e.html",
+  "detail": {
+    "title": "Integrated Antenna Reader",
+    "model": "DHIYT009E",
+    "brand": "Dahua",
+    "overview": "Compare Favourite DHIYT009E Integrated Antenna Reader Key Points • Parking Entrance/Exit Design • Compliant with ISO 18000-6C • 12m ultra-long reading range with MTBF ≥15,000 hours • Superior wide temperature range –30 °C to +75 °C for enhanced stability • Multiple communication modes, supporting RS485, RS232 and 10/100Base-T Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15793/ProductImage/1_0_01_09_15793_811287456_crop_thumb.PNG",
+        "alt": "DHIYT009E_View_Rear-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15793/ProductImage/1_0_01_09_15793_811287454_crop_thumb.PNG",
+        "alt": "DHIYT009E_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15793/ProductImage/1_0_01_09_15793_811287453_crop_thumb.PNG",
+        "alt": "DHIYT009E_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_09_15793/ProductImage/1_0_01_09_15793_811287455_crop_thumb.PNG",
+        "alt": "DHIYT009E_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 184,
+    "specifications": {
+      "Air Interface Protocol": {},
+      "Operating Frequency": {},
+      "Antenna Gain": {},
+      "Antenna Interface": {},
+      "VSWR": {},
+      "Transmit Power (Integrated Internal Antenna)": {},
+      "Transmit Power (External N-Type Antenna Port)": {},
+      "Read Performance": {},
+      "Antenna Polarization": {},
+      "Wired Mode": {},
+      "Operating Voltage": {},
+      "Rated Power": {},
+      "Local Maintenance": {},
+      "Remote Maintenance": {},
+      "Offline Cache": {},
+      "Resume from Breakpoint": {},
+      "Data Filtering": {},
+      "Log Record": {},
+      "Clock Accuracy": {},
+      "Management Function": {},
+      "Operating Temperature": {},
+      "Storage Temperature": {},
+      "Operating Humidity": {},
+      "Atmospheric Pressure": {},
+      "Protection": {},
+      "Radiation": {},
+      "MTBF": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84656/datasheet/DHIYT009E_datasheet_20250904.pdf"
+      },
+      {
+        "name": "2026-03-31 #User Manual Dahua Integrated Antenna Reader_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/84656/user_manual/Dahua_Integrated_Antenna_Reader_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/intelligent-traffic/smart-parking-products/rfid/dhiyt009e"
+  }
+}

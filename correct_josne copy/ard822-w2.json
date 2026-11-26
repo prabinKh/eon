@@ -1,0 +1,142 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "105547",
+    "product_name": "ARD822-W2",
+    "product_title": "Wireless Panic Button",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ard822-w2",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20220420/ARD11_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ard822-w2.html",
+  "detail": {
+    "title": "Wireless Panic Button",
+    "model": "ARD822-W2",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARD822-W2 Wireless Panic Button Key Points · Offers accidental press prevention. · Capable of being fixed on the board. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220420/ARD11_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220420/ARD31_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20220420/ARD21_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Function": {
+        "Indicator Light": "1 for multiple statuses (pairing, communication, and operation)",
+        "Remote Update": "Cloud update",
+        "Button": "2",
+        "Signal Strength": "Yes",
+        "Low Battery Detection": "Yes",
+        "Battery Level Display": "Displays battery level on app"
+      },
+      "Wireless": {
+        "Carrier Frequency": "433.1 MHz–434.6 MHz",
+        "Communication Distance": "Up to 1,300 m (4,265.09 ft) in an open space",
+        "Communication Mechanism": "Two–way",
+        "Encryption Mode": "AES128",
+        "Frequency Hopping": "Yes"
+      },
+      "General": {
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F) (indoor)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Power Supply": "1 × CR2032",
+        "Battery Life": "3 years (if used twice a week)",
+        "Product Dimensions": "55 mm × 36 mm × 14.2 mm (2.17\" × 1.42\" × 0.56\") (L × W × H)",
+        "Packaging Dimensions": "95 mm × 59.5 mm × 30.5 mm (3.74\" × 2.34\" × 1.20\") (L × W × H)",
+        "Installation": "Wall mount; portable",
+        "Net Weight": "18 g (0.04 lb)",
+        "Gross Weight": "48 g (0.11 lb)",
+        "Certifications": "CE",
+        "Casing Material": "PC + ABS",
+        "Protection": "IP54"
+      },
+      "Technical": {
+        "Operating Current": "28 mA",
+        "Test Mode": "Yes"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARD822-W2_datasheet_20230612.pdf"
+      },
+      {
+        "name": "2026-07-15 #User Manual Dahua Wireless Panic Button (Double)_User Manual_V2.0.5 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44767/user_manual/Dahua_Wireless_Panic_Button_(Double)_User_Manual_V2.0.5.pdf"
+      },
+      {
+        "name": "2026-07-15 #User Manual Wireless Panic Button (double)_Quick Start Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44767/user_manual/Wireless_Panic_Button_(double)_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-15 #User Manual Important Safeguards and Warnings_V3.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/43257/user_manual/Important_Safeguards_and_Warnings_V3.0.0.pdf"
+      },
+      {
+        "name": "2022-05-26 #Drawings ARD822-W2_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44757/drawings/1_0_01_19_10638_71390264.pdf"
+      },
+      {
+        "name": "2022-04-15 #Drawings ARD822-W2_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44767/drawings/ARD822-W2(868)_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2022-04-15 #Drawings ARD822-W2_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/44757/drawings/ARD822-W2_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2024-08-01 #Firmware General_ARD822-W2_433_V1.000.0000005.0.R.20240329 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/SWR/2715618/M/General_ARD822-W2_433_V1.000.0000005.0.R.20240329.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ard822-w2"
+  }
+}

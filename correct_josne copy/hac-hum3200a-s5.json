@@ -1,0 +1,156 @@
+{
+  "hierarchy": {
+    "category": "HDCVI Products",
+    "category_url": "https://www.dahuasecurity.com/products/hdcvi-products",
+    "subcategory": "HDCVI Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras",
+    "series": "Micro-size Series",
+    "series_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series",
+    "tab_title": "Micro-size Series",
+    "tab_id": "6252",
+    "breadcrumbs": [
+      "HDCVI Products",
+      "HDCVI Cameras",
+      "Micro-size Series",
+      "Micro-size Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "115857",
+    "product_name": "HAC-HUM3200A",
+    "product_title": "2MP IR HDCVI Fixed-focal Cube Camera",
+    "product_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series/hac-hum3200a=s5",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20221109/HAC-HUM3200A_1_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "hdcvi-products/products/hac-hum3200a-s5.html",
+  "detail": {
+    "title": "2MP IR HDCVI Fixed-focal Cube Camera",
+    "model": "HAC-HUM3200A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite HAC-HUM3200A 2MP IR HDCVI Fixed-focal Cube Camera Key Points • High-Quality Imaging with 1080P Resolution • IR Illumination: Smart IR Ensures Brightness Uniformity in B/W Image • 10m Illumination Distance for Superior Camera Image Quality • 2DNR & DWDR & Super Adapt Ensures Clear Details in Strong Backlight Conditions Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221109/HAC-HUM3200A_1_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20221109/HAC-HUM3200A_2_thumb.png",
+        "alt": "HAC-HUM3200A",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Camera": {
+        "Image Sensor": "2 MP CMOS",
+        "Max. Resolution": "1920 (H) × 1080 (V)",
+        "Scanning System": "Progressive",
+        "Electronic Shutter Speed": "PAL: 1/25 s–1/100000 s NTSC: 1/30 s–1/100000 s",
+        "Min. Illumination": "0.01 lux@F2.0 (B/W, 30 IRE) 0 lux (Illuminator on)",
+        "S/N Ratio": ">65 dB",
+        "Illumination Distance": "10 m (32.81 ft)",
+        "Illuminator On/Off Control": "Auto/Manual",
+        "Illuminator Number": "2 (IR light)",
+        "Pan/Tilt/Rotation Range": "Pan: 0°–360° Tilt: 0°–90° Rotation: 0°–360°"
+      },
+      "Lens": {
+        "Lens Type": "Fixed-focal",
+        "Lens Mount": "M12",
+        "Focal Length": "2.8 mm",
+        "Max. Aperture": "F2.0",
+        "Field of View": "H: 105°; V: 58°; D: 118°",
+        "Iris Control": "Fixed",
+        "Close Focus Distance": "0.5 m (1.64 ft)",
+        "DORI Distance": "Lens",
+        "2.8 mm": "42.1 m (138.12 ft)",
+        "ABF": "Yes"
+      },
+      "Video": {
+        "Video Frame Rate": "CVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps AHD: PAL: 1080p@25 fps; NTSC: 1080p@30 fps TVI: PAL: 1080p@25 fps; NTSC: 1080p@30 fps CVBS: PAL: 960H; NTSC: 960H",
+        "Resolution": "1080p (1920 × 1080)",
+        "Day/Night": "Color/B/W",
+        "BLC": "BLC; DWDR; HLC",
+        "WDR": "DWDR",
+        "White Balance": "Auto; Area white balance",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D NR",
+        "Illumination Mode": "Smart IR",
+        "Mirror": "Yes",
+        "Privacy Masking": "Off/On (8 areas, rectangle)"
+      },
+      "Certification": {
+        "Certifications": "CE-LVD: EN 62368-1; CE-EMC: EN 55032; EN 55035; FCC: 47 CFR FCC Part 15, Subpart B;"
+      },
+      "Port": {
+        "Video Output": "Video output choices of CVI/TVI/AHD/CVBS by one BNC port"
+      },
+      "Power": {
+        "Power Supply": "12 VDC ± 30%",
+        "Power Consumption": "Max 3.3 W (12 VDC, IR on)"
+      },
+      "Environment": {
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "<95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "<95% (RH), non-condensing"
+      },
+      "Structure": {
+        "Casing Material": "Plastic",
+        "Product Dimensions": "61.7 mm × 58.1 mm × 119.7 mm (2.43\" × 2.29\" × 4.71\")",
+        "Net Weight": "0.12 kg (0.26 lb)",
+        "Gross Weight": "0.19 kg (0.42 lb)",
+        "Installation": "Wall Mount"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/HAC-HUM3200A_S5_datasheet_20221213.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Camera_User Manual_V1.0.7 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/HDCVI_Camera_User_Manual_V1.0.7.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual DAHUA_HDCVI CAMERA_OPEN SOURCE SOFTWARE NOTICE _VERSION A_V1.0.1-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/88079/user_manual/DAHUA_HDCVI_CAMERA_OPEN_SOURCE_SOFTWARE_NOTICE__VERSION_A_V1.0.1-Eng.pdf"
+      },
+      {
+        "name": "2025-10-26 #User Manual HDCVI Special Camera_Installation Guide_V1.0.0-Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/30457/user_manual/HDCVI_Special_Camera_Installation_Guide_V1.0.0-Eng.pdf"
+      },
+      {
+        "name": "2022-11-03 #Drawings HAC-HUM3200A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51427/drawings/DH-HAC-HUM3200AP-0280P-S5_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2022-11-03 #Drawings HAC-HUM3200A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/51427/drawings/DH-HAC-HUM3200AP-0280P-S5_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/hdcvi-products/hdcvi-cameras/micro-size-series/hac-hum3200a=s5"
+  }
+}

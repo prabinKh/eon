@@ -1,0 +1,202 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Optical Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/optical-series",
+    "tab_title": "Optical Series",
+    "tab_id": "1501",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Optical Series",
+      "Optical Series"
+    ]
+  },
+  "card_info": {
+    "product_id": "152548",
+    "product_name": "IPC-HFE8441S-AS",
+    "product_title": "4MP Explosion-proof IR Bullet WizMind Network Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/ipc-hfe8441s-as",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10534/ProductImage/1_0_01_08_10534_785405358_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/ipc-hfe8441s-as.html",
+  "detail": {
+    "title": "4MP Explosion-proof IR Bullet WizMind Network Camera",
+    "model": "IPC-HFE8441S-AS",
+    "brand": "Dahua",
+    "overview": "Favourite IPC-HFE8441S-AS 4MP Explosion-proof IR Bullet WizMind Network Camera Key Points • High-Quality Imaging with 4 MP Resolution • Supports Over 6 AI Functions, Applicable for Multi-scenario Targets Detection and Analysis • Explosion-proof Design, Certified by ATEX and IECEx • High-strength Aluminum Alloy Casing • IP68 and Anti-Corrosion Design (NEMA 4X) for Reliable Protection • Lighter Weight and Smaller Size, Easy to Install Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10534/ProductImage/1_0_01_08_10534_785405358_crop_thumb.png",
+        "alt": "IPC-HFE8441S-AS_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10534/ProductImage/1_0_01_08_10534_785404756_crop_thumb.png",
+        "alt": "IPC-HFE8441S-AS_Rendergraph_Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10534/ProductImage/1_0_01_08_10534_785404755_crop_thumb.png",
+        "alt": "IPC-HFE8441S-AS_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10534/ProductImage/1_0_01_08_10534_785405359_crop_thumb.png",
+        "alt": "IPC-HFE8441S-AS_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_08_10534/ProductImage/1_0_01_08_10534_785404754_crop_thumb.png",
+        "alt": "IPC-HFE8441S-AS_Rendergraph_Top-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 191,
+    "specifications": {
+      "Image Sensor": {},
+      "Max. Resolution": {},
+      "ROM": {},
+      "RAM": {},
+      "Scanning System": {},
+      "Electronic Shutter Speed": {},
+      "Min. Illumination": {},
+      "S/N Ratio": {},
+      "Illumination Distance": {},
+      "Illuminator On/Off Control": {},
+      "Illuminator Number": {},
+      "Lens Type": {},
+      "Lens Mount": {},
+      "Focal Length": {},
+      "Max. Aperture": {},
+      "Field of View": {},
+      "Iris Control": {},
+      "Close Focus Distance": {},
+      "DORI Distance": {
+        "Lens": "Detect",
+        "3.6 mm": "85.4 m( 280.18 ft)",
+        "6 mm": "124.0 m( 406.82 ft)"
+      },
+      "IVS": {},
+      "IVS (Perimeter Protection)": {},
+      "SMD": {},
+      "AcuPick": {},
+      "AI SSA": {},
+      "Face Detection": {},
+      "People Counting": {},
+      "Heat Map": {},
+      "Smart Search": {},
+      "Video Compression": {},
+      "Smart Codec": {},
+      "AI Coding": {},
+      "Video Frame Rate": {},
+      "Streaming Capability": {},
+      "Resolution": {},
+      "Bit Rate Control": {},
+      "Video Bit Rate": {},
+      "Day/Night": {},
+      "BLC": {},
+      "HLC": {},
+      "WDR": {},
+      "Scene Self-adaptation (SSA)": {},
+      "White Balance": {},
+      "Gain Control": {},
+      "Noise Reduction": {},
+      "Motion Detection": {},
+      "Region of Interest (RoI)": {},
+      "Defog": {},
+      "Image Rotation": {},
+      "Mirror": {},
+      "Privacy Masking": {},
+      "Audio Compression": {},
+      "Alarm Event": {},
+      "Network Port": {},
+      "SDK and API": {},
+      "Network Protocol": {},
+      "Interoperability": {},
+      "User/Host": {},
+      "Storage": {},
+      "Browser": {},
+      "Management Software": {},
+      "Mobile Client": {},
+      "Security": {},
+      "Certifications": {},
+      "Audio Input": {},
+      "Audio Output": {},
+      "Alarm Input": {},
+      "Alarm Output": {},
+      "Power Supply": {},
+      "Power Consumption": {},
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Storage Temperature": {},
+      "Storage Humidity": {},
+      "Protection": {},
+      "Anti-corrosion Level": {},
+      "Casing Material": {},
+      "Product Dimensions": {},
+      "Net Weight": {},
+      "Gross Weight": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83374/datasheet/IPC-HFE8441S-AS_S0_datasheet_20250827.pdf"
+      },
+      {
+        "name": "2026-07-01 #User Manual Dahua Network Camera Web 5.0_Operation Manual_V1.3.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/5357/user_manual/Dahua_Network_Camera_Web_5.0_Operation_Manual_V1.3.1.pdf"
+      },
+      {
+        "name": "2026-07-01 #User Manual Dahua Explosion-Proof Camera (HFEXXXXS Series)_User Manual_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83374/user_manual/Dahua_Explosion-Proof_Camera_(HFEXXXXS_Series)_User_Manual_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-07-01 #User Manual Bullet Network Camera (S Series)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83374/user_manual/Bullet_Network_Camera_(S_Series)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2025-02-24 #A&E Document IPC-HFE8441S-AS_A&E_20260918030908 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83374/a_e_document/1789672254631.docx"
+      },
+      {
+        "name": "2025-04-23 #Drawings IPC-HFE8441S-AS_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83374/drawings/IPC-HFE8441S-AS_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-04-23 #Drawings IPC-HFE8441S-AS_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83374/drawings/IPC-HFE8441S-AS_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-05-23 #Firmware DH_IPC-HX7(8)XXX-512-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/83420/firmware/DH_IPC-HX7(8)XXX-512-Taurus_MultiLang_PN_Stream3_V3.140.0000000.81.R.260508.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/optical-series/ipc-hfe8441s-as"
+  }
+}

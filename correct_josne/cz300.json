@@ -1,0 +1,103 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "Explosion-Proof",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/explosion-proof/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "118234",
+    "breadcrumbs": [
+      "Network Products",
+      "Explosion-Proof",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "154663",
+    "product_name": "CZ300",
+    "product_title": "CZ300_Explosion-proof Junction Box",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/accessories/cz300",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/image/1_0_99_44_10170_790213946_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/cz300.html",
+  "detail": {
+    "title": "CZ300_Explosion-proof Junction Box",
+    "model": "CZ300",
+    "brand": "Dahua",
+    "overview": "Favourite CZ300 CZ300_Explosion-proof Junction Box Key Points • Stainless steel 316L • Outlet hole specification: M25 × 1.5 • Explosion-proof mark: II 2 G Ex db IIC T6 Gb, II 2 D Ex tb IIIC T80°C Db; Ex db IIC T6 Gb, Ex tb IIIC T80°C Db • IP68 rated Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/image/1_0_99_44_10170_790213946_crop_thumb.PNG",
+        "alt": "CZ300_View_Front-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/image/1_0_99_44_10170_790213947_crop_thumb.PNG",
+        "alt": "CZ300_View_45Left-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 182,
+    "specifications": {
+      "General": {
+        "Certifications": "ATEX: II 2 G Ex db IIC T6 Gb, II 2 D Ex tb IIIC T80°C Db IECEx: Ex db IIC T6 Gb, Ex tb IIIC T80°C Db",
+        "Operating Temperature": "–40°C to +60°C (–40°F to 140°F)",
+        "Operating Humidity": "≤ 95%",
+        "Protection": "IP68",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use and are applicable even in areas with no specific requirements for anti-corrosion protection.",
+        "Casing": "SUS316L",
+        "Product Dimensions": "183 mm × Φ310 mm (7.20\" × Φ12.20\")",
+        "Net Weight": "14.7 kg (32.41 lb)",
+        "Gross Weight": "16.4 kg (36.16 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/datasheet/CZ300_datasheet_20250903.pdf"
+      },
+      {
+        "name": "2026-08-21 #User Manual Explosion-proof Control Box_User Manual_20260820_Eng Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/user_manual/Explosion-proof_Control_Box_User_Manual_20260820_Eng.pdf"
+      },
+      {
+        "name": "2021-07-12 #A&E Document CZ300_A&E_20260923090617 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/a_e_document/1790125843094.docx"
+      },
+      {
+        "name": "2023-02-01 #Drawings CZ300_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/drawings/CZ300_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-02-01 #Drawings CZ300_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86399/drawings/CZ300_DIMENSIONS.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/explosion-proof/accessories/cz300"
+  }
+}

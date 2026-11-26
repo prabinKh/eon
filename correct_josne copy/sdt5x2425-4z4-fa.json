@@ -1,0 +1,202 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PTZ Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras",
+    "series": "X-Spans Series",
+    "series_url": "https://www.dahuasecurity.com/my/products/network-products/ptz-cameras/x-spans-series",
+    "tab_title": "Project",
+    "tab_id": "18225",
+    "breadcrumbs": [
+      "Network Products",
+      "PTZ Cameras",
+      "X-Spans Series",
+      "Project"
+    ]
+  },
+  "card_info": {
+    "product_id": "154447",
+    "product_name": "SDT5X2425-4Z4-FA",
+    "product_title": "4MP 25 Starlight+ White light & IR light Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt5x2425-4z4-fa",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/image/1_0_01_07_16383_767812102_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sdt5x2425-4z4-fa.html",
+  "detail": {
+    "title": "4MP 25 Starlight+ White light & IR light Network PTZ Camera",
+    "model": "SDT5X2425-4Z4-FA",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SDT5X2425-4Z4-FA 4MP 25 Starlight+ White light & IR light Network PTZ Camera Key Points • Captures a Large Area and Great Details at the Same Time • High-Quality Imaging with 4MP Resolution for Overview Channel, 4MP for Detailed Channel • Consists of Dual PTZ, Carrying Out Panoramic and Detail Views • Enhanced Deep Learning-Based Human and Vehicle Classification • Face Recognition: Supports Face Information Collection, Property Expression Fetching, Face Database Management and Comparison • Support Hi-PoE • IP67 for Protection Against Harsh Environments Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/image/1_0_01_07_16383_767812102_crop_thumb.PNG",
+        "alt": "SDT5X2425-4Z4-FA_View_45left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/image/1_0_01_07_16383_767812103_crop_thumb.PNG",
+        "alt": "SDT5X2425-4Z4-FA_View_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/image/1_0_01_07_16383_867295878_temporary_thumb.PNG",
+        "alt": "SDT5X2425-4Z4-FA_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/image/1_0_01_07_16383_767812104_crop_thumb.PNG",
+        "alt": "SDT5X2425-4Z4-FA_View_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 187,
+    "specifications": {
+      "General": {
+        "Image Sensor": "Overview channel: 1/1.8\" CMOS; Detail channel: 1/1.8\" CMOS",
+        "Pixel": "Overview channel: 4 MP; Detail channel: 4 MP",
+        "Max. Resolution": "Overview channel: 2688 (H) × 1520 (V); Detail channel: 2688 (H) × 1520 (V)",
+        "Electronic Shutter Speed": "Overview channel: 1 s–1/100,000 s Detail channel: 1 s–1/100,000 s",
+        "Min. Illumination": "Overview channel: Color: 0.001 lux@F1.6 B/W: 0.0001 lux@F1.6 Detail channel: Color: 0.0005 lux@F1.2 B/W: 0.0001 lux@F1.2 0 lux (Illuminator of dual light fusion on)",
+        "Illumination Distance": "Overview channel: 30 m (98.43 ft) (white light); Detail channel: 150 m (492.126 ft) (Illuminator of dual light fusion)",
+        "Illuminator On/Off Control": "Overview channel: Zoom Prio; Auto; Manual; Off; Detail channel: Zoom Prio; Manual; Auto; Off",
+        "Illuminator Number": "Overview channel: 4 (Warm light); Detail channel: 6 (Illuminator of dual light fusion)",
+        "Wiper": "Wiper",
+        "Focal Length": "2812:Overview channel: 2.8 mm–12 mm; Detail channel: 7 mm–175 mm; 0624:Overview channel: 6 mm–24 mm; Detail channel: 7 mm–175 mm",
+        "Max. Aperture": "2812:Overview channel: F1.3; Detail channel: F1.2 0624:Overview channel: F1.6; Detail channel: F1.2",
+        "Field of View": "2812:Overview channel: H: 97.5°–45.8°; V: 59.7°–27°; D: 110.4°–51.7°; Detail channel: H: 27°–3°; V: 15°–2°; D: 31°–4° 0624:Overview channel: H: 42°–15°; V: 23°–8°; D: 49°–17°; Detail channel: H: 27°–3°; V: 15°–2°; D: 31°–4°",
+        "Optical Zoom": "Overview channel: 4×; Detail channel: 25×",
+        "Focus Control": "Auto; Semi-Auto; Manual",
+        "Iris Control Type": "P-Iris",
+        "Close Focus Distance": "2812:Overview channel: 2.5 m–5.6 m (8.2 ft–18.368 ft) Detail channel: 0.5 m–3 m (1.64 ft–9.84 ft) 0624:Overview channel: 0.5 m–2 m (1.64 ft–6.56 ft) Detail channel: 0.5 m–3 m (1.64 ft–9.84 ft)",
+        "DORI Distance": "6-24mm",
+        "Lens": "Detect",
+        "Overview channel: W": "110.3 m (362.02 ft)",
+        "T": "1655.2 m (5430.36 ft)",
+        "Detail channel: W": "220.7 m (724.05 ft)",
+        "Pan/Tilt Range": "Overview channel: Pan: 0° to 360° endless; Tilt: 0° to +30°; Detail channel: Pan: 0° to 340°; Tilt: –10° to +180°",
+        "Manual Control Speed": "Overview channel: Pan: 0.1°/s–100°/s; Tilt: 0.1°/s–50°/s Detail channel: Pan: 0.1°/s–360°/s; Tilt: 0.1°/s–200°/s",
+        "Preset Speed": "Overview channel: Pan: 100°/s; Tilt: 50°/s Detail channel: Pan: 360°/s; Tilt: 200°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Scan": "5",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset;Tour;Scan",
+        "PTZ Protocol": "DH-SD Pelco-P/D (Auto recognition)",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; climbing fences; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; vehicle/human alarm classification; linking the Detail channel camera to track objects",
+        "Video Metadata": "Metadata is information on the attributes of targets that is extracted during monitoring. It can be used for data retrieval. There are four kinds of metadata supported by Dahua PTZ WizMind cameras: Human face, human body, motor vehicle and non-motor vehicle. Face information includes gender, age, glasses, masks, beards, and more. Human body information includes hat, top, top color, bottom, bottom color, bag, and more. Motor vehicle information includes plate color, type, vehicle color, sun visor, ornament, calling, seatbelt, smoking, annual inspection sticker, and more. Non-motor vehicle information includes type, color, top type, top color, people number, and more.",
+        "Face Detection": "Supports face detection, optimization, capturing pictures, uploading high-quality face snapshots and enhancing face images. Attribute Extraction is also supported, where 6 attributes and 8 expressions can be detected. Face cutout is also offered, where you can cutout one face at a time and customize the size to be a one-inch photo. The supported methods for capturing snapshots are real-time capturing, quality first, and selecting a preferred image among a group of snapshots.",
+        "Face Recognition": "Face attributes are extracted from captured faces, and stored in a database where they can be conveniently searched for and compared against other images. Once a successful match is found, the system outputs the result. The Dahua Face Recognition camera supports a built-in database that stores up to 10,000 face images, allowing the camera to capture and compare face images in real time.",
+        "Smart Tracking": "Wiztracking;Linkage Tracking",
+        "SMD": "SMD 4.0",
+        "Quick Pick": "Yes",
+        "Video Compression": "Smart H.265+;H.265;Smart H.264+;H.264;H.264B;H.264H;MJPEG",
+        "Streaming Capability": "3 streams",
+        "Resolution": "Overview channel: 4M (2688 × 1520); 4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 VGA (640 × 480); CIF (352 × 288/352 × 240) Detail channel: 4M (2688 × 1520); 4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p (1280 × 720); D1 (704 × 576/704 × 480); VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Video Frame Rate": "Overview channel: Main stream: 4M/3M/1080p/1.3M/720p@(1–25/30 fps) Sub stream 1: D1/VGA/CIF@(1–25/30 fps) Sub stream 2: 1080p/1.3M/720p@(1–25/30 fps) Detail channel: Main stream: 4M/3M/1080p/1.3M/720p@(1–25/30 fps) Sub stream 1: D1/VGA/CIF@(1–25/30 fps) Sub stream 2: 1080p/1.3M/720p@(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 512 Kbps–13056 Kbps H.265: 204 Kbps–7936 Kbps",
+        "Day/Night": "Overview channel: Auto; Color; B/W; Electronic Detail channel: Auto; Color; B/W; Electronic",
+        "WDR": "Overview channel: 150 dB Detail channel: 150 dB",
+        "White Balance": "Overview channel: Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp Detail channel: Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto/Manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Overview channel: Electronic Image Stabilization (EIS) Detail channel: Electronic Image Stabilization (EIS)",
+        "Defog": "Overview channel: Electronic Detail channel: Electronic",
+        "Digital Zoom": "Overview channel: NA Detail channel: 16×",
+        "Image Rotation": "Overview channel: NA Detail channel: 180°",
+        "S/N Ratio": "Overview channel: ≥ 55 dB Detail channel: ≥ 55 dB",
+        "Audio Compression": "PCM;G.711a;G.711Mu;G.726;MPEG2-Layer2;G722.1;G729;G723",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "HTTP;HTTPS;IPv4;RTSP;UDP;SMTP;NTP;DHCP;DNS;DDNS;IPv6;802.1x;QoS;FTP;UPnP;ICMP;SNMP;SNMPv1/v2c/v3(MIB-2);IGMP;ARP;RTCP;RTP;PPPoE;RTMP;TCP",
+        "Interoperability": "CGI;SDK;ONVIF (Profile S & Profile G & Profile T & Profile M)",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "IE9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Browser": "IE9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Management Software": "DMSS;IVSS;5 Series NVR;DSS7016D-I;SmartPSS Plus;ICC-B8900;DSS-C9100",
+        "Mobile Client": "iOS;Android",
+        "Certifications": "CE-LVD:EN62368-1:2014+A11:2017 CE-EMC:EN 50130-4: 2011+A1:2014; EN 55032: 2015+A11:2020+A1:2020; EN 55035: 2017+A11:2020; EN 61000-3-3: 2013+A1:2019+A2:2021; EN IEC 61000-3-2: 2019+A1:2021+A2:2024 IP67:IEC60529:2013 IK10:IEC 60068-2-75:2014",
+        "Audio Input": "1 channel (LINE IN, bare wire)",
+        "Audio Output": "1 channel (LINE OUT,bare wire)",
+        "Alarm Input": "2 channels in: supports wet contact connection (max load 5 mA 3-5 VDC); supports dry contact connection",
+        "Alarm Output": "1 channel out: dry contact, max load 1,000 mA 30 VDC/500 mA 50 VAC",
+        "Alarm Linkage": "Capture; preset; tour; recordings on SD card; alarm digital input; send email",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection; illegal access",
+        "Power Supply": "36 VDC(±25%),2.23 A",
+        "Power Consumption": "Basic: 29.7 W Max. (Illuminator on + Intelligence on + Wiper on + Heater on + PTZ operation): 51 W",
+        "Power Adapter": "Included",
+        "Operating Temperature": "–40 °C to +65 °C (–40 °F to +149 °F)",
+        "Operating Humidity": "≤ 95% (RH)",
+        "Protection": "IP67;IK10;TVS 8000 V lightning proof; surge protection; voltage transient protection",
+        "Anti-corrosion Level": "Basic Protection *The products are designed for general use and are applicable even in areas with no specific requirements for anti-corrosion protection.",
+        "Product Dimensions": "294.5 mm × 277.0 mm × 421.6 mm (11.78\" × 11.08\" × 16.86\") (L × W × H)",
+        "Net Weight": "9 kg (19.84 lb)",
+        "Gross Weight": "13.8 kg (30.36 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/datasheet/DH-SDT5X2425-4Z4-FA_S0_datasheet_20260617_English.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network PTZ Camera(SDT5X)_Installation Guide_V1.0.0 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/user_manual/Network_PTZ_Camera(SDT5X)_Installation_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Speed Dome & PTZ Camera_Installation Manual_V1.0.4 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/user_manual/Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.4.pdf"
+      },
+      {
+        "name": "2025-09-10 #A&E Document SDT5X2425-4Z4-FA_A&E_20260918050146 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/a_e_document/1789679454875.docx"
+      },
+      {
+        "name": "2025-09-02 #Drawings SDT5X2425-4Z4-FA_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/drawings/SDT5X2425-4Z4-FA_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2025-09-02 #Drawings SDT5X2425-4Z4-FA_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/drawings/SDT5X2425-4Z4-FA_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-02-05 #Firmware General_SDT5XXXX-HN-WA-V-E_MCU_V2.401.0000003.6.R.250528 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/firmware/General_SDT5XXXX-HN-WA-V-E_MCU_V2.401.0000003.6.R.250528.zip"
+      },
+      {
+        "name": "2026-02-05 #Firmware DH_SD-Faraday_MultiLang_PN_Stream3_V3.200.0000030.1.R.260124 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/86403/firmware/DH_SD-Faraday_MultiLang_PN_Stream3_V3.200.0000030.1.R.260124.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/ptz-cameras/x-spans-series/project/sdt5x2425-4z4-fa"
+  }
+}

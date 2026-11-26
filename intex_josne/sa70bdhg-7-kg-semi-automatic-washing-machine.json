@@ -1,0 +1,106 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8790535635162",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Washing Machine",
+      "Intex 7 KG Semi-Automatic Washing Machine (Red & White) -SA70BDHG"
+    ]
+  },
+  "card_info": {
+    "product_id": "8790535635162",
+    "product_name": "Intex 7 KG Semi-Automatic Washing Machine (Red & White) -SA70BDHG",
+    "product_title": "Intex 7 KG Semi-Automatic Washing Machine (Red & White) -SA70BDHG",
+    "product_url": "https://www.intex.in/products/sa70bdhg-7-kg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA70BDHG---7-KG_608bb427-ba65-4495-aded-d826cd24a2cd.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 15999.0,
+      "display": "₹15,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa70bdhg-7-kg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "Intex 7 KG Semi-Automatic Washing Machine (Red & White) -SA70BDHG",
+    "model": "SA70BDHG",
+    "brand": "Intex",
+    "overview": "Experience next-level washing with the SA70BDHG 7 KG Semi-Automatic Washing Machine. Designed for deep cleaning and convenience, it features a high-performance motor, Scrubber Technology, and 3 Fins Pulsator for an ultra-powerful wash. The Dual Waterfall system ensures even detergent mixing, while the Lint Filter keeps your clothes fresh. With a Noise-Free Spin Dryer, End Cycle Buzzer, and Anti-Corrosive Body, this washing machine is the perfect blend of performance and durability.",
+    "features": [
+      "7 KG Large Capacity – Ideal for small to medium families",
+      "Anti-Corrosive Rust-Free Body – Built to last",
+      "2 Wash Programs – Gentle & Normal modes for all fabric types",
+      "3 Fins Pulsator – Strong water flow for powerful stain removal",
+      "Scrubber Technology – Extra cleaning for heavily soiled clothes",
+      "Dual Waterfall – Even detergent distribution for a superior wash",
+      "Magic Lint Filter – Traps dirt, keeping clothes fresh",
+      "Water Level Indicator – Controls water usage efficiently",
+      "End Cycle Buzzer – Alerts you when the wash is done",
+      "Powerful Motor with TOP Technology – High-efficiency washing",
+      "Noise-Free Spinning – Smooth & silent drying experience",
+      "Hydraulic Lid – Soft-closing design for easy handling"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA70BDHG---7-KG_608bb427-ba65-4495-aded-d826cd24a2cd.jpg",
+        "alt": "Intex 7 KG Semi-Automatic Washing Machine (Red & White) -SA70BDHG",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "7 KG Large Capacity – Ideal for small to medium families",
+        "Feature 2": "Anti-Corrosive Rust-Free Body – Built to last",
+        "Feature 3": "2 Wash Programs – Gentle & Normal modes for all fabric types",
+        "Feature 4": "3 Fins Pulsator – Strong water flow for powerful stain removal",
+        "Feature 5": "Scrubber Technology – Extra cleaning for heavily soiled clothes",
+        "Feature 6": "Dual Waterfall – Even detergent distribution for a superior wash",
+        "Feature 7": "Magic Lint Filter – Traps dirt, keeping clothes fresh",
+        "Feature 8": "Water Level Indicator – Controls water usage efficiently",
+        "Feature 9": "End Cycle Buzzer – Alerts you when the wash is done",
+        "Feature 10": "Powerful Motor with TOP Technology – High-efficiency washing",
+        "Feature 11": "Noise-Free Spinning – Smooth & silent drying experience",
+        "Feature 12": "Hydraulic Lid – Soft-closing design for easy handling"
+      },
+      "General": {
+        "Model": "SA70BDHG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa70bdhg-7-kg-semi-automatic-washing-machine"
+  }
+}

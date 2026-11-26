@@ -1,0 +1,140 @@
+{
+  "hierarchy": {
+    "category": "2 MP",
+    "category_url": "https://cpplusworld.com/products/2-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/2-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "40",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "2 MP",
+      "CP-UNC-TA21L3C-Q2"
+    ]
+  },
+  "card_info": {
+    "product_id": "2283",
+    "product_name": "CP-UNC-TA21L3C-Q2",
+    "product_title": "CP-UNC-TA21L3C-Q2",
+    "product_url": "https://cpplusworld.com/cp-unc-ta21l3c-q2",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/4449b7f2-0548-48ce-8957-91972db9a113.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-ta21l3c-q2.html",
+  "detail": {
+    "title": "CP-UNC-TA21L3C-Q2",
+    "model": "CP-UNC-TA21L3C-Q2",
+    "brand": "CP Plus",
+    "overview": "2MP Network IR Bullet Camera - 30Mtr.",
+    "features": [
+      "1/2.9\" 2MP PS CMOS Image Sensor (0.8758 centimeters)",
+      "Max. 2MP (1920 × 1080)@1-25/30fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Triple stream",
+      "Support Built-in Mic",
+      "3.6mm fixed Lens",
+      "DWDR, Day/Night (ICR), 3D NR, ROI, AWB, AGC, BLC, HLC, Digital watermarking",
+      "IR Range of 30 Mtr., PoE, IP67",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite, EVMS Pro"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/4449b7f2-0548-48ce-8957-91972db9a113.png",
+        "alt": "CP-UNC-TA21L3C-Q2 - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/22c05e26-e287-4dfc-bda5-a9446e75839c.png",
+        "alt": "CP-UNC-TA21L3C-Q2 - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.9",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Minimum Illumination": "0.03 lux@F2.0 (Color, 30 IRE), 0.003 lux@F2.0 (B/W, 30 IRE), 0 lux (IR on)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–90°, Rotation: 0°–360°",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "ROM": "128 MB",
+        "DORI Distance": "56.3 m (Detect), 22.5 m (Observe), 11.3 m (Recognize), 5.6 m (Identify)",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F2.0",
+        "Lens Mount": "M14",
+        "Close Focus Distance": "0.9 m",
+        "Lens": "3.6mm fixed Lens",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by the sub stream)",
+        "S/N Ratio": ">55dB",
+        "IR Number": "1 IR LED",
+        "IR": "IR Range of 30 Mtr.",
+        "IR Control": "Auto, Manual",
+        "Smart IR": "Support",
+        "Back Light Compensation": "BLC/ HLC/ DWDR",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Iris Control": "Fixed",
+        "Resolution": "2MP (1920 × 1080), 1.3MP (1280 × 960), 720p (1280 × 720), D1 (704 × 576/704 × 480), VGA  (640 × 480), CIF  (352 × 288/352 × 240)",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (8 areas, rectangular)",
+        "stream Capability": "Triple stream",
+        "Frame Rate": "Main Stream: 2MP (1920 x 1080)@1-25/30fps, 1.3MP (1280 x 960)@1-25/30fps, 720P (1280 <BR> x 720)@1-25/30fps <BR> Sub stream 1: 720P (1280 x 720)@1-25/30fps, D1 (704 x 576/ 704 x 480)@1-25/30fps, VGA <BR> (640 x 480)@1-25/30fps, CIF (352 x 288/ 352 x 240)1-25/30fps <BR> Sub stream 2: D1 (704 x 576/ 704 x 480)@1-25/30fps, VGA (640 x 480)@1-25/30fps, CIF (352 <BR> x 288/ 352 x 240)@1-25/30fps",
+        "Audio Sampling Rate": "8KHz",
+        "Video Format": "PAL/NTSC",
+        "OSD": "Privacy Masking, Channel Title, Time Title, Text Overlay, Font Attribute, Custom Overlay",
+        "Audio": "Built-in Mic",
+        "Audio Compression": "G.711a, G.711Mu, PCM, G.726,",
+        "Bit Rate Control": "CBR/VBR",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TLS V1.2,1.3, TCP, ARP, UDP, RTP, RTSP, RTSPS, RTCP, RTMP, SMTP,  SFTP, DHCP, DNS, QoS, NTP, Unicast, Multicast, ICMP, IGMP, SSL, PPPoE, SNMP V3, InstaOn,  Auto Connect, ONVIF (Profile S, Profile T)",
+        "SDK and API": "Support",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Event Alarm": "Motion Detection, Illegal Access, Scene Changing, Video Tampering, Audio Detection,  Security Exception, IMD(Human & vehicle)",
+        "Image Setting": "Brightness, Contrast, Sharpness, Saturation, Gamma",
+        "Defog": "Digital defog",
+        "Storage": "FTP",
+        "Mirror Function": "Support",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs,  WSSE, Account lockout, Syslog, Video encryption, IP/MAC filtering, 802.1x, HTTPS, Trusted  upgrade, Trusted boot, Firmware encryption",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "User/Host": "6 (Total bandwidth: 24 M",
+        "Image Flip": "0°/90°/180°/270°",
+        "Browser": "IE, Chrome, Firefox",
+        "Weatherproof Standard": "IP67",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 1.9 W (12 VDC), 2.4 W (PoE) Max (H.265 + intelligence on + DWDR+ IR intensity): 3.9 W (12 VDC), 4.7 W (PoE)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Storage Humidity": "≤95%(RH), non-condensing",
+        "Dimension": "162.6 mm × 70 mm × 70 mm",
+        "Casing": "Metal",
+        "Weight": "220g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-TA21L3C-Q2.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-ta21l3c-q2"
+  }
+}

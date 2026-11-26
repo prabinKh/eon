@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "KM1410 Gaming Keyboard & Mouse Combo - Carbon Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353923490083",
+    "product_name": "KM1410 Gaming Keyboard & Mouse Combo - Carbon Black",
+    "product_title": "KM1410 Gaming Keyboard & Mouse Combo - Carbon Black",
+    "product_url": "https://antesports.com/products/km1410-keyboard-mouse-combo-carbon-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5067de81-a786-4f3b-b76f-145278f77122.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/km1410-keyboard-mouse-combo-carbon-black.html",
+  "detail": {
+    "title": "KM1410 Gaming Keyboard & Mouse Combo - Carbon Black",
+    "model": "AEPP0298",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports KM1410 pairs a 25-key RGB LED backlit membrane keyboard section with an ergonomic gaming mouse offering up to 3600 DPI, delivering responsive performance, vibrant lighting and long-lasting durability in one affordable combo. Full anti-ghosting on the keyboard ensures accurate multi-key input during intense gaming, while a water-resistant membrane design guards against everyday spills. The included mouse offers smooth tracking and comfortable ergonomics well suited to newcomers entering PC gaming, and true plug-and-play USB connectivity means both devices work instantly with no drivers required. A stylish, entry-level combo for competitive games, work projects and everyday entertainment alike.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/5067de81-a786-4f3b-b76f-145278f77122.png",
+        "alt": "KM1410 Gaming Keyboard & Mouse Combo - Carbon Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Keyboard": "25 Keys, Anti-Ghosting, RGB LED",
+        "Mouse DPI": "Up to 3600",
+        "Design": "Water-Resistant Membrane",
+        "Connectivity": "Wired USB",
+        "Color": "Carbon Black",
+        "KEYBOARD": "25 Keys, Anti-Ghosting, RGB LED",
+        "MOUSE DPI": "Up to 3600",
+        "DESIGN": "Water-Resistant Membrane",
+        "CONNECTIVITY": "Wired USB",
+        "COLOR": "Carbon Black",
+        "Offer Price (INR)": "₹949.00",
+        "MRP (INR)": "₹1,599.00",
+        "SKU": "AEPP0298"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/km1410-keyboard-mouse-combo-carbon-black"
+  }
+}

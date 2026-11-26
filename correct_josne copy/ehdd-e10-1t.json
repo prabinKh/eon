@@ -1,0 +1,97 @@
+{
+  "hierarchy": {
+    "category": "Memory",
+    "category_url": "https://www.dahuasecurity.com/products/memory",
+    "subcategory": "External Storage",
+    "subcategory_url": "https://www.dahuasecurity.com/products/memory/external-storage",
+    "series": "E10 eHDD",
+    "series_url": "https://www.dahuasecurity.com/products/memory/external-storage/e10-ehdd",
+    "tab_title": "E10 eHDD",
+    "tab_id": "13247",
+    "breadcrumbs": [
+      "Memory",
+      "External Storage",
+      "E10 eHDD",
+      "E10 eHDD"
+    ]
+  },
+  "card_info": {
+    "product_id": "98127",
+    "product_name": "eHDD-E10-1T",
+    "product_title": "External Hard Disk Drive",
+    "product_url": "https://www.dahuasecurity.com/products/memory/external-storage/e10-ehdd/ehdd-e10-1t",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20210825/122_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "memory/products/ehdd-e10-1t.html",
+  "detail": {
+    "title": "External Hard Disk Drive",
+    "model": "eHDD-E10-1T",
+    "brand": "Dahua",
+    "overview": "Compare Favourite eHDD-E10-1T External Hard Disk Drive Key Points 1.Highly compatible with various systems Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210825/122_thumb.png",
+        "alt": "",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210825/12-1_thumb.png",
+        "alt": "eHDD-E10-1T",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20210825/12-2_thumb.png",
+        "alt": "eHDD-E10-1T",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "Technical Speciﬁcation": {
+        "Product Model": "DHI-eHDD-E10-1T",
+        "Capacity": "1 TB",
+        "Read Speed": "140 MB/s",
+        "Write Speed": "140 MB/s",
+        "File System": "NTFS",
+        "Operating Temperature": "0°C to +60°C (+32°F to +140°F)",
+        "Storage Temperature": "-40°C to +85°C (-40°F to +185°F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Compatibility": "Windows XP/7/8/8.1/10, Linux 2.6, or MAC OS 10.6 and later",
+        "Product Dimensions": "123.5 mm × 78.0 mm × 19.0 mm (4.86\" × 3.07\" × 0.75\")",
+        "Packaging Dimensions": "160 mm × 111 mm × 40 mm (6.30\" × 4.37\" × 1.57\")",
+        "Net Weight": "225 g (0.50 lb)",
+        "Gross Weight": "285 g (0.63 lb)",
+        "Reference Information": "1. The capacity written on the product and package is nominal capacity. 2. 1 GB ≈ 1 billion bytes. The actual available capacity of the product is less than the nominal capacity due to different capacity algorithms and the fact that part of the capacity is reserved or used to store file system. 3. Data transmission speed and actual performance can be influenced by system settings and other factors. 4. Data stored in the product is not covered by warranty. Please back up stored data regularly."
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/eHDD-E10-1T_datasheet_20210105.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/memory/external-storage/e10-ehdd/ehdd-e10-1t"
+  }
+}

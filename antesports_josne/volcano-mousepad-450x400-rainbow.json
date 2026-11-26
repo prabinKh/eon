@@ -1,0 +1,70 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Volcano Mouse Pad - Rainbow Colour"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353925259555",
+    "product_name": "Volcano Mouse Pad - Rainbow Colour",
+    "product_title": "Volcano Mouse Pad - Rainbow Colour",
+    "product_url": "https://antesports.com/products/volcano-mousepad-450x400-rainbow",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/39_c8978986-d762-4ae9-bee4-a551f70eb871.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/volcano-mousepad-450x400-rainbow.html",
+  "detail": {
+    "title": "Volcano Mouse Pad - Rainbow Colour",
+    "model": "AEPP0218",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Volcano mouse pad measures 450 x 400 x 6mm, with a noticeably thicker profile than the standard 2mm mats for a cushioned, comfortable feel underhand during long sessions. Its vibrant rainbow-coloured volcano design adds a bold visual touch to any gaming desk, while a durable, non-slip base keeps it firmly anchored during fast mouse movements.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/39_c8978986-d762-4ae9-bee4-a551f70eb871.png",
+        "alt": "Volcano Mouse Pad - Rainbow Colour - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Dimensions": "450 x 400 x 6mm",
+        "Design": "Volcano Print",
+        "Base": "Non-Slip",
+        "Color": "Rainbow",
+        "DIMENSIONS": "450 x 400 x 6mm",
+        "DESIGN": "Volcano Print",
+        "BASE": "Non-Slip",
+        "COLOR": "Rainbow",
+        "SKU": "AEPP0218"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/volcano-mousepad-450x400-rainbow"
+  }
+}

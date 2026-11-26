@@ -1,0 +1,138 @@
+{
+  "hierarchy": {
+    "category": "Access Control & Time Attendance",
+    "category_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance",
+    "subcategory": "Turnstiles",
+    "subcategory_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles",
+    "series": "Swing Barrier",
+    "series_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/swing-barrier",
+    "tab_title": "Tripod Turnstile",
+    "tab_id": "16357",
+    "breadcrumbs": [
+      "Access Control & Time Attendance",
+      "Turnstiles",
+      "Swing Barrier",
+      "Tripod Turnstile"
+    ]
+  },
+  "card_info": {
+    "product_id": "145737",
+    "product_name": "ASGG100BL",
+    "product_title": "Dahua Tripod Turnstile",
+    "product_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/tripod-turnstile/lite/asgg100bl",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12285/ProductImage/1_0_01_25_12285_552922103_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "access-control-&-time-attendance/products/asgg100bl.html",
+  "detail": {
+    "title": "Dahua Tripod Turnstile",
+    "model": "ASGG100BL",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ASGG100BL Dahua Tripod Turnstile Key Points • Cabinet Material: Cold Plate 0.8mm • MCBF ≥ 2 Million Times • 600mm Standard Passage Width • 3-Color LED Indicates The Passing Status • Built-in Anti-tailing System • 9 Combination of Passage Modes • Remaining Open During Fire Emergencies • Excluding Controller and Card Reader Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12285/ProductImage/1_0_01_25_12285_552922103_thumb.png",
+        "alt": "ASGG100BL_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12285/ProductImage/1_0_01_25_12285_552922104_thumb.png",
+        "alt": "ASGG100BL_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_25_12285/ProductImage/1_0_01_25_12285_552922102_thumb.png",
+        "alt": "ASGG100BL_Rendergraph_45Right-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "System": {
+        "Main Processor": "Embedded Processor"
+      },
+      "Basic": {
+        "Product Type": "Tripod turnstile",
+        "Status Indicator Light": "Solid red: Authorization mode on standby Solid green: Unidirectional mode Flashes green: Bi-directional mode",
+        "Casing Material": "Cold plate"
+      },
+      "Performance": {
+        "MCBF": "≥2 million times",
+        "Max Custom Passage Width": "Stainless steel: 600 mm",
+        "Passing Speed": "20–30 people per min (this is affected by the people who enter and the passing mode).",
+        "Unlock/Lock Speed": "≥0.7 sec",
+        "Cabinet Thickness": "0.8 mm (0.03\")",
+        "Top Cover Thickness": "1.2 mm (0.05\")",
+        "Frame Thickness": "0.8 mm (0.03\")",
+        "Barrier Material": "Stainless steel",
+        "Type of Face Module Installation Hole": "Simple",
+        "Location of Face Module Installation Hole": "Entry;Exit",
+        "Number of Face Module Installation Holes": "0",
+        "Number of Access Controllers": "0",
+        "Standard Height of Customized Barrier": "Stainless steel: 824 mm"
+      },
+      "General": {
+        "Power Supply": "24 VDC, 1.5 A",
+        "Vandal-proof Rating": "IK06, IK08",
+        "Power Consumption": "7.2 W, authorization is required for both entry and exit; 17 W, no authorization is required for both entry and exit",
+        "Product Dimensions": "350 mm × 300 mm × 950 mm (13.78\" × 11.81\" × 37.40\")（L × W × H）",
+        "Module Protruding Size": "0 mm",
+        "Packaging Dimensions": "1,037 mm × 697 mm × 443 mm (40.83\" × 27.44\" × 17.44\")（L × W × H）",
+        "Gross Weight": "17 kg (37.48 lb)",
+        "Operating Temperature": "–25 °C to +70 °C (–13 °F to +158 °F)",
+        "Operating Humidity": "5%–90% (RH), non-condensing",
+        "Operating Environment": "Indoor",
+        "Storage Temperature": "0 °C to +40 °C (+32 °F to +104 °F)",
+        "Storage Humidity": "30%-75%"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ASGG100BL_datasheet_20240410.pdf"
+      },
+      {
+        "name": "2025-03-06 #User Manual Tripod Turnstile_User Manual_V1.0.2 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/DOR/PUM0009078/202503/Tripod_Turnstile_User_Manual_V1.0.2.pdf"
+      },
+      {
+        "name": "2025-04-11 #A&E Document ASGG100BL_A&E_20260901195300 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81812/a_e_document/1788264059681.docx"
+      },
+      {
+        "name": "2024-03-27 #Drawings ASGG100BL_Rendergraph_Application_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81812/drawings/ASGG100BL_Rendergraph_Application_EN.pdf"
+      },
+      {
+        "name": "2024-04-04 #Drawings ASGG100BL_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81812/drawings/ASGG100BL_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-03-16 #Firmware General_ASGG1XXX_Eng_MainBoard_MCU_V1.000.0000000.2.R.260123 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/81812/firmware/General_ASGG1XXX_Eng_MainBoard_MCU_V1.000.0000000.2.R.260123.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/access-control-&-time-attendance/turnstiles/tripod-turnstile/lite/asgg100bl"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "hierarchy": {
+    "category": "Others",
+    "category_url": "https://www.dahuasecurity.com/products/others",
+    "subcategory": "MPT",
+    "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+    "series": "Accessory",
+    "series_url": "https://www.dahuasecurity.com/products/others/mpt/accessory",
+    "tab_title": "Accessory",
+    "tab_id": "118257",
+    "breadcrumbs": [
+      "Others",
+      "MPT",
+      "Accessory",
+      "Accessory"
+    ]
+  },
+  "card_info": {
+    "product_id": "155335",
+    "product_name": "MAE-CL501",
+    "product_title": "Magnetic Clip",
+    "product_url": "https://www.dahuasecurity.com/products/others/mpt/accessory/mae-cl501",
+    "card_image": "https://materialfile.dahuasecurity.com/uploads/cpq/87847/image/1_0_01_01_16662_858493820_crop_thumb.PNG",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": true,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "others/products/mae-cl501.html",
+  "detail": {
+    "title": "Magnetic Clip",
+    "model": "MAE-CL501",
+    "brand": "Dahua",
+    "overview": "New Compare Favourite MAE-CL501 Magnetic Clip Key Points Magnetic Mount. Accessory of MPT230, MPT220, MPT221, MPT221-S, MPT221-SA. Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87847/image/1_0_01_01_16662_858493820_crop_thumb.PNG",
+        "alt": "MAE-CL501_View_45left-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 181,
+    "specifications": {
+      "Operating Temperature": {},
+      "Operating Humidity": {},
+      "Net Weight": {},
+      "Gross Weight": {},
+      "Product Dimensions": {},
+      "Packaging Dimensions": {}
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87847/datasheet/MAE-CL501_S0_datasheet_20260706_English.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/others/mpt/accessory/mae-cl501"
+  }
+}

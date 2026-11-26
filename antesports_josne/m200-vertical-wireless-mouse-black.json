@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "PC Components",
+    "category_url": "https://antesports.com/collections/pc-components",
+    "subcategory": "Mouse",
+    "subcategory_url": "https://antesports.com/collections/mouse",
+    "series": "Mouse Series",
+    "series_url": "https://antesports.com/collections/mouse",
+    "tab_title": "Mouse",
+    "tab_id": "508875768099",
+    "breadcrumbs": [
+      "Ant Esports",
+      "PC Components",
+      "Mouse",
+      "M200 Vertical Ergonomic Wireless Mouse - Black"
+    ]
+  },
+  "card_info": {
+    "product_id": "10341844287779",
+    "product_name": "M200 Vertical Ergonomic Wireless Mouse - Black",
+    "product_title": "M200 Vertical Ergonomic Wireless Mouse - Black",
+    "product_url": "https://antesports.com/products/m200-vertical-wireless-mouse-black",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_8aa7a71f-5885-47b6-9fe9-29cbf6ae1817.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/m200-vertical-wireless-mouse-black.html",
+  "detail": {
+    "title": "M200 Vertical Ergonomic Wireless Mouse - Black",
+    "model": "ANTR0019",
+    "brand": "Ant Esports",
+    "overview": "The Ant M200 is a vertical 'handshake-grip' wireless mouse designed to keep the wrist and forearm in a more natural position, reducing strain during long work or gaming sessions. Five adjustable DPI settings (800/1200/1600/2400/4000) let you match sensitivity to any screen size or task, from detailed editing to fast navigation. Silent clicks on the left and right buttons keep it office-friendly, while stable 2.4GHz wireless connectivity offers true plug-and-play performance with the included USB receiver — no drivers needed. Its rechargeable battery and tunnel-shaped optical sensor round out a comfortable, dependable everyday mouse for laptop or PC use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/12_8aa7a71f-5885-47b6-9fe9-29cbf6ae1817.jpg",
+        "alt": "M200 Vertical Ergonomic Wireless Mouse - Black - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Design": "Vertical Ergonomic Handshake Grip",
+        "Connectivity": "2.4GHz Wireless",
+        "DPI Levels": "800 / 1200 / 1600 / 2400 / 4000",
+        "Sensor": "Silent Optical Tunnel",
+        "Power": "Rechargeable Battery",
+        "Compatibility": "Laptop, PC",
+        "Color": "Black",
+        "DESIGN": "Vertical Ergonomic Handshake Grip",
+        "CONNECTIVITY": "2.4GHz Wireless",
+        "DPI LEVELS": "800 / 1200 / 1600 / 2400 / 4000",
+        "SENSOR": "Silent Optical Tunnel",
+        "POWER": "Rechargeable Battery",
+        "COMPATIBILITY": "Laptop, PC",
+        "COLOR": "Black",
+        "SKU": "ANTR0019"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/m200-vertical-wireless-mouse-black"
+  }
+}

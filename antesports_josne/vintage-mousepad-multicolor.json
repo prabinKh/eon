@@ -1,0 +1,72 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Mousepads",
+    "subcategory_url": "https://antesports.com/collections/mousepads",
+    "series": "Mousepads Series",
+    "series_url": "https://antesports.com/collections/mousepads",
+    "tab_title": "Mousepads",
+    "tab_id": "508173713699",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Mousepads",
+      "Vintage Gaming Mouse Pad - Multi Color"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353924702499",
+    "product_name": "Vintage Gaming Mouse Pad - Multi Color",
+    "product_title": "Vintage Gaming Mouse Pad - Multi Color",
+    "product_url": "https://antesports.com/products/vintage-mousepad-multicolor",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/34_14486190-ba2c-4f0b-bdfc-89fc3b1e96b0.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/vintage-mousepad-multicolor.html",
+  "detail": {
+    "title": "Vintage Gaming Mouse Pad - Multi Color",
+    "model": "AEPP0304",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports Vintage mouse pad brings a retro-inspired printed design to any desk setup, with a smooth surface built for consistent mouse tracking during gaming or everyday office work. A non-slip base keeps the pad steady during fast movements, while stitched edges guard against fraying through daily use.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/34_14486190-ba2c-4f0b-bdfc-89fc3b1e96b0.png",
+        "alt": "Vintage Gaming Mouse Pad - Multi Color - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Design": "Vintage Print",
+        "Base": "Non-Slip",
+        "Edges": "Stitched",
+        "Color": "Multi Color",
+        "DESIGN": "Vintage Print",
+        "BASE": "Non-Slip",
+        "EDGES": "Stitched",
+        "COLOR": "Multi Color",
+        "Offer Price (INR)": "₹299.00",
+        "MRP (INR)": "₹999.00",
+        "SKU": "AEPP0304"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/vintage-mousepad-multicolor"
+  }
+}

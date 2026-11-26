@@ -1,0 +1,78 @@
+{
+  "hierarchy": {
+    "category": "Gaming Gear",
+    "category_url": "https://antesports.com/collections/gaming-gear",
+    "subcategory": "Gaming Combos",
+    "subcategory_url": "https://antesports.com/collections/gaming-combos",
+    "series": "Gaming Combos Series",
+    "series_url": "https://antesports.com/collections/gaming-combos",
+    "tab_title": "Gaming Combos",
+    "tab_id": "508172992803",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Gaming Gear",
+      "Gaming Combos",
+      "MASTER35 Wireless Keyboard & Mouse Combo"
+    ]
+  },
+  "card_info": {
+    "product_id": "10346759848227",
+    "product_name": "MASTER35 Wireless Keyboard & Mouse Combo",
+    "product_title": "MASTER35 Wireless Keyboard & Mouse Combo",
+    "product_url": "https://antesports.com/products/master35-keyboard-mouse-combo-ai-shortcut",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22_e18cda77-951e-454b-93a8-5bcdffc2c0bd.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": true
+  },
+  "html_file": "antesports/products/master35-keyboard-mouse-combo-ai-shortcut.html",
+  "detail": {
+    "title": "MASTER35 Wireless Keyboard & Mouse Combo",
+    "model": "ANTR0158",
+    "brand": "Ant Esports",
+    "overview": "The Ant MASTER35 is a 2.4GHz wireless keyboard and mouse combo featuring a full-size 104-key keyboard with a dedicated AI shortcut key for quick access to AI assistant tools. The included ergonomic 6-button mouse offers adjustable DPI for switching between precise and fast cursor movement, and a single USB receiver connects both devices for simple plug-and-play setup. Compatible with PC, laptop and Mac systems, it's a practical, future-ready combo for anyone who wants AI-assisted shortcuts built into their everyday keyboard and mouse setup.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/22_e18cda77-951e-454b-93a8-5bcdffc2c0bd.png",
+        "alt": "MASTER35 Wireless Keyboard & Mouse Combo - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Connectivity": "2.4GHz Single USB Receiver",
+        "Keyboard Keys": "104, with AI Shortcut Key",
+        "Mouse Buttons": "6, Adjustable DPI",
+        "Compatibility": "PC, Laptop, Mac",
+        "Color": "Black",
+        "CONNECTIVITY": "2.4GHz Single USB Receiver",
+        "KEYBOARD KEYS": "104, with AI Shortcut Key",
+        "MOUSE BUTTONS": "6, Adjustable DPI",
+        "COMPATIBILITY": "PC, Laptop, Mac",
+        "COLOR": "Black",
+        "Offer Price (INR)": "₹899.00",
+        "MRP (INR)": "₹1,999.00",
+        "SKU": "ANTR0158"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Driver & Software (KEYBOARD)",
+        "url": "https://downloads.antesports.com/get.php?type=drivers&file=MK1350-V2-Keyboard-Software-Setup-1_0_0.exe"
+      },
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/master35-keyboard-mouse-combo-ai-shortcut"
+  }
+}

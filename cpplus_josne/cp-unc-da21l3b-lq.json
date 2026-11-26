@@ -1,0 +1,164 @@
+{
+  "hierarchy": {
+    "category": "Network",
+    "category_url": "https://cpplusworld.com/products/network",
+    "subcategory": "illumax",
+    "subcategory_url": "https://cpplusworld.com/products/illumax/network",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "illumax",
+    "tab_id": "169",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "illumax",
+      "Network",
+      "CP-UNC-DA21L3B-LQ"
+    ]
+  },
+  "card_info": {
+    "product_id": "2154",
+    "product_name": "CP-UNC-DA21L3B-LQ",
+    "product_title": "CP-UNC-DA21L3B-LQ",
+    "product_url": "https://cpplusworld.com/cp-unc-da21l3b-lq",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/041ede3f-1540-4940-8fc3-adbce27233a1.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-da21l3b-lq.html",
+  "detail": {
+    "title": "CP-UNC-DA21L3B-LQ",
+    "model": "CP-UNC-DA21L3B-LQ",
+    "brand": "CP Plus",
+    "overview": "2MP Dual Light Dome Camera - 30Mtr.",
+    "features": [
+      "1/2.7\" 2MP PS CMOS Image Sensor (0.9407 Centimeters)",
+      "Max. 2MP (1920 × 1080)@1–25/30 fps",
+      "Instastream, H.265, H.264, H.264H, H.264B, MJPEG",
+      "Support Triple stream",
+      "Support Built-in Mic, Built-in speaker",
+      "3.6mm fixed Lens",
+      "DWDR, Day/Night (ICR), 3D NR, ROI, AWB, AGC, BLC, HLC, Digital watermarking",
+      "IR Range of 30 Mtr., Warm Light Range of 30 Mtr., PoE,"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/041ede3f-1540-4940-8fc3-adbce27233a1.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/52ba0669-72ab-4180-86b8-8b7b37f1b9d0.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/06449c0a-7368-4a60-a42d-5244c21d6988.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/61da0baf-ea65-472b-9675-3b6ae7cdbea3.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/d41f801e-062e-43c7-93ea-4cb801350c6b.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/a4005d07-f216-44fe-aa5a-d22df4ba1012.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/13578f3d-bc5d-4aa3-8748-37b822dc552e.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Gallery",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/8c1eccfa-bb5c-413a-9c00-d94d56b10ade.png",
+        "alt": "CP-UNC-DA21L3B-LQ - Gallery",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 8,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" 2MP PS CMOS Image Sensor (0.9407 Centimeters)",
+        "Effective Pixels": "1920 (H) × 1080 (V)",
+        "Minimum Illumination": "0.001 lux@F1.4 (Color, 30 IRE), 0.0001 lux@F1.4 (B/W, 30 IRE), 0 lux (IR on)",
+        "Angle Adjustment": "Pan: 0°–360°, Tilt: 0°–78°, Rotation: 0°–360°",
+        "Shutter Speed": "Auto/Manual 1/3 s–1/100,000 s",
+        "RAM": "128 MB",
+        "White Balance": "Auto, Natural, Street lamp, Outdoor, Manual, Regional custom",
+        "ROM": "128 MB",
+        "Gain Control (AGC)": "Auto/Manual",
+        "Lens Type": "Fixed-focal",
+        "Max. Aperture": "F1.4",
+        "Lens Mount": "M12",
+        "Close Focus Distance": "1.1 m",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "DORI Distance": "53.8 m (Detect), 21.5 m (Observe), 10.8 m (Recognize), 5.4 m (Identify)",
+        "Lens": "3.6mm fixed Lens",
+        "S/N Ratio": ">58dB",
+        "Back Light Compensation": "BLC/ HLC/ DWDR",
+        "IR Control": "Auto, Manual",
+        "IR Number": "1 IR LED, 1 Warm light",
+        "IR": "IR Range of 30 Mtr.",
+        "Warm Light": "Warm Light Range of 30 Mtr.",
+        "Smart IR": "Support",
+        "Video Compression": "Instastream, H.265, H.264, H.264H, H.264B, MJPEG (Only supported by the sub stream)",
+        "Stream Capability": "Triple stream",
+        "Frame Rate": "Main stream: 2MP (1920 × 1080)@1–25/30 fps       Sub stream 1: 720P (1280 × 720), D1 (704 × 576)@1–25 fps/ (704 × 480)@1–30 fps, VGA(640 ×  480)@1-30fps, CIF (352 × 240)@1-30fps/ (352 × 288)@1-25fps       Sub stream 2: D1 (704 × 576)@1–25 fps/ (704 × 480)@1–30 fps, VGA(640 × 480)@1-30fps, CIF  (352 × 240)@1-30fps/ (352 × 288) @1-25fps",
+        "Angle of view": "H: 86°, V: 46°, D: 103°",
+        "Smart search": "Work together with Smart NVR to perform refine  intelligent search, event extraction and merging to event videos",
+        "Resolution": "2MP (1920 × 1080), 1.3MP (1280 × 960), 720p (1280 × 720), D1 (704 × 576/704 × 480), VGA  (640 × 480), CIF (352 × 288/352 × 240)",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "OFF/ON (4 areas, rectangular)",
+        "Audio": "Built-in Mic",
+        "Image Rotation": "0°/90°/180°/270° (Support 90°/270° with 2MP resolution and lower)",
+        "Video Format": "PAL/NTSC",
+        "ROI": "Support (4 areas)",
+        "Audio Compression": "G.711a, G.711Mu, PCM,",
+        "Protocol": "FTP, IPv6, IPv4, DNS,RTCP, NTP, RTP, HTTP, HTTPS, SNMP V3, TLS Version 1.2, TCP/IP, PPPoE,  NFS, UDP, ICMP, IGMP, SSL, DHCP, SMTP, RTSPS, ONVIF (Profile S, Profile G, Profile T), unicast, multicast",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Iris Control": "Fixed",
+        "IMD (Intelligent motion detection)": "Support the classification and accurate detection of human and vehicle",
+        "Mirror Function": "Support",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265: 3 kbps-6144 kbps, H.264: 8 kbps-6144 kbps",
+        "Alarm Event": "Network disconnection, IP conflict, illegal access, Motion detection, Video tampering, Audio  detection, IMD (Intelligent motion detection), Security exception",
+        "Browser": "IE, Chrome, Firefox",
+        "User/Host": "6 (Total bandwidth: 36 M)",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "12 VDC/PoE (802.3af)",
+        "Power Consumption": "Basic: 1.8 W (12 VDC), 2.5 W (PoE);       Max.: 8.5 W (12 VDC), 10 W (PoE) (H.265 + intelligence on + WDR + IR intensity + warm light deterrence + speaker)",
+        "Operating Temperature": "–40 °C to +60 °C (–40 °F to +140 °F)",
+        "Operating Humidity": "≤95% (RH), non-condensing",
+        "Storage Humidity": "≤95%(RH), non-condensing",
+        "Casing": "Metal + Plastic",
+        "Dimensions": "100.9 mm × 109.9 mm",
+        "Weight": "320g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-DA21L3B-LQ.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/cebe526b-55e0-4deb-9e3c-79c8e07eb202.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-da21l3b-lq"
+  }
+}

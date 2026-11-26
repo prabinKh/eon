@@ -1,0 +1,97 @@
+{
+  "started_at": "2026-09-26 14:35:35",
+  "categories_count": 1,
+  "categories": [
+    {
+      "category": "Others",
+      "category_slug": "others",
+      "category_url": "https://www.dahuasecurity.com/products/others",
+      "subcategories": [
+        {
+          "subcategory_name": "Mobile",
+          "subcategory_slug": "mobile",
+          "subcategory_url": "https://www.dahuasecurity.com/products/others/mobile",
+          "series": [
+            {
+              "series_name": "Mobile",
+              "series_slug": "mobile",
+              "series_url": "https://www.dahuasecurity.com/products/others/mobile/mobile",
+              "tabs": [
+                {
+                  "tab_id": "0",
+                  "tab_title": "Mobile",
+                  "products_count": 0
+                }
+              ],
+              "total_products": 0
+            },
+            {
+              "series_name": "Dash Camera",
+              "series_slug": "dash-camera",
+              "series_url": "https://www.dahuasecurity.com/products/others/mobile/dash-camera",
+              "tabs": [
+                {
+                  "tab_id": "17317",
+                  "tab_title": "Dash Camera",
+                  "products_count": 7
+                }
+              ],
+              "total_products": 7
+            }
+          ],
+          "total_products": 7
+        },
+        {
+          "subcategory_name": "MPT",
+          "subcategory_slug": "mpt",
+          "subcategory_url": "https://www.dahuasecurity.com/products/others/mpt",
+          "series": [
+            {
+              "series_name": "Body Camera",
+              "series_slug": "body-camera",
+              "series_url": "https://www.dahuasecurity.com/products/others/mpt/body-camera",
+              "tabs": [
+                {
+                  "tab_id": "118255",
+                  "tab_title": "Body Camera",
+                  "products_count": 3
+                }
+              ],
+              "total_products": 3
+            },
+            {
+              "series_name": "Data Collection Station",
+              "series_slug": "data-collection-station",
+              "series_url": "https://www.dahuasecurity.com/products/others/mpt/data-collection-station",
+              "tabs": [
+                {
+                  "tab_id": "118256",
+                  "tab_title": "Data Collection Station",
+                  "products_count": 5
+                }
+              ],
+              "total_products": 5
+            },
+            {
+              "series_name": "Accessory",
+              "series_slug": "accessory",
+              "series_url": "https://www.dahuasecurity.com/products/others/mpt/accessory",
+              "tabs": [
+                {
+                  "tab_id": "118257",
+                  "tab_title": "Accessory",
+                  "products_count": 5
+                }
+              ],
+              "total_products": 5
+            }
+          ],
+          "total_products": 13
+        }
+      ],
+      "total_products_extracted": 20
+    }
+  ],
+  "grand_total_products": 20,
+  "finished_at": "2026-09-26 14:36:30"
+}

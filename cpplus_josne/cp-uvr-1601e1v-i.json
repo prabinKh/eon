@@ -1,0 +1,122 @@
+{
+  "hierarchy": {
+    "category": "16 Ch.",
+    "category_url": "https://cpplusworld.com/products/16-ch.",
+    "subcategory": "Digital Video Recorder (DVR)",
+    "subcategory_url": "https://cpplusworld.com/products/dvr/16-ch",
+    "series": "Orange",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Digital Video Recorder (DVR)",
+    "tab_id": "58",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Digital Video Recorder (DVR)",
+      "16 Ch.",
+      "CP-UVR-1601E1V-I"
+    ]
+  },
+  "card_info": {
+    "product_id": "2223",
+    "product_name": "CP-UVR-1601E1V-I",
+    "product_title": "CP-UVR-1601E1V-I",
+    "product_url": "https://cpplusworld.com/cp-uvr-1601e1v-i",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/680c3974-3685-4b15-9317-5cffe59213b0.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": true
+  },
+  "html_file": "cpplus/products/cp-uvr-1601e1v-i.html",
+  "detail": {
+    "title": "CP-UVR-1601E1V-I",
+    "model": "CP-UVR-1601E1V-I",
+    "brand": "CP Plus",
+    "overview": "16Ch. 1080N Digital Video Recorder",
+    "features": [
+      "Supports HDCVI, AHD, TVI, CVBS and IP video input",
+      "Supports up to 18 channels of IPC access, including 2 additional IP channels + 16  analog channels, with the option to convert all analog channels to IP",
+      "The incoming bandwidth reaches 64 Mbps",
+      "16 Channels two-way talk over coaxial cable allows for seamless communication  between the camera, client and recorder",
+      "16 Channels IMD+ for analog channels or 18 Channels IMD by camera which     allows the device to trigger accurate alarms for humans and vehicles",
+      "16 Channels AI Coding saves on storage and bandwidth while                 maintaining the details of targets in videos",
+      "Instastream, H.265, H.264+, H.264 dual stream video compression",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/680c3974-3685-4b15-9317-5cffe59213b0.png",
+        "alt": "CP-UVR-1601E1V-I - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/f7bc309b-fa1d-432b-8cd4-5e50671776ab.png",
+        "alt": "CP-UVR-1601E1V-I - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Processor": "Industrial-grade processor",
+        "User Interface": "Web, Local GUI",
+        "Operating System": "Embedded LINUX",
+        "IMD+ by DVR": "16 channels: Secondary filtering for human and vehicle, reducing false alarms caused by  leaves, rain and lighting condition change",
+        "IMD By Camera": "18 Channels (2 IP Channels + 16 Analog Channels)",
+        "Irregular Black Block Masking by DVR": "1 Channel",
+        "Analog Camera Input": "16 BNC ports, supports HDCVI/AHD/TVI/CVBS autodetect",
+        "Camera Input": "1. CVI: 1080p@25/30 fps; 720p@25/30 fps                                                                                                          2. TVI: 1080p@25/30 fps; 720p@25/30 fps                                                                                                        3. AHD: 1080p@25/30 fps; 720p@25/30 fps",
+        "IP Camera Input": "Up to 18 Channels of IPC access                                                                                                                                  2 IP Channel by default + 16 Channels (analog channels are converted to IP channels)                              Incoming bandwidth: 64 Mbps, recording bandwidth: 64 Mbps and outgoing bandwidth: 64  Mbps",
+        "stream Capability": "Dual stream",
+        "Video Frame Rate": "Main stream: the 1st channel 1080N/720p@1 fps– 25/30 fps, others 1080N/720p@1 fps–15  fps; 960H/D1/CIF@1 fps–25/30 fps                                                                                                             Sub stream: CIF@1 fps–7 fps",
+        "Bit Rate": "32 kbps–4096 kbps",
+        "Audio Sample Rate": "8 kHz, 16 bit",
+        "Audio Bit Rate": "64 kbps",
+        "Video Output": "1 HDMI: 1920 × 1080, 1280 × 1024, 1280 × 720                                                                                             1 VGA: 1920 × 1080, 1280 × 1024, 1280 × 720",
+        "Video Display Split": "When IP extension mode not enabled: 1/4/8/9/16                                                                                 When IP extension mode enabled: 1/4/8/9/16/25",
+        "Video Compression": "AI Coding, Instastream, H.265, H.264+, H.264",
+        "Audio Compression": "G.711a, G.711u, PCM, AAC",
+        "Protocols": "HTTP, HTTPS, TCP/IP, IPv4, IPv6, RTSP, UDP, NTP, DHCP, DNS, SMTP, UPnP, IP Filter, FTP,  DDNS, SNMP, Alarm Server, InstaOn, Auto Connect, IP Search, ONVIF (Profile T, Profile S,                Profile G), CGI, SDK",
+        "Smart Phone": "iOS, Android",
+        "Browser": "Chrome, IE, Safari, Edge, Firefox",
+        "Record Mode": "General, Alarm, Motion detection",
+        "Recording Playback": "1/4/9/16",
+        "Backup Mode": "USB device and network",
+        "Playback Mode": "Instant playback, General playback, Event playback, Tag playback, Smart playback",
+        "General Alarm": "Motion detection, HDCVI alarm, Camera external alarm, Network alarm, PIR alarm",
+        "Abnormality Alarm": "Error (No disk, Disk error, Low space, Low quota space, Network disconnection, IP conflict,  MAC conflict), Video loss, Video tampering, Camera offline",
+        "Intelligent Alarm": "IMD+",
+        "Alarm Linkage": "Record, Snapshot (panoramic), IPC external alarm output, Audio, Buzzer, Log, Preset, Email",
+        "Audio Input": "1 Channel RCA 16-channel BNC (Coaxial Audio)",
+        "Audio Output": "1 Channel RCA",
+        "Two-way Talk": "Coaxial two-way talk: 16-channel BNC Local and network user two-way talk: Shares the same  audio input with the first channel",
+        "Disk Interface": "1 SATA port, up to 16 TB. This limit varies depending on the environment temperature.",
+        "Interface Ports": "2 USB (2 rear USB 2.0 ports)",
+        "Ethernet": "1 (10/100 Mbps Ethernet port, RJ-45)",
+        "Power Supply": "12 VDC, 2 A",
+        "Power Consumption": "<10 W (without HDD)",
+        "Operating Temperature": "–10°C to +45°C (+14°F to +113°F)",
+        "Operating Humidity": "10%–90% (RH), non-condensing",
+        "Storage Temperature": "–20°C to +60°C (–4°F to +140°F)",
+        "Dimensions": "260.0 mm × 231.6 mm × 47.6 mm",
+        "Weight": "960g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UVR-1601E1V-I.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/e0e92063-1a59-4a74-8432-b8d58e6ff036.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-uvr-1601e1v-i"
+  }
+}

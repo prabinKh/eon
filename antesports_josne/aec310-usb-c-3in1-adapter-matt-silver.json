@@ -1,0 +1,76 @@
+{
+  "hierarchy": {
+    "category": "Lifestyle Tech",
+    "category_url": "https://antesports.com/collections/lifestyle-tech",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://antesports.com/collections/accessories",
+    "series": "Accessories Series",
+    "series_url": "https://antesports.com/collections/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "508997075235",
+    "breadcrumbs": [
+      "Ant Esports",
+      "Lifestyle Tech",
+      "Accessories",
+      "3-in-1 USB-C Adapter Hub - Matt Silver"
+    ]
+  },
+  "card_info": {
+    "product_id": "10353569530147",
+    "product_name": "3-in-1 USB-C Adapter Hub - Matt Silver",
+    "product_title": "3-in-1 USB-C Adapter Hub - Matt Silver",
+    "product_url": "https://antesports.com/products/aec310-usb-c-3in1-adapter-matt-silver",
+    "card_image": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false
+  },
+  "html_file": "antesports/products/aec310-usb-c-3in1-adapter-matt-silver.html",
+  "detail": {
+    "title": "3-in-1 USB-C Adapter Hub - Matt Silver",
+    "model": "AEPP0194",
+    "brand": "Ant Esports",
+    "overview": "The Ant Esports AEC310 packs an HDMI output, a USB 3.0 data port and a USB-C PD charging pass-through into a single compact 3-in-1 hub, expanding what a modern USB-C laptop can do. The HDMI port mirrors or extends a screen at up to 4K@30Hz or clean 1080p for monitors and projectors, while the USB 3.0 port supports 5Gbps transfer speeds for flash drives, external drives, cameras, mice and keyboards. A 100W PD charging pass-through keeps your laptop, tablet or phone topped up while the hub is in use, and true plug-and-play operation means no drivers are needed. An aluminium alloy shell with an efficient internal chip helps manage heat during extended use, and wide compatibility covers recent MacBook, Dell XPS, HP and Huawei laptops among others.",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0995/3709/2899/files/14.jpg",
+        "alt": "3-in-1 USB-C Adapter Hub - Matt Silver - Gallery Image",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "General": {
+        "Ports": "HDMI + USB 3.0 + USB-C PD",
+        "HDMI Output": "Up to 4K @ 30Hz",
+        "Charging": "100W PD Pass-Through",
+        "Data Transfer": "USB 3.0, 5Gbps",
+        "Build": "Aluminium Alloy",
+        "Color": "Matt Silver",
+        "PORTS": "HDMI + USB 3.0 + USB-C PD",
+        "HDMI OUTPUT": "Up to 4K @ 30Hz",
+        "CHARGING": "100W PD Pass-Through",
+        "DATA TRANSFER": "USB 3.0, 5Gbps",
+        "BUILD": "Aluminium Alloy",
+        "COLOR": "Matt Silver",
+        "Offer Price (INR)": "₹711.00",
+        "MRP (INR)": "₹1,599.00",
+        "SKU": "AEPP0194"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Ant Esports Download & Support Center",
+        "url": "https://antesports.com/pages/downloads"
+      },
+      {
+        "name": "Warranty & Support",
+        "url": "https://antesports.com/pages/warranty-policy"
+      }
+    ],
+    "source_url": "https://antesports.com/products/aec310-usb-c-3in1-adapter-matt-silver"
+  }
+}

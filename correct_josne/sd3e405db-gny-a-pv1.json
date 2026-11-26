@@ -1,0 +1,187 @@
+{
+  "hierarchy": {
+    "category": "Network Products",
+    "category_url": "https://www.dahuasecurity.com/my/products/network-products",
+    "subcategory": "PT Cameras",
+    "subcategory_url": "https://www.dahuasecurity.com/my/products/network-products/pt-cameras",
+    "series": "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+    "series_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series",
+    "tab_title": "SD3",
+    "tab_id": "18208",
+    "breadcrumbs": [
+      "Network Products",
+      "PT Cameras",
+      "4MP 4x Starlight IR WizSense Network PTZ Camera SD1A404DB-GNY",
+      "SD3"
+    ]
+  },
+  "card_info": {
+    "product_id": "129377",
+    "product_name": "SD3E405DB-GNY-A-PV1",
+    "product_title": "4MP 5x TiOC WizSense Network PTZ Camera",
+    "product_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series/sd3/sd3e405db-gny-a-pv1",
+    "card_image": "https://material.dahuasecurity.com/uploads/image/20230830/pv112_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "network-products/products/sd3e405db-gny-a-pv1.html",
+  "detail": {
+    "title": "4MP 5x TiOC WizSense Network PTZ Camera",
+    "model": "SD3E405DB-GNY-A-PV1",
+    "brand": "Dahua",
+    "overview": "Compare Favourite SD3E405DB-GNY-A-PV1 4MP 5x TiOC WizSense Network PTZ Camera Key Points • High-Quality Imaging with 4MP Resolution • 5× Optical Zoom Provide Close Up Views Over Expansive Areas • Smart Dual Light: Expansive Night View with up to 50m IR Distance and 30m White Light • Deep Learning-Based Human and Vehicle Classification • Active Deterrence: Audible and Visual Alarms Can Be Triggered by Certain Events to Drive Away the Target • Real-Time Communication via Built-In Two-Way Talk • IP66 & TVS 6000V Protection with Lightning/Surge/Voltage Transient Resistance Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230830/pv112_thumb.png",
+        "alt": "SD3E405DB-GNY-A-PV1_Rendergraph_45Left-logo.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/image/20230830/pv121_thumb.png",
+        "alt": "SD3E405DB-GNY-A-PV1_Rendergraph_Front-logo.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.8\" CMOS",
+        "Pixel": "4 MP",
+        "Max. Resolution": "2560 (H) × 1440 (V)",
+        "ROM": "128 MB",
+        "RAM": "512 MB",
+        "Electronic Shutter Speed": "1/1 s–1/30,000 s",
+        "Scanning System": "Progressive",
+        "Min. Illumination": "Color: 0.005 lux@F1.6 B/W: 0.0005 lux@F1.6 0 lux (IR light on)",
+        "Illumination Distance": "50 m (164.04 ft) (IR) 30 m (98.43 ft) (Warm light)",
+        "Illuminator On/Off Control": "Zoom Prio; Manual; Auto; Off",
+        "Illuminator Number": "2 (IR) 2 (Warm light) 1 (Red light) 1 (Blue light)",
+        "Focal Length": "2.7 mm–13.5 mm",
+        "Max. Aperture": "F1.6–F3.0",
+        "Field of View": "H: 94.9°–30.1°; V: 51°–17.1°; D: 112.3°–34.6°",
+        "Optical Zoom": "5×",
+        "Focus Control": "Auto; semi-auto; manual",
+        "Close Focus Distance": "1.5 m (4.92 ft)",
+        "Iris Control": "Fixed",
+        "DORI Distance": "Detect",
+        "270 m (885.83 ft)": "106.6 m (349.74 ft)",
+        "Pan/Tilt Range": "Pan: 0° to 355° Tilt: –15° to +90°",
+        "Manual Control Speed": "Pan: 0.1°/s–36°/s Tilt: 0.1°/s–25.8°/s",
+        "Preset Speed": "Pan: 35.7°/s; Tilt: 27.1°/s",
+        "Preset": "300",
+        "Tour": "8 (up to 32 presets per tour)",
+        "Auto Patrol": "It triggers the IVS rule when a target is detected and makes the camera link with the PTZ to rotate to the position of the target and patrol based on its presets.",
+        "Power-off Memory": "Yes",
+        "Idle Motion": "Preset; Tour",
+        "PTZ Locked": "Yes",
+        "IVS (Perimeter Protection)": "Tripwire; intrusion; crossing fence detection; loitering detection; abandoned/missing object; fast moving; parking detection; people gathering; vehicle/human alarm classification; linkage tracking",
+        "Face Detection": "Supports face detection, snapshot, and face enhancement; Supports face cutout: Face, one-inch photo; Capturing strategies include real-time capturing and quality first",
+        "Auto Tracking": "Auto tracking Lite",
+        "SMD": "SMD 3.0",
+        "Light Warning": "Red and blue light warning Flash duration: 5 s–30 s Flash frequency: high, medium, low",
+        "Sound Warning": "Offers 11 types of sound alarms, and supports importing up to 10 custom sound alarms. The sound alarm can be set to play 1 to 10 times",
+        "Video Compression": "H.264H;H.264B;Smart H.265+; H.264;H.265;MJPEG(Sub Stream);Smart H.264+",
+        "Streaming Capability": "3 streams",
+        "Resolution": "4M (2560 × 1440); 3M (2304 × 1296); 1080p (1920 × 1080); 1.3M (1280 × 960); 720p(1280 × 720); D1 (704 × 576); VGA (640 × 480); CIF (352 × 288)",
+        "Video Frame Rate": "Main stream: 4M/3M/1080p/1.3M/720p @(1–25/30 fps) Sub stream 1: D1/CIF/VGA@ (1–25/30 fps) Sub stream 2: 720p @(1–25/30 fps)",
+        "Bit Rate Control": "CBR/VBR",
+        "Video Bit Rate": "H.264: 96 kbps–14848 kbps H.265: 38 kbps–8960 kbps",
+        "Day/Night": "Auto (ICR)/Color/B/W",
+        "BLC": "Yes",
+        "WDR": "120 dB",
+        "HLC": "Yes",
+        "White Balance": "Auto; indoor; outdoor; tracking; manual; sodium lamp; natural light; street lamp",
+        "Gain Control": "Auto; manual",
+        "Noise Reduction": "2D NR; 3D NR",
+        "Motion Detection": "Yes",
+        "Region of Interest (RoI)": "Yes",
+        "Image Stabilization": "Electronic (EIS)",
+        "Defog": "Electronic",
+        "Digital Zoom": "16×",
+        "Image Rotation": "180°",
+        "S/N Ratio": "≥55 dB",
+        "Privacy Mask": "Up to 24 areas can be set, with up to 8 areas in the same view; 8 colors available",
+        "Audio Compression": "G.711a; G.711Mu; G.726; MPEG2-Layer2; G722.1; PCM",
+        "Network Port": "RJ-45 (10/100 Base-T)",
+        "Network Protocol": "FTP;RTMP;IPv6;Bonjour;IPv4;DNS;RTCP;PPPoE;NTP;RTP;802.1x;HTTPS;SNMP;TCP/IP;DDNS;UPnP;NFS;ICMP;UDP;IGMP;SMB;HTTP;SSL;DHCP;SMTP;Qos;RTSP;ARP",
+        "Interoperability": "CGI;SDK;ONVIF (Profile S&G&T);P2P",
+        "Streaming Method": "Unicast/Multicast",
+        "User/Host": "20 (total bandwidth: 64 M)",
+        "Storage": "FTP/SFTP; Micro SD card (512 GB); NAS",
+        "Browser": "IE 9 and later versions Chrome 41 and later versions Firefox 50 and later versions Safari 10 and later versions",
+        "Management Software": "DMSS;DSS Pro",
+        "Mobile Client": "iOS;Android",
+        "Certifications": "CE: EN55032/EN55024/EN50130-4 FCC: Part15 subpartB, ANSI C63.4-2014",
+        "Audio Input": "1 channel (LINE IN, bare wire,built-in mic (mutually exclusive))",
+        "Audio Output": "1 channel (LINE OUT,bare wire;built-in speaker (mutually exclusive))",
+        "Alarm Linkage": "Capture; recording; send email; preset; alarm digital input; audio; warning light",
+        "Alarm Event": "Motion/tampering detection; audio detection; network disconnection detection; IP conflict detection; memory card state detection; memory space detection",
+        "Alarm I/O": "1/1",
+        "Audio I/O": "1/1",
+        "Power Supply": "12 VDC, 2 A ± 10% PoE+ (802.3at)",
+        "Power Consumption": "Basic: 4.5 W Max.: 15 W (illuminator + PTZ + speaker + heating glass)",
+        "Operating Temperature": "–30 °C to +60 °C (–22 °F to +140 °F)",
+        "Operating Humidity": "≤95%",
+        "Protection": "IP66, TVS 6000 V lightning proof; surge protection; voltage transient protection",
+        "Product Dimensions": "142.6 mm × 140 mm × 236.1 mm (5.61\" × 5.51\" × 9.29\")",
+        "Net Weight": "1.5 kg (3.31 lb)",
+        "Gross Weight": "2.1 kg (4.63 lb)"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/DH-SD3E405DB-GNY-A-PV1_S0_datasheet_20251104.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Dahua Network PTZ Camera Web 5.0_User Manual_V3.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/87962/user_manual/Dahua_Network_PTZ_Camera_Web_5.0_User_Manual_V3.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Installation Guide (SD3E)_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/user_manual/Installation_Guide_(SD3E)_V1.0.1.pdf"
+      },
+      {
+        "name": "2026-09-11 #User Manual Network Speed Dome & PTZ Camera Installation Manual_V1.0.1 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/user_manual/Network_Speed_Dome__26_PTZ_Camera_Installation_Manual_V1.0.1.pdf"
+      },
+      {
+        "name": "2023-04-04 #A&E Document SD3E405DB-GNY-A-PV1_A&E_20260917232041 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70407/a_e_document/1789659103086.docx"
+      },
+      {
+        "name": "2023-07-20 #Drawings SD3E405DB-GNY-A-PV1_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/drawings/SD3E205DB-GNY-A-PV1_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "2023-07-20 #Drawings SD3E405DB-GNY-A-PV1_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/70397/drawings/SD3E205DB-GNY-A-PV1_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2026-08-22 #Firmware DH_SD-Gauss_MultiLang_PN_Stream3-xiaobei_V3.201.0000007.4.R.260810 Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/64597/firmware/DH_SD-Gauss_MultiLang_PN_Stream3-xiaobei_V3.201.0000007.4.R.260810.zip"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/network-products/pt-cameras/ip-pt-3-series/sd3/sd3e405db-gny-a-pv1"
+  }
+}

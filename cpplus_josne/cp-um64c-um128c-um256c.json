@@ -1,0 +1,89 @@
+{
+  "hierarchy": {
+    "category": "SD Card",
+    "category_url": "https://cpplusworld.com/products/sd-card",
+    "subcategory": "Memory",
+    "subcategory_url": "https://cpplusworld.com/products/memory/sd-card",
+    "series": "Blank",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Memory",
+    "tab_id": "111",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Memory",
+      "SD Card",
+      "CP-UM64C-UM128C-UM256C"
+    ]
+  },
+  "card_info": {
+    "product_id": "2050",
+    "product_name": "CP-UM64C-UM128C-UM256C",
+    "product_title": "CP-UM64C-UM128C-UM256C",
+    "product_url": "https://cpplusworld.com/cp-um64c-um128c-um256c",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/bc65687a-0b2c-4a1d-bbbb-7350e68698e8.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-um64c-um128c-um256c.html",
+  "detail": {
+    "title": "CP-UM64C-UM128C-UM256C",
+    "model": "CP-UM64C-UM128C-UM256C",
+    "brand": "CP Plus",
+    "overview": "Micro SD Card",
+    "features": [
+      "Superior performance and long service Life.",
+      "Four types of Protection",
+      "Speed Rating - UHS (C10/U3/V30)",
+      "Meets various user needs Like: Recording videos, Taking photos, Listening to music,  Playing games and Storing data",
+      "Compatible with various Digital Products"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/bc65687a-0b2c-4a1d-bbbb-7350e68698e8.png",
+        "alt": "CP-UM64C-UM128C-UM256C - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/ece80710-8726-45a4-8de9-6ad1c2eb0861.jpg",
+        "alt": "CP-UM64C-UM128C-UM256C - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Storage Capacity": "64 GB/ 128 GB/ 256 GB",
+        "Write Speed": "Up to 30 MB/s, Up to 65 MB/s, Up to 90 MB/s",
+        "Speed Rating": "C10/U3/V3",
+        "UHS": "UHS-I",
+        "File System": "FAT3",
+        "Protection Type": "High and low temperature resistant, waterproof, anti-magnetic, and anti X-ray",
+        "TBW": "33TB/ 66TB/ 50TB",
+        "Operating Temperature": "0 °C to +70 °C (+32 °F to +158 °F)",
+        "Operating Humidity": "5%–95% (non-condensing)",
+        "Storage Temperature": "–25°C to +85°C (–13°F to +185°F)",
+        "Compatibility": "Game consoles, Mobile phones, Tablets, Digital stereo systems, Computers and more",
+        "Dimensions": "15.0 mm × 11.0 mm × 1.0 mm",
+        "Net Weight": "0.16 g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UM64C-UM128C-UM256C.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-um64c-um128c-um256c"
+  }
+}

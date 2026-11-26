@@ -1,0 +1,49 @@
+{
+  "hierarchy": {
+    "category": "Transmission",
+    "category_url": "https://www.dahuasecurity.com/products/transmission",
+    "subcategory": "Accessories",
+    "subcategory_url": "https://www.dahuasecurity.com/products/transmission/accessories",
+    "series": "PoE Splitter",
+    "series_url": "https://www.dahuasecurity.com/products/transmission/accessories/poe-splitter",
+    "tab_title": "PoE Splitter",
+    "tab_id": "16567",
+    "breadcrumbs": [
+      "Transmission",
+      "Accessories",
+      "PoE Splitter",
+      "PoE Splitter"
+    ]
+  },
+  "card_info": {
+    "product_id": "130717",
+    "product_name": "TAS100",
+    "product_title": "PoE Splitter",
+    "product_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poesplitter/tas100",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_85_10167/ProductImage/1_0_99_85_10167_445627462_crop_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "transmission/products/tas100.html",
+  "detail": {
+    "title": "PoE Splitter",
+    "model": "TAS100",
+    "brand": "Dahua",
+    "overview": null,
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_99_85_10167/ProductImage/1_0_99_85_10167_445627462_crop_thumb.png",
+        "alt": "TAS100",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 0,
+    "specifications": {},
+    "downloads": [],
+    "source_url": "https://transmission.dahuasecurity.com/en/product-list/business/accessories/poesplitter/tas100"
+  }
+}

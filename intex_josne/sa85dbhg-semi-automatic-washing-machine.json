@@ -1,0 +1,110 @@
+{
+  "hierarchy": {
+    "category": "Home Appliances",
+    "category_url": "https://www.intex.in/collections/home-appliances",
+    "subcategory": "Washing Machine",
+    "subcategory_url": "https://www.intex.in/collections/washing-machine",
+    "series": "Washing Machine Series",
+    "series_url": "https://www.intex.in/collections/washing-machine-series",
+    "tab_title": "Washing Machine",
+    "tab_id": "8789169340634",
+    "breadcrumbs": [
+      "Home",
+      "Home Appliances",
+      "Washing Machine",
+      "SA85DBHG | 8.5 KG Semi-Automatic Washing Machine (Black & Orange)"
+    ]
+  },
+  "card_info": {
+    "product_id": "8789169340634",
+    "product_name": "SA85DBHG | 8.5 KG Semi-Automatic Washing Machine (Black & Orange)",
+    "product_title": "SA85DBHG | 8.5 KG Semi-Automatic Washing Machine (Black & Orange)",
+    "product_url": "https://www.intex.in/products/sa85dbhg-semi-automatic-washing-machine",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA85DBHG--8.5-KG.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 18999.0,
+      "display": "₹18,999.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/sa85dbhg-semi-automatic-washing-machine.html",
+  "detail": {
+    "title": "SA85DBHG | 8.5 KG Semi-Automatic Washing Machine (Black & Orange)",
+    "model": "SA85DBHG",
+    "brand": "Intex",
+    "overview": "The SA85DBHG 8.5 KG Semi-Automatic Washing Machine combines power, efficiency, and durability to make laundry effortless. Designed with an anti-corrosive rust-free body, it ensures long-lasting performance. The Roller Jet with Mini Pulsator and Dual Waterfall Technology provide deep cleaning, while the powerful motor delivers high-speed washing with minimal noise. With 3 wash programs, a Magic Filter for lint-free clothes, and a Hydraulic Wash Lid for easy handling, this washing machine is built for convenience. The Water Level Adjuster optimizes usage, and the Buzzer Alert notifies you when the cycle is complete. A perfect choice for modern households.",
+    "features": [
+      "8.5 kg Large Capacity – Ideal for medium to large families",
+      "Anti-Corrosive Rust-Free Body for long-lasting durability",
+      "3 Wash Programs for customized cleaning",
+      "Roller Jet with Mini Pulsator for deep stain removal",
+      "Dual Waterfall Technology for better detergent dissolution",
+      "Powerful Motor with TOP Technology for efficient washing",
+      "Noise-Free Spinning for faster drying with minimal sound",
+      "Magic Filter to capture lint and debris",
+      "Hydraulic Wash Lid for smooth and easy operation",
+      "Water Level Adjuster for optimized water usage",
+      "Buzzer Alert to notify when the wash cycle is complete",
+      "900 RPM Spin Speed for quick drying",
+      "5 Years Warranty on Wash Motor for peace of mind",
+      "2 Years Warranty on Product for reliable performance"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/SA85DBHG--8.5-KG.jpg",
+        "alt": "SA85DBHG | 8.5 KG Semi-Automatic Washing Machine (Black & Orange)",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "8.5 kg Large Capacity – Ideal for medium to large families",
+        "Feature 2": "Anti-Corrosive Rust-Free Body for long-lasting durability",
+        "Feature 3": "3 Wash Programs for customized cleaning",
+        "Feature 4": "Roller Jet with Mini Pulsator for deep stain removal",
+        "Feature 5": "Dual Waterfall Technology for better detergent dissolution",
+        "Feature 6": "Powerful Motor with TOP Technology for efficient washing",
+        "Feature 7": "Noise-Free Spinning for faster drying with minimal sound",
+        "Feature 8": "Magic Filter to capture lint and debris",
+        "Feature 9": "Hydraulic Wash Lid for smooth and easy operation",
+        "Feature 10": "Water Level Adjuster for optimized water usage",
+        "Feature 11": "Buzzer Alert to notify when the wash cycle is complete",
+        "Feature 12": "900 RPM Spin Speed for quick drying",
+        "Feature 13": "5 Years Warranty on Wash Motor for peace of mind",
+        "Feature 14": "2 Years Warranty on Product for reliable performance"
+      },
+      "General": {
+        "Model": "SA85DBHG"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/sa85dbhg-semi-automatic-washing-machine"
+  }
+}

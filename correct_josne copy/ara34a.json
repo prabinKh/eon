@@ -1,0 +1,111 @@
+{
+  "hierarchy": {
+    "category": "Alarms",
+    "category_url": "https://www.dahuasecurity.com/products/alarms",
+    "subcategory": "Wireless Alarm",
+    "subcategory_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm",
+    "series": "Accessories",
+    "series_url": "https://www.dahuasecurity.com/my/products/alarms/wireless-alarm/accessories",
+    "tab_title": "Accessories",
+    "tab_id": "971",
+    "breadcrumbs": [
+      "Alarms",
+      "Wireless Alarm",
+      "Accessories",
+      "Accessories"
+    ]
+  },
+  "card_info": {
+    "product_id": "139597",
+    "product_name": "ARA34A",
+    "product_title": "Detector Bracket",
+    "product_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara34a",
+    "card_image": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10760/ProductImage/1_0_01_19_10760_304753034_thumb.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "alarms/products/ara34a.html",
+  "detail": {
+    "title": "Detector Bracket",
+    "model": "ARA34A",
+    "brand": "Dahua",
+    "overview": "Compare Favourite ARA34A Detector Bracket Key Points · Suitable for PIR-Camera installation · Supports wall mount and ceiling mount · Supports adjusting the horizontal and vertical angles of the device Sales Enquiry Datasheet",
+    "features": [],
+    "gallery_images": [
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10760/ProductImage/1_0_01_19_10760_304753034_thumb.png",
+        "alt": "ARA34A_View_45Left-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10760/ProductImage/1_0_01_19_10760_304753035_thumb.png",
+        "alt": "ARA34A_View_45Right-ge.png",
+        "type": "swiper_gallery"
+      },
+      {
+        "url": "https://material.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/formal/Product/HQ/1_0_01_19_10760/ProductImage/1_0_01_19_10760_304753036_thumb.png",
+        "alt": "ARA34A_View_Front-ge.png",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 183,
+    "specifications": {
+      "General": {
+        "Operating Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Operating Humidity": "10%–90% (RH)",
+        "Product Dimensions": "φ70.0 mm × 55.1 mm (φ2.76\" × 2.17\")",
+        "Net Weight": "45 g (0.10 lb)",
+        "Gross Weight": "129 g (0.28 lb)",
+        "Installation": "Wall mount; ceiling mount",
+        "Rotation Angle": "Wall mount: Horizontal: ±90°, vertical: ±50° Ceiling mount: Horizontal: ±180°, vertical: ±90°",
+        "Material": "PC and aluminum alloy",
+        "Applicable Model": "ARD1731 series",
+        "Anti-corrosion Level": "Basic protection",
+        "Storage Temperature": "–10 °C to +55 °C (+14 °F to +131 °F)",
+        "Packaging Dimensions": "127 mm × 88 mm × 79 mm (5.00\" × 3.46\" × 3.11\")"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Assets & Documentation",
+        "url": "https://www.dahuasecurity.com/products/software/software-downloads"
+      },
+      {
+        "name": "Download Center",
+        "url": "https://www.dahuasecurity.com/download-center"
+      },
+      {
+        "name": "Download",
+        "url": "https://www.dahuasecurity.com"
+      },
+      {
+        "name": "Datasheet",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/prm-os-srv-res/smart/datasheetzipfiles/ARA34A_datasheet_20230407.pdf"
+      },
+      {
+        "name": "2023-02-14 #User Manual Dahua PIR_Camera_Quick Start Guide_V1.0.0 Download",
+        "url": "https://material.dahuasecurity.com/uploads/cpq/DOR/PUM0007338/Dahua_PIR_Camera_Quick_Start_Guide_V1.0.0.pdf"
+      },
+      {
+        "name": "2023-02-14 #Drawings ARA34A_INSTALLATION_PROCEDURE Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78707/drawings/ARA34A_INSTALLATION_PROCEDURE.pdf"
+      },
+      {
+        "name": "2023-02-14 #Drawings ARA34A_DIMENSIONS Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78707/drawings/ARA34A_DIMENSIONS.pdf"
+      },
+      {
+        "name": "2023-02-14 #Drawings ARA34A_INSTALLATION_METHOD_EN Download",
+        "url": "https://materialfile.dahuasecurity.com/uploads/cpq/78707/drawings/ARA34A_INSTALLATION_METHOD_EN.pdf"
+      },
+      {
+        "name": "Download",
+        "url": "https://app.dahuasecurity.com/download.html"
+      }
+    ],
+    "source_url": "https://www.dahuasecurity.com/products/alarms/wireless-alarm/accessories/ara34a"
+  }
+}

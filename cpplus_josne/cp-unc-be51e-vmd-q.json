@@ -1,0 +1,139 @@
+{
+  "hierarchy": {
+    "category": "5 MP",
+    "category_url": "https://cpplusworld.com/products/5-mp",
+    "subcategory": "Network Camera",
+    "subcategory_url": "https://cpplusworld.com/products/network-camera/5-mp",
+    "series": "Vedaan",
+    "series_url": "https://cpplusworld.com/products",
+    "tab_title": "Network Camera",
+    "tab_id": "36",
+    "breadcrumbs": [
+      "CP Plus Products",
+      "Network Camera",
+      "5 MP",
+      "CP-UNC-BE51E-VMD-Q"
+    ]
+  },
+  "card_info": {
+    "product_id": "1979",
+    "product_name": "CP-UNC-BE51E-VMD-Q",
+    "product_title": "CP-UNC-BE51E-VMD-Q",
+    "product_url": "https://cpplusworld.com/cp-unc-be51e-vmd-q",
+    "card_image": "https://cpplusworld.com/prodassets/product/small/4455a605-a601-43b8-993b-25dd47bb8f42.png",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": false,
+    "is_ai": false
+  },
+  "html_file": "cpplus/products/cp-unc-be51e-vmd-q.html",
+  "detail": {
+    "title": "CP-UNC-BE51E-VMD-Q",
+    "model": "CP-UNC-BE51E-VMD-Q",
+    "brand": "CP Plus",
+    "overview": "5MP Network Box Camera",
+    "features": [
+      "1/2.7\" 5MP PS CMOS Image Sensor (0.9407 Centimeters)",
+      "Max. 5MP (2960 × 1668)@1–25/30 fps",
+      "C/CS Mount Lens",
+      "Instastream, H.265, H.264, H.264B, H.264H, MJPEG",
+      "Support Quad Stream",
+      "WDR (120 dB), Day/Night (ICR), 3D NR, ROI, Defog, AWB, AGC, BLC, HLC",
+      "Support Built-in Mic",
+      "Support Micro SD Card, PoE",
+      "Mobile Software: iCMOB, gCMOB",
+      "CMS Software: KVMS Pro Lite"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/4455a605-a601-43b8-993b-25dd47bb8f42.png",
+        "alt": "CP-UNC-BE51E-VMD-Q - Primary View",
+        "type": "primary"
+      },
+      {
+        "url": "https://cpplusworld.com/prodassets/product/small/46e20822-7b09-4991-88fc-34ff084e561e.jpg",
+        "alt": "CP-UNC-BE51E-VMD-Q - Primary View",
+        "type": "primary"
+      }
+    ],
+    "all_images_count": 2,
+    "specifications": {
+      "General": {
+        "Image Sensor": "1/2.7\" 5MP PS CMOS Image Sensor (0.9407 Centimeters)",
+        "Minimum Illumination": "0.001 lux@F1.4 (Color, 30 IRE), 0.0001 lux@F1.4 (B/W, 30 IRE), 0 lux (IR on)",
+        "Effective Pixels": "2960 (H) × 1668 (V)",
+        "Shutter Speed": "Auto/Manual, 1/3 s–1/100000 s",
+        "White Balance": "Auto/ Natural/ Street Lamp/ Outdoor/ Manual",
+        "RAM": "512 MB",
+        "ROM": "128 MB",
+        "Gain Control (AGC)": "Auto",
+        "Lens Mount": "C/CS",
+        "Max. Aperture": "F1.4",
+        "Video Compression": "Instastream, H.265, H.264, H.264B, H.264H, MJPEG (only supported by sub stream)",
+        "S/N Ratio": ">56dB",
+        "Back Light Compensation": "BLC/HLC/WDR (120 dB)",
+        "Resolution": "5MP (2960 × 1668), 5MP (2880 × 1620), 4MP (2688 × 1520), 3.6MP (2560 × 1440), 3MP (2048  × 1536), 3MP (2304 × 1296), 1080p (1920 × 1080), 1.3MP (1280 × 960), 720p (1280 × 720), D1  (704 × 576/704 × 480), VGA (640 × 480); CIF (352 × 288/352 × 240)",
+        "Stream Capability": "Quad Stream",
+        "Frame Rate": "Main stream: 5MP (2960 × 1668)@1–25/30 fps, 1080p (1920 × 1080)@50/60 fps Sub stream 1: D1 (704 × 576/704 × 480)@1–25/30 fps Sub stream 2: 720p (1280 × 720)@1–25/30 fps Sub stream 3: D1 (704 × 576/704 × 480)@1fps *The values above are the max. frame rates of each stream, for multiple streams, the values will be subjected to the total encoding capacity",
+        "Noise Reduction": "3D NR",
+        "Motion Detection": "Off/On (4 Zone, Rectangle)",
+        "Privacy Mask": "Off/On (4 Area)",
+        "Image Stabilization": "Electronic Image Stabilization (EIS)",
+        "ROI": "Off/On (4 Zone)",
+        "Audio": "Built-in Mic",
+        "Overlay": "Privacy Masking, Channel Title, Time Title, Location, Custom Title, Face Statistics",
+        "Day/Night": "Auto(ICR)/Color/B/W",
+        "Bit Rate Control": "CBR/VBR",
+        "Bit Rate": "H.265: 3 kbps–6144 kbps, H.264: 3 kbps–6144 kbps",
+        "Audio Input": "1 Channel",
+        "Audio Output": "1 Channel",
+        "Alarm IN": "2 Channels in: wet contact, 5 mA 3–5 VDC",
+        "Alarm Out": "2 Channels out: dry contact, 1,000 mA 30 VDC/500 mA 50 VAC",
+        "Audio Compression": "PCM, G.711a, G.711Mu, G.726, AAC",
+        "Protocol": "IPv4, IPv6, HTTP, HTTPS, TCP, UDP, RTP, RTSP, RTCP, RTMP, SMTP V3, SFTP, DHCP, DNS, QoS, UPnP, NTP, Multicast, ICMP, IGMP, NAS, PPPoE, SNMP, Auto Connect, TLS v1.2 and v1.3, InstaOn",
+        "Device Search Tool": "IP finder",
+        "OTA (Over-The-Air)": "Support",
+        "IVS (Perimeter Protection)": "Intrusion, Tripwire, Abandon Object, Crowd gathering, Missing Object, Loitering Detection, IMD (support the classification and accurate detection of vehicle and human)",
+        "People Counting": "Tripwire people counting, Generating and exporting report (Day/Week/Month/year), People counting in area and queue management, Generating and exporting report (Day/Week/ Month), 4 rules can be set for tripwire, people counting in area and queue management.",
+        "SDK and API": "Support",
+        "Face Detection": "Face detection, Target Box Overlay, Remove Duplicate Faces, Face Cutout (Face/ One Inch Photo/ Custom), Snapshot Mode (Real- Time/ Optimized/ Quality Priority), Optimal face snapshot upload, Face attributes extraction including 6 attributes and 8 expressions, Snapshot strategies (real-time snapshot, quality priority and optimization snapshot), Face angle filter, Optimized Duration, Quality Threshold, Snapshot Sensitivity",
+        "Ethernet": "RJ-45 (10/100 Base-T)",
+        "Alarm Event": "No SD card, SD card full, SD card error, Network disconnection, IP conflict, Motion detection, Video tampering, Tripwire, Intrusion, Abandoned object, Missing object, Loitering detection, Crowd gathering, Scene changing, Audio detection, Voltage detection, External alarm, Face detection, IMD, People counting in area, Stay detection, People counting, Abnormal Number of People, Queue people number alarm, Queue time alarm, Security exception, Defocus detection",
+        "Cyber Security": "AES 256-bit Encryption, Configuration encryption, Trusted execution, Digest, Security logs, WSSE, Account lockout, Syslog, Video encryption, 802.1x, Allow list/Block list, HTTPS, Trusted upgrade, Trusted boot, Firmware encryption",
+        "User/Host": "20 (Total bandwidth: 80 M)",
+        "Mirror Function": "Off/On",
+        "Browser": "Microsoft Edge, Chrome and Firefox",
+        "Power Out": "12 VDC power output, max. current 165 mA,  peak current 700 mA",
+        "Storage": "SFTP, NAS, Mirco SD card (Max. 512 GB)",
+        "Flip": "0°/90°/180°/270°",
+        "Defog": "Support",
+        "Reset Button": "Support",
+        "Certificates": "ISO 9001: 2015, ISO 20000-1 : 2018, CE, FCC and RoHS, BIS, STQC approved compliance report",
+        "Power Source": "DC 12V (±30%), AC 24V (±30%), PoE (802.3af)",
+        "Power Consumption": "<10W",
+        "Operating Temperature": "-30°C to +60°C",
+        "Operating Humidity": "≤95% RH, Non condensing",
+        "Storage Temperature": "-40°C to +60°C",
+        "Casing": "Metal",
+        "Dimension": "161.6mm × 86.8mm × 74.0mm",
+        "Weight": "800g"
+      }
+    },
+    "downloads": [
+      {
+        "name": "Datasheet",
+        "url": "https://cpplusworld.com/prodassets/datasheet/CP-UNC-BE51E-VMD-Q.pdf"
+      },
+      {
+        "name": "User Manual",
+        "url": "https://cpplusworld.com/prodassets/usermannual/aadb037e-3882-423b-b2e5-0be6e496863f.pdf"
+      },
+      {
+        "name": "CP Plus Support & Downloads",
+        "url": "https://cpplusworld.com/support"
+      }
+    ],
+    "source_url": "https://cpplusworld.com/cp-unc-be51e-vmd-q"
+  }
+}

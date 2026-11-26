@@ -1,0 +1,96 @@
+{
+  "hierarchy": {
+    "category": "IT Accessories",
+    "category_url": "https://www.intex.in/collections/it-accessories",
+    "subcategory": "USB Adapter",
+    "subcategory_url": "https://www.intex.in/collections/usb-adapter",
+    "series": "Wireless USB Adapter",
+    "series_url": "https://www.intex.in/collections/wireless-usb-adapter",
+    "tab_title": "USB Adapter",
+    "tab_id": "8981213905114",
+    "breadcrumbs": [
+      "Home",
+      "IT Accessories",
+      "USB Adapter",
+      "Intex Dual Band Wireless 2.4 Ghz Adapter - INT WIAD 650"
+    ]
+  },
+  "card_info": {
+    "product_id": "8981213905114",
+    "product_name": "Intex Dual Band Wireless 2.4 Ghz Adapter - INT WIAD 650",
+    "product_title": "Intex Dual Band Wireless 2.4 Ghz Adapter - INT WIAD 650",
+    "product_url": "https://www.intex.in/products/intex-dual-band-wireless-2-4-ghz-adapter",
+    "card_image": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Int-WiAd-650.jpg",
+    "card_class": "product-item animation1",
+    "info_box_class": "product-item-info-box",
+    "is_new": false,
+    "is_eol": true,
+    "is_ai": false,
+    "price": {
+      "currency": "INR",
+      "symbol": "₹",
+      "amount": 1499.0,
+      "display": "₹1,499.00",
+      "original_price": null,
+      "original_display": null,
+      "discount_percentage": null
+    }
+  },
+  "html_file": "intex/products/intex-dual-band-wireless-2-4-ghz-adapter.html",
+  "detail": {
+    "title": "Intex Dual Band Wireless 2.4 Ghz Adapter - INT WIAD 650",
+    "model": "2-4",
+    "brand": "Intex",
+    "overview": "Experience faster and more stable internet connectivity with this advanced Dual Band USB Wi-Fi Adapter. Supporting both 2.4 GHz and 5 GHz bands, this device offers combined wireless speeds of up to 150 Mbps + 433 Mbps . With built-in Bluetooth 4.2 and DVR support, it's ideal for streaming, browsing, gaming, and surveillance setups. Compact, powerful, and plug-and-play compatible.",
+    "features": [
+      "Dual Band Wi-Fi – 2.4 GHz (150 Mbps) + 5 GHz (433 Mbps)",
+      "USB Adapter with 802.11 b/g/n Support",
+      "Built-in Bluetooth 4.2",
+      "Stable Wireless Data Transmission",
+      "DVR Supported Wi-Fi Adapter – Ideal for security systems",
+      "Advanced Security – WPA/WPA2 encryption",
+      "Plug & Play Installation"
+    ],
+    "gallery_images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Int-WiAd-650.jpg",
+        "alt": "Intex Dual Band Wireless 2.4 Ghz Adapter - INT WIAD 650",
+        "type": "swiper_gallery"
+      }
+    ],
+    "all_images_count": 1,
+    "specifications": {
+      "Key Features": {
+        "Feature 1": "Dual Band Wi-Fi – 2.4 GHz (150 Mbps) + 5 GHz (433 Mbps)",
+        "Feature 2": "USB Adapter with 802.11 b/g/n Support",
+        "Feature 3": "Built-in Bluetooth 4.2",
+        "Feature 4": "Stable Wireless Data Transmission",
+        "Feature 5": "DVR Supported Wi-Fi Adapter – Ideal for security systems",
+        "Feature 6": "Advanced Security – WPA/WPA2 encryption",
+        "Feature 7": "Plug & Play Installation"
+      },
+      "General": {
+        "Model": "2-4"
+      }
+    },
+    "downloads": [
+      {
+        "name": "E-Waste Management",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/Intex_Technologies_India_Pvt_Ltd_-_Re_Chakra_4_2.pdf"
+      },
+      {
+        "name": "Cooler Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_Cooler_Catalogue_September_2026.pdf"
+      },
+      {
+        "name": "CD Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_CD_Brochure_September_2026.pdf"
+      },
+      {
+        "name": "IT Accessories Brochure",
+        "url": "https://cdn.shopify.com/s/files/1/0608/4988/1306/files/INTEX_IT_Accessories_Brochure_September_2026.pdf"
+      }
+    ],
+    "source_url": "https://www.intex.in/products/intex-dual-band-wireless-2-4-ghz-adapter"
+  }
+}
